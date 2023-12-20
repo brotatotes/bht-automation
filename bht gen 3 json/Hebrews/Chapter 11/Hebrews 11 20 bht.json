@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:50:13",
+    "verseRef": "Hebrews 11:20",
+    "bestBHT": {
+        "bht": "By faith, Isaac blessed Jacob and Esau concerning not only things present but also things future. Isaac's confidence in the power of his blessing to convey the promised good was the assurance of things hoped for, the conviction of things not seen. Jacob, who was named before Esau as the more significant in the theocratic sense, received the greater portion of the spiritual blessing. Isaac's act of faith in assigning future blessings to his sons demonstrated his trust in God's promise and controlled their future destinies.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.5852858045529477,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.3,
+        "commentatorTierSimilarities": [
+            43.43,
+            25.87,
+            30.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith Isaac blessed Jacob and Esau even concerning things future.",
+            "Blessed them concerning not only things present, but things future.",
+            "Jacob is named before Esau, as the worthier and more important in the theocratic sense; perhaps also as having gained the greater portion of the blessing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jacob is put before Esau, as heir of the chief, namely, the spiritual blessing.",
+            "Isaac, by faith, assigned to his sons things future, as if they were present.",
+            "Not only concerning things present."
+        ],
+        "Albert Barnes": [
+            "The act of faith here was simply what believes that all that God says is true.",
+            "There were no human probabilities at the time when these prophetic announcements were made, which could have been the basis of his calculation.",
+            "A blessing was pronounced on each, of a very different nature, but Isaac had no doubt that both would be fulfilled."
+        ],
+        "Marvin Vincent": [
+            "The blessing was an act of faith.",
+            "Isaac's confidence in the power of his blessing to convey the good which it promised was 'the assurance of things hoped for, the conviction of things not seen.'",
+            "The blessing was an act of faith, founded on the promise of Genesis 17:5."
+        ],
+        "John Calvin": [
+            "For when the thing itself does not exist and the word only appears, faith must necessarily bear rule.",
+            "And yet he had nothing in that land but the right of burial...we hence see that this blessing depended on faith; for Isaac had nothing which he could have bestowed on his children but the word of God.",
+            "Faith mainly shone forth, when he distinguished between the two twins born to him, so that he gave the first place to the younger; for following the oracle of God, he took away from the firstborn the ordinary right of nature."
+        ],
+        "Philip Schaff": [
+            "Nor is faith restricted to trial; it realizes blessing also.",
+            "The blessing and the prayer of faith, proceeding as they do from a mind instructed by the Divine mind, and from a will in harmony with the Divine will, bind even God, and control the future destinies of him on whose behalf they are offered.",
+            "Faith...controls the future destinies."
+        ],
+        "Archibald T. Robertson": [
+            "Even concerning things to come (\u03ba\u03b1 \u03c0\u03b5\u03c1 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03c9\u03bd). As told in Ge Hebrews 27:28-40 when Isaac blessed Jacob and Esau. "
+        ],
+        "John Gill": [
+            "Jacob's blessing was plenty of temporal things, and under which may be signified the dews of divine grace, the fatness of God's house, the bread of life, and wine of divine love, which true Israelites partake of; also dominion over his brother, and government over nations, which had their accomplishment in his posterity; and may be expressive of the spiritual reign of the saints, and their dominion, by grace.",
+            "Esau's blessings were merely temporal ones, and respected things future, which were fulfilled in his posterity.",
+            "Isaac might do it in faith, believing that the person he blessed would be blessed, though he was mistaken in him."
+        ],
+        "John Wesley": [
+            "Blessed \u2014 Genesis 27:27,39; prophetically foretold the particular blessings they should partake of.",
+            "Jacob and Esau \u2014 Preferring the elder before the younger."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Isaac blessed Jacob and Esau concerning not only present things but also future things. Despite Jacob being named before Esau, it was a theocratic sense of importance and inheritance. Isaac's confidence in the power of his blessing was an act of faith, rooted in the promise of God. Isaac's act of faith controlled the future destinies of his sons. This act of faith shows how faith can believe in what does not yet exist and rely solely on the word of God. Jacob's blessing encompassed spiritual and temporal blessings, symbolizing divine grace and dominion, while Esau's blessings were purely temporal and future-oriented. It was through faith that Isaac distinguished between the two, giving the greater blessing to the younger.",
+            "wordCount": 126,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.4185423829500454,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                39.74,
+                27.4,
+                32.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Isaac blessed Jacob and Esau concerning not only present things but also future things. Isaac's act of faith controlled the future destinies of his sons. This act of faith shows how faith can believe in what does not yet exist and rely solely on the word of God. Jacob's blessing encompassed spiritual and temporal blessings, symbolizing divine grace and dominion, while Esau's blessings were purely temporal and future-oriented. It was through faith that Isaac distinguished between the two, giving the greater blessing to the younger.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.4377913149461383,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.4,
+            "commentatorTierSimilarities": [
+                38.46,
+                28.37,
+                33.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Isaac blessed Jacob and Esau even concerning things future. Jacob is named before Esau, as the worthier and more important in the theocratic sense, as the heir of the spiritual blessing. The blessing was an act of faith, founded on the promise of God. Isaac's confidence in the power of his blessing was the assurance of things hoped for, the conviction of things not seen. This act of faith controlled the future destinies of his sons, ultimately determining their blessings and positions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.5353434028643766,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.64,
+            "commentatorTierSimilarities": [
+                41.53,
+                27.86,
+                30.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, Isaac, with confidence in the power of his blessing, assigned to his sons things future as if they were present. He blessed Jacob and Esau, putting Jacob before Esau as the heir of the spiritual blessing. Isaac's act of faith controlled the future destinies of his sons, determining their blessings. Jacob's blessing encompassed both spiritual and temporal rewards, while Esau's blessings were purely temporal and future-oriented. Isaac's faith in the promises of God guided his choices and shaped the futures of his descendants.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.509139176940808,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.77,
+            "commentatorTierSimilarities": [
+                41.0,
+                25.95,
+                33.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Isaac blessed Jacob and Esau concerning not only things present but also things future. Isaac's confidence in the power of his blessing to convey the promised good was the assurance of things hoped for, the conviction of things not seen. Jacob, who was named before Esau as the more significant in the theocratic sense, received the greater portion of the spiritual blessing. Isaac's act of faith in assigning future blessings to his sons demonstrated his trust in God's promise and controlled their future destinies.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.5852858045529477,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.3,
+            "commentatorTierSimilarities": [
+                43.43,
+                25.87,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

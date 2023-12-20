@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:55",
+    "verseRef": "Hebrews 8:2",
+    "bestBHT": {
+        "bht": "Through His glorified body as the tabernacle, Christ enters the heavenly Holy of Holies, interceding for us. This genuine tabernacle in heaven is the ideal counterpart to the earthly tabernacle. Our Great High Priest, the Lord Jesus, has entered the true tabernacle in heaven. By His sacrifice, the veil is removed, granting us free access to God. With our thoughts raised to the kingdom of God, we see Christ as the minister who mediates in His various offices, presenting our sacrifices and bestowing His gifts upon us.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.126611428395875,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+        "commentatorTierSimilarities": [
+            30.74,
+            39.33,
+            29.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The measure of alethes is reality; that of alethinos, ideality.",
+            "Through His glorified body as the tabernacle, Christ passes into the heavenly 'Holy of Holies,' the immediate immaterial presence of God, where He intercedes for us.",
+            "This tabernacle in which God dwells, is where God in Christ meets us who are 'members of His body, of His flesh, and of His bones.'"
+        ],
+        "Albert Barnes": [
+            "The Lord Jesus the Great High Priest, has entered into the Holy of Holies in heaven, of which that in the tabernacle was an emblem.",
+            "The 'real' tabernacle in heaven, of which that among the Hebrews was but the type.",
+            "Heaven has been prepared by God himself, and that whatever is necessary to constitute that an appropriate abode for the divine majesty has been done by him."
+        ],
+        "Marvin Vincent": [
+            "A minister, sitting down as a minister, from an old adjective leitov or leitov, belonging to the people, and ergon work.",
+            "Leitourgia in LXX rarely of the service of the priests, often of the Levites.",
+            "The true tabernacle, the genuine one, as compared with the tabernacle in the wilderness."
+        ],
+        "John Calvin": [
+            "The old tabernacle was not the empty inventions of man, but the effigy of the heavenly tabernacle... the Apostle denies it to have been the true tabernacle, as though he had said, that it was only a shadow.\" ",
+            "Whatever of an earthly kind appears at first sight to be in Christ, it is to be viewed spiritually by the eye of faith... When therefore we speak of Christ, let us learn to raise up all our thoughts to the kingdom of God, so that no doubt may remain in us.",
+            "Redemption was truly a divine work, attained by the death of Christ; and in this the power of Christ manifested itself in a wonderful manner."
+        ],
+        "Philip Schaff": [
+            "Jesus Christ mediates for us in both in the holy of holies of the Divine nature, while He welcomes and overshadows with His glorified humanity the whole company of the worshippers.",
+            "The veil having been removed by His incarnation and death, we all have free access to God. The Father Himself loveth us and gives us the right of entrance.",
+            "The same form (the neuter pl.), 'the holies,' is clearly used of 'the holy of holies' in Hebrews 9:8; Hebrews 9:12."
+        ],
+        "Archibald T. Robertson": [
+            "Of the true tabernacle... the ideal tabernacle in heaven of which the earthly tabernacle was a symbol...\" (27 words)",
+            "Hence it is the 'genuine' tabernacle...\" (9 words)",
+            "Pitched... the pegs of a tent...\" (7 words)"
+        ],
+        "John Gill": [
+            "To these Christ is a minister; he was so in his prophetic office, to the lost sheep of the house of Israel; and in his priestly office, to all the chosen ones...and in his kingly office, governing, protecting, and defending them.",
+            "To his people, such as the gifts of his Spirit, grace, and all supplies of it, and at last glory; and for them, presenting their sacrifices of prayer and praise to God, which become acceptable to him through his powerful mediation.",
+            "Though in the days of his flesh he looked very mean and despicable, yet was full of grace and truth, and of all the gifts of the Spirit."
+        ],
+        "John Wesley": [
+            "A minister \u2014 Who represents his own sacrifice, as the high priest did the blood of those sacrifices once a year.",
+            "Of the sanctuary \u2014 Heaven, typified by the holy of holies.",
+            "Which the Lord hath fixed \u2014 Forever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through His glorified body as the tabernacle, Christ passes into the heavenly Holy of Holies, the immediate immaterial presence of God, where He intercedes for us. This tabernacle in which God dwells is where God in Christ meets us who are members of His body, of His flesh, and of His bones. It is the genuine and ideal tabernacle in heaven of which the earthly tabernacle was merely a symbol. The Lord Jesus, our Great High Priest, has entered into the true tabernacle in heaven, of which the one among the Hebrews was but a type. The same form, the holies, is clearly used of the holy of holies in another verse. Through Christ, the veil has been removed, granting us free access to God. Let us learn to raise up all our thoughts to the kingdom of God when we speak of Christ, so that no doubt remains in us. Christ is a minister to His people, mediating for them in His prophetical, priestly, and kingly offices, presenting their sacrifices of prayer and praise, and bestowing upon them the gifts of His Spirit.",
+            "wordCount": 184,
+            "quoteTokenProportion": 38.83,
+            "qualityScore": 2.128107051798592,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+            "commentatorTierSimilarities": [
+                30.5,
+                39.51,
+                29.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His glorified body as the tabernacle, Christ passes into the heavenly Holy of Holies, the immediate presence of God, where He intercedes for us. This tabernacle in which God dwells is where God in Christ meets us who are members of His body. It is the genuine and ideal tabernacle in heaven where the Lord Jesus, our Great High Priest, has entered. Through Christ, the veil has been removed, granting us free access to God. Let us raise our thoughts to the kingdom of God when we speak of Christ, no doubt should remain. Christ is a minister to His people, mediating for them in His prophetical, priestly, and kingly offices, presenting their sacrifices of prayer and praise, and bestowing upon them the gifts of His Spirit.",
+            "wordCount": 128,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.074133314316853,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                30.43,
+                38.41,
+                31.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through His glorified body, Christ enters the heavenly Holy of Holies, interceding for us. This tabernacle is where God meets us, who are members of His body. It is the genuine tabernacle in heaven, compared to the earthly one. The Lord Jesus, our Great High Priest, has entered the true tabernacle in heaven. Through Christ, the veil is removed, granting us free access to God. Let us raise our thoughts to the kingdom of God, knowing that Christ ministers to His people, mediating in His various offices, presenting their sacrifices, and bestowing His gifts.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.1260832356088457,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                31.85,
+                39.42,
+                28.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through His glorified body, Christ passes into the heavenly Holy of Holies, where He intercedes for us. This tabernacle is the genuine and ideal one in heaven, compared to the earthly symbol. The Lord Jesus, our Great High Priest, has entered the true tabernacle in heaven. Through Christ, the veil is removed, granting us free access to God. Let us raise our thoughts to the kingdom of God, understanding that Christ ministers to His people, mediating in His various offices, presenting their sacrifices, and bestowing His gifts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0978080268910446,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                29.62,
+                39.86,
+                30.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through His glorified body as the tabernacle, Christ enters the heavenly Holy of Holies, interceding for us. This genuine tabernacle in heaven is the ideal counterpart to the earthly tabernacle. Our Great High Priest, the Lord Jesus, has entered the true tabernacle in heaven. By His sacrifice, the veil is removed, granting us free access to God. With our thoughts raised to the kingdom of God, we see Christ as the minister who mediates in His various offices, presenting our sacrifices and bestowing His gifts upon us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.126611428395875,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                30.74,
+                39.33,
+                29.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

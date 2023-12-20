@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 17:49:18",
+    "verseRef": "Hebrews 10:6",
+    "bestBHT": {
+        "bht": "God expressed no pleasure in the animal offerings, the meal offerings, the burnt offerings, or the sin offerings of the Old Testament. Although these offerings were acts of obedience, they lacked the inherent ability to serve as atonement for sin. They were not capable of fulfilling God's purpose as Christ's sacrifice did through His obedience unto death. These offerings were only pleasing to God insofar as they symbolized and had regard for the sacrifice of His Son.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.4196796999790635,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.79,
+        "commentatorTierSimilarities": [
+            35.34,
+            29.24,
+            35.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "burnt offerings\u2014Greek, 'whole burnt offerings.'",
+            "thou hast had no pleasure\u2014as if these could in themselves atone for sin",
+            "God had pleasure in (Greek, 'approved,' or 'was well pleased with') them, in so far as they were an act of obedience to His positive command under the Old Testament, but not as having an intrinsic efficacy such as Christ's sacrifice had."
+        ],
+        "Albert Barnes": [
+            "The idea is, that God had no pleasure in them as compared with obedience.",
+            "He preferred the latter, and they could not be made to come in the place of it, or to answer the same purpose.",
+            "Such offerings would not answer the end for which he was sent into the world, for that end was to be accomplished only by his being 'obedient unto death.'"
+        ],
+        "Marvin Vincent": [
+            "Burnt offerings and sacrifices for sin [\u03bf\u03bb\u03bf\u03ba\u03b1\u03c5\u03c4\u03c9\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03c2] . The burnt - offering and the sin - offering."
+        ],
+        "Archibald T. Robertson": [
+            "Thou hadst no pleasure... in the animal offering, the meal-offering, the burnt-offering, the sin-offering.",
+            "God took no pleasure in the animal offering, the meal-offering, the burnt-offering, the sin-offering.",
+            "God's good pleasure... not in the animal offering, the meal-offering, the burnt-offering, the sin-offering."
+        ],
+        "John Gill": [
+            "Not only in comparison of moral duties, or spiritual sacrifices, such as those of praise and thanksgiving.\" ",
+            "For these could not satisfy his justice, appease his anger, or expiate sin.",
+            "They were no otherwise well pleasing to God, than as they were types of, and had respect unto the sacrifice of his Son."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God did not find pleasure in the animal offerings, the meal offerings, the burnt offerings, or the sin offerings of the Old Testament. These offerings, while acts of obedience to God's command, were not sufficient to atone for sin. They lacked the intrinsic efficacy that Christ's sacrifice had. God's pleasure was not in these offerings, but in the obedience they represented. They could not take the place of Christ's obedience unto death, which was the only way to fulfill God's purpose. These offerings were only pleasing to God insofar as they symbolized and pointed to the sacrifice of His Son.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.3602133242753838,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.82,
+            "commentatorTierSimilarities": [
+                34.6,
+                31.92,
+                33.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God did not find pleasure in the animal offerings, the meal offerings, the burnt offerings, or the sin offerings of the Old Testament. These offerings, while acts of obedience to God's command, lacked intrinsic efficacy to atone for sin. They couldn't fulfill God's purpose like Christ's sacrifice did through His obedience unto death. These offerings were only pleasing to God insofar as they symbolized and pointed to the sacrifice of His Son.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.4098809717275915,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.47,
+            "commentatorTierSimilarities": [
+                36.01,
+                29.48,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God expressed no pleasure in the animal offerings, the meal offerings, the burnt offerings, or the sin offerings of the Old Testament. Although these offerings were acts of obedience, they lacked the inherent ability to serve as atonement for sin. They were not capable of fulfilling God's purpose as Christ's sacrifice did through His obedience unto death. These offerings were only pleasing to God insofar as they symbolized and had regard for the sacrifice of His Son.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.4196796999790635,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.79,
+            "commentatorTierSimilarities": [
+                35.34,
+                29.24,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God did not find pleasure in the animal offerings\u2014specifically, the whole burnt offerings, the meal offerings, the burnt offerings, or the sin offerings\u2014of the Old Testament. These offerings, though obedient acts, were unable to atone for sin on their own. God's approval of them was limited to their representation of obedience to His commands, but their efficacy paled in comparison to the sacrifice of Christ. It was only in their connection to His ultimate sacrifice that these offerings found favor in God's sight.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.31225793668471,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+            "commentatorTierSimilarities": [
+                36.66,
+                29.63,
+                33.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God did not derive pleasure from the animal offerings, including the whole burnt offerings, meal offerings, burnt offerings, and sin offerings of the Old Testament. These offerings, while acts of obedience, lacked the ability to serve as sufficient atonement for sin. Although God approved of them for their obedience to His commands, they could not compare to the intrinsic efficacy of Christ's sacrifice. These offerings found favor only as they symbolized and referred to the ultimate sacrifice of God's Son.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.312806618572996,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.24,
+            "commentatorTierSimilarities": [
+                37.38,
+                28.14,
+                34.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

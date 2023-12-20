@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:10",
+    "verseRef": "Hebrews 1:6",
+    "bestBHT": {
+        "bht": "The Son, known as the first-begotten, is exalted above all angels and humans, being the only allowable one to be the second coming of our Lord to judgment. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.2095058369457723,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+        "commentatorTierSimilarities": [
+            31.85,
+            33.41,
+            34.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The only allowable one to be, the second coming of our Lord to judgment.",
+            "All angels, all men, are but the younger sons of God, compared to HIM, THE FIRSTBORN.",
+            "The fact of the usual literal citation of the Septuagint by our Writer, decides the point as far as the place is concerned from which the words are immediately taken."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only this proves His superiority, BUT... angels were designed by God to be subject to Him.\" ",
+            "The fullest realization of His Lordship shall be at His second coming.\" ",
+            "As 'the first-begotten' He has the rights of primogeniture."
+        ],
+        "Albert Barnes": [
+            "The word 'again' refers not to the fact that the Son of God is brought 'again' into the world, implying that he had been introduced before; but it refers to the course of the apostle\u2019s argument, or to the declaration which is made about the Messiah in another place.",
+            "The phrase, 'when he bringeth in,' therefore, I take to be, when he introduces him to people; when he makes him known to the world - to wit, by the declaration which he proceeds immediately to quote.",
+            "He could require them to worship none but God, and the passage proves that the Son of God is divine."
+        ],
+        "Marvin Vincent": [
+            "When he a second time bringeth the first-begotten into the world.\" ",
+            "He is the first-born in relation to the creation, the dead, the new manhood, etc.",
+            "And let all the angels of God worship him."
+        ],
+        "John Calvin": [
+            "He now proves by another argument that Christ is above the angels, and that is because the angels are bidden to worship him.\" ",
+            "The Psalm commences with an exhortation to rejoice; nor did David address the Jews, but the whole earth, including the islands, that is, countries beyond the sea. The reason for this joy is given, because the Lord would reign.\" ",
+            "There is no power so high but must be in subjection to the authority of this king, whose advent was to cause joy to the whole world."
+        ],
+        "Philip Schaff": [
+            "Let all the angels of God worship him.\" ",
+            "The Son is exalted above them all in His nature, and in the reverence paid Him.",
+            "Divine though they be, the Son is exalted above them all in His nature, and in the reverence paid Him."
+        ],
+        "Archibald T. Robertson": [
+            "If \u03c0\u03b1\u03bb\u03b9\u03bd is taken with \u03b5\u03b9\u03c3\u03b1\u03b3\u03b1\u03b3\u03b7, the reference is to the Second Coming as in Hebrews 9:28.",
+            "The first-born (\u03c4\u03bf\u03bd \u03c0\u03c1\u03c9\u03c4\u03bf\u03c4\u03bf\u03ba\u03bf\u03bd). See Psalms 89:28. For this compound adjective applied to Christ in relation to the universe...",
+            "Let worship (\u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b7\u03c3\u03b1\u03c4\u03c9\u03c3\u03b1\u03bd). Imperative first aorist active third plural of \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b5\u03c9, here in the full sense of worship, not mere reverence or courtesy."
+        ],
+        "John Gill": [
+            "By 'the first begotten' is meant Christ...called the first begotten from the dead.",
+            "He may be called the firstborn, with respect to the saints, who are of the same nature with him...partakers of the divine nature.",
+            "Christ, as the first begotten, is the Lord God, for he only is to be served and worshipped; and that if angels are to worship him, men ought."
+        ],
+        "John Wesley": [
+            "He saith, when he bringeth in his first-begotten...Let all the angels of God worship him.\" ",
+            "This appellation includes that of Son, together with the rights of primogeniture, which the first-begotten Son of God enjoys, in a manner not communicable to any creature.\" ",
+            "So much higher was he, when in his lowest estate, than the highest angel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son, known as the first-begotten, is exalted above all angels and humans, being the only allowable one to be the second coming of our Lord to judgment. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world. Christ, as the first-begotten, is not only the Lord God but also the one deserving of worship and service from both angels and men.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.2189960692748674,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.12,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.4,
+                35.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son, known as the first-begotten, is exalted above all angels and humans, being the only allowable one to be the second coming of our Lord to judgment. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.2095058369457723,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                31.85,
+                33.41,
+                34.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son, known as the first-begotten, is exalted above all angels and humans. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.194716394118122,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                30.25,
+                34.78,
+                34.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first-begotten Son is exalted above all angels and humans, being the only allowable one to be the second coming of our Lord to judgment. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.2049706451636775,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                31.95,
+                33.44,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first-begotten Son is exalted above all angels and humans, as the only allowable one to be the second coming of our Lord to judgment. As the firstborn, He holds the rights of primogeniture and is superior to all, including angels. At His second coming, the fullest realization of His lordship will be seen. All angels are commanded to worship Him, highlighting His divine nature. This psalmic reference signifies the subjection of all powers to the authority of this king, causing joy to the whole world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2043855728416526,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                32.04,
+                33.35,
+                34.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:51:09",
+    "verseRef": "Hebrews 13:5",
+    "bestBHT": {
+        "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and filthy lucre follow one another, alienating the heart from the Creator to the creature. Be content with what you have, for God promises, I will never leave thee, nor forsake thee. This promise extends to us in times of depression, assuring that God will neither withdraw His presence nor His help from us.",
+        "wordCount": 72,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 1.8251322638301852,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+        "commentatorTierSimilarities": [
+            42.33,
+            31.5,
+            26.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let your manner of life be void of avarice: contented (sufficed) with things present.\" ",
+            "For He hath said, I will not leave thee, no nor will I forsake thee.",
+            "But in Philo we have the same quotation made, and in the very same Greek words. This is certainly singular, and cannot be mere coincidence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The love of filthy lust and the love of filthy lucre follow one another as closely akin, both alienating the heart from the Creator to the creature.",
+            "I will never leave thee, nor forsake thee\u2014A promise tantamount to this was given to Jacob, to Israel, to Joshua, to Solomon. It is therefore like a divine adage. What was said to them, extends also to us.",
+            "He will neither withdraw His presence ('never leave thee') nor His help ('nor forsake thee')."
+        ],
+        "Albert Barnes": [
+            "Let your conversation - Your \u201cconduct\u201d - for so the word 'conversation' is used in the Scriptures.",
+            "Be content with such things as ye have.",
+            "For he hath said - That is, God has said. I will never leave thee nor forsake thee."
+        ],
+        "John Calvin": [
+            "Certainly it rarely happens that anything satisfies an avaricious man; but on the contrary they who are not content with a moderate portion, always seek more even when they enjoy the greatest affluence.",
+            "The Lord everywhere promises that he will never be wanting to us.",
+            "It is certain that the source of covetousness is mistrust; for whosoever has this fixed in his heart, that he will never be forsaken by the Lord, will not be immoderately solicitous about present things, because he will depend on God\u2019s providence."
+        ],
+        "Archibald T. Robertson": [
+            "Let your manner of life be without love of money... The N.T. is full of the peril of money on the character as modern life is also.",
+            "Contented with the present things... 'Content with such things as ye have.'",
+            "A noble promise in times of depression."
+        ],
+        "John Gill": [
+            "The reason of the apostle's mentioning this sin of covetousness is, because the Jews were prone to it, and these believing Hebrews might be inclined to it, and be dissatisfied with their present condition.",
+            "And be content with such things as ye have; or with present things; with present riches, or with present poverty; with present losses and crosses; with present reproaches and afflictions.",
+            "for he hath said, I will never leave thee, nor forsake thee; which is a promise made to Joshua, and belongs to all believers"
+        ],
+        "John Wesley": [
+            "He \u2014 God.",
+            "Hath said \u2014 To all believers, in saying it to Jacob, Joshua, and Solomon. Genesis 28:15; Joshua 1:5; 1 Chronicles 28:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and the love of filthy lucre follow one another closely, alienating the heart from the Creator to the creature. The New Testament warns of the peril of money on one's character, just as modern life does. Be content with what you have, for He, God Himself, has promised, I will never leave thee, nor forsake thee. This noble promise extends to us in times of depression and serves as a reminder that God will neither withdraw His presence nor His help from us.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.7429098546444743,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                41.58,
+                31.59,
+                26.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and filthy lucre alienate the heart from the Creator to the creature. The New Testament warns of the peril of money on character, just as modern life does. Be content with what you have, for God promises, I will never leave thee, nor forsake thee. This noble promise extends to us, reminding us that God will not withdraw His presence or His help.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.739134452959029,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                41.22,
+                31.88,
+                26.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and filthy lucre follow one another, alienating the heart from the Creator to the creature. Be content with what you have, for God promises, I will never leave thee, nor forsake thee. This promise extends to us in times of depression, assuring that God will not withdraw His presence or His help from us.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.8245148851284192,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+            "commentatorTierSimilarities": [
+                41.99,
+                31.83,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and the love of filthy lucre follow one another closely akin, both alienating the heart from the Creator to the creature. The New Testament is full of the peril of money on the character as modern life is also. Be content with such things as ye have, for He, God Himself, has promised, I will never leave thee, nor forsake thee. This noble promise in times of depression assures us that God will neither withdraw His presence nor His help from us.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7446272408542733,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                42.19,
+                31.44,
+                26.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your manner of life be void of avarice, contented with present things. The love of filthy lust and filthy lucre follow one another, alienating the heart from the Creator to the creature. Be content with what you have, for God promises, I will never leave thee, nor forsake thee. This promise extends to us in times of depression, assuring that God will neither withdraw His presence nor His help from us.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8251322638301852,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+            "commentatorTierSimilarities": [
+                42.33,
+                31.5,
+                26.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

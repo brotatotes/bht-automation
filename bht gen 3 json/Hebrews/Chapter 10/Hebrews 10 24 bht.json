@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:49:41",
+    "verseRef": "Hebrews 10:24",
+    "bestBHT": {
+        "bht": "Let us consider one another with continuous care, contemplating the characters and needs of our fellow believers, in order to render mutual help and counsel. This mutual care must be carried out with a view to provoking one another to love. It is in the context of the new economy of grace that mutual care is demanded from the members of the Christian community, stirring up each other's affections and ministries. Through such consideration and provocation, we are encouraged to persevere in the Christian life, remaining steadfast in our faith and love.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.109886805466801,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+        "commentatorTierSimilarities": [
+            33.16,
+            35.1,
+            31.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How beautifully does this chain of exhortations of our Writer fall into a triple division, according Paul\u2019s triad of the Christian life...\" ",
+            "Next to an exhortation to approach God in full assurance of faith, follows one to hold fast the confession of hope...",
+            "Now comes one to emulate one another in love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here, as elsewhere, hope and love follow faith; the Pauline triad of Christian graces.",
+            "Consider\u2014with the mind attentively fixed on 'one another,' contemplating with continual consideration the characters and wants of our brethren, so as to render mutual help and counsel.",
+            "To provoke\u2014Greek, 'with a view to provoking unto love,' instead of provoking to hatred, as is too often the case."
+        ],
+        "Albert Barnes": [
+            "Let us so regard the welfare of others as to endeavor to excite them to persevere in the Christian life.",
+            "They were not to be selfish; they were not to regard their own interests only; they were to have a kind sympathy in the concerns of each other.",
+            "Men are sometimes afraid of excitement in religion. But there is no danger that Christians will ever be excited to love each other too much, or to perform too many good works."
+        ],
+        "Marvin Vincent": [
+            "Let us consider one another. Take careful note of each other's spiritual welfare. For the verb see on James 1:23. It denotes attentive, continuous care.\" ",
+            "To provoke. Lit. with a view to incitement. Only here and Acts 14:39. From paroxunein to sharpen. Hence to stimulate. In Acts 14:39, the result of provocation; irritation or contention. Here the act of incitement.\" ",
+            "The new economy demands mutual care on the part of the members of the Christian community. They must stir up each other's religious affections and ministries."
+        ],
+        "John Calvin": [
+            "Let us consider one another...for the instigation of love and of good works.\" ",
+            "Let us notice the state and circumstances of each other for the purpose of stimulating love and acts of kindness and benevolence, its proper fruits.\" ",
+            "Let us attentively consider one another in order to the quickening of love and good works."
+        ],
+        "Philip Schaff": [
+            "Such provocation is the only provocation the Gospel recognises, and it must be carried on from proper principles and with Gospel motives so as to confirm our faith and hope.",
+            "A loving Christian community striving for the faith of the Gospel is sure to be steadfast.",
+            "The connection between states of heart and belief is far closer than most suppose, as also is the connection between faith and the maintenance of fellowship with Christians."
+        ],
+        "Archibald T. Robertson": [
+            "Let us consider one another.\" ",
+            "To provoke... in good sense (for incitement to).\" ",
+            "Unto love and good works."
+        ],
+        "John Gill": [
+            "Saints should consider one another as men, that they are but men, of like passions and infirmities.",
+            "They should consider one another as saints, partakers of the same grace, all loved with the same love, redeemed by the same blood.",
+            "The end of such consideration should be to provoke unto love, to stir up brotherly love, which is apt to wax cold, that so it may be rekindled."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us consider one another with attentiveness and continuous care, contemplating the characters and needs of our fellow believers, in order to render mutual help and counsel. This mutual care must be carried out with a view to provoking one another to love, instead of provoking to hatred. It is in the context of the new economy of grace that mutual care is demanded from the members of the Christian community, stirring up each other's affections and ministries. Through such consideration and provocation, we are encouraged to persevere in the Christian life, remaining steadfast in our faith and steadfast in our love for one another.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.159790015398816,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                33.53,
+                34.86,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us consider one another with attentiveness and continuous care, contemplating the characters and needs of our fellow believers, in order to render mutual help and counsel. This mutual care must be carried out with a view to provoking one another to love, instead of provoking to hatred. It is in the context of the new economy of grace that mutual care is demanded from the members of the Christian community, stirring up each other's affections and ministries.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1003999880967728,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                35.15,
+                30.35,
+                34.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us consider one another with attentiveness and continuous care, contemplating the characters and needs of our fellow believers, in order to render mutual help and counsel. This mutual care must be carried out with a view to provoking one another to love, instead of provoking to hatred. It is in the context of the new economy of grace that mutual care is demanded from the members of the Christian community, stirring up each other's affections and ministries. Through such consideration and provocation, we are encouraged to persevere in the Christian life, remaining steadfast in our faith and steadfast in our love for one another.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.159790015398816,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                33.53,
+                34.86,
+                31.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us consider one another with continuous care, contemplating the characters and needs of our fellow believers, in order to render mutual help and counsel. This mutual care must be carried out with a view to provoking one another to love. It is in the context of the new economy of grace that mutual care is demanded from the members of the Christian community, stirring up each other's affections and ministries. Through such consideration and provocation, we are encouraged to persevere in the Christian life, remaining steadfast in our faith and love.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.109886805466801,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                33.16,
+                35.1,
+                31.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us continually consider one another's characters and needs, providing mutual help and counsel. By provoking one another to love, we strive to strengthen the bonds of our Christian community. This call to consider one another and incite love is grounded in the principles and motivations of the Gospel. As we engage in this mutual care, we are spurred to remain faithful and steadfast in our beliefs and to maintain fellowship with our fellow believers. Through this, we are inspired to demonstrate our faith through acts of love and good works.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.056396353371435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                30.53,
+                35.36,
+                34.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

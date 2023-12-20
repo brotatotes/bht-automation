@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:51:14",
+    "verseRef": "Hebrews 12:7",
+    "bestBHT": {
+        "bht": "God's chastisement is not punishment, but rather disciplinary amelioration for His children. Just as no son is exempt from a father's chastening, so too God's afflictive dealings with us are evidence that we are His sons. We must view our trials in the context of our salvation journey, understanding that they lead us to green pastures on the path to our eternal home. By enduring the Father's chastening, we embrace His refining process and demonstrate our true sonship.",
+        "wordCount": 82,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 1.927609511560723,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+        "commentatorTierSimilarities": [
+            29.6,
+            35.21,
+            35.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is for chastisement that ye are enduring, not for punishment, not for any evil purpose.",
+            "Your endurance, like His endurance, will not be thrown away.",
+            "For what son is there whom the (i. e., his) father chasteneth not?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With a view to chastening (that is, since God's chastisement is with a view to your chastening, that is, disciplinary amelioration) endure patiently.\" ",
+            "What son is there\" even in ordinary life? Much more God as to His sons. ",
+            "We too much look at each trial by itself, instead of taking it in connection with the whole plan of our salvation, as if a traveller were to complain of the steepness and roughness of one turn in the path, without considering that it led him into green pastures, on the direct road to the city of habitation."
+        ],
+        "Albert Barnes": [
+            "If ye endure chastening... if you are chastised or corrected by God.\" ",
+            "God dealeth with you as with sons... He does not cast you off and regard you as if you were in no way related to him.",
+            "For what son is he whom the father chasteneth not... he aims by all proper means to exhibit the appropriate care and character of a father."
+        ],
+        "Marvin Vincent": [
+            "It is for chastening that ye endure.",
+            "The afflictive dealing of God with you is an evidence that you are sons.",
+            "No one is a son who is without paternal chastening."
+        ],
+        "John Calvin": [
+            "It hence follows that the benefit of adoption is not valued by us as it ought to be, and that the grace of God is wholly rejected when we seek to withdraw ourselves from his scourges; and this is what all they do who bear not their afflictions with patience.\" ",
+            "He therefore intimates that the profession of Christ would be false and deceitful if they withdrew themselves from the discipline of the Father, and that they would thus become bastards, and be no more children.",
+            "Those who have only the name of Christians are called 'bastards,' or spurious or illegitimate children, because they are not born of God, being only the children of the flesh."
+        ],
+        "Philip Schaff": [
+            "It is for chastening for improvement as sons ye endure.\" ",
+            "Correction and chastening while character is forming is the condition of all sonship and of all true fatherhood."
+        ],
+        "Archibald T. Robertson": [
+            "That ye endure for chastening.",
+            "Dealeth with you... bearing oneself towards one.",
+            "What? Whom?"
+        ],
+        "John Gill": [
+            "It is but a chastening, and the chastening of a father; it should be considered from whence it comes, and for what ends; that it comes from the Lord, and is for his glory, and their good; the example of Christ, and of other saints, should excite unto it.",
+            "Chastening is owning of them for his children, and it discovers them to be so, and shows that they continue such; he does not chasten them but when it is necessary; and whenever he does, it is in love and mercy, and for good, and in the best time, seasonably, and in measure.",
+            "No one can be named, not the Son of God himself; he had the chastisement of our peace upon him; nor the more eminent among the children of God, as Abraham, David, and others; nor any in any catalogue, or list of them, such as in the preceding chapter; not one in any age or period of time whatever, in any bodies, societies, or communities of them, either under the Old or New Testament."
+        ],
+        "John Wesley": [
+            "Whom his father chasteneth not \u2014 When he offends."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's chastisement is not punishment, but rather disciplinary amelioration for His children. This enduring endurance, like the endurance of Christ, is not in vain. Just as no son is exempt from a father's chastening, so too God's afflictive dealings with us are evidence of our sonship. We must view our trials in the context of our salvation journey, understanding that they lead us to green pastures on the path to our eternal home. By enduring the Father's chastening, we demonstrate our true sonship and embrace His refining process.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8367743322983126,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                30.85,
+                35.1,
+                34.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's chastisement is not punishment, but rather disciplinary amelioration for His children. Just as no son is exempt from a father's chastening, so too God's afflictive dealings with us are evidence that we are His sons. We must view our trials in the context of our salvation journey, understanding that they lead us to green pastures on the path to our eternal home. By enduring the Father's chastening, we embrace His refining process and demonstrate our true sonship.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.927609511560723,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+            "commentatorTierSimilarities": [
+                29.6,
+                35.21,
+                35.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Enduring God's chastisement is not punishment, but rather disciplinary amelioration for His children. Just as no son is exempt from a father's chastening, so too God's afflictive dealings with us are evidence of our sonship. Viewing our trials in the context of our salvation journey, we understand that they lead us to green pastures on the path to our eternal home. By enduring the Father's chastening, we demonstrate our true sonship and embrace His refining process.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.88147261220334,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                29.94,
+                35.87,
+                34.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Enduring God's chastisement is not for punishment, but rather for disciplinary amelioration. No son is exempted from a father's chastening, and the Father's afflictive dealings with us are evidence of our sonship. Rather than focusing on individual trials, we should consider them in the context of our salvation and see them as leading us to green pastures on the path to our eternal home. By patiently enduring the Father's chastisement, we display our true sonship and embrace His refining process.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.824120249600302,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.81,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Viewing God's chastisement not as punishment but as disciplinary amelioration, we understand that no son is exempt from a father's chastening. The Father's afflictive dealings with us serve as evidence of our sonship and the need for patient endurance. It is important to consider our trials in the context of our salvation journey, recognizing that they lead us to green pastures on the path to our eternal home. Through enduring the Father's chastening, we display our true sonship and embrace His refining process.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6852473884825567,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                27.27,
+                37.61,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

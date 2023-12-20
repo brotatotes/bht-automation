@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:49:13",
+    "verseRef": "Hebrews 9:12",
+    "bestBHT": {
+        "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. The redemption he secured is not a mere ritual, but profoundly ethical and spiritual. His offering of His own blood distinguishes Him from the Levitical high priests, whose sacrifices were only a shadow of the true atonement. Christ's blood is of immeasurable value, for He is the sinless Son of God, and through His sacrifice, He has obtained eternal redemption for all who believe.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.7044064934305574,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.26,
+        "commentatorTierSimilarities": [
+            36.59,
+            40.61,
+            22.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "through His own blood entered once for all into the holy place and obtained eternal redemption for us",
+            "the redemption is the aim and end of the approach of our High Priest to God",
+            "the idea of price paid for redemption and redemption by that price is kept prominent"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ's death is symbolized by the slain goat; His resurrection to life by the living goat sent away.",
+            "The entrance of our Redeemer, once for all, into the heavenly holiest place, secures eternal redemption to us.",
+            "For His blood, offered by Himself, purifies not only outwardly, as the Levitical sacrifices on the day of atonement, but inwardly unto the service of the living God."
+        ],
+        "Albert Barnes": [
+            "It was 'by,' or 'by means of' - \u03b4\u03b9\u03b1\u0300 dia - blood thus sprinkled on the mercyseat, that the high priest sought the forgiveness of his own sins and the sins of the people.",
+            "That blood was not shed for himself - for he had no sin - and consequently there was a material difference between his offering and that of the Jewish high priest.",
+            "The doctrine in this verse is, that the blood of Christ is the means of redemption, or atones for sin."
+        ],
+        "Marvin Vincent": [
+            "If Christianity gives us only the shedding of blood, even Christ's blood, it does not give us a real or an efficient atonement.\" ",
+            "Once for all.\" ",
+            "A redemption not ritual, but profoundly ethical and spiritual."
+        ],
+        "John Calvin": [
+            "All these things tend to show that the things of Christ so far excel the shadows of the Law, that they justly reduce them all to nothing.",
+            "For what is the value of Christ\u2019s blood, if it be deemed no better than the blood of beasts?",
+            "As soon then as Christ came forth with the efficacious influence of his death, all the typical observances must necessarily have ceased."
+        ],
+        "Philip Schaff": [
+            "Through the Church; or the world, the outer temple of the Creator; through the lower regions of the heavens; through the worshipping place of blessed spirits (Delitzsch), have all their advocates.\" ",
+            "Christ, by the one sacrifice of Himself, has obtained for us an everlasting deliverance from the guilt of sin, ending in a complete deliverance from the power of it, and that at the price of Himself or of His blood.\" ",
+            "Redemption is obtained for us when Christ enters into the holy place, as redemption is made ours when His blood is applied to our consciences."
+        ],
+        "Archibald T. Robertson": [
+            "They offer blood (verse Hebrews 9:7), but he offered his own blood.",
+            "In contrast to the repeated (annual) entrances of the Levitical high priests.",
+            "The value of Christ's offering consists in the fact that he is the Son of God as well as the Son of man, that he is sinless and so a perfect sacrifice with no need of an offering for himself."
+        ],
+        "John Gill": [
+            "Neither by the blood of goats and calves....but by his own blood he entered in once into the holy place...",
+            "having obtained eternal redemption...",
+            "This was what was sought for long ago by the Old Testament saints..."
+        ],
+        "John Wesley": [
+            "The holy place \u2014 Heaven.",
+            "For us \u2014 All that believe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. This redemption is the aim and end of the approach of our High Priest to God. The shedding of Christ's blood is not merely a ritual, but a profound and spiritual act. It is a redemption that surpasses the repeated entrances of the Levitical high priests. The value of Christ's offering lies in the fact that he is the sinless Son of God, offering his own blood for our purification. His entrance into the heavenly holy place secures eternal redemption to all who believe.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.5558041142229753,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.32,
+            "commentatorTierSimilarities": [
+                37.18,
+                39.45,
+                23.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. This redemption is the aim and end of the approach of our High Priest to God. The shedding of Christ's blood is not merely a ritual, but a profound and spiritual act. It is a redemption that surpasses the repeated entrances of the Levitical high priests. The value of Christ's offering lies in the fact that he is the sinless Son of God, offering his own blood for our purification. His entrance into the heavenly holy place secures eternal redemption to all who believe. ",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.5558041142229753,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.32,
+            "commentatorTierSimilarities": [
+                37.18,
+                39.45,
+                23.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. This redemption is the aim and end of the approach of our High Priest to God. The value of Christ's offering lies in the fact that he is the Son of God as well as the Son of man, sinless and perfect. His blood purifies us not only outwardly, but inwardly, allowing us to serve the living God. Christ's offering of His own blood is a profound and spiritual act of atonement, securing eternal redemption for all who believe.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.53903111425762,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.76,
+            "commentatorTierSimilarities": [
+                37.59,
+                40.64,
+                21.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. The redemption he secured is not a mere ritual, but profoundly ethical and spiritual. His offering of His own blood distinguishes Him from the Levitical high priests, whose sacrifices were only a shadow of the true atonement. Christ's blood is of immeasurable value, for He is the sinless Son of God, and through His sacrifice, He has obtained eternal redemption for all who believe.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.7044064934305574,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.26,
+            "commentatorTierSimilarities": [
+                36.59,
+                40.61,
+                22.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through His own blood, Jesus entered once for all into the holy place and obtained eternal redemption for us. This redemption is the aim and end of the approach of our High Priest to God, distinguishing it from the repeated entrances of the Levitical high priests. The value of Christ's offering lies in the fact that he is the sinless Son of God and Son of man, a perfect sacrifice that requires no offering for himself. It is through His blood that we are purified, both outwardly and inwardly, enabling us to serve the living God.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.5679249534426454,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.72,
+            "commentatorTierSimilarities": [
+                37.26,
+                40.92,
+                21.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

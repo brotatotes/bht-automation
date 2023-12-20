@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:02",
+    "verseRef": "Hebrews 5:9",
+    "bestBHT": {
+        "bht": "Through His learning and suffering, Jesus was made perfect and obtained eternal salvation for us. This salvation surpasses the limitations of time, extending to all who obey Him by faith. It is a complete and enduring deliverance from evil, opposite to eternal condemnation. Christ is the author of this salvation, achieved through His obedience, suffering, and intercession. Just as He learned obedience through suffering, we too must follow His example, being brought to glory and conformed to His life.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.341806614040819,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+        "commentatorTierSimilarities": [
+            26.63,
+            37.64,
+            35.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "made perfect\u2014completed, brought to His goal of learning and suffering through death.",
+            "eternal salvation\u2014obtained for us in the short 'days of Jesus' flesh.'",
+            "unto all . . . that obey him\u2014As Christ obeyed the Father, so must we obey Him by faith."
+        ],
+        "Albert Barnes": [
+            "Sufferings were necessary to the 'completeness' or the 'finish' of his character as a Saviour, not to his moral perfection.",
+            "He became the author... of salvation. It is to be traced wholly to his sufferings and death.",
+            "Only those who 'obey' him have any evidence that they will be saved."
+        ],
+        "Marvin Vincent": [
+            "The fundamental idea in teleioun is the bringing of a person or thing to the goal fixed by God.",
+            "Not everlasting salvation, but a salvation of which all the conditions, attainments, privileges, and rewards transcend the conditions and limitations of time.",
+            "If the captain of salvation must learn obedience, so must his followers."
+        ],
+        "John Calvin": [
+            "The enduring of the cross and death were to Christ a solemn kind of consecration, by which he intimates that all his sufferings had a regard to our salvation.",
+            "For if salvation be highly esteemed by us, how honorably ought we to think of its cause or author?",
+            "He becomes not ours, nor his blessings, except as far as we receive them and him by faith."
+        ],
+        "Philip Schaff": [
+            "A salvation not partial or temporal, like the atonements of the law, but a complete and ever-enduring deliverance from evil in all its forms and in every degree.",
+            "It is the salvation of the soul which is immortal. It is the opposite of eternal condemnation. It takes in grace and glory; and Christ is its author or cause through the lasting virtue of His blood and righteousness, His obedience and suffering, His intercession and gifts.",
+            "His obedience unto death is the ground of our hope, and His obedience unto death is the model to which our life is to be conformed."
+        ],
+        "Archibald T. Robertson": [
+            "Having been made perfect (\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03b8\u03b5\u03b9\u03c2).",
+            "The completion of the process of training mentioned by this same verb in Hebrews 2:10 'by means of sufferings' (\u03b4\u03b9\u03b1 \u03c0\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd).",
+            "The author of eternal salvation (\u03b1\u03b9\u03c4\u03b9\u03bf\u03c2 \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9\u03b1\u03c2 \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03c5)."
+        ],
+        "John Gill": [
+            "The salvation Christ is the author of is 'eternal'; it was resolved upon from eternity, and contrived in it.",
+            "Christ is the cause or author of this salvation, by his obedience and sufferings; by obeying the precept, and bearing the penalty of the law; by the price of his blood, and by the power of his arm.",
+            "Christ is not the author of salvation to all men; all men do not obey him; all those whom Christ saves, he brings them to an obedience to himself."
+        ],
+        "John Wesley": [
+            "Being perfected... brought through all to glory.",
+            "He became the author... of eternal salvation.",
+            "To all that obey him... by doing and suffering his whole will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through His learning and suffering, Jesus was made perfect, attaining eternal salvation for us. This salvation is not limited by time, but transcends all conditions, attainments, and rewards. Just as Christ obeyed the Father, we are called to obey Him by faith. He became the author of our complete and everlasting deliverance from evil, and His obedience unto death serves as both the ground of our hope and the model for our lives. Therefore, as followers of the captain of salvation, we too must learn obedience and be brought through trials to glory.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.259018006221698,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.45,
+            "commentatorTierSimilarities": [
+                29.1,
+                36.08,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His learning and suffering, Jesus was made perfect, completing His goal of obtaining eternal salvation for us. This salvation surpasses the limitations of time and encompasses all conditions, privileges, and rewards. Just as Christ obeyed the Father, we are called to obey Him through faith. He became the author of our complete and everlasting deliverance from evil, and His obedience unto death serves as both the foundation of our hope and the example for our lives. As followers of the captain of salvation, we too must learn obedience and be brought through trials to glory.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.247093793200392,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.06,
+            "commentatorTierSimilarities": [
+                29.32,
+                36.11,
+                34.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through His learning and suffering, Jesus was made perfect, bringing us to the goal of eternal salvation. This salvation surpasses the limitations of time and conditions, transcending into a realm that goes beyond the temporal. Just as Christ obeyed the Father, we are called to obey Him by faith. He is the author and cause of our complete and everlasting deliverance from evil, accomplished through His obedience, suffering, intercession, and gifts. As followers of Christ, we too must learn obedience and be brought to glory through the trials we face.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.1815308479420326,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.88,
+            "commentatorTierSimilarities": [
+                29.34,
+                35.28,
+                35.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through His learning and suffering, Jesus was made perfect and brought us to the goal of eternal salvation, a salvation that goes beyond the limits of time. Just as Christ obeyed the Father, we too are called to obey Him through faith. This salvation is not partial or temporary, but a complete and everlasting deliverance from evil in all its forms. Christ is the author of this salvation, achieved through His obedience, suffering, intercession, and gifts. Therefore, as His followers, we must also learn obedience and be brought to glory through the trials of life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.261989022914797,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                27.92,
+                36.78,
+                35.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through His learning and suffering, Jesus was made perfect and obtained eternal salvation for us. This salvation surpasses the limitations of time, extending to all who obey Him by faith. It is a complete and enduring deliverance from evil, opposite to eternal condemnation. Christ is the author of this salvation, achieved through His obedience, suffering, and intercession. Just as He learned obedience through suffering, we too must follow His example, being brought to glory and conformed to His life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.341806614040819,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+            "commentatorTierSimilarities": [
+                26.63,
+                37.64,
+                35.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

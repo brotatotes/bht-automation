@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 17:49:02",
+    "verseRef": "Hebrews 9:22",
+    "bestBHT": {
+        "bht": "Apart from shedding of blood, there has been no remission. The exceptions to all things being purified by blood are almost provides for such exceptions as Exodus 19:10; Exodus 32:30-32; Exodus 5:11-13; Leviticus 14:5; Leviticus 16:26-28; Leviticus 22:6; Numbers 16:46-48; Numbers 31:23, Numbers 31:24; Psalms 51:1-17; Psalms 32:1, Psalms 32:2. The blood of Christ sets aside all other plans for pardon.",
+        "wordCount": 49,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3420169669200903,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+        "commentatorTierSimilarities": [
+            34.04,
+            33.57,
+            32.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same Death which purifies us from guilt, makes us partakers of the kingdom of glory; the same Blood which cleanses us from sin, seals the testament of our inheritance.\" (Commentary)",
+            "Apart from shedding of blood, there has been no remission.\" (Commentary)",
+            "There is no expiation except through blood.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The exceptions to all things being purified by blood are.",
+            "Paul has, perhaps, in mind here, Luke 22:20, 'This cup is the new testament in my blood, which is shed for you.'",
+            "Properly used of remitting a debt (Matthew 6:12; Matthew 18:27; Matthew 18:32); our sins are debts."
+        ],
+        "Albert Barnes": [
+            "Almost everything in the tabernacle and temple service, was consecrated or purified by blood.",
+            "It is universally true that sin never has been, and never will be forgiven, except in connection with, and in virtue of the shedding of blood.",
+            "In the divine arrangement there is no principle better established than this, that all sin which is forgiven is remitted through the blood of the atonement."
+        ],
+        "Marvin Vincent": [
+            "Almost provides for such exceptions as Exodus 19:10; Exodus 32:30-32; Exodus 5:11-13; Leviticus 14:5; Leviticus 16:26-28; Leviticus 22:6; Numbers 16:46-48; Numbers 31:23, Numbers 31:24; Psalms 51:1-17; Psalms 32:1, Psalms 32:2.\" ",
+            "And without shedding of blood is no remission [\u03ba\u03b1\u03b9 \u03c7\u03c9\u03c1\u03b9\u03c2 \u03b1\u03b9\u03bc\u03b1\u03c4\u03b5\u03ba\u03c7\u03c5\u03c3\u03b9\u03b1\u03c2 \u03bf\u03c5 \u03b3\u03b9\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c6\u03b5\u03c3\u03b9\u03c2]. This sentence also is covered by 'I may almost say.' It does not state that without shedding of blood there is no remission of sins, which 'would be in conflict with the history and literature of the Old Testament.'\" ",
+            "Remission does not take place or ensue. For afesiv see on James 5:15; most frequent in Luke and Acts."
+        ],
+        "John Calvin": [
+            "But even water itself derived its power to cleanse from the sacrifices; so that the Apostle at length truly declares that without blood there was no remission.",
+            "But if at any time the purgation was not so made, it was nevertheless through blood, since all the rites derived their efficacy in a manner from the general expiation.",
+            "No remission of sins can be hoped for unless we bring blood, and this is done when we flee by faith to the death of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "With blood...There were exceptions.",
+            "Apart from shedding of blood...The blood is the vital principle and is efficacious as an atonement.",
+            "The blood of Christ sets aside all other plans for pardon."
+        ],
+        "John Gill": [
+            "All 'except a few things', as the Arabic version renders it; for some things were cleansed by water, and others purged by fire.\" ",
+            "There was no typical remission without it; and there can be no real remission but by the blood of Christ; no instance can be given of pardon without it.",
+            "It is a common saying with the Jews, and often to be met with in their writings, 'there is no atonement but by blood'."
+        ],
+        "John Wesley": [
+            "According to the law, there is no forgiveness of sins without shedding of blood.\" ",
+            "All this pointed to the blood of Christ effectually cleansing from all sin.",
+            "Intimated, there can be no purification from it by any other means."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The same Death which purifies us from guilt, makes us partakers of the kingdom of glory; the same Blood which cleanses us from sin, seals the testament of our inheritance. Apart from shedding of blood, there has been no remission. Paul has, perhaps, in mind here, Luke 22:20, 'This cup is the new testament in my blood, which is shed for you.' Properly used of remitting a debt, our sins are debts. The exceptions to all things being purified by blood are almost provides for such exceptions as Exodus 19:10; Exodus 32:30-32; Exodus 5:11-13; Leviticus 14:5; Leviticus 16:26-28; Leviticus 22:6; Numbers 16:46-48; Numbers 31:23, Numbers 31:24; Psalms 51:1-17; Psalms 32:1, Psalms 32:2. The blood of Christ sets aside all other plans for pardon.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.186360407852772,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                34.12,
+                34.41,
+                31.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Apart from shedding of blood, there has been no remission. The exceptions to all things being purified by blood are almost provides for such exceptions as Exodus 19:10; Exodus 32:30-32; Exodus 5:11-13; Leviticus 14:5; Leviticus 16:26-28; Leviticus 22:6; Numbers 16:46-48; Numbers 31:23, Numbers 31:24; Psalms 51:1-17; Psalms 32:1, Psalms 32:2. The blood of Christ sets aside all other plans for pardon.",
+            "wordCount": 49,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3420169669200903,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+            "commentatorTierSimilarities": [
+                34.04,
+                33.57,
+                32.39
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

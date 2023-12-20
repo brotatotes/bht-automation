@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:49:26",
+    "verseRef": "Hebrews 10:14",
+    "bestBHT": {
+        "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice is gradually becoming subjective in believers as they are being sanctified. This sanctification is perfect in Christ and does not require any further sacrifices. The great High Priest's reign is uninterrupted by the duty of sacrifice because He has completed what the old sacrifices could not. The offering of Christ has laid the foundation for the eternal perfection of those who are being sanctified. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 2.567707705761191,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.72,
+        "commentatorTierSimilarities": [
+            27.7,
+            32.73,
+            39.57
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Sanctification, i.e. the imputed and implanted purification from sins [for both these are alike contained in the idea], is the way whereby the objective perfection already provided in the self-sacrifice of Christ gradually renders itself subjective in men.",
+            "The Writer says not 'them that are being perfected,' but 'them that are being sanctified.'",
+            "By one offering He hath perfected for ever them who are being sanctified."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sacrifice being 'for ever' in its efficacy needs no renewal.",
+            "The sanctification of the elect believers is perfect in Christ once for all.",
+            "The development of that sanctification is progressive."
+        ],
+        "Albert Barnes": [
+            "He hath perfected forever - He hath laid the foundation of the eternal perfection.",
+            "The doctrine taught in this verse is, that all those who are in any measure sanctified will be perfected forever.",
+            "And this indeed is the \u03a4\u03b5\u03bb\u03b5\u03b9\u03c9\u03c3\u03b9\u03c2 Teleio\u0304sis of the Epistle to the Hebrews generally... the completeness of his expiation, and its power to bring pardon and peace to the guilty and trembling sinner, to justify him unto eternal life, is here, at all events, principally intended."
+        ],
+        "Marvin Vincent": [
+            "He hath perfected forever.\" ",
+            "No more sacrifices are needed.\" ",
+            "The reign of the Great High Priest is not to be interrupted by the duty of sacrifice."
+        ],
+        "Philip Schaff": [
+            "For by one offering he hath perfected for ever, in unbroken continuance, them that are being sanctified.\" ",
+            "The word \u2018sanctified\u2019 implies both the imputed and the imparted righteousness of Christ.\" ",
+            "When the present is used, it points rather to the subjective process whereby Christ\u2019s work is realized in the peace and holiness of believers."
+        ],
+        "Archibald T. Robertson": [
+            "He has done what the old sacrifices failed to do.",
+            "Them that are sanctified, either because of the process still going on or because of the repetition in so many persons.",
+            "Note perfect in verse Hebrews 10:10."
+        ],
+        "John Gill": [
+            "He hath perfected for ever them that are sanctified... For this is not to be understood either of their being sanctified in Christ, though the Syriac version reads, 'that are sanctified' in him, or by his Spirit, though both are true of the same persons; these Christ, by his sacrifice, has perfected...",
+            "He has obtained the full pardon of all their sins, and complete redemption; he has perfectly justified them from all things, and that for ever; which shows the continued virtue of Christ's sacrifice, in all generations, to all the elect of God, and the fulness and duration of their salvation...",
+            "Christ by his one sacrifice did what the law, and all its sacrifices, could not do, Hebrews 10:1."
+        ],
+        "John Wesley": [
+            "He hath perfected them for ever \u2014 That is, has done all that was needful in order to their full reconciliation with God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice is gradually becoming subjective in believers as they are being sanctified. This sanctification is perfect in Christ and does not require any further sacrifices. The great High Priest's reign is uninterrupted by the duty of sacrifice because He has completed what the old sacrifices could not. The offering of Christ has laid the foundation for the eternal perfection of those who are being sanctified. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.567707705761191,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.72,
+            "commentatorTierSimilarities": [
+                27.7,
+                32.73,
+                39.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice is gradually becoming subjective in believers as they are being sanctified. This sanctification is perfect in Christ and does not require any further sacrifices. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God, obtaining the full pardon of their sins, and completing their redemption. The continuous efficacy of Christ's sacrifice extends to all generations, revealing the fulness and duration of believers' salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.488924695333625,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.1,
+            "commentatorTierSimilarities": [
+                26.01,
+                33.13,
+                40.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice is gradually becoming subjective in believers as they are being sanctified. This sanctification is perfect in Christ and does not require any further sacrifices. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God. The continuous efficacy of Christ's sacrifice extends to all generations, revealing the fulness and duration of believers' salvation. The offering of Christ has laid the foundation for the eternal perfection of those who are being sanctified.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.5638884696940702,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.59,
+            "commentatorTierSimilarities": [
+                26.65,
+                34.36,
+                38.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice gradually renders itself subjective in believers as they are being sanctified. This development of sanctification is progressive, as Christ has done what the old sacrifices could not. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God. This perfection is not to be interrupted by the duty of sacrifice, as the reign of the Great High Priest continues continuously.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.5062137669847386,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.67,
+            "commentatorTierSimilarities": [
+                28.77,
+                31.33,
+                39.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the sacrifice of Christ, the objective perfection provided in His self-sacrifice gradually renders itself subjective in men. The sanctification of believers is perfect in Christ once for all, requiring no more sacrifices. By one offering, He has perfected forever those who are being sanctified, ensuring their full reconciliation with God. The reign of the Great High Priest is not to be interrupted by the duty of sacrifice, as He has done what the old sacrifices failed to do. This sacrifice has obtained full pardon and complete redemption for the elect, securing their salvation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.4285013983521764,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.09,
+            "commentatorTierSimilarities": [
+                28.18,
+                29.86,
+                41.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

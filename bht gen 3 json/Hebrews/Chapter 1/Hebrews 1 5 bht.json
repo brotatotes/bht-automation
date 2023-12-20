@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:47:08",
+    "verseRef": "Hebrews 1:5",
+    "bestBHT": {
+        "bht": "The revelation in this passage elucidates the fourfold right by which Christ is titled 'Son of God': generation, commission, resurrection, and possession. It is noteworthy that while angels collectively are called sons of God, the title of 'God's Son' exclusively belongs to the Messiah, as stated in Psalms 2:7. The quotation from 2 Samuel 7:14 distinctly signifies the eternal begetting of the Son by the Father, emphasizing their everlasting bond. Thus, this passage illuminates the exceptional and eternal relationship between the Father and the Son.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.591014758574981,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.49,
+        "commentatorTierSimilarities": [
+            31.3,
+            37.04,
+            31.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou (the seed of David, anointed in God\u2019s counsels as king on his holy hill of Sion: see above) art my Son, I (emphatic: \u201cI and no other:\u201d expressed also in the Hebrew) this day have begotten thee."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ has a fourfold right to the title 'Son of God'; (1) By generation, as begotten of God; (2) By commission, as sent by God; (3) By resurrection, as 'the first-begotten of the dead'; (4) By actual possession, as heir of all.\" ",
+            "The triumph of David over Hadadezer and neighboring kings is a type of God's ultimately subduing all enemies under His Son, whom He sets on His 'holy hill of Zion,' as King of the Jews and of the whole earth.",
+            "'I the Everlasting Father have begotten Thee this day, that is, on this day, the day of Thy being manifested as My Son, 'the first-begotten of the dead'.'"
+        ],
+        "Albert Barnes": [
+            "He is treated and addressed as a Son. In his original existence this was so. In his incarnation this was so. When on earth this was so; and in his resurrection, ascension, and session at the right hand of God, he was treated in all respects 'as a Son' - as superior to all servants, and to all ministering spirits.",
+            "The promise, therefore, which is here made is, that God would be to him, in a special sense, a Father, and he should be a Son. It does not, as I suppose, pertain originally exclusively to the Messiah, but included him as a descendant of David. To him it would be applicable in an eminent sense.",
+            "That in this series of promises the 'Messiah' was included as a descendant of David, was the common opinion of the Jews, of the early Christians, and has been of the great body of interpreters."
+        ],
+        "Marvin Vincent": [
+            "The writer takes these passages as messianic, and applies them accordingly; and that we must distinguish between the doctrine and the method of argumentation peculiar to the time and people.",
+            "In the O. T. son is applied to angels collectively, but never individually.",
+            "This official installation appears to have its N. T. counterpart in the resurrection of Christ."
+        ],
+        "John Calvin": [
+            "For the same reason David was called the son of God, having been especially chosen to perform great things; but his glory was hardly a spark, even the smallest, to that glory which shone forth in Christ, on whom the Father has imprinted his own image.",
+            "The sacraments, though in themselves lifeless, are yet honored with titles which angels cannot claim without being guilty of sacrilege. It is hence evident that the argument derived from the term Son, is well grounded.",
+            "Christ doubtless is the eternal Son of God, for he is wisdom, born before time; but this has no connection with this passage, in which respect is had to men, by whom Christ was acknowledged to be the Son of God after the Father had manifested him."
+        ],
+        "Philip Schaff": [
+            "My Son art thou, today have I begotten thee. These words have been referred to the incarnation, when the \u2018holy thing\u2019 born of the Virgin was called Son of God (Luke 1:35); or to His resurrection and exaltation, when He is marked out as Son of God in regal dignity, \u2018in power\u2019 as Messianic King (Romans 1:4).\" ",
+            "Others refer the words to the essential nature of our Lord, as Son of the Father by \u2018eternal generation,\u2019 as it is called. God sent the Son, it is said, and so He had dignity before His incarnation and before His resurrection.\" ",
+            "The fact is, the word Son describes His relation to the Father, both personal and official; and \u2018I have begotten thee\u2019 applies to every state to which the word \u2018Son\u2019 applies His original nature, His incarnation, and His kingship."
+        ],
+        "Archibald T. Robertson": [
+            "To which (\u03a4\u03b9\u03bd). 'To which individual angel.' As a class angels are called sons of God (Elohim) (Psalms 29:1), but no single angel is called God's Son like the Messiah in Psalms 2:7.\" ",
+            "Dods takes 'have I begotten thee' (\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03ba\u03b1 \u03c3\u03b5, perfect active indicative of \u03b3\u03b5\u03bd\u03bd\u03b1\u03c9) to refer to the resurrection and ascension while others refer it to the incarnation.",
+            "This quotation is from 2 Samuel 7:14. Note the use of \u03b5\u03b9\u03c2 in the predicate with the sense of 'as' like the Hebrew (LXX idiom), not preserved in the English."
+        ],
+        "John Gill": [
+            "Christ is the Son of God, not by Creation, nor by adoption, nor by office, but by nature; he is the true, proper, natural, and eternal Son of God.",
+            "The foundation of which relation lies in the begetting of him; which refers not to his nature, either divine or human, but to his divine person.",
+            "The date of it, today, designs eternity, which is one continued day, an everlasting now; and this may be applied to any time and case, in which Christ is declared to be the Son of God."
+        ],
+        "John Wesley": [
+            "Thou art my Son \u2014 God of God, Light of Light.",
+            "This day have I begotten thee \u2014 I have begotten thee from eternity, which, by its unalterable permanency of duration, is one continued, unsuccessive day.",
+            "I will be to him a Father, and he shall be to me a Son \u2014 I will own myself to be his Father, and him to be my Son, by eminent tokens of my peculiar love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that Christ has a fourfold right to the title 'Son of God': by generation, as begotten of God; by commission, as sent by God; by resurrection, as 'the first-begotten of the dead'; and by actual possession, as heir of all. In the Old Testament, the term son is applied to angels collectively, but never individually. The quotation from 2 Samuel 7:14 emphasizes the Father's declaration to Christ that Thou art my Son, I this day have begotten thee. This highlights the eternal nature and the special relationship between the Father and the Son.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.5176729007990177,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.05,
+            "commentatorTierSimilarities": [
+                32.98,
+                34.55,
+                32.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse displays Christ's fourfold right to the title 'Son of God': by generation, commission, resurrection, and possession. Angels collectively, but never individually, are referred to as sons of God. The quotation from 2 Samuel 7:14 emphasizes the Father's declaration to Christ, highlighting the eternal nature and unique relationship between the Father and the Son.",
+            "wordCount": 55,
+            "quoteTokenProportion": 28.21,
+            "qualityScore": 2.492706169044145,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.22,
+            "commentatorTierSimilarities": [
+                32.91,
+                34.31,
+                32.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The passage unveils Christ's fourfold entitlement as the 'Son of God': through generation, commission, resurrection, and possession. While the term 'sons of God' is applied collectively to angels, it is reserved for the Messiah alone in Psalms 2:7. The quotation from 2 Samuel 7:14 underscores the eternal begetting of the Son by the Father and reveals their distinctive bond. Through this verse, we come to understand the eternal nature of Christ's relationship with the Father.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.424770768740367,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.96,
+            "commentatorTierSimilarities": [
+                31.07,
+                36.58,
+                32.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The statement in Hebrews 1:5 reveals that Christ has a fourfold right to the title 'Son of God': by generation, commission, resurrection, and possession. The quotation from 2 Samuel 7:14 emphasizes the eternal nature of Christ's relationship with the Father and highlights the special bond between them. Angels are referred to as sons of God collectively, but never individually. This verse helps us understand the unique and eternal nature of Christ's connection to the Father.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.465309884161167,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.31,
+            "commentatorTierSimilarities": [
+                31.75,
+                35.52,
+                32.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The revelation in this passage elucidates the fourfold right by which Christ is titled 'Son of God': generation, commission, resurrection, and possession. It is noteworthy that while angels collectively are called sons of God, the title of 'God's Son' exclusively belongs to the Messiah, as stated in Psalms 2:7. The quotation from 2 Samuel 7:14 distinctly signifies the eternal begetting of the Son by the Father, emphasizing their everlasting bond. Thus, this passage illuminates the exceptional and eternal relationship between the Father and the Son.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.591014758574981,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.49,
+            "commentatorTierSimilarities": [
+                31.3,
+                37.04,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

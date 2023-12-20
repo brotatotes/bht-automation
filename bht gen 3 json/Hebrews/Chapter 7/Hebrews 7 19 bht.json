@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:33",
+    "verseRef": "Hebrews 7:19",
+    "bestBHT": {
+        "bht": "The old law, weak and unprofitable, could not bring true perfection or sanctification before God. Through faith, the better hope found in Christ allows us to approach God's throne directly. This new system brings us the possibility of intimate fellowship with God, without the need for a priest as a mediator. By fulfilling the promises and prophecies of the Old Testament, Christ's priesthood brings perfect atonement, reconciliation, righteousness, and redemption, enabling us to draw near to God and experience true perfection.",
+        "wordCount": 83,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.160046017832895,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+        "commentatorTierSimilarities": [
+            37.39,
+            30.15,
+            32.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The law had not the power to bring any thing whatever to perfection, to its appointed end and excellence.",
+            "The contrast is between the preceding commandment, weak and unprofitable, and a better thing, viz. the hope which brings us near to God.",
+            "We being justified by faith can approach the very throne of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The law could not bring men to true justification or sanctification before God, which is the 'perfection' that we all need in order to be accepted of Him, and which we have in Christ.",
+            "The law brought nothing to its perfected end everything in it was introductory to its antitype in the Christian economy, which realizes the perfection contemplated.",
+            "The access through the legal sacrifices was only symbolical and through the medium of a priest; that through Christ is immediate, perfect, and spiritual."
+        ],
+        "Albert Barnes": [
+            "The Levitical, ceremonial law. It did not produce a perfect state; it did not do what was desirable to be done for a sinner...",
+            "There is now the introduction of a better system by which we can approach a reconciled God.",
+            "We have access to him; notes, Romans 5:1-2."
+        ],
+        "Marvin Vincent": [
+            "The writer means to say is that, according to the Psalm, there takes place, on the one hand, a disannulling of the preliminary commandment because it was weak and unprofitable, unable to perfect anything, and on the other hand, the introduction of a better hope.\" ",
+            "Christianity is the religion of good hope because by it men first enter into intimate fellowship with God. The old priesthood could not effect this.\" ",
+            "The new priesthood was established with the oath of God; it is held perpetually by one person, in contrast with the old priesthood which was administered by a succession of priests."
+        ],
+        "John Calvin": [
+            "The Law was only a beginning; then something more perfect was necessarily, to follow; for it is not fit that God\u2019s children should always continue in childish elements.",
+            "By a better hope is to be understood the condition of the faithful under the reign of Christ... They were therefore led by the hand of the Law as a schoolmaster, that they might advance farther.",
+            "And whosoever continues in the Law, knowingly and willingly deprives himself of the privilege of approaching nigh to God."
+        ],
+        "Archibald T. Robertson": [
+            "And yet law is necessary.",
+            "A bringing in thereupon...for the introduction of a new wife in place of the repudiated one.",
+            "This better hope does bring us near to God as we come close to God's throne through Christ."
+        ],
+        "John Gill": [
+            "The law made nothing perfect... it could not perfectly make atonement for sin; nor make men perfectly holy or righteous; it could neither justify nor sanctify...",
+            "But the bringing in of a better hope did... the priesthood of Christ... is generally understood, which is the ground of hope; for all promises respecting eternal life are confirmed by it, and all blessings connected with it procured...",
+            "...the bringing in of him [Christ] and his priesthood did make something perfect; it brought to perfection all the types, promises, and prophecies of the Old Testament, the whole law, moral and ceremonial; it brought in perfect atonement, reconciliation, pardon, righteousness, and redemption..."
+        ],
+        "John Wesley": [
+            "The law...made nothing perfect.",
+            "The bringing in of a better hope...does [make us draw nigh to God].",
+            "Yea, so nigh as to be one spirit with him. And this is true perfection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The old law was weak and unprofitable, unable to bring anything to perfection. It could not justify or sanctify us before God, and it required a priest as a mediator for access to God. But through the better hope found in Christ, we are justified by faith and can approach God's throne directly. Christianity offers a new priesthood, established with the oath of God, held perpetually by one person. This new system allows us to draw near to God and enter into intimate fellowship with Him. The old law may not have brought us to perfection, but the introduction of a better hope in Christ did, bringing to fruition all the prophecies and promises of the Old Testament. Through this better hope, we are able to be one spirit with God and experience true perfection.",
+            "wordCount": 136,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 2.0469324193729386,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.4,
+            "commentatorTierSimilarities": [
+                37.13,
+                30.2,
+                32.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The old law was weak and unprofitable, unable to bring anything to perfection or justify us before God. But through the better hope found in Christ, we are justified by faith and can approach God's throne. This new system allows us to draw near to God and enter into intimate fellowship with Him. The introduction of a better hope in Christ brings to fruition all the prophecies and promises of the Old Testament, leading us to true perfection and oneness with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.155155624386057,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.0,
+            "commentatorTierSimilarities": [
+                37.1,
+                29.93,
+                32.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The old law, weak and unprofitable, could not bring us to perfection or allow us to be accepted by God. However, through the better hope found in Christ, we are justified by faith and can directly approach God's throne. This new system of faith offers a closer fellowship with God, without the need for a priest to mediate. The introduction of this better hope, fulfilled in Christ's priesthood, promises perfect atonement, reconciliation, pardon, righteousness, and redemption, enabling us to draw near to God and experience true perfection.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1225694503982506,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                38.24,
+                28.17,
+                33.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The weak and unprofitable old law lacked the power to bring about true perfection or justification before God. However, the introduction of a better hope in Christ allows us, through faith, to approach God's throne directly. This new system of faith offers a closer fellowship with God, without the need for a priest as a mediator. By fulfilling all the promises and prophecies, Christ's priesthood brings perfect atonement, reconciliation, righteousness, and redemption, enabling us to draw near to God and experience true perfection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.132582402190052,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.25,
+            "commentatorTierSimilarities": [
+                37.72,
+                29.36,
+                32.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The old law, weak and unprofitable, could not bring true perfection or sanctification before God. Through faith, the better hope found in Christ allows us to approach God's throne directly. This new system brings us the possibility of intimate fellowship with God, without the need for a priest as a mediator. By fulfilling the promises and prophecies of the Old Testament, Christ's priesthood brings perfect atonement, reconciliation, righteousness, and redemption, enabling us to draw near to God and experience true perfection.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.160046017832895,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+            "commentatorTierSimilarities": [
+                37.39,
+                30.15,
+                32.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

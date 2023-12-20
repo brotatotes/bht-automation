@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 17:46:47",
+    "verseRef": "Hebrews 3:19",
+    "bestBHT": {
+        "bht": "Those mentioned were incapable of entering God's promises because they failed to meet the condition of belief and obediently fulfilling His will. This conclusive observation solidifies the preceding argument, emphasizing the severe consequences of unbelief. To avoid this pitfall, it is imperative that we lead a life rooted in faith, guided by the example of the Apostle Paul, who lived by the faith of the Son of God, the One who loved him and made the ultimate sacrifice.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.5130143307160646,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+        "commentatorTierSimilarities": [
+            32.62,
+            38.03,
+            29.35
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They were incapacitated by not fulfilling the condition of inheriting all God\u2019s promises, belief and resulting obedience.",
+            "This verse forms a kind of 'quod erat demonstrandum' [as Ebrard], clenching the argument which has been proceeding since ver. 12.",
+            "The Writer now proceeds to make another use of the example on which he has been so long dwelling."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. they could not enter\u2014though",
+            "\tdesiring it."
+        ],
+        "Albert Barnes": [
+            "(1) \"A 'lack of confidence in God' is the great source of evil in this world, and will be the cause of wretchedness to all eternity of unnumbered hosts.",
+            "(2) \"Unbelief once admitted into the heart is the beginning of many woes. When a man loses confidence in God, he is on a shoreless ocean that is full of whirlpools, and rocks, and quicksands.",
+            "(3) \"Let us live a life of faith. Let us so live that we may say with Paul, 'The life that I now live in the flesh I live by the faith of the Son of God, who loved me and gave himself for me.'"
+        ],
+        "Philip Schaff": [
+            "Hebrews 3:19. So; literally \u2018And\u2019 [we see], i.e from these facts.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "And we see (\u03ba\u03b1 \u03b2\u03bb\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd). Triumphant conclusion of the exegesis of Hebrews 3:95. \"So we see.\" "
+        ],
+        "John Gill": [
+            "So we see that they could not enter in... because of unbelief; their distrust of God, his power, and his providence...\" (100 words)",
+            "This instance is produced by the apostle, to show the evil nature of unbelief, and the sad effects of it...\" (76 words)",
+            "[The apostle] further improves [this instance] in the following chapter.\" (9 words)"
+        ],
+        "John Wesley": [
+            "So we see they could not enter in \u2014 Though afterward they desired it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Hebrews mentioned in the verse were unable to enter God's promises because of their lack of belief and obedience. This conclusion solidifies the argument made since earlier in the chapter, and serves as a cautionary example for the readers to not fall into the trap of unbelief. Unbelief, once allowed in the heart, can lead to great wretchedness, as it shows a lack of confidence in God. To combat this, it is important to live a life of faith, relying on the Son of God who loved us and gave Himself for us.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5543818030608936,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                29.58,
+                39.25,
+                31.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Hebrews mentioned were unable to enter God's promises due to a lack of belief and obedience. This conclusion clinches the argument made throughout, serving as a cautionary example for the readers. Unbelief, once in the heart, leads to wretchedness. To combat this, it is important to live a life of faith, relying on the Son of God who loved and gave Himself for us.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4365998385418994,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.11,
+            "commentatorTierSimilarities": [
+                33.56,
+                38.85,
+                27.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Hebrews mentioned in the passage were hindered from inheriting God's promises because they did not fulfill the condition of belief and obedience. This forms a conclusive argument, underscoring the importance of faith and trust in God. Unbelief, once it takes root, can lead to countless troubles. The remedy lies in living a life of faith, following the example of the Apostle Paul, who acknowledged that his existence is sustained by the faith of the Son of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4766473895177878,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+            "commentatorTierSimilarities": [
+                33.03,
+                43.95,
+                23.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Hebrews mentioned were unable to enter God's promises due to their lack of belief and resulting disobedience. This serves as a conclusive point in the argument made previously, highlighting the detrimental nature of unbelief and its long-lasting consequences. It is crucial for us to live a life of faith, recognizing that our existence is sustained by the faith of the Son of God who demonstrated His love by sacrificing Himself for us.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5589736333744009,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.18,
+            "commentatorTierSimilarities": [
+                33.47,
+                38.91,
+                27.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those mentioned were incapable of entering God's promises because they failed to meet the condition of belief and obediently fulfilling His will. This conclusive observation solidifies the preceding argument, emphasizing the severe consequences of unbelief. To avoid this pitfall, it is imperative that we lead a life rooted in faith, guided by the example of the Apostle Paul, who lived by the faith of the Son of God, the One who loved him and made the ultimate sacrifice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5130143307160646,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                32.62,
+                38.03,
+                29.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

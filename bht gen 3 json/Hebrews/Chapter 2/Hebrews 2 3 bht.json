@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:11",
+    "verseRef": "Hebrews 2:3",
+    "bestBHT": {
+        "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. This salvation is embodied in Jesus, whose very name means 'salvation.' It includes deliverance from foes, death, and the grant of temporal blessings, but also the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life. This salvation was confirmed by the testimony of ear-witnesses, proving its reality.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.079387966440599,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+        "commentatorTierSimilarities": [
+            36.1,
+            27.46,
+            36.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How shall we escape, if we have neglected so great salvation?",
+            "The Lord Himself, the Master of angels, first brought to us the doctrine of salvation.",
+            "We have not simply believed them, but have been helped by signs and wonders: so that we have not believed them, but God Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "so great salvation\u2014embodied in Jesus, whose very name means 'salvation,' including not only deliverance from foes and from death, and the grant of temporal blessings (which the law promised to the obedient), but also grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life (Hebrews 2:10).\" ",
+            "Both law and Gospel came from God, the difference here referred to lay in the instrumentality by which each respectively was promulgated.",
+            "not to become partisans of particular apostles, as Peter... This verse implies that the Hebrews of the churches of Palestine and Syria were primarily addressed in this Epistle."
+        ],
+        "Albert Barnes": [
+            "A man who is in business need not commit forgery or robbery to ruin himself; he has only to 'neglect' his business, and his ruin is certain.",
+            "No worldly interest can prosper where there is neglect; and why may it not be so in religion?",
+            "The danger of an eternal hell! Salvation from everlasting burnings! Deliverance from unending ruin! Surely that salvation must be great which shall save from such a doom!"
+        ],
+        "Marvin Vincent": [
+            "We, to whom God has spoken by his Son, and who, therefore, have so much the more reason for giving heed.",
+            "A salvation which may be described as one which was first spoken by the Lord.",
+            "It was sure even as was the word spoken by angels, and it was confirmed, proved to be real, by the testimony of ear-witnesses."
+        ],
+        "John Calvin": [
+            "Not only the rejection of the Gospel, but also its neglect, deserves the heaviest punishment, and that on account of the greatness of the grace which it offers...",
+            "He who seeks salvation in any other way, seeks to attain it by another power than that of God; which is an evidence of extreme madness.",
+            "To 'neglect,' is literally, not to care for; not to care for our salvation is to neglect it."
+        ],
+        "Philip Schaff": [
+            "The Lord is here regarded as the divine messenger, whose message God Himself attested.",
+            "The primary evidence of Christianity is Christ and Christians - the character of Him who first taught it, and next the testimony of men who have believed it.",
+            "Not to care about a message of reconciliation and holiness decides the character and the destiny of many who have heard but will not regard."
+        ],
+        "Archibald T. Robertson": [
+            "How shall we escape?\" - Rhetorical question with future middle indicative of \u03b5\u03ba\u03c6\u03b5\u03c5\u03b3\u03c9 and conclusion of the condition.",
+            "So great salvation\" - Ablative case after \u03b1\u03bc\u03b5\u03bb\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2. Correlative pronoun of age, but used of size in the N.T. (James 3:4; 2 Corinthians 1:10).",
+            "Having at the first been spoken\" - Literally, \"having received a beginning to be spoken,\" \"having begun to be spoken,\" a common literary Koine idiom (Polybius, etc.)."
+        ],
+        "John Gill": [
+            "And it is a 'great' salvation; the Gospel which reveals it is great, for the author of it is Christ; it has been confirmed by miracles, and attended with great success.",
+            "To 'neglect' this, is to be careless of it; to condemn it, and to despise the ministers of it; and to make anything else but Christ the way of salvation.",
+            "And though the apostle had it first by revelation from Christ himself, it was confirmed to him by Ananias."
+        ],
+        "John Wesley": [
+            "So great a salvation \u2014 A deliverance from so great wickedness and misery, into so great holiness and happiness.",
+            "This was first spoken of (before he came it was not known) by Him who is the Lord - of angels as well as men.",
+            "And was confirmed to us \u2014 Of this age, even every article of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. It is not simply something we have believed, but rather, we have been helped by signs and wonders, proving that we have not believed them, but God Himself. This salvation is embodied in Jesus, who not only delivers us from foes and death, but also grants us the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life. The difference between the law and the Gospel is the instrumentality by which each was promulgated. We, to whom God has spoken through His Son, have even more reason to give heed. This salvation was sure, just as the word spoken by angels was sure, and it was confirmed by the testimony of ear-witnesses.",
+            "wordCount": 145,
+            "quoteTokenProportion": 48.31,
+            "qualityScore": 2.0979066626731706,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                39.47,
+                27.16,
+                33.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. We have not simply believed them, but have been helped by signs and wonders, proving that we have not believed them, but God Himself. This salvation is embodied in Jesus, who grants us the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life. The difference between the law and the Gospel lies in the instrumentality by which each was promulgated.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0406924093752017,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                38.95,
+                27.66,
+                33.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. This salvation is embodied in Jesus, who grants us the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life. The difference between the law and the Gospel lies in the instrumentality by which each was promulgated. This salvation was confirmed by the testimony of ear-witnesses.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.073147475188392,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                37.62,
+                26.61,
+                35.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. We have not simply believed them, but have been helped by signs and wonders, proving that we have not believed them, but God Himself. This salvation is so great that it includes deliverance from foes, death, and the grant of temporal blessings, as well as the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.0601955690086227,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                38.17,
+                27.88,
+                33.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How can we escape if we neglect such a great salvation? The Lord Himself, the Master of angels, first brought this doctrine of salvation to us. This salvation is embodied in Jesus, whose very name means 'salvation.' It includes deliverance from foes, death, and the grant of temporal blessings, but also the grace of the Spirit, forgiveness of sins, and the promise of heaven, glory, and eternal life. This salvation was confirmed by the testimony of ear-witnesses, proving its reality.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.079387966440599,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                36.1,
+                27.46,
+                36.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:51:05",
+    "verseRef": "Hebrews 12:29",
+    "bestBHT": {
+        "bht": "For moreover our God is a consuming fire. The fact that God\u2019s anger continues to burn against those who reject his Kingdom. The fire of God\u2019s presence and purity becomes to His people, consuming their vanity, sin, and earthly state. Our God, whom we hope in, is also to be feared. He is love, yet there is another side of His character; God has wrath against sin. Thus, God omits nothing to draw us to Him, starting with love and kindness, but also using fear to bring about obedience.",
+        "wordCount": 91,
+        "quoteTokenProportion": 54.69,
+        "qualityScore": 2.178912500811558,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+        "commentatorTierSimilarities": [
+            34.6,
+            29.53,
+            35.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For moreover our God is a consuming fire.",
+            "The fact that God\u2019s anger continues to burn now, as then, against those who reject his Kingdom.",
+            "The fire of God\u2019s presence and purity becomes to His people, while it consumes their vanity and sin and earthly state, the fire of purity and light and love for their enduring citizenship of His kingdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our God\u2014in whom we hope, is also to be feared.",
+            "He is love...yet there is another side of His character; God has wrath against sin.",
+            "God...is also to be feared."
+        ],
+        "Albert Barnes": [
+            "The fearfulness with which he would come forth to destroy the wicked might be compared to a 'fire' that consumed all before it.",
+            "The image here is a most fearful one, and is in accordance with all the representations of God in the Bible and with all that we see in the divine dealings with wicked people, that punishment; as inflicted by him is awful and overwhelming.",
+            "By all these tender and solemn considerations, therefore, the apostle urges the friends of God to perseverance and fidelity in his service."
+        ],
+        "John Calvin": [
+            "Thus we see that God omits nothing by which he may draw us to himself; he begins indeed with love and kindness, so that we may follow him the more willingly; but when by alluring he effects but little, he terrifies us.\" ",
+            "It is expedient that the grace of God should never be promised to us without being accompanied with threatening; for we are so extremely prone to indulge ourselves, that without the application of these stimulants the milder doctrine would prove ineffectual.\" ",
+            "Under the Gospel no less than under the Law God is a consuming fire to apostates; and apostasy or idolatry is the sin especially referred to in Deuteronomy 4:24."
+        ],
+        "Philip Schaff": [
+            "For a fresh reason for the reverence and the service our God is a consuming fire.",
+            "A devout sense of what we owe to God is a strong motive to holy service.",
+            "Thankfulness and fear are both among the motive forces of the Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "A consuming fire (\u03c0\u03c5\u03c1 \u03ba\u03b1\u03c4\u03b1\u03bd\u03b1\u03bb\u03b9\u03c3\u03ba\u03bf\u03bd).",
+            "Present active participle of \u03ba\u03b1\u03c4\u03b1\u03bd\u03b1\u03bb\u03b9\u03c3\u03ba\u03c9, old compound verb.",
+            "This verse is to be coupled with Hebrews 10:31."
+        ],
+        "John Gill": [
+            "God, and he only, is to be worshipped; and he is to be worshipped in a way suitable to himself; and he has the sole right of fixing the manner of worship."
+        ],
+        "John Wesley": [
+            "For our God is a consuming fire \u2014 in the strictness of his justice, and purity of his holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For moreover our God is a consuming fire. The fact that God\u2019s anger continues to burn now, as then, against those who reject his Kingdom. The fire of God\u2019s presence and purity becomes to His people, while it consumes their vanity and sin and earthly state, the fire of purity and light and love for their enduring citizenship of His kingdom. He is love...yet there is another side of His character; God has wrath against sin. Thus we see that God omits nothing by which he may draw us to himself; he begins indeed with love and kindness, so that we may follow him the more willingly; but when by alluring he effects but little, he terrifies us.",
+            "wordCount": 121,
+            "quoteTokenProportion": 55.84,
+            "qualityScore": 2.1447207695102817,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                33.69,
+                28.95,
+                37.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For moreover our God is a consuming fire. The fact that God\u2019s anger continues to burn now, as then, against those who reject his Kingdom. The fire of God\u2019s presence and purity becomes to His people, while it consumes their vanity and sin and earthly state, the fire of purity and light and love for their enduring citizenship of His kingdom. Thus we see that God omits nothing by which he may draw us to himself; he begins indeed with love and kindness, so that we may follow him the more willingly; but when by alluring he effects but little, he terrifies us.",
+            "wordCount": 105,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 2.147799165903737,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
+            "commentatorTierSimilarities": [
+                33.35,
+                28.81,
+                37.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For moreover our God is a consuming fire. The fact that God\u2019s anger continues to burn against those who reject his Kingdom. The fire of God\u2019s presence and purity becomes to His people, consuming their vanity, sin, and earthly state. Our God, whom we hope in, is also to be feared. He is love, yet there is another side of His character; God has wrath against sin. Thus, God omits nothing to draw us to Him, starting with love and kindness, but also using fear to bring about obedience.",
+            "wordCount": 91,
+            "quoteTokenProportion": 54.69,
+            "qualityScore": 2.178912500811558,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "commentatorTierSimilarities": [
+                34.6,
+                29.53,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For moreover our God is a consuming fire. The fire of God\u2019s presence and purity consumes the vanity, sin, and earthly state of His people, transforming them into vessels of purity, light, and love for His enduring kingdom. While God is love, there is also a side of His character that expresses wrath against sin. Thus, God employs both love and fear to draw us to Himself, beginning with love and kindness to invite us willingly, but also using fear as a powerful motivator when love alone is insufficient.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.178010434135375,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                32.49,
+                30.95,
+                36.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For moreover our God is a consuming fire. The fact that God\u2019s anger continues to burn against those who reject his Kingdom. The fire of God\u2019s presence and purity becomes to His people, consuming their vanity, sin, and earthly state. Our God is love, yet there is another side of His character. Thus, God omits nothing to draw us to Him, starting with love and kindness, but also using fear to bring about obedience.",
+            "wordCount": 76,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 2.1746404996018764,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.65,
+            "commentatorTierSimilarities": [
+                33.19,
+                30.36,
+                36.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:22",
+    "verseRef": "Hebrews 7:8",
+    "bestBHT": {
+        "bht": "The superiority of Melchizedek's perpetual priesthood is seen in contrast to the temporary Levitical priesthood. While the Levites, who are mortal men, receive tithes, Melchizedek is attested that he lives. The absence of any mention of Melchizedek's death emphasizes his eternal priesthood, in contrast to the dying Levites. Melchizedek's enduring role finds its fulfillment in Christ, who possesses an endless life. The testimony concerning Melchizedek highlights the superior priesthood of Christ, who is not spoken of as one who died to be succeeded by another.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.1333268413274364,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.27,
+        "commentatorTierSimilarities": [
+            34.72,
+            29.56,
+            35.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Second item of superiority, in that Melchisedec\u2019s is an enduring, the Levitical a transitory priesthood.",
+            "And here indeed (the Levitical priesthood being still in existence in the Writer\u2019s time) men who die (there is a secondary emphasis on men: men, who die) receive tithes.",
+            "...there (i. e. in this matter concerning Melchisedec) one, of whom it is testified... that he liveth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the law was a parenthesis between Abraham's dispensation of promise of grace, and its enduring fulfilment at Christ's coming: so the Levitical priesthood was parenthetical and temporary.",
+            "Melchisedec 'liveth' merely in his official capacity, his priesthood being continued in Christ.",
+            "Christ, on the other hand, is, in His own person, 'ever living after the power of an endless life.' Melchisedec's death not being recorded, is expressed by the positive term 'liveth,' for the sake of bringing into prominence the antitype, Christ."
+        ],
+        "Albert Barnes": [
+            "They who thus received tithes, though by the right to do this they asserted a superiority over their brethren, were mortal. Like others, they would soon die; and in regard to the most essential things they were on a level with their brethren.",
+            "The fair and obvious meaning is, that all the record we have of Melchizedek is, that he was 'alive;' or as Grotins says, the record is merely that he lived. We have no mention of his death.",
+            "The ancient philosophers had methods of reasoning which now seem weak to us; the lawyer often argues in a way which appears to be a mere quirk or quibble, and so the lecturer in science sometimes reasons. The cause of all this may not be always that there is real quibble or quirk, in the mode of argumentation, but that he who reasons in this manner has in his view certain points which he regards as undisputed which do not appear so to us."
+        ],
+        "Marvin Vincent": [
+            "The Levites are dying men, who pass away in due course, and are succeeded by others.",
+            "Melchisedec does not appear in Scripture as one who dies, and whose office passes to another.",
+            "Melchisedec... being attested that he liveth."
+        ],
+        "John Calvin": [
+            "This would not indeed hold as to others, but as to Melchisedec it ought rightly to be so regarded, inasmuch as he was a type of Christ.\" ",
+            "And by these words the Apostle intended to show, that the dignity of Melchisedec\u2019s priesthood was to be perpetual, while that of the Levites was temporary.",
+            "To live often means to be perpetual; and to die intimates what is evanescent. The Levites were dying men, which showed the character of their office, Melchisedec is represented as not dying, which betokens that his office as a priest is perpetual."
+        ],
+        "Philip Schaff": [
+            "Men that die receive tithes; but there he receiveth them, of whom It is witnessed that he liveth.",
+            "No \u2018end of life\u2019 is affirmed of him at all.",
+            "Before the law the priest was priest as long as he lived, and so was perpetual."
+        ],
+        "Archibald T. Robertson": [
+            "Here (\u03c9\u03b4\u03b5). In the Levitical system.",
+            "There (\u03b5\u03ba\u03b5). In the case of Melchizedek.",
+            "That he lives (\u03bf\u03c4 \u03b6\u03b7)."
+        ],
+        "John Gill": [
+            "The priests and Levites were not only men, and mortal men, subject to death, but they did die, and so did not continue, by reason of death.\" ",
+            "He receiveth them, of whom it is witnessed that he liveth which is to be understood of Melchizedek; who is not opposed to men, as if he was not a man, nor to mortal men, but to men that die.",
+            "This may respect the silence of the Scripture concerning him, which gives no account of his death; and may be interpreted of the perpetuity of his priesthood, and of his living in his antitype Christ; and the testimony concerning him is in Psalms 110:4."
+        ],
+        "John Wesley": [
+            "He of whom it is testified that he liveth \u2014 Who is not spoken of as one that died for another to succeed him; but is represented only as living, no mention being made either of his birth or death.",
+            "In the case of Melchisedec.",
+            "Who is not spoken of as one that died for another to succeed him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The superiority of Melchizedek's enduring priesthood is evident when compared to the transitory Levitical priesthood. While the Levites, who are mortal men, receive tithes in the levitical system, Melchizedek is attested that he lives. The absence of any mention of Melchizedek's death emphasizes his perpetual priesthood, in contrast to the dying Levites who are succeeded by others. Melchizedek's priesthood finds its antitype in Christ, who possesses an endless life. The Scripture is silent about Melchizedek's death, further highlighting his eternal role as a priest. The testimony concerning Melchizedek brings into prominence the superior priesthood of Christ, who is not spoken of as one who died to be succeeded by another.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.169402144478817,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                34.27,
+                30.0,
+                35.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The superiority of Melchizedek's perpetual priesthood is seen in contrast to the temporary Levitical priesthood. While the Levites, who are mortal men, receive tithes, Melchizedek is attested that he lives. The absence of any mention of Melchizedek's death emphasizes his eternal priesthood, in contrast to the dying Levites. Melchizedek's enduring role finds its fulfillment in Christ, who possesses an endless life. The testimony concerning Melchizedek highlights the superior priesthood of Christ, who is not spoken of as one who died to be succeeded by another.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.1333268413274364,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.27,
+            "commentatorTierSimilarities": [
+                34.72,
+                29.56,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The enduring priesthood of Melchizedek surpasses the transient Levitical priesthood. While the Levites, being mortal men, receive tithes, Melchizedek's perpetual priesthood is attested in the Scriptures. The absence of any mention of his death highlights the eternal nature of his office, in contrast to the Levites who pass away in due course. Melchizedek's priesthood continues in Christ, who possesses an endless life. The testimony concerning Melchizedek brings prominence to Christ's superior priesthood, which does not involve succession through death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.0941016184156935,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                36.26,
+                29.02,
+                34.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Hebrews 7:8, the author highlights the superiority of Melchizedek's eternal priesthood compared to the temporary Levitical priesthood. While the Levites, being mortal men, receive tithes, Melchizedek's priesthood is attested to be ongoing. The absence of any mention of Melchizedek's death emphasizes the perpetuity of his priesthood, contrasting with the Levites who pass away and are replaced. The everlasting nature of Melchizedek's priesthood finds its fulfillment in Christ, who possesses an endless life and serves as the ultimate High Priest.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.1832334985520423,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                35.64,
+                29.4,
+                34.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Melchizedek's enduring priesthood contrasts with the transitory Levitical priesthood. While mortal men receive tithes in the Levitical system, Melchizedek is attested as living. The absence of any mention of his death underscores his perpetual role, in contrast to the Levites who pass away, making way for successors. This perpetuity signifies Christ's own everlasting priesthood, which surpasses the temporary nature of the Levitical priesthood. The testimony regarding Melchizedek highlights the superiority of Christ's priesthood, uninterrupted by death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.116982835535067,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+            "commentatorTierSimilarities": [
+                35.66,
+                29.41,
+                34.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

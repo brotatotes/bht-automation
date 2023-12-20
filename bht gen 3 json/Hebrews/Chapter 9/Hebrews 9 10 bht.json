@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:49:06",
+    "verseRef": "Hebrews 9:10",
+    "bestBHT": {
+        "bht": "The law focused heavily on regulations about eating, while neglecting the topic of drinking. These rituals and ordinances of the flesh, such as meals and washings, were merely symbolic and could not bring about true inward change. The time of reformation came with Christianity, as God established a better covenant that surpassed the limitations of the old laws. This new covenant was a transformation of the current Judaism, fulfilling the promise made to Abraham and bringing about a perfect rectification through Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 2.029368191705048,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+        "commentatorTierSimilarities": [
+            36.53,
+            29.28,
+            34.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The law prescribed much about eating: nothing about drinking, except some general rules of uncleanness.",
+            "The divers washings may refer to all the washings ordained by the law, but it seems likely that not the sacredotal washings, so much as those prescribed to or observed by the people, are mainly in view.",
+            "They regarded material things, gifts, sacrifices, means, drinks, washings, which from their very nature could only affect the outward not the inward man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The rites of meats, & drinks, go side by side with the sacrifices.",
+            "Carnal ordinances\" stand in apposition to \"sacrifices.",
+            "The season of rectification, when the reality should supersede the type."
+        ],
+        "Albert Barnes": [
+            "The ordinances of the Jews, in connection with the services of religion, consisted much of laws pertaining to what was lawful to eat and drink, etc.",
+            "It is possible also that there may be a reference here to meat and drink offerings.",
+            "The idea here is, that those ordinances were only temporary in their nature, and were designed to endure until a more perfect system should be introduced."
+        ],
+        "Marvin Vincent": [
+            "The impotence of the gifts and sacrifices lay in the fact that they were only symbolic ordinances.\" ",
+            "Being mere ordinances of the flesh.",
+            "The time of reformation is the Christian age, when God made with his people a better covenant."
+        ],
+        "John Calvin": [
+            "The new covenant succeeded the old as a reformation.",
+            "He expressly mentions meats and drinks, and other things of minor importance, because by these trifling observances a more certain opinion may be formed how far short was the Law of the perfection of the Gospel.",
+            "Jeremiah 31:31 is more appropriate in the current context of reformation."
+        ],
+        "Philip Schaff": [
+            "They purified the flesh and not the spirit. They failed to meet the demands of the awakened conscience and to bring back that blessed fellowship with God which sin destroys.",
+            "Burdensome in themselves...they were imposed on men to prepare them for better things, and for a better time, when all is to be put right in the conscience, in the life, and with God.",
+            "Such is the earthly sanctuary and its ordinances...until what is to prove God\u2019s set time, when all is to be made straight."
+        ],
+        "Archibald T. Robertson": [
+            "What ritual value these Levitical sacrifices had was confined to minute regulations about diet and ceremonial cleansing.",
+            "Christianity itself is the great Reformation of the current Judaism (Pharisaism) and the spiritual Judaism foreshadowed by the old Abrahamic promise.",
+            "\u0394\u03b9\u03bf\u03c1\u03b8\u03c9\u03c3\u03b9\u03c2 is a late word, here alone in N.T., used by Hippocrates for making straight misshapen limbs like \u03b1\u03bd\u03bf\u03c1\u03b8\u03bf\u03c9 in Hebrews 12:12. Here for reformation."
+        ],
+        "John Gill": [
+            "These were the washings of the priests and of the Israelites, and of sacrifices, and of garments, and of vessels and other things; and which, because they were performed by immersion, they are called 'baptisms'.\" ",
+            "They were enjoined the Jews only, though by God himself; and were put upon them as a burden, or a yoke, and which was on some accounts intolerable.",
+            "In which saints are directed to Christ, the sum and substance of all types, shadows, and sacrifices, and in whom alone perfection is."
+        ],
+        "John Wesley": [
+            "They could not so perfect him, with all their train of precepts relating to meats and drinks, and carnal, gross, external ordinances..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The law prescribed many rules about eating, but was silent on drinking, focusing more on the outward cleanliness of the body than on matters of the heart. The rituals of eating and drinking were closely tied to the sacrifices, but their true value lay in their symbolism rather than their ability to truly cleanse. These ordinances were mere external observances, unable to bring about the inner transformation that was needed. The time of reformation came with the advent of Christianity, where God made a better covenant that surpassed the limitations of the old laws. The new covenant was a reformation, replacing the burdensome rituals of the old with the perfect sacrifice of Christ.",
+            "wordCount": 113,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 2.083112982902672,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+            "commentatorTierSimilarities": [
+                38.01,
+                28.51,
+                33.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law focused heavily on regulations about eating, while neglecting the topic of drinking. These rituals and ordinances of the flesh, such as meals and washings, were merely symbolic and could not bring about true inward change. The time of reformation came with Christianity, as God established a better covenant that surpassed the limitations of the old laws. This new covenant was a transformation of the current Judaism, fulfilling the promise made to Abraham and bringing about a perfect rectification through Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.029368191705048,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                36.53,
+                29.28,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law prescribed rules concerning eating, but little about drinking, focusing mainly on outward rituals and cleanliness. These ordinances were only symbolic and unable to bring about true inward transformation. The time of reformation came with Christianity, ushering in a better covenant that surpassed the limitations of the old laws. This new covenant marked a significant change from the old Judaism, fulfilling the spiritual promises of the Abrahamic covenant through Christ, and offering a perfect rectification of the soul.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.025994715551358,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+            "commentatorTierSimilarities": [
+                37.35,
+                27.63,
+                35.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law prescribed rules about eating and drinking, with a special emphasis on washings and sacrifices. However, these rituals were merely external and symbolic, lacking the power to bring about true inward transformation. They were considered ordinances of the flesh, focusing on the outward rather than the inward man. The time of reformation occurred with the advent of Christianity, introducing a better covenant that superseded the limitations of the old laws. This new covenant was a spiritual Judaism, fulfilling the promises made to Abraham and offering a perfect rectification through Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.9821490567037068,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                36.85,
+                27.93,
+                35.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law prescribed rules about eating, drinking, washings, and sacrifices, but these were mere ordinances of the flesh, unable to bring about true inner change. However, with the arrival of Christianity, a time of reformation began. God established a better covenant that surpassed the limitations of the old laws. This new covenant represented a spiritual Judaism, fulfilling the promises made to Abraham and offering a perfect rectification through Christ. The rituals and symbols of the old were replaced by the transformative power of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.9341118263378356,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                36.28,
+                28.6,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

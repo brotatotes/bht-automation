@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 17:49:18",
+    "verseRef": "Hebrews 10:17",
+    "bestBHT": {
+        "bht": "The inclusion of their iniquities emphasizes the writer's discussion of sins. Though the relationship between this statement and the previous passages is uncertain, what is clear is the importance of God's promise of non-remembrance of sin. This promise is a central aspect of the new covenant, rendering legal sacrifices obsolete in light of its forgiveness and remission of sin.",
+        "wordCount": 62,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.6228538862485353,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+        "commentatorTierSimilarities": [
+            41.28,
+            0.0,
+            58.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Here again the writer adds 'their iniquities' (\u03c4\u03c9\u03bd \u03b1\u03bd\u03bf\u03bc\u03b9\u03c9\u03bd) to 'sins' of Hebrews 8:12.\" ",
+            "It is uncertain also whether the writer means verse Hebrews 10:17 to be the principal clause with Hebrews 10:15; Hebrews 10:16 as subordinate or the whole quotation to be subordinate to \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5\u03bd\u03b1 of verse Hebrews 10:15 with anacoluthon in verse Hebrews 10:18.\" ",
+            "At any rate verse Hebrews 10:17 in the quotation does not follow immediately after verse Hebrews 10:16 as one can see in Hebrews 8:10-12 (skipping part of Hebrews 8:10 and all of Hebrews 8:11)."
+        ],
+        "John Gill": [
+            "The principal thing for which they are cited here, is to observe God's promise of non-remembrance of sin.\" ",
+            "Which is no other than remission of sin, and which is not consistent with legal sacrifices.\" ",
+            "Since this new covenant has taken place, legal sacrifices must be abolished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 10:17, the writer emphasizes the inclusion of their iniquities to the sins mentioned in Hebrews 8:12. There is some uncertainty as to whether verse Hebrews 10:17 is the principal clause or subordinate to Hebrews 10:15 and 10:16. However, one thing is clear: verse Hebrews 10:17 highlights God's promise of non-remembrance of sin, which is a central aspect of the new covenant. As a result, legal sacrifices, which are inconsistent with this remission of sin, must be abolished.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.366659065208922,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.03,
+            "commentatorTierSimilarities": [
+                56.49,
+                0.0,
+                43.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews adds their iniquities to the sins mentioned earlier. There is uncertainty about the relationship between verse 17 and the previous verses, but it is clear that verse 17 emphasizes God's promise of non-remembrance of sin, which is a crucial aspect of the new covenant. This promise of forgiveness is not compatible with legal sacrifices, and thus, they are no longer necessary.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9745992300891235,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                51.49,
+                0.0,
+                48.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the discussion of sins mentioned earlier, the writer adds the mention of their iniquities. The relationship between this verse and the preceding verses is not entirely clear, but what is evident is the emphasis on God's promise of non-remembrance of sin. This promise is integral to the new covenant, making legal sacrifices unnecessary in light of its forgiveness and remission of sin.",
+            "wordCount": 65,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.8224738874073128,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.94,
+            "commentatorTierSimilarities": [
+                48.21,
+                0.0,
+                51.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inclusion of their iniquities emphasizes the writer's discussion of sins. Though the relationship between this statement and the previous passages is uncertain, what is clear is the importance of God's promise of non-remembrance of sin. This promise is a central aspect of the new covenant, rendering legal sacrifices obsolete in light of its forgiveness and remission of sin.",
+            "wordCount": 62,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6228538862485353,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+            "commentatorTierSimilarities": [
+                41.28,
+                0.0,
+                58.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer adds their iniquities to the discussion of sins, highlighting God's promise of non-remembrance of sin. The connection between this verse and the preceding passages is somewhat unclear, but it is evident that forgiveness plays a central role in the new covenant, rendering legal sacrifices unnecessary.",
+            "wordCount": 49,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.9049661359216281,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                47.54,
+                0.0,
+                52.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

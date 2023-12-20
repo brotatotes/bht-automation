@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:49:24",
+    "verseRef": "Hebrews 10:9",
+    "bestBHT": {
+        "bht": "The rejection of legal sacrifices involves Jesus voluntarily offering himself as a pleasing sacrifice to God, taking away the animal sacrifices that God does not will and establishing the offering of an obedient will. This act of removing the first, the system of animal sacrifices, to establish the second, doing God's will, is the author's exegesis. Christ's coming was necessary as no human offering would avail, while the sacrifices of beasts are replaced by the priesthood of Christ. The Gospel, guided by the will of God, replaces insignificant acts of sacrifice with true obedience.",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.3102877073405415,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.16,
+        "commentatorTierSimilarities": [
+            33.95,
+            34.17,
+            31.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The rejection of the legal sacrifices involves, as its concomitant, the voluntary offer of Jesus to make the self-sacrifice with which God is well pleased.",
+            "I am come.",
+            "Sets aside the first, namely, the legal system of sacrifices which God wills not."
+        ],
+        "Albert Barnes": [
+            "When he had said that no offering which man could make would avail, then he said that he would come himself.",
+            "He takes them away; that is, he shows that they are of no value in removing sin.",
+            "If they had been efficacious, there would have been no need of his coming to make an atonement."
+        ],
+        "Marvin Vincent": [
+            "He taketh away the first that he may establish the second. ",
+            "Removes that which God does not will, the animal sacrifice, that he may establish that which God does will, the offering of an obedient will."
+        ],
+        "John Calvin": [
+            "The full and perfect righteousness under the kingdom of Christ stands in no need of the sacrifices of the Law.",
+            "The sacrifices of beasts were to be removed by the priesthood of Christ, as they had nothing in common with it.",
+            "Without sacrifices, God is fully and perfectly obeyed."
+        ],
+        "Philip Schaff": [
+            "He (that is, Christ) taketh away the first, that he may establish (set up) the second.\" ",
+            "Legal sacrifices are abolished that there may be substituted for them, the will the good pleasure of God.",
+            "Christ came to do [the will of God] by the one sacrifice of Himself."
+        ],
+        "Archibald T. Robertson": [
+            "He taketh away the first (\u03b1\u03bd\u03b1\u03b9\u03c1\u03b5 \u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd). Present active indicative of \u03b1\u03bd\u03b1\u03b9\u03c1\u03b5\u03c9, to take up, to abolish, of a man to kill (Matthew 2:16). By 'the first' (\u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd) he means the system of animal sacrifices in verse Hebrews 10:8.\" ",
+            "That he may establish the second (\u03b9\u03bd\u03b1 \u03c4\u03bf \u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03bf\u03bd \u03c3\u03c4\u03b7\u03c3\u03b7). Purpose clause with \u03b9\u03bd\u03b1 and the first aorist active (transitive) subjunctive of \u03b9\u03c3\u03c4\u03b7\u03bc, to place. By 'the second' (\u03c4\u03bf \u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03bf\u03bd) he means doing God's will as shown in verse Hebrews 10:9 (following verse Hebrews 10:8).",
+            "This is the author's exegesis of the Psalm."
+        ],
+        "John Gill": [
+            "he taketh away the first, that he may establish the second;",
+            "God has taken away, and abolished the law, that he might establish the Gospel;",
+            "he has taken away that which was first spoken of... sacrifice, offering, burnt offerings, and sin offerings; these he has removed and rejected as insignificant and useless, that he might establish what is mentioned in the second place; namely, the will of God."
+        ],
+        "John Wesley": [
+            "Then said he \u2014 in that very instant he subjoined.",
+            "Lo, I come to do Thy will \u2014 To offer a more acceptable sacrifice.",
+            "By this very act he taketh away the legal, that he may establish the evangelical, dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rejection of the legal sacrifices that God did not will involves the voluntary offer of Jesus to make the self-sacrifice with which God is well pleased. This act of Jesus taking away the first, the system of animal sacrifices, in order to establish the second, doing God's will, is the exegesis of the author of Hebrews and a substitution of legal sacrifices with the will and good pleasure of God. Christ's coming was necessary because no offering that man could make would avail, and the sacrifices of beasts were to be removed by the priesthood of Christ as they had nothing in common with it. The establishment of the Gospel, guided by the will of God, effectively replaced the insignificant and useless acts of sacrifice, offering, burnt offerings, and sin offerings mentioned in the first place.",
+            "wordCount": 140,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 2.2684693052338964,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.77,
+            "commentatorTierSimilarities": [
+                32.93,
+                33.97,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rejection of legal sacrifices involves Jesus voluntarily offering himself as a pleasing sacrifice to God, taking away the animal sacrifices that God does not will and establishing the offering of an obedient will. This act of removing the first, the system of animal sacrifices, to establish the second, doing God's will, is the author's exegesis. Christ's coming was necessary as no human offering would avail, while the sacrifices of beasts are replaced by the priesthood of Christ. The Gospel, guided by the will of God, replaces insignificant acts of sacrifice with true obedience.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.3102877073405415,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.16,
+            "commentatorTierSimilarities": [
+                33.95,
+                34.17,
+                31.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of legal sacrifices involves Jesus voluntarily offering himself as a pleasing sacrifice to God, taking away the animal sacrifices that God does not will and establishing the offering of an obedient will. This act of removing the first, the system of animal sacrifices, to establish the second, doing God's will, is the author's exegesis. Christ's coming was necessary as no human offering would avail, while the sacrifices of beasts are replaced by the priesthood of Christ. The Gospel replaces insignificant acts of sacrifice with true obedience.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.2673696321533487,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                33.72,
+                33.92,
+                32.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of legal sacrifices involves Jesus voluntarily offering himself as a pleasing sacrifice to God, taking away the animal sacrifices that God does not will, and establishing the offering of an obedient will. Christ's coming was necessary as no human offering would avail, while the sacrifices of beasts are replaced by the priesthood of Christ. The Gospel effectively eliminates insignificant acts of sacrifice and establishes the obedience to God's will as the true focus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.223747767647641,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.28,
+            "commentatorTierSimilarities": [
+                31.58,
+                34.77,
+                33.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's voluntary offer of Himself as a pleasing sacrifice to God involves the rejection of legal sacrifices that were not God's will, in order to establish the offering of an obedient will. The author's exegesis explains that Christ takes away the system of animal sacrifices and replaces it with doing God's will. By removing the first, the author means abolishing the system of animal sacrifices, and by establishing the second, he means establishing obedience to God's will. This substitution reflects the transition from the insignificant and useless acts of sacrifice to the will of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2799437896362322,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+            "commentatorTierSimilarities": [
+                35.15,
+                33.32,
+                31.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

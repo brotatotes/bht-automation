@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:48:00",
+    "verseRef": "Hebrews 6:8",
+    "bestBHT": {
+        "bht": "A professing Christian who bears thorns and thistles is deemed worthless and nigh unto cursing. This contrast highlights the danger of perpetual barrenness and the certainty of eventual burning. It serves as a reminder that those who produce evil actions and refuse to bear good fruit face abandonment and destruction. Such individuals are to be pitied as all efforts for their salvation fail, and they are soon to be abandoned to everlasting destruction.",
+        "wordCount": 73,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.846692254025206,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+        "commentatorTierSimilarities": [
+            26.79,
+            42.97,
+            30.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but if it bear thorns and thistles is accounted worthless (\u2018reprobate,\u2019 tried and found wanting. Being thus rejected, it gets no share of God\u2019s blessing), and nigh unto cursing.",
+            "There is considerable doubt both as to the connexion, and as to the interpretation of the sense when obtained. To what does of what, or whose, belong? to 'land,' or to 'cursing'?",
+            "The reference clearly is, as the whole context, and the finality of the expression 'whose end is unto' shew, not to purifying, but to consuming fire."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if it (the 'land,' :-) bear; not so favorable a word as 'bringeth forth,' Hebrews 6:7, said of the good soil.",
+            "The 'nigh' softens the severity of the previous 'It is impossible.'",
+            "The end is unto burning, namely, with the consuming fire of the last judgment."
+        ],
+        "Albert Barnes": [
+            "The force of the comparison here is, that God would thus deal with those who professed to be renewed if they should be like such a worthless field.",
+            "A professing Christian 'nigh unto cursing!' A man, the efforts for, whose salvation are about to cease forever, and who is to he given over as incorrigible and hopeless!",
+            "For such a man - in the church or out of it - we should have compassion. We have some compassion for an ox which is so stubborn that he will not work - and which is to be put to death; for a horse which is so fractious that it cannot be broken, and which is to be killed; for cattle which are so unruly that they cannot be restrained, and which are only to be fattened for the slaughter; and even for a field which is desolate and barren, and which is given up to be overrun with briars and thorns; but how much more should we pity a man all the efforts for whose salvation fail, and who is soon to be abandoned to everlasting destruction!"
+        ],
+        "Marvin Vincent": [
+            "The contrast is between two classes of Christians under equally favorable conditions, out of which they develop opposite results.",
+            "It is exposed to the peril of abandonment to perpetual barrenness.",
+            "The consummation of the cursed land is burning."
+        ],
+        "Archibald T. Robertson": [
+            "For 'thorns and thistles' see Matthew 7:16 for both words (\u03b1\u03ba\u03b1\u03bd\u03b8\u03b1\u03c2 \u03ba\u03b1 \u03c4\u03c1\u03b9\u03b2\u03bf\u03bb\u03bf\u03c5\u03c2).",
+            "Rejected (\u03b1\u03b4\u03bf\u03ba\u03b9\u03bc\u03bf\u03c2). See 1 Corinthians 9:27; Romans 1:28.",
+            "To be burned (\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c5\u03c3\u03b9\u03bd). 'For burning.' Common sight in clearing up ground."
+        ],
+        "John Gill": [
+            "Carnal professors, and especially apostates... may be compared, who are worldly, slothful, defrauding and overreaching, carnal and wanton.",
+            "The things or actions produced by them are aptly expressed by 'thorns and briers'; such as errors, heresies, and evil works of all kinds.",
+            "Such men are cursed already by the law, being under its sentence of curse and condemnation; and are nigh to the execution of it."
+        ],
+        "John Wesley": [
+            "That which beareth thorns and briers \u2014 Only or chiefly.",
+            "Is rejected \u2014 No more labour is bestowed upon it.",
+            "Whose end is to be burned \u2014 As Jerusalem was shortly after."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a professing Christian bears thorns and thistles, they are considered worthless and nigh unto cursing. This verse highlights the contrast between two classes of Christians and warns about the danger of abandoning oneself to perpetual barrenness. The rejected land is exposed to the peril of everlasting burning, symbolizing the consuming fire of the last judgment. It is a sobering reminder that those who produce evil actions and refuse to bear good fruit will face abandonment and ultimately destruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8867454649016762,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                32.61,
+                37.91,
+                29.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a professing Christian bears thorns and thistles, they are counted as worthless, nigh unto cursing. This highlights the contrast between two classes of Christians and warns of the danger of abandoning oneself to perpetual barrenness. The rejected land is exposed to the peril of everlasting burning, symbolizing the consuming fire of the last judgment. It is a sobering reminder that those who produce evil actions and refuse to bear good fruit will face abandonment and ultimately destruction.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8437439483497764,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                33.18,
+                37.66,
+                29.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A professing Christian who bears thorns and thistles is deemed worthless and nigh unto cursing. This contrast highlights the danger of perpetual barrenness and the certainty of eventual burning. It serves as a reminder that those who produce evil actions and refuse to bear good fruit face abandonment and destruction. Such individuals evoke compassion as they are on the brink of being given over as incorrigible and hopeless, in a state of being rejected and near to the execution of everlasting curse.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8323817135419582,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                27.32,
+                41.26,
+                31.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A professing Christian who bears thorns and thistles is deemed worthless and nigh unto cursing. This contrast highlights the danger of perpetual barrenness and the certainty of eventual burning. It serves as a reminder that those who produce evil actions and refuse to bear good fruit face abandonment and destruction. Such individuals are to be pitied as all efforts for their salvation fail, and they are soon to be abandoned to everlasting destruction.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.846692254025206,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                26.79,
+                42.97,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A professing Christian who bears thorns and thistles is deemed worthless and nigh unto cursing. This contrast highlights the danger of perpetual barrenness and the certainty of eventual burning. It serves as a reminder that those who produce evil actions and refuse to bear good fruit face abandonment and destruction. Such individuals evoke compassion, as all efforts for their salvation fail and they are soon to be abandoned to everlasting destruction.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.835377284805349,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                26.72,
+                43.23,
+                30.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

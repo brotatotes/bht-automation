@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:10",
+    "verseRef": "Hebrews 2:2",
+    "bestBHT": {
+        "bht": "The rejection of the Gospel entails a greater punishment than the violation of the Mosaic law enforced by angels. The Gospel brings emancipation from subordination to angels and abolishes old limitations. The Gospel, spoken solely by the Lord, possesses greater honor and authority compared to the law given by angels. The law demanded strict obedience with penalties for transgression, while the Gospel is proven sure by punishing every transgression and disobedience.",
+        "wordCount": 71,
+        "quoteTokenProportion": 28.26,
+        "qualityScore": 2.447750991503886,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+        "commentatorTierSimilarities": [
+            34.17,
+            36.29,
+            29.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How much more shall they be punished who reject that Gospel, which was brought in by the Son of God Himself, and continues to be confirmed to us by God\u2019s present power.",
+            "The cooperation of angels in the giving of the law at Sinai was not merely a rabbinical notion, but is implied in both the Old and New Testaments.",
+            "To what does the Writer refer? To the single instances of punishment which overtook the offenders against the law, or, as Grotius suggests, to the general punishment of the whole people\u2019s unbelief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When it is said, Galatians 3:19- :, 'God spake,' it is meant He spake by angels as His mouthpiece, or at least angels repeating in unison with His voice the words of the Decalogue; whereas the Gospel was first spoken by the Lord alone.\" ",
+            "The Mosaic law spoken by the ministration of angels...was enforced by penalties on those violating it.",
+            "Transgression: by doing evil; disobedience: by neglecting to do good."
+        ],
+        "Albert Barnes": [
+            "The Law so given could not be violated with impunity. It was not safe to violate it, but it took notice of the slightest failure to yield perfect obedience to its demands.",
+            "The slightest infraction of the Law was sure to be punished. It made no provision for indulgence in sin; it demanded prompt, implicit, and entire obedience.",
+            "The Law threatened punishment for each and every offence, and made no allowance for transgression in any form."
+        ],
+        "Marvin Vincent": [
+            "The O. T. is made to furnish proof that such subordination is inconsistent with man's ultimate destiny to sovereignty over all creation.",
+            "The abolition of the old limitations is the emancipation of man from subordination to the angels.",
+            "The word [of the law] proved sure : realized itself in the event as securely founded in the divine holiness, and eternal in its principles and obligations."
+        ],
+        "John Calvin": [
+            "Firmness means authority.\" ",
+            "No one despised the law with impunity.\" ",
+            "The doctrine of which God shows himself to be the avenger is by no means unprofitable or unimportant."
+        ],
+        "Philip Schaff": [
+            "If the attendance of angels at the giving of the Law added force and dignity to the precepts of that economy, how much greater is the honour and the authority of the Gospel.",
+            "The ministration of angels in giving the Law is mentioned elsewhere in Scripture...though not at great length.",
+            "Recompence of reward is a happy tautology. What is given back to a man in return for what he has done, whether good or bad, is the meaning of the Greek."
+        ],
+        "Archibald T. Robertson": [
+            "Through angels... though not in the O.T., but in Josephus.\" ",
+            "Both words use \u03c0\u03b1\u03c1\u03b1 as in \u03c0\u03b1\u03c1\u03b1\u03c1\u03c5\u03c9\u03bc\u03b5\u03bd, refused to obey (stepping aside, \u03c0\u03b1\u03c1\u03b1-\u03b2\u03b1\u03c3\u03b9\u03c2 as in Romans 2:23), neglect to obey (\u03c0\u03b1\u03c1-\u03b1\u03ba\u03bf\u03b7 as in Romans 5:19), more than a mere hendiadys.",
+            "Late double compound, like \u03bc\u03b9\u03c3\u03b8\u03b1\u03c0\u03bf\u03b4\u03bf\u03c4\u03b7\u03c2 (Hebrews 11:6), from \u03bc\u03b9\u03c3\u03b8\u03bf\u03c2 (reward) and \u03b1\u03c0\u03bf\u03b4\u03b9\u03b4\u03c9\u03bc, to give back."
+        ],
+        "John Gill": [
+            "This is a description of the law, from whence the apostle argues to a stricter regard to the Gospel, as from the lesser to the greater.",
+            "But it still continues as a cursing law to all that are under it; and as a means of conviction to sinners in the hands of the Spirit; and as a rule of walk and conversation to saints, as in the hands of Christ.",
+            "Every precept of the law had a penalty annexed to it; and every breach of it was punished as that penalty required; and that according to the strict justice of God, and the just demerit of sin; so steadfast and immovable was this law."
+        ],
+        "John Wesley": [
+            "In giving the law, God spoke by angels; but in proclaiming the gospel, by his Son.\" ",
+            "Steadfast \u2014 Firm and valid.",
+            "Every transgression \u2014 Commission of sin. Every disobedience \u2014 Omission of duty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Writer refers to the punishment that was given to those who rejected the Gospel of the Son of God, which was confirmed by God's power. The cooperation of angels in giving the law at Sinai is implied in both the Old and New Testaments. The punishment for the whole people's unbelief is also mentioned. The Mosaic law, spoken by the ministration of angels, was enforced with penalties for those who violated it. The Gospel, on the other hand, was spoken by the Lord alone. The word of the Mosaic law proved its surety and validity, while the Gospel brings about the abolition of old limitations and the emancipation of man from subordination to angels. The law demanded perfect obedience and made no provision for indulgence in sin, while every breach of it was punished. The Gospel, represented by the Son of God, is far greater in honor and authority than the law given by angels.",
+            "wordCount": 158,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.237335990059252,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+            "commentatorTierSimilarities": [
+                35.83,
+                35.89,
+                28.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The punishment for rejecting the Gospel, brought by the Son of God and confirmed by God's power, is far greater than the punishment faced by those who violated the Mosaic law given by the ministration of angels. Unlike the law, which demanded obedience with strict penalties for transgressions, the Gospel brings about the abolition of old limitations and the emancipation of man from subordination to angels. The Gospel, announced by the Lord himself, holds a greater honor and authority.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.3293686158462137,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.79,
+            "commentatorTierSimilarities": [
+                34.62,
+                35.67,
+                29.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of the Gospel brings upon a greater punishment compared to the consequences faced by those who violated the Mosaic law. The cooperation of angels in giving the law at Sinai is implied in both the Old and New Testaments. The Mosaic law, enforced by penalties, demanded obedience and enabled man's subordination to angels. The Gospel, proclaimed by the Lord alone, brings liberation from these limitations. The Gospel holds a greater honor and authority, while the law proved its surety and validity, punishing every transgression and disobedience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.2379873246936706,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                34.8,
+                36.34,
+                28.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of the Gospel invites a greater punishment than the violation of the Mosaic law enforced by penalties from angels. The Gospel brings emancipation from subordination to angels and abolishes old limitations. The honor and authority of the Gospel, spoken solely by the Lord, surpasses that of the law given by angels. The law demanded obedience under strict penalties while the Gospel proves its surety by punishing every transgression and disobedience.",
+            "wordCount": 72,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 2.4286764918179493,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.09,
+            "commentatorTierSimilarities": [
+                34.17,
+                36.37,
+                29.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of the Gospel entails a greater punishment than the violation of the Mosaic law enforced by angels. The Gospel brings emancipation from subordination to angels and abolishes old limitations. The Gospel, spoken solely by the Lord, possesses greater honor and authority compared to the law given by angels. The law demanded strict obedience with penalties for transgression, while the Gospel is proven sure by punishing every transgression and disobedience.",
+            "wordCount": 71,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 2.447750991503886,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+            "commentatorTierSimilarities": [
+                34.17,
+                36.29,
+                29.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

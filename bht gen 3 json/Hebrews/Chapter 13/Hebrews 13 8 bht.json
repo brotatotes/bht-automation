@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:51:19",
+    "verseRef": "Hebrews 13:8",
+    "bestBHT": {
+        "bht": "Jesus Christ is the same yesterday, today, and forever. He supported spiritual rulers of the past and is ready to help you if you walk in faith. His suffering did not interrupt his glory, which remains unchanged. He is the eternal Messiah and the revelation of God. Persevere in faith, fix your thoughts on Christ alone, and hold fast to his unchanging grace. His immutability is a proof of his divinity and our only hope. Jesus Christ remains constant from everlasting to everlasting.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.2032805119610925,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+        "commentatorTierSimilarities": [
+            33.78,
+            33.51,
+            32.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus Christ is yesterday and to-day the same, and for ever.",
+            "Be not carried away by various and strange doctrines.",
+            "It is good that the heart be confirmed with grace, not with meats."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Jesus Christ...who supported your spiritual rulers through life even unto their end 'yesterday,' being at once 'the Author and the Finisher of their faith,' remains still the same Jesus Christ 'to-day,' ready to help you also, if like them you walk by 'faith' in Him.\" ",
+            "He who yesterday (proverbial for the past time) suffered and died, is to-day in glory. As night comes between yesterday and to-day, and yet night itself is swallowed up by yesterday and to-day, so the 'suffering' did not so interrupt the glory of Jesus Christ which was of yesterday, and that which is to-day, as not to continue to be the same.",
+            "He is the same yesterday, before He came into the world, and to-day, in heaven. Yesterday in the time of our predecessors, and to-day in our age."
+        ],
+        "Albert Barnes": [
+            "Jesus Christ is the same yesterday, today, and forever; that is, that he is unchangeable.",
+            "The argument here, therefore, for perseverance is founded on the 'immutability' of the Redeemer.",
+            "At the same time, also, that this passage furnishes the strongest argument for fidelity and perseverance, it is an irrefragable proof of the divinity of the Saviour."
+        ],
+        "Marvin Vincent": [
+            "The emphatic point of the statement is Christ. They lived and died in the faith that Jesus is THE CHRIST - the Messiah.",
+            "Hence the writer says, 'hold fast and imitate their faith in Jesus as the Christ. He is ever the same.'",
+            "Jesus is Christ. Observe that our writer rarely uses the formula Jesus Christ."
+        ],
+        "John Calvin": [
+            "The only way by which we can persevere in the right faith is to hold to the foundation, and not in the smallest degree to depart from it; for he who holds not to Christ knows nothing but mere vanity.\" ",
+            "This then is a remarkable passage, from which we learn that there is no other way of being truly wise than by fixing all our thoughts on Christ alone.\" ",
+            "It hence appears that the Apostle is not speaking of the eternal existence of Christ, but of that knowledge of him which was possessed by the godly in all ages, and was the perpetual foundation of the Church."
+        ],
+        "Philip Schaff": [
+            "Jesus Christ is, the same yesterday (when our fathers lived and struggled), today (now that we live and struggle), and throughout the ages.",
+            "His power and love and grace are all unchanging and exhaustless.",
+            "He was the chief theme of the Gospel they preached so 'the word of God' generally means in the New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus Christ is the same yesterday and today, yea and forever.\" ",
+            "Jesus Christ is eternally 'the same' and the revelation of God in him is final and never to be superseded or supplemented.\" ",
+            "Hence the peril of apostasy from the only hope of man."
+        ],
+        "John Gill": [
+            "These words may be expressive of the duration of Christ: he was 'yesterday', which does not design the day immediately foregoing, nor some little time past, but ancient times, formerly, of old.",
+            "And he is 'today' under the Gospel dispensation; in his person as God-man, and in his offices as prophet, priest, and King: and will be so 'for ever': he will never die more; his kingdom is an everlasting kingdom, and his priesthood an unchangeable one.",
+            "Moreover, these words may regard the immutability of Christ; who is unchangeable in his person, perfections, and essence, as God; and in his love to his people; and in the fulness of his grace, and in the efficacy of his blood, and in the virtue of his sacrifice and righteousness."
+        ],
+        "John Wesley": [
+            "Men may die; but Jesus Christ, yea, and his gospel, is the same from everlasting to everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ remains unchanged throughout time. Just as he supported the spiritual rulers of the past, he is ready to help you as well if you walk in faith. His suffering and glory are not interrupted but continue to be the same. He is the eternal Messiah, the revelation of God, and our only hope. His immutability is a strong argument for perseverance and a proof of his divinity. Fix your thoughts on Christ alone and hold fast to his unchanging grace, for he is the same yesterday, today, and forever.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.137751534072003,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.42,
+            "commentatorTierSimilarities": [
+                33.58,
+                35.02,
+                31.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ is the same yesterday, today, and forever. He supported spiritual rulers of the past and is ready to help you if you walk in faith. His suffering did not interrupt his glory, which remains unchanged. He is the eternal Messiah, the revelation of God, and our only hope. Persevere in faith and fix your thoughts on Christ alone. His immutability is a proof of his divinity. Hold fast to his unchanging grace, for he is the same yesterday, today, and forever.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1673511460629555,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.41,
+            "commentatorTierSimilarities": [
+                34.49,
+                34.71,
+                30.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ is the same yesterday, today, and forever. He remains unchanged, offering his support to spiritual leaders of the past and present. His suffering and glory coexist, uninterrupted. Christ is the eternal Messiah, the embodiment of God's revelation, and our sole hope. His unchanging nature emphasizes the importance of perseverance and fidelity. By fixing our thoughts solely on Christ, we gain true wisdom. His immutability encompasses his person, perfections, and essence. Jesus Christ, along with his gospel, remains constant from everlasting to everlasting.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.0771124952061397,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                31.73,
+                34.73,
+                33.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ is the same yesterday, today, and forever. He supported spiritual rulers of the past and is ready to help you if you walk in faith. His suffering did not interrupt his glory, which remains unchanged. He is the eternal Messiah and the revelation of God. Persevere in faith, fix your thoughts on Christ alone, and hold fast to his unchanging grace. His immutability is a proof of his divinity and our only hope. Jesus Christ remains constant from everlasting to everlasting.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2032805119610925,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                33.78,
+                33.51,
+                32.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ is the same yesterday, today, and forever. His unchanging nature provided support for spiritual leaders of the past, and he stands ready to help anyone who walks in faith. His suffering did not interrupt his glory, for it continues unchanged. As the eternal Messiah and revelation of God, he is the anchor of our hope. Emphasizing perseverance, fix your thoughts on Christ alone. His immutability is evidence of his divinity, and clinging to his unchanging grace brings everlasting assurance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1638652748097353,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                32.65,
+                34.86,
+                32.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

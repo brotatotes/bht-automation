@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:51:13",
+    "verseRef": "Hebrews 12:26",
+    "bestBHT": {
+        "bht": "The shaking announced at Christ's coming signifies the end of the age and is a promise for the believers while a terror for the ungodly. With His second coming, all opposing kingdoms will be overthrown and the present order of things disrupted. This shaking began at His first advent, and will be completed at His second advent, accompanied by wonders in the natural world. The Gospel's voice not only resonates through the earth but also penetrates heaven, making its message of the kingdom of Christ known to all creatures.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8034165628846264,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+        "commentatorTierSimilarities": [
+            34.45,
+            35.24,
+            30.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The result of this shaking was to be, that the desire, or best treasures, of all nations should be brought to adorn that temple.",
+            "The expression here (as in the Septuagint) rendered 'yet once....' is in the Hebrew, 'yet once, it is a little while, and:\u2019 i.e. the period which shall elapse shall be but one, not admitting of being broken into many; and that one, but short.",
+            "It is clearly wrong, with some interpreters, to understand this shaking as the mere breaking down of Judaism before the Gospel, or of anything which shall be fulfilled during the Christian economy short of its glorious end and accomplishment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The announcement of His coming to break up the present order of things,",
+            "\tis to the ungodly a terror, to the godly a promise.",
+            "The shaking began at the first coming of Messiah; it will be completed at",
+            "  His second coming, prodigies in the world of nature accompanying the",
+            "  overthrow of all kingdoms that oppose Messiah.",
+            "The two advents",
+            "  of Messiah are regarded as one, the complete shaking belonging to the",
+            "  second advent, of which the presage was given in the shakings at the",
+            "  first advent."
+        ],
+        "Albert Barnes": [
+            "The apostle evidently applies this passage as it is done in Haggai, to the first advent of the Redeemer.",
+            "The apostle lays emphasis on the fact that not only the earth was to be shaken but also heaven.",
+            "The introduction of the gospel agitated the universe. Great changes upon the earth were to precede it; one revolution was to succeed another preparatory to it, and the whole universe would be moved at an event so extraordinary."
+        ],
+        "John Calvin": [
+            "He shows that he now speaks more gloriously, for he shakes both earth and heaven.",
+            "The voice of the Gospel not only thunders through the earth, but also penetrates above the heavens.",
+            "The doctrine of the Gospel is sublimer than that of the Law, and ought to be more distinctly heard by all creatures."
+        ],
+        "Archibald T. Robertson": [
+            "He hath promised... and it still holds.\" ",
+            "The author applies this 'yet once more' and the reference to heaven to the second and final 'shaking' at the Second Coming of Jesus Christ for judgement.",
+            "The second and final 'shaking' at the Second Coming of Jesus Christ for judgement."
+        ],
+        "John Gill": [
+            "Whose voice then shook the earth...this shook the earth, Sinai, and the land about it, and the people on it; which made them quake and tremble.",
+            "I shake not the earth only, but also heaven...the heaven also; by prodigies in it, as the appearance of a wonderful star, which guided the wise men from the east; and by the motions of the heavenly inhabitants, the angels, who descended in great numbers, and made the heavens resound with their songs of praise.",
+            "How the apostle explains and applies this, may be seen in the next verse."
+        ],
+        "John Wesley": [
+            "Whose voice then shook the earth.\" ",
+            "Yet once more I will shake, not only the earth, but also the heaven.\" ",
+            "This universal shaking began at the first coming of Christ. It will be consummated at his second coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The announcement of Christ's coming to disrupt the present order of things is both a terror to the ungodly and a promise to the godly. The shaking that began at His first coming will be completed at His second coming, with prodigies in the natural world accompanying the overthrow of opposing kingdoms. This shaking, foretold in the Old Testament, signifies the end of the present age and the establishment of Christ's kingdom. It is a shaking not only of the earth but also of heaven, as the voice of the Gospel resounds throughout the universe, ushering in great changes and stirring the hearts of all creatures. The doctrine of the Gospel surpasses that of the Law and is to be heard and embraced by all.",
+            "wordCount": 127,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.836873596563101,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                30.71,
+                38.12,
+                31.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The shaking announced at Christ's coming signifies the end of the age and is a promise for the believers while a terror for the ungodly. With His second coming, all opposing kingdoms will be overthrown and the present order of things disrupted. This shaking began at His first advent, and will be completed at His second advent, accompanied by wonders in the natural world. The Gospel's voice not only resonates through the earth but also penetrates heaven, making its message of the kingdom of Christ known to all creatures.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8034165628846264,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                34.45,
+                35.24,
+                30.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The shaking that commenced at the first coming of Christ will reach its culmination at His second coming, when all opposing kingdoms will be overthrown. The voice of the Gospel resounds not only on earth but also penetrates the heavens, attracting the attention of both human beings and angelic beings. This shaking is not limited to the earth, but also encompasses heaven with prodigious signs and phenomena. The Gospel's message surpasses that of the Law and extends far beyond, demanding the attention and response of all creation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7788469519464392,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                24.91,
+                38.67,
+                36.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The shaking announced at Christ's second coming is the culmination of what began with His first coming, signifying the end of the present age and the establishment of His kingdom. This shaking includes both the earth and heaven, with prodigious signs in the natural world and the voice of the Gospel resounding throughout the universe. The Gospel's message surpasses that of the Law, demanding the attention of all creatures and penetrating even above the heavens. It is a promise to the godly and a terrifying prospect for the ungodly.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.775623184899381,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                29.04,
+                36.24,
+                34.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The shaking that began with Christ's first coming will reach its completion at His second coming, bringing about the overthrow of opposing kingdoms and the disruption of the present order. This shaking is not limited to the earth, but also includes heaven, with prodigious signs in the natural world and the resounding voice of the Gospel. The Gospel's message surpasses that of the Law, demanding the attention and response of all creatures. It is a promise of hope to the godly and a source of terror for the ungodly.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7208315214553476,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                31.1,
+                35.94,
+                32.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

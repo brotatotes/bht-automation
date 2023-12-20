@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:45",
+    "verseRef": "Hebrews 7:26",
+    "bestBHT": {
+        "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He is completely without sin, untouched by evil or malice. Unlike the priests of old, who had some measure of holiness and purity, Jesus exceeds them all in moral purity. He mingles with sinners to bring them salvation, but there is a complete separation between him and the sinful world. He is the perfect Savior for fallen and wretched humanity, reaching to God and interceding for us.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.1723649116177817,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+        "commentatorTierSimilarities": [
+            27.53,
+            37.57,
+            34.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "an High Priest was for us\u2014holy, harmless, undefiled, separated from sinners, and made higher than the heavens",
+            "this expression exactly answers to that in ch. ix. 28, where it is said that he shall come a second time without, apart from, sin",
+            "He, by that infirmity, which He took on Him, went out through death into glory eternal, and an unrenewable priesthood"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For to us (as sinners; emphatical) there was also becoming (besides the other excellencies of our High Priest) such an High Priest.",
+            "Temptation, to which He was exposed, left no trace of evil in Him.",
+            "Just as Moses on the mount was separated from and above the people, and alone with God. This proves Jesus is GOD."
+        ],
+        "Albert Barnes": [
+            "There was a special propriety that he should surpass all others in 'moral' purity.",
+            "He is just such a Saviour as is adapted to the wants of ignorant, fallen, wretched, sinful man.",
+            "Though he mingled with them, yet it was merely to do them good, and in all his life there was an entire separation from the feelings, principles, and views of a sinful world."
+        ],
+        "Marvin Vincent": [
+            "There was an essential fitness in the gift of our great high priest.",
+            "Holy. Always with a relation to God; never of moral excellence as related to men.",
+            "Harmless. Free from malice and craft."
+        ],
+        "John Calvin": [
+            "For there was some holiness, and harmlessness, and purity in Aaron, but only a small measure; but Christ, exempt from the common lot of men, is alone free from every sin; hence in him alone is found real holiness and innocency.",
+            "And we hence conclude, that all prayers, which are not supported by Christ\u2019s intercession, are rejected.",
+            "For no one can unite us to God but he who reaches to God; and this is not the privilege of angels, for they are not said to have been made higher than the heavens."
+        ],
+        "Archibald T. Robertson": [
+            "Holy (\u03bf\u03c3\u03b9\u03bf\u03c2). Saintly, pious, as already noted.",
+            "Guileless (\u03b1\u03ba\u03b1\u03ba\u03bf\u03c2). Without malice, innocent.",
+            "Undefiled (\u03b1\u03bc\u03b9\u03b1\u03bd\u03c4\u03bf\u03c2). Untainted, stainless."
+        ],
+        "John Gill": [
+            "He was typified by the high priest, who had holiness to the Lord written on his forehead, and far exceeds any of the priests in holiness; and such an one becomes us.",
+            "He exceeds the priests under the law; and is suitable to us, for hereby he was fit to be made sin, and to take it away.",
+            "He is separated from them in Adam; he was not among the individuals of human nature that sinned in him; and he had no communion with them in sin; nor did he encourage them to it in the days of his flesh; and now he is removed far from them."
+        ],
+        "John Wesley": [
+            "For such an high priest suited us \u2014 Unholy, mischievous, defiled sinners: a blessed paradox! Holy - With respect to God.",
+            "Harmless \u2014 With respect to men.",
+            "Undefiled \u2014 With any sin in himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He is completely without sin, untouched by evil or malice. Unlike the priests of old, who had some measure of holiness and purity, Jesus surpasses them all in moral purity. He mingles with sinners to bring them salvation, but there is a complete separation between him and the sinful world. He is the perfect Savior for fallen and wretched humanity, reaching to God and interceding for us. Only through his intercession can our prayers be accepted. He is the one who unites us to God, surpassing even the angels. Yes, our High Priest truly suits us, unholy sinners, for there is a blessed paradox in the fact that he is holy in relation to God, harmless in relation to men, and undefiled with any sin in himself.",
+            "wordCount": 145,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 2.052327038889602,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                27.29,
+                35.18,
+                37.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He is completely without sin, untouched by evil or malice. Unlike the priests of old, who had some measure of holiness and purity, Jesus exceeds them all in moral purity. He mingles with sinners to bring them salvation, but there is a complete separation between him and the sinful world. He is the perfect Savior for fallen and wretched humanity, reaching to God and interceding for us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.1723649116177817,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                27.53,
+                37.57,
+                34.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He surpasses the priests of old in moral purity, as he is completely without sin. He mingles with sinners to bring them salvation, yet he remains separated from the sinful world. He is the perfect Savior for fallen humanity, reaching to God and interceding for us. Through his intercession, our prayers are accepted. He unites us to God, surpassing even the angels, and his holiness suits us, unholy sinners.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0594863989871985,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                27.42,
+                34.98,
+                37.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He exceeds the priests under the law, surpassing them in moral purity and suitability for us as fallen, sinful beings. He mingles with sinners to bring them salvation, yet remains completely free from sin himself. Through his intercession, our prayers are accepted, and he unites us to God. His holiness, harmlessness, and undefiled nature make him the perfect Savior for all humanity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.06982300691505,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                27.46,
+                34.29,
+                38.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our High Priest, Jesus Christ, is holy, harmless, undefiled, separated from sinners, and made higher than the heavens. He is holy, saintly, and pious in relation to God, completely untainted and stainless. His moral purity exceeds that of the priests under the law, making him perfectly suitable for fallen, sinful beings like us. He mingles with sinners to bring them salvation, yet he remains completely separated from the sinful world. Through his intercession, our prayers find acceptance, and he unites us with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.103823260131178,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                28.94,
+                33.66,
+                37.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

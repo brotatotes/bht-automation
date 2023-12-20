@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:46:48",
+    "verseRef": "Hebrews 2:8",
+    "bestBHT": {
+        "bht": "Universal dominion was bestowed upon man at his creation, but it finds its fulfillment and assurance exclusively in Christ, who leads us into glory through suffering. While we do not yet see all things subjected to man, we do observe the prophecy being realized in Jesus' life, suffering, and death. Jesus, as the ideal man, is crowned king of nature with divine authority over creation, a reality that has not been achieved even in our modern world.",
+        "wordCount": 77,
+        "quoteTokenProportion": 52.31,
+        "qualityScore": 2.194044132994741,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+        "commentatorTierSimilarities": [
+            34.38,
+            37.79,
+            27.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Universal dominion is bestowed on man by his constitution as he came from God.",
+            "Manhood, as such, is exalted to glory and honour, and waiting for its prim\u00e6val prerogative to be fully assured, but it is IN CHRIST, and in Him alone, that this is true.",
+            "He, being of our flesh and blood, and having been Himself made perfect by suffering, and calling us His brethren, can lead us up through sufferings into glory, freed from guilt by His sacrifice for our sins."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For in that\" God saith in the eighth Psalm, \"He put the all things in subjection under him, He left nothing.",
+            "As no limitation occurs in the sacred writing, the 'all things' must include heavenly, as well as earthly things.",
+            "But now, as things now are, we see not yet the all things put under man."
+        ],
+        "Albert Barnes": [
+            "That is, all things are put under the control of man, or thou hast given him dominion over all things.",
+            "The dominion of man can be true only of human nature in the person of the Lord Jesus, and there it is completely fulfilled.",
+            "It is not now true that all things are subject to the control of man... His government is an imperfect government."
+        ],
+        "Marvin Vincent": [
+            "Thou hast put all things in subjection under his feet... nothing is excepted.\" ",
+            "But this ideal is not yet a reality. We see not yet all things subjected to him.",
+            "But we do see the germinal fulfillment of the prophecy in Jesus' life, suffering, and death."
+        ],
+        "John Calvin": [
+            "Though universal subjection does not as yet appear to us, let us be satisfied that he has passed through death, and has been exalted to the highest state of honor; for that which is as yet wanting, will in its time be completed.",
+            "Thou hast made subject to him all things, not only things needful for eternal blessedness, but also such inferior things as serve to supply the wants of the body.",
+            "As Christ carries on war continually with various enemies, it is doubtless evident that he has no quiet possession of his kingdom. He is not, however, under the necessity of waging war; but it happens through his will that his enemies are not to be subdued till the last day, in order that we may be tried and proved by fresh exercises."
+        ],
+        "Archibald T. Robertson": [
+            "Man's sovereignty was meant to be all-inclusive including the administration of 'the world to come.'",
+            "He is crowned king of nature, invested with divine authority over creation.",
+            "Not even today in the wonderful twentieth century with man's triumphs over nature has he reached that goal."
+        ],
+        "John Gill": [
+            "There is no one person or thing that is not subject to Christ.\" ",
+            "The subjection is the most universal, either voluntary or involuntary; whether they will or not, they are, and must be subject.",
+            "No such general subjection to any mere man has ever been seen and known."
+        ],
+        "John Wesley": [
+            "Now this putting all things under him, implies that there is nothing that is not put under him. But it is plain, this is not done now, with regard to man in general."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 2:8, we see that man was originally created by God with universal dominion, the authority to rule over all things. However, this dominion is fully realized and assured only in Christ, who, being made perfect through suffering, can lead us into glory. Although we do not yet see all things subjected to man, we do see the fulfillment of this prophecy in Jesus' life, suffering, and death. Jesus, as the ideal man, is crowned king of nature and has been given divine authority over creation. It is important to note that even in the modern world, man has not achieved this goal of complete dominion.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.1837325437332664,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                31.64,
+                41.58,
+                26.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Universal dominion was bestowed upon man at his creation, but it finds its fulfillment and assurance exclusively in Christ, who leads us into glory through suffering. While we do not yet see all things subjected to man, we do observe the prophecy being realized in Jesus' life, suffering, and death. Jesus, as the ideal man, is crowned king of nature with divine authority over creation, a reality that has not been achieved even in our modern world.",
+            "wordCount": 77,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 2.194044132994741,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                34.38,
+                37.79,
+                27.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man was originally created to have universal dominion, but it is only through Christ that this is fully realized. As God has put all things in subjection under man, this includes both earthly and heavenly things. However, currently, we do not see all things subjected to man. Nevertheless, through Jesus' life, suffering, and death, we witness the beginning fulfillment of this prophecy. Man's sovereignty was intended to extend to the administration of the world to come, and Jesus, as the perfect human, is crowned king over all creation. Yet, even in our modern age, man has not achieved this complete dominion. Though we may not see the fulfillment now, we can be assured that in due time, Christ will have complete control over all things.",
+            "wordCount": 126,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 2.0455430166363087,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                30.71,
+                40.06,
+                29.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man was meant to have universal dominion, but this is fully realized only through Christ. God has put all things under man, both on earth and in heaven. However, we do not currently see all things subjected to man. Yet, through Jesus' life, suffering, and death, we see the beginning fulfillment of this prophecy. Man's sovereignty was meant to include ruling over the world to come. Jesus, as the perfect human, is crowned king of all creation. Though not fully realized, we can trust in Christ's ultimate control over all things.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.9953936804444936,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                31.47,
+                41.38,
+                27.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man was exalted to glory and honor by God, bestowed with universal dominion. However, this dominion is fully realized only in Christ. Through His suffering, Jesus, our brother, leads us into glory and frees us from guilt. Though we do not yet see all things subjected to man, we witness the fulfillment of this prophecy in Jesus' life and death. Man's sovereignty was intended to extend to the administration of the world to come, and Jesus, in His perfect humanity, is crowned king of all creation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9603903903215887,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                34.75,
+                40.72,
+                24.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:11",
+    "verseRef": "Hebrews 6:17",
+    "bestBHT": {
+        "bht": "In order to demonstrate the unchangeableness of His counsel, God willingly interposed with an oath. This solemn gesture serves as an anchor for our soul, offering strong encouragement and assuring us that God's purpose is steadfast. By confirming His promise with an oath, God goes above and beyond to establish our trust and strengthen our faith. As heirs of the promise, we can rest assured that His will is immutable and His intention to save us is unwavering.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.2921494858573612,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.55,
+        "commentatorTierSimilarities": [
+            27.99,
+            38.27,
+            33.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God, willing to shew more abundantly... the unchangeableness of His counsel, interposed with an oath.",
+            "It is impossible for God ever to lie... falsehood should be suspected in Him.",
+            "We may have strong encouragement... set before us... as an anchor of our soul, safe and firm."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "being the case among men, God, in accommodation to their manner of confirming covenants, superadded to His sure word His oath: the 'TWO immutable things'",
+            "His word would have been amply enough; but, to make assurance doubly sure, He 'interposed with an oath'",
+            "not only Abraham's literal, but also his spiritual, seed"
+        ],
+        "Albert Barnes": [
+            "Since an oath had this effect, God was willing to appeal to it in order to assure his people of salvation.",
+            "He meant to show in the most solemn manner that his purpose would not change. The plans of God never change; and all the hope which we can have of heaven is founded on the fact that his purpose is immutable.",
+            "No one could honor a God that had not such an immutability of purpose; and all the hope which man can have of heaven is in the fact that He is unchanging."
+        ],
+        "Marvin Vincent": [
+            "Willing [\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . Rend. being minded.",
+            "The immutability [\u03c4\u03bf \u03b1\u03bc\u03b5\u03c4\u03b1\u03b8\u03b5\u03c4\u03bf\u03bd] . The adjective used substantively. Only here and ver. 18.",
+            "Confirmed [\u03b5\u03bc\u03b5\u03c3\u03c4\u03c4\u03b5\u03c5\u03c3\u03b5\u03bd] . Rend. interposed or mediated."
+        ],
+        "John Calvin": [
+            "See how kindly God as a gracious Father accommodates himself to our slowness to believe; as he sees that we rest not on his simple word, that he might more fully impress it on our hearts he adds an oath.",
+            "The certainty of salvation is then a necessary thing; for he who forbids to swear without reason has been pleased to swear for the sake of rendering it certain.",
+            "Believers ought therefore to be fully persuaded that whenever they hear the voice of the Gospel, the secret counsel of God, which lay hid in him, is proclaimed to them, and that hence is made known to them what he has decreed respecting our salvation before the creation of the world."
+        ],
+        "Philip Schaff": [
+            "God, willing to show more abundantly to the heirs of the promise the immutability of his will.",
+            "He Himself came as pledge and surety, not for us but for Himself.",
+            "The same loving purpose that provided the blessings He promised prompted Him to do everything that could be done to win our trust and establish our faith."
+        ],
+        "Archibald T. Robertson": [
+            "To show in addition to his promise 'more abundantly'.",
+            "The unchangeableness of his will.",
+            "To act as mediator or sponsor or surety, intransitively to pledge one's self as surety."
+        ],
+        "John Gill": [
+            "God, in condescension to the weakness of men, made use of [the oath]; being very desirous and determined, more abundantly to show unto the heirs of promise the immutability of his counsel.",
+            "The immutability of this [decree], God was willing to show 'more abundantly' than in other purposes, though all God's purposes are unchangeable; or than had been shown to the Old Testament saints; and more than was necessary, had it not been for man's weakness.",
+            "That the unchangeableness of God's purpose in saving them by Christ might be manifest to them, and be out of all doubt, he 'confirmed it by an oath'; his counsel and purpose."
+        ],
+        "John Wesley": [
+            "God interposed by an oath \u2014 Amazing condescension!",
+            "He who is greatest of all acts as if he were a middle person.",
+            "Thou that hearest the promise, dost thou not yet believe?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, in accommodating to our human understanding, confirmed His unchangeable purpose by adding an oath to His sure word. His intention was to show, in the most solemn manner, the immutability of His will and to provide strong encouragement for us, serving as an anchor for our souls. By interposing with an oath, God goes above and beyond to make assurance doubly sure. He desires to impress upon our hearts the certainty of salvation and win our trust through His loving purpose and condescension to our weakness. Therefore, when we hear the voice of the Gospel, we should be fully persuaded that God's secret counsel and decree for our salvation is being proclaimed to us.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 2.1658175629976535,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+            "commentatorTierSimilarities": [
+                25.21,
+                37.63,
+                37.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, in accommodation to our understanding, confirms His unchangeable purpose by adding an oath to His sure word. This is to show the immutability of His will and provide strong encouragement as an anchor for our souls. By interposing with an oath, God desires to impress upon our hearts the certainty of salvation and win our trust. When we hear the Gospel, we should be fully persuaded that God's secret counsel and decree for our salvation is being proclaimed to us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.151909551273363,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+            "commentatorTierSimilarities": [
+                25.44,
+                37.74,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to demonstrate the unchangeableness of His counsel, God willingly interposed with an oath. This solemn gesture serves as an anchor for our soul, offering strong encouragement and assuring us that God's purpose is steadfast. By confirming His promise with an oath, God goes above and beyond to establish our trust and strengthen our faith. As heirs of the promise, we can rest assured that His will is immutable and His intention to save us is unwavering.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.2921494858573612,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.55,
+            "commentatorTierSimilarities": [
+                27.99,
+                38.27,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, in accommodating our understanding, confirmed His unchangeable purpose by adding an oath to His sure word. This is to show the immutability of His will and provide strong encouragement as an anchor for our souls. By interposing with an oath, God goes above and beyond to win our trust and establish our faith. The certainty of salvation is necessary, and God's oath serves as a solemn assurance of His unchanging counsel. Believers can be fully persuaded that the Gospel reveals God's decree for our salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1963810991484385,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+            "commentatorTierSimilarities": [
+                25.71,
+                38.14,
+                36.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In order to firmly establish His unchanging purpose, God, in condescension to our understanding, confirmed His Word with an oath. This divine gesture serves to provide an anchor of strong encouragement for our souls. God desires to impress upon our hearts the certainty of salvation, going above and beyond to win our trust and establish our faith. By interposing with an oath, God goes to great lengths to demonstrate the immutability of His counsel and to reveal His decree for our salvation through the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.1028743951409394,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                24.67,
+                37.89,
+                37.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

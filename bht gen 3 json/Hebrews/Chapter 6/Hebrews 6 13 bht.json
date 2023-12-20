@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:48:18",
+    "verseRef": "Hebrews 6:13",
+    "bestBHT": {
+        "bht": "Abraham's unwavering faith and patient endurance exemplify the steadfastness of God's promises. Through his faith, Abraham obtained the assurance and inheritance of God's promises. The oath of grace made by God Himself is an everlasting testament to His faithfulness. This oath provides solace and encouragement to those who have been warned of His wrath. By looking at the example of Abraham, we are reminded of the unchanging nature of God's promises and are motivated to persevere in our faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 2.4295505383083356,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+        "commentatorTierSimilarities": [
+            28.85,
+            37.66,
+            33.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Surely blessing I will bless thee, and multiplying I will multiply thee.",
+            "Having endured with patience, he obtained the promise.",
+            "And thus Abraham became inheritor of the promises."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He now gives consolation, by the oath of God's grace, to those whom, in the second, third, and fourth chapters, he had warned by the oath of God's 'wrath.'",
+            "The oath of wrath did not primarily extend its force beyond the wilderness; but the oath of grace is in force for ever.",
+            "The oath of grace is in force for ever."
+        ],
+        "Albert Barnes": [
+            "The object of introducing this example here is, to encourage those to whom the apostle was writing to persevere in the Christian life, This he does by showing that God had given the highest possible assurance of his purpose to bless his people, by an oath.",
+            "Because the 'example' of Abraham was just in point. He had persevered. He had relied firmly and solely on the promise of God. He did this when appearances were much against the fulfillment of the promise, and he thus showed the advantage of perseverance and fidelity in the cause of God.",
+            "In an oath of this kind God pledges his veracity; declares that the event shall be as certain as his existence; and secures it by all the perfections of his nature."
+        ],
+        "Marvin Vincent": [
+            "Illustration of the long-suffering of faith by the example of Abraham.",
+            "The example of Abraham shows, first, that the promise of God is sure.",
+            "Since he had (the power) to swear by no one greater."
+        ],
+        "John Calvin": [
+            "His object was to prove, that the grace of God is offered to us in vain, except we receive the promise by faith, and constantly cherish it in the bosom of our heart.",
+            "We must, then, notice the circumstance as to time, that the Apostle\u2019s reasoning may appear evident; and what he subjoins refers to this \u2014 that he was made partaker of this blessing, but that it was after he had waited for what no one could have thought would ever come to pass.",
+            "Except he performs what he promises, he testifies that he is not to be counted true and faithful."
+        ],
+        "Philip Schaff": [
+            "For when God made (or, had made) promise to Abraham, because (since) he could swear by none greater, he aware by himself.",
+            "God made promise, and then, because there was none greater to whom He could appeal, He pledged His own life or being to the truth of the promise.",
+            "Both promise and oath were immutable; the oath did not add to the intrinsic certainty of the promise, His word being ever as good as His bond; but it gave a deeper impression of its certainty, and was fitted to remove every doubt."
+        ],
+        "Archibald T. Robertson": [
+            "Made promise (\u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03b9\u03bb\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). First aorist middle participle of \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03c9.",
+            "Could swear by none greater (\u03ba\u03b1\u03c4' \u03bf\u03c5\u03b4\u03b5\u03bd\u03bf\u03c2 \u03b5\u03b9\u03c7\u03b5\u03bd \u03bc\u03b5\u03b9\u03b6\u03bf\u03bd\u03bf\u03c2 \u03bf\u03bc\u03bf\u03c3\u03b1).",
+            "Imperfect active of \u03b5\u03c7\u03c9 in sense of \u03b5\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf as often with \u03bf\u03bc\u03bf\u03c3\u03b1 (first aorist active infinitive of \u03bf\u03bc\u03bd\u03c5\u03c9) and \u03c9\u03bc\u03bf\u03c3\u03b5\u03bd (he sware) is first aorist active indicative."
+        ],
+        "John Gill": [
+            "The promise made to him [Abraham] is not that in Genesis 12:1 nor that in Genesis 15:1 but that in Genesis 22:16 for that only had an oath annexed to it.",
+            "and who is truly and properly [God]; and than whom there is none greater;",
+            "God does not swear by another, for nothing is better than himself, but by himself, who is the best of all;"
+        ],
+        "John Wesley": [
+            "For \u2014 Ye have abundant encouragement, seeing no stronger promise could be made than that great promise which God made to Abraham, and in him to us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham serves as an illustration of the unwavering faith and patience that is required to obtain God's promises. By enduring with patience, Abraham obtained the promise that God had made to him. The example of Abraham highlights the surety and trustworthiness of God's promises. In making an oath to Abraham, God pledged His own veracity and existence, ensuring the certainty of the promise. This oath of grace is everlasting and offers consolation to those who have been warned of God's wrath. The example of Abraham encourages believers to persevere in their faith, as God's promises are unchanging and trustworthy.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.599101272016166,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.76,
+            "commentatorTierSimilarities": [
+                27.68,
+                37.63,
+                34.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's enduring faith and patience provide an example of the unwavering trust required to obtain God's promises. Through his steadfastness, Abraham obtained the assurance of God's pledge. The example of Abraham demonstrates the surety and reliability of God's promises, as well as the unchanging nature of His oath. This oath of grace, which extends beyond the temporal and into eternity, offers comfort to those who have been warned of God's wrath. Believers are encouraged to persevere, as God's promises are steadfast and dependable.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4267617998718665,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.03,
+            "commentatorTierSimilarities": [
+                27.58,
+                37.98,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's enduring faith illustrates the certainty and trustworthiness of God's promises. By patiently waiting, Abraham obtained the pledge and assurance from God. This example encourages believers to persevere in their faith, as God's promises are unwavering. The oath of grace, made by God Himself, ensures the everlasting nature of His promises. Unlike the oath of wrath, which was limited in its scope, the oath of grace is in force forever, offering comfort and consolation to those who embrace it.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.409088798803266,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.44,
+            "commentatorTierSimilarities": [
+                29.36,
+                38.87,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's unwavering faith serves as a powerful example of the certainty of God's promises. Through his patient endurance, Abraham obtained the assurance and inheritance of the promises. The oath of grace that God made to Abraham is an everlasting testament to His faithfulness and serves as a comforting consolation to those who have been warned of His wrath. By highlighting the example of Abraham, the passage reveals the unchanging nature of God's promises and encourages believers to persevere in faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.477247156657806,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.71,
+            "commentatorTierSimilarities": [
+                27.48,
+                38.38,
+                34.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's unwavering faith and patient endurance exemplify the steadfastness of God's promises. Through his faith, Abraham obtained the assurance and inheritance of God's promises. The oath of grace made by God Himself is an everlasting testament to His faithfulness. This oath provides solace and encouragement to those who have been warned of His wrath. By looking at the example of Abraham, we are reminded of the unchanging nature of God's promises and are motivated to persevere in our faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.4295505383083356,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+            "commentatorTierSimilarities": [
+                28.85,
+                37.66,
+                33.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

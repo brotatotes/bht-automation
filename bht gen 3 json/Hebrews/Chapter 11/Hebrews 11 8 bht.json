@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:50:07",
+    "verseRef": "Hebrews 11:8",
+    "bestBHT": {
+        "bht": "By faith, Abraham obeyed the call to go out to a place he did not know. He relied confidently on the future fulfillment of God's promises, even though he had not received them yet. Abraham's journey was a display of his unwavering trust in God's unseen and unknown plans. His faith was proven through his obedience and willingness to sacrifice, making him a remarkable example of faith. Despite not knowing the exact location, Abraham embarked on his journey, guided by his faith in God's guidance.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.468374771507942,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+        "commentatorTierSimilarities": [
+            32.19,
+            37.61,
+            30.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith Abraham, being called, obeyed, to go out to a place which he was hereafter to receive for an inheritance.",
+            "He who was [afterwards] called Abraham, father of nations, obeyed.",
+            "Went out, not knowing whither he was going."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By faith, he who was (afterwards) called Abraham... obeyed... so as to go out.\" ",
+            "He had not fully received even this promise when he went out.",
+            "It is in the new heaven and new earth that he shall receive his personal inheritance promised him."
+        ],
+        "Albert Barnes": [
+            "The first was that when he left his own country to go to a distant land of strangers.",
+            "The other when he showed his readiness to sacrifice his own son in obedience to the will of God.",
+            "When it is said that Abraham 'went out, not knowing whither he went,' it must be understood as meaning that he was ignorant to what country he would in fact be led."
+        ],
+        "Marvin Vincent": [
+            "Faith, according to the opening definition in this chapter, is that assurance and conviction of unseen things which caused Abraham and the patriarchs to rely confidently upon the future fulfillment of the divine promises.",
+            "Rend. 'when he was called obeyed to go out.' The infinitive explains the more general obeyed, by specifying that in which his obedience was shown.",
+            "Note the picturesque continued present tense, 'whither he is going,' as of Abraham on his journey."
+        ],
+        "John Calvin": [
+            "He therefore calls their attention to faith, for Abraham himself had no excellency which did not proceed from faith.",
+            "By these two things, \u2014 his promptness in obeying, and his perseverance, was Abraham\u2019s faith most clearly proved.",
+            "It is a no ordinary trial of faith to give up what we have in hand, in order to seek what is afar off, and unknown to us."
+        ],
+        "Philip Schaff": [
+            "By faith Abraham... obeyed and went; his confidence showing itself in this way.",
+            "When Abraham left Chaldea he had no promise; that was given afterwards in Canaan.",
+            "In Noah faith showed its power by the feeling it produced; in Abraham by obedience."
+        ],
+        "Archibald T. Robertson": [
+            "Abraham is a sublime and graphic example of faith.",
+            "He did not even know where the land was that he was going to receive.",
+            "He did not even know where the land was that he was going to receive 'as an inheritance'."
+        ],
+        "John Gill": [
+            "And so the grace of God is seen in calling them, without any respect to their deserts, as in calling Abraham.",
+            "This also shows that Abraham's faith agrees with the apostle's definition of it, Hebrews 11:1.",
+            "God sometimes leads his people in ways they have not known, though they are known to him, and are always right."
+        ],
+        "John Wesley": [
+            "Genesis 12:1,4,5"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Abraham obeyed the call to go out to a place he did not know, relying confidently on the future fulfillment of God's promises. He did not fully receive the inheritance promised to him, as it will be in the new heaven and new earth. Abraham is a profound example of faith, showing it not only through his obedience in leaving his own country, but also in his willingness to sacrifice his own son. He did not know where he was going, but his journey was guided by his faith in God. Through these actions, Abraham's faith was proven, demonstrating his trust in the grace and calling of God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.425582379652422,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.99,
+            "commentatorTierSimilarities": [
+                34.14,
+                37.45,
+                28.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Abraham obeyed the call to go out to a place he did not know, relying confidently on the future fulfillment of God's promises. He did not fully receive the inheritance promised to him, as it will be in the new heaven and new earth. Abraham is a profound example of faith, showing it not only through his obedience in leaving his own country but also in his willingness to sacrifice his own son. He did not know where he was going, but his journey was guided by his faith in God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.4423179912453996,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.55,
+            "commentatorTierSimilarities": [
+                35.64,
+                38.0,
+                26.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Abraham obeyed the call to go out to a place he did not know. He relied confidently on the future fulfillment of God's promises, even though he had not received them yet. Abraham's journey was a display of his unwavering trust in God's unseen and unknown plans. His faith was proven through his obedience and willingness to sacrifice, making him a remarkable example of faith. Despite not knowing the exact location, Abraham embarked on his journey, guided by his faith in God's guidance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.468374771507942,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+            "commentatorTierSimilarities": [
+                32.19,
+                37.61,
+                30.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, Abraham obeyed the call to go out to a place he did not know, relying confidently on the future fulfillment of God's promises. He did not fully receive the inheritance promised to him, and it is in the new heaven and new earth that he will ultimately receive his personal inheritance. Abraham's journey was guided by faith, as he willingly followed God's calling despite not knowing where he was going. His unwavering trust in God serves as a powerful example of faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.3315896176113036,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.87,
+            "commentatorTierSimilarities": [
+                34.59,
+                35.63,
+                29.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Abraham obeyed the call to go out to a place he did not know. He relied confidently on the future fulfillment of God's promises. Abraham's journey showcases his unwavering trust in God, even though he had not fully received the inheritance promised to him yet. His faith mirrors the definition given in Hebrews 11:1 and serves as a powerful example. Abraham's obedience and willingness to leave his country without knowing the destination demonstrate his extraordinary faith in God's guidance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.368658085590008,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.1,
+            "commentatorTierSimilarities": [
+                32.14,
+                37.44,
+                30.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

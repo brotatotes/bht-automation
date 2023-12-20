@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:48:03",
+    "verseRef": "Hebrews 6:7",
+    "bestBHT": {
+        "bht": "Just as the earth receives the rain and brings forth vegetation, so does the heart of a person who truly takes in the word of God and experiences its power. The rain represents the blessings and grace that God pours down upon both believers and apostates. When the heart drinks in this heavenly gift, it becomes fruitful and receives even more blessings from God. However, a heart that rejects the word of God becomes like barren soil, unable to bring forth good fruit. Believers must diligently cultivate their hearts to grow in God's abundant grace.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.985067571781637,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+        "commentatorTierSimilarities": [
+            24.22,
+            38.41,
+            37.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And thus it is an appropriate figure for men who have really taken into themselves the word of God, and experienced its power,",
+            "the word is generally used for grass, or corn, or any kind of green herb) fit (meet) for those on whose account",
+            "and there can be no doubt that if, as is probable, the features of the parable are to be traced in the interpretation, we must understand GOD as the owner of the land which is tilled, and the tillers are the teachers and preachers of the Gospel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The rain of heaven falls both on the elect and the apostates.",
+            "The heart of man is the earth; man is the dresser; herbs are brought forth meet, not for the dresser, but for God, the owner of the soil, for whom it is dressed.",
+            "Man's use of means is vain unless God bless."
+        ],
+        "Albert Barnes": [
+            "He says, it is like the earth. If that absorbs the rain, and produces an abundant harvest, it receives the divine blessing. If not, it is cursed, or is worthless.",
+            "The comparison of 'drinking in' the rain is designed to distinguish a mellow soil which receives the rain, from hard or rocky land where it runs off.",
+            "The design is to show that a Christian who makes proper use of the means of growing in grace which God bestows upon him, and who does not apostatize, meets with the divine favor and approbation."
+        ],
+        "Marvin Vincent": [
+            "The earth...Personified...Which drinketh in...Appropriates the heavenly gift of rain",
+            "The natural result of the ground's receiving and absorbing the rains is fruitfulness",
+            "Receiveth blessing from God...The blessing is increased fruitfulness"
+        ],
+        "John Calvin": [
+            "If we desire to bring forth good fruit, as soon as the Lord sows his word, it ought to strike roots in us without delay; for it cannot be expected to fructify, if it be either choked or perish.",
+            "So they who receive the seed of the Gospel into their hearts and bring forth genuine shoots, will always make progress until they produce ripe fruit.",
+            "They who destroy the seed of the Gospel either by their indifference or by corrupt affections, so as to manifest no sign of good progress in their life, clearly show themselves to be reprobates, from whom no harvest can be expected."
+        ],
+        "Archibald T. Robertson": [
+            "Which hath drunk...green plant, only here in N.T.\" ",
+            "Old compound verbal...well-placed, fit (Luke 9:62).\" ",
+            "Present active indicative...to share in, with genitive (\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03b1\u03c2) as here (Acts 2:46) or with accusative (Acts 24:25)."
+        ],
+        "John Gill": [
+            "The 'rain' that comes upon them may signify either the grace of Christ, which, like rain, is an instance of his sovereignty, and what he alone can give, and not the vanities of the Gentiles; and which he gives to persons undeserving of it; and which refreshes, revives, and makes fruitful.",
+            "The Gospel, which comes from above, is the means of softening hard hearts, of reviving distressed and disconsolate minds, and of making barren souls fruitful.",
+            "Such earth, or those signified by it, receives blessing from God; both antecedent to all this, and which is the cause of fruitfulness; and as consequent upon it, for such receive more grace, even all the blessings of grace, and at last the blessing of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as the earth receives the rain and brings forth vegetation, so too does the heart of a person who truly takes in the word of God and experiences its power. The rain represents the blessings and grace that God pours down upon both believers and apostates. It is only when the heart drinks in this heavenly gift and appropriates it that it becomes fruitful and receives even more blessings from God. However, if the heart rejects or neglects the word of God, it becomes like dry and barren soil, unable to bring forth good fruit. Therefore, it is essential for believers to diligently cultivate their hearts in order to receive and grow in the grace that God abundantly provides.",
+            "wordCount": 120,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.051589664950809,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                23.41,
+                38.65,
+                37.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as the earth receives the rain and brings forth vegetation, so too does the heart of a person who truly takes in the word of God and experiences its power. The rain represents the blessings and grace that God pours down upon both believers and apostates. It is only when the heart drinks in this heavenly gift that it becomes fruitful and receives even more blessings from God. However, if the heart rejects the word of God, it becomes like barren soil, unable to bring forth good fruit. Therefore, it is essential for believers to diligently cultivate their hearts to receive and grow in God's abundant grace.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.030929384578104,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                23.74,
+                38.67,
+                37.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as the earth receives the rain and brings forth vegetation, so does the heart of a person who truly takes in the word of God and experiences its power. The rain represents the blessings and grace that God pours down upon both believers and apostates. When the heart drinks in this heavenly gift, it becomes fruitful and receives even more blessings from God. However, a heart that rejects the word of God becomes like barren soil, unable to bring forth good fruit. Believers must diligently cultivate their hearts to grow in God's abundant grace.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.985067571781637,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                24.22,
+                38.41,
+                37.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the heart truly takes in the word of God and experiences its power, it is like the earth that receives and absorbs rain, yielding fruitfulness. Just as the rainfall blesses both believers and apostates, God's grace and blessings pour down upon those who embrace His word. However, those who reject or neglect God's word become like dry and unfruitful soil. Believers must cultivate their hearts to receive and grow in God's abundant grace, which softens hardened hearts and brings forth spiritual growth and fruitful lives.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9832697255605454,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                23.96,
+                36.35,
+                39.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as the earth drinks in the heavenly gift of rain, the heart of a person who wholeheartedly embraces God's word is receptive and fruitful. The rain symbolizes the blessings and grace bestowed upon believers and non-believers alike. By appropriating this heavenly gift, the heart becomes fruitful and receives even more blessings from God. On the other hand, those who reject or neglect God's word become like unproductive soil. Therefore, believers should diligently cultivate their hearts to receive and grow in God's abundant grace, which softens hardened hearts and yields spiritual fruit.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9336390698491808,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                23.42,
+                37.14,
+                39.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

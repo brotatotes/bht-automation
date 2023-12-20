@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:47:18",
+    "verseRef": "Hebrews 3:7",
+    "bestBHT": {
+        "bht": "Today, if ye hear his voice, harden not your hearts. This day stands first, representing their space for repentance. Jesus is 'faithful,' be not ye unfaithful. The words of the Psalmist are the words of God Himself. Today refers to the Christian present, the time of salvation. The peril of apostasy is vividly presented. Let us hearken to His voice and dread His displeasure. Beware of unbelief, for neglecting His voice leads to hardening hearts. Let us be teachable, for God will not lightly punish stubbornness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.837642393258283,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+        "commentatorTierSimilarities": [
+            31.64,
+            37.67,
+            30.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To-day if ye hear his voice, harden not your hearts.",
+            "This day stands first, with strong emphasis.",
+            "The forty years' space is taken as representing to the Hebrews their space for repentance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus is 'faithful,' be not ye unfaithful.",
+            "The words of the [inspired] Psalmist [are] the words of God Himself.",
+            "[By] 'to-day,' [it] will mean the particular day when it was, or is, used."
+        ],
+        "Albert Barnes": [
+            "Let us hearken to his voice, and dread his displeasure.",
+            "The danger of hardening the heart by neglecting to hear his voice was as great.",
+            "Whatever conveys to us the truth of God may be regarded as his voice speaking to us."
+        ],
+        "Marvin Vincent": [
+            "The formula the Spirit the holy (Spirit) is common in the N. T. with the exception of the Catholic Epistles, where it does not occur.\" ",
+            "Dio wherefore is connected with blepete take heed, ver. 12. The point is the writer's warning, not the warning of the citation.",
+            "Today is prophetically interpreted by the writer as referring to the Christian present, the time of salvation inaugurated by the appearance of Christ."
+        ],
+        "John Calvin": [
+            "As God from the beginning would his voice obeyed, and could not endure perverseness without punishing it severely, so at this day he will not lightly punish our stubbornness, unless we become teachable.",
+            "It is useful for us to familiarize ourselves with such expressions, so that we may remember that the words adduced from the books of the prophets are those of God and not of men.",
+            "The chief thing, then, was to obey the word of God."
+        ],
+        "Philip Schaff": [
+            "Since it is only the giving up of your hope that can rob you of this blessedness, . . . beware of unbelief.",
+            "Today equals, with the whole phrase, whenever He speaks, whenever you hear His voice.",
+            "If ye will hear quite misleads; if ye hear (literally, if you shall have heard)."
+        ],
+        "Archibald T. Robertson": [
+            "The peril of apostasy as shown by the example of the Israelites is presented with vividness and power.",
+            "The writer quotes this Psalm as the Word of God and in Hebrews 4:7 attributes it to David.",
+            "If ye shall hear."
+        ],
+        "John Gill": [
+            "To hear [the precepts of Christ] is to obey them; and this is an acknowledgment to Christ as King of saints, and is a testimony of love to him, and is wellpleasing in his sight.\" ",
+            "The Gospel of Christ...is a voice of love, grace, and mercy; of peace and reconciliation; of pardon and righteousness; of liberty, redemption, and salvation by Christ.",
+            "To hear it [the Gospel] is not only to hear it externally, but internally, so as to understand it, and distinguish it from the voice of a stranger, and to approve of it, and believe it, and put in practice what is heard."
+        ],
+        "John Wesley": [
+            "Wherefore \u2014 Seeing he is faithful, be not ye unfaithful. Psalm 95:7, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Today, if we hear His voice, let us not harden our hearts. This day has strong emphasis, representing the Hebrews' space for repentance. Jesus is faithful, therefore we should not be unfaithful. The words of the inspired Psalmist are the words of God Himself. The writer prophetically interprets today as referring to the Christian present, the time of salvation inaugurated by the appearance of Christ. He presents the peril of apostasy through the example of the Israelites with vividness and power. It is vital that we hearken to His voice and dread His displeasure, for neglecting to hear His voice can lead to hardening our hearts. Let us not forsake our hope, but beware of unbelief. Whenever He speaks, whenever we hear His voice, let us obey and be teachable, for God will not lightly punish stubbornness.",
+            "wordCount": 137,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9181701793951218,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                31.25,
+                34.68,
+                34.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Today, if ye hear his voice, harden not your hearts. This day stands first, representing their space for repentance. Jesus is 'faithful,' be not ye unfaithful. The words of the Psalmist are the words of God Himself. Today refers to the Christian present, the time of salvation. The peril of apostasy is vividly presented. Let us hearken to His voice and dread His displeasure. Beware of unbelief, for neglecting His voice leads to hardening hearts. Let us be teachable, for God will not lightly punish stubbornness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.837642393258283,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                31.64,
+                37.67,
+                30.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Today, if ye hear his voice, harden not your hearts. This day stands first, representing their space for repentance. Jesus is 'faithful,' be not ye unfaithful. The words of the Psalmist are the words of God Himself. Today refers to the Christian present, the time of salvation. The peril of apostasy is vividly presented. Beware of unbelief, for neglecting His voice leads to hardening hearts. Let us be teachable, for God will not lightly punish stubbornness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.8285157740492655,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                34.15,
+                33.2,
+                32.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Today, if ye hear his voice, harden not your hearts. This day stands first, with strong emphasis, representing the Hebrews' space for repentance. Jesus is 'faithful,' be not ye unfaithful. The words of the inspired Psalmist are the words of God Himself. Today prophetically refers to the Christian present, the time of salvation inaugurated by the appearance of Christ. The peril of apostasy, shown by the example of the Israelites, is presented vividly and powerfully. Let us hearken to His voice and diligently heed His warnings, for His word is trustworthy and our response matters.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8784176789158478,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.8,
+            "commentatorTierSimilarities": [
+                36.84,
+                29.52,
+                33.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Today, if ye hear his voice, harden not your hearts. This day stands first, representing their space for repentance. Jesus is 'faithful,' be not ye unfaithful. The words of the Psalmist are the words of God Himself. Today refers to the Christian present, the time of salvation. The peril of apostasy is vividly presented. Let us hearken to His voice and dread His displeasure. Beware of unbelief, for neglecting His voice leads to hardening hearts. Let us be teachable, for God will not lightly punish stubbornness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.837642393258283,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                31.64,
+                37.67,
+                30.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

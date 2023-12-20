@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:51:14",
+    "verseRef": "Hebrews 13:13",
+    "bestBHT": {
+        "bht": "Let us come out from all carnalism, formalism, and sensuous worship, and know Jesus in His spiritual power apart from worldliness. Bearing His reproach means being willing to identify with Him, follow Him, and be regarded as His friend, even if it subjects us to shame and reproach. This passionate plea to go out and bear His reproach is the central message of the Epistle because faith considers Jerusalem as a camp, not a city, and the Christians have access to the open altar in heaven while the Jews serve an earthly sanctuary.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.9609536510392334,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+        "commentatorTierSimilarities": [
+            33.46,
+            34.48,
+            32.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Faith considers Jerusalem itself as a camp, not a city.",
+            "He contrasts with the Jews, who serve an earthly sanctuary, the Christians to whom the altar in heaven stands open, while it is closed against the Jews.",
+            "Come out from all carnalism, worldly formalism, and mere sensuous worship, and know Jesus in His spiritual power apart from worldliness."
+        ],
+        "Albert Barnes": [
+            "To be identified with him there; to follow him; to sympathize with him, to be regarded as his friend, would have subjected one to similar shame and reproach.",
+            "The meaning here is that we should be willing to regard ourselves as identified with the Lord Jesus and to bear the same shame and reproaches which he did.",
+            "Alas, how many are there who profess to love him when religion subjects them to no reproach, who would have shrunk from following him to Calvary!"
+        ],
+        "Marvin Vincent": [
+            "Bearing his reproach [\u03c4\u03bf\u03bd \u03bf\u03bd\u03b5\u03b9\u03b4\u03b9\u03c3\u03bc\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c6\u03b5\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2] . The reproach of exclusion from the Jewish commonwealth."
+        ],
+        "John Calvin": [
+            "This is what God demands from you, but not that work in which you in vain weary yourselves.",
+            "We must go after him through exiles, flights, reproaches, and all kinds of afflictions.",
+            "This warfare, in which we must strive even unto blood, he sets in opposition to those shadowy practices of which alone the teachers of ceremonies boasted."
+        ],
+        "Philip Schaff": [
+            "The cross is the meeting-place of all who would be saved.",
+            "To number ourselves with those who cast Him out...is to be undone.",
+            "We must abandon the Law, we must find in Christ Himself the sin-offering in which we are to share, if we desire to partake of the forgiveness and holiness of the Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Let us keep on going out there to him.\" ",
+            "The only decent place for the follower of Christ is beside the Cross of Christ with the reproach and the power in it.",
+            "This is the great passionate plea of the whole Epistle."
+        ],
+        "John Gill": [
+            "And a man may be said to 'go forth' from hence, when he professes not to belong to the world; when his affections are weaned from it; when the allurements of it do not draw him aside; when he forsakes, and suffers the loss of all, for Christ; when he withdraws from the conversation of the men of it, and breathes after another world.\" ",
+            "Christ is not to be found in the camp, in the world: he is above, in heaven, at the right hand of God; and that going out of the camp externally, or leaving the world only in a way of profession, is or no avail, without going to Christ.",
+            "To go forth to him [Christ] is to believe in him; to hope in him; to love him; to make a profession of him, and follow him: bearing his reproach."
+        ],
+        "John Wesley": [
+            "Let us then go forth without the camp \u2014 Out of the Jewish dispensation.",
+            "Bearing his reproach \u2014 All manner of shame, obloquy, and contempt for his sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us come out from the world and all its worldly ways, for faith sees Jerusalem as a camp, not a city. The Christians, unlike the Jews, are not limited to an earthly sanctuary, but have access to the open altar in heaven. Therefore, we must abandon all carnalism, formalism, and sensuous worship, and instead know Jesus in His spiritual power apart from the world. Let us be willing to bear the reproach and shame that comes with identifying ourselves with Him, for the only fitting place for followers of Christ is by the Cross, where both reproach and power reside. This plea to come out and bear His reproach is the passionate call of the entire Epistle.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.8574797841189643,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                34.71,
+                30.96,
+                34.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us come out from the world for faith sees Jerusalem as a camp, not a city. The Christians have access to the open altar in heaven, unlike the Jews who serve an earthly sanctuary. Abandon carnalism, formalism, and sensuous worship, and know Jesus in His spiritual power apart from the world. Be willing to bear His reproach by the Cross, where both reproach and power reside. This is the passionate plea of the whole Epistle.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7329359732633276,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                40.6,
+                27.9,
+                31.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith considers Jerusalem as a camp, not a city, contrasting with the Jews who serve an earthly sanctuary while the Christians have access to the open altar in heaven. Let us come out from all carnalism, worldly formalism, and sensuous worship, and know Jesus in His spiritual power apart from worldliness. Bearing His reproach means being willing to be identified with Him, to follow Him, and to be regarded as His friend, even if it subjects us to shame and reproach. This passionate plea to go out and bear His reproach is the central message of the Epistle.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8580056004113337,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                34.18,
+                33.79,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith considers Jerusalem as a camp, not a city, contrasting with the Jews who serve an earthly sanctuary while the Christians have access to the open altar in heaven. Let us come out from all carnalism, worldly formalism, and sensuous worship, and know Jesus in His spiritual power apart from worldliness. Bearing His reproach means being willing to identify with Him, follow Him, and be regarded as His friend, even if it subjects us to shame and reproach. This passionate plea to go out and bear His reproach is the central message of the Epistle.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.854394125650185,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                34.63,
+                33.26,
+                32.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us come out from all carnalism, formalism, and sensuous worship, and know Jesus in His spiritual power apart from worldliness. Bearing His reproach means being willing to identify with Him, follow Him, and be regarded as His friend, even if it subjects us to shame and reproach. This passionate plea to go out and bear His reproach is the central message of the Epistle because faith considers Jerusalem as a camp, not a city, and the Christians have access to the open altar in heaven while the Jews serve an earthly sanctuary.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9609536510392334,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+            "commentatorTierSimilarities": [
+                33.46,
+                34.48,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 17:46:17",
+    "verseRef": "Hebrews 3:18",
+    "bestBHT": {
+        "bht": "Disobedience and unbelief led to the exclusion of those who did not trust in God's promises from entering the promised land. The author warns against an evil heart of unbelief, emphasizing that lacking firm confidence in God's promises can result in being excluded from eternal rest. Unbelief is seen as a form of disobedience and greatly provokes God. The people's stubbornness and rebellion serve as a cautionary example of how unbelief can lead to sin and judgment.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.88459518399064,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+        "commentatorTierSimilarities": [
+            18.85,
+            39.55,
+            41.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "18. to them that believed not\u2014rather",
+            "\tas Greek, \"to them that disobeyed.\" Practical",
+            "\tunbelief (Deuteronomy 1:26)."
+        ],
+        "Albert Barnes": [
+            "In consequence of this want of faith, God solemnly sware unto them that they should not enter into the promised land.",
+            "The distinct reason, therefore, assigned by Moses why they did not enter the promised land, was a want of faith.",
+            "He is exhorting those whom he addressed to beware of an evil heart of unbelief;...if that firm confidence in God and his promises which he requires is wanting, you will be excluded from the world of eternal rest."
+        ],
+        "Marvin Vincent": [
+            "To them that believed not [\u03c4\u03bf\u03b9\u03c2 \u03b1\u03c0\u03b5\u03b9\u03b8\u03b7\u03c3\u03b1\u03c3\u03b9\u03bd] . Rend. to them that disobeyed.\" ",
+            "The rest of God was proclaimed to your forefathers, but they did not enter into it because of their unbelief.\" ",
+            "It has been proclaimed to you. You may fail as did they, and for the same reason."
+        ],
+        "Philip Schaff": [
+            "Unbelief is as much disobedience as the breaking of any other Divine law.",
+            "Their danger was not so much inconsistency in not obeying what they believed, as the rejection of the Gospel itself.",
+            "They did not obey the command that bade them to believe."
+        ],
+        "Archibald T. Robertson": [
+            "That they should not enter.\" ",
+            "To them that were disobedient."
+        ],
+        "John Gill": [
+            "...they would not be persuaded by Moses and Aaron, by Joshua and Caleb, to be still and quiet, to cease murmuring, and submit to the will of God, and believe in him...",
+            "...they were disobedient, stubborn, and rebellious, and would go up, when they were bid not to go up...",
+            "Unbelief is a source of sin, and cause of judgment, being greatly provoking to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the consequences of disobedience and unbelief. Those who did not trust in God's promises and chose to disobey were not able to enter the promised land. The author warns the readers about the danger of having an evil heart of unbelief, as it can lead to exclusion from eternal rest. Unbelief is seen as a form of disobedience to God's command to believe. The people in the wilderness were stubborn, rebellious, and did not submit to God's will, which greatly provoked Him. It serves as a reminder that unbelief can result in sin and judgment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8462890235447253,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                21.88,
+                39.02,
+                39.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Disobedience and unbelief had consequences for the people who did not trust in God's promises, leading to their exclusion from the promised land. The author warns against having an evil heart of unbelief, as it can result in being denied eternal rest. Unbelief is regarded as a form of disobedience, provoking God. The people's stubbornness and rebellion illustrate the dangers of unbelief, which can lead to sin and judgment.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8780079113635813,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                20.43,
+                38.89,
+                40.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who disobeyed and did not believe in God's promises were unable to enter the promised land. The author cautions against having an evil heart of unbelief, as it can lead to exclusion from eternal rest. Unbelief is seen as a form of disobedience, which greatly provokes God. The people's stubbornness and rebellion demonstrate the peril of unbelief, as it can result in sin and judgment.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.833198156589337,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+            "commentatorTierSimilarities": [
+                20.93,
+                39.02,
+                40.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Disobedience and unbelief led to the exclusion of those who did not trust in God's promises from entering the promised land. The author warns against an evil heart of unbelief, emphasizing that lacking firm confidence in God's promises can result in being excluded from eternal rest. Unbelief is seen as a form of disobedience and greatly provokes God. The people's stubbornness and rebellion serve as a cautionary example of how unbelief can lead to sin and judgment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.88459518399064,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                18.85,
+                39.55,
+                41.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who disobeyed and did not believe in God's promises were excluded from the promised land. An evil heart of unbelief can lead to exclusion from eternal rest. Unbelief is disobedience and greatly provokes God. The people's stubbornness and rebellion demonstrate the dangers of unbelief, resulting in sin and judgment.",
+            "wordCount": 52,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8034819905231987,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                19.23,
+                38.77,
+                42.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

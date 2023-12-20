@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:48:13",
+    "verseRef": "Hebrews 7:2",
+    "bestBHT": {
+        "bht": "Melchisedec symbolizes God's preservation of a faithful remnant amid general apostasy. In contrast to the Levitical priesthood which divided the kingdom and the priesthood, Melchisedec's priesthood, like Christ's, unites both. Christ, as the true Prince of peace, brings a peace that is the result of righteousness. Melchizedek's name, denoting king of righteousness, and his title as king of peace, align with his character. Abraham acknowledges Melchizedek's priesthood by offering him a tenth of the spoils, signifying gratitude to God and reverence for the priest of God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.8320516726382565,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+        "commentatorTierSimilarities": [
+            27.85,
+            34.69,
+            37.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Melchisedec is a sample of how God preserves, amidst general apostasy, an elect remnant.",
+            "The Levitical was parenthetical, and severed the kingdom and priesthood; the patriarchal was the true forerunner of Christ's, which, like Melchisedec's, unites the kingship and priesthood.",
+            "Christ is the true Prince of peace. The peace which He brings is the fruit of righteousness."
+        ],
+        "Albert Barnes": [
+            "This does not appear to have been on the part of Abraham so much designed as a present to Melchizedek personally, as an act of pious thankfulness to God.\" ",
+            "The 'first' idea in the interpretation of his name and office, etc. First being mentioned as king of righteousness, and then as king of peace.",
+            "His meaning appears to be merely that it was a fact worthy of remark, that the 'name' had a meaning which corresponded so entirely with the character of him who was to be a high priest of the same 'order'."
+        ],
+        "Marvin Vincent": [
+            "The first designation is the literal interpretation of the Hebrew name.",
+            "Then follows a designation derived from his character, king of peace.",
+            "The passage in Genesis, however, points to a place, and the writer might naturally have desired to indicate the typical meaning of the city over which Melchisedec reigned."
+        ],
+        "Archibald T. Robertson": [
+            "It was common to offer a tenth of the spoils to the gods. So Abraham recognized Melchizedek as a priest of God.",
+            "First aorist active of \u03bc\u03b5\u03c1\u03b9\u03b6\u03c9, from \u03bc\u03b5\u03c1\u03bf\u03c2 (portion), to separate into parts.",
+            "Philo had made popular the kind of exegesis used here."
+        ],
+        "John Gill": [
+            "It was done but once, and not constantly, or every year; it was out of the spoils of the enemy, and not out of his own substance, or of the increase of the earth; nor was it for the maintenance of Melchizedek, as a priest, who also was a king, and was richly provided for; but to testify his gratitude to God, for the victory obtained, and his reverence of, and subjection to the priest of God.",
+            "Who is righteous, not only as God, and as man, and as Mediator, but particularly in the administration of his kingly office: his kingdom lies in righteousness, as well as peace... and he himself is the author of righteousness to all his people.",
+            "Christ, the Prince of peace; whose kingdom is a kingdom of peace; his sceptre is a sceptre of peace; his royal proclamation is the Gospel of peace; and his subjects are the sons of peace; and he himself is the author of peace, not only between Jew and Gentile, but between God and his people; and he is the donor of peace, external, internal, and eternal."
+        ],
+        "John Wesley": [
+            "Being first - According to the meaning of his own name.",
+            "King of righteousness, then - According to the name of his city.",
+            "King of peace - So in him, as in Christ, righteousness and peace were joined. And so they are in all that believe in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Melchisedec is an example of how God preserves a faithful remnant in the midst of general apostasy. The Levitical priesthood was a temporary interruption that separated the kingdom and priesthood, but the priesthood of Melchisedec, like Christ's, unites both. Christ, the true Prince of peace, brings a peace that is the result of righteousness. Melchizedek's name, which means king of righteousness, and his title as king of peace perfectly reflect his character. Melchizedek's name and office corresponded so completely to his righteous and peaceful nature that it is worthy of remark. Abraham recognized Melchizedek as a priest of God by offering him a tenth of the spoils, a common practice of recognizing the gods. This act was an expression of gratitude to God and reverence for the priest of God. Christ, the King of righteousness and peace, brings a kingdom characterized by righteousness and offers peace to all his people.",
+            "wordCount": 153,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.8693605388391932,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                26.37,
+                36.68,
+                36.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Melchisedec serves as a testament to the existence of an elect remnant amidst widespread apostasy. In contrast to the temporary and dividing Levitical priesthood, Melchisedec's priesthood foreshadows the perfect union of kingship and priesthood found in Christ. Christ, the true Prince of peace, ushers in a peace rooted in righteousness. Melchizedek's given name, meaning king of righteousness, and his title as king of peace exemplify his character. By offering a tenth of the spoils, Abraham acknowledges Melchizedek as a priest of God. The righteous and peaceful nature of Melchizedek's name and position is worthy of note, resonating with the essence of his personhood. Through Christ, the King of righteousness and peace, righteousness and peace harmoniously converge in His kingdom, wherein He grants eternal peace to those who believe.",
+            "wordCount": 131,
+            "quoteTokenProportion": 24.32,
+            "qualityScore": 1.8592941532513878,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.16,
+            "commentatorTierSimilarities": [
+                27.35,
+                34.82,
+                37.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Melchisedec stands as an example of how God preserves a faithful remnant amidst widespread apostasy. Unlike the Levitical priesthood which divided the kingdom and priesthood, Melchisedec, like Christ, harmoniously unifies kingship and priesthood. Christ, the true Prince of peace, brings about a peace that is the outcome of righteousness. The name Melchisedec holds a profound significance as it signifies both king of righteousness and king of peace. Abraham's act of giving a tenth of the spoils demonstrated his recognition of Melchisedec as a priest of God. It is remarkable how Melchisedec's name and position perfectly align with his righteous and peaceful character, foreshadowing the righteousness and peace found in Christ's kingdom.",
+            "wordCount": 114,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.8829832717721677,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                27.65,
+                36.19,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Melchisedec represents God's preservation of an elect remnant amidst apostasy. Unlike the Levitical priesthood, which divided the kingdom and the priesthood, Melchisedec's priesthood, like Christ's, unites both. Christ, the true Prince of peace, brings a peace that emanates from righteousness. Melchizedek's name, meaning king of righteousness, and his title as king of peace, accurately reflect his character. Abraham's recognition of Melchizedek as a priest of God through the offering of a tenth of the spoils demonstrates his gratitude and reverence. The righteousness and peace embodied by Melchizedek anticipate the perfect righteousness and peace found in Christ and His kingdom.",
+            "wordCount": 104,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.8661516688853306,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                27.06,
+                33.87,
+                39.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Melchisedec symbolizes God's preservation of a faithful remnant amid general apostasy. In contrast to the Levitical priesthood which divided the kingdom and the priesthood, Melchisedec's priesthood, like Christ's, unites both. Christ, as the true Prince of peace, brings a peace that is the result of righteousness. Melchizedek's name, denoting king of righteousness, and his title as king of peace, align with his character. Abraham acknowledges Melchizedek's priesthood by offering him a tenth of the spoils, signifying gratitude to God and reverence for the priest of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8320516726382565,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                27.85,
+                34.69,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

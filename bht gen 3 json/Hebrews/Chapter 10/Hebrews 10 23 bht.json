@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:49:37",
+    "verseRef": "Hebrews 10:23",
+    "bestBHT": {
+        "bht": "Let us firmly hold onto and boldly confess our hope and faith in God's promises, without wavering or doubting. Our hope is not in vain, for God is faithful and true to His word. It is by our faith in Him that our hope is sustained and nourished. We are to confidently declare our hope in God's salvation, knowing that He is trustworthy and will fulfill all that He has promised. May our profession of hope be unwavering and steadfast, for God's promises are great and sure.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.560099942072144,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.46,
+        "commentatorTierSimilarities": [
+            33.18,
+            30.53,
+            36.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let us hold fast the confession of our hope, held in our confession of it.\" ",
+            "We have here an extraordinary example of the persistence of a blunder through centuries.",
+            "He is faithful that promised."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our hope...is indeed faith exercised as to the future inheritance.",
+            "Hope rests on faith, and at the same time quickens faith, and is the ground of our bold confession.",
+            "God is faithful to His promises, but man is too often unfaithful to his duties."
+        ],
+        "Albert Barnes": [
+            "Let us hold fast the profession of our faith without wavering...there was in the Christian scheme every advantage of which the Jews could boast; everything pertaining to the dignity of the great Founder of the system...and that all this was possessed far more abundantly in the permanent Christian system than in what was typical in its character.\" ",
+            "For he is faithful that promised - To induce them to hold fast their profession, the apostle adds this additional consideration. God, who had promised eternal life to them, was faithful to all that he had said.",
+            "The fact that he is faithful is an encouragement to us. We are dependent on him for grace to hold fast our profession. If he were to prove unfaithful, we should have no strength to do it. But this he never does; and we may be assured, that all that he has promised he will perform."
+        ],
+        "Marvin Vincent": [
+            "Faith does not appear among Ms. readings. It is an innovation of the translators.\" ",
+            "They are steadfastly to confess their hope in God's promise and salvation.",
+            "Hope is here = the object of hope."
+        ],
+        "John Calvin": [
+            "As hope is born of faith, so it is fed and sustained by it to the last.",
+            "It is not true faith except it shows itself before men.",
+            "Our faith rests on this foundation, that God is true, that is, true to his promise."
+        ],
+        "Philip Schaff": [
+            "Those who refer the previous clause to baptism find here an argument for that view: 'hold fast' the hope which you expressed when you confessed Christ in baptism... a good sense.",
+            "Their hope is not to 'waver,' but is to be steadfast... doubting neither the greatness nor the certainty of the reward.",
+            "A lying god, a perjured god, is not the God of the covenant or of the Bible."
+        ],
+        "Archibald T. Robertson": [
+            "It is a confession of hope, not of despair.",
+            "The ministry of Jesus rests upon 'better promises.'",
+            "God is 'faithful,' but he made the other promises also."
+        ],
+        "John Gill": [
+            "Let us hold fast the profession of our faith without wavering.\" ",
+            "The promises of God are exceeding great and precious, very ancient, free, and unconditional, irrevocable and immutable, and are admirably suited to the cases of his people, and will be fulfilled everyone of them.\" ",
+            "God is faithful to all his promises, nor can he fail, or deceive; he is all wise and foreknowing of everything that comes to pass; he never changes his mind, nor forgets his word; and he is able to perform, and is the God of truth, and cannot lie; nor has he ever failed in anyone of his promises, nor will he suffer his faithfulness to fail."
+        ],
+        "John Wesley": [
+            "The profession of our hope \u2014 The hope which we professed at our baptism."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us firmly hold onto and boldly confess our hope and faith in God's promises, without wavering or doubting. Our hope is not in vain, for God is faithful and true to His word. It is by our faith in Him that our hope is sustained and nourished. We are to confidently declare our hope in God's salvation, knowing that He is trustworthy and will fulfill all that He has promised. May our profession of hope be unwavering and steadfast, for God's promises are great and sure.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.560099942072144,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.46,
+            "commentatorTierSimilarities": [
+                33.18,
+                30.53,
+                36.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us firmly hold onto and boldly confess our hope and faith in God's promises, without wavering or doubting. Our hope is not in vain, for God is faithful and true to His word. It is by our faith in Him that our hope is sustained and nourished. We are to confidently declare our hope in God's salvation, knowing that He is trustworthy and will fulfill all that He has promised. May our profession of hope be unwavering and steadfast, for God's promises are great and sure.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.560099942072144,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.46,
+            "commentatorTierSimilarities": [
+                33.18,
+                30.53,
+                36.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us hold fast to the confession of our hope, rooted in our faith. Our hope is an exercise of faith, resting on God's promises. It is a declaration of our trust in Him, for He is faithful to His word. We are called to steadfastly profess our hope, free from doubt or despair. God's promises are sure and reliable, and our confidence in Him should not waver. May we hold fast to our hope in God's salvation, knowing that He never fails.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.4581270993956394,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.07,
+            "commentatorTierSimilarities": [
+                35.0,
+                29.31,
+                35.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us hold fast to the confession of our hope, rooted in our faith. Our hope is an exercise of faith, resting on God's promises. It is a declaration of our trust in Him, for He is faithful to His word. We are called to steadfastly profess our hope, free from doubt or despair. Our hope is not in vain, for the promises of God are great and certain. May we confidently declare our hope, knowing that God's faithfulness never fails.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.472912853856249,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.56,
+            "commentatorTierSimilarities": [
+                35.9,
+                28.26,
+                35.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us firmly hold onto and boldly confess our hope and faith in God's promises, without wavering. Our hope is rooted in our faith, and it is through this faith that we can confidently declare our hope in God's salvation. We can trust in God's faithfulness, for He is true to His promises. As we hold fast to our profession of hope, may we be steadfast and unwavering, knowing that God's promises are sure and dependable.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.5494951304232547,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.11,
+            "commentatorTierSimilarities": [
+                32.77,
+                30.99,
+                36.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

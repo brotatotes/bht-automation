@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:51:10",
+    "verseRef": "Hebrews 12:21",
+    "bestBHT": {
+        "bht": "Moses' trembling and fear at the appearance and manifestation of God reveal the awe-inspiring power and holiness of God's presence. Even though these specific words are not recorded in Exodus, Paul, inspired by God, supplies this detail to emphasize the genuine fear that Moses experienced. When Moses heard the ten commandments spoken by the voice of Jehovah, he surely had a similar fear and trembling. This demonstrates that even the most righteous individuals, like Moses, cannot stand before a holy God and His law without trembling in reverent awe.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.6987190326867043,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+        "commentatorTierSimilarities": [
+            35.05,
+            21.02,
+            43.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I am in trembling\"; \"fear\" affected his mind: \"trembling,\" his body.",
+            "Moses is not recorded in Exodus to have used these words. But Paul, by inspiration, supplies this detail.",
+            "He doubtless similarly 'feared' in hearing the ten commandments spoken by the voice of Jehovah."
+        ],
+        "Albert Barnes": [
+            "It is very evident that was spoken on a different occasion from the one which is referred to in the passage before us.",
+            "I know not how to explain this, except by the supposition that the apostle here refers to some tradition that the scene produced this effect on his mind.",
+            "It was one method of preserving 'the truth,' thus to select such instances of what actually took place from the mass of traditions which were destined to perish, at would be useful in future times."
+        ],
+        "Marvin Vincent": [
+            "The sight [\u03c4\u03bf \u03c6\u03b1\u03bd\u03c4\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd] . Rend. 'the appearance': that which was made to appear.",
+            "I exceedingly fear and quake [\u03b5\u03ba\u03c6\u03bf\u03b2\u03bf\u03c2 \u03b5\u03b9\u03bc\u03b9 \u03ba\u03b1\u03b9 \u03b5\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2]. Lit. I am frightened away (or out) and trembling.",
+            "Rare in LXX."
+        ],
+        "Philip Schaff": [
+            "Such was the access to God which ancient Israel possessed an access that belonged to a visible mountain full of terror...\" ",
+            "an access rather of repulse and enforced approach...",
+            "a visible mountain full of terror; an access rather of repulse and enforced approach, which they prayed might cease."
+        ],
+        "Archibald T. Robertson": [
+            "The appearance (\u03c4\u03bf \u03c6\u03b1\u03bd\u03c4\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Present passive articular participle of \u03c6\u03b1\u03bd\u03c4\u03b1\u03b6\u03c9, old verb from \u03c6\u03b1\u03b9\u03bd\u03c9, to make visible, here only in N.T. 'The manifestation.'",
+            "I exceedingly fear and quake (\u03b5\u03ba\u03c6\u03bf\u03b2\u03bf\u03c2 \u03b5\u03b9\u03bc \u03ba\u03b1 \u03b5\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2). 'I am terrified (\u03b5\u03ba\u03c6\u03bf\u03b2\u03bf\u03c2, late compound like \u03b5\u03ba\u03c6\u03bf\u03b2\u03b5\u03c9, to frighten, Mark 9:6) and trembling' (\u03b5\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2, late compound like \u03b5\u03bd\u03c4\u03c1\u03b5\u03bc\u03c9, to tremble at, as in Acts 7:32; Acts 16:29).",
+            "\u0395\u03ba\u03c6\u03bf\u03b2\u03bf\u03c2 is quoted from Deuteronomy 9:19."
+        ],
+        "John Gill": [
+            "I exceedingly fear and quake.",
+            "This Scripture comes not, but 'to terrify him'; that so the law might be given with fear, fervour, and trembling.",
+            "The best of men are not without sin; and the most holy man on earth cannot stand before a holy God, and his holy law, upon the foot of his own righteousness, without trembling."
+        ],
+        "John Wesley": [
+            "Even Moses - Though admitted to so near an intercourse with God, who 'spake to him as a man speaketh to his friend.'\" ",
+            "At other times he acted as a mediator between God and the people.",
+            "But while the ten words were pronounced, he stood as one of the hearers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 12:21, the mention of Moses being in trembling and fear reveals that he had a genuine reaction to the appearance and manifestation of God. Although these specific words are not recorded in Exodus, Paul, through inspiration, provides this detail to emphasize Moses' fear. It is likely that Moses experienced a similar fear when hearing the ten commandments spoken by the voice of Jehovah. The use of the appearance instead of the sight in the Greek translation of the verse suggests that Moses had a profound encounter and that this moment had a lasting impact on him. This fear and trembling demonstrate that even the most righteous individuals, like Moses, cannot stand before a holy God without trembling in awe of His presence and His holy law. ",
+            "wordCount": 127,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.7121962724753366,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                35.31,
+                23.67,
+                41.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses' trembling and fear at the appearance and manifestation of God in Hebrews 12:21 highlights his genuine reaction to this encounter. Though not mentioned in Exodus, Paul, inspired by God, includes these details to emphasize Moses' fear. This experience likely parallels his reaction to hearing the ten commandments from the voice of Jehovah. The Greek translation uses the appearance to indicate the profound impact of this encounter on Moses. This fear and trembling demonstrate that even the most righteous individuals, like Moses, cannot stand before a holy God without trembling in awe of His presence and His holy law.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6129213109220488,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                35.78,
+                22.09,
+                42.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses' genuine fear and trembling in the presence of God's appearance signifies the profound impact of this encounter. Although not explicitly stated in Exodus, Paul, inspired by God, includes this detail to emphasize the depth of Moses' fear. It is evident that Moses had a similar reaction when hearing the ten commandments spoken by the voice of Jehovah. This fear and trembling demonstrate the reverence and respect required in the presence of a holy God and His divine law.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6211732352271901,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                33.59,
+                25.12,
+                41.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses' trembling and fear at the appearance and manifestation of God reveal the awe-inspiring power and holiness of God's presence. Even though these specific words are not recorded in Exodus, Paul, inspired by God, supplies this detail to emphasize the genuine fear that Moses experienced. When Moses heard the ten commandments spoken by the voice of Jehovah, he surely had a similar fear and trembling. This demonstrates that even the most righteous individuals, like Moses, cannot stand before a holy God and His law without trembling in reverent awe.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6987190326867043,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                35.05,
+                21.02,
+                43.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses' trembling and fear at the appearance and manifestation of God highlight the profound impact of this encounter. Although not explicitly mentioned in Exodus, Paul, inspired by God, includes these details to emphasize Moses' genuine fear. This reaction likely parallels his response to hearing the ten commandments spoken by the voice of Jehovah. The use of the appearance in the Greek translation emphasizes the significant and lasting effect of this encounter on Moses. This fear and trembling demonstrate that even the most righteous individuals, like Moses, cannot stand before a holy God without trembling in awe of His presence and His holy law.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5821191471512543,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                35.16,
+                23.28,
+                41.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

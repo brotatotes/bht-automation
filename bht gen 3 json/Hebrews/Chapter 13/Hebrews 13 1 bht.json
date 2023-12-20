@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:51:13",
+    "verseRef": "Hebrews 13:1",
+    "bestBHT": {
+        "bht": "Let brotherly love continue, for it is the first of the fruits of faith. Show love to strangers, for some have unknowingly entertained angels. This admonition emphasizes the importance of brotherly love and warns against its interruption. Without this grace, a profession of religion is in vain. Let us abound in love, for it is the bond of perfectness and makes our communion delightful and edifying.",
+        "wordCount": 66,
+        "quoteTokenProportion": 42.22,
+        "qualityScore": 1.8323125061803696,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+        "commentatorTierSimilarities": [
+            33.47,
+            23.83,
+            42.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let brotherly love remain.",
+            "The exhortations in ch. iii, 12 f.; x. 24 f.; xii, 12 ff., point the same way.",
+            "And it is put first, as being the first of the fruits of faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "brotherly love\u2014a distinct special manifestation of 'charity' or 'love'\".",
+            "The Church of Jerusalem, to which in part this Epistle was addressed, was distinguished by this grace\".",
+            "Charity will itself continue. See that it continue with you\"."
+        ],
+        "Albert Barnes": [
+            "Implying that it now existed among them.",
+            "He aims merely to impress on them the importance of this virtue.",
+            "To caution them against the danger of allowing it ever to be interrupted."
+        ],
+        "Marvin Vincent": [
+            "Let brotherly love continue.\" (ch. Hebrews 3:13; Hebrews 6:10; Hebrews 10:24; Hebrews 12:12-15)",
+            "Be not forgetful of hospitality.\" (Romans 12:13; 1 Timothy 3:2; Titus 1:8; 1 Peter 4:9)",
+            "Have entertained angels unawares.\" (Genesis 18:19; Hom. Obadiah 1:96 ff.; Heb 13:17-485; Matthew 25:34-46)"
+        ],
+        "John Calvin": [
+            "Nothing flows away so easily as love.",
+            "We cannot be Christians without being brethren.",
+            "'Continue' or remain, implies that they had manifested this love."
+        ],
+        "Philip Schaff": [
+            "The first admonition is to \u2018brotherly love\u2019 a term used in the N. T. to describe the love which Christians bear to one another in Christ, and as children of one Father.",
+            "It is appropriately put first among earthly duties, as it is the first-fruit of faith and the beginning of all else.",
+            "The sentiment struck the observer even while he scorned it as new and impracticable."
+        ],
+        "Archibald T. Robertson": [
+            "Brotherly love is always in order in a church.",
+            "To show love unto strangers - have entertained angels unawares.",
+            "Some escaped notice when entertaining angels."
+        ],
+        "John Gill": [
+            "And without this excellent and useful grace, a profession of religion is in vain; this is an evidence of regeneration; it is the bond of perfectness, and what renders the saints' communion delightful and edifying.",
+            "The apostle means, not the grace itself, the internal principle, for that, where it once is, always continues, and can never be lost; but the exercise and increase of it, an abounding in it yet more and more.",
+            "One of the Jewish prayers is to this purpose: 'he that dwells in this house, let him plant among you \u05d0\u05d7\u05d5\u05d4 \u05d5\u05d0\u05d4\u05d1\u05d4, \"brotherhood and love\", (or brotherly love,) peace and friendship.'"
+        ],
+        "John Wesley": [
+            "Brotherly love is explained in the following verses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let brotherly love continue, for it is the first of the fruits of faith and a distinct special manifestation of love. The Church of Jerusalem was renowned for this grace, and it is exhorted that charity itself continues with you. Show love to strangers, for some have unknowingly entertained angels. This admonition is to impress the importance of brotherly love and caution against its interruption. Without this excellent grace, a profession of religion is in vain. Let us be Christians and brethren, abounding in love, for it is the bond of perfectness and makes our communion delightful and edifying.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8095086719158973,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                35.93,
+                21.88,
+                42.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let brotherly love be the first fruit of your faith, a distinct manifestation of love that the Church of Jerusalem was known for. It is important that this charity continues with you, showing love to strangers and remembering that some have unknowingly entertained angels. This admonition emphasizes the significance of brotherly love and cautions against its interruption. Without this grace, a profession of religion is in vain. Let us abound in love, for it is the bond of perfectness, making our communion delightful and edifying.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7845482650940778,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                34.71,
+                23.5,
+                41.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let brotherly love remain as the first fruit of your faith. This distinct manifestation of love, seen in the Church of Jerusalem, should continue with you. Show love to strangers, for some have unknowingly entertained angels. This admonition highlights the importance of brotherly love and warns against its interruption. Without this grace, a profession of religion is empty. Let us abound in love, for it is the bond of perfectness, enriching our communion with others.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.7733075376022476,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                37.09,
+                19.85,
+                43.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let brotherly love continue, for it is the first of the fruits of faith. Show love to strangers, for some have unknowingly entertained angels. This admonition emphasizes the importance of brotherly love and warns against its interruption. Without this grace, a profession of religion is in vain. Let us abound in love, for it is the bond of perfectness and makes our communion delightful and edifying.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.8323125061803696,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                33.47,
+                23.83,
+                42.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let brotherly love remain as the first of the fruits of faith. The exhortations in the previous chapters point in the same direction, emphasizing the significance of this distinct manifestation of love. The Church of Jerusalem was known for its brotherly love, and now it is urged that this charity continues with you. Show love to strangers, for some have unknowingly entertained angels. Without this excellent grace, a profession of religion is in vain. Let us abound in love, for it is the bond of perfectness, making our communion delightful and edifying.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.828572808741633,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                36.66,
+                21.13,
+                42.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

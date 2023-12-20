@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:48:57",
+    "verseRef": "Hebrews 9:4",
+    "bestBHT": {
+        "bht": "The golden censer used on the day of atonement is associated with the holiest place and was one of the articles used for the yearly service. The rending of the veil by Christ brings the antitypes to the anterior holy place into the holiest place, heaven. The tables of the covenant were contained inside the ark, and the burning coals represent Christ's sufferings. The incense carried with them symbolizes his intercession, and the manna signifies his perfection and eternity. Hebrews 9:4 emphasizes the significance of these items in relation to Christ's sacrifice and intercession.",
+        "wordCount": 95,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.9671664701079123,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+        "commentatorTierSimilarities": [
+            34.59,
+            29.63,
+            35.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This GOLDEN censer was only used on the day of atonement (other kinds of censers on other days), and is therefore associated with the holiest place, as being taken into it on that anniversary by the high priest.\" (Commentary)",
+            "The expression 'which had,' does not mean that the golden censer was deposited there, for in that case the high priest would have had to go in and bring it out before burning incense in it; but that the golden censer was one of the articles belonging to, and used for, the yearly service in the holiest place.\" (Commentary)",
+            "The rending of the veil by Christ has brought the antitypes to the altar, candlestick, and showbread of the anterior holy place into the holiest place, heaven.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "Paul was a Jew, and was familiar with what pertained to the temple, and gave such a description of it as would be in accordance with what actually existed in his time.",
+            "This ark or chest was made of shittim-wood, was completely covered with gold, and had a 'lid,' which was called the 'mercy-seat,' on which rested the Shekinah, the symbol of the divine presence, between the outstretched wings of the cherubim.",
+            "In perpetual remembrance of this miracle, the rod was preserved in the ark."
+        ],
+        "Marvin Vincent": [
+            "The golden censer is not mentioned in O. T. as a part of the furniture of the holy of holies.",
+            "There is evidently a discrepancy, probably owing to the fact that the writer drew his information from the O. T. by which he might have been led into error.",
+            "The writer follows the rabbinical tradition that the pot of manna and the rod were inside of the ark."
+        ],
+        "Archibald T. Robertson": [
+            "The present active participle \u03b5\u03c7\u03bf\u03c5\u03c3\u03b1 (feminine singular) agrees with \u03c3\u03ba\u03b7\u03bd\u03b7 (the Holy of Holies). It is not certain whether \u03b8\u03c5\u03bc\u03b9\u03b1\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd here means censer or altar of incense.",
+            "At any rate the altar of incense was used for the Holy of Holies.",
+            "Not definitely clear about these items in the ark, but on front, except that 1 Kings 8:9 states that it did contain the tables of the covenant."
+        ],
+        "John Gill": [
+            "The burning coals signify the very great sufferings of Christ, not only the sufferings of his body, which were very painful, but those of his soul, when the wrath and hot displeasure of God was poured out upon him.",
+            "The incense, which was carried in with those coals, typified the intercession of Christ in heaven, which is pure and holy, sweet, fragrant, and perpetual; and the priest having his hands full of it, expresses the fulness of Christ's intercession for all his elect, and for all things for them, and his fulness of merit to plead, which makes his intercession efficacious and prevalent.",
+            "The manna came from heaven, from God, and was a free gift of his, and so Christ: it was round in form, and may be expressive of Christ's perfection and eternity: it was in colour white, which may signify his purity and innocence; it was sweet in taste, and so is Christ, his fruits, his word and ordinances."
+        ],
+        "John Wesley": [
+            "Having the golden censer \u2014 Used by the high priest only, on the great day of atonement.",
+            "And the ark, or chest, of the covenant - So called from the tables of the covenant contained therein.",
+            "And the tables of the covenant \u2014 The two tables of stone, on which the ten commandments were written by the finger of God the most venerable monument of all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The golden censer used on the day of atonement is associated with the holiest place and was one of the articles used for the yearly service. The rending of the veil by Christ brings the antitypes to the anterior holy place into the holiest place, heaven. While there is some discrepancy regarding the items in the ark, it is clear that the tables of the covenant were contained inside. Additionally, the burning coals signify the sufferings of Christ, while the incense carried with them typifies his intercession in heaven. The manna in the ark represents Christ's perfection and eternity, being a gift from God. Overall, Hebrews 9:4 highlights the significance of the articles and their connection to Christ's sacrifice and intercession.",
+            "wordCount": 122,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.9734315102429116,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.96,
+            "commentatorTierSimilarities": [
+                34.19,
+                31.2,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The golden censer used on the day of atonement is associated with the holiest place and was one of the articles used for the yearly service. The rending of the veil by Christ brings the antitypes to the anterior holy place into the holiest place, heaven. The tables of the covenant were contained inside the ark, and the burning coals represent Christ's sufferings. The incense carried with them symbolizes his intercession, and the manna signifies his perfection and eternity. Hebrews 9:4 emphasizes the significance of these items in relation to Christ's sacrifice and intercession.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9671664701079123,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                34.59,
+                29.63,
+                35.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The golden censer, associated with the holiest place and used on the day of atonement, was one of the articles used for the yearly service. The rending of the veil by Christ brings the antitypes to the anterior holy place into the holiest place, heaven. The tables of the covenant were contained inside the ark, and the burning coals signify Christ's sufferings. The incense carried with them symbolizes his intercession. The manna represents Christ's perfection and eternity. Hebrews 9:4 highlights the importance of these articles and their connection to Christ's sacrifice and intercession.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8508696958254212,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                33.92,
+                29.38,
+                36.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The golden censer, associated with the holiest place, was used on the day of atonement. The rending of the veil by Christ brings the antitypes to the anterior holy place into the holiest place, heaven. The tables of the covenant were contained inside the ark. The burning coals represent Christ's sufferings, and the incense symbolizes his intercession. The manna in the ark signifies Christ's perfection and eternity. Hebrews 9:4 emphasizes the significance of these items and their connection to Christ's sacrifice and intercession.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.963143942447295,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+            "commentatorTierSimilarities": [
+                33.38,
+                31.3,
+                35.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The golden censer, used only on the day of atonement, is associated with the holiest place and signifies the high priest's entry into it. Though there may be discrepancies, the tables of the covenant were indeed contained inside the ark. Christ's sacrifice, represented by the burning coals, and his intercession, symbolized by the incense, are both significant. The manna in the ark reflects Christ's perfection, eternity, and gifts from God. Hebrews 9:4 highlights the importance of these items and their connection to Christ's sacrificial work.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9662124008780282,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                32.88,
+                31.32,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

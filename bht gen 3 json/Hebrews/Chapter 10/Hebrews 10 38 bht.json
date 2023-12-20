@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:50:15",
+    "verseRef": "Hebrews 10:38",
+    "bestBHT": {
+        "bht": "Those who are considered just before God live by faith. Their spiritual life is sustained through this fully developed trust in the unseen Savior. Perseverance is emphasized, as the possibility of falling away from the faith is acknowledged. Believers should remain steadfast amidst trials and temptations, upholding a persevering confidence in God. Drawing back from faith is to be avoided, as God does not have pleasure in those who do so. Therefore, it is essential for believers to continue living by faith to maintain a spiritual and holy life in God's favor.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 2.220802756109382,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+        "commentatorTierSimilarities": [
+            33.1,
+            39.25,
+            27.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Continuation of the paraphrase: the two clauses of Hab. ii. 4 being transposed.",
+            "My just man shall live by faith: and if he draw back, my soul hath not pleasure in him.",
+            "The possibility of such a fall is, as he observes, among the principal things taught us by this Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The continuance of the spiritual life of the justified man is referred to, as opposed to declension and apostasy.",
+            "As the justified man receives his first spiritual life by faith, so it is by faith that he shall continue to live.",
+            "The faith meant here is that fully developed living trust in the unseen Savior, which can keep men steadfast amidst persecutions and temptations."
+        ],
+        "Albert Barnes": [
+            "The just shall live by 'continued confidence' in God.",
+            "A persevering confidence or belief in the Lord will preserve us amidst all the trials and calamities to which we are exposed.",
+            "The unbeliever, or he who renounces his religion, will incur the divine displeasure."
+        ],
+        "Marvin Vincent": [
+            "Now the just shall live by faith.",
+            "The possibility of the lapse of even the just is assumed.",
+            "If he draw back - in him, 'not in the Hebrew, which reads,' behold, puffed up within him is his soul, it is not upright.'"
+        ],
+        "John Calvin": [
+            "All who are counted just before God do not live otherwise than by faith.",
+            "From self\u00adsecurity, insolence, and contempt, it comes that as long as it is well with the wicked, they dare, as one has said, to insult the clouds.",
+            "The Bible is full of this mode of addressing Christians, and yet the Bible assures us that the sheep of Christ shall never perish."
+        ],
+        "Philip Schaff": [
+            "But (or now) my righteous one (he who belongs to God\u2019s people) by faith shall live.",
+            "As it is by faith he first gets life... so it is by faith that life is preserved in the midst of judgments and of delays that are incident to them.",
+            "The apostasy of a professed Christian is always possible, or warnings would be needless: not necessarily the apostasy of a true Christian."
+        ],
+        "Archibald T. Robertson": [
+            "If he shrink back... to withdraw.\" ",
+            "The just shall live by faith.",
+            "The just shall live by faith.\" (quotation)"
+        ],
+        "John Gill": [
+            "The just man is one... who lives soberly and righteously; and the life he lives... is a spiritual life, a life of justification in Christ, a life of communion with Christ, and a life of holiness from Christ, with peace, joy, and comfort through him.\" ",
+            "The manner of this just man's living is 'by faith'; not upon his faith, but upon Christ, the object of it.\" ",
+            "But if [any man] draw back... in such persons God has no pleasure, never had, nor never will have; but, on the contrary, they are abominable to him, and will lie under his sore displeasure, and feel the keen resentments of it."
+        ],
+        "John Wesley": [
+            "Now the just \u2014 The justified person.",
+            "Shall live \u2014 In God's favour, a spiritual and holy life.",
+            "But if he draw back \u2014 If he make shipwreck of his faith My soul hath no pleasure in him - That is, I abhor him; I cast him off."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches that the just man shall live by faith and that if he draws back, God's soul will not have pleasure in him. This means that the justified man's continued spiritual life is dependent on faith and perseverance, as opposed to declension and apostasy. The faith mentioned here is a fully developed trust in the unseen Savior, which can keep believers steadfast amidst trials and temptations. It is important to understand that the possibility of falling away from the faith is assumed, even for the just. Therefore, it is crucial for believers to maintain a persevering confidence in God, as the apostasy of a professed Christian is always possible.",
+            "wordCount": 113,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3424938042099948,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.23,
+            "commentatorTierSimilarities": [
+                34.19,
+                38.77,
+                27.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The just man's spiritual life is sustained through faith, as emphasized in this passage. However, the possibility of a fall from grace is acknowledged by the commentary. This highlights the necessity for believers to maintain a fully developed trust in the unseen Savior, enabling them to remain steadfast amidst trials and temptations. The importance of persevering confidence in God is underscored, as even professed Christians can potentially apostatize. Therefore, it is crucial for believers to continually live by faith to avoid drawing back, as God's soul has no pleasure in those who do so.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 2.0201397688385114,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                33.79,
+                39.16,
+                27.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The just man's spiritual life is sustained through faith. This means that believers must have a fully developed trust in the unseen Savior in order to remain steadfast through trials and temptations. It is important to acknowledge the possibility of a fall from grace, even for professed Christians. Therefore, believers should live by faith and avoid drawing back, as God's soul has no pleasure in those who do so. Upholding a persevering confidence in God is crucial to maintain a spiritual life in His favor.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.2169048443558257,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+            "commentatorTierSimilarities": [
+                32.24,
+                40.01,
+                27.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who are considered just before God live by faith. Their spiritual life is sustained through this fully developed trust in the unseen Savior. Perseverance is emphasized, as the possibility of falling away from the faith is acknowledged. Believers should remain steadfast amidst trials and temptations, upholding a persevering confidence in God. Drawing back from faith is to be avoided, as God does not have pleasure in those who do so. Therefore, it is essential for believers to continue living by faith to maintain a spiritual and holy life in God's favor.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.220802756109382,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                33.1,
+                39.25,
+                27.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The just shall live by faith, emphasizing the necessity of a fully developed trust in the unseen Savior. The importance of perseverance is highlighted in recognizing the possibility of falling away from the faith. Believers must remain steadfast amidst trials and temptations, upholding a persevering confidence in God. Drawing back from faith is to be avoided, as God does not have pleasure in those who do so. Thus, it is essential for believers to continue living by faith, maintaining a spiritual and holy life in God's favor.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.2040056201903595,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                34.77,
+                39.57,
+                25.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

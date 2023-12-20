@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:48:18",
+    "verseRef": "Hebrews 6:19",
+    "bestBHT": {
+        "bht": "Hope, our anchor of the soul, is not satisfied with merely earthly and visible goods, but penetrates even to those within the veil, fastening on heavenly goods. It makes those that are earthly become heavenly and gives the strength to cling to God Himself and His promises. Life without this blessed hope based on Christ would be hopeless. The anchor of hope, though unseen, will not slip or lose its grip. It enters into heaven and provides firmness and security, allowing us to endure the storms of life.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.159669763608122,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+        "commentatorTierSimilarities": [
+            33.24,
+            34.65,
+            32.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Hope, our anchor of the soul, is not satisfied with merely coming to the vestibule, that is, is not content with merely earthly and visible goods, but penetrates even to those which are within the veil, namely, to the Holy of Holies, where it lays hold on God Himself, and heavenly goods, and fastens on them.",
+            "Hope, entering within heaven, hath made us already to be in the things promised to us, even while we are still below, and have not yet received them; such strength hope has, as to make those that are earthly to become heavenly.",
+            "The soul clings, as one in fear of shipwreck to an anchor, and sees not whither the cable of the anchor runs\u2014where it is fastened: but she knows that it is fastened behind the veil which hides the future glory."
+        ],
+        "Albert Barnes": [
+            "Hope accomplishes for the soul the same thing which an anchor does for a ship. It makes it fast and secure.",
+            "In the tempests and trials of life, his mind is calm as long as his hope of heaven is firm. If that gives way, he feels that all is lost.",
+            "The hope of the Christian enters into heaven itself; it takes hold on the throne of God; it is made firm by being fastened there."
+        ],
+        "Marvin Vincent": [
+            "An anchor of the soul.\" ",
+            "Sure and steadfast.\" ",
+            "The soul, as a tempest-tossed ship, is held by the anchor."
+        ],
+        "John Calvin": [
+            "It is a striking likeness when he compares faith leaning on God\u2019s word to an anchor.",
+            "But as the Apostle is speaking to the Jews, he alludes to the ancient Tabernacle, and says, that they ought not to abide in those things which are seen, but to penetrate into the inmost recesses, which lie hid within the veil, as though he had said, that all the external and ancient figures and shadows were to be passed over, in order that faith might be fixed on Christ alone.",
+            "And as it becomes us to follow Christ who is gone before, he is therefore called our Forerunner, or precursor."
+        ],
+        "Philip Schaff": [
+            "Each implies the other; the heavenly reward as set before us by God is \u2018our hope\u2019 in its objective sense; our hope of the heavenly reward is the grace of hope in the subjective sense.",
+            "The anchor of the sailor is cast downwards into the depth of the ocean; but the anchor of the Christian, which is hope, finds its ground and hold above.",
+            "Into the holiest above Jesus has entered for us, and there also the anchor of our hope has entered; so have we rest now, and shall outride all the storms of our earthly life."
+        ],
+        "Archibald T. Robertson": [
+            "What would life be without this blessed hope based on Christ as our Redeemer?",
+            "The anchor of hope will not slip or lose its grip.",
+            "The anchor is out of sight, but it holds. That is what matters."
+        ],
+        "John Gill": [
+            "Christ is the pilot, and hope is the anchor.",
+            "Hope is cast on Christ, who is the ground and foundation of it.",
+            "The anchor of hope is not cast on anything below, but above."
+        ],
+        "John Wesley": [
+            "Which hope in Christ we have as an anchor of the soul \u2014 Entering into heaven itself, and fixed there.",
+            "Within the veil \u2014 Thus he slides back to the priesthood of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hope, our anchor of the soul, penetrates into heavenly goods and fastens on them. It makes those that are earthly become heavenly, providing strength to cling to God Himself and the promises of heaven even while we are still on earth. The soul, like a ship in a storm, is securely held by this anchor of hope. Life without this blessed hope, based on Christ as our Redeemer, would be hopeless. The anchor may be unseen, but it will not slip or lose its grip. As the hope of the Christian enters into heaven itself, it takes hold on God's throne, providing firmness and security. We have rest now, and shall outride all the storms of our earthly lives.",
+            "wordCount": 120,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.1823517088243314,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+            "commentatorTierSimilarities": [
+                33.05,
+                36.95,
+                30.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hope, our anchor of the soul, is not satisfied with merely earthly and visible goods, but penetrates even to those within the veil, fastening on heavenly goods. It makes those that are earthly become heavenly and gives the strength to cling to God Himself and His promises. Life without this blessed hope based on Christ would be hopeless. The anchor of hope, though unseen, will not slip or lose its grip. It enters into heaven and provides firmness and security, allowing us to endure the storms of life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.159669763608122,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                33.24,
+                34.65,
+                32.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The anchor of hope, fastened behind the veil which hides the future glory, holds the soul, like a tempest-tossed ship. Our hope, entering within heaven, makes us already partake in the promised things. Life without this blessed hope would be void. The anchor is out of sight but holds steadfast. In the trials of life, our mind remains calm as long as our hope of heaven is firm. It takes hold of the throne of God and gives us rest, allowing us to overcome the storms of earthly life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.0744382961769308,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                33.35,
+                39.02,
+                27.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hope, our anchor of the soul, penetrates into heavenly goods and fastens on them. It makes those that are earthly become heavenly, providing strength to cling to God Himself and the promises of heaven even while we are still on earth. The anchor, though unseen, will not slip or lose its grip. The hope of the Christian enters into heaven itself, taking hold on God's throne, providing firmness and security. We have rest now, and shall outride the storms of our earthly lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.081148824713752,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.54,
+            "commentatorTierSimilarities": [
+                32.87,
+                37.38,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hope, our anchor of the soul, enters into heavenly goods, making the earthly become heavenly. It clings to God Himself and the promises of heaven, providing strength even in the storms of life. The anchor of hope may be unseen, but it will not lose its grip. This blessed hope, based on Christ, is essential for life. It takes hold in heaven, providing firmness and security. With this anchor, we find rest and are able to navigate the trials of our earthly existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1205022321108116,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                33.03,
+                36.01,
+                30.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

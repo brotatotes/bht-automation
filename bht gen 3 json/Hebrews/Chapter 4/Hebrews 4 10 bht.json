@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 17:47:20",
+    "verseRef": "Hebrews 4:10",
+    "bestBHT": {
+        "bht": "Those who have entered into God's rest have ceased from their works, just as God rested from His own. This rest is not mere abstinence from labor, but a state of refreshment and beneficent activity, a union with God where we find true happiness and satisfaction. While we may not fully attain this rest in this life, we should strive for it, knowing that a fuller rest awaits us.",
+        "wordCount": 70,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.313456504166548,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+        "commentatorTierSimilarities": [
+            30.76,
+            33.08,
+            36.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For He that entered into His (either, 'God's;' or more probably merely 'his,' reflective, as in Isa, xi. 10 above) rest, He Himself also (on this, see above) rested from his works (see above) as God from his own.\" (Quote 1)",
+            "That a contrast is intended between the Jesus who did not give them rest, and the 'Great High Priest who is gone through the heavens, Jesus the Son of God,' seems very plain.\" (Quote 2)",
+            "The expression that rest below, which stands harshly insulated, unless it refers to the rest in this verse.\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our highest happiness shall, according to this verse, consist in our being united in one with God, and molded into conformity with Him as our archetype.",
+            "Labor was followed by rest even in Paradise.",
+            "The argument is: He who once enters rest, rests from labors; but God's people have not yet rested from them, therefore they have not yet entered the rest, and so it must be still future."
+        ],
+        "Albert Barnes": [
+            "How happy then are they who have entered into heaven! Their toils are over. Their labors are done. Never again will they know fatigue. Never more will they feel anxious care.",
+            "Rest is sweet at night after the toils of day; how much more sweet will it be in heaven after the toils of life!",
+            "Labor while is is called today. Soon we shall cease from our work... We shall all have ceased from our work as God did from his; and never again shall we speak to a living friend to invite him to heaven."
+        ],
+        "Marvin Vincent": [
+            "Whoever has once entered. His God's. The aorist marks the completeness of the appropriation - once and for all.\" ",
+            "The statement is a general proposition: anyone who has entered into God's rest has ceased from his works.",
+            "The basis of the conception is Jewish, the rest of the Sabbath being conceived as mere abstinence from labor, and not according to Christ's conception of the Sabbath, as a season of refreshment and beneficent activity."
+        ],
+        "John Calvin": [
+            "The chief good of man is nothing else but union with God; this is attained when we are formed according to him as our exemplar.",
+            "For what else is to cease from our works, but to mortify our flesh, when a man renounces himself that he may live to God?",
+            "But though the completion of this rest cannot be attained in this life, yet we ought ever to strive for it."
+        ],
+        "Philip Schaff": [
+            "They rest even as God rests, and have a happiness that is of the same nature, and springs from the same source, as His.",
+            "The true peace, the sacred rest of the Gospel, frees us from the necessity of seeking a righteousness of our own, and speaks peace to the conscience as the Law never did.",
+            "It includes, no doubt, the rest of heaven, which is the completion of our blessedness on earth; but the primary idea still is the rest which Christ gives to all who take His yoke upon them."
+        ],
+        "Archibald T. Robertson": [
+            "It is not cessation of work, but rather of the weariness and pain in toil.",
+            "The writer pictures salvation as God's rest which man is to share.",
+            "God will have perfect satisfaction when man is in harmony with him."
+        ],
+        "John Gill": [
+            "Now he entered into his rest, not when he was laid in the grave, but when he rose from the dead, and ascended into heaven, and sat down at the right hand of God, as having done his work.\" ",
+            "Christ had works to do, as preaching the Gospel, performing miracles, and obtaining the redemption and salvation of his people: these were given him to do, and he undertook them, and he has finished them.",
+            "He also hath ceased from his own works, as God did from his;... just as God ceased from the works of creation, when he had finished them."
+        ],
+        "John Wesley": [
+            "For they do not yet so rest. Therefore a fuller rest remains for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have entered into God's rest have ceased from their works, just as God rested from His own. This rest is not mere abstinence from labor, but a state of refreshment and beneficent activity, a union with God where we are molded into conformity with Him. While this rest includes the rest of heaven, it is primarily the rest that Christ gives to all who take His yoke upon them, freeing them from seeking a righteousness of their own and bringing peace to their conscience. Although we may not fully attain this rest in this life, we should continually strive for it, knowing that a fuller rest remains for us.",
+            "wordCount": 112,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3510242734060887,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.51,
+            "commentatorTierSimilarities": [
+                30.39,
+                33.18,
+                36.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have entered into God's rest have ceased from their works, just as God rested from His own. This rest is not mere abstinence from labor, but a state of refreshment and beneficent activity, a union with God where we are molded into conformity with Him. While this rest includes the rest of heaven, it is primarily the rest that Christ gives to all who take His yoke upon them, freeing them from seeking a righteousness of their own and bringing peace to their conscience. A fuller rest remains for us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 2.2331733548498733,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.59,
+            "commentatorTierSimilarities": [
+                30.67,
+                30.96,
+                38.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who have entered into God's rest have ceased from their works, just as God rested from His own. This rest is not mere abstinence from labor, but a state of refreshment and beneficent activity, a union with God where we find true happiness and satisfaction. While we may not fully attain this rest in this life, we should strive for it, knowing that a fuller rest awaits us.",
+            "wordCount": 70,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.313456504166548,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                30.76,
+                33.08,
+                36.16
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

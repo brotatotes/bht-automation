@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:50:30",
+    "verseRef": "Hebrews 11:37",
+    "bestBHT": {
+        "bht": "The enduring faith of those mentioned in these passages is exemplified by their willingness to endure great suffering and wretchedness. They were destitute, afflicted, and tempted in every possible way, yet they remained steadfast. They were stoned, sawn asunder, and evil entreated, experiencing the harshest forms of punishment and mistreatment. Despite the physical and psychological torment they endured, they stood firm in their faith, demonstrating the remarkable power of their unwavering belief.",
+        "wordCount": 72,
+        "quoteTokenProportion": 26.42,
+        "qualityScore": 1.9302236953800402,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+        "commentatorTierSimilarities": [
+            35.0,
+            38.1,
+            26.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Examples of those who, though not put to violent death, lived lives of apparent wretchedness in the endurance of faith.\" ",
+            "They wandered about in sheepskins and goatskins, destitute, afflicted, in misery.\"  ",
+            "The garment spoken of was the skin of any small kine with the hair on."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Tempted...to renounce their faith; the most bitter aggravation of them.",
+            "Probably it included all three; they were tempted in every possible way, by friends and foes, by human and satanic agents, by caresses and afflictions, by words and deeds, to forsake God, but in vain, through the power of faith.",
+            "Both alike are marvelous effects of faith. In both, [faith] accomplishes great things and suffers great things, without counting it suffering."
+        ],
+        "Albert Barnes": [
+            "They were stoned.\" ",
+            "They were sawn asunder.\" ",
+            "Amidst the sorrows of martyrs, therefore, it was not improper to say that they were tempted, and to place this among their most aggravated woes."
+        ],
+        "Philip Schaff": [
+            "They were stoned...They were sawn asunder...They were tempted.\" ",
+            "They were, all through, offered relief if they would only abandon their faith.\" ",
+            "They went about...wanderers, destitute, oppressed, evil entreated."
+        ],
+        "Archibald T. Robertson": [
+            "They were stoned... a characteristic Jewish punishment.",
+            "They were sawn asunder... a cruel Jewish punishment.",
+            "Being destitute... afflicted... evil entreated."
+        ],
+        "John Gill": [
+            "They were stoned... and the character of Jerusalem is, that she stoned the prophets that were sent unto her.\" ",
+            "They were sawn asunder;... The Jews have a tradition, that the Prophet Isaiah was sawn asunder in the times of Manasseh.\" ",
+            "They wandered about in sheepskins and goatskins;... others clothed themselves in this manner, to show their contempt of the world, and their contentment with mean apparel."
+        ],
+        "John Wesley": [
+            "They were sawn asunder.\" ",
+            "Were tempted... by threatenings, reproaches, tortures, the variety of which cannot be expressed.",
+            "Again by promises and allurements."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The lives of those mentioned in this verse were marked by apparent wretchedness and suffering, enduring great hardships and temptations in their unwavering faith. They wandered about in destitution, clad in sheepskins and goatskins, subjected to stoning, being sawn asunder, and evil treatment. Their experiences were not only physical but also psychological, as they were tempted to renounce their faith through threats, reproaches, tortures, promises, and allurements. Their steadfastness in the face of such trials is a testament to the power of faith, which enabled them to accomplish great things and endure great suffering without counting it as such.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8051181543404204,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                36.63,
+                33.13,
+                30.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The enduring faith of those mentioned in these passages is exemplified by their willingness to endure great suffering and wretchedness. They were destitute, afflicted, and tempted in every possible way, yet they remained steadfast. They were stoned, sawn asunder, and evil entreated, experiencing the harshest forms of punishment and mistreatment. Despite the physical and psychological torment they endured, they stood firm in their faith, demonstrating the remarkable power of their unwavering belief.",
+            "wordCount": 72,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.9302236953800402,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                35.0,
+                38.1,
+                26.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lives of those mentioned were filled with apparent wretchedness, enduring great suffering and temptations as they wandered destitute in sheepskins and goatskins. They faced stoning and being sawn asunder, while being evil entreated. The power of their faith is evident in their ability to accomplish great things and endure great suffering without counting it as such. Their unwavering devotion protected them against renouncing their faith, even when tempted by friends, foes, satanic agents, caresses, afflictions, words, and deeds.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.887093202631693,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                39.86,
+                33.55,
+                26.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals, through their endurance of faith, lived lives of apparent wretchedness, wandering about in sheepskins and goatskins, destitute, afflicted, and in misery. The depth of their suffering was immense, being stoned and sawn asunder, while being subjected to evil entreatment and relentless temptations. Though being offered relief if they would abandon their faith, they remained steadfast in their convictions. Their unwavering commitment to their beliefs enabled them to achieve extraordinary feats and endure immense hardship, all while refusing to consider it a burden.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8403958882181006,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                37.86,
+                37.32,
+                24.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These faithful individuals lived lives of apparent wretchedness, enduring destitution, affliction, and misery. They wandered about in sheepskins and goatskins, facing stoning, being sawn asunder, and evil entreatment. Tempted in every possible way, they were offered relief if they would forsake their faith, yet they remained resolute through the power of faith. Their unwavering commitment allowed them to accomplish great things and withstand great suffering without considering it a burden.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8416077405613371,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                35.9,
+                37.51,
+                26.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

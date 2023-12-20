@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:50:00",
+    "verseRef": "Hebrews 10:33",
+    "bestBHT": {
+        "bht": "The Hebrew Christians were made a spectacle, exposed to reproaches and tribulations, as they became companions with those who endured the same hardships. Their sufferings were not only in Palestine, but also in Rome and other cities, incited by the Jews. Being brought on the theater stage, they were made a gazing-stock, enduring reviling and persecution. By becoming partakers with their suffering brethren, they demonstrated their Christian sympathy and love, embodying the unity and fellowship of early believers in Christ's cause.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.8041140409568324,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+        "commentatorTierSimilarities": [
+            34.67,
+            30.65,
+            34.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "partly, being made a spectacle...in reproaches and tribulations",
+            "having become partakers with them who were thus living",
+            "a fine encomium on their Christian sympathy and love"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The persecutions here referred to seem to have been endured by the Hebrew Christians at their first conversion, not only in Palestine, but also in Rome and elsewhere, the Jews in every city inciting the populace and the Roman authorities against Christians.",
+            "Gazing-stock\u2014as in a theater (so the Greek): often used as the place of punishment in the presence of the assembled multitudes.",
+            "Ye became\u2014of your own accord: attesting your Christian sympathy with your suffering brethren."
+        ],
+        "Albert Barnes": [
+            "You were made a public spectacle, as if in a theater; you were held up to public view, or exposed to public scorn.",
+            "The 'language' here seems to have been taken from this custom, though there is no evidence that the Christians to whom Paul refers had been treated in this manner.",
+            "They were not merely reviled in words, but they were made to endure positive sufferings of various kinds."
+        ],
+        "Marvin Vincent": [
+            "Whilst ye were made a gazing-stock.\" ",
+            "Whilst ye became companions by becoming partakers.\" ",
+            "Even when applied to pecuniary contributions they imply Christian fellowship as the basis of the liberality."
+        ],
+        "John Calvin": [
+            "Let no man therefore deceive himself by self-flattery as though he had reached the goal, or had no need of incentives from others.",
+            "As it is Christ\u2019s cause for which all the godly contend, and as it is what their contend for in common, whatever one of them suffers, all the rest ought to transfer, as it were, to themselves.",
+            "They were reproached with bad names, or reviled, and also oppressed and persecuted."
+        ],
+        "Philip Schaff": [
+            "Partly in that ye became a spectacle of shame 'a theatrical spectacle' a term taken from those who were exposed in the theatre to shameful punishment.",
+            "The word 'living' is not passive, but is repeatedly found in the Epistles to describe the actual condition of a man's life.",
+            "Such 'reproach and affliction' is recorded in Acts 5:18; Acts 5:40; Acts 8:3; Acts 11:19; Acts 22:19; Acts 26:10-11, and in the history of Paul himself."
+        ],
+        "Archibald T. Robertson": [
+            "Being made a gazing-stock (\u03b8\u03b5\u03b1\u03c4\u03c1\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf). Late verb to bring upon the stage, to hold up to derision.\" ",
+            "By reproaches and afflictions (\u03bf\u03bd\u03b5\u03b9\u03b4\u03b9\u03c3\u03bc\u03bf\u03b9\u03c2 \u03c4\u03b5 \u03ba\u03b1 \u03b8\u03bb\u03b9\u03c8\u03b5\u03c3\u03b9\u03bd). Instrumental case.",
+            "Partakers (\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03bf). Partners (Luke 5:10) with those (\u03c4\u03c9\u03bd objective genitive)."
+        ],
+        "John Gill": [
+            "Partly whilst ye were made a gazing stock, brought upon the stage or theatre, and made a spectacle to the world, angels, and men.\" ",
+            "Both by reproaches and afflictions; suffering both in their characters and reputations, and in their persons and substance.",
+            "Partly whilst ye became companions of them that were so used; they maintained their communion with them, relieved them in distress, and sympathized with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Hebrew Christians bore the reproaches and tribulations of their faith, becoming a spectacle to the world. Not only were they made a gazing-stock by being exposed on the theater stage, but they also endured reviling, oppression, and persecution. Despite the hardships, they willingly became companions with those who suffered, displaying their Christian sympathy and love. Their participation in the sufferings of their fellow believers exemplifies the deep fellowship and partnership that characterized the early Christians. This verse reminds us of the unity in Christ's cause and the need for us to support and stand with one another in the face of persecution and trials.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.7380673471949948,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                32.08,
+                29.92,
+                38.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Hebrew Christians were made a spectacle, exposed to reproaches and tribulations, as they became companions with those who endured the same hardships. Their sufferings were not only in Palestine, but also in Rome and other cities, incited by the Jews. Being brought on the theater stage, they were made a gazing-stock, enduring reviling and persecution. By becoming partakers with their suffering brethren, they demonstrated their Christian sympathy and love, embodying the unity and fellowship of early believers in Christ's cause.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8041140409568324,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                34.67,
+                30.65,
+                34.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Hebrew Christians were subjected to reproaches and tribulations, becoming a spectacle in the eyes of the world. They were made companions with those who suffered, showing their Christian sympathy and love. These persecutions extended beyond Palestine to Rome and other cities, with Jews inciting the populace and Roman authorities against Christians. The believers endured not only verbal abuse but also physical afflictions, becoming a gazing-stock like actors held up for derision in a theater. Yet, through it all, they remained united and steadfast in their faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.70097726205554,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.9,
+            "commentatorTierSimilarities": [
+                34.87,
+                31.26,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Hebrew Christians faced reproaches, tribulations, and became a spectacle. They willingly stood with their suffering brethren, showing Christian sympathy and love. These persecutions were not limited to Palestine, but also occurred in Rome and other cities, incited by the Jews. They endured mockery and afflictions, becoming a gazing-stock as if brought upon a theater stage. Despite the hardships, their unity and fellowship remained strong, as they shared in the sufferings and supported one another.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.715323637929756,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.38,
+            "commentatorTierSimilarities": [
+                34.41,
+                31.01,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Hebrew Christians were made a spectacle, enduring reproaches and tribulations, as they became companions with those suffering. They were treated as a gazing-stock, exposed on a theater stage amidst reviling and afflictions. These persecutions extended beyond Palestine to Rome and other cities, instigated by the Jews. Through their Christian sympathy and love, they willingly shared in the sufferings, exemplifying the deep fellowship and partnership of early believers. This verse serves as a reminder of the unity in Christ's cause and the importance of standing with one another in times of persecution and trials.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.6750015492001287,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                33.83,
+                30.78,
+                35.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

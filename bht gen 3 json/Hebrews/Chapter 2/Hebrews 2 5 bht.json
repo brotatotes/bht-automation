@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:16",
+    "verseRef": "Hebrews 2:5",
+    "bestBHT": {
+        "bht": "The state of things induced by the proclamation of salvation is subjected to Christ, not angels. Although angels are mentioned in the New Testament, they only play transitory roles. The present world is subjected to the Redeemer Himself, while the world to come signifies the new order inaugurated by Christ's sacrifice. This new order, described as a great salvation, entails the lordship of Christ over the world. It entrusts the kingdom of God to humanity and demonstrates Jesus' superiority to angels through His very humanity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 2.2779465801714185,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+        "commentatorTierSimilarities": [
+            38.82,
+            32.15,
+            29.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "FOR this whole state of things, induced by the proclamation of that salvation, is not subjected to angels, but to Christ, the Son of God.",
+            "Certainly, here and there in the New Test. history angels are mentioned: but they come in only as transitory appearances, to announce or to execute some matter which is specially entrusted to them: they never appear as essential agents in the introduction of the kingdom of God, either in general, or in particular.",
+            "Rather, even by what we see at present, does it appear to be subjected to the Redeemer Himself. And this will ever more and more be the case; for,\u2014according to the prophetic declaration of the Psalm, the whole world shall be put under His feet [ver 8]."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not the angels hath He.",
+            "The world to come",
+            "We, like them, still pray, 'Thy kingdom come'"
+        ],
+        "Albert Barnes": [
+            "Having shown that, he now proceeds with the discussion, and shows that an honor had been conferred on the Lord Jesus which had never been bestowed on the angels - to wit, the 'supremacy over this world.'",
+            "He was a man of a humble condition. He was poor, and despised. He had none of the external honor which was shown to Moses - the founder of the Jewish economy; none of the apparent honor which belonged to angelic beings.",
+            "The remark of the apostle in the verse before us is, that God had never put the world in subjection to the angels as he had to the Lord Jesus. They had no jurisdiction over it; they were mere ministering spirits; but the world had been put under the dominion of the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "The great salvation means lordship of the world to be.",
+            "Being now exalted above angels, he does away with the angelic administration, and, in the world to come, will carry humanity with him to the position of universal lordship.",
+            "The world to come means the new order of things inaugurated by the sacrifice of Christ."
+        ],
+        "John Calvin": [
+            "But first, the Psalm which he quotes must be examined, for it seems to be unfitly applied to Christ. David there mentions the benefits which God bestows on mankind... To this I answer, that all this affords no reason why the words should not be applied to the person of Christ.",
+            "This foundation being laid, it is evident that God\u2019s bounty belongs not to us until the right lost in Adam be restored by Christ... Whatever the sons of Adam possessed would be deemed a robbery; for what can they call their own when they themselves are not God\u2019s?",
+            "If men, then, are precluded from all God\u2019s bounty until they receive a right to it through Christ, it follows that the dominion mentioned in the Psalm was lost to us in Adam, and that on this account it must again be restored as a donation."
+        ],
+        "Philip Schaff": [
+            "The new dispensation economy, the kingdom of God, the order of things under the Messiah, is committed to man, as was the world of old (Psalms 8:0); to the model man, however, the ideal man, the second Adam, the Lord from heaven.",
+            "The name, 'the world to come' (see note on Hebrews 1:2), was quite familiar to the Jews, who called their own economy 'this world.'",
+            "It really includes them both, only it is wider, and applies to the whole order of things and to the government of men (see Gr.) under the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "The very humanity of Jesus, the Son of Man, likewise proves his superiority to angels.",
+            "The new order, the salvation just described.",
+            "The author is discussing this new order introduced by Christ which makes obsolete the old dispensation of rites and symbols."
+        ],
+        "John Gill": [
+            "the world to come, as opposed to this world, and the present state of things; though there may be much truth in this sense, as that the present world is in subjection to angels, and the world to come is not",
+            "the world to come, as opposed to this, is not at all subject to them; they are employed in carrying the souls of departed saints thither, and shall be with them there, and join with them in their service; but they will not be as kings, nor even as children, but as servants",
+            "rather it designs the new heavens and new earth at the resurrection, and day of judgment, for these will not be put in subjection to angels; though of these the apostle is not speaking in the context: it seems therefore to intend the Gospel, and the Gospel dispensation and church state"
+        ],
+        "John Wesley": [
+            "The greater the salvation is, and the more glorious the Lord whom we despise, the greater will be our punishment.",
+            "God hath not subjected the world to come...although it is still in great measure to come.",
+            "In this last great dispensation the Son alone presides."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse affirms that the whole state of things, influenced by the proclamation of salvation, is subject not to angels, but to Christ. While angels may occasionally appear in transitory roles in the New Testament, they do not play an essential role in bringing about the kingdom of God. The present world is subjected to the Redeemer Himself, and this will increasingly be the case, as the whole world is to be put under His feet. The world to come refers to the new order of things inaugurated by the sacrifice of Christ, which renders the old dispensation of rites and symbols obsolete. This new order, described as a great salvation, signifies the lordship of Christ over the world. The apostle is discussing this new order established by Christ, which entrusts the kingdom of God to humanity. Jesus' very humanity also demonstrates His superiority to angels.",
+            "wordCount": 146,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 2.225578676214869,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                37.54,
+                32.82,
+                29.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The state of things induced by the proclamation of salvation is subjected to Christ, not angels. Although angels are mentioned in the New Testament, they only play transitory roles. The present world is subjected to the Redeemer Himself, while the world to come signifies the new order inaugurated by Christ's sacrifice. This new order, described as a great salvation, entails the lordship of Christ over the world. It entrusts the kingdom of God to humanity and demonstrates Jesus' superiority to angels through His very humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2779465801714185,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+            "commentatorTierSimilarities": [
+                38.82,
+                32.15,
+                29.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The proclamation of salvation subjects the whole state of things to Christ, not angels. While angels may appear in transitory roles, they are not essential agents in the introduction of God's kingdom. The present world is subjected to Christ, and this will increasingly be the case as the whole world is put under His feet. The world to come refers to the new order of things inaugurated by Christ's sacrifice, rendering the old dispensation of rites and symbols obsolete. The new order establishes Christ's lordship over the world and entrusts the kingdom of God to humanity. Jesus' humanity also proves His superiority to angels.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.1841780013663055,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.96,
+            "commentatorTierSimilarities": [
+                39.19,
+                31.2,
+                29.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The proclamation of salvation ushers in a new state of things subjected to Christ rather than angels. Although angels may appear in the New Testament, they serve as transitory messengers and not essential agents in God's kingdom. As stated in the Psalm, the whole world will be placed under the feet of Christ. The phrase the world to come denotes the new order inaugurated by Christ's sacrifice, rendering the old system of rituals and symbols obsolete. This new order establishes Christ's lordship over the world and marks humanity's partnership in the kingdom of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.139759815510568,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.49,
+            "commentatorTierSimilarities": [
+                38.25,
+                31.57,
+                30.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The proclamation of salvation brings about a state of things that is subjected not to angels, but to Christ. Angels may occasionally appear in the New Testament as temporary messengers, but they do not play a central role in establishing God's kingdom. The present world is subjected to Christ, and this arrangement will only become more evident over time. The world to come refers to the new order of things introduced by Christ's sacrifice, rendering outdated the old system of religious practices. This new order highlights Christ's lordship over the world and His elevation of humanity.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.1441127182763084,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                37.94,
+                31.34,
+                30.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:02",
+    "verseRef": "Hebrews 3:5",
+    "bestBHT": {
+        "bht": "Moses faithfully served as a testimony and ministering attendant in God's house, foreshadowing the things of the gospel that would be revealed by Christ. Though Moses was a servant, it is Christ who holds the primary authority and glory as the Son over the house. Moses's ministry prepared the way, leading the Israelites and giving the law, while Christ brings the full revelation of the Gospel and is the heir of all things.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.2823072965119846,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.23,
+        "commentatorTierSimilarities": [
+            30.56,
+            32.79,
+            36.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In his ministry he was a testimony, or, by what he did in the service of the house he gave testimony: whereunto? to the things that were afterwards to be spoken, viz. in the fulness of time, the appointed season, by the Messiah: i.e. the things of the gospel.",
+            "Christ is of primary authority and glory in it, inasmuch as He is the Son in the house, and actually established the house.",
+            "One as a servant, the other as a son: this house was Israel, this house are we, if we are found faithful in the covenant."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "faithful in all his house\u2014that is in all GOD'S house",
+            "a ministering attendant\"; marking the high office of Moses towards God, though inferior to Christ, a kind of steward.",
+            "in order that he might in his typical institutions give 'testimony' to Israel 'of the things' of the Gospel 'which were to be spoken afterwards' by Christ"
+        ],
+        "Albert Barnes": [
+            "As such a servant he deserves all the honor for fidelity which has ever been claimed for him, but it cannot be the honor which is due to him who is at the head of the family or house.",
+            "He did not originate the truths himself; but he was the mere medium by which God made known his truth to his people - a servant whom He employed to make his will known.",
+            "The sense is, Moses was a mere servant of God to communicate his will to man."
+        ],
+        "Marvin Vincent": [
+            "The verb [qerapeuein] is used of a physician's tendance of the sick.",
+            "The relation of the qerapwn is of a nobler and freer character than that of the doulov or bondservant.",
+            "The meaning is that Moses, in his entire ministry, was but a testimony to what was to be spoken in the future by another and a greater than he."
+        ],
+        "John Calvin": [
+            "He is constituted heir of all things.",
+            "Moses faithfully delivered to the people what the Lord had committed to him.",
+            "God deferred to the fullness of time the complete revelation of the Gospel."
+        ],
+        "Philip Schaff": [
+            "In all his house, i.e God\u2019s house.",
+            "His work was preparatory, testifying as He did to things that were afterwards to be revealed.",
+            "The word for servant in this verse, which is often applied in O. T. to Moses, includes all the work that naturally falls to an attendant on another, even what is most confidential."
+        ],
+        "Archibald T. Robertson": [
+            "For a testimony of those things which were afterward to be spoken.",
+            "But Christ, as a son.",
+            "Over his house."
+        ],
+        "John Gill": [
+            "Moses was not only a servant to the Israelites, but he was also the Lord's servant, a servant of his choosing, sending, and approving.",
+            "He was a servant in holy things, and served the Lord heartily, sincerely, and ingenuously, with all becoming fear and reverence, respect, and honour, and with all ready and cheerful obedience.",
+            "Moses in his office was typical of things to be spoken and done by the Messiah, when he came; as his deliverance of the children of Israel out of Egypt; his leading them through the Red sea and wilderness, to Canaan's land; his giving them the law from Mount Sinai; the erection of the tabernacle, with all its furniture, and the institution of sacrifices and the like."
+        ],
+        "John Wesley": [
+            "Another proof of the pre-eminence of Christ above Moses.",
+            "Was faithful in all his house, as a servant, for a testimony of the things which were afterwards to be spoken.",
+            "A full confirmation of the things which he afterward spake concerning Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses served as a testimony and ministering attendant in the house of God, foreshadowing the coming of Christ and testifying to the things of the gospel that would be spoken in the future. While Moses faithfully served as a servant in God's house, it is Christ who holds the primary authority and glory as the Son over the house. Moses's ministry was preparatory, leading the Israelites out of Egypt, giving the law, and establishing the tabernacle and sacrifices. However, it is Christ who brings the complete revelation of the Gospel and is the heir of all things.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.148101045947186,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                31.13,
+                31.45,
+                37.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses served as a testimony, ministering attendant, and servant in the house of God, giving testimony to the things of the gospel that would be spoken afterwards by Christ. While Moses faithfully served in God's house, it is Christ who holds the primary authority and glory as the Son. Moses's ministry foreshadowed the coming of Christ and played a preparatory role in leading the Israelites, giving the law, and establishing the tabernacle. However, it is Christ who brings the complete revelation of the Gospel and is the heir of all things.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1981287145272317,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                32.08,
+                31.08,
+                36.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses faithfully served as a testimony and ministering attendant in God's house, foreshadowing the things of the gospel that would be revealed by Christ. Though Moses was a servant, it is Christ who holds the primary authority and glory as the Son over the house. Moses's ministry prepared the way, leading the Israelites and giving the law, while Christ brings the full revelation of the Gospel and is the heir of all things.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.2823072965119846,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.23,
+            "commentatorTierSimilarities": [
+                30.56,
+                32.79,
+                36.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses faithfully served as a testimony, ministering attendant, and a servant in the house of God, testifying to the future things of the gospel that would be spoken by Christ. While Moses played a preparatory role in leading the Israelites, giving the law, and establishing the tabernacle, it is Christ who holds the primary authority and glory as the Son in God's house. Christ brings the complete revelation of the Gospel and is the heir of all things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.1773251224471375,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                31.02,
+                31.53,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses served as a testimony and ministering attendant, faithful in all of God's house. His ministry was preparatory, testifying to the things of the gospel that would be spoken by Christ, who holds the primary authority and glory as the Son in the house. Moses, though a servant, played a vital role in delivering God's will to the people. However, it is Christ who brings the complete revelation of the Gospel and is the heir of all things.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.2051366807023776,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                30.0,
+                34.3,
+                35.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

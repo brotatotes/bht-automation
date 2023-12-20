@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:17",
+    "verseRef": "Hebrews 7:11",
+    "bestBHT": {
+        "bht": "The Levitical priesthood, being unable to provide a perfectly adequate relation to God, revealed the need for a different and perfect priesthood that would bring man to his highest state of salvation and sanctification. This new priesthood would establish a perfect fellowship between God and the worshipper, signifying the establishment of a perfect fellowship between God and the worshipper. As the Scriptures predicted the coming of a priest of a different order, the imperfections of the Levitical priesthood became apparent, necessitating the establishment of a better priesthood and a more excellent dispensation.",
+        "wordCount": 92,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.3374020728659213,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+        "commentatorTierSimilarities": [
+            29.63,
+            34.34,
+            36.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "perfection\u2014absolute: 'the bringing of man to his highest state, namely, that of salvation and sanctification.'",
+            "For God does nothing needless.",
+            "not be called\u2014Greek, 'not be said (to be) after the order of Aaron,' that is, that, when spoken of in the Hebrews 9:19- :, 'He is not said to be (as we should expect, if the Aaronic priesthood was perfect) after the order of Aaron.'"
+        ],
+        "Albert Barnes": [
+            "Even from their own Scriptures it was apparent that a priest was to arise of another order, and of a more permanent character, and this he says was full proof: that there was defect of some kind in the previous order.\" (40 words)",
+            "If that system would lead to perfection; if it was sufficient to make the conscience pure, and to remove sin, then there was no necessity of any other. Yet the Scriptures have declared that there 'would be' another of a different order.\" (43 words)",
+            "This reasoning is founded on the fact that there was an express prediction of the coming of a priest of a different 'order' Psalms 110:4, and that this fact implied that there was some deficiency in the former arrangement.\" (36 words)"
+        ],
+        "Marvin Vincent": [
+            "Perfection [\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03c3\u03b9\u03c2]...signified the establishment of a perfect fellowship between God and the worshipper.\" ",
+            "Priesthood [\u03b9\u03b5\u03c1\u03c9\u03c3\u03c5\u03bd\u03b7\u03c2]...expresses the abstract notion of the priest's office.",
+            "Not merely another, but a different kind of priest."
+        ],
+        "John Calvin": [
+            "If the ministry of the Church was perfect under the order of Aaron, why was it necessary to return to another order? For in perfection nothing can be changed.\" ",
+            "The Law was not only brought in under [the Levitical priesthood], but that it was also by it established.\" ",
+            "The imperfection of the Levitical priesthood was doubtless its capacity really to make an atonement for sin, as its work was ceremonial and typical: but it was enough for the present purpose merely to say that it was not perfect, as it failed to answer the great end of establishing a priesthood."
+        ],
+        "Philip Schaff": [
+            "The Psalm tells us that in the person of the Messiah there was to arise a priest who did not belong to the order of Aaron, but to a different order; and this declaration implies that the priesthood of Aaron was not capable of securing the great end of a priesthood.",
+            "If sinners are to be forgiven, forgiveness must be consistent with the Divine character and law; the conscience must be pacified and man made holy.",
+            "Under the Gospel, God appoints, as He foretold, a priest who does not answer to the description given of priests under the law a clear proof that He who first made the law has annulled it."
+        ],
+        "Archibald T. Robertson": [
+            "The Levitical priesthood failed to give men 'a perfectly adequate relation to God' (Moffatt).",
+            "What need still would there be?",
+            "Of a different line, not just one more."
+        ],
+        "John Gill": [
+            "there is no perfection by it; as is clear from the priests themselves, who were but men, mortal men, sinful men, and so imperfect",
+            "the sacrifices the priests offered did not extend to all kind of sins, only to sins of ignorance, not to presumptuous ones",
+            "the ceremonial law, and which was carnal, mutable, and made nothing perfect"
+        ],
+        "John Wesley": [
+            "The apostle now demonstrates that the Levitical priesthood must yield to the priesthood of Christ.",
+            "Hath no end of life, but 'remaineth a priest continually.'",
+            "From this single consideration it is plain, that both the priesthood and the law, which were inseparably connected, were now to give way to a better priesthood and more excellent dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the need for a different and perfect priesthood that brings man to his highest state of salvation and sanctification. The Levitical priesthood, unable to establish a perfect fellowship between God and the worshipper, lacked the ability to provide a perfectly adequate relation to God. The Scriptures predicted the coming of a priest of a different order, implying a deficiency in the previous arrangement. The imperfections of the Levitical priesthood, revealed through the priests themselves and their limited sacrifices, necessitated the establishment of a better priesthood and a more excellent dispensation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 2.210335367188944,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                27.98,
+                35.11,
+                36.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The need for a different and perfect priesthood that brings man to his highest state of salvation and sanctification is highlighted. The Levitical priesthood, unable to establish a perfect fellowship between God and the worshipper, lacked the ability to provide a perfectly adequate relation to God. The Scriptures predicted the coming of a priest of a different order, implying a deficiency in the previous arrangement. The imperfections of the Levitical priesthood necessitated the establishment of a better priesthood and a more excellent dispensation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 2.1986847884420744,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.45,
+            "commentatorTierSimilarities": [
+                28.64,
+                33.99,
+                37.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Levitical priesthood, which failed to establish a perfect fellowship between God and the worshipper, revealed a need for a different and perfect priesthood that brings man to his highest state of salvation and sanctification. The Scriptures predicted the coming of a priest of a different order, implying a deficiency in the previous arrangement. The imperfections of the Levitical priesthood, seen in its limited sacrifices and inability to make a complete atonement for sin, necessitated the establishment of a better priesthood and a more excellent dispensation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.2780016105426704,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+            "commentatorTierSimilarities": [
+                27.16,
+                35.83,
+                37.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Levitical priesthood, unable to establish a perfect fellowship between God and the worshipper, necessitated a different, perfect priesthood for man's highest state of salvation and sanctification. The Scriptures predicted the coming of a priest of a different order, indicating a deficiency in the previous arrangement. The imperfections of the Levitical priesthood were evident in its limited sacrifices and inability to make a complete atonement for sin. Therefore, the establishment of a better priesthood and a more excellent dispensation became necessary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.14671702975059,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+            "commentatorTierSimilarities": [
+                27.85,
+                34.31,
+                37.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Levitical priesthood, being unable to provide a perfectly adequate relation to God, revealed the need for a different and perfect priesthood that would bring man to his highest state of salvation and sanctification. This new priesthood would establish a perfect fellowship between God and the worshipper, signifying the establishment of a perfect fellowship between God and the worshipper. As the Scriptures predicted the coming of a priest of a different order, the imperfections of the Levitical priesthood became apparent, necessitating the establishment of a better priesthood and a more excellent dispensation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.3374020728659213,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+            "commentatorTierSimilarities": [
+                29.63,
+                34.34,
+                36.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

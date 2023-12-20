@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:47:36",
+    "verseRef": "Hebrews 5:3",
+    "bestBHT": {
+        "bht": "The high priest, due to his own infirmities, is obligated to offer sacrifices for sins. This duty applies not just to the people but also to himself, and it stems from the awareness that the priest, being a sinner, requires the same atonement he promotes to others. However, Christ's priesthood sets him apart. While other priests have their own sins to atone for, Christ has none, yet he offers sacrifices on behalf of others, demonstrating the uniqueness of his role.",
+        "wordCount": 81,
+        "quoteTokenProportion": 54.1,
+        "qualityScore": 1.9814264097210499,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            21.6,
+            36.3,
+            42.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And on account of it (the infirmity wherewith he himself is encompassed) he must... offer for sins.",
+            "It is necessary for him, a priori, on higher ground than, and before, the ordinance of the law.",
+            "Leave it to the Writer himself... to determine how far these (requirements) are satisfied in Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "on account of this\" infirmity.",
+            "The second 'for' is a different Greek term from the first",
+            "in behalf of the people . . . on account of sins."
+        ],
+        "Albert Barnes": [
+            "Because he is a sinner; an imperfect man.",
+            "He needs the same atonement; he offers the sacrifice for himself which he does for others.",
+            "They come before God feeling that they have need of the benefit of the same atonement which they preach to others."
+        ],
+        "Marvin Vincent": [
+            "He ought [\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03b9] . It is his duty, growing out of the fact of his own infirmity."
+        ],
+        "Philip Schaff": [
+            "And by reason hereof... the infirmity with which he is himself compassed.\" ",
+            "He ought... under a double obligation, ethical and legal.",
+            "Whether all this applies to Christ has been much discussed... to allow the writer himself to show how far the Priesthood of Christ is like others, and how far it is unique."
+        ],
+        "Archibald T. Robertson": [
+            "Note \u03c0\u03b5\u03c1 three times here... but in verse Hebrews 5:1 \u03c5\u03c0\u03b5\u03c1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd, \u03c5\u03c0\u03b5\u03c1 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03c9\u03bd.\" ",
+            "In the Koine this interchange of \u03c0\u03b5\u03c1 (around) and \u03c5\u03c0\u03b5\u03c1 (over) is common.",
+            " ",
+            "Note \u03c0\u03b5\u03c1 three times here... but in verse Hebrews 5:1 \u03c5\u03c0\u03b5\u03c1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd, \u03c5\u03c0\u03b5\u03c1 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03c9\u03bd."
+        ],
+        "John Gill": [
+            "Because of his sinful infirmity,",
+            "he ought, as for the people, so also for himself to offer for sins.",
+            "In this Christ differed from the high priest, for he had no sin of his own to offer for, but he had, and therefore offered for them.",
+            "And made a confession of them... 'I beseech thee, O Lord, I have done wickedly, I have transgressed, I have sinned before thee, I and my house.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse underscores the necessity for the high priest to offer sacrifices for sins due to his own imperfections and infirmities. The use of the term \u03c0\u03b5\u03c1 highlights the priest's duty of atoning for both the people and himself. This duty arises from the fact that the priest, as a sinner, requires the same atonement that he preaches to others. However, there is a crucial distinction when it comes to Christ, as he possesses no sin of his own to atone for, yet he offers sacrifices on behalf of others. The verse emphasizes the ethical and legal obligations of the high priest, allowing the writer to illustrate the uniqueness of Christ's priesthood.",
+            "wordCount": 114,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.9885034978762337,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                23.82,
+                35.61,
+                40.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The high priest is obliged to offer sacrifices for sins due to his own imperfections, making it his duty to atone for both himself and the people. The use of the term \u03c0\u03b5\u03c1 signifies the priest's ethical and legal responsibility regarding atonement. This duty arises from the fact that the priest, being a sinner, requires the same atonement he preaches to others. However, Christ differs from other priests as he has no sin of his own to atone for, yet he offers sacrifices on behalf of others, highlighting the uniqueness of his priesthood.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.9862340258313291,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                21.89,
+                37.22,
+                40.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The high priest, afflicted by his own infirmities, is compelled by duty to offer sacrifices for sins. This duty extends to atoning for himself and the people. The term \u03c0\u03b5\u03c1 emphasizes the ethical and legal obligations tied to atonement. While the high priest, being a sinner, requires the same atonement preached to others, Christ stands apart from other priests. He has no personal sin to atone for, yet he offers sacrifices on behalf of others, manifesting the unique nature of his priesthood.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.871173813852106,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                24.03,
+                37.68,
+                38.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The high priest, due to his own infirmities, is obligated to offer sacrifices for sins. This duty applies not just to the people but also to himself, and it stems from the awareness that the priest, being a sinner, requires the same atonement he promotes to others. However, Christ's priesthood sets him apart. While other priests have their own sins to atone for, Christ has none, yet he offers sacrifices on behalf of others, demonstrating the uniqueness of his role.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.1,
+            "qualityScore": 1.9814264097210499,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                21.6,
+                36.3,
+                42.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest, burdened by his own infirmities, must offer sacrifices for sins, fulfilling his duty due to his awareness of being a sinner. This obligation extends to atoning for both himself and the people. The use of the term \u03c0\u03b5\u03c1 signifies the ethical and legal nature of this responsibility. In contrast, Christ's priesthood is distinctive. While other priests offer sacrifices for their own sins, Christ, being sinless, offers sacrifices on behalf of others, emphasizing the unparalleled nature of his role.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7391933491455334,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                23.94,
+                36.92,
+                39.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

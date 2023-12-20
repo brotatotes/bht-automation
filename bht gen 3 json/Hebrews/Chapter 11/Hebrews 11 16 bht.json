@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:50:17",
+    "verseRef": "Hebrews 11:16",
+    "bestBHT": {
+        "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city, fulfilling their yearning desires. Their desires for a heavenly inheritance and a glorious city reflect their faith and trust in God. Therefore, God is not ashamed to be called their God, for He has prepared a worthy city.",
+        "wordCount": 62,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.3795016837504592,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.46,
+        "commentatorTierSimilarities": [
+            33.21,
+            32.85,
+            33.94
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But now they desire a better (home), that is, a heavenly one, wherefore God is not ashamed of them to be called their God.",
+            "He prepared for them a city, permanent and eternal, in contrast to the tents in which they wandered.",
+            "God is not ashamed of them, nor to be called their God: and we find proof of this not only in His thus naming Himself, but in His preparing for them a city: the home for which they yearned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is NOW not ashamed to have Himself called so, they being alive and abiding with Him where He is.",
+            "Not only is He not ashamed, but glories in the name and relation to His people.",
+            "He hath prepared for them a city, the city in which He Himself reigns, so that their yearning desires shall not be disappointed."
+        ],
+        "Albert Barnes": [
+            "But now they desire a better country, that is, an heavenly.",
+            "They lived as if they had no expectation of a permanent residence on earth, and were looking to another world.",
+            "The life of the patriarchs was, in all essential respects, such as we should lead. They looked forward to heaven; they sought no permanent possessions here; they regarded themselves as strangers and pilgrims on the earth."
+        ],
+        "Marvin Vincent": [
+            "Now they desire...as the case now stands.\" ",
+            "Because they have commended themselves to God by their faith, so that he acknowledges them as his own.",
+            "City is significant, as showing that the fulfillment of God's promise lies in introducing them into the perfection of social life."
+        ],
+        "John Calvin": [
+            "It is a singular honor when God makes men illustrious, by attaching his name to them; and designs thus to have himself distinguished from idols.",
+            "We are hence to conclude, that there is no place for us among God\u2019s children, except we renounce the world, and that there will be for us no inheritance in heaven, except we become pilgrims on earth.",
+            "Moreover, the Apostle justly concludes from these words, \u2014 'I am the God of Abraham, of Isaac, and of Jacob,' that they were heirs of heaven, since he who thus speaks is not the God of the dead, but of the living."
+        ],
+        "Philip Schaff": [
+            "But now (the case is that, see chap. Hebrews 8:6) they desire a better, that is, a heavenly (home); wherefore God is not ashamed of them, to be called their God.",
+            "He prepared for them a permanent home above not a lent but a city of His and welcomed them there.",
+            "Their desire was for the presence and blessing of Him who was their trust, and with whom they hoped to be when their earthly pilgrimage was ended."
+        ],
+        "Archibald T. Robertson": [
+            "They desire (\u03bf\u03c1\u03b5\u03b3\u03bf\u03bd\u03c4\u03b1). Present middle indicative of \u03bf\u03c1\u03b5\u03b3\u03c9, old word for stretching out after, yearning after.",
+            "Their God (\u03b8\u03b5\u03bf\u03c2 \u03b1\u03c5\u03c4\u03c9\u03bd). Predicate nominative with the epexegetic infinitive \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03b5\u03b9\u03c3\u03b8\u03b1 (to be called).",
+            "Used with \u03bf\u03c5\u03ba \u03b5\u03c0\u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b5\u03c4\u03b1 (is not ashamed)."
+        ],
+        "John Gill": [
+            "...the desires of these saints when on earth, and which are common to all believers in the present state of things; who, as the patriarchs desired a better country than Chaldea, or even Canaan itself, so they desire a better country than this world; and such is heaven...",
+            "...here are no noxious and pestilential vapours, no mists or fogs beclouding, no storms and tempests, but it is full of light and glory; having the delightful breezes of divine love, and the comfortable gales of the blessed Spirit...",
+            "...it is abundantly the better country...an heavenly; an inheritance in heaven, an house eternal in the heavens, the kingdom of heaven; and it is no wonder that it should be desired by such who know it, and the nature of it..."
+        ],
+        "John Wesley": [
+            "But they desire a better country, that is, an heavenly \u2014 This is a full convincing proof that the patriarchs had a revelation and a promise of eternal glory in heaven.",
+            "Therefore God is not ashamed to be called their God: seeing he hath prepared for them a city - Worthy of God to give."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city to fulfill their yearning desires. This city is significant, as it shows the fulfillment of God's promise in introducing them into the perfection of social life. Their desire was for the presence and blessing of Him, and they looked forward to heaven as their true home. It is abundantly the better country, an inheritance in heaven, full of light and glory. Therefore, God is not ashamed to be called their God because He has prepared for them a worthy city.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.2853830981465753,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.33,
+            "commentatorTierSimilarities": [
+                31.71,
+                34.46,
+                33.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city to fulfill their yearning desires. This city is significant, as it shows the fulfillment of God's promise in introducing them into the perfection of social life. Their desire was for the presence and blessing of Him, and they looked forward to heavenly inheritance. Therefore, God is not ashamed to be called their God because He has prepared for them a worthy city.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.3505687995240265,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.5,
+            "commentatorTierSimilarities": [
+                34.84,
+                34.27,
+                30.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city to fulfill their yearning desires. This city is significant, as it shows the fulfillment of God's promise in introducing them into the perfection of social life. They sought no permanent possessions on earth, living as pilgrims who looked forward to heaven. Therefore, God gladly associates His name with them, for He has prepared a glorious city as their eternal residence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.3580139530952264,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.74,
+            "commentatorTierSimilarities": [
+                32.65,
+                37.17,
+                30.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city, fulfilling their yearning desires. This city represents the fulfillment of God's promise, introducing them into the perfection of social life. Their yearning desires for a better country, a heavenly inheritance, and a glorious city reflect their faith and trust in God. Therefore, God is not ashamed to be called their God, for He has prepared a city worthy of His children.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3435664123601345,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.26,
+            "commentatorTierSimilarities": [
+                33.65,
+                33.01,
+                33.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Now they desire a better, heavenly home, wherefore God is not ashamed to be called their God. He prepared for them a permanent city, fulfilling their yearning desires. Their desires for a heavenly inheritance and a glorious city reflect their faith and trust in God. Therefore, God is not ashamed to be called their God, for He has prepared a worthy city.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3795016837504592,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.46,
+            "commentatorTierSimilarities": [
+                33.21,
+                32.85,
+                33.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

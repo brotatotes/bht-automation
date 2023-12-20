@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:47:16",
+    "verseRef": "Hebrews 4:5",
+    "bestBHT": {
+        "bht": "In the days of Moses and David, men had not yet entered into that rest, implying that some would enter therein. This rest, distinct from the Sabbath rest, remains reserved for believers under the Gospel dispensation. Unbelievers will not enter into this rest. The promise of this rest still remains and is a future hope for those who trust in God.",
+        "wordCount": 61,
+        "quoteTokenProportion": 51.16,
+        "qualityScore": 2.0241281553451893,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+        "commentatorTierSimilarities": [
+            24.67,
+            28.86,
+            46.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words are to be taken exactly as before, in a strong negative sense.",
+            "The point raised is, that in the days of Moses, nay, long after, of David, men had not yet, in the full sense at least, entered into that rest.",
+            "The negative denunciation in fact implying in itself the fact, that some would enter therein."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. in this place\u2014In this",
+            "\tpassage of the Psalm again, it is implied that the rest was even then",
+            "\tstill future."
+        ],
+        "Albert Barnes": [
+            "That which deserves to be called 'the divine rest' is spoken of in the Scriptures, and as 'they' did not enter into it, it follows that it must be in reserve for some others, and that the promise must still remain.",
+            "It is connected with Hebrews 4:6, and is designed to show that it was implied that a rest yet remained.",
+            "The object of quoting this here seems to be two-fold."
+        ],
+        "Marvin Vincent": [
+            "In this place [\u03b5\u03bd \u03c4\u03bf\u03c5\u03c4\u03c9] . The passage already cited, ver. 3. It is cited again to show that the rest was not entered into."
+        ],
+        "Philip Schaff": [
+            "In this place again, i.e either to quote again what was said before",
+            "the Sabbath rest which God provides, is, on the other hand, shown not to be the rest spoken of in the Psalm",
+            "the men described have not entered it"
+        ],
+        "Archibald T. Robertson": [
+            "And in this place again (\u03ba\u03b1 \u03b5\u03bd \u03c4\u03bf\u03c5\u03c4\u03c9 \u03c0\u03b1\u03bb\u03b9\u03bd). The passage already quoted in verse Hebrews 4:3; Hebrews 3:11. "
+        ],
+        "John Gill": [
+            "In Psalms 95:11 he speaks again of another rest distinct from that on the seventh day; which, and not the latter, is what believers under the Gospel dispensation enter into.",
+            "Unbelievers shall not enter into it; as the unbelieving Israelites did not enter into the typical rest, so neither shall any unbeliever enter into the Gospel rest.",
+            "The Gospel rest is the antitype of the former."
+        ],
+        "John Wesley": [
+            "In this psalm, of a rest yet to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The author of Hebrews emphasizes that in the days of Moses and David, people had not yet fully entered into the divine rest. However, the negative denunciation implies that some would enter into it. This rest, which is distinct from the Sabbath rest, is still in reserve for believers under the Gospel dispensation. Unbelievers, like the unbelieving Israelites, will not enter into this rest. The promise of this rest still remains and is a future hope for those who trust in God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9465936973710671,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.07,
+            "commentatorTierSimilarities": [
+                27.41,
+                29.26,
+                43.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The author of Hebrews highlights that in the days of Moses and David, people had not yet fully entered into the divine rest, but the negative denunciation implies that some would enter therein. This rest, distinct from the Sabbath rest, remains in reserve for believers and is a future hope. Unbelievers, like the unbelieving Israelites, will not enter into this rest. The promise of this rest still remains for those who trust in God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.1042207138819515,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                27.06,
+                29.66,
+                43.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The author of Hebrews emphasizes that in the days of Moses and David, men had not yet, in the full sense at least, entered into that rest, but the negative denunciation implies that some would enter therein. The passage already cited is mentioned again to show that the rest was not entered into and that the promise must still remain. This divine rest, distinct from the Sabbath rest, is in reserve for believers under the Gospel dispensation, while unbelievers will not enter into it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.3370718021390706,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.05,
+            "commentatorTierSimilarities": [
+                32.99,
+                32.58,
+                34.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the days of Moses and David, men had not yet fully entered into the divine rest. However, the negative denunciation implies that some would enter into it. This rest, distinct from the Sabbath, remains reserved for believers. Unbelievers, like the unbelieving Israelites, will not enter into this rest. The promise of this rest still remains for those who trust in God.",
+            "wordCount": 62,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9300249319520155,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.51,
+            "commentatorTierSimilarities": [
+                26.61,
+                29.64,
+                43.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the days of Moses and David, men had not yet entered into that rest, implying that some would enter therein. This rest, distinct from the Sabbath rest, remains reserved for believers under the Gospel dispensation. Unbelievers will not enter into this rest. The promise of this rest still remains and is a future hope for those who trust in God.",
+            "wordCount": 61,
+            "quoteTokenProportion": 51.16,
+            "qualityScore": 2.0241281553451893,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "commentatorTierSimilarities": [
+                24.67,
+                28.86,
+                46.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

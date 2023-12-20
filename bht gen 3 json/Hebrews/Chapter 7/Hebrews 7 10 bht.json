@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:48:09",
+    "verseRef": "Hebrews 7:10",
+    "bestBHT": {
+        "bht": "In this passage, it is made clear that Levi, as a descendant of Abraham, was considered to be in the loins of his father. While Christ's supernatural conception exempts Him from this, it highlights the potential importance of Abraham's actions for the Jewish people. The solidarity of the Hebrew race is emphasized, as when Abraham paid tithes, Levi paid tithes, and when Abraham was blessed, Israel was blessed. This reasoning emphasizes Melchizedek's superiority over Levi and highlights the greatness of Jesus Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.236017779257002,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+        "commentatorTierSimilarities": [
+            30.33,
+            31.65,
+            38.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he was yet in the loins of his father...",
+            "On the expression, compare ver. 5",
+            "When Melchisedec met him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ did not, in this sense, pay tithes in Abraham, for He never was in the loins of an earthly father.\" ",
+            "Being supernaturally, without human father, conceived, as He is above the natural law of birth, so is he above the law of tithes.\" ",
+            "Not so Christ, who derived only His flesh, not also the taint of the flesh, from Abraham."
+        ],
+        "Albert Barnes": [
+            "The meaning of the apostle is, that he was even then, in a certain sense, in the loins of Abraham, when Melchizedek met him; or it was all the same as if he were there, and had then an existence.",
+            "The fact that a remote ancestor had done homage or fealty to the ancestor of another class of titled birth, would be regarded as proof of acknowledged inferiority in the family, and might be used with force and propriety in an argument. Paul has done no more than this.",
+            "If the representative, the covenant, as well as the natural head, of the sons of Levi, paid tithes and acknowledged inferiority to Melchizedek, their inferiority follows as a matter of course. They are supposed to be comprehended in their head."
+        ],
+        "Marvin Vincent": [
+            "The whole Jewish law, its ordinances and priesthood, are regarded as potentially in Abraham.",
+            "When Abraham paid tithes, Levi paid tithes. When Abraham was blessed, Israel was blessed.",
+            "It is a kind of reasoning which would appeal to Hebrews, who so strongly emphasized the solidarity of their race."
+        ],
+        "Archibald T. Robertson": [
+            "In the loins of his father (\u03b5\u03bd \u03c4\u03b7 \u03bf\u03c3\u03c6\u03c5 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2). Levi was not yet born.\" ",
+            "The reference is to Abraham, the forefather (\u03c0\u03b1\u03c4\u03c1\u03bf\u03c2) of Levi.\" ",
+            "This is a rabbinical imaginative refinement appealing to Jews."
+        ],
+        "John Gill": [
+            "Levi and his whole posterity...were in the loins of Abraham.\" ",
+            "Just as all mankind were in the loins of Adam, when he sinned and fell.",
+            "It proves Melchizedek to be greater than Levi, and much more Jesus Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 7:10, the author emphasizes that Levi, the forefather of the Levitical priesthood, was still in the loins of his father, Abraham, when Melchizedek met him. This is not to suggest that Christ, being conceived supernaturally, paid tithes in Abraham, but rather to highlight the potential significance of Abraham's actions for the Jewish people. The solidarity of the Hebrew race is stressed, illustrating how when Abraham paid tithes, Levi paid tithes, and when Abraham was blessed, Israel was blessed. Ultimately, this reasoning serves to emphasize Melchizedek's superiority over Levi and further highlights the greatness of Jesus Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.266948769357313,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.72,
+            "commentatorTierSimilarities": [
+                30.58,
+                33.77,
+                35.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is made clear that Levi, as a descendant of Abraham, was considered to be in the loins of his father. While Christ's supernatural conception exempts Him from this, it highlights the potential importance of Abraham's actions for the Jewish people. The solidarity of the Hebrew race is emphasized, as when Abraham paid tithes, Levi paid tithes, and when Abraham was blessed, Israel was blessed. This reasoning emphasizes Melchizedek's superiority over Levi and highlights the greatness of Jesus Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.236017779257002,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                30.33,
+                31.65,
+                38.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Hebrews 7:10, the author underscores the idea that Levi, as a descendant of Abraham, was still in his father's loins when he encountered Melchizedek. Although Christ, being conceived supernaturally, did not pay tithes in Abraham, the Jewish readers would appreciate the solidarity of their race, where the actions of the forefather had implications for the entire nation. This illustrates Melchizedek's superiority over Levi and highlights the greatness of Jesus Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1577446135917735,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                28.49,
+                33.42,
+                38.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Levi, the forefather of the Levitical priesthood, was still in the loins of his father, Abraham, when Melchizedek met him. This highlights the potential significance of Abraham's actions for the Jewish people and emphasizes the solidarity of the Hebrew race. The reasoning presented in Hebrews appeals to the Jews, who strongly emphasized the unity of their race. Ultimately, this points to the superiority of Melchizedek over Levi and further highlights the greatness of Jesus Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.0348952075223217,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                29.59,
+                33.37,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the author mentions in Hebrews 7:10, Levi, the forefather of the Levitical priesthood, was still in the loins of his father, Abraham, during his encounter with Melchizedek. This highlights the potential significance of Abraham's actions, as the solidarity of the Hebrew race was strongly emphasized. This reasoning appeals to the Jews, showcasing the interconnectedness of their lineage. Consequently, it underscores the superiority of Melchizedek over Levi and further underscores the greatness of Jesus Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.9513363021486663,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                30.25,
+                32.15,
+                37.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

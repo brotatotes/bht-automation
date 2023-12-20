@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:47:53",
+    "verseRef": "Hebrews 5:6",
+    "bestBHT": {
+        "bht": "Jesus is a Priest unlike any other, standing alone without equal. He is both a High Priest in the Aaronic tradition and, by opening access to God, a High Priest to believers as well. Melchizedek, a man, priest, and king, prophetically foreshadows Christ's eternal priesthood, surpassing the Levitical priests. The phrase after the order of Melchizedek highlights Jesus' divine appointment as Priest, signifying His superiority. This establishes His greater role as Priest, superior to Aaron, showcasing the change in priesthood and the law.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.2496664198661316,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+        "commentatorTierSimilarities": [
+            42.34,
+            28.14,
+            29.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He is a Priest absolutely, because He stands alone in that character without an equal.",
+            "He is 'High Priest' in respect of the Aaronic type, and also in respect to us, whom He has made priests by throwing open to us access to God.",
+            "Melchisedec was at once man, priest, and king."
+        ],
+        "Albert Barnes": [
+            "The 'evidence' that it refers to the Messiah is such as the following.",
+            "He is like him in his designation to the office.",
+            "In Melchizedek these offices were united, and this fact constituted a striking resemblance between him and the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "Thou art a priest forever, etc. According to this verse Christ is prophetically pointed out in Psalms 110:0 as an eternal priest, independent of fleshly descent, a king, and superior in dignity to the Levitical priests.\" ",
+            "According to the order [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03c4\u03b1\u03be\u03b9\u03bd]. According to the rank which Melchisedec held. Almost = like.",
+            "For Melchisedec see ch. 7."
+        ],
+        "John Calvin": [
+            "This is a remarkable passage, and indeed the whole Psalm from which it is taken; for there is scarcely anywhere a clearer prophecy respecting Christ's eternal priesthood and his kingdom.",
+            "And yet the Jews try all means to evade it, in order that they might obscure the glory of Christ; but they cannot succeed.",
+            "Melchisedec was God's priest; and the Psalmist testifies that that king whom God has set on his right hand would be a |kohen| according to the order of Melchisedec. Who does not see that this is to be understood of the priesthood?"
+        ],
+        "Philip Schaff": [
+            "Then follows a correction... of this appointment.",
+            "Even as also he saith in another place; a psalm... if Jesus is the Christ it is by a Divine appointment.",
+            "He holds the character and performs the functions of a Priest... higher and greater than those of Aaron."
+        ],
+        "Archibald T. Robertson": [
+            "It is this crucial passage by which the author will prove the superiority of Jesus to Aaron as high priest.",
+            "The point lies in the meaning of the phrase 'After the order of Melchizedek.'",
+            "But at this point the only thing pressed is the fact of the divine appointment of Jesus as priest."
+        ],
+        "John Gill": [
+            "Thou art a priest for ever, after the order of Melchisedec; that the psalm, from whence these words are taken, belongs to the Messiah.\" ",
+            "And it very clearly expresses the priesthood of Christ, the eternity of it, and the order according to which it was.",
+            "And it being not according to the order of Aaron, but of another, shows the change of the priesthood, and so of the law."
+        ],
+        "John Wesley": [
+            "Psalm 110:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hebrews 5:6 highlights the unique position of Jesus as a Priest, distinct from any other. He is both a High Priest like those in the Aaronic tradition, but also stands alone, without equal. This concept is seen in the figure of Melchizedek, who was a man, priest, and king, pointing prophetically to Christ's eternal priesthood. The phrase after the order of Melchizedek emphasizes the divine appointment of Jesus as Priest, illustrating his superiority to the Levitical priests. This passage establishes Jesus' higher and greater role as a Priest, surpassing the limitations of Aaron's priesthood.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.2709065389419294,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.85,
+            "commentatorTierSimilarities": [
+                40.24,
+                28.72,
+                31.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hebrews 5:6 highlights the unique position of Jesus as a Priest, without equal. He is a High Priest in both the Aaronic tradition and in relation to believers, whom He has made priests by granting access to God. Melchizedek, a man, priest, and king, prophetically points to Christ's eternal priesthood, superior to the Levitical priests. The phrase after the order of Melchizedek emphasizes Jesus' divine appointment as Priest, demonstrating His superiority. This establishes His higher and greater role as a Priest, surpassing Aaron's priesthood.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.2729182869392472,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                41.44,
+                28.63,
+                29.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus is a Priest unlike any other, standing alone without equal. He is both a High Priest in the Aaronic tradition and, by opening access to God, a High Priest to believers as well. Melchizedek, a man, priest, and king, prophetically foreshadows Christ's eternal priesthood, surpassing the Levitical priests. The phrase after the order of Melchizedek highlights Jesus' divine appointment as Priest, signifying His superiority. This establishes His greater role as Priest, superior to Aaron, showcasing the change in priesthood and the law.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.2496664198661316,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                42.34,
+                28.14,
+                29.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hebrews 5:6 reveals the unparalleled priesthood of Jesus, who stands alone in this role without equal. He holds the title of High Priest both in the tradition of Aaron and in relation to believers whom He has made priests. Melchizedek's unique identity as a man, priest, and king prophetically points to Christ's eternal priesthood, surpassing that of the Levitical priests. The phrase after the order of Melchizedek signifies Jesus' divine appointment, highlighting His supreme position as Priest, indicating His superiority over the Levitical priesthood.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.234878672858784,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.65,
+            "commentatorTierSimilarities": [
+                39.84,
+                27.81,
+                32.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus holds a distinctive role as a Priest, unmatched by any others. He is a High Priest both in line with the Aaronic priests and in relation to believers, whom He has enabled to approach God. Melchizedek, a man, priest, and king, serves as a prophetic picture of Christ's eternal priesthood, surpassing that of the Levitical priests. The phrase after the order of Melchizedek emphasizes Jesus' divine appointment, underscoring His superiority to the Levitical priesthood. This establishes His elevated status as a Priest, exceeding that of Aaron.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.2014178476923245,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.54,
+            "commentatorTierSimilarities": [
+                40.76,
+                30.52,
+                28.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

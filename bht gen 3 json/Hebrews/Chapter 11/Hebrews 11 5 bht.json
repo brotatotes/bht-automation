@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:50:14",
+    "verseRef": "Hebrews 11:5",
+    "bestBHT": {
+        "bht": "By faith, Enoch was translated without experiencing death, showcasing a divine change from corruptibility to incorruptibility. His translation was a result of his faith and his pleasing God through walking with Him. Enoch's extraordinary removal from the mortal realm serves as a reminder that it is possible to live a life that pleases God, even amidst wickedness. This remarkable honor reveals God's providence and power, and Enoch's translation to heaven signifies the future resurrection of the dead. Through his faith and pleasing God, Enoch obtained a better testimony.",
+        "wordCount": 91,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 2.1670065284723856,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+        "commentatorTierSimilarities": [
+            34.01,
+            32.69,
+            33.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith, Enoch was translated not to see death...and faith was the ground of this well-pleasing.",
+            "This translation was...a change which passed upon him altogether without death, from corruptibility to incorruptibility.",
+            "Before his translation...he had pleased God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith was the ground of his pleasing God; and his pleasing God was the ground of his translation.",
+            "Implies a sudden removal from mortality without death to immortality: such a CHANGE as shall pass over the living at Christ's coming.",
+            "The Scripture testimony virtually expresses that he pleased God, namely, 'Enoch walked with God.'"
+        ],
+        "Albert Barnes": [
+            "It is an encouragement to piety. It shows that God regards his friends; that their fidelity and holy living please him; and that 'in the midst of eminent wickedness and a scoffing world it is possible so to live as to please God.'",
+            "The removal of Enoch shows that the same thing would be 'possible' in the case of every saint. God could do it in other cases, as well as in his, with equal ease.",
+            "The death of the Christian does good. It preaches to the living. The calm resignation; the peace; the triumph of the dying believer, is a constant admonition to a thoughtless and wicked world."
+        ],
+        "Marvin Vincent": [
+            "That he should not see death. This may signify the purpose of his translation, but probably refers to the result. He was translated so that he did not see death.\" ",
+            "He had this testimony. The testimony still stands on record.\" ",
+            "That he pleased God."
+        ],
+        "John Calvin": [
+            "Had he died as other men, it would have not occurred to any, that he was thus preserved from the prevailing contagion by God\u2019s providence; but, as he was taken away without dying, the hand of God from heaven, removing him as it were from the fire, was openly manifested.\" ",
+            "It was not an ordinary honor with which God had favored him.\" ",
+            "Let us leave this airy philosophy to those light and vain minds, which cannot be satisfied with what is solid. Let it suffice us to know, that their translation was a sort of extraordinary death; nor let us doubt but that they were divested of their mortal and corruptible flesh, in order that they might, with the other members of Christ, be renewed into a blessed immortality."
+        ],
+        "Archibald T. Robertson": [
+            "He was not found. Translated. Translation. He hath had witness borne him. That he had been well-pleasing unto God.",
+            "Was still not found.",
+            "Quoted here from Genesis 5:22; Genesis 5:24. The word is common of a servant pleasing his master."
+        ],
+        "John Gill": [
+            "[Enoch's translation] is a translation of him, soul and body, to heaven, to eternal glory and happiness, by a change from mortality to immortality, which passed upon him; and which is a pledge of the resurrection of the dead.\" ",
+            "He did those things which pleased [God]; he walked with God... by faith in the ways of his worship and service; and he was acceptable to him in Christ.\" ",
+            "He has obtained a better testimony than those men give him."
+        ],
+        "John Wesley": [
+            "Enoch was not any longer found among men, though perhaps they sought for him as they did for Elijah.\" ",
+            "He had this testimony \u2014 From God in his own conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Enoch was translated not to see death, experiencing a change from corruptibility to incorruptibility. His translation was the result of his pleasing God, which was grounded in his faith. The Scripture testifies that Enoch walked with God, signifying his pleasing God. His translation without death serves as a reminder that even in the midst of wickedness, it is possible to live a life that pleases God. Enoch's removal also preaches to the living, serving as a constant admonition for the thoughtless and wicked world. This extraordinary honor that God granted Enoch revealed His providence and manifested His power. Enoch's translation to heaven is a pledge of the resurrection of the dead, and through his faith and walking with God, he obtained a better testimony.",
+            "wordCount": 128,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.16450320873179,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.31,
+            "commentatorTierSimilarities": [
+                33.71,
+                34.77,
+                31.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Enoch was translated without experiencing death, showcasing a divine change from corruptibility to incorruptibility. His translation was a result of his faith and his pleasing God through walking with Him. Enoch's extraordinary removal from the mortal realm serves as a reminder that it is possible to live a life that pleases God, even amidst wickedness. This remarkable honor reveals God's providence and power, and Enoch's translation to heaven signifies the future resurrection of the dead. Through his faith and pleasing God, Enoch obtained a better testimony.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.1670065284723856,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                34.01,
+                32.69,
+                33.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Enoch escaped death and was changed from corruptibility to incorruptibility. His translation demonstrated his pleasing God and was grounded in his faith. Enoch's testimony of walking with God is a reminder that it is possible to live a life that pleases Him even in the midst of wickedness. His extraordinary removal preaches to the living, admonishing the thoughtless and wicked world. This divine honor reveals God's providence and power, signifying the future resurrection of the dead. Enoch's faith and pleasing God earned him a better testimony.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.030255872072557,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                32.22,
+                35.34,
+                32.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through faith, Enoch evaded death and underwent a transformative change from corruptibility to incorruptibility. His translation occurred because he pleased God, which was rooted in his faith and his walk with God. Enoch's exceptional removal from mortality testifies that one can live a life that pleases God amidst wickedness. This remarkable honor displays God's providence and power, while also serving as a foretelling of the future resurrection of the dead. Enoch's faith and pleasing God garnered him a superior testimony.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.073236983404506,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.28,
+            "commentatorTierSimilarities": [
+                32.88,
+                34.1,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Enoch was translated without experiencing death, undergoing a change from corruptibility to incorruptibility. This transformation was a result of his pleasing God, which was grounded in his faith. Enoch's translation serves as a reminder that it is possible to live a life that pleases God, even in the midst of wickedness. It reveals God's providence and power, and serves as a pledge of the future resurrection of the dead. Enoch's faith and pleasing God earned him a remarkable testimony.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0485754072509335,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                34.88,
+                33.32,
+                31.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

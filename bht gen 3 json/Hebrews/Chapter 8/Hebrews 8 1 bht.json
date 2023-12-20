@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:50",
+    "verseRef": "Hebrews 8:1",
+    "bestBHT": {
+        "bht": "We have a High Priest who sits at the right hand of the throne of majesty in the heavens, ministering in the true tabernacle, the heavenly Jerusalem. The main point is that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests who only stood briefly before the symbol of God's throne, Jesus sits on the throne of the Divine Majesty in heaven itself. He is the superior Priest who has obtained a better ministry, reigns with honor, glory, and authority for eternity.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.4498780034636445,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.8,
+        "commentatorTierSimilarities": [
+            31.51,
+            35.61,
+            32.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have such an High Priest who sat down on the right hand of the throne of majesty in the heavens.",
+            "A minister of the holy place, and of the true tabernacle, which the Lord pitched, not [any] man.",
+            "The tabernacle here to be the heavenly Jerusalem, the worship-place of blessed spirits and of those men who have been rapt in vision thither, the 'temple of the tabernacle Of witness,' the place where God's visible presence is manifested to his creatures angelic and human."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The chief point in the things which we are speaking.",
+            "He is set on the right hand of, c. Infinitely above all other priests in this one grand respect, He exercises His priesthood IN HEAVEN.",
+            "The Levitical high priests, even when they entered the Holiest Place once a year, only STOOD for a brief space before the symbol of God's throne but Jesus SITS on the throne of the Divine Majesty in the heaven itself, and this for ever."
+        ],
+        "Albert Barnes": [
+            "The apostle in fact goes into no recapitulation of what he had said, but enters on a new topic relating to the priesthood of Christ. Instead of going over what he had demonstrated, he enters on a more important point, that the priesthood of Christ is performed in heaven, and that he has entered into the true tabernacle there.",
+            "The Christian system is not destitute of what was regarded as so essential to the old dispensation - the office of a high priest.",
+            "The right hand was regarded as the place of principal honor, and when it is said that Christ is at the right hand of God, the meaning is, that he is exalted to the highest honor in the universe."
+        ],
+        "Marvin Vincent": [
+            "Toiv legomenoiv 'the things which are being spoken': the matters now under discussion.",
+            "The main point of the present discussion. This point is that Christ is the minister of a better sanctuary, connected with a better covenant.",
+            "The throne of the majesty... in the heavens: Const. with sat down, not with majesty, which is complete in itself and needs no qualifying epithet."
+        ],
+        "John Calvin": [
+            "He has already shown that Christ is a high priest; he now contends that his priesthood is celestial.",
+            "For it is by the power of the Spirit which gloriously appeared in the resurrection and the ascension of Christ, that the dignity of his priesthood is to be estimated.",
+            "Since Christ has ascended to the right hand of God, that he might reign gloriously in heaven, he is not the minister of the earthly but of the heavenly sanctuary."
+        ],
+        "Philip Schaff": [
+            "The chief point is this: 'The sum is this' is a possible meaning of the word; but it does not agree with the force of the preposition, with the incomplete tense of the verb, or with what follows where it is implied that the previous enumeration is unfinished.\" ",
+            "We have such a high priest who (having finished His work) took his seat on the right hand of the Majesty in the heavens.",
+            "The main point is that Christ, being exalted to the throne of God, and seated there, has an equally exalted sphere for His priestly office, with greater power than the priests of the Law."
+        ],
+        "Archibald T. Robertson": [
+            "The main matter, the pith of his argument.",
+            "He is himself a better priest than Aaron.",
+            "He has obtained a better ministry as a whole."
+        ],
+        "John Gill": [
+            "Christ is a priest, an high priest, and the saints' high priest; they are not without one under the Gospel dispensation; and Christ is he, and always continues, in whose sacrifice and intercession they have a share.",
+            "He is 'set', whereas the Levitical priests stood; which shows that he has done his work, and that with acceptance; and is in a state of ease and rest; and is possessed of honour, glory, majesty, and authority, and which continue.",
+            "he is set on the right hand of the throne of the Majesty; the same with the right hand of God; ...and at his right hand sits Christ the great high priest; which is expressive of his high honour, glory, and power, and even of his equality with God."
+        ],
+        "John Wesley": [
+            "We have such an high priest.",
+            "Having finished his oblation.",
+            "At the right hand of the Majesty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We have a High Priest who has ascended to the heavens and is seated at the right hand of the throne of majesty. He ministers in the true tabernacle, which is the heavenly Jerusalem, the holy place where God's visible presence is manifested to both angels and humans. This is the main point of the discussion - that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests who only stood briefly before the symbol of God's throne, Jesus sits on the throne of the Divine Majesty in heaven itself. He is the superior Priest who has obtained a better ministry, and He reigns with honor, glory, and authority for eternity.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 2.40748499956982,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.39,
+            "commentatorTierSimilarities": [
+                31.14,
+                35.1,
+                33.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We have a High Priest who sits at the right hand of the throne of majesty in the heavens, ministering in the true tabernacle, the heavenly Jerusalem. The main point is that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests who only stood briefly before the symbol of God's throne, Jesus sits on the throne of the Divine Majesty in heaven itself. He is the superior Priest who has obtained a better ministry, reigns with honor, glory, and authority for eternity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.4498780034636445,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.8,
+            "commentatorTierSimilarities": [
+                31.51,
+                35.61,
+                32.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We have such a High Priest, who sat down on the right hand of the throne of majesty in the heavens. He is a minister of the true tabernacle, which the Lord pitched, not man. The main point of this discussion is that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests who stood for a brief moment before the symbol of God's throne, Jesus sits on the throne of the Divine Majesty in heaven itself, forever.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.387356235292178,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.72,
+            "commentatorTierSimilarities": [
+                33.63,
+                35.5,
+                30.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We have such an High Priest who sat down on the right hand of the throne of majesty in the heavens. He is a minister of the true tabernacle, the heavenly Jerusalem. The main point of the discussion is that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests, Jesus sits on the throne of the Divine Majesty in heaven itself for eternity. He has obtained a better ministry, reigning with honor, glory, and authority.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.2624328363761315,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.57,
+            "commentatorTierSimilarities": [
+                33.23,
+                33.86,
+                32.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We have such a High Priest who sat down on the right hand of the throne of majesty in the heavens. He is a minister of the true tabernacle, the heavenly Jerusalem, where God's visible presence is manifested. The main point of this discussion is that Christ is the minister of a better sanctuary, connected with a better covenant. Unlike the Levitical high priests, Jesus sits on the throne of the Divine Majesty in heaven itself, with honor, glory, and authority for eternity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.386131105343247,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.68,
+            "commentatorTierSimilarities": [
+                32.48,
+                35.46,
+                32.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

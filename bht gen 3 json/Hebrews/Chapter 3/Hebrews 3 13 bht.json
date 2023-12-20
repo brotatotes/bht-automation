@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:15",
+    "verseRef": "Hebrews 3:13",
+    "bestBHT": {
+        "bht": "Let us exhort ourselves and one another within the church, for we have the power to help and encourage towards salvation. We must not be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; we must not delay in pursuing righteousness. This is the day of grace, where salvation through Christ is attainable, but we must be vigilant against the trickery of sin. Let us exhort and comfort one another daily, while it is still called Today, for this opportunity will not last forever.",
+        "wordCount": 96,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.8474545354243785,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+        "commentatorTierSimilarities": [
+            31.96,
+            33.15,
+            34.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But exhort yourselves (so, in a literal rendering, should the word be given, and not 'one another,' though English idiom may require this latter in a version intended for use.",
+            "In the church one should exhort another: yet not excluding the implication, that each one should himself be exhorted by his exhortation of the church.",
+            "That from among you (emphatic, as contradistinguished from 'your fathers' ver. 9) no one be hardened (as they, ver. 8) by deceit of (arising out of, belonging to) his sin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To-morrow is Satan's to-day; he cares not what good resolutions you form, if only you fix them for to-morrow.",
+            "That from among you no one be hardened.",
+            "Deceitfulness\u2014causing you to 'err in your heart.'"
+        ],
+        "Albert Barnes": [
+            "While this is the special duty of the ministers of the gospel, it is also the duty of all the members of the churches, and a most important, but much-neglected duty.",
+            "There is a vast amount of 'spiritual capital' of this kind in the church that is unemployed, and that might be made eminently useful in helping others to heaven.",
+            "Sin is always deceitful. It promises more than it performs. It assures us of pleasure which it never imparts. It leads us on beyond what was supposed when we began to indulge in it."
+        ],
+        "Marvin Vincent": [
+            "It is the day of grace, while salvation through Christ is still attainable.",
+            "The warning is against being hardened by a trick which their sin may play them.",
+            "The particular deceit in this case would be the illusion of faithfulness to the past."
+        ],
+        "John Calvin": [
+            "Unless our faith be now and then raised up, it will lie prostrate; unless it be warmed, it will be frozen; unless it be roused, it will grow torpid.",
+            "We must then meet this danger in due time, and it is one that is nigh us all, for nothing is more possible than to be deceived; and from this deception comes at length hardness of heart.",
+            "The seasonable time will not continue always, if we be too slothful to follow when the Lord calls us. God knocks at our door; unless we open to him he will no doubt in his turn close against us the gate of his kingdom."
+        ],
+        "Philip Schaff": [
+            "The word \u2018exhort,\u2019 moreover, includes all the kinds of help, consolation, encouragement, rebuke, which the Christian life needs.",
+            "While as long as \u2018the today\u2019 is called sounded in your hearing, so long as the warning lasts, and the need for it, let there be circumspection and wariness.",
+            "The deceitfulness of sin. All sin has this quality (comp. Romans 7:9; Romans 7:11), and especially the sin of unbelief, which is the sin of this context."
+        ],
+        "Archibald T. Robertson": [
+            "The only instance in the N.T. of this conjunction (\u03b1\u03c7\u03c1 or \u03b1\u03c7\u03c1\u03b9\u03c2 or \u03b1\u03c7\u03c1\u03b9\u03c2 \u03bf\u03c5, etc.) with the present indicative in the sense of 'so long as' or 'while' like \u03b5\u03c9\u03c2.",
+            "Lest any one of you be hardened (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03c3\u03ba\u03bb\u03b7\u03c1\u03c5\u03bd\u03b8\u03b7 \u03c4\u03b9\u03c2 \u03b5\u03be \u03c5\u03bc\u03c9\u03bd).",
+            "Apostasy (Hebrews 12:4) is their peril and it is a trick of sin."
+        ],
+        "John Gill": [
+            "The saints may [comfort] one another...by discoursing together about divine things.\" ",
+            "And though the business of exhortation greatly belongs to ministers of the word, yet it ought not to be neglected by private believers.",
+            "This is to be done 'daily', every day, as often as there is an occasion, and an opportunity for it."
+        ],
+        "John Wesley": [
+            "To prevent it, exhort one another, while it is called To-day.",
+            "This to-day will not last for ever.",
+            "The day of life will end soon, and perhaps the day of grace yet sooner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us exhort ourselves and one another, for within the church we find the power to help and encourage one another towards salvation. We must not allow ourselves to be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; let us not delay in pursuing righteousness. We are living in the day of grace, where salvation through Christ is still attainable, but we must be vigilant against the trickery of sin. The danger of apostasy is ever present, and it is a trap that sin sets for us. Therefore, we must exhort and comfort one another, daily, while it is still called Today, for this opportunity will not last forever. The day of life will end soon, and the day of grace may end even sooner.",
+            "wordCount": 138,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.846647714092716,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                30.5,
+                32.56,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us exhort ourselves and one another in the church, for within lies the power to help and encourage towards salvation. We must not be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; let us not delay in pursuing righteousness. We are living in the day of grace, where salvation through Christ is attainable, but we must be vigilant against the trickery of sin. The danger of apostasy is ever present, and it is a trap set by sin. Therefore, let us exhort and comfort one another daily, while it is still called Today, for this opportunity will not last forever.",
+            "wordCount": 114,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.8652156979311836,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+            "commentatorTierSimilarities": [
+                32.86,
+                33.83,
+                33.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us exhort ourselves and one another within the church, for we have the power to help and encourage towards salvation. We must not be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; we must not delay in pursuing righteousness. This is the day of grace, where salvation through Christ is attainable, but we must be vigilant against the trickery of sin. Let us exhort and comfort one another daily, while it is still called Today, for this opportunity will not last forever.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8474545354243785,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                31.96,
+                33.15,
+                34.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us exhort ourselves and one another within the church, for we have the power to help and encourage towards salvation. We must not be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; we must not delay in pursuing righteousness. This is the day of grace, where salvation through Christ is attainable, but we must be vigilant against the trickery of sin. Let us exhort and comfort one another daily, while it is still called Today, for this opportunity will not last forever.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8474545354243785,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                31.96,
+                33.15,
+                34.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us exhort ourselves and one another within the church, for we have the power to help and encourage towards salvation. We must not be deceived by the deceitfulness of sin, allowing it to harden our hearts and lead us astray. Tomorrow is Satan's today; we must not delay in pursuing righteousness. This is the day of grace, where salvation through Christ is attainable, but we must be vigilant against the trickery of sin. Let us exhort and comfort one another daily, while it is still called Today, for this opportunity will not last forever.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8474545354243785,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                31.96,
+                33.15,
+                34.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

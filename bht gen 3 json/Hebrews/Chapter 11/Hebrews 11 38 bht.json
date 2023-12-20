@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:50:35",
+    "verseRef": "Hebrews 11:38",
+    "bestBHT": {
+        "bht": "Cast out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves, taking refuge in the very earth. The world's rejection of them exposed its own unworthiness, for it shut out a source of blessing. In condemning these righteous ones, the world condemned itself. Like lost sheep, they sought shelter in the chinks of the earth, enduring hardships as they journeyed. Such was the wickedness of the world that it did not deserve to have these holy men among its midst.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.8693323022524357,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+        "commentatorTierSimilarities": [
+            42.9,
+            25.03,
+            32.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The world, by casting them out and persecuting them, proved that it was not fit to have them in it: condemned itself, in condemning them.",
+            "The Holy Land was especially calculated, by its geological formation, and its wildernesses, to afford shelter to persecuted persons.",
+            "They wandered in deserts, and mountains, and caves, and the chinks of the earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The world was not worthy of them.\" ",
+            "The world, in shutting them out, shut out from itself a source of blessing.",
+            "In condemning them, the world condemned itself."
+        ],
+        "Albert Barnes": [
+            "The world was so wicked that it had no claim that such holy men should live in it.",
+            "This is a most beautiful expression. It is at once a statement of their eminent holiness, and of the wickedness of the rest of mankind.",
+            "This is a description of persons driven away from their homes, and wandering about from place to place to procure a scanty subsistence."
+        ],
+        "John Calvin": [
+            "The world was not worthy of them; for wherever God's servants come, they bring with them his blessing like the fragrance of a sweet odor.",
+            "Though then the world may cast out God's servants as offscourings, it is yet to be regarded as one of its judgments that it cannot bear them; for there is ever accompanying them some blessing from God.",
+            "Let us know that we go forth from a fatal gulf, and that God thus provides for our safety, so that we may not sink in the same destruction."
+        ],
+        "Philip Schaff": [
+            "Hebrews 11:38. . . . In caves (clefts of the mountain, ending in chambers); in holes, openings of any kind true of Elijah at Horeb, of Elisha at Carmel, and of the prophets hidden by Obadiah.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Of whom the world was not worthy... a phrase to stir the blood of the readers.",
+            "Wandering... like lost sheep, hunted by wolves.",
+            "Caves... as in Matthew 21:13. Holes... opening, in N.T. only here and James 3:11."
+        ],
+        "John Gill": [
+            "Of whom the world was not worthy...",
+            "they wandered in deserts, and in mountains, and in dens and caves of the earth...",
+            "remembering that not long afore they had held the feast of the tabernacles, when as they wandered in the mountains and dens like beasts."
+        ],
+        "John Wesley": [
+            "Of whom the world was not worthy \u2014 It did not deserve so great a blessing.",
+            "They wandered \u2014 Being driven out from men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Driven out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves, finding shelter in the very earth. The world, in condemning them, ultimately condemned itself, as it shut out a source of blessing. Their righteousness and the wickedness of the world were clearly juxtaposed, showing that the world was not worthy of such holy ones. They were like lost sheep, hunted by wolves, seeking refuge in the clefts of mountains and in various openings. The world's rejection of God's servants was not only a judgment on itself but also a testament to the accompanying blessings that these servants brought with them.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.894171722391777,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                40.52,
+                25.65,
+                33.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves, finding shelter in the very earth. The world, in condemning them, proved its own unworthiness, for they brought with them the blessings of God wherever they went. By casting them out, the world shut out a source of blessing, demonstrating its own moral bankruptcy. These righteous souls, like lost sheep, sought refuge in the clefts of mountains and various openings, enduring the hardships of their wandering existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8381776492364517,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                40.22,
+                27.3,
+                32.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Cast out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves, taking refuge in the very earth. The world's rejection of them exposed its own unworthiness, for it shut out a source of blessing. In condemning these righteous ones, the world condemned itself. Like lost sheep, they sought shelter in the chinks of the earth, enduring hardships as they journeyed. Such was the wickedness of the world that it did not deserve to have these holy men among its midst.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8693323022524357,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                42.9,
+                25.03,
+                32.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves. The condemnation they faced only revealed the world's own unworthiness, for it rejected a source of blessing. Cast aside by the world, they sought refuge in the chinks of the earth, enduring the hardships of their journey. It was clear that the wickedness of the world could not tolerate the presence of such righteous individuals. In their exile, they resembled lost sheep, constantly hunted by predators.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7407417731289412,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                42.22,
+                25.49,
+                32.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven out and persecuted by the world, these holy individuals wandered through deserts, mountains, and caves, finding shelter in the very earth itself. Their righteousness only exposed the world's unworthiness, as it shut out a source of blessing. They were condemned by the world, but in doing so, the world condemned itself. In their exile, they were like lost sheep, hunted by wolves, seeking refuge in the clefts of mountains and various openings. It is clear that the wickedness of the world did not deserve these pious souls among them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8613302212028608,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                42.42,
+                25.06,
+                32.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

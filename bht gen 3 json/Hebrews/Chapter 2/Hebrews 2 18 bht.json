@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 17:46:37",
+    "verseRef": "Hebrews 2:18",
+    "bestBHT": {
+        "bht": "For He Himself having been tempted in that which He hath suffered, He is able to succour them that are (now) tempted. The ability to succour here is not to be understood of the power to which the Lord has been exalted through death and suffering to be a Prince and a Saviour,\u2014but of the power of sympathy acquired by personal experience of our sufferings. He is able to succor them that are being tempted in the same temptation, knowing our trials not only as God but also as man through experimental feeling.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.5149142649805745,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.96,
+        "commentatorTierSimilarities": [
+            38.49,
+            23.72,
+            37.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For He Himself having been tempted in that which He hath suffered, He is able to succour them that are (now) tempted.\" ",
+            "The ability to succour here is not to be understood of the power to which the Lord has been exalted through death and suffering to be a Prince and a Saviour,\u2014which is not here in question: but of the power of sympathy which he has acquired by personal experience of our sufferings.\" ",
+            "And by this, wonderful as it may seem, He has acquired a fresh power, that of sympathy with us, and, in consequence, of helping us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is able to succor them that are being tempted\" in the same temptation. ",
+            "He is able (by the power of sympathy) to succor us in all possible temptations and trials incidental to man.",
+            "Not only as God He knows our trials, but also as man He knows them by experimental feeling."
+        ],
+        "Albert Barnes": [
+            "That he suffered more - infinitely more - than we can do, and that in all our sorrows we shall never reach what he endured.",
+            "He is to us 'a brother,' for he 'is not ashamed to call us brethren.'",
+            "Go not, suffering Christian, to philosophy; attempt not to deaden your feelings by the art of the Stoic; but go at once to the Saviour - the great, sympathizing High Priest, who is able to succour you - and rest your burdens on him."
+        ],
+        "Marvin Vincent": [
+            "Christ is the succored of the tempted because he has himself been tempted.\" ",
+            "The emphasis is on having been tempted.\" ",
+            "In that which he suffered."
+        ],
+        "John Calvin": [
+            "For in that he himself has suffered, etc. Having been tried by our evils, he is ready, he says, to bring us help.\" ",
+            "The word temptation here means no other thing than experience or probation.\" ",
+            "And to be able, is to be fit, or inclined, or suitable."
+        ],
+        "Philip Schaff": [
+            "In that he suffered, being tempted, is on the whole the best rendering of the Greek.",
+            "The wider the meaning we give the words, the greater the justice that is done by them to the completeness of the fitness of Christ to win our confidence and to help us by His sympathy and grace.",
+            "It may aid the reader of this Epistle to gather lessons for himself if we note briefly some of the hints which are suggested by these first two chapters doctrinal, practical, and homiletic."
+        ],
+        "Archibald T. Robertson": [
+            "Christ's power to help is due not merely to his deity as God's Son, but also to his humanity without which he could not sympathize with us.\" ",
+            "This word strikes the heart of it all.\" ",
+            "Jesus understands himself their predicament and is able to help them to be faithful."
+        ],
+        "John Gill": [
+            "These temptations were very troublesome, and disagreeable, and abhorrent to the pure and holy nature of Christ, and so must be reckoned among his sufferings, or things by which he suffered.",
+            "He was often tempted by the Jews with ensnaring questions; he was deserted by his followers, by his own disciples, yea, by his God and Father; all which were great trials to him, and must be accounted as sufferings.",
+            "And these Christ succours, by having and showing a fellow feeling with them; by praying for them; by supporting them under temptations; by rebuking the tempter, and delivering out of them: and all this he is able to do; he must be able to succour them as he is God."
+        ],
+        "John Wesley": [
+            "For in that he hath suffered being tempted himself he is able to succour them that are tempted \u2014 That is, he has given a manifest, demonstrative proof that he is able so to do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "For He Himself having been tempted in that which He hath suffered, He is able to succour them that are (now) tempted. The ability to succour here is not to be understood of the power to which the Lord has been exalted through death and suffering to be a Prince and a Saviour,\u2014which is not here in question: but of the power of sympathy which he has acquired by personal experience of our sufferings. By this, wonderful as it may seem, He has acquired a fresh power, that of sympathy with us, and, in consequence, of helping us. He is able to succor them that are being tempted in the same temptation. Not only as God He knows our trials, but also as man He knows them by experimental feeling. Christ is the succored of the tempted because he has himself been tempted. Jesus understands himself their predicament and is able to help them to be faithful.",
+            "wordCount": 158,
+            "quoteTokenProportion": 48.05,
+            "qualityScore": 2.4006189332842807,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.16,
+            "commentatorTierSimilarities": [
+                40.72,
+                23.3,
+                35.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For He Himself having been tempted in that which He hath suffered, He is able to succour them that are (now) tempted. The ability to succour here is not to be understood of the power to which the Lord has been exalted through death and suffering to be a Prince and a Saviour,\u2014but of the power of sympathy acquired by personal experience of our sufferings. He is able to succor them that are being tempted in the same temptation, knowing our trials not only as God but also as man through experimental feeling.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.5149142649805745,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.96,
+            "commentatorTierSimilarities": [
+                38.49,
+                23.72,
+                37.79
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

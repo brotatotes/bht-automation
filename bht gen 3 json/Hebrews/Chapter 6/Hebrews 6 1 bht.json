@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:01",
+    "verseRef": "Hebrews 6:1",
+    "bestBHT": {
+        "bht": "Let us press on to maturity by leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. Like a builder leaving the foundation in erecting a building, it is important for us to have a firm foundation, but we must not remain stuck only in laying the foundation. Instead, let us go on to the stage of adults, able to digest solid spiritual food and press forward in our faith, leaving the rudiments behind and striving for a more perfect knowledge of God's truth.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.825373840483588,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+        "commentatorTierSimilarities": [
+            33.9,
+            30.44,
+            35.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "let us press on to maturity",
+            "repentance from dead works, and faith on God",
+            "the doctrine of washings and of laying on of hands"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As in building a house one must never leave the foundation: yet to be always laboring in 'laying the foundation' would be ridiculous\" [CALVIN].",
+            "Let us together press forward\" implying active exertion: press on.",
+            "The matured knowledge of those who are 'of full age' in Christian attainments."
+        ],
+        "Albert Barnes": [
+            "The apostle here, therefore, does not refer to his discussion of the points under consideration as the main thing, but to their state as one of danger; and in writing to them he was not content to discuss the elements of religion as being alone suited to their condition, but would have them make higher attainments, and advance to the more elevated principles of the gospel.",
+            "They were not to make it necessary to lay down again the very cornerstones, and the foundations of the edifice, but since these were laid already, they were to go on and build the superstructure and complete the edifice.",
+            "Religion is life; and irreligion is a state of spiritual death, (compare the notes on Ephesians 2:1), whether it be in open transgression, or in false and hollow forms of religion."
+        ],
+        "Marvin Vincent": [
+            "Leaving them 'as a builder leaves his foundation in erecting his building.'\" ",
+            "Let us be born on to completeness.",
+            "There is a sharp opposition between dead works and faith."
+        ],
+        "John Calvin": [
+            "For by the word of beginning he understands the first rudiments, taught to the ignorant when received into the Church. Now, he bids them to leave these rudiments, not that the faithful are ever to forget them, but that they are not to remain in them.",
+            "He would have our faith to be at first so founded as afterwards to rise upwards, until by daily progress it be at length completed.",
+            "To turn back to them again was nothing else but to retrograde."
+        ],
+        "Archibald T. Robertson": [
+            "Leaving behind the discussion of the beginning about Christ.",
+            "Let us go on to the stage of adults, not babes, able to masticate solid spiritual food.",
+            "The metaphor is common (1 Corinthians 3:11) and the foundation is important, but one cannot be laying the foundation always if he is to build the house."
+        ],
+        "John Gill": [
+            "Let us go on to perfection: in a comparative sense, to a more perfect knowledge of things, which the clear revelation and ministry of the Gospel lead unto; and which the rites and ceremonies, types and figures of the law, never could.",
+            "The phrase, 'not laying again the foundation,' is to be read in connection, not only with this article of repentance, but with each of the other five articles, the foundation of which is no more to be laid again than this.",
+            "But now, under the Gospel dispensation, believing Jews, as these were to whom the apostle writes, were not to learn the doctrine of repentance from slain beasts, or to signify it in this way; since repentance and remission of sins were preached most clearly to them in the name of Christ."
+        ],
+        "John Wesley": [
+            "Therefore leaving the principles of the doctrine of Christ... Let us go on to perfection.\" ",
+            "Not laying again the foundation of repentance from dead works... And faith in God.\" ",
+            "After which they were more fully instructed, touching the resurrection, and the general judgment; called eternal, because the sentence then pronounced is irreversible, and the effects of it remain for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us press on to maturity by leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. It is important to have a firm foundation, like a builder leaving the foundation in erecting a building, but we must not keep laboring in laying the foundation and never progressing. Instead, let us go on to the stage of adults, able to digest solid spiritual food, and press forward in our faith. We should not turn back to the rudiments but go on to perfection, a more perfect knowledge of things that the clear revelation and ministry of the Gospel lead unto.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.753180921020894,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+            "commentatorTierSimilarities": [
+                31.78,
+                29.3,
+                38.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us press on to maturity by leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. It is important to have a firm foundation, like a builder leaving the foundation in erecting a building, but we must not keep laboring in laying the foundation and never progressing. Instead, let us go on to the stage of adults, able to digest solid spiritual food, and press forward in our faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7814277827824894,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.57,
+            "commentatorTierSimilarities": [
+                35.89,
+                29.19,
+                34.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us press on to maturity by leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. Like a builder leaving the foundation in erecting a building, it is important for us to have a firm foundation, but we must not remain stuck only in laying the foundation. Instead, let us go on to the stage of adults, able to digest solid spiritual food and press forward in our faith, leaving the rudiments behind and striving for a more perfect knowledge of God's truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.825373840483588,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+            "commentatorTierSimilarities": [
+                33.9,
+                30.44,
+                35.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us press on to maturity, leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. It is crucial to have a firm foundation, but we must not be stuck in constantly laying it. Instead, let us advance to the stage of adults, able to digest solid spiritual food, and move forward in our faith. We should leave the rudiments behind and strive for a more perfect knowledge of God's truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6539626152932,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                33.85,
+                30.27,
+                35.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us press on to maturity by leaving behind the discussion of the beginning and the doctrines of washings and laying on of hands. It is important to have a firm foundation, like a builder leaving the foundation when erecting a building, but we must not remain in that stage indefinitely. Instead, let us go on to the stage of adults, able to digest solid spiritual food and press forward in our faith, leaving behind the rudiments and striving for a more perfect knowledge of God's truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7848780585554873,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                34.01,
+                29.23,
+                36.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

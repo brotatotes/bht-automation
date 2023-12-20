@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:49:11",
+    "verseRef": "Hebrews 9:18",
+    "bestBHT": {
+        "bht": "The Old Testament, the first covenant, became a testament through the dedication and ratification that necessitated the shedding of blood. This shedding of blood signified the agreement between God and His people and foreshadowed the ratification of the new covenant through Christ's blood. Without the shedding of blood, the covenant would lack validity and efficacy, indicating the essentiality of Christ's sacrifice. Viewed as a representation of the new covenant, the old covenant served as a reminder of God's majesty, with access to His presence obtained through Christ's blood.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 2.5229828522786875,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.23,
+        "commentatorTierSimilarities": [
+            27.38,
+            31.86,
+            40.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because death must precede the validity of a testament.",
+            "Neither has the first (testament) been inaugurated without blood.",
+            "Apart from the exhibition of blood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Old Testament strictly and formally began on that day of inauguration.",
+            "Where the disposition, or arrangement, is ratified by the blood of another, namely, of animals, which cannot make a covenant, much less make a testament, it is not strictly a testament, where it is ratified by the death of him that makes the arrangement, it is strictly... a testament.",
+            "The old dispensation, regarded by itself, is not a testament, but it is so when regarded as the typical representative of the new, which is strictly a Testament."
+        ],
+        "Albert Barnes": [
+            "The admitted principle which the apostle had stated, that the death of the victim was necessary to confirm the covenant, was the 'reason' why the first covenant was ratified with blood.",
+            "Here the reasoning of Paul is clear and explicit; but who could see the force of the former?",
+            "It was not on the basis of such reasoning as this...but by such reasoning as this: 'It is a great principle that in order to ratify a covenant between God and his people a victim should be slain, therefore it was that Moses ratified the old covenant in this manner, and 'therefore' it was also that the death of a victim was necessary under the new dispensation.'"
+        ],
+        "Marvin Vincent": [
+            "Neither the first testament was dedicated without blood.\" ",
+            "Wherefore, the first covenant was ratified by slaying victims and sprinkling their blood.\" ",
+            "Not even the first covenant, although its ministries did not perfect the worshipper as touching the conscience."
+        ],
+        "John Calvin": [
+            "He hence concludes, that men were even then reminded, that it could not be valid and efficacious except death intervened.",
+            "For the majesty of God is justly to be dreaded by us, and the way to his presence is nothing to us but a dangerous labyrinth, until we know that he is pacified towards us through the blood of Christ.",
+            "So doctrine itself, however unchangeable may be the will of God, cannot be efficacious for our benefit, unless it be dedicated by blood, as is plainly set forth in this verse."
+        ],
+        "Philip Schaff": [
+            "Whence neither hath the first covenant been inaugurated (or ratified) without blood.",
+            "All solemn covenants under the Law were made valid by the death of a victim which represented the covenanting persons, and pledged them on peril of their lives to faithfulness.",
+            "If the rendering 'testament' is preferred, and 'testator,' it is best to regard Hebrews 9:16-17 as an illustrative argument, a parallel case, suggested partly by the mention of an inheritance and partly by the double meaning of the Greek word (covenant or testament)."
+        ],
+        "Archibald T. Robertson": [
+            "The first covenant has been dedicated. Stands dedicated.",
+            "It means to renew, to inaugurate and in 1 Kings 8:63 to dedicate.",
+            "Note \u03c4\u03b1 \u03b5\u03bd\u03ba\u03b1\u03b9\u03bd\u03b9\u03b1 (John 10:22) for the feast of dedication."
+        ],
+        "John Gill": [
+            "That dispensation being a typical one; and that blood was typical of the blood of Christ, by which the new covenant or testament is ratified.\" "
+        ],
+        "John Wesley": [
+            "Whence neither was the first \u2014 The Jewish covenant, originally transacted without the blood of an appointed sacrifice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of how the first covenant, the Old Testament, was ratified and dedicated through the shedding of blood. Without the exhibition of blood, the covenant would not have been valid. The death of a victim was necessary to confirm the covenant and signify the agreement between God and His people. The first covenant, though imperfect in its ability to perfect the worshipper, was dedicated and stands dedicated. This dedication and ratification through blood foreshadows the blood of Christ, which ratifies the new covenant. The shedding of blood is a reminder that God's majesty is to be feared and His presence is accessed through the blood of Christ, making the doctrine efficacious for our benefit.",
+            "wordCount": 117,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.3986333113724685,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.09,
+            "commentatorTierSimilarities": [
+                27.89,
+                33.02,
+                39.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first covenant, the Old Testament, was strictly a testament when viewed as the typical representative of the new covenant. Its dedication and ratification required the shedding of blood, symbolizing the agreement between God and His people. This dedication through blood foreshadows the efficacy of the blood of Christ in ratifying the new covenant. The shedding of blood serves as a solemn reminder of God's majesty and the necessity of Christ's sacrifice to access His presence and make the doctrine efficacious for our benefit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.3300330970787404,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.81,
+            "commentatorTierSimilarities": [
+                28.32,
+                31.37,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first covenant, the Old Testament, was not strictly a testament but became one through the dedication and ratification that required the shedding of blood. This shedding of blood highlighted the agreement between God and His people, and it serves as a reminder that God's majesty demands reverence. The blood of Christ fulfills and ratifies the new covenant, making the doctrine efficacious for our benefit. Without the shedding of blood, the covenant would lack validity and efficacy, emphasizing the crucial role of Christ's sacrifice.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.374833808651341,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.3,
+            "commentatorTierSimilarities": [
+                27.3,
+                31.24,
+                41.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first covenant, the Old Testament, was not a testament in itself, but could be considered one when viewed as a representation of the new covenant. Its dedication and ratification required the shedding of blood, which symbolized the agreement between God and His people. In contrast to the old covenant, the shedding of Christ's blood in the new covenant brings efficacy and validity to the doctrine. Without the shedding of blood, the covenant would lack effectiveness, highlighting the necessity of Christ's sacrifice.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.4254253166600943,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.99,
+            "commentatorTierSimilarities": [
+                27.28,
+                31.86,
+                40.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Old Testament, the first covenant, became a testament through the dedication and ratification that necessitated the shedding of blood. This shedding of blood signified the agreement between God and His people and foreshadowed the ratification of the new covenant through Christ's blood. Without the shedding of blood, the covenant would lack validity and efficacy, indicating the essentiality of Christ's sacrifice. Viewed as a representation of the new covenant, the old covenant served as a reminder of God's majesty, with access to His presence obtained through Christ's blood.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.5229828522786875,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.23,
+            "commentatorTierSimilarities": [
+                27.38,
+                31.86,
+                40.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

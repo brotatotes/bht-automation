@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:51:12",
+    "verseRef": "Hebrews 13:12",
+    "bestBHT": {
+        "bht": "Jesus, through His own blood, suffered outside the gate to sanctify and consecrate the people to God. His blood cleanses them and makes them holy, as it is brought into the heavenly sanctuary. His suffering on the cross and the carrying of His blood into the heavenly holiest, at His ascension, is the means by which He accomplishes His atoning work. Jesus voluntarily chose to suffer outside the city, fulfilling the purpose of His mission and sanctifying His people.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.12553543125558,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+        "commentatorTierSimilarities": [
+            32.83,
+            29.71,
+            37.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus also, that He might sanctify the people through His own blood, suffered outside the gate.",
+            "So then let us go forth to Him outside the camp.",
+            "Bearing His reproach."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His blood has been brought into the heavenly sanctuary, and 'sanctifies the people' by cleansing them from sin, and consecrating them to God.\" ",
+            "The fiery ordeal of His suffering on the cross answers to the burning of the victims; thereby His mere fleshly life was completely destroyed, as their bodies were.",
+            "The second part of His offering was His carrying His blood into the heavenly holiest before God at His ascension, that it should be a perpetual atonement for the world\u2019s sin."
+        ],
+        "Albert Barnes": [
+            "It is implied here that it was voluntary on the part of Jesus that he suffered out of the city; that is, it was so ordered by Providence that it should be so.",
+            "His death was effected with more deliberation, and in the usual form. Hence, he was conducted out of the city, because no criminal was executed within the walls of Jerusalem.",
+            "The place where he was put to death was called Golgotha, the place of a skull, and hence, the Latin word which we commonly use in speaking of it, Calvary."
+        ],
+        "Marvin Vincent": [
+            "For Christ's work he claims the same efficacy which the Jew claimed for the special call of God to Israel, and for the operation of the Jewish sacrificial system.",
+            "The office of his atoning work is to sanctify; to make for himself a holy nation, a people 'prepared for the Lord.'",
+            "Gate is substituted for camp, as more appropriate to a city."
+        ],
+        "Archibald T. Robertson": [
+            "The purpose of Jesus is shown...the means employed...the place of his suffering...\" ",
+            "By his own blood...",
+            "Outside the gate..."
+        ],
+        "John Gill": [
+            "that he might sanctify the people with his own blood: by 'the people' are meant the people who are the objects of divine love and favour",
+            "Christ's own special people, by the gift of his Father to him",
+            "Christ with his own blood, which he was, really, a partaker of; and his human nature, being in union with his divine person, as the Son of God, it had a virtue in it, to sanctify and cleanse from all sin"
+        ],
+        "John Wesley": [
+            "Wherefore Jesus also \u2014 Exactly answering those typical sin - offerings.",
+            "Suffered without the gate \u2014 Of Jerusalem, which answered to the old camp of Israel.",
+            "That he might sanctify \u2014 Reconcile and consecrate to God the people who believe in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, through His own blood, suffered outside the gate to sanctify and consecrate the people to God. His blood, brought into the heavenly sanctuary, cleanses them from sin and makes them holy. His suffering on the cross and the carrying of His blood into the heavenly holiest, at His ascension, is the means by which He accomplishes His atoning work. Jesus voluntarily chose to suffer outside the city, fulfilling the purpose of His mission, and sanctifying His people. His death outside the gate, in Golgotha, symbolizes the deliberate nature of His sacrifice. Through His blood, Jesus reconciles and consecrates those who believe in Him, fulfilling the typology of the sin-offerings.",
+            "wordCount": 111,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.1200224043856126,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                31.67,
+                31.2,
+                37.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, through His own blood, suffered outside the gate to sanctify and consecrate the people to God. His blood cleanses them and makes them holy, as it is brought into the heavenly sanctuary. His suffering on the cross and the carrying of His blood into the heavenly holiest, at His ascension, is the means by which He accomplishes His atoning work. Jesus voluntarily chose to suffer outside the city, fulfilling the purpose of His mission and sanctifying His people.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.12553543125558,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                32.83,
+                29.71,
+                37.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in order to sanctify the people with His own blood, suffered outside the gate. His blood cleanses and consecrates, brought into the heavenly sanctuary. The means of His atoning work was His suffering on the cross and carrying His blood into the heavenly holiest. His voluntary choice to suffer outside the city fulfilled His purpose and sanctified His people.",
+            "wordCount": 60,
+            "quoteTokenProportion": 28.95,
+            "qualityScore": 2.1073266342025674,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                32.19,
+                32.55,
+                35.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sanctifies the people through His own blood, suffering outside the gate. His blood cleanses and consecrates, brought into the heavenly sanctuary. His atoning work is to sanctify and prepare a holy nation for the Lord. His voluntary suffering outside the city is the means by which He accomplishes this, fulfilling the purpose and place of His sacrifice.",
+            "wordCount": 58,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9515503813130646,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                34.44,
+                29.62,
+                35.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus suffered outside the gate to sanctify the people through His own blood. His blood cleanses and consecrates, bringing it into the heavenly sanctuary. His sacrifice on the cross, and carrying His blood into the heavenly holiest, is the means by which He accomplishes His atoning work. His voluntary choice to suffer outside the city fulfills the purpose of His mission and sanctifies the people, making them prepared for the Lord.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.0454337439627652,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                33.86,
+                28.99,
+                37.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

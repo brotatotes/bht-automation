@@ -1,0 +1,100 @@
+{
+    "timestamp": "12-19-2023 17:47:16",
+    "verseRef": "Hebrews 4:9",
+    "bestBHT": {
+        "bht": "Therefore... there is yet reserved... a keeping of sabbath... for the people of God. God's rest was a keeping of sabbath: so also will ours be. The Sabbath rest points back to God's original rest, and marks the ideal rest - the rest of perfect adjustment of all things to God. Into that rest all enter who believe, and it is the consummation of the new creation in Christ. It is the rest that has never been fully appropriated by humanity, but still remains for the people of God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 2.6906098551143836,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.8,
+        "commentatorTierSimilarities": [
+            32.99,
+            32.56,
+            34.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Therefore... there is yet reserved... a keeping of sabbath... for the people of God.\" ",
+            "God's rest was a keeping of sabbath: so also will ours be.",
+            "It is hardly probable that the sacred Writer had in his mind the object which Calvin mention: 'I doubt not that the Apostle purposely alludes to the Sabbath, to dissuade the Jews from its outward observance: for thus only can its abrogation be understood, by understanding its spiritual end.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In time there are many Sabbaths, but then there shall be the enjoyment and keeping of a Sabbath-rest: one perfect and eternal.\" ",
+            "The 'rest' in Hebrews 4:6- is Greek, 'catapausis;' Hebrew, 'Noah'; rest from weariness, as the ark rested on Ararat after its tossings to and fro; and as Israel, under Joshua, enjoyed at last rest from war in Canaan.",
+            "Rest from weariness, sorrow, and sin; and rest in the completion of God's new creation. The whole renovated creation shall share in it; nothing will there be to break the Sabbath of eternity; and the Triune God shall rejoice in the work of His hands."
+        ],
+        "Albert Barnes": [
+            "That heaven is a place of cessation from wearisome toil...In the wearisome toils of life, then, let us look forward to the 'rest' that remains in heaven.",
+            "Heaven will be like a Sabbath...The Sabbath is appointed that we may lay aside worldly cares and anxieties for a little season here; heaven that we may lay them aside forever.",
+            "They who do not love the Sabbath on earth, are not prepared for heaven...if we have no such happiness in a season of holy rest, and in holy employments here, we are wholly unprepared for heaven."
+        ],
+        "Marvin Vincent": [
+            "Man's portion in the divine rest inaugurated at creation has never been really appropriated : but it still remaineth.",
+            "The Sabbath rest points back to God's original rest, and marks the ideal rest - the rest of perfect adjustment of all things to God.",
+            "The Sabbath-rest is the consummation of the new creation in Christ, through whose priestly mediation reconciliation with God will come to pass."
+        ],
+        "Philip Schaff": [
+            "Therefore there remains a sacred rest, a Sabbath-rest, for the people of God.",
+            "The use of the word Sabbath in this sense for the rest which God provides under the Gospel was quite familiar to the Jews.",
+            "Into that rest all enter who believe."
+        ],
+        "Archibald T. Robertson": [
+            "A sabbath rest (\u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03c2). Late word from \u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03b9\u03b6\u03c9 (Exodus 16:30) to keep the Sabbath, apparently coined by the author.",
+            "Here it is parallel with \u03ba\u03b1\u03c4\u03b1\u03c0\u03b1\u03c5\u03c3\u03b9\u03c2 (cf. Revelation 14:13).",
+            "For the people of God (\u03c4\u03c9 \u03bb\u03b1\u03c9 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Dative case of blessed personal interest to the true Israel (Galatians 6:16)."
+        ],
+        "John Gill": [
+            "There remaineth therefore a rest for the people of God.",
+            "the present rest the saints now enjoy",
+            "the great sabbath"
+        ],
+        "John Wesley": [
+            "Therefore \u2014 Since he still speaks of another day, there must remain a farther, even an eternal, rest for the people of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Therefore... there is yet reserved... a keeping of sabbath... for the people of God. God's rest was a keeping of sabbath: so also will ours be. The Sabbath rest points back to God's original rest, and marks the ideal rest - the rest of perfect adjustment of all things to God. This rest is not just a temporal rest, but a rest from weariness, sorrow, and sin; and a rest in the completion of God's new creation. Into that rest all enter who believe, and it is the consummation of the new creation in Christ, through whom reconciliation with God will come to pass. It is the rest that has never been fully appropriated by humanity, but still remains as an eternal and perfect rest for the people of God.",
+            "wordCount": 132,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 2.7136466401118504,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.57,
+            "commentatorTierSimilarities": [
+                33.49,
+                31.69,
+                34.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Therefore... there is yet reserved... a keeping of sabbath... for the people of God. God's rest was a keeping of sabbath: so also will ours be. The Sabbath rest points back to God's original rest, and marks the ideal rest - the rest of perfect adjustment of all things to God. Into that rest all enter who believe, and it is the consummation of the new creation in Christ. It is the rest that has never been fully appropriated by humanity, but still remains for the people of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.6906098551143836,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.8,
+            "commentatorTierSimilarities": [
+                32.99,
+                32.56,
+                34.45
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

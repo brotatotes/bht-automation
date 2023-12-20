@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:51:17",
+    "verseRef": "Hebrews 13:15",
+    "bestBHT": {
+        "bht": "Through Him, not by means of the Jewish ritual observances, let us offer up a sacrifice of praise continually to God. In praising a creature, we may easily exceed the truth, but in praising God we have only to go on confessing what He really is to us. The sacrifice of thanksgiving is to take the place of the animal sacrifice and the fruit of our lips is a good confession to God, confessing to His name.",
+        "wordCount": 77,
+        "quoteTokenProportion": 54.0,
+        "qualityScore": 2.710645612506111,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.47,
+        "commentatorTierSimilarities": [
+            34.07,
+            30.66,
+            35.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Through Him, not by means of the Jewish ritual observances, let us offer up a sacrifice of praise continually to God.\" ",
+            "In the future age all sacrifices shall cease, but praises shall not cease.\" ",
+            "The fruit of our lips is a good confession to God, confessing to His name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the 'altar' was mentioned in Hebrews 13:10, so the 'sacrifices' here, namely, praise and doing good.",
+            "By him\u2014as the Mediator of our prayers and praises.",
+            "In praising a creature, we may easily exceed the truth; but in praising God we have only to go on confessing what He really is to us."
+        ],
+        "Albert Barnes": [
+            "Let us persevere in offering through him praise to God.",
+            "The sacrifice of praise - For all the mercies of redemption.",
+            "Praise now is one of the great duties of the redeemed. It will be their employment forever."
+        ],
+        "Marvin Vincent": [
+            "The sacrifice of thanksgiving is to take the place of the animal sacrifice.",
+            "For the emphasis on thanksgiving in N. T.",
+            "The Rabbins had a saying, 'in the future time all sacrifices shall cease; but praises shall not cease.'"
+        ],
+        "John Calvin": [
+            "another kind of sacrifice remains for us, which no less pleases God, even the offering of the calves of our lips",
+            "the highest worship of God, justly preferred to all other exercises, when we acknowledge God\u2019s goodness by thanksgiving",
+            "God cannot be really invoked by us and his name glorified, except through Christ the mediator; for it is he alone who sanctifies our lips"
+        ],
+        "Philip Schaff": [
+            "Meanwhile our sacrifice or peace-offering is praise; 'the perpetual offering,' as even Jews described it, 'which is never to cease' the fruit, 'the calves,' of lips that are ever giving thanks to His name.",
+            "Praise, continuous praise, is the fitting recognition of an abiding Saviour and an unending salvation."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is our Priest and Sacrifice, the only efficient and sufficient one.",
+            "Let us keep on offering up a sacrifice of praise.",
+            "The fruit of lips is the confession to his name."
+        ],
+        "John Gill": [
+            "This sacrifice is not a proper, nor a propitiatory one, but spiritual and evangelical; it is enjoined by God, is well pleasing to him, and glorifies him; and is our reasonable service, that believe in Christ.",
+            "...it is to be done in imitation of him, and by his assistance; and for him, and blessings in him; and on him, as the altar, which sanctifies the gift; and through him, as the high priest and Mediator.",
+            "The apostle having shown that legal sacrifices were all superseded and abolished by the sacrifice of Christ, which is the design of this epistle, points out what sacrifice believers should offer up to God, under the Gospel dispensation; and the Jews themselves say, that 'in future time (i.e. in the days of the Messiah) all sacrifices shall cease, but \u05e7\u05e8\u05d1\u05df \u05ea\u05d5\u05d3\u05d4, 'the sacrifice of praise' shall not cease.'"
+        ],
+        "John Wesley": [
+            "The sacrifice \u2014 The altar is mentioned, Hebrews 13:10; now the sacrifices: 1. Praise; 2. Beneficence; with both of which God is well pleased."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through Christ, our High Priest and Mediator, we are called to continually offer up a sacrifice of praise to God. This sacrifice of thanksgiving takes the place of the animal sacrifices of the old Jewish rituals. It is the fruit of our lips, the confession of His name, and the acknowledgement of His goodness through Christ. This sacrifice is spiritual and evangelical, pleasing to God and glorifying Him. Praise now is not only a duty, but also a fitting recognition of our abiding Savior and our unending salvation. It is the highest worship, surpassing all other exercises, and it is our reasonable service as believers in Christ.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.371588497377794,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+            "commentatorTierSimilarities": [
+                29.84,
+                33.61,
+                36.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through Christ, our Mediator, let us continually offer up a sacrifice of praise, confessing His name and acknowledging His goodness to us. This sacrifice of thanksgiving replaces the animal sacrifices of the old Jewish rituals and is well pleasing to God. It is our reasonable service as believers and the highest worship we can offer. Praise is not only our duty, but also a fitting recognition of our eternal Savior and the unending salvation we have through Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.4580566155035575,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.07,
+            "commentatorTierSimilarities": [
+                29.19,
+                34.77,
+                36.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through Christ, our High Priest and Mediator, we are called to continually offer up a sacrifice of praise to God. This sacrifice of thanksgiving takes the place of the animal sacrifices of the old Jewish rituals. It is the fruit of our lips, the confession of His name, and the acknowledgement of His goodness through Christ. This sacrifice is spiritual and evangelical, pleasing to God and glorifying Him. Praise now is not only a duty, but also a fitting recognition of our abiding Savior and our unending salvation. It is the highest worship, surpassing all other exercises, and it is our reasonable service as believers in Christ.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.371588497377794,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+            "commentatorTierSimilarities": [
+                29.84,
+                33.61,
+                36.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through Him, let us offer up a sacrifice of praise to God, continually confessing His name and acknowledging His goodness. This sacrifice of thanksgiving replaces the old Jewish rituals, and it is spiritual and pleasing to God. Praise is not only our duty, but also a fitting recognition of our eternal Savior and unending salvation. It is the fruit of our lips, a confession that goes beyond the bounds of creature worship and faithfully proclaims the truth of who God is to us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.529592608238132,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.45,
+            "commentatorTierSimilarities": [
+                30.12,
+                35.02,
+                34.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through Him, not by means of the Jewish ritual observances, let us offer up a sacrifice of praise continually to God. In praising a creature, we may easily exceed the truth, but in praising God we have only to go on confessing what He really is to us. The sacrifice of thanksgiving is to take the place of the animal sacrifice and the fruit of our lips is a good confession to God, confessing to His name.",
+            "wordCount": 77,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 2.710645612506111,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.47,
+            "commentatorTierSimilarities": [
+                34.07,
+                30.66,
+                35.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:50:25",
+    "verseRef": "Hebrews 11:32",
+    "bestBHT": {
+        "bht": "The writer of Hebrews acknowledges the limitations of time in fully narrating the remarkable acts of faith by Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. Their faith, though imperfect, earned them commendation and allowed them to obtain promises. The vibrant tapestry of heroes, from warriors to prophets, showcases the author's embarrassment of riches in contemplating these faithful individuals who played significant roles in the history of Palestine. Their stories serve as inspirational examples of faith, despite their flaws, and highlight the goodness and bounty of God through faith.",
+        "wordCount": 91,
+        "quoteTokenProportion": 21.88,
+        "qualityScore": 1.906192308748387,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+        "commentatorTierSimilarities": [
+            36.13,
+            31.9,
+            31.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "for the time (which might be reasonable for writing an epistle) will fail me narrating (if I narrate) concerning Gideon, and Barak, and Samson, and Jephthah, and David, and Samuel, and of the prophets.",
+            "through faith, instead of 'by faith,' for the first time in the chapter, suits perhaps better the miscellaneous verbs of predication which follow, e.g. quenched the violence of fire.",
+            "they obtained promises, but not the promises which were yet future."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Just as Samson for the same reason is put before Jephth\u00e6.",
+            "The mention of Jephth\u00e6 as an example of 'faith,' makes it unlikely he sacrificed the life of his daughter for a rash vow.",
+            "David, the warrior king and prophet, forms the transition from warrior chiefs to the 'prophets,' of whom 'Samuel' is mentioned as the first."
+        ],
+        "Albert Barnes": [
+            "The apostle does not commend all which they did. He does not deny that they were very imperfect men, nor that they did many things which cannot be approved or vindicated. He commends only one thing - their faith.",
+            "Even in the great and improper sacrifice of his only daughter which the obvious interpretation of the record respecting him in Judges 11:39, leads us to suppose he made, he did it as an offering to the Lord, and under these mistaken views of duty, he showed by the greatest sacrifice which a man could make - that of an only child that he was disposed to do what he believed was required by religion.",
+            "The single reason why the piety of Jephtha has ever been called in question has been the fact that he sacrificed his own daughter. If he did not do that, no one will doubt his claims to an honored rank among those who have evinced faith in God."
+        ],
+        "John Calvin": [
+            "Thus, in all the saints, something reprehensible is ever to be found; yet faith, though halting and imperfect, is still approved by God.\" ",
+            "The Apostle declares that there are none of these things which ought not to be ascribed to faith.\" ",
+            "Since all these things were done by faith, we must feel convinced, that in no other way than by faith is God\u2019s goodness and bounty to be communicated to us."
+        ],
+        "Philip Schaff": [
+            "The groups named in this verse are really two; and though there are various readings as to the connecting particles, they necessitate no change.",
+            "Samuel is probably put last to connect his name with the prophets, to which class he belongs (see Acts 3:23).",
+            "Gideon and Samson are probably put before Barak and Jephthah respectively, because they are of greater celebrity as men of faith."
+        ],
+        "Archibald T. Robertson": [
+            "He feels helpless to go on in the same style as he has done from Abel to Rahab.",
+            "Vivid and picturesque description of the author's embarrassment of riches as he contemplates the long list of the heroes of faith during the long years in Palestine.",
+            "He mentions six names (Gideon, Barak, Samson, Jephtha, David, Samuel) and then summarizes the rest under 'the prophets' of whom Samuel was the leader."
+        ],
+        "John Gill": [
+            "...the elders, by [faith], had obtained a good report; and yet he had not said all he could; and that he had so much to say, that he could not say all",
+            "It may be observed, that many, who are not mentioned by name, do not stand excluded from being believers; and that the number of believers, under the Old Testament, was very large",
+            "[David's] faith appeared in his dependence on God, when he fought with Goliath; in encouraging himself in the Lord his God, when in exile and distress; and in believing his interest in the covenant of grace, when his house and family were in a disagreeable situation, and he just going out of the world"
+        ],
+        "John Wesley": [
+            "David also was a prophet; but he was a king too.",
+            "The prophets \u2014 Elijah, Elisha, etc., including likewise the believers who lived with them.",
+            "(None)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The author of Hebrews expresses his admiration for the heroes of faith, including Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. The writer acknowledges that time does not permit him to go into detail about all of their remarkable acts of faith, but he emphasizes that their faith was key in their lives. Although these individuals were not without their flaws and imperfections, their faith in God obtained promises and earned them a good report. Each person mentioned in Hebrews 11:32 has their unique story, from Samson's strength to David's courageous defeat of Goliath. Together, they represent a rich tapestry of faith in God throughout ancient times.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.8794037855942898,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                33.43,
+                34.32,
+                32.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews speaks of the remarkable acts of faith displayed by heroes such as Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. Although there is not enough time to elaborate on their individual stories, their faith in God was the key factor that earned them commendation. Flawed as they were, their faith enabled them to obtain promises and establish a good reputation. From Samson's strength to David's courage, these individuals bear witness to the vibrant tapestry of faith throughout history.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8643285429942384,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                33.92,
+                34.32,
+                31.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The author of Hebrews commends the heroes of faith, including Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. While time does not allow for an exhaustive account of their remarkable acts, their faith stands at the forefront. Their faith, though imperfect, led them to obtain promises and receive commendation. From Gideon's courage to David's reliance on God, these figures serve as inspiring examples of faith throughout history.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8212491253470273,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                33.85,
+                33.07,
+                33.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews expresses admiration for the heroes of faith: Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. These individuals obtained promises through their faith, even though they hadn't yet received the ultimate promises of the future. Though imperfect, their faith was commended by God. The author finds it difficult to go into detailed narratives of all these heroes, recognizing the richness of their stories and their significant contributions to the long tradition of faith in Palestine.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8380517082057044,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                35.02,
+                30.83,
+                34.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer of Hebrews acknowledges the limitations of time in fully narrating the remarkable acts of faith by Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets. Their faith, though imperfect, earned them commendation and allowed them to obtain promises. The vibrant tapestry of heroes, from warriors to prophets, showcases the author's embarrassment of riches in contemplating these faithful individuals who played significant roles in the history of Palestine. Their stories serve as inspirational examples of faith, despite their flaws, and highlight the goodness and bounty of God through faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 21.88,
+            "qualityScore": 1.906192308748387,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                36.13,
+                31.9,
+                31.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

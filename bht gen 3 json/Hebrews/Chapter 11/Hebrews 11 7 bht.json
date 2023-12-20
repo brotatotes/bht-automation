@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:50:09",
+    "verseRef": "Hebrews 11:7",
+    "bestBHT": {
+        "bht": "Noah, being warned by God of the coming flood, demonstrated his faith by preparing an ark, in turn condeming the world for its unbelief. His actions were not driven by mere fear, but by a reverential fear and a deep understanding of God's judgment. Noah's righteousness was grounded in his faith, and through this faith, he became the possessor of the righteousness that comes from believing in God's promises. His obedience and preparedness stood as a testimony against those who neither believed nor feared, illustrating the power of faith in teaching obedience and prompting godly actions.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.204976964183987,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+        "commentatorTierSimilarities": [
+            29.97,
+            32.91,
+            37.12
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[Noah] condemned the world in its unbelief, and by [the ark] that in some sense, as the manifested result of his faith, he became heir of the righteousness which is by faith.",
+            "He is said to condemn another who by his deed shews what another ought to have done, and, because he did not do it, convicts him of a fault, and shews his lability to punishment.",
+            "[Noah] became heir of the righteousness which is according to faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "moved with fear\u2014not mere slavish fear, but as in Hebrews 8:5- :; see on Hebrews 5:7; Greek, 'reverential fear': opposed to the world's sneering disbelief of the revelation, and self-deceiving security.\" ",
+            "Join 'by faith' with 'prepared an ark' (Hebrews 5:7- :).\" ",
+            "Noah is first called 'righteous' in Hebrews 5:7- :. Christ calls Abel so, Hebrews 5:7- :. Compare as to Noah's righteousness, Ezekiel 14:14; Ezekiel 14:20; 2 Peter 2:5, 'a preacher of righteousness.' Paul here makes faith the principle and ground of his righteousness."
+        ],
+        "Albert Barnes": [
+            "Everything which Noah did in reference to the threatened deluge, was done in virtue of simple faith or belief of what God said.",
+            "There were no visible signs of it; there was nothing which could be a basis of calculation that it would occur.",
+            "The true believer feels and acts as if it were so - resting on the sure word of God."
+        ],
+        "John Calvin": [
+            "But Noah attended so much to God\u2019s word, that turning away his eyes from the appearance of things at that time, he feared the destruction which God had threatened, as though it was present.",
+            "Faith, then, though its most direct regard is to God\u2019s promises, yet looks on his threatening so far as it is necessary for it to be taught to fear and obey God.",
+            "It hence appears that faith alone is the teacher of obedience; and we may on the contrary draw this conclusion, that it is unbelief that prevents us to obey God."
+        ],
+        "Philip Schaff": [
+            "Being warned of God... moved with godly fear... Faith works by fear in such cases, as it works by love.",
+            "The penitence, faith, and holiness of godly men all condemn their opposites, and excite the hatred of bad men on that ground.",
+            "And became heir (possessor) of the righteousness which is according to faith... the great doctrine of righteousness by faith... must have been familiar to all its readers."
+        ],
+        "Archibald T. Robertson": [
+            "Being warned of God.",
+            "Moved with godly fear.",
+            "An ark, shaped like a box."
+        ],
+        "John Gill": [
+            "This divine warning, or oracle, concerning things of such a nature, delivered to Noah, and received by him, shows that he was a favourite of God; that his faith rested in the word of God.",
+            "Moved with fear... with an awful sense of the judgments of God upon the wicked... with a religious fear, with which he worshipped God, and which he discovered by a regard to his word and ordinances.",
+            "Though God can save without means, yet, generally speaking, it is his will to save by them; and that as God saved Noah and his family in the waters, so he can, and does, save his people in afflictions."
+        ],
+        "John Wesley": [
+            "Noah being warned of things not seen as yet \u2014 Of the future deluge.",
+            "Moved with fear, prepared an ark, by which open testimony he condemned the world.",
+            "Who neither believed nor feared."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Noah, being warned by God of the coming flood, demonstrated his faith by preparing an ark, in turn condeming the world for its unbelief. His actions were not driven by mere fear, but by a reverential fear and a deep understanding of God's judgment. Noah's righteousness was grounded in his faith, and through this faith, he became the possessor of the righteousness that comes from believing in God's promises. His obedience and preparedness stood as a testimony against those who neither believed nor feared, illustrating the power of faith in teaching obedience and prompting godly actions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.204976964183987,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                29.97,
+                32.91,
+                37.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Noah condemned the world through his faith-driven actions, as he prepared an ark in response to God's warning. His reverential fear of God's judgment moved him to take action and become a possessor of righteousness through faith. By his obedience, Noah served as a testament to the power of faith in teaching obedience and as a witness against those who neither believed nor feared. His unwavering trust in God's word allowed him to triumph over the world's disbelief.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1559924231641077,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                29.83,
+                31.79,
+                38.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Hebrews 11:7, Noah's faith is highlighted as he condemned the world through his obedience to God's warning. His actions were grounded in a reverential fear and a deep understanding of God's judgment. Noah became the possessor of righteousness through his faith, displaying the power of faith in teaching obedience. His preparedness and unwavering trust in God's promises stood as a testimony against those who neither believed nor feared. Through Noah's example, we are reminded of the importance of faith in our relationship with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1617180886106313,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                30.43,
+                32.42,
+                37.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Noah's faith condemned the world as he prepared an ark, moved by a reverential fear and a deep understanding of God's judgment. This faith made him heir to righteousness and served as a testament to the power of belief in teaching obedience. Through his actions, Noah stood out in contrast to those who neither believed nor feared, emphasizing the significance of faith in our relationship with God. Like Noah, may we demonstrate our trust in God's promises through our obedience.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.1998758472753073,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                30.82,
+                31.89,
+                37.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Noah, with a reverential fear and trust in God's word, condemned the world through his faithful act of preparing the ark. By his obedience, he became an heir of the righteousness that comes from faith. Noah's unwavering belief and preparedness stood as a testimony against those who neither believed nor feared. His actions remind us of the power of faith to teach obedience and the importance of trusting in God's promises in our own lives.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1416223151360043,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                30.73,
+                31.81,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

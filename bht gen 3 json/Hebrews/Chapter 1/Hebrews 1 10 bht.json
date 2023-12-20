@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:46:59",
+    "verseRef": "Hebrews 1:10",
+    "bestBHT": {
+        "bht": "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands. This Messianic Psalm pictures the Son in his Creative work and in his final triumph. Christ is preached even in passages where many might contend that the Father was principally intended. The fact that the apostle thus employs it proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.063734133335435,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+        "commentatorTierSimilarities": [
+            28.6,
+            40.3,
+            31.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands.\" (Hebrews 1:10)",
+            "This has no word to represent it in the Hebrew. But it is taken up from 'O my God' in ver. 24; and indeed from the whole strain of address, in which Jehovah has been thrice expressed; in vv. 1, 12, 15.\" (Commentary on Hebrews 1:10)",
+            "On the bearing and interpretation of the Psalm, see below.\" (Commentary on Hebrews 1:10)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ is preached even in passages where many might contend that the Father was principally intended.",
+            "Thou in the beginning, O Lord.",
+            "The heavens, as a woven veil or curtain spread out."
+        ],
+        "Albert Barnes": [
+            "Whatever difficulties there may be about the principles on which it is done, and the reason why This passage was selected for the purpose, there can be no doubt about the design of the writer.",
+            "The fact that the apostle thus employs it, proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference.",
+            "This must demonstrate the Lord Jesus to be divine. He that made the vast heavens must be God."
+        ],
+        "Marvin Vincent": [
+            "Sixth quotation (10 - 12), exhibiting the superior dignity of the Son as creator in contrast with the creature.\" ",
+            "And - in the beginning [\u03ba\u03b1\u03b9\u03ba\u03b1\u03c4 \u03b1\u03c1\u03c7\u03b1\u03c2] . And connects what follows with unto the Son he saith, etc., ver. 8.",
+            "Hast laid the foundation [\u03b5\u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03c9\u03c3\u03b1\u03c2] . Only here in Hebrews. In Paul, Ephesians 3:18; Colossians 1:23."
+        ],
+        "John Calvin": [
+            "Hence all the things which are found there, are to be applied to his person; for in none have they been fulfilled but in Christ.",
+            "All the other parts of the Psalm exactly suit the person of Christ, such as the following, that he is the eternal God, the creator of heaven and earth, that perpetuity belongs to him without any change, by which his majesty is raised to the highest elevation, and he himself is removed from the rank of all created beings.",
+            "But the perpetuity of Christ which is here mentioned, brings no common comfort to the godly; as the Psalm at last teaches us, they shall be partakers of it, inasmuch as Christ communicates himself and what he possesses to his own body."
+        ],
+        "Archibald T. Robertson": [
+            "This Messianic Psalm pictures the Son in his Creative work and in his final triumph.",
+            "Hast laid the foundation.",
+            "First aorist active of \u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03bf\u03c9, old verb from \u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03bf\u03c2 (foundation) for which see Colossians 1:23."
+        ],
+        "John Gill": [
+            "Thou Lord, in the beginning hast laid the foundation of the earth... shows the eternity of Christ, the Lord, the Creator of the earth, who must exist before the foundation of the world; and confutes the notion of the eternity of the world.",
+            "The heavens are the works of thine hands... expressive of the power of Christ in making the upper parts of the creation, and of his wisdom in garnishing them, in which there is a wonderful display of his glory.",
+            "[This verse] serves to set forth the dignity and excellency of his person."
+        ],
+        "John Wesley": [
+            "Thou \u2014 The same to whom the discourse is addressed in the preceding verse. Psalm 102:25,26"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands. This Messianic Psalm pictures the Son in his Creative work and in his final triumph. Christ is preached even in passages where many might contend that the Father was principally intended. The fact that the apostle thus employs it proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference. This must demonstrate the Lord Jesus to be divine. He that made the vast heavens must be God.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.034408430741857,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                26.17,
+                44.08,
+                29.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands. This Messianic Psalm pictures the Son in his Creative work and in his final triumph. Christ is preached even in passages where many might contend that the Father was principally intended. The fact that the apostle thus employs it proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.063734133335435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                28.6,
+                40.3,
+                31.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands. This Messianic Psalm pictures the Son in his Creative work and in his final triumph. Christ is preached even in passages where many might contend that the Father was principally intended. The fact that the apostle thus employs it proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference. This must demonstrate the Lord Jesus to be divine.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0523547621180716,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                27.22,
+                42.8,
+                29.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thou, in the beginning, Lord, foundedst the earth; and the heavens are works of thine hands. This Messianic Psalm pictures the Son in his Creative work and in his final triumph. Christ is preached even in passages where many might contend that the Father was principally intended. The fact that the apostle thus employs it proves that it was understood in his time to have such a reference, or at least that those to whom he wrote would admit that it had such a reference. This must demonstrate the Lord Jesus to be divine.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0523547621180716,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                27.22,
+                42.8,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse highlights how the Son was involved in the creation of the earth and the heavens. This psalm reveals the Son's role as both the creator and the triumphant figure in the future. Even though some might argue that the Father was primarily intended, the fact that the apostle uses this passage shows that it was understood to have a reference to the Son in his divine nature. The Son's involvement in creation showcases his power, wisdom, and eternal existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0060495157564584,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                28.36,
+                37.52,
+                34.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

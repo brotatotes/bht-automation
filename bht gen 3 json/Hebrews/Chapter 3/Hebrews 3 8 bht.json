@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:47:12",
+    "verseRef": "Hebrews 3:8",
+    "bestBHT": {
+        "bht": "The caution in question warns against hardening one's heart, emphasizing the people's murmuring and lack of faith at Rephidim. This initial offense is sternly reproved as it can pave the way for further transgressions. Harden not carries the connotation of stirring up bitterness and irritability. The wanderings in the wilderness were characterized by provocations and temptations, such as demanding bread and water, the golden calf incident, and rejecting the opportunity to enter Canaan. Rebellion against God arises from deliberate wickedness and the hindrance of His grace. We must remain cautious against acquiring a habitual hardness of heart through neglecting worship, keeping bad company, and succumbing to lesser sins.",
+        "wordCount": 110,
+        "quoteTokenProportion": 30.23,
+        "qualityScore": 1.663887137419981,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+        "commentatorTierSimilarities": [
+            30.66,
+            36.63,
+            32.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Harden not your hearts\u2014This phrase here only is used of man's own act; usually of God's act.\" ",
+            "Both names seem to refer to that one event, the murmuring of the people against the Lord at Rephidim for want of water.",
+            "The first offense especially ought to be guarded against, and is the most severely reproved, as it is apt to produce many more."
+        ],
+        "Albert Barnes": [
+            "A hard heart is that where the conscience is seared and insensible; where truth makes no impression; where no religious effect is produced by afflictions; where preaching is listened to without interest; and where the mind is unaffected by the appeals of friends.\" ",
+            "In order to resist the appeals of God, people must resort to the means of 'voluntarily' hardening the heart. This they do by setting themselves against the truth; by the excuses which they offer for not becoming Christians.",
+            "The word 'wilderness' in the Scriptures commonly means a 'desert'... One provocation was in demanding bread at Sin; a second for want of water at Massah or Meribah; a third time at Sinai with the golden calf; a fourth time at Taberah for want of flesh; a fifth time at Kadesh when they refused to go up into Canaan, and the oath came that they should die in the wilderness."
+        ],
+        "Marvin Vincent": [
+            "Harden not... to stir up to bitterness, to irritate.\" ",
+            "The murmuring against Moses at Rephidim on account of the lack of water.",
+            "Meribah peirasmov temptation, which is correct."
+        ],
+        "John Calvin": [
+            "Our rebellion against God flows from no other fountain than willful wickedness, by which we obstruct the entrance of his grace.",
+            "It is hence...absurdly concluded that we have...a free power to form the heart for God's service...we shall never cease to resist God until we shall be tamed and subdued by his hand.",
+            "We are not to defer too much to the authority of the fathers lest it should draw us away from God...David distinctly commanded their children to beware of being like them."
+        ],
+        "Philip Schaff": [
+            "The two words which are here translated \u2018provocation\u2019 and \u2018temptation\u2019 are in the Hebrew proper names, 'Meribah' (strife) and 'Massah' (temptation).",
+            "Their wanderings began and ended in tempting and proving God; forty years long did their unbelief last.",
+            "Not for single acts were they finally condemned, but for settled habits and a fixed character."
+        ],
+        "Archibald T. Robertson": [
+            "Harden not (\u03bc\u03b7 \u03c3\u03ba\u03bb\u03b7\u03c1\u03c5\u03bd\u03b7\u03c4\u03b5).",
+            "As in the provocation (\u03c9\u03c2 \u03b7\u03bd \u03c4\u03c9 \u03c0\u03b1\u03c1\u03b1\u03c0\u03b9\u03ba\u03c1\u03b1\u03c3\u03bc\u03c9).",
+            "Like as in the day (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03b5\u03c1\u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "There is a natural hardness of the heart; the heart of man is like a stone, destitute of spiritual life, motion, and activity.",
+            "There is an acquired, habitual, and voluntary hardness of heart, to which men arrive by various steps.",
+            "There is a hardness which God's people are liable to, and should guard against; and which is brought on by a neglect of private and public worship, and by keeping bad company, and through the ill examples of others, and by giving way to lesser sins; for all sin is of an hardening nature."
+        ],
+        "John Wesley": [
+            "When Israel provoked me by their strife and murmurings.",
+            "When at the same time they tempted me, by distrusting my power and goodness.",
+            "Exodus 17:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Hebrews 3:8 verse warns against hardening one's heart, referring to the people's murmuring and lack of faith at Rephidim when they demanded water. This initial offense is particularly reproved, as it can lead to further transgressions. The term harden not conveys the idea of stirring up bitterness and irritability. This hardness of heart can manifest in a seared conscience, indifference towards truth and preaching, and resistance to God's appeals. The wilderness wanderings of the Israelites were marked by provocations and temptations, including the demands for bread and water, the golden calf incident, and the refusal to enter Canaan. The rebellion against God originates from willful wickedness and a lack of grace, and it can only be subdued by God's hand. We must guard against a habitual hardness of heart, which can be acquired through neglecting worship, keeping bad company, and yielding to lesser sins.",
+            "wordCount": 148,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6673793324578905,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                26.41,
+                39.12,
+                34.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The caution in Hebrews 3:8 is against hardening one's heart, as shown by the people's murmuring and lack of faith at Rephidim. This initial offense is reproved, as it can lead to more transgressions. Harden not implies stirring up bitterness and irritability. The wilderness wanderings had provocations and temptations, like demanding bread and water, the golden calf incident, and refusal to enter Canaan. Rebellion against God stems from willful wickedness and obstructing His grace. Guard against habitual hardness, acquired by neglecting worship, bad company, and lesser sins.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.6734443654985376,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                31.61,
+                36.29,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The warning in the passage urges against hardening one's heart, referencing the Israelites' murmuring and lack of faith at Rephidim. This initial offense is severely reproved as it can lead to further transgressions. The term harden not implies stirring up bitterness and irritability. The wilderness wanderings were marked by provocations and temptations, like demanding bread and water, the golden calf incident, and refusal to enter Canaan. Rebellion against God originates from willful wickedness and obstructing His grace. We must guard against habitual hardness acquired through neglecting worship, bad company, and lesser sins.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.11,
+            "qualityScore": 1.6631755850112606,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                29.78,
+                37.17,
+                33.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The caution in question warns against hardening one's heart, emphasizing the people's murmuring and lack of faith at Rephidim. This initial offense is sternly reproved as it can pave the way for further transgressions. Harden not carries the connotation of stirring up bitterness and irritability. The wanderings in the wilderness were characterized by provocations and temptations, such as demanding bread and water, the golden calf incident, and rejecting the opportunity to enter Canaan. Rebellion against God arises from deliberate wickedness and the hindrance of His grace. We must remain cautious against acquiring a habitual hardness of heart through neglecting worship, keeping bad company, and succumbing to lesser sins.",
+            "wordCount": 110,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.663887137419981,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                30.66,
+                36.63,
+                32.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The caution in Hebrews 3:8 urges against hardening one's heart, referencing the murmuring and lack of faith at Rephidim. This initial offense is reproved and can lead to further transgressions. Harden not implies stirring up bitterness and irritability. The wilderness wanderings had provocations and temptations like demanding bread and water, the golden calf incident, and refusal to enter Canaan. Rebellion against God stems from willful wickedness and obstructing His grace. Guard against habitual hardness acquired through neglecting worship, bad company, and lesser sins.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.71,
+            "qualityScore": 1.6773503410229291,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                30.67,
+                37.2,
+                32.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

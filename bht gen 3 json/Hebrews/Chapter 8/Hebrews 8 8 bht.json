@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:49:06",
+    "verseRef": "Hebrews 8:8",
+    "bestBHT": {
+        "bht": "The writer refers to Jeremiah's prophecy of a future restoration and a new covenant. This new covenant, fulfilled through the Gospel, surpasses the old and brings absolute forgiveness of sins, transforming hearts through the indwelling of the Spirit. The old covenant, faultless in revealing God's holiness, was weakened by the people's failure to keep it. The new covenant, ratified by the death of Christ, is characterized by newness and promises a change of heart and spirit.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.53,
+        "qualityScore": 2.3743769236909182,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.29,
+        "commentatorTierSimilarities": [
+            32.27,
+            29.74,
+            38.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After the sack of Jerusalem, Jeremiah with the other captives was brought in chains to Rama, where Nebuzaradan had his head-quarters. There took place, at God\u2019s special command, his prophecies of the future entire restoration of Israel, of another David, of Rachel\u2019s wailing over her children at Rama, and their future return, of the new covenant resting on absolute and veritable forgiveness of sins which Jehovah would make with his people, these prophecies forming the third part of the third trilogy of the three great trilogies into which the prophecies of Jeremiah may be divided.",
+            "The question which has before now been abundantly handled, whether the saying refers to the return of the exiles, or to the covenant of which Christ is the mediator, or to the future general conversion of the Jews, or whether some things in it to one of these, some to another, or whether the whole in its lower literal sense to the return of the exiles and in its higher spiritual sense to Christ and His kingdom, must be answered by the considerations before adduced on ch. i. 5.",
+            "It belongs throughout to the cycle of Messianic prophecies, and is one of the most beautiful and sublime of them; and its true fulfillment can only sought in the covenant brought in by the Savior, and in the salvation through Him imparted to mankind, and ever more and more unfolded and completed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The law is not in itself blamed, but the people who had not observed it.",
+            "Spiritually fulfilled in the Gospel covenant, whereby God forgives absolutely His people's sins, and writes His law by His Spirit on the hearts of believers, the true Israel.",
+            "A suitable expression as to the new covenant, which perfected what the old could not."
+        ],
+        "Albert Barnes": [
+            "The word rendered 'finding fault' properly means to censure, or to blame... It is language used where wrong has been done; where there is ground of complaint; where it is desirable that there should be a change.\" ",
+            "This refers doubtless to the times of the Messiah. Phrases such as these, 'in the last days,' 'in after times,' and 'the time is coming,' are often used in the Old Testament to denote the last dispensation of the world... There can be no doubt that as it is used by Jeremiah it refers to the times of the gospel.",
+            "The word 'covenant' with us commonly denotes a compact or agreement between two parties that are equal, and who are free to enter into the agreement or not... The word... is used in a more general sense, and more in accordance with the original meaning of the Greek word."
+        ],
+        "Marvin Vincent": [
+            "The writer assumes that Jeremiah's new covenant means the Christian covenant.",
+            "I will conclude or consummate.",
+            "Always kainh in the phrase new covenant, except Hebrews 12:24, where we have nea."
+        ],
+        "John Calvin": [
+            "To remedy this evil, he promised a new and a different covenant, the fulfillment of which prophecy was the abrogation of the old covenant.",
+            "It is a common saying that the accessory is of the same character with his principal. No wonder, then, that the ceremonies, which are nothing more than appendages to the old covenant, should come to an end, together with the whole dispensation of Moses.",
+            "Now, by the days which the prophet mentions, all agree that Christ\u2019s kingdom is signified; it hence follows, that the old covenant was changed by the coming of Christ."
+        ],
+        "Philip Schaff": [
+            "The covenant, as a revelation of God\u2019s holiness, was faultless; but as the people fell away under it, it failed as a covenant of works to establish abiding fellowship between them and God, and so proved weak and profitless.\" ",
+            "The prediction that follows is taken from the last great series of his prophecies (chaps, 30-31), which are distinctly Messianic It points to the new covenant which God will one day make with His people, based upon the absolute remission of sins and on a no less absolute change of heart.",
+            "The covenant is \u2018for\u2019 them rather than with them, though in a sense it was both and is so described."
+        ],
+        "Archibald T. Robertson": [
+            "The covenant was all right, but the Jews failed to keep it. Hence God made a new one of grace in place of law.\" (Commentary)",
+            "I will make (\u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03b5\u03c3\u03c9). Future active of \u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03b5\u03c9, old compound verb to accomplish...\" (Commentary)",
+            "A new covenant (\u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03bd \u03ba\u03b1\u03b9\u03bd\u03b7\u03bd). In Hebrews 12:24 we have \u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03c2 \u03bd\u03b5\u03b1\u03c2, but \u03ba\u03b1\u03b9\u03bd\u03b7\u03c2 in 1 Corinthians 11:25.\" (Commentary)"
+        ],
+        "John Gill": [
+            "The new covenant is so called, not because newly made, but in distinction from the former administration of it, which is waxen old, and vanished away.",
+            "The new covenant provides for and promises new things, a new heart, a new spirit.",
+            "The time of the new covenant is called 'the days to come', the last days, the days of the Messiah, which were future in Jeremiah's time."
+        ],
+        "John Wesley": [
+            "I make a new covenant with the house of Israel - With all the Israel of God, in all ages and nations.",
+            "It is new in many respects, though not as to the substance of it.",
+            "Being ratified by the death of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 8:8, the writer references Jeremiah's prophecy of the future restoration of Israel and the establishment of a new covenant. This new covenant, described as beautiful and sublime, points to the fulfillment found in the Gospel covenant through Christ. It surpasses the old covenant, perfecting what the law could not accomplish. The old covenant was faultless in revealing God's holiness, but the people failed to keep it, necessitating a new covenant of grace. This new covenant promises forgiveness of sins and the transformation of hearts, with God's law written by His Spirit. It is a covenant that is for the people, providing newness in every aspect, and is ultimately ratified by the death of Christ.",
+            "wordCount": 118,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.361412147161081,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.86,
+            "commentatorTierSimilarities": [
+                34.3,
+                28.39,
+                37.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews references Jeremiah's prophecy of the future restoration and establishment of a new covenant. This new covenant surpasses the old one, perfecting what the law could not accomplish. The old covenant was faultless in revealing God's holiness, but the people failed to keep it, necessitating a new covenant of grace. This new covenant promises forgiveness of sins, the transformation of hearts, and is ratified by the death of Christ. It is a covenant that brings about newness in every aspect.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.346120386579331,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.35,
+            "commentatorTierSimilarities": [
+                34.08,
+                27.54,
+                38.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer refers to Jeremiah's prophecy of a future restoration and a new covenant. This new covenant, fulfilled through the Gospel, surpasses the old and brings absolute forgiveness of sins, transforming hearts through the indwelling of the Spirit. The old covenant, faultless in revealing God's holiness, was weakened by the people's failure to keep it. The new covenant, ratified by the death of Christ, is characterized by newness and promises a change of heart and spirit.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 2.3743769236909182,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.29,
+            "commentatorTierSimilarities": [
+                32.27,
+                29.74,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews draws upon Jeremiah's prophetic words, describing a future restoration of Israel and the establishment of a new covenant. This new covenant, surpassing the old, is marked by absolute forgiveness of sins and a transformation of hearts. The old covenant, while faultless, was weakened by the people's failure to keep it. However, the new covenant, ratified by the death of Christ, brings forth newness and promises a change of heart and spirit, fulfilling the prophecies of Jeremiah.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.353505027725534,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.59,
+            "commentatorTierSimilarities": [
+                32.82,
+                30.19,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer alludes to Jeremiah's prophecy of a future restoration and a superior new covenant. This new covenant, fulfilled through the Gospel, surpasses the old and promises absolute forgiveness of sins. The old covenant, although faultless, proved weak and unprofitable due to the people's failure. In contrast, the new covenant, ratified by Christ's death, brings about transformation and fulfills the prophecies of Jeremiah. It is characterized by newness, providing a change of heart and spirit.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.0981875121323297,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                32.1,
+                29.82,
+                38.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

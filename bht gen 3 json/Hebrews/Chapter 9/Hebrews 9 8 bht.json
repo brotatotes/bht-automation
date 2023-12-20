@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:49:21",
+    "verseRef": "Hebrews 9:8",
+    "bestBHT": {
+        "bht": "The first tabernacle, a symbol of the Old Testament economy, cannot perfect the conscience of the people, keeping them from accessing the presence of God. However, redemption by Christ has opened the way into the Holy place, signifying the access to God's presence. The first tabernacle still has a place, but it will be done away with when the veil is removed. This signifies that the access to the holiest of all has not yet been made manifest, but it will be through Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 2.269451731025384,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.8,
+        "commentatorTierSimilarities": [
+            35.01,
+            37.47,
+            27.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first tabernacle is a parable for the time now present, reserved unto, or given in reference to, the present time, of heavenly things, to which the access is in the present time revealed.",
+            "Both gifts and sacrifices are offered, having no power to perfect in conscience him that serveth, i.e. not the priests, but the people, who offered through them.",
+            "The offerings cannot perfect him in conscience, i.e. cannot put his moral-religious consciousness, in its inward feeling, into a state of entire and joyful looking for of salvation, so that his conscience should be an onward-waxing consciousness of perfect restoration, of entire clearing up, of total emancipation, of his relation to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Old Testament economy is represented by the holy place, the New Testament economy by the Holy of Holies.",
+            "Redemption, by Christ, has opened the Holy of Holies to all mankind.",
+            "The Spirit intimating that men should not think the way was yet opened."
+        ],
+        "Albert Barnes": [
+            "Sometimes that Spirit taught by direct revelation; sometimes by the written word, and sometimes by symbols.",
+            "The tabernacle, with its different apartments, utensils, and services, was a permanent means of keeping important truths before the minds of the ancient people of God.",
+            "That the way into the holiest of all - Into heaven - of which the Most Holy place in the tabernacle was undoubtedly designed to be an emblem."
+        ],
+        "Marvin Vincent": [
+            "The intimation is that God intended to emphasize, in the old economy itself, the fact of his inaccessibility, in order to create the desire for full access and to prepare the way for this.",
+            "The point is that the division of the tabernacle showed the limitations of the Levitical system, and kept the people from coming directly to God.",
+            "The priests in the holy place stood between the people and God as revealed in the shrine."
+        ],
+        "Philip Schaff": [
+            "The way into the holiest heaven itself, the true antitype, not the holy of holies hath not yet been made manifest.",
+            "While there is a distinction of tabernacle and tabernacle with a veil between them, and a hidden glory, there is no freedom of access.",
+            "Let the veil be removed, and then the two tabernacles will become one; and so the first will be done away."
+        ],
+        "Archibald T. Robertson": [
+            "The Holy Ghost this signifying...to make plain.\" ",
+            "The way into the Holy place... is used for the very Presence of God.",
+            "The first tabernacle still having a place."
+        ],
+        "John Gill": [
+            "The Holy Ghost this signifying...that the way into the holiest of all was not yet manifest, while as the first tabernacle was yet standing.\" ",
+            "The way to it is not by works of righteousness done by men, which being imperfect cannot justify, and so not save, though this is the way men naturally seek and take; but Christ is the only way, and he is the plain, pleasant, and safe one.\" ",
+            "It lay hid in obscure prophecies, types, shadows, and sacrifices; hence being more clearly revealed under the Gospel dispensation, in comparison, of its former obscurity, and with respect to the manifestation of it, it is called a 'new way'."
+        ],
+        "John Wesley": [
+            "The Holy Ghost evidently showing... That the way into the holiest... Was not made manifest.",
+            "Not so clearly revealed.",
+            "While the first tabernacle, and its service, were still subsisting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first tabernacle, representing the Old Testament economy, is a parable for the present time and its limitations, unable to perfect the conscience of the people. It was a symbol of God's inaccessibility, creating a desire for full access and preparing the way for it. The priests stood between the people and God, while the Holy of Holies remained veiled, signifying that access to the presence of God was not yet made manifest. However, redemption by Christ has now opened the way into the Holy place, signifying the access to God's presence. The first tabernacle still had a place, but it would ultimately be done away with when the veil is removed and the two tabernacles become one.",
+            "wordCount": 120,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.2115615019124917,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                36.3,
+                35.92,
+                27.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first tabernacle, representing the Old Testament economy, is a parable for the present time. It cannot perfect the conscience of the people, keeping them from accessing the Holy of Holies. However, redemption by Christ has opened the way into the presence of God. The first tabernacle still has a place, but it will be done away with when the veil is removed. This signifies that the access to the holiest of all has not yet been made manifest, but it will be through Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.089396893393428,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                35.89,
+                36.14,
+                27.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first tabernacle, a symbol of the Old Testament economy, cannot perfect the conscience of the people, keeping them from accessing the presence of God. However, redemption by Christ has opened the way into the Holy place, signifying the access to God's presence. The first tabernacle still has a place, but it will be done away with when the veil is removed. This signifies that the access to the holiest of all has not yet been made manifest, but it will be through Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.269451731025384,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.8,
+            "commentatorTierSimilarities": [
+                35.01,
+                37.47,
+                27.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first tabernacle, representing the Old Testament economy, cannot perfect the conscience of the people and symbolizes God's inaccessibility. It kept the people from coming directly to God, with the priests standing as intermediaries. However, redemption by Christ has opened the way into the Holy place, signifying access to God's presence. The first tabernacle still has a place, but it will be done away with when the veil is removed. This signifies that the access to the holiest of all has not yet been made manifest, but it will be through Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.1953819865716424,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.34,
+            "commentatorTierSimilarities": [
+                35.58,
+                36.15,
+                28.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first tabernacle, a parable for the present time, cannot perfect the conscience of the people, observing their limited access to God. Redemption by Christ has opened the way into the Holy place, revealing divine accessibility. The first tabernacle still has a place, reminding us of its existence, but it will be abolished when the veil is removed. This conveys that the access to the holiest of all has not been fully disclosed, eagerly anticipated through Christ's redemptive work.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.110188086009231,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+            "commentatorTierSimilarities": [
+                34.62,
+                35.63,
+                29.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

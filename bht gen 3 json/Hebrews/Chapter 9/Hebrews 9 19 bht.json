@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:49:13",
+    "verseRef": "Hebrews 9:19",
+    "bestBHT": {
+        "bht": "Water, scarlet wool, and hyssop were included in the ceremony as symbolical elements. Jesus, as the Lamb of God, wore a scarlet robe, representing the sins He bore, though He Himself had none. These ceremonial practices, such as sprinkling the book and all the people with blood, reflect the imperfection of the law and the need for Christ's sacrifice for redemption. The sprinkling of Christ's blood fulfills the law and purges people from their sins, just as the sacrifices in the establishment of the law covenant were not performed according to the Mosaic ritual.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.04232747347051,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+        "commentatorTierSimilarities": [
+            41.68,
+            24.14,
+            34.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These instruments were the ordinary ones in cleansing and sprinkling, even before their positive enactment as such by the law.",
+            "Surely it requires no more stretch of concession to acknowledge the victim in sacrifice to represent the Lamb of God in his sonship and his heritorship, than it does in his innocence and propitiatory power.",
+            "In both cases there is an inheritance, and in both it is the same. In both it is bequeathed: in the latter actually by One who has come in person and died: in the former, only typically, by the same One ceremonially present."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So Jesus wore a scarlet robe, the emblem of the deep-dyed sins He bore on Him, though He had none in Him.",
+            "The wool was also a symbol of purity.",
+            "Neither can the law be fulfilled, nor the people be purged from their sins, save by the sprinkling of the blood of Christ."
+        ],
+        "Albert Barnes": [
+            "It is to be presumed, therefore, that the facts here referred to had been preserved by tradition.",
+            "Nothing is more probable than what is here stated.",
+            "The act would be equally significant whether the emblem fell on few or many."
+        ],
+        "Marvin Vincent": [
+            "Of calves and goats. Not mentioned in the O.T. account.",
+            "Water, scarlet wool, hyssop - sprinkled the book. None of these are mentioned in the O.T. account.",
+            "It will also be observed that the sacrifices on the occasion of establishing the law covenant were not made according to the Mosaic ritual."
+        ],
+        "Philip Schaff": [
+            "For (a proof of the assertion in Hebrews 9:18) when every commandment had been spoken by Moses according to the law unto all the people...",
+            "...he took the blood of the calves and the goats with water and scarlet wool and hyssop and sprinkled both the book itself and all the people.",
+            "Either God commanded Moses to do these things, as they were done later, or the writer is giving in brief a summary of the whole law as at first instituted."
+        ],
+        "Archibald T. Robertson": [
+            "There is nothing there about the water, the scarlet wool, and hyssop.",
+            "Both the book itself... He omits the use of oil in Exodus 40:9; Leviticus 8:10 and applies blood to all the details.",
+            "Sprinkled... like \u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03c9 from \u03b2\u03b1\u03c0\u03c4\u03c9."
+        ],
+        "John Gill": [
+            "This may instruct persons concerned in the public ministry, to speak out plainly and clearly the whole counsel of God, to all to whom they are sent, according to the word of God, which is the rule of faith and practice.",
+            "The blood, with water, was typical of the blood and water which sprung from the side of Christ pierced on the cross, the one signifying justification by him, the other sanctification.",
+            "The book of the law was sprinkled, not because of any impurity in it, but to show the imperfection of it, and its insufficiency to justify men; or rather the imperfection of man's obedience to it, and to point out what the law requires in case of disobedience, even the blood and life of men."
+        ],
+        "John Wesley": [
+            "And the book itself \u2014 Which contained all he had said.",
+            "The blood was mixed with water to prevent its growing too stiff for sprinkling; perhaps also to typify that blood and water, John 19:34.",
+            "Exodus 24:7,8"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse being discussed, various elements such as water, scarlet wool, and hyssop are mentioned, which were not specified in the Old Testament account. These instruments were used for cleansing and sprinkling even before the law was established. They symbolize the purity and the deep-dyed sins that Jesus, as the Lamb of God, bore on Himself. In both the sacrificial ceremony and Jesus' sacrifice, there is an inheritance that is bequeathed, representing the same inheritance that is ceremonially passed on. It is only through the sprinkling of the blood of Christ that the law can be fulfilled and the people can be purged from their sins. Just as the book of the law and all the people were sprinkled with blood, Jesus fulfilled all the details by applying His blood. This act signifies the imperfection of the law and the need for the blood and life of Christ to bring justification and sanctification.",
+            "wordCount": 155,
+            "quoteTokenProportion": 44.57,
+            "qualityScore": 1.949521356664269,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                39.31,
+                26.06,
+                34.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The use of water, scarlet wool, and hyssop in this passage, which are not mentioned in the Old Testament account, symbolizes the cleansing and sprinkling that took place even before the law was established. These elements represent both the purity and the deep sins that Jesus bore, emphasizing the inheritance that is bequeathed. Only through the sprinkling of Christ's blood can the law be fulfilled and people be purified from their sins. This act signifies the imperfection of the law and the need for Christ's sacrifice to bring about justification and sanctification.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.015424999884898,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                39.84,
+                26.15,
+                34.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The inclusion of water, scarlet wool, and hyssop in Hebrews 9:19 highlights their symbolic significance in the cleansing and sprinkling rituals that predated the law's establishment. These elements represent not only purity but also the deep sins that Jesus, the Lamb of God, bore upon Himself. Just as the book of the law and people were sprinkled with blood, Jesus fulfills all the details, showcasing the imperfection of the law and the necessity of His sacrifice for justification and sanctification.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9879128946546474,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                39.13,
+                24.53,
+                36.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inclusion of water, scarlet wool, and hyssop in the ceremony signifies their symbolical significance in the pre-law cleansing and sprinkling rituals. Jesus, as the Lamb of God, carries the deep-dyed sins and wears a scarlet robe, while the wool represents purity. Through the sprinkling of Christ's blood, the law is fulfilled and the people are purged from their sins. The act of sprinkling, similar to the word baptize, serves as a powerful visual representation of the purification process.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.9179330527524883,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                42.8,
+                24.4,
+                32.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Water, scarlet wool, and hyssop were included in the ceremony as symbolical elements. Jesus, as the Lamb of God, wore a scarlet robe, representing the sins He bore, though He Himself had none. These ceremonial practices, such as sprinkling the book and all the people with blood, reflect the imperfection of the law and the need for Christ's sacrifice for redemption. The sprinkling of Christ's blood fulfills the law and purges people from their sins, just as the sacrifices in the establishment of the law covenant were not performed according to the Mosaic ritual.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.04232747347051,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                41.68,
+                24.14,
+                34.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

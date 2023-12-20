@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:02",
+    "verseRef": "Hebrews 5:14",
+    "bestBHT": {
+        "bht": "Solid food, or strong meat, is for the spiritually mature who have cultivated their spiritual senses to discern between good and evil, which refers to excellence and inferiority in doctrine, not moral qualities. By continually practicing and habitually exercising these senses, full-grown men gain the ability to distinguish between sound and unsound teaching. This discernment is not based on personal experience or carnal reasoning, but on the Scriptures of truth. They are able to comprehend the deeper truths of the faith and engage in these matters with ease and readiness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.86,
+        "qualityScore": 1.8760917024182797,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+        "commentatorTierSimilarities": [
+            25.25,
+            33.03,
+            41.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But solid food belongs to the grown up, to those who by virtue of their habit have their organs of sense exercised with a view to distinction of good and evil.\" ",
+            "There manifestly is a mixture of the figure and the thing signified: on account of what follows, we must necessarily understand these organs of sense of the inner organs of the soul.",
+            "The reference here of good and evil is manifestly not to moral qualities, but to excellence and inferiority, wholesomeness and corruptness in doctrine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "strong meat\u2014'solid food.'",
+            "by reason of use\u2014Greek, 'habit.'",
+            "to discern both good and evil\u2014as a child no longer an infant: so able to distinguish between sound and unsound doctrine."
+        ],
+        "Albert Barnes": [
+            "They can be understood and appreciated only by those who are advanced in Christian experience.",
+            "Experience will thus enable one to discern what is suited to the soul of man; what elevates and purifies the affections, and what tends to draw the heart near to God.",
+            "The world derives its views of the nature of religion from the lives and conduct of its professed friends."
+        ],
+        "Marvin Vincent": [
+            "Solid food is for full-grown men.",
+            "By reason of use... the result.",
+            "Good and evil. Not moral good and evil, but wholesome and corrupt doctrine."
+        ],
+        "John Calvin": [
+            "And such he would have all Christians to be, such as have attained by continual practice a habit to discern between good and evil.",
+            "And truly what sort of faith is that which doubts, being suspended between truth and falsehood? Is it not in danger of coming to nothing every moment?",
+            "By this comparison, which is here carried out fully, he intimates that the grown up in Christian truth attain by the habit of exercising all the senses or faculties of their minds, a capacity to distinguish between good and evil, between truth and error, in religion."
+        ],
+        "Archibald T. Robertson": [
+            "For full-grown men... relative perfection... in contrast with babes.\" ",
+            "Their senses... the organs of perception... here only in N.T.",
+            "By reason of use... one gains such skill... to discern... between good and evil."
+        ],
+        "John Gill": [
+            "But it designs a perfection of knowledge; for though none are entirely perfect, yet some have arrived to a greater degree of the knowledge of Gospel mysteries than others...",
+            "...they are qualified for discerning, as between moral good and evil, and the worse and better state of the church, and between law and Gospel, so between the doctrines of Christ, and the doctrines of men...",
+            "...the discernment they make, and the judgment they form, are not according to the dictates of carnal reason, but according to the Scriptures of truth, and their own experience."
+        ],
+        "John Wesley": [
+            "But strong meat \u2014 These sublimer truths relating to 'perfection.'",
+            "Belong to them of full age, who by habit \u2014 Habit here signifies strength of spiritual understanding, arising from maturity of spiritual age.",
+            "By, or in consequence of, this habit they exercise themselves in these things with ease, readiness, cheerfulness, and profit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Solid food, or strong meat, is not for spiritual infants, but for those who have grown and have developed their spiritual senses to discern between good and evil. This discernment is not about moral qualities, but about distinguishing between excellence and inferiority, wholesomeness and corruptness in doctrine. Full-grown men, through continuous practice and habit, gain the ability to differentiate between sound and unsound doctrine. This maturity of understanding is not acquired by relying on carnal reason or personal experience, but by consulting the Scriptures of truth. They are able to grasp the sublimer truths and exercise themselves in these matters with ease, readiness, cheerfulness, and profit.",
+            "wordCount": 107,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.8405239362149646,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                27.26,
+                31.71,
+                41.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Solid food, or strong meat, belongs to those who have developed their spiritual senses and habitually exercise them to distinguish between excellence and inferiority in doctrine. This discernment is not about moral qualities, but about wholesome and corrupt teaching. Full-grown men, through continuous practice, gain the ability to discern between sound and unsound doctrine, relying not on carnal reason or personal experience, but on the Scriptures of truth. They are able to grasp the sublimer truths and exercise themselves in these matters with ease and readiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8258464679531157,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                26.0,
+                32.97,
+                41.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Solid food, or strong meat, is for the spiritually mature who have cultivated their spiritual senses to discern between good and evil, which refers to excellence and inferiority in doctrine, not moral qualities. By continually practicing and habitually exercising these senses, full-grown men gain the ability to distinguish between sound and unsound teaching. This discernment is not based on personal experience or carnal reasoning, but on the Scriptures of truth. They are able to comprehend the deeper truths of the faith and engage in these matters with ease and readiness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.8760917024182797,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                25.25,
+                33.03,
+                41.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Solid food, or strong meat, is not meant for spiritual infants, but for those who have developed their spiritual senses and habitually exercise them to distinguish between good and evil. This distinction relates to the excellence and inferiority of doctrine, rather than moral qualities. Full-grown men, through continuous practice and the habit of exercising their minds, acquire the capacity to discern between truth and error in religion. This discernment is not based on carnal reason, but on the Scriptures of truth and personal experience. They are able to comprehend the deeper truths of the Gospel and bring discernment to various aspects of the faith.",
+            "wordCount": 105,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.9233364010403315,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.29,
+            "commentatorTierSimilarities": [
+                24.82,
+                34.97,
+                40.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Strong meat, or solid food, is not for spiritual infants but for those who have developed their spiritual senses and habitually exercise them to discern between good and evil. This refers to distinguishing excellence and inferiority in doctrine, not moral qualities. Full-grown men, through continual practice and habit, gain the capacity to differentiate between sound and unsound teaching. This maturity of understanding is not based on carnal reason or personal experience, but on the Scriptures of truth. They are able to grasp the deeper truths of the faith and engage with ease and readiness.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.8388340307439681,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                27.73,
+                32.75,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

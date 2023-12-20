@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:51:13",
+    "verseRef": "Hebrews 12:15",
+    "bestBHT": {
+        "bht": "To avoid falling short of God's grace and being troubled by a root of bitterness, believers are called to exercise diligent oversight and vigilance. The imagery used illustrates the danger of lagging behind in our spiritual journey, as a single individual can spread a corrupting influence within the church. Sin, like a root of bitterness, has a contagious nature and can quickly defile and trouble the community of believers. Therefore, it is our personal responsibility to secure our salvation and protect the sacred unity of the church from the harmful effects of wickedness.",
+        "wordCount": 94,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.9307328615811397,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+        "commentatorTierSimilarities": [
+            26.02,
+            38.67,
+            35.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "lest any . . . fall\u2014Greek, 'lest any (namely, through sloth in running) failing,' or 'falling short of the grace of God . . . trouble you.' The image is taken from a company of travellers, one of whom lags behind, and so never reaches the end of the long and laborious journey.\" ",
+            "root of bitterness\u2014not merely a 'bitter root,' which might possibly bring forth sweet fruits; this, a root whose essence is 'bitterness,' never could.",
+            "many\u2014rather, 'the many,' that is, the whole congregation. So long as it is hidden under the earth it cannot be remedied, but when it 'springs up,' it must be dealt with boldly."
+        ],
+        "Albert Barnes": [
+            "It is implied that there are reasons why we should take special care. Those reasons are found in the propensities of our hearts to evil; in the temptations of the world; in the allurements to apostasy presented by the great adversary of our souls.",
+            "As every man is in danger, it is his personal duty to see to it that his salvation be secure.",
+            "One wicked man, and especially one hypocrite in the church, may be the means of destroying many others."
+        ],
+        "Marvin Vincent": [
+            "Looking diligently [\u03b5\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2] ... The idea is exercising oversight.\" ",
+            "Fail of [\u03c5\u03c3\u03c4\u03b5\u03c1\u03c9\u03bd \u03b1\u03c0\u03bf] ... implying a previous attainment. The present participle marks something in progress: 'lest anyone be falling back.'",
+            "Root of bitterness [\u03c1\u03b9\u03b6\u03b1 \u03c0\u03b9\u03ba\u03c1\u03b9\u03b1\u03c2] ... A bad man in the church. The participle pictures the springing up in progress; the root gradually revealing its pernicious character."
+        ],
+        "John Calvin": [
+            "It is easy to fall away from the grace of God; for it is not without reason that attention is required, because as soon as Satan sees us secure or remiss, he instantly circumvents us.",
+            "We have, in short, need of striving and vigilance, if we would persevere in the grace of God.",
+            "When the Lord stimulates us by warning and exhortation, he at the same time moves and stirs up our hearts, that his exhortations may not be in vain, or pass away without effect."
+        ],
+        "Philip Schaff": [
+            "Lest any man fail of (come short of by willfully relinquishing) the grace of God.",
+            "The characteristic of the Gospel is \u2018grace,\u2019 apart from the works of the Law; and a man falls from it who puts himself at a distance from the blessing, and so gives it up.",
+            "Lest any root, or plant, of bitterness, trouble the sacred enclosure of the Church, and thereby the many (the larger part of the ground even) be defiled (corrupted)."
+        ],
+        "Archibald T. Robertson": [
+            "Lest there be any man falleth short of the root of bitterness... springing up.",
+            "The contagion of sin is terrible as any disease.",
+            "The vivid picture of the root of bitterness sprouting quickly."
+        ],
+        "John Gill": [
+            "Lest any man fail of the grace of God; not the free favour and love of God in Christ, which is everlasting, unchangeable, and from whence there is no separation... but either the whole doctrine of the Gospel, which is a declaration of the grace of God; or particularly the doctrine of free justification by the righteousness of Christ, which men may receive in vain, and fall from...\" (79 words)",
+            "Lest any root of bitterness springing up trouble you, [and] thereby many be defiled... either the corruption of nature in general, which is a root that lies hidden in a man's heart... or errors and heresies... which sometimes, like roots, lie under ground, secret and undiscovered and are bitter ones in their effects, bringing ruin and swift destruction on the souls of men...\" (83 words)",
+            "Now, care should be taken, that no such person be in churches, holding such an error; because of the glory of God, Father, Son, and Spirit; the comfort of souls; the peace of the church, and the growth and increase of it, which must be hurt by such men and doctrines...\" (49 words)"
+        ],
+        "John Wesley": [
+            "Lest any root of bitterness \u2014 Of envy, anger, suspicion. Springing up \u2014 Destroy the sweet peace.\" ",
+            "In general, any corruption, either in doctrine or practice, is a root of bitterness, and may pollute many."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 12:15, the author warns against falling short of the grace of God and being troubled by a root of bitterness. This imagery highlights the danger of lagging behind in the journey of faith and the potential harm caused by a single individual who spreads a corrupting influence within the church. To prevent this, diligent oversight and vigilance are necessary to ensure that one does not become complacent and distance themselves from God's grace. The vivid picture of a root of bitterness sprouting quickly reminds us of the contagious nature of sin and the need for immediate action to prevent its destructive consequences. Ultimately, it is our personal responsibility to secure our salvation and protect the sacred community of believers from being defiled by the presence of wickedness.",
+            "wordCount": 129,
+            "quoteTokenProportion": 31.4,
+            "qualityScore": 1.926992061593882,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                26.13,
+                37.78,
+                36.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to avoid falling short of the grace of God and being troubled by a root of bitterness, we must exercise diligent oversight and vigilance. The danger lies in lagging behind in our spiritual journey and allowing a single individual to spread a corrupting influence within the church. This imagery serves as a reminder of the contagious nature of sin and the need for immediate action to prevent its destructive consequences. Our personal responsibility is to secure our salvation and protect the sacred community from becoming defiled by wickedness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.8092079793824674,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                23.42,
+                40.12,
+                36.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Hebrews 12:15, the author urges believers to be vigilant and not fall short of the grace of God. The image of a root of bitterness emphasizes the destructive nature of sin, which can quickly trouble and defile the community of believers. It is important to exercise diligent oversight and take proactive measures to prevent the spread of corruption within the church. By remaining steadfast and guarding against complacency, we can protect ourselves and the larger congregation from the harmful consequences of sin.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8072534325012062,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                23.09,
+                39.94,
+                36.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid falling short of God's grace and being troubled by a root of bitterness, believers are called to exercise diligent oversight and vigilance. The imagery used illustrates the danger of lagging behind in our spiritual journey, as a single individual can spread a corrupting influence within the church. Sin, like a root of bitterness, has a contagious nature and can quickly defile and trouble the community of believers. Therefore, it is our personal responsibility to secure our salvation and protect the sacred unity of the church from the harmful effects of wickedness.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9307328615811397,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                26.02,
+                38.67,
+                35.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To avoid falling short of God's grace and being troubled by a root of bitterness, believers must exercise diligent oversight and vigilance. The imagery of a lagging traveler and a root of bitterness emphasizes the danger of complacency and the swift spread of corrupting influences. Sin, like a contagious disease, can quickly defile and trouble the community of believers. Therefore, it is crucial to remain steadfast and protect the sacred unity of the church from the harmful consequences of wickedness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.8050913295037958,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                27.32,
+                35.86,
+                36.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

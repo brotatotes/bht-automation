@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:47:19",
+    "verseRef": "Hebrews 4:4",
+    "bestBHT": {
+        "bht": "God's rest, mentioned in the provided quotes, should not be understood as a temporary or idle rest. Instead, it is an enduring rest that commenced at the completion of creation and continues to this day. This rest signifies God's ongoing upholding and governing of everything He made. It is not a total cessation of creative activity, as Jesus affirms. The seventh day of God's rest is still ongoing, and it signifies His delight and satisfaction in His works. This rest transcends time, symbolizing the eternal nature of God's rest.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.990645167434147,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+        "commentatorTierSimilarities": [
+            39.49,
+            30.36,
+            30.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The rest here spoken of must not be understood only as that of one day after the completion of creation; but as an enduring rest, commencing then and still going on,\u2014into which God's people shall hereafter enter.",
+            "God\u2019s rest is not a rest necessitated by fatigue, nor conditioned by idleness: but it is, in fact, the very continuance in that upholding and governing, of which the Creation was the beginning.",
+            "Still less must we find here any discrepancy with such passages as John v. 17; Isa. xl. 28: God\u2019s rest is not a rest necessitated by fatigue, nor conditioned by idleness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's rest is not a rest necessitated by fatigue, nor consisting in idleness, but is that upholding and governing of which creation was the beginning.",
+            "Hence Moses records the end of each of the first six days, but not of the seventh.",
+            "God's 'work' was one, comprehending, however, many 'works'."
+        ],
+        "Albert Barnes": [
+            "The notion of 'rest' of some kind runs through all dispensations.",
+            "All dispensations contemplate 'rest,' and there must be such a prospect before man now.",
+            "He no more put forth creative energy, but calmly contemplated his own works in their beauty and grandeur."
+        ],
+        "Marvin Vincent": [
+            "What was implied in the preceding verse is now stated.",
+            "Did rest from all his works.",
+            "The verb only in Hebrews and Acts 14:18. Works, plural, following LXX The Hebrew has work."
+        ],
+        "Archibald T. Robertson": [
+            "But the seventh day of God's rest was still going on (clearly not a twenty-four hour day).\" ",
+            "It is not, of course, absolute rest from all creative activity as Jesus shows in John 5:17.",
+            "Moffatt notes that Philo quotes Genesis 2:2 with the same 'literary mannerism.'"
+        ],
+        "John Gill": [
+            "Moses, the penman of that book spoke, or God by him.",
+            "Only cessation from working in a creative way, and the utmost delight, complacency and satisfaction in what he had done.",
+            "The Alexandrian copy leaves out the phrase, 'the seventh day'."
+        ],
+        "John Wesley": [
+            "For, long after he had rested from his works, he speaks again. Genesis 2:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's rest in Hebrews 4:4 does not refer to a temporary rest, but rather an enduring rest that started with the completion of creation and continues into the future. This rest is not born out of fatigue or idleness, but rather it is the constant upholding and governing of all things. It is important to note that God's rest does not mean a complete cessation of creative activity, as Jesus affirms in John 5:17. The seventh day of God's rest is still ongoing, not limited to a 24-hour period. It is a rest that transcends time and symbolizes God's delight and satisfaction in His works.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.067609055482828,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                41.18,
+                30.49,
+                28.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's rest, mentioned in Hebrews 4:4, is not a temporary rest but a continuous state that began with the completion of creation and continues even now. This rest is characterized by God's upholding and governing of all things, not a cessation of creative activity. It is an ongoing rest that symbolizes His delight and satisfaction in His works. This rest is not limited to a specific 24-hour period, but rather transcends time. Jesus affirms that God's rest does not exclude Him from His works, as stated in John 5:17.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.968817715562856,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                41.59,
+                30.61,
+                27.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's rest, mentioned in the commentary, should not be understood as a temporary rest after creation, but as an enduring rest that God's people will enter. It is not a rest due to fatigue or idleness, but rather the continued upholding and governing of all things. The seventh day of God's rest is ongoing, not limited to a 24-hour period. This rest symbolizes God's delight and satisfaction in His works, and it is not an absence of creative activity. Jesus affirms this in John 5:17, showing that God is still at work.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0351782449380442,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                42.86,
+                28.99,
+                28.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's rest, mentioned in the provided quotes, should not be understood as a temporary or idle rest. Instead, it is an enduring rest that commenced at the completion of creation and continues to this day. This rest signifies God's ongoing upholding and governing of everything He made. It is not a total cessation of creative activity, as Jesus affirms. The seventh day of God's rest is still ongoing, and it signifies His delight and satisfaction in His works. This rest transcends time, symbolizing the eternal nature of God's rest.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.990645167434147,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                39.49,
+                30.36,
+                30.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's rest, described in the commentary, is not a temporary or idle rest. Rather, it is an enduring state that began after the completion of creation and continues to this day. This rest represents God's ongoing upholding and governing of all things. It is not a complete cessation of creative activity, as affirmed by Jesus. The seventh day of God's rest is still ongoing, signifying His satisfaction and delight in His works. This rest transcends time, symbolizing the eternal nature of His rest.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9520192793597773,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                38.69,
+                31.76,
+                29.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

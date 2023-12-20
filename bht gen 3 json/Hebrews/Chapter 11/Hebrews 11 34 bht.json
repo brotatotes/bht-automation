@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:50:34",
+    "verseRef": "Hebrews 11:34",
+    "bestBHT": {
+        "bht": "They did not extinguish the fire, but the power of the fire, which remained kindled but had no power against them to burn them. The martyrs of the Reformation, though not escaping the fire, were delivered from its power to harm them. Through their weakness, they shook the powers of darkness with the irresistible power of weakness. They quenched the power of fire, escaped the edge of the sword, and waxed mighty in war.",
+        "wordCount": 74,
+        "quoteTokenProportion": 47.73,
+        "qualityScore": 2.1000926207259503,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.17,
+        "commentatorTierSimilarities": [
+            41.7,
+            30.0,
+            28.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not say, extinguished fire, but the power of fire, which is even greater: though it remained kindled, yet it had no power against them to burn them.",
+            "by believing were saved out of the flame.",
+            "the book of Daniel shews us, in prophetic delineation of that time, the holy people of the Most High, conflicting with the atheistic and antichristian prince of this world, and ascribes to this conflict the highest imaginable importance in reference to the sacred history."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not merely 'quenched the fire,' but 'quenched the power (so the Greek) of the fire.'",
+            "So the martyrs of the Reformation, though not escaping the fire, were delivered from its having power really or lastingly to hurt them.",
+            "The martyrs...shook the powers of darkness with the irresistible power of weakness."
+        ],
+        "Albert Barnes": [
+            "Quenched the violence of fire - As Shadrach, Meshach, and Abednego did; Daniel 3:15-26.",
+            "Out of weakness were made strong - Enabled to perform exploits beyond their natural strength, or raised up from a state of physical infirmity, and invigorated for conflict.",
+            "Waxed valiant in fight - Became valiant. Like Joshua. Barak, David, etc."
+        ],
+        "John Calvin": [
+            "Out of weakness were made strong.",
+            "The Lord, by his hand, raised on high his saints.",
+            "Brought help to their weakness, so as to endue them with full strength."
+        ],
+        "Philip Schaff": [
+            "Quenched the power of fire (not the fire, which still burnt, but the power of it); true of Shadrach and his companions.",
+            "Escaped the edge of the sword, as in the case of Elijah, Elisha, Jeremiah.",
+            "Turned to flight the armies of the aliens...find a striking fulfillment in the Maccabean age."
+        ],
+        "Archibald T. Robertson": [
+            "Quenched the power of fire.",
+            "Escaped the edge of the sword.",
+            "Waxed mighty in war."
+        ],
+        "John Gill": [
+            "Quenched the violence of fire,.... when, by prayer, it is stopped, as by Moses, at Taberah, Numbers 11:1 when persons are not hurt by it, as Shadrach, Meshach, and Abednego, when cast into Nebuchadrezzar's fiery furnace; and many of the martyrs have triumphed in the flames.\" ",
+            "Escaped the edge of the sword; and were not destroyed by it; as Lot, Abraham, Moses, Joshua, the Judges, David, Elijah, Elisha, and others.",
+            "Out of weakness were made strong; being recovered from bodily diseases, as David, Hezekiah, c. by an increase of bodily strength, as Samson by being filled with courage, and strength of mind; when before timorous, as Barak, c. so believers, when they have been weak in the exercise of grace, have been made strong."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They did not extinguish the fire, but the power of the fire, which remained kindled but had no power against them to harm them. Daniel's prophetic book highlights the immense importance of the holy people's conflict with the atheistic and antichristian forces, portraying it as a significant event in sacred history. Similarly, the martyrs of the Reformation were not spared from the fire but were delivered from its long-lasting harm. Through their weakness, they shook the powers of darkness with the unstoppable power of weakness. They quenched the power of fire, escaped the sword's edge, and became mighty in war. Their exploits went beyond their natural strength, and they turned armies of aliens to flight.",
+            "wordCount": 119,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.857814143833506,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                37.28,
+                32.12,
+                30.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They did not extinguish the fire, but the power of the fire, which remained kindled but had no power against them to harm them. Similarly, the martyrs of the Reformation were not spared from the fire but were delivered from its long-lasting harm. Through their weakness, they shook the powers of darkness with the unstoppable power of weakness. They quenched the power of fire, escaped the sword's edge, and became mighty in war, turning armies of aliens to flight in their valiant fight.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.9678854203163725,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                37.86,
+                32.01,
+                30.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They did not merely quench the fire, but they quenched the power of fire, escaping its ability to harm them. Similar to the martyrs of the Reformation who were not spared from the flames but were delivered from its lasting impact. Through their weakness, they displayed the unstoppable power of weakness, shaking the forces of darkness. They quenched the power of fire, escaped the sword, and became mighty in war, turning the armies of the enemy to flight.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.997212381842709,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                38.2,
+                31.41,
+                30.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They did not merely quench the fire, but they quenched the power of fire, escaping its ability to harm them. Similar to the martyrs of the Reformation who were not spared from the flames but were delivered from its lasting impact. Through their weakness, they displayed the unstoppable power of weakness, shaking the forces of darkness. They quenched the power of fire, escaped the sword, and became mighty in war, turning the armies of the enemy to flight.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.997212381842709,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                38.2,
+                31.41,
+                30.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They did not extinguish the fire, but the power of the fire, which remained kindled but had no power against them to burn them. The martyrs of the Reformation, though not escaping the fire, were delivered from its power to harm them. Through their weakness, they shook the powers of darkness with the irresistible power of weakness. They quenched the power of fire, escaped the edge of the sword, and waxed mighty in war.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 2.1000926207259503,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.17,
+            "commentatorTierSimilarities": [
+                41.7,
+                30.0,
+                28.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

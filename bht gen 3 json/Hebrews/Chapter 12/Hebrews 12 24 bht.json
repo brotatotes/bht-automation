@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:51:03",
+    "verseRef": "Hebrews 12:24",
+    "bestBHT": {
+        "bht": "The mention of Jesus, the Perfecter of our faith, naturally follows the idea of being just made perfect at the resurrection. His blood was entirely poured out through sufferings and death, analogous to the animal sacrifices of the law. Through His blood, introduced into heaven, the dragon's right to accuse is taken away. Jesus, as the mediator of a new covenant, is now gloriously consummated. His blood speaks more powerfully than Abel's, leading us to embrace the application of His blood for justification, pardon, and cleansing.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.061211404794986,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+        "commentatorTierSimilarities": [
+            37.29,
+            33.16,
+            29.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The mention of Jesus, the Perfecter of our faith, and Himself perfected through sufferings and death, in His resurrection and ascension, is naturally suggested by the mention of 'the just made perfect' at their resurrection.",
+            "His blood was entirely 'poured out' of His body by the various ways in which it was shed, His bloody sweat, the crown of thorns, the scourging, the nails, and after death the spear, just as the blood was entirely poured out and extravasated from the animal sacrifices of the law.",
+            "This sprinkling is analogous to the sprinkled blood of the Passover. His blood introduced into heaven took away the dragon's right to accuse."
+        ],
+        "Albert Barnes": [
+            "The highest consideration which can be urged to induce anyone to persevere in a life of piety is the fact that the Son of God has come into the world and died to save sinners.",
+            "The blood of Jesus speaks better things than Abel did; that is, that the blood of Jesus is the 'reality' of which the offering of Abel was a 'type.'",
+            "The object here is to compare the Redeemer with Abel, not in the sense that the blood shed in either case calls for vengeance, but that salvation by blood is more clearly revealed in the Christian plan than in the ancient history."
+        ],
+        "John Calvin": [
+            "He alone through whom the Father is reconciled to us, and who renders his face serene and lovely to us, so that we may come to him without fear.",
+            "Christ's blood cries more efficaciously, and is better heard by God than the blood of Abel.",
+            "The blood of Christ cries out, and the atonement made by it is heard daily."
+        ],
+        "Archibald T. Robertson": [
+            "He is there as Lord and Saviour and still 'Jesus.'\" ",
+            "The mediator of a new covenant...now gloriously consummated.\" ",
+            "Abel's blood still speaks, but it is as nothing compared to that of Jesus."
+        ],
+        "John Gill": [
+            "Coming to Christ is by faith; and is different from a corporeal coming to him in the days of his flesh; and from an outward attendance on ordinances; it is a coming to him under a sense of want, and upon a sight of fulness; and is the produce of God's efficacious grace.\" ",
+            "The blood of Christ...denote the application of Christ's blood to his people, for justification, pardon, and cleansing, which is their great mercy and privilege.",
+            "Christ's blood cries for peace and pardon, both in the court of heaven, where it is pleaded by Christ, and in the court of conscience, where it is sprinkled by his spirit."
+        ],
+        "John Wesley": [
+            "To the blood of sprinkling \u2014 To all the virtue of his precious blood shed for you, whereby ye are sprinkled from an evil conscience.",
+            "This blood of sprinkling was the foundation of our Lord's mediatorial office.",
+            "Which speaketh better things than that of Abel \u2014 Which cried for vengeance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 12:24, the mention of Jesus, the Perfecter of our faith, is directly linked to the resurrection and ascension of the just made perfect through their union with Him. His blood, poured out in various ways, is the reality of the Passover's sprinkled blood, canceling the dragon's right to accuse and revealing the fullness of salvation by blood. The blood of Christ, speaking louder than Abel's, cries out for peace, pardon, and cleansing, both in heaven and in our consciences. Through faith, we come to Christ, embracing the application of His blood for justification, pardon, and a clear conscience. His blood is the foundation of His mediatorial office and speaks better things than Abel's, which cried for vengeance.",
+            "wordCount": 122,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 2.068448834135246,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                31.26,
+                32.84,
+                35.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of Jesus, the Perfecter of our faith, is connected to the resurrection and ascension of the just made perfect. His blood, shed in various ways, cancels the dragon's right to accuse and speaks louder than Abel's, crying out for peace and pardon. Through faith, we come to Christ, embracing the application of His blood for justification, pardon, and a clear conscience. His blood is the foundation of His mediatorial office, speaking better things than Abel's, which cried for vengeance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9377661890709634,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                32.28,
+                32.53,
+                35.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of Jesus, the Perfecter of our faith, naturally follows the idea of being just made perfect at the resurrection. His blood was entirely poured out through sufferings and death, analogous to the animal sacrifices of the law. Through His blood, introduced into heaven, the dragon's right to accuse is taken away. Jesus, as the mediator of a new covenant, is now gloriously consummated. His blood speaks more powerfully than Abel's, leading us to embrace the application of His blood for justification, pardon, and cleansing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.061211404794986,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                37.29,
+                33.16,
+                29.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Hebrews, the mention of Jesus as the Perfecter of our faith and His sufferings and death resonate with the idea of being just made perfect at the resurrection. His blood, poured out in various ways, cancelled the dragon's right to accuse and introduced a new covenant. Through faith, we come to Christ, embracing the application of His blood for justification, pardon, and cleansing. His blood speaks more powerfully than Abel's, crying out for peace, pardon, and a clear conscience.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9069102022591908,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                33.94,
+                30.99,
+                35.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of Jesus, the Perfecter of our faith, follows the idea of the just being made perfect at their resurrection. His blood, shed in various ways, like the animal sacrifices, took away the dragon's right to accuse. Jesus, as the mediator of a new covenant, is now gloriously consummated. His blood speaks powerfully, pleading for peace and pardon in the court of heaven and the court of conscience. Through faith, we come to Him, embracing the application of His blood for justification, pardon, and cleansing.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9005960211230772,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                36.85,
+                30.81,
+                32.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

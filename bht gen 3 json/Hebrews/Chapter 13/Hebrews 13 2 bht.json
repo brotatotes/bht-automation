@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:51:00",
+    "verseRef": "Hebrews 13:2",
+    "bestBHT": {
+        "bht": "As bound with them, bound to sympathy with prisoners, and subject to evil treatment, we are reminded of the duty to entertain strangers, for it is through them that we may be honored with the presence of those whose society will be a blessing and honor. The influence of such guests is invaluable to a family and can even lead to the conversion of a child. Like God, who loves strangers and may send His angels in disguise, we should remember to show love and hospitality, for it may result in deliverance and deepen our gratitude.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.4962394013959341,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.09,
+        "commentatorTierSimilarities": [
+            21.19,
+            49.85,
+            28.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "By entertaining the stranger we may perhaps be honored with the presence of those whose society will be to us an honor and a blessing.",
+            "The influence of such guests in a family is worth more than it costs to entertain them.",
+            "Many a parent owes the conversion of a child to the influence of a pious stranger in his family."
+        ],
+        "John Calvin": [
+            "This office of humanity has also nearly ceased to be properly observed among men; for the ancient hospitality, celebrated in histories, is unknown to us.\" ",
+            "He speaks not so much of the practice of hospitality as observed then by the rich; but he rather commends the miserable and the needy to be entertained, as at that time many were fugitives who left their homes for the name of Christ.\" ",
+            "God proved that hospitality was especially acceptable to him, when he rendered such a reward to Abraham and to Lot."
+        ],
+        "Philip Schaff": [
+            "Nor was this love confined to the family. The God they worshipped loves strangers.\" ",
+            "He sometimes sends His messengers, His angels in the disguise of wayfarers.",
+            "Loving and prayerful remembrance might bring deliverance, and would certainly comfort their hearts and deepen their thankfulness."
+        ],
+        "Archibald T. Robertson": [
+            "As bound with them (\u03c9\u03c2 \u03c3\u03c5\u03bd\u03b4\u03b5\u03b4\u03b5\u03bc\u03b5\u03bd\u03bf).",
+            "For sympathy with prisoners see Hebrews 10:34.",
+            "And so subject to evil treatment."
+        ],
+        "John Gill": [
+            "Be not forgetful to entertain strangers,.... And that this is a duty, appears from the light of nature, and practices of the Heathens.",
+            "the exhortation here not to forget it; and from the great regard which Christ will show to such as mind it, and his disregard to others at the last day",
+            "some have entertained angels unawares; as Abraham...and Lot...yea, some have unawares, this way, entertained Christ himself."
+        ],
+        "John Wesley": [
+            "So may an unknown guest, even now, be of more worth than he appears, and may have angels attending him, though unseen.",
+            "Some \u2014 Abraham and Lot.",
+            "Have entertained angels unawares."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As bound with them, we are reminded to have sympathy for prisoners and to be subject to evil treatment. By entertaining strangers, we not only honor them, but may also be honored with the presence of those whose society will be an honor and a blessing to us. The influence of such guests in a family is worth more than the cost of entertaining them, as many a parent owes the conversion of a child to the influence of a pious stranger in their home. Like God, who loves strangers and sometimes sends His messengers in the disguise of wayfarers, we should practice loving and prayerful remembrance, for it may bring deliverance and certainly comfort their hearts and deepen our thankfulness.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 1.5879454101727948,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "commentatorTierSimilarities": [
+                27.41,
+                48.59,
+                24.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As bound with them, bound to sympathy with prisoners, and subject to evil treatment, we are reminded of the duty to entertain strangers, for it is through them that we may be honored with the presence of those whose society will be a blessing and honor. The influence of such guests is invaluable to a family and can even lead to the conversion of a child. Like God, who loves strangers and may send His angels in disguise, we should remember to show love and hospitality, for it may result in deliverance and deepen our gratitude.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.4962394013959341,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.09,
+            "commentatorTierSimilarities": [
+                21.19,
+                49.85,
+                28.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As bound with them, we are to sympathize with prisoners and willingly endure mistreatment. The duty to entertain strangers is emphasized, recognizing that in doing so, we may have the privilege of hosting individuals whose presence would bring us honor and blessing. This act of hospitality holds great significance, as it has the potential to lead to the conversion of a child or even unknowingly entertain angels or Christ Himself. By demonstrating love and prayerful remembrance, we bring comfort, deeper thankfulness, and the possibility of deliverance to those in need.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.365806655036535,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.76,
+            "commentatorTierSimilarities": [
+                26.5,
+                41.63,
+                31.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As bound with them, we are called to show sympathy for prisoners and to endure mistreatment. Entertaining strangers is not just a kind gesture, but an opportunity to have the presence of individuals whose company is an honor and a blessing. This act of hospitality can have a profound impact, with the potential to lead to the conversion of a child or unknowingly invite angels or even Christ into our midst. By showing love and prayerful remembrance, we comfort and bring deliverance, deepening our gratitude and thankfulness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.337445984068617,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.81,
+            "commentatorTierSimilarities": [
+                25.56,
+                44.84,
+                29.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As bound with them, we are reminded to sympathize with prisoners and endure mistreatment. Entertaining strangers is not only an act of kindness, but an opportunity to have the presence of those whose company would be an honor and a blessing. This act of hospitality can have a significant impact, leading to the conversion of a child and even hosting angels or Christ Himself without realizing it. Through love and prayerful remembrance, we offer comfort, deliverance, and gratitude to those in need.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.3327752426277875,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.66,
+            "commentatorTierSimilarities": [
+                25.92,
+                42.45,
+                31.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

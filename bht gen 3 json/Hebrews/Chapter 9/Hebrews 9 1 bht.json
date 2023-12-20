@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:48:57",
+    "verseRef": "Hebrews 9:1",
+    "bestBHT": {
+        "bht": "The first covenant had ordinances of service and a worldly sanctuary, while the new covenant offers the infinite superiority of access into the holiest place through Christ's sacrifice. The blood of bulls and goats was insufficient to cleanse sins, in stark contrast to the supreme efficacy of Christ's blood. The rituals and ceremonies of the Mosaic Law served as types and figures of Christ, pointing to their fulfillment in Him. It is clear that the old covenant, with its material and outward sanctuary, should yield to the greater access of the new covenant.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.145354661206274,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+        "commentatorTierSimilarities": [
+            31.76,
+            27.81,
+            40.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The main point of comparison, the access into the holiest place, is hastened on. In this particular especially the infinite superiority of the new covenant is insisted on: and the whole access of Christ into God\u2019s presence for us is elaborately contrasted with the former insufficient ceremonial access by means of animal sacrifices.\" ",
+            "The supreme efficacy of the blood of Christ, as set against the nullity of the blood of bulls and of goats to purge away sin.",
+            "The first [covenant] had also ordinances of service, and its worldly sanctuary."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Accordingly then.\" Resuming the subject from :-. In accordance with the command given to Moses, \"the first covenant had,\" c.",
+            "a worldly sanctuary\u2014Greek, 'its (literally, 'the') sanctuary worldly,' mundane consisting of the elements of the visible world.",
+            "Material, outward, perishing (however precious its materials were), and also defective religiously."
+        ],
+        "Albert Barnes": [
+            "The object of Paul is to prove that they were to give place to a more perfect system, and hence, it was necessary to discuss their real nature.",
+            "The Jewish institutions abounded with such laws.",
+            "The term 'worldly,' applied to 'sanctuary,' here means that it pertained to this world; it was contradistinguished from the heavenly sanctuary not made with hands where Christ was now gone."
+        ],
+        "Marvin Vincent": [
+            "The meaning is ordinances directed to or adapted for divine service.",
+            "Rend. and its sanctuary a sanctuary of this world.",
+            "To agion in the sense of sanctuary only here."
+        ],
+        "John Calvin": [
+            "After having spoken generally of the abrogation of the old covenant, he now refers specially to the ceremonies... there was nothing practiced then to which Christ\u2019s coming has not put an end.\" ",
+            "He intimates that all the rites of the Mosaic Law were a part of the old covenant, and that they partook of the same ancientness, and were therefore to perish.\" ",
+            "The sanctuary in itself was indeed earthly, and is rightly classed among the elements of the world, it was yet heavenly as to what it signified."
+        ],
+        "Philip Schaff": [
+            "The writer speaks in the past tense, because he looks back to the original institution and the first tabernacle, partly also because from the vantage ground of the new covenant the old seems obsolete.\" ",
+            "As the writer is commending the first covenant, 'of this world' can hardly be only depreciatory. The word used, when not used ethically, describes the world in its order and beauty; and this is part of the thought: of this world indeed, and yet costly and beautiful.",
+            "The words at the beginning of the verse 'The first covenant then indeed' are concessive and resumptive, taking up the thought in chap. Hebrews 8:7; Hebrews 8:13."
+        ],
+        "Archibald T. Robertson": [
+            "Even the first covenant is doubtful.",
+            "Regulations as in Luke 1:6; Romans 5:16.",
+            "The whole sanctuary is described as 'holy' as in Exodus 36:3; Numbers 3:38."
+        ],
+        "John Gill": [
+            "they were all types and figures of Christ, and had their fulfilment in him.",
+            "the better reason of its being so called is, because it consisted of earthly matter, and worldly things",
+            "he that never saw Herod's building, meaning the temple, never saw a beautiful building"
+        ],
+        "John Wesley": [
+            "The first covenant had ordinances of outward worship, and a worldly - a visible, material sanctuary, or tabernacle. Of this sanctuary he treats, Hebrews 9:2-5. Of those ordinances, Hebrews 9:6-10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The main point of comparison in Hebrews 9:1 is the access into the holiest place. The first covenant had ordinances of service and a worldly, material sanctuary. While this sanctuary may have been beautiful, it was outward and perishing, and the blood of bulls and goats could not truly cleanse sins. The writer of Hebrews wants to prove that this old covenant, with its earthly sanctuary and insufficient access, should give way to the greater efficacy of Christ's blood and the new covenant. All the rituals and ceremonies of the Mosaic Law were merely types and figures of Christ, and their fulfillment is found in Him.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.1276041943989425,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                30.49,
+                29.79,
+                39.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The main point of comparison in this verse is the access into the holiest place, and the first covenant had ordinances of service and a worldly sanctuary. This sanctuary, though beautiful, was outward and perishing. The blood of bulls and goats could not truly cleanse sins, highlighting the supreme efficacy of Christ's blood in the new covenant. The writer wants to prove that the old covenant should give way to the greater access provided by Christ's sacrifice. All the rituals and ceremonies of the Mosaic Law were mere types and figures of Christ, fulfilled in Him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.0924020882112133,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.91,
+            "commentatorTierSimilarities": [
+                30.55,
+                30.86,
+                38.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The main point of comparison is the access into the holiest place, which highlights the infinite superiority of the new covenant over the former insufficient access through animal sacrifices. The first covenant had ordinances of service and a worldly sanctuary, which was material, outward, and perishing. The writer emphasizes the supreme efficacy of Christ's blood in contrast to the nullity of the blood of bulls and goats. All the rituals and ceremonies of the Mosaic Law were types and figures of Christ, fulfilled in Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0455806373840275,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                31.79,
+                27.25,
+                40.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first covenant had ordinances of service and a worldly sanctuary, which was material, outward, and perishing. The main point of comparison is the access into the holiest place, highlighting the infinite superiority of the new covenant. The blood of bulls and goats lacked the supreme efficacy of Christ's blood to purge away sin. All the rituals and ceremonies of the Mosaic Law were types and figures of Christ, fulfilled in Him. The old covenant, with its earthly sanctuary and insufficient access, should give way to the greater access provided by Christ's sacrifice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.1140330251537733,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                32.3,
+                27.53,
+                40.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first covenant had ordinances of service and a worldly sanctuary, while the new covenant offers the infinite superiority of access into the holiest place through Christ's sacrifice. The blood of bulls and goats was insufficient to cleanse sins, in stark contrast to the supreme efficacy of Christ's blood. The rituals and ceremonies of the Mosaic Law served as types and figures of Christ, pointing to their fulfillment in Him. It is clear that the old covenant, with its material and outward sanctuary, should yield to the greater access of the new covenant.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.145354661206274,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                31.76,
+                27.81,
+                40.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

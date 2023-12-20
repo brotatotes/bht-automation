@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:51:04",
+    "verseRef": "Hebrews 12:12",
+    "bestBHT": {
+        "bht": "Suffering chastisement is the part of God\u2019s sons and running the race successfully brings joy and peace. Put straight again the relaxed hands, and the paralyzed knees. Lift up not only your own hands and knees but also those of your brethren, because chastening is necessary for wholesome discipline. Set right and strengthen the weary hands and knees, renew your courage, and make a new effort to bear the hardships. Confidence in God, hope of heaven, and the assurance that all this is for our good will reinvigorate us to endure.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.9525698719747524,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+        "commentatorTierSimilarities": [
+            28.9,
+            38.5,
+            32.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Suffering chastisement is the part of God\u2019s sons.",
+            "The running the race successfully brings joy and peace.",
+            "Put straight again the relaxed hands, and the paralyzed knees."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Put straight again the relaxed hands.",
+            "The first relates to ourselves.",
+            "Lift up not only your own hands and knees, but also those of your brethren."
+        ],
+        "Albert Barnes": [
+            "Renew your courage; make a new effort to bear them. The hands fall by the side when we are exhausted with toil, or worn down by disease.",
+            "Courage and resolution may do much, however, to make them firm, and it is to this that the apostle exhorts those to whom he wrote.",
+            "Confidence in God, and the hope of heaven, and the assurance that all this is for our good, will reinvigorate the enfeebled frame, and enable us to bear what we once supposed would crush us to the dust."
+        ],
+        "Marvin Vincent": [
+            "Because chastening is thus necessary, and serves for wholesome discipline, and issues in holiness.",
+            "The translation here should be more general: not lift up, which is inappropriate to paralyzed knees, but set right; brace.",
+            "Rend. the slackened or weakened hands. Comp. Isaiah 35:3; Sir. 25 23; 2 Samuel 4:1."
+        ],
+        "John Calvin": [
+            "There is, therefore, nothing more efficacious to raise us up than the intimation that God is present with us, even when he afflicts us, and is solicitous about our welfare.",
+            "Many would be willing to profess their faith, but as they fear persecution, hands and feet are wanting to that pious feeling of the mind.",
+            "This, then, is what the Apostle means here, 'You have your hands,' he says, 'hanging down and your knees feeble, because ye know not what real consolation there is in adversity; hence ye are slow to do your duty.'"
+        ],
+        "Archibald T. Robertson": [
+            "Because of the chastening.",
+            "Lift up...to make straight.",
+            "Hang down...to relax."
+        ],
+        "John Gill": [
+            "Lift up the hands which hang down, and the feeble knees\" - to be active in every duty; to be courageous against every enemy; to bear patiently every burden; to take heart, and be of good cheer under every afflictive providence.",
+            "The exhortation to 'lift up the hands which hang down, and the feeble knees' is to be active in every duty; to be courageous against every enemy; to bear patiently every burden; to take heart, and be of good cheer under every afflictive providence.",
+            "What is signified in them [the hands and knees] is done by sympathizing with persons in distress; by speaking comfortably to them, and by bearing their burdens."
+        ],
+        "John Wesley": [
+            "Wherefore lift up the hands \u2014 Whether your own or your brethren's.",
+            "That hang down \u2014 Unable to continue the combat.",
+            "And the feeble knees \u2014 Unable to continue the race. Isaiah 35:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Suffering chastisement is a necessary part of being God's children, but we can find joy and peace by successfully running the race of faith. The verse encourages us to set right and strengthen not just our own weary hands and knees, but also to uplift and support our fellow believers. Chastening teaches us discipline and leads to holiness. We need to renew our courage and make a renewed effort to bear the hardships. Our confidence in God, hope of heaven, and the assurance that all things work for our good can reinvigorate us and enable us to endure what we once thought would crush us. Ultimately, we are urged to be active in every duty, courageous against every enemy, patient with every burden, and to take heart under every afflictive providence.",
+            "wordCount": 132,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6534544288030324,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                18.51,
+                46.76,
+                34.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Suffering chastisement is the part of God\u2019s sons and running the race successfully brings joy and peace. Put straight again the relaxed hands, and the paralyzed knees. Lift up not only your own hands and knees but also those of your brethren, because chastening is necessary for wholesome discipline. Set right and strengthen the weary hands and knees, renew your courage, and make a new effort to bear the hardships. Confidence in God, hope of heaven, and the assurance that all this is for our good will reinvigorate us to endure.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9525698719747524,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                28.9,
+                38.5,
+                32.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Suffering chastisement is a necessary part of being God's children, but we can find joy and peace by successfully running the race of faith. We are urged to set right and strengthen our weary hands and knees, as well as uplift and support our fellow believers. Chastening teaches us discipline and leads to holiness. Renewing our courage and making a renewed effort to bear hardships is crucial. Our confidence in God and the assurance that all things work for our good can reinvigorate us to endure.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6291434301593062,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
+            "commentatorTierSimilarities": [
+                21.91,
+                46.22,
+                31.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Suffering chastisement is a necessary part of being God's children. We can find joy and peace by successfully running the race of faith. The verse encourages us to set right and strengthen our weary hands and knees, and also to uplift and support our fellow believers. Chastening teaches us discipline and leads to holiness. Renewing our courage and making a renewed effort to bear hardships is crucial. Our confidence in God and the assurance that all things work for our good can reinvigorate us to endure.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.5568063558727414,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                24.64,
+                43.79,
+                31.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Suffering chastisement is the part of God\u2019s sons and running the race successfully brings joy and peace. Put straight again the relaxed hands, and the paralyzed knees. Lift up not only your own hands and knees but also those of your brethren, because chastening is necessary for wholesome discipline. Set right and strengthen the weary hands and knees, renew your courage, and make a new effort to bear the hardships. Confidence in God, hope of heaven, and the assurance that all this is for our good will reinvigorate us to endure.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9525698719747524,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                28.9,
+                38.5,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

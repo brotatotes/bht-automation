@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:49:10",
+    "verseRef": "Hebrews 9:21",
+    "bestBHT": {
+        "bht": "Looking beyond the ordinances of the law, this description goes deeper into the dedication of the tabernacle and its vessels. Josephus provides a corroborating account, stating that the tabernacle and its vessels were consecrated with the blood of bulls and rams. The sprinkling of blood, mentioned in Leviticus, symbolizes purification and the need for blood for cleansing. This points to the typological connection between the tabernacle and the church, which is purified and cleansed by the blood of Christ, allowing access to God's presence.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.3287366229024897,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+        "commentatorTierSimilarities": [
+            28.85,
+            30.58,
+            40.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This being so, we must look beyond the ordinances of the law itself for the fact here detailed.",
+            "For all that we have in the law respecting the dedication of the tabernacle and its vessels is in Exod. xl. 9, 10, where Moses is commanded to take the anointing oil, and to anoint the tabernacle and all that is therein, and to hallow it, and all the vessels thereof.",
+            "And this is not merely a hypothesis. For Josephus gives an account agreeing with ours almost verbatim."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sprinkling of the tabernacle with blood is added by inspiration here to the account in Exodus 30:25-30; Exodus 40:9; Exodus 40:10, which mentions only Moses' anointing the tabernacle and its vessels.",
+            "In Leviticus 8:10; Leviticus 8:15; Leviticus 8:30, the sprinkling of blood upon Aaron and his garments, and upon his sons, and upon the altar, is mentioned as well as the anointing.",
+            "The tabernacle and its contents needed purification."
+        ],
+        "Albert Barnes": [
+            "He sprinkled...both the tabernacle - This circumstance is not stated by Moses.",
+            "Josephus (Ant. book iii, chapter 8, section 6), says that he consecrated it and the vessels thereto belonging with the blood of bulls and of rams.",
+            "And all the vessels of the ministry - Employed in the service of God."
+        ],
+        "Philip Schaff": [
+            "Moreover, the tabernacle and all the vessels of the ministry (the service) he sprinkled in like manner with blood.",
+            "And according to the law almost all things are cleansed with (in) blood... there is no remission (forgiveness).",
+            "The need on blood and the significance of it may be seen in Leviticus 17:11."
+        ],
+        "Archibald T. Robertson": [
+            "In like manner with the blood.\" ",
+            "But the use of the article does not necessarily refer to the blood mentioned in verse Hebrews 9:19.\" ",
+            "Blood was used annually in the cleansing rites on the day of atonement."
+        ],
+        "John Gill": [
+            "The tabernacle was typical of the church, in which God dwells, being purified and cleansed by the blood of Christ; and this shows, that there is no coming into the presence of God, the place where he dwells, without blood.",
+            "These may denote the vessels of grace and mercy, the elect of God, whose hearts are sprinkled by the blood of Christ from an evil conscience, and whose garments are washed in it, and made white by it.",
+            "The tabernacle, and its vessels, were not only anointed with oil, but sprinkled with the blood of bulls and goats, as well as the garments of Aaron, and his sons."
+        ],
+        "John Wesley": [
+            "And in like manner he ordered the tabernacle - When it was made, and all its vessels, to be sprinkled with blood once a year."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 9:21, the author goes beyond the detailed instructions in the law regarding the dedication of the tabernacle and its vessels. While Exodus only mentions Moses anointing the tabernacle and its contents, inspiration adds the sprinkling of blood to this account. This act of sprinkling with blood was also mentioned in Leviticus, pointing to the annual cleansing rites on the day of atonement. The tabernacle and its contents were in need of purification, which is done in a similar manner with blood. This emphasizes the significance of blood for cleansing, as seen in Leviticus 17:11. Ultimately, this highlights the typological connection between the tabernacle and the church, which is purified and cleansed by the blood of Christ. Without this blood, there is no access to the presence of God.",
+            "wordCount": 128,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.307422931482301,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.06,
+            "commentatorTierSimilarities": [
+                30.57,
+                31.66,
+                37.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This verse goes beyond the detailed instructions in the law regarding the dedication of the tabernacle and its vessels. Josephus's account aligns with it, adding that the tabernacle and its vessels were consecrated with the blood of bulls and rams. The act of sprinkling with blood is mentioned in Leviticus as well. It emphasizes the need for blood and its significance in cleansing. This connects to the typological representation of the tabernacle as the church, purified and cleansed by the blood of Christ for access to God's presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.2898225116158883,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.48,
+            "commentatorTierSimilarities": [
+                29.18,
+                31.3,
+                39.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage goes beyond the instructions in the law about dedicating the tabernacle and its vessels. Josephus provides a similar account, mentioning the consecration of the tabernacle and its vessels with the blood of bulls and rams. Leviticus also mentions the sprinkling of blood as a means of purification. This highlights the significance of blood in cleansing and underscores the typological connection between the tabernacle and the church, which is purified and cleansed by the blood of Christ for access to God's presence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.383374529714378,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.59,
+            "commentatorTierSimilarities": [
+                29.78,
+                31.24,
+                38.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Looking beyond the ordinances of the law, this description goes deeper into the dedication of the tabernacle and its vessels. Josephus provides a corroborating account, stating that the tabernacle and its vessels were consecrated with the blood of bulls and rams. The sprinkling of blood, mentioned in Leviticus, symbolizes purification and the need for blood for cleansing. This points to the typological connection between the tabernacle and the church, which is purified and cleansed by the blood of Christ, allowing access to God's presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.3287366229024897,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+            "commentatorTierSimilarities": [
+                28.85,
+                30.58,
+                40.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This account looks beyond the ordinances of the law to delve into the dedication of the tabernacle and its vessels. According to Josephus, the tabernacle and its vessels were consecrated with the blood of bulls and rams. In Leviticus, the significance of blood for cleansing is emphasized. This highlights the typological connection between the tabernacle and the church, which is purified and cleansed by the blood of Christ, allowing access to God's presence.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.327820818790285,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.74,
+            "commentatorTierSimilarities": [
+                28.5,
+                31.4,
+                40.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

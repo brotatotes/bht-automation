@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:47:21",
+    "verseRef": "Hebrews 4:3",
+    "bestBHT": {
+        "bht": "The promised rest, which we as believers are called to enter, is a future reality that characterizes us. God's works were finished from the foundation of the world, yet the rest we are to enter has not yet been obtained. It is a rest that remains for the people of God in heaven. The condition for entering this rest is faith, as those who did not believe were not permitted to enter. God's promise of rest still stands, and as believers, we can be sure that we will enter in, trusting in His word.",
+        "wordCount": 96,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 2.28744789452757,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+        "commentatorTierSimilarities": [
+            31.09,
+            37.32,
+            31.59
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We do enter (are to enter) into the (aforesaid) rest, we who believed, even as He hath said.",
+            "The entering into God's rest is a thing YET FUTURE for God\u2019s people.",
+            "The works of God were constituted (i.e. finished) from the foundation of the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we which have believed\u2014we",
+            "who at Christ's coming shall be found to have believed.",
+            "the promised 'rest' has not yet been entered into.",
+            "THEREFORE, there",
+            "must be meant a rest still future, namely, that which",
+            "'maineth for the people of God' in heaven."
+        ],
+        "Albert Barnes": [
+            "God made a promise of rest to those who believe. They to whom the offer was first made failed, and did not enter in. It must follow, therefore, that the offer extended to others, since God designed that some should enter in, or that it should not he provided in vain.\u201d ",
+            "The rest here spoken of as reserved for Christians must be different from that of the promised land. It is something that pertains to Christians now, and it must, therefore, refer to the 'rest' that remains in heaven.\u201d",
+            "To prove that Christians were to attain to 'such' a rest, was the purpose which the apostle had in view - showing that it was a general doctrine pertaining to believers in every age, that there was a promise of rest for them."
+        ],
+        "Marvin Vincent": [
+            "Entering into the rest is a fact which characterizes us as believers.",
+            "We (who believed) enter into rest in accordance with God's declaration that they (who did not believe) should not enter.",
+            "The point is faith as the condition of entering into the rest."
+        ],
+        "John Calvin": [
+            "Unbelief alone shuts us out; then faith alone opens an entrance.",
+            "The true rest of the faithful, which is to continue forever, will be when they shall rest as God did.",
+            "Inasmuch as God had sworn that the unbelieving should not enter into his rest long after the rest of the sabbath was appointed; it follows as a necessary consequence that some do enter into it, though the unbelieving did not enter."
+        ],
+        "Archibald T. Robertson": [
+            "We are sure to enter in, we who believe.",
+            "God has spoken. That is enough for us.",
+            "From the foundation of the world."
+        ],
+        "John Gill": [
+            "Not eternal rest; all believers shall enjoy this, and they only; but this is not now, or at present enjoyed, unless things future may be said to be present, because of faith in them, and the certainty of them...\" ",
+            "This character distinguishes them from the unbelieving Israelites of old, and from present hypocrites and formal professors...\" ",
+            "None but believers enter into spiritual rest."
+        ],
+        "John Wesley": [
+            "That psalm mentions a rest: yet it does not mean, 1. God's rest from creating; for this was long before the time of Moses.",
+            "Therefore it is, 3. The eternal rest in heaven.",
+            "Whence it is plain, God did not speak of resting from them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The promised rest, which we as believers are called to enter, is a future reality that characterizes us. God's works were finished from the foundation of the world, yet the rest we are to enter has not yet been obtained. It is a rest that remains for the people of God in heaven. The condition for entering this rest is faith, as those who did not believe were not permitted to enter. God's promise of rest still stands, and as believers, we can be sure that we will enter in, trusting in His word.",
+            "wordCount": 96,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 2.28744789452757,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                31.09,
+                37.32,
+                31.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The promised rest, a future reality for believers, characterizes us as we enter through faith. While God's works were finished from the beginning, the rest we are called to has not yet been obtained. It remains reserved for the people of God in heaven. This condition of faith sets believers apart from those who did not believe and were unable to enter. With confidence in God's spoken promise, we can be sure of our entrance into this rest.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1207096056088166,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                31.26,
+                36.54,
+                32.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are to enter into a future rest that has not yet been experienced. This future rest is something that characterizes us as believers and is the condition of entering into the rest. Unbelievers are shut out from this rest, but faith opens the entrance. The promise of rest made by God is not in vain and extends to believers in every age. It is a rest that remains in heaven and will be enjoyed forever by those who rest as God did. This rest distinguishes believers from unbelievers and is not currently enjoyed unless by faith in its certainty.",
+            "wordCount": 100,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 2.2169394789349974,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+            "commentatorTierSimilarities": [
+                26.11,
+                38.19,
+                35.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are to enter into a future rest, a rest that characterizes us and is the condition of entry. Unbelief shuts us out, but faith opens the entrance. The promise of rest is not in vain and extends to believers in every age. It is a rest that remains in heaven, enjoyed forever by those who rest as God did. This rest distinguishes believers from unbelievers and is not currently enjoyed unless by faith in its certainty.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1014677290910475,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                25.46,
+                37.74,
+                36.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through faith, we enter into a future rest that God has promised to His people. This rest is not the same as the rest in the promised land, but rather a rest that pertains to Christians in the present and points to the eternal rest in heaven. Unbelief shuts us out from this rest, but faith opens the door for us. As believers, we are characterized by our ability to enter into this spiritual rest, which distinguishes us from unbelievers. God's declaration is enough for us, and by believing in His promises, we are assured that we will enter into the rest that God has ordained since the foundation of the world.",
+            "wordCount": 113,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.202881199535551,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.59,
+            "commentatorTierSimilarities": [
+                28.52,
+                38.66,
+                32.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

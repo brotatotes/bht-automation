@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:49:09",
+    "verseRef": "Hebrews 9:25",
+    "bestBHT": {
+        "bht": "Christ entered the true sanctuary with his own blood, not needing to repeat his sacrifice like the Levitical priests. His purpose was not to offer himself often, but to present himself before God in the heavenly sanctuary. His offering refers to his entrance and presentation, rather than his sacrifice on the cross. By entering once for all, Christ's eternal priesthood is sustained, as his sacrifice fulfilled the law, satisfied justice, and obtained complete salvation.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.309556408763495,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.13,
+        "commentatorTierSimilarities": [
+            32.83,
+            31.53,
+            35.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It was not into the typical, but the true sanctuary, that Christ is entered.",
+            "His sacrifice needs not, as the Levitical sacrifices did, to be repeated.",
+            "Nor yet did He enter for this purpose that He may offer Himself often."
+        ],
+        "Albert Barnes": [
+            "It was not needful that he should enter the holy place but once. Having entered there, he permanently remains there.",
+            "Christ entered there with his own blood.",
+            "Christ entered there with his own blood; notes on Hebrews 9:12."
+        ],
+        "Marvin Vincent": [
+            "Nor yet did he enter that he might offer, He should offer himself often. His offering did not need repetition like the Levitical sacrifices.",
+            "Offer himself refers rather to Christ's entrance into the heavenly sanctuary and presentation of himself before God, than to his offering on the cross.",
+            "The point is that, being once in the heavenly sanctuary, Christ was not compelled to renew often his presentation of himself there, since, in that case, it would be necessary for him to suffer often."
+        ],
+        "John Calvin": [
+            "But as that only true sacrifice which Christ offered once for all is ever efficacious, and thus perpetual in its effects, it is no wonder that on its virtue, which never fails, Christ\u2019s eternal priesthood should be sustained.",
+            "Christ offered himself and not an animal.",
+            "He repeated not his sacrifice, as under the Law, for the repetition there was frequent and even incessant."
+        ],
+        "Archibald T. Robertson": [
+            "That he should offer himself often (\u03b9\u03bd\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1\u03ba\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c6\u03b5\u03c1\u03b7 \u03b5\u03b1\u03c5\u03c4\u03bf\u03bd).",
+            "Purpose clause with \u03b9\u03bd\u03b1 and present active subjunctive of \u03c0\u03c1\u03bf\u03c3\u03c6\u03b5\u03c1\u03c9 (keep on offering himself, like Hebrews 5:1; Hebrews 5:3).",
+            "With blood not his own (\u03b5\u03bd \u03b1\u03b9\u03bc\u03b1\u03c4 \u03b1\u03bb\u03bb\u03bf\u03c4\u03c1\u03b9\u03c9). So-called instrumental use of \u03b5\u03bd (accompaniment)."
+        ],
+        "John Gill": [
+            "Which shows the perfection of his sacrifice, for justice was satisfied, the law fulfilled, sin done away, and complete salvation obtained at once.",
+            "Christ entered into heaven with his own blood, he having been altar, priest, and sacrifice.",
+            "Christ has entered into heaven once for all, where he sits down and continues, having done his work effectually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, unlike the Levitical priests who entered the typical sanctuary with the blood of animals, entered the true sanctuary with his own blood. His sacrifice was not like the Levitical sacrifices that needed to be repeated often. His purpose in entering was not to offer himself over and over again, but to present himself before God in the heavenly sanctuary. His one sacrifice on the cross was sufficient and efficacious, satisfying justice, fulfilling the law, and obtaining complete salvation. Thus, Christ's eternal priesthood is sustained by the perpetual effects of his perfect sacrifice. He entered once for all, where he now sits in heaven, having accomplished his work effectively.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.1212665565901716,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                30.74,
+                31.25,
+                38.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, unlike the Levitical sacrifices, entered the true sanctuary, not the typical one. His sacrifice didn't need repetition; it was offered once for all. His purpose in entering wasn't to offer himself often, but to present himself before God in the heavenly sanctuary. He entered heaven with his own blood, altar, priest, and sacrifice. His one sacrifice on the cross fulfilled the law, satisfied justice, and obtained complete salvation. Thus, Christ's eternal priesthood is sustained by the perpetual effects of his perfect sacrifice.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.13860848950806,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                31.13,
+                30.14,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ entered the true sanctuary, not the typical one, with his own blood. His sacrifice does not require repetition like the Levitical sacrifices did. He did not enter to offer himself often, but rather to present himself in the heavenly sanctuary. His offering refers to his entrance and presentation before God. By entering once for all, Christ's eternal priesthood is sustained, as his sacrifice on the cross satisfied justice, fulfilled the law, and obtained complete salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2134048823550776,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.94,
+            "commentatorTierSimilarities": [
+                32.94,
+                33.7,
+                33.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ entered the true sanctuary with his own blood, not needing to repeat his sacrifice like the Levitical priests. His purpose was not to offer himself often, but to present himself before God in the heavenly sanctuary. His offering refers to his entrance and presentation, rather than his sacrifice on the cross. By entering once for all, Christ's eternal priesthood is sustained, as his sacrifice fulfilled the law, satisfied justice, and obtained complete salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.309556408763495,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.13,
+            "commentatorTierSimilarities": [
+                32.83,
+                31.53,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, unlike the Levitical sacrifices, entered the true sanctuary with his own blood. His sacrifice didn't need repetition; it was offered once for all. His purpose in entering wasn't to offer himself often, but to present himself before God in the heavenly sanctuary. His one sacrifice on the cross fulfilled the law, satisfied justice, and obtained complete salvation. Thus, Christ's eternal priesthood is sustained by the perpetual effects of his perfect sacrifice. He entered once for all, where he now sits in heaven, having accomplished his work effectively.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.131947784362125,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                30.95,
+                30.81,
+                38.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

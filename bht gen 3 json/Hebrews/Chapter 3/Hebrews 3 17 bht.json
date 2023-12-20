@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:46:32",
+    "verseRef": "Hebrews 3:17",
+    "bestBHT": {
+        "bht": "The Israelites' bodies fell limb from limb in the wilderness as a consequence of their sins and unbelief. This serves as a cautionary tale against unbelief for Christians, reminding them of the danger of revolting against God. Unbelief was the chief cause of their curse, resulting in the denial of the promised rest and subsequent sins. Their collective sins grieved God, acting as a transgression of His law and provoking His wrath, which ultimately led to their deaths as a judicial punishment.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.6624921876880665,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+        "commentatorTierSimilarities": [
+            14.01,
+            43.9,
+            42.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Moreover, it is not in contrast to, but carrying out the same thought.",
+            "Their bodies fell limb from limb.",
+            "Implying that their bodies fell limb from limb."
+        ],
+        "Albert Barnes": [
+            "As God was angry with them for their sins, we have the same reason to apprehend that he will be angry with us if we sin.\" ",
+            "We should, therefore, be on our guard against that unbelief which would lead us to depart from him.",
+            "Such an example of the effects of revolt against God, and of unbelief, was well suited to admonish Christians in the time of the apostle, and is suited to admonish us now, of the danger of the sin of unbelief."
+        ],
+        "Marvin Vincent": [
+            "Carcasses [\u03c4\u03b1 \u03ba\u03c9\u03bb\u03b1] . N. T. o. LXX for peger, a corpse. Kwlon properly a limb.\" ",
+            "The idea of dismemberment underlies the use of the word.",
+            "Who katestrwqhsan ejn th ejrhmw were strewn down along in the wilderness."
+        ],
+        "John Calvin": [
+            "At the same time we must come to this conclusion, that unbelief was the chief of all their evils; for though he mentions this the last, he yet means that it was the primary cause of their curse...",
+            "And as at first they deserved through their unbelief that God should deprive them of the promised rest, so whatever sin they committed afterwards flowed from the same fountain.",
+            "The Apostle\u2019s words, therefore, contain a statement of the whole instead of a part, a mode of speaking frequently employed when a multitude or body of people are spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "With them that sinned.",
+            "Carcases. Old word for members of the body.",
+            "In LXX a dead body, here only in N.T."
+        ],
+        "John Gill": [
+            "They sinned as a body of men; they joined together in the commission of sin; every sin is grieving to God, because it is contrary to his nature, is an act of enmity to him, is a transgression of his righteous law, and a contempt of his authority...",
+            "Especially public sins, or the sins of a multitude, and when they are persisted in, which was the case of the Israelites; they sinned against him during the forty years they were in the wilderness...",
+            "They died in the wilderness; and they did not die common and natural deaths, at least not all of them; their deaths were by way of punishment; in a way of wrath; in a judicial way..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse implies that the Israelites' bodies fell limb from limb in the wilderness, signifying dismemberment and punishment for their sins. This serves as a cautionary tale for believers, warning against unbelief and the dangers of revolting against God. The primary cause of their curse was unbelief, which led to their deprivation of the promised rest and subsequent sins. Their sins, committed as a collective, grieved God, as they were contrary to His nature, transgressions of His law, and disrespect for His authority. Ultimately, their deaths were a divine judgment and a manifestation of God's wrath. Christians should take heed and guard against similar unbelief, knowing that God can be angry with us if we sin.",
+            "wordCount": 117,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.592597613117909,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                11.33,
+                47.29,
+                41.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Israelites' bodies were strewn down in the wilderness, falling limb from limb as a consequence of their sins and unbelief. This serves as a powerful admonition for Christians to be cautious and not repeat the same mistakes. Unbelief was the primary cause of their curse, leading to their denial of the promised rest and subsequent sinful actions. As a collective, their sins grieved God, acting contrary to His nature and laws, thereby inviting His wrath and bringing about their deaths as a divine judgment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5190755443559403,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                14.03,
+                41.3,
+                44.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Israelites, with their bodies strewn in the wilderness, faced divine punishment as a result of their sins and unbelief. This serves as a powerful reminder for Christians to guard against the same unbelief and its destructive consequences. Their disbelief was the primary cause of their curse, leading to the denial of the promised rest and subsequent sins. These collective transgressions stood as an affront to God, provoking His anger and resulting in their deaths as a manifestation of divine judgment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4967022769574374,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                8.06,
+                46.19,
+                45.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Israelites' bodies fell limb from limb in the wilderness as a consequence of their sins and unbelief. This serves as a cautionary tale against unbelief for Christians, reminding them of the danger of revolting against God. Unbelief was the chief cause of their curse, resulting in the denial of the promised rest and subsequent sins. Their collective sins grieved God, acting as a transgression of His law and provoking His wrath, which ultimately led to their deaths as a judicial punishment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6624921876880665,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                14.01,
+                43.9,
+                42.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Israelites faced divine punishment, their bodies strewn in the wilderness, limb from limb, as a result of their sins and unbelief. This serves as a powerful admonition for Christians to guard against similar unbelief and its destructive consequences. Unbelief was the primary cause of their curse, leading to the denial of the promised rest and subsequent sins. These collective sins grieved God, provoking His anger and resulting in their deaths as divine judgment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.5592694705368437,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                11.2,
+                45.13,
+                43.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

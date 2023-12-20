@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:50:16",
+    "verseRef": "Hebrews 11:26",
+    "bestBHT": {
+        "bht": "Moses esteemed the reproach of Christ as greater riches than the treasures of Egypt, recognizing that it was the reproach unique to Christ and that he, as a follower of Jesus, would also bear. This reproach, which falls on the Church and is regarded by Christ as his own, will transform into great glory for Christ's people. By choosing affliction over sin, Moses laid up treasure in heaven and demonstrated his unwavering faith in the promise of a future state of happiness in heaven, beyond worldly riches.",
+        "wordCount": 88,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.2878718594258562,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.41,
+        "commentatorTierSimilarities": [
+            37.0,
+            31.35,
+            31.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the reproach of Christ... the reproach which falls on the Church, and which Christ regards as His own reproach\" ",
+            "Israel typified Christ; Israel's sufferings were Christ's sufferings",
+            "Christ's people's reproach will ere long be their great glory"
+        ],
+        "Albert Barnes": [
+            "Reproach itself is not desirable; but reproach, when a man receives it in an effort to do good to others, is worth more to him than gold.\" ",
+            "The scars which an old soldier has received in the defense of his country are more valued by him than his pension; and the reproach which a good man receives in endeavoring to save others is a subject of greater joy to him than would be all the wealth which could be gained in a life of sin.",
+            "The declaration here proves that it is right to have respect to the rewards of heaven in serving God. It does not prove that this was the only or the main motive which induced Moses to abandon his prospects at court; nor does it prove that this should be our main or only motive in leading a life of piety."
+        ],
+        "Marvin Vincent": [
+            "Esteeming the reproach of Christ. The participle gives the reason for his choice of affliction instead of sin: since he esteemed.",
+            "The reproach of Christ\" is the reproach peculiar to Christ; such as he endured.",
+            "The writer uses it as a current form of expression, coloring the story of Moses with a Christian tinge."
+        ],
+        "John Calvin": [
+            "We ought to shun as a deadly poison whatever cannot be enjoyed without offending God.",
+            "Let every one then bear in mind, that as he is called to this fellowship he is to throw off all hindrances.",
+            "Faith, apart from justification, since it extends generally to every word of God, has respect to the reward that is promised; yea, by faith we embrace whatever God promises"
+        ],
+        "Archibald T. Robertson": [
+            "The reproach of Christ... rightly applied by the writer to Jesus as the Messiah who had his own shame to bear.",
+            "There is today as then... a special reproach in being a follower of Jesus Christ.",
+            "Moses took this obloquy as 'greater riches' than 'the treasures of Egypt'... Moses was laying up treasure in heaven."
+        ],
+        "John Gill": [
+            "He esteemed that riches for which he was reproached, as Christ, his word, and ordinances, and communion with the saints in them; all which are comparable to gold, silver, and precious stones; yea, are more valuable and desirable than thousands of gold and silver.\" ",
+            "Reproach itself riches; that is, he esteemed that riches for which he was reproached, as Christ, his word, and ordinances, and communion with the saints in them.",
+            "His faith was of things unseen; and this caused him to prefer even afflictions with the saints, and reproaches for Christ, to all worldly riches and grandeur."
+        ],
+        "John Wesley": [
+            "The reproach of Christ \u2014 That which he bore for believing in the Messiah to come, and acting accordingly.",
+            "For he looked off \u2014 From all those perishing treasures, and beyond all those temporal hardships Unto the recompence of reward.",
+            "Not to an inheritance in Canaan; he had no warrant from God to look for this, nor did he ever attain it; but what his believing ancestors looked for,-a future state of happiness in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses chose to endure the reproach of Christ, viewing it as a treasure greater than the riches of Egypt. This reproach, reminiscent of the sufferings of Israel that typified Christ's own sufferings, was seen by Moses as a glorious testament to his faith. As followers of Jesus Christ, we too may experience a special reproach for our beliefs. Yet, like Moses, we should consider this reproach as a heavenly treasure, far surpassing any earthly riches. With our eyes fixed on the recompense of a heavenly reward, we should be willing to bear reproach for the sake of Christ, just as Moses did.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.162516727091257,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                40.71,
+                31.05,
+                28.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses esteemed the reproach of Christ as greater riches than the treasures of Egypt, recognizing that it was the reproach unique to Christ and that he, as a follower of Jesus, would also bear. This reproach, which falls on the Church and is regarded by Christ as his own, will transform into great glory for Christ's people. By choosing affliction over sin, Moses laid up treasure in heaven and demonstrated his unwavering faith in the promise of a future state of happiness in heaven, beyond worldly riches.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.2878718594258562,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.41,
+            "commentatorTierSimilarities": [
+                37.0,
+                31.35,
+                31.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses considered the reproach of Christ as a precious treasure, even greater than the riches of Egypt. This reproach was not only his own, but also that of the Church, reflecting Christ's sufferings. Moses embraced this reproach, recognizing that it would lead to great glory for Christ's people. Despite the worldly comforts and treasures he could have enjoyed, Moses chose to value the reproach of Christ, laying up heavenly treasure instead. As followers of Jesus, we too should esteem the reproach we may face for our faith, knowing that it is an opportunity to store up heavenly riches.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.186434178140683,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                39.67,
+                30.22,
+                30.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses understood the reproach of Christ as a precious treasure, surpassing the wealth of Egypt. This reproach was not only his, but also that of the Church, symbolizing the sufferings of Christ. Moses embraced this reproach, knowing that it would bring great glory to Christ's people. Rather than seeking earthly riches, Moses valued the reproach of Christ, laying up treasure in heaven. As followers of Jesus, we should also hold the reproach we may encounter for our faith in high regard, knowing that it leads to heavenly rewards.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1761730162003112,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                40.97,
+                29.67,
+                29.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses esteemed the reproach of Christ as a treasure greater than the riches of Egypt. This reproach, which represents the sufferings of Christ and is unique to Him, is regarded as a glorious testament for His people. Moses understood that the reproach he bore was a heavenly wealth, far more valuable than any worldly riches. As followers of Jesus, we too should recognize the special reproach we may face and consider it a heavenly treasure, enduring with faith in the promise of a future state of happiness in heaven.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.176584232086388,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                36.24,
+                32.75,
+                31.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

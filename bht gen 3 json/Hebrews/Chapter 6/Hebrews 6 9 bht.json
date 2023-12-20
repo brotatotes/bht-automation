@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:08",
+    "verseRef": "Hebrews 6:9",
+    "bestBHT": {
+        "bht": "Beloved, we are persuaded concerning you, our brethren, that you will not fall away from your faith. The writer, moved by Christian love, warns and exhorts not out of doubt but in anticipation of better things for you. Rest assured, we firmly believe that you will hold on to the things that accompany salvation and be saved. Let these strong warnings be a means to make others watchful and careful, and may you continue to produce the fruits of holiness that lead to final salvation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.0442481991400525,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+        "commentatorTierSimilarities": [
+            25.37,
+            41.33,
+            33.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But we are persuaded concerning you, beloved... that they may not think him their foe and hater, but might know that he is ardent with Christian love towards them.",
+            "The things which are better... as regards your ultimate end. The latter is most probably the reference, seeing that what follows rests on God's ultimate faithfulness and justice in the day of retribution.",
+            "Akin to salvation, if even we do thus speak."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "LOVE to you prompts me in the strong warnings I have just given, not that I entertain unfavorable thoughts of you; nay, I anticipate better things of you.\" ",
+            "A confirmation of the Pauline authorship of this Epistle.",
+            "Things that are linked unto salvation...In opposition to 'nigh unto cursing'."
+        ],
+        "Albert Barnes": [
+            "We confidently hope for better things respecting you. We trust that you are true Christians; that you will produce the proper fruits of holiness; that you will be saved.",
+            "The form of expression seems to refer to what was said in Hebrews 6:8. The land overrun with briars was 'nigh' to cursing; the things which Paul saw in them were 'nigh' to salvation.",
+            "Is not this verse a clear proof that Paul felt that it was certain that true Christians would never fall away and be lost? If he supposed that they might, how could he be persuaded that it would not happen to them? Why not to them as well as to others? Hence, learn that while we assure people that if they should fall away they would certainly perish we may nevertheless address them with the full persuasion that they will be saved."
+        ],
+        "Marvin Vincent": [
+            "Beloved. Only here in the epistle. It often suggests an argument.",
+            "We are persuaded. We are firmly convinced. The verb indicates a past hesitation overcome.",
+            "That accompany salvation. He is persuaded that they will give heed to all things which attend the work of salvation and will enjoy all that attaches to a saved condition."
+        ],
+        "John Calvin": [
+            "Whosoever wishes to do good by teaching, ought so to treat his disciples as ever to add encouragement to them rather than to diminish it, for there is nothing that can alienate us more from attending to the truth than to see that we are deemed to be past hope.",
+            "The Apostle then testifies that he thus warned the Jews, because he had a good hope of them, and was anxious to lead them to salvation.",
+            "We hence conclude, that not only the reprobate ought to be reproved severely and with sharp earnestness, but also the elect themselves, even those whom we deem to be the children of God."
+        ],
+        "Archibald T. Robertson": [
+            "But even God cannot remember what they did not do.\" ",
+            "Things holding on to salvation.\" ",
+            "The better things\" than those pictures in Hebrews 6:4-8."
+        ],
+        "John Gill": [
+            "Grace makes a man a good man, not gifts; a man may have great gifts and not be a good man; grace is useful to a man's self, gifts are chiefly useful to others; grace makes men fruitful, when gifts leave them barren in the knowledge of Christ; grace is lasting, when gifts fail, and cease and vanish away; grace will abide the fire of persecution, when gifts will not; grace is saving, gifts are not.",
+            "And things that accompany salvation; which enter into salvation; are ingredients in it, and parts of it, and with which salvation is connected; such as faith, love, c. or which mutually touch or follow one another in the chain of salvation as to be predestinated, justified, called, adopted, sanctified, and, at last, glorified.",
+            "The hard things spoken by him of some, were consistent with such persuasions in general; for there might be some among them to whom the aforesaid characters belonged; and saying such things might be a means to make others watchful and careful."
+        ],
+        "John Wesley": [
+            "But, beloved \u2014 in this one place he calls them so. He never uses this appellation, but in exhorting.",
+            "We are persuaded of you things that accompany salvation \u2014 We are persuaded you are now saved from your sins; and that ye have that faith, love, and holiness, which lead to final salvation.",
+            "Though we thus speak \u2014 To warn you, lest you should fall from your present steadfastness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beloved, we are persuaded concerning you that you will not falter in your faith. The writer, filled with Christian love, warns and exhorts them not because he doubts their salvation, but because he anticipates even better things for them. He firmly believes that they will hold on to the things that accompany salvation and be saved. This persuasion is based on their potential to produce the proper fruits of holiness, which is linked to their ultimate end. Therefore, the strong warnings in this letter serve as both a confirmation of the writer's belief in their salvation and a means to make others watchful and careful.",
+            "wordCount": 106,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.0020731293286467,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                27.64,
+                39.15,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beloved, we are persuaded concerning you, our dear ones, that you will not falter in your faith. The strong warnings issued are prompted by love, not doubt. The writer firmly believes that you will embrace the things that accompany salvation and enjoy all that comes with a saved condition. This persuasion is rooted in the conviction that you possess the faith, love, and holiness that lead to final salvation. May these warnings serve as a means to make others watchful and encourage you to hold fast to your faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8659504648547043,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                27.84,
+                38.21,
+                33.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beloved, we are persuaded concerning you, our brethren, that you will not fall away from your faith. The writer, moved by Christian love, warns and exhorts not out of doubt but in anticipation of better things for you. Rest assured, we firmly believe that you will hold on to the things that accompany salvation and be saved. Let these strong warnings be a means to make others watchful and careful, and may you continue to produce the fruits of holiness that lead to final salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0442481991400525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                25.37,
+                41.33,
+                33.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beloved, we are persuaded that you, our dear ones, will not falter in your faith. The writer issues these strong warnings out of love, not doubt, expecting even better things for you. It is firmly believed that you will embrace the things that accompany salvation and enjoy all the blessings of a saved condition. Let these warnings serve as a reminder for others to be watchful and for you to hold fast to your faith, producing the fruits of holiness that lead to ultimate salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9467152943844104,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.07,
+            "commentatorTierSimilarities": [
+                26.64,
+                39.46,
+                33.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beloved, we are persuaded concerning you, our dear ones, that you will not falter in your faith. The writer, filled with Christian love, warns and exhorts not because of doubt but because of the hope for better things for you. This persuasion is rooted in the belief that you will hold on to the things that accompany salvation and enjoy all that comes with a saved condition. Let these strong warnings be a means for others to be watchful and for you to continue in faith and holiness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9955668044076291,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                26.39,
+                40.27,
+                33.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

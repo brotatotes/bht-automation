@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:48:32",
+    "verseRef": "Hebrews 7:21",
+    "bestBHT": {
+        "bht": "For they indeed, without the solemn promise on oath, are made priests. But he, with the taking of an oath, became a priest. The existing legal priests lacked the oath that solidified Jesus' priesthood and emphasized its unchangeable nature. This oath provided comfort to the heirs of promise, assuring them of God's unwavering commitment. Jesus' priesthood, established through an unalterable oath, surpasses the Levitical priesthood. It signifies God's steadfastness and the everlasting character of Jesus' role as High Priest.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.643734293752814,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.24,
+        "commentatorTierSimilarities": [
+            27.02,
+            39.2,
+            33.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "for they without swearing of an oath are made priests",
+            "He with swearing of an oath by Him who saith...Thou art a priest for ever",
+            "the decree stands fast, and shall undergo no change"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For they indeed (the existing legal priests) without the (solemn) promise on oath are made priests.",
+            "Not repent\u2014never change His purpose.",
+            "After the order of Melchisedec\u2014omitted in some oldest manuscripts, contained in others."
+        ],
+        "Albert Barnes": [
+            "Jesus received his office by special appointment, and it was secured to him by an oath.",
+            "This priest, the Lord Jesus, became a priest in virtue of an oath.",
+            "And will not repent - That is, 'will not regret, or will not alter his mind through regret' - for this is the meaning of the Greek word."
+        ],
+        "Marvin Vincent": [
+            "For they have been made priests. Lit. are priests, having become such.",
+            "But he with the taking of an oath.",
+            "Still says, since the promise is realized in Christ's priesthood."
+        ],
+        "Philip Schaff": [
+            "For they, as we know, without an oath (literally, without the swearing of an oath as a solemn act) are made (have become and now are) priests...\" ",
+            "But he with an oath by him that saith, etc.",
+            "...without an oath are made priests, but he with an oath became a priest."
+        ],
+        "Archibald T. Robertson": [
+            "Have been made (\u03b5\u03b9\u03c3\u03b9\u03bd \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c4\u03b5\u03c2). Periphrastic perfect active indicative of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 (perfect active participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1) and then \u03b5\u03b9\u03c3\u03b9\u03bd.",
+            "The parenthesis runs from \u03bf \u03bc\u03b5\u03bd \u03b3\u03b1\u03c1 (for they) to \u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03b1\u03b9\u03c9\u03bd\u03b1 (for ever, end of verse Hebrews 7:21).",
+            "But he with an oath (\u03bf \u03b4\u03b5 \u03bc\u03b5\u03c4\u03b1 \u03bf\u03c1\u03ba\u03c9\u03bc\u03bf\u03c3\u03b9\u03b1\u03c2). Positive statement in place of the negative one in verse Hebrews 7:20."
+        ],
+        "John Gill": [
+            "Christ was made an high priest with an oath, even with an oath of God; which gives his priesthood the preference to the Levitical priesthood, which was without one.",
+            "This oath was made not so much on Christ's account, as on account of the heirs of promise, for their consolation.",
+            "And of this oath God will never repent: repentance cannot properly fall upon God, on any account; for it is contrary to his holiness and righteousness, and to his happiness, to his unchangeableness, omniscience, and omnipotence."
+        ],
+        "John Wesley": [
+            "The Lord sware and will not repent \u2014 Hence also it appears, that his is an unchangeable priesthood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the contrast between the existing legal priests and Jesus as the eternal High Priest. The existing priests were made priests without the solemn promise on oath, while Jesus became a priest with the taking of an oath by God. This oath solidified Jesus' priesthood and emphasized the unchangeable nature of his position. The oath served as a source of consolation for the heirs of promise, demonstrating God's unwavering commitment to his priesthood. This unchangeable priesthood of Jesus is superior to the Levitical priesthood, which lacked such an oath. God's oath signifies his unchangeability and the eternal nature of Jesus' priesthood.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.517483838939291,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.05,
+            "commentatorTierSimilarities": [
+                24.6,
+                36.51,
+                38.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The existing legal priests were made priests without the solemn promise on oath, while Jesus became a priest with the taking of an oath by God. This oath solidified Jesus' priesthood and emphasized the unchangeable nature of his position. It provided consolation for the heirs of promise, highlighting God's steadfast commitment. Jesus' priesthood, confirmed by this unchangeable oath, surpasses the Levitical priesthood, which lacked such assurance. The oath signifies God's unwavering nature and the eternal character of Jesus' priesthood.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.4738702849326617,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.6,
+            "commentatorTierSimilarities": [
+                24.55,
+                36.07,
+                39.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While the existing priests were made without an oath, Jesus became a priest through a solemn promise by God, demonstrating the unalterable nature of his priesthood. This oath brought comfort to the heirs of the promise, reaffirming God's unwavering commitment. Jesus' priesthood, confirmed by this unchanging oath, holds superiority over the Levitical priesthood. The oath reflects God's steadfastness and underlines the eternality of Jesus' priesthood.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.559882256257985,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.46,
+            "commentatorTierSimilarities": [
+                25.47,
+                37.37,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The existing priests were made priests without the solemn promise on oath, while Jesus became a priest with the taking of an oath by God. This oath emphasized the unchangeable nature of Jesus' priesthood and served as a source of consolation for the heirs of promise. The superiority of Jesus' priesthood over the Levitical priesthood was evident in this unalterable oath made by God. It signifies God's unwavering commitment and the eternal character of Jesus' priesthood.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 2.4855828690694506,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.99,
+            "commentatorTierSimilarities": [
+                23.55,
+                35.67,
+                40.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For they indeed, without the solemn promise on oath, are made priests. But he, with the taking of an oath, became a priest. The existing legal priests lacked the oath that solidified Jesus' priesthood and emphasized its unchangeable nature. This oath provided comfort to the heirs of promise, assuring them of God's unwavering commitment. Jesus' priesthood, established through an unalterable oath, surpasses the Levitical priesthood. It signifies God's steadfastness and the everlasting character of Jesus' role as High Priest.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.643734293752814,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.24,
+            "commentatorTierSimilarities": [
+                27.02,
+                39.2,
+                33.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

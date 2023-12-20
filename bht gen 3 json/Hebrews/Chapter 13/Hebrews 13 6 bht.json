@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:51:11",
+    "verseRef": "Hebrews 13:6",
+    "bestBHT": {
+        "bht": "In times of uncertainty and lack, we can confidently say that the Lord is our helper. We need not fear what mankind can do, for our trust is in God alone. We should be content with what we have, knowing that God himself has said that he will never forsake us. With this assurance, we can boldly declare that the Lord is our helper and have no fear. Our confidence stems from the infinite power, grace, and goodness of God, who is able to help us when no one else can. (Psalm 118:6)",
+        "wordCount": 92,
+        "quoteTokenProportion": 55.0,
+        "qualityScore": 2.1060177787917747,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+        "commentatorTierSimilarities": [
+            19.72,
+            39.73,
+            40.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "so that we say (\u2018are in the habit of saying,\u2019 \u2018say always;\u2019 not, \u2018can say\u2019 nor \u2018may say,\u2019 both which weaken the confidence expressed) with confidence.\" ",
+            "The Lord (Jehovah in the Psalm, and probably used of the Father, as in other citations in this Epistle) is my helper.",
+            "I will not be afraid: what shall man do unto me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So that we boldly (confidently) say.",
+            "And (so) I will not fear: what (then) shall man do unto me?"
+        ],
+        "Albert Barnes": [
+            "In all times of perplexity and threatening want...we may put our trust in God, and be assured that he will not leave us to suffer.",
+            "It remains yet to be shown that they who exercise simple trust in God for the supply of their wants are ever forsaken.",
+            "What can we fear if we have the assurance that the Lord is on our side, and that he will help us?"
+        ],
+        "Marvin Vincent": [
+            "Be content with such things as ye have (ajrkoumenoi toiv parousin). Lit. being contented with the things which are at hand.",
+            "For he hath said [\u03b1\u03c5\u03c4\u03bf\u03c2 \u03b3\u03b1\u03c1 \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5\u03bd] . Rend. for 'he himself.' God himself.",
+            "So that we may boldly say [\u03c9\u03c3\u03c4\u03b5 \u03b8\u03b1\u03c1\u03c1\u03bf\u03c5\u03bd\u03c4\u03b1\u03c2 \u03b7\u03bc\u03b1\u03c2 \u03bb\u03b5\u03b3\u03b5\u03b9\u03bd] . Lit. so that, being of good courage, we say."
+        ],
+        "Philip Schaff": [
+            "The Lord is my helper, I will not fear: what shall man do unto me?\" ",
+            "So that we boldly say, The Lord is my helper, I will not fear: what shall man do unto me?",
+            "So the Hebrew reads, and so more naturally the Greek of this passage."
+        ],
+        "Archibald T. Robertson": [
+            "So that we say.",
+            "With good courage.",
+            "My helper."
+        ],
+        "John Gill": [
+            "The Lord is my helper; he is able to help, and does help, when none else can.",
+            "The people of God are of themselves helpless ones; there is no help for them in man; their help is only in the Lord.",
+            "The ground of this fearlessness in believers are the infinite power, grace, and goodness of God."
+        ],
+        "John Wesley": [
+            "Psalm 118:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In times of trouble and uncertainty, we can confidently declare that the Lord is our helper. Thus, we need not fear what anyone can do to us. We should be content with what we have, knowing that God has promised to be with us and provide for us. When we exercise simple trust in God, we can be assured that He will never forsake us. The Lord is our ultimate helper, and His power, grace, and goodness are the foundation of our fearlessness. Psalm 118:6 reinforces this truth, reminding us that our help comes from the Lord alone.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0210444630229483,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                21.85,
+                42.99,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In times of trouble and uncertainty, we can confidently declare that the Lord is our helper. Thus, we need not fear what anyone can do to us. We should be content with what we have, knowing that God has promised to be with us and provide for us. When we exercise simple trust in God, we can be assured that He will never forsake us. The Lord is our ultimate helper, and Psalm 118:6 reinforces this truth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 2.0340844203420922,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                22.88,
+                43.86,
+                33.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In times of uncertainty and lack, we can confidently say that the Lord is our helper. We need not fear what mankind can do, for our trust is in God alone. We should be content with what we have, knowing that God himself has said that he will never forsake us. With this assurance, we can boldly declare that the Lord is our helper and have no fear. Our confidence stems from the infinite power, grace, and goodness of God, who is able to help us when no one else can. (Psalm 118:6)",
+            "wordCount": 92,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 2.1060177787917747,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                19.72,
+                39.73,
+                40.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In times of uncertainty and lack, we can confidently say that the Lord is our helper. We need not fear what mankind can do, for our trust is in God alone. We should be content with what we have, knowing that God himself has said that he will never forsake us. With this assurance, we can boldly declare that the Lord is our helper and have no fear. Our confidence stems from the infinite power, grace, and goodness of God. (Psalm 118:6)",
+            "wordCount": 81,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 2.0767276537418478,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                19.9,
+                39.43,
+                40.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In times of uncertainty, we can confidently say that with God as our helper, we have no reason to fear what others may do to us. We should be content with what we have, as God has promised to never leave us. Our assurance comes from the infinite power, grace, and goodness of God. We can boldly declare that the Lord is our helper and trust in His unwavering support. (Psalm 118:6)",
+            "wordCount": 71,
+            "quoteTokenProportion": 53.06,
+            "qualityScore": 2.0084781683851465,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                18.67,
+                36.97,
+                44.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

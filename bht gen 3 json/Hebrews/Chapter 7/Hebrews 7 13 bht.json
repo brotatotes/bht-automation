@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:24",
+    "verseRef": "Hebrews 7:13",
+    "bestBHT": {
+        "bht": "The confirmation is made that a change in the law is indicated, as the one mentioned belongs to a different tribe, distinct from the Aaronic. This new priesthood comes from a tribe that was not set apart for sacerdotal service. It emphasizes the distinctness of this change, as no one from the tribe of Judah has attended to the altar. This highlights the imperfection of the Levitical priesthood and the need for a new Priest from a different tribe to bring about the desired transformation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.3111032706257126,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+        "commentatorTierSimilarities": [
+            27.31,
+            33.29,
+            39.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Confirmation of the position that a change is made in the law.\" ",
+            "For he with reference to whom these things are said is a member of a different tribe.\" ",
+            "Of which no one hath given attention to the altar."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Confirming the truth that a change is made of the law, by another fact showing the distinctness of the new priesthood from the Aaronic.",
+            "These things.",
+            "Another - 'a different tribe' from that of Levi."
+        ],
+        "Albert Barnes": [
+            "The things here spoken of pertain to his office as priest; his being of the order of Melchizedek.",
+            "Those whom he addressed would not be disposed to call this in question, and his argument had conducted him to this conclusion.",
+            "No one of the tribe of Judah had any part in the performance of the duties of that office. This was settled by the Jewish Law."
+        ],
+        "Marvin Vincent": [
+            "Not only another, but a different tribe; one not specially set apart to sacerdotal service.",
+            "Prosecein originally to bring to; bring the mind to; attend to.",
+            "qusiasthrion altar, o Class. Strictly an altar for the sacrifice of victims; but used of the altar of incense."
+        ],
+        "John Calvin": [
+            "He proves that an end was put to the ancient priesthood because the new Priest, who had been set in the place of the old, was of another tribe, and not of Levi.",
+            "It was necessary that they should be persuaded that he was the son of David; for he who had been promised could derive his origin from no other.",
+            "The Apostle proves the imperfection or defectiveness of the Levitical priesthood by the promise of another priest after the order of Melchisedec, for Christ was not of the tribe specified by the Law."
+        ],
+        "Philip Schaff": [
+            "The writer now proves the completeness of the change of the priesthood.",
+            "For he of whom these things are said hath partaken of, hath become a member of, a different tribe.",
+            "Of which tribe no man hath ever given attendance at the altar."
+        ],
+        "Archibald T. Robertson": [
+            "A different (\u03b5\u03c4\u03b5\u03c1\u03b1\u03c2) tribe.",
+            "Perfect active indicative (watch perfects in Hebrews, not 'for' aorists) of \u03c0\u03c1\u03bf\u03c3\u03b5\u03c7\u03c9, old verb.",
+            "Here with either \u03bd\u03bf\u03c5\u03bd (mind) or self (\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd) understood with dative case (\u03c4\u03c9 \u03b8\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03c9, the altar."
+        ],
+        "John Gill": [
+            "For he of whom these things are spoken... the Lord Jesus Christ, the antitype of Melchizedek, the Lord our righteousness, the Prince of peace, the priest of God, that lives for ever, without father, without mother.\" ",
+            "Pertaineth to another tribe the tribe of Judah, and not the tribe of Levi.",
+            "No man gave attendance at the altar; either of burnt offering or of incense; that is, no man waited there, or took upon him and exercised the priest's office that was of the tribe of Judah."
+        ],
+        "John Wesley": [
+            "The priesthood is manifestly changed from one order to another, and from one tribe to another.",
+            "For he of whom these things are spoken \u2014 Namely, Jesus.",
+            "Pertaineth to another tribe \u2014 That of Judah. Of which no man was suffered by the law to attend on, or minister at, the altar."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The writer of Hebrews confirms that there is indeed a change in the law, as the one to whom these things refer belongs to a different tribe and no one from this tribe has ever given attention to the altar. This emphasizes the distinctness of the new priesthood from the Aaronic, showing that it is not only another tribe, but a different one that was not set apart for sacerdotal service. The writer further proves the completeness of this change by highlighting that no one from this tribe, the tribe of Judah, has ever been allowed to participate in the duties of the priestly office. This validates the necessity for a new Priest from a different tribe, thus establishing the imperfection and defectiveness of the Levitical priesthood.",
+            "wordCount": 127,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.3383961472215447,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.09,
+            "commentatorTierSimilarities": [
+                25.23,
+                34.63,
+                40.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews confirms that a change in the law is evident, as the one spoken of belongs to a different tribe, distinct from the Aaronic. This new priesthood not only comes from a different tribe, but one that was not set apart for sacerdotal service. To emphasize this change, it is pointed out that no one from the tribe of Judah has ever given attention to the altar. This serves as a profound reminder that a new Priest is necessary, highlighting the imperfection of the Levitical priesthood.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.2700848106900913,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+            "commentatorTierSimilarities": [
+                26.67,
+                34.39,
+                38.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The confirmation is made that a change in the law is indicated, as the one mentioned belongs to a different tribe, distinct from the Aaronic. This new priesthood comes from a tribe that was not set apart for sacerdotal service. It emphasizes the distinctness of this change, as no one from the tribe of Judah has attended to the altar. This highlights the imperfection of the Levitical priesthood and the need for a new Priest from a different tribe to bring about the desired transformation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3111032706257126,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                27.31,
+                33.29,
+                39.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews confirms the change in the law by stating that the one to whom these things refer belongs to a different tribe, distinct from the Aaronic. This new priesthood, from the tribe of Judah, emphasizes the distinctness and necessity of the change. Furthermore, it is highlighted that no one from this tribe has ever attended to the altar, indicating the imperfection and defectiveness of the Levitical priesthood. These facts affirm the need for a new Priest from a different tribe to bring about a transformative and complete priesthood.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.333387471832288,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.93,
+            "commentatorTierSimilarities": [
+                25.53,
+                34.44,
+                40.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The confirmation is made that a change in the law is indicated as the one referred to belongs to a different tribe, distinct from the Aaronic. This new priesthood comes from a tribe not set apart for sacerdotal service, underscoring the distinctive nature of this change. Additionally, it highlights that no one from the tribe of Judah has ever attended to the altar. This emphasizes the imperfection of the Levitical priesthood and the need for a new Priest from a different tribe to bring about the desired transformation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.2350453910977075,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                27.62,
+                33.05,
+                39.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

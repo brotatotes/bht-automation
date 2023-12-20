@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:46:55",
+    "verseRef": "Hebrews 2:11",
+    "bestBHT": {
+        "bht": "Sanctification is the path to glorification, with glory being sanctification come to the birth and manifested. Through our unity with Christ, we obtain the dignity of being called sons and daughters of God, making us brothers and sisters with Christ Himself. This amazing contrast of our brother and our God is a unique feature of Christianity. Despite Christ's superior dignity, He is not ashamed to call us unworthy sons and daughters His brothers and sisters, further solidifying our bond with Him in the process of sanctification.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.29088723967342,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+        "commentatorTierSimilarities": [
+            42.46,
+            24.53,
+            33.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Sanctification is glory working in embryo: glory is sanctification come to the birth and manifested.",
+            "It is not here the mere physical unity of all men with Christ which is treated, but the further and higher spiritual unity of the Sanctifier and the sanctified.",
+            "The maxim cannot be too firmly held, nor too widely applied, that all the Old Test. utterances of the Spirit anticipate Christ, just as all His New Test. utterances set forth and expand Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sanctification is glory working in embryo; glory is sanctification come to the birth, and manifested\" [ALFORD].",
+            "Sons of God\" is, in Scripture usage, the dignity obtained by our union with Christ; and our brotherhood with Him flows from God being His and our Father.",
+            "It is a striking feature in Christianity that it unites such amazing contrasts as 'our brother and our God'\" [THOLUCK]."
+        ],
+        "Albert Barnes": [
+            "The great consecrated Messiah - the Holy One of God - and his consecrated and holy followers, are all of one.\"  ",
+            "They were united, or partook of something in common, so as to constitute a oneness, or a brotherhood.\"  ",
+            "The Son of God...is willing to be ranked with them, and to be regarded as one of their family."
+        ],
+        "Marvin Vincent": [
+            "In order to bring many sons unto glory, Christ assumes to them the relation of brother.",
+            "Sanctification is the path to glorification.",
+            "Jesus and his people alike have God for their father. Therefore they are brethren, and Christ, notwithstanding his superior dignity, is not ashamed to call them by that name."
+        ],
+        "John Calvin": [
+            "It avails not, indeed, a little to increase our confidence, that we are united to the Son of God by a bond so close, that we can find in our nature that holiness of which we are in want.",
+            "He is not ashamed to call them brethren... Much, then, does he let down himself, when he dignifies us with the name of brethren; for we are unworthy that he should deem us his servants.",
+            "We must further notice the office which Christ assumes, which is that of proclaiming the name of God; and this began to be done when the gospel was first promulgated and is now done daily by the ministry of pastors."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is the sanctifier.",
+            "It is a process here as in Hebrews 10:14, not a single act.",
+            "Jesus is not ashamed to own us as 'brothers', unworthy sons though we be."
+        ],
+        "John Gill": [
+            "For both he that sanctifieth,... but his people, the sons brought to glory, whose salvation he is the Captain of; they are sanctified in him, he being made sanctification to them...",
+            "...and they who are sanctified; the sons brought to glory; they are not naturally holy, nor so of themselves, they are made holy...",
+            "...for which cause he is not ashamed to call them brethren; Christ, and these sons that are sanctified, stand in the relation of brethren to each other; Christ is the firstborn among many brethren..."
+        ],
+        "John Wesley": [
+            "He that sanctifieth \u2014 Christ",
+            "And all they that are sanctified \u2014 That are brought to God",
+            "Are all of one \u2014 Partakers of one nature, from one parent, Adam."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sanctification is the path to glorification, with glory being the manifestation and fulfillment of sanctification. Through our unity with Christ, we obtain the dignity of being called sons and daughters of God, making us brothers and sisters with Christ Himself. This amazing contrast of our brother being our God is a unique feature of Christianity. Despite Christ's superior dignity, He is not ashamed to call us unworthy sons and daughters His brothers and sisters. In this process of sanctification, Jesus assumes the role of the sanctifier, not ashamed to own us as His brethren, even though we are unworthy. This close bond with the Son of God increases our confidence and grants us the holiness we lack.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2121351723342397,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.89,
+            "commentatorTierSimilarities": [
+                40.83,
+                24.8,
+                34.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sanctification is the path to glorification, with glory being sanctification come to the birth and manifested. Through our unity with Christ, we obtain the dignity of being called sons and daughters of God, making us brothers and sisters with Christ Himself. This amazing contrast of our brother and our God is a unique feature of Christianity. Despite Christ's superior dignity, He is not ashamed to call us unworthy sons and daughters His brothers and sisters, further solidifying our bond with Him in the process of sanctification.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.29088723967342,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+            "commentatorTierSimilarities": [
+                42.46,
+                24.53,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sanctification is the path to glorification, as glory is sanctification come to the birth and manifested. Through our unity with Christ, we become brothers and sisters with Him, as sons and daughters of God. This extraordinary aspect of Christianity unites the contrasts of our brother and our God. Despite Christ's superior status, He proudly calls us His brethren, underscoring the significance of sanctification. By assuming the role of sanctifier, Jesus bestows upon us the honor of being His brothers and sisters, an act He is unashamed of despite our unworthiness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.257611296302136,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.41,
+            "commentatorTierSimilarities": [
+                41.66,
+                26.24,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sanctification is the path to glorification, with glory being sanctification come to the birth and manifested. Through our unity with Christ, we obtain the dignity of being called sons and daughters of God, making us brothers and sisters with Him. Despite Christ's superior dignity, He is not ashamed to call us unworthy sons and daughters His brothers and sisters. In this process of sanctification, Jesus assumes the role of the sanctifier, not ashamed to own us as His brethren, even though we are unworthy. This close bond with the Son of God increases our confidence and grants us the holiness we lack.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.2306714303560464,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                41.21,
+                23.83,
+                34.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sanctification is the path to glorification, as glory is sanctification come to the birth and manifested. Through our unity with Christ, we become brothers and sisters with Him, as sons and daughters of God. This incredible contrast of our brother and our God is a unique feature of Christianity. Despite Christ's superiority, He is not ashamed to call His unworthy siblings by that name. In the process of sanctification, Jesus assumes the role of the sanctifier, unashamed to own us as His brethren, despite our unworthiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.226840928052269,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+            "commentatorTierSimilarities": [
+                41.86,
+                24.67,
+                33.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

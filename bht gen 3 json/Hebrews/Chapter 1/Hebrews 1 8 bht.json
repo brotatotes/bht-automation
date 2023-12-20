@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:46:59",
+    "verseRef": "Hebrews 1:8",
+    "bestBHT": {
+        "bht": "The Messiah is proclaimed as O God, with an everlasting throne and a sceptre of righteousness. This Hebrew nuptial ode portrays the king as Messianic, highlighting his grandeur and magnificence. The use of the term sceptre of righteousness signifies the reigned righteousness and uprightness, aligned with the nature of the Father. The verse attributes deity to the Son of God, emphasizing his divine authority and the just and true nature of his ways as King. His kingly power is characterized by justice and equity.",
+        "wordCount": 84,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 2.0249176944925167,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+        "commentatorTierSimilarities": [
+            23.47,
+            39.67,
+            36.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "O God\u2014the Greek has the article to mark emphasis.",
+            "Everlasting duration and righteousness go together.",
+            "Literally, 'a rod of rectitude,' or 'straightforwardness.'"
+        ],
+        "Albert Barnes": [
+            "The Messiah, if I may so express it, was the 'hero' of the Old Testament - more so than Achilles is of the Iliad, and Aeneas of the Aenead.",
+            "Everything that is gorgeous and splendid in description is lavished on him, and they were never under any apprehension of attributing to him too great magnificence in his personal reign; too great beauty of moral character; or too great an extent of dominion.",
+            "The fair and obvious interpretation of this passage would satisfy me, were there nothing else, that this Psalm had no reference to Solomon, but was designed originally as a description of the Messiah as the expected King and Prince of his people."
+        ],
+        "Marvin Vincent": [
+            "Thy throne, O God.\" ",
+            "Forever and ever.\" ",
+            "A sceptre of righteousness."
+        ],
+        "John Calvin": [
+            "Nor is there any reason to object, that the word Elohim is sometimes given to angels and to judges; for it is never found to be given simply to one person, except to God alone.",
+            "Whosoever will read the verse, who is of a sound mind and free from the spirit of contention, cannot doubt but that the Messiah is called God.",
+            "The scepter of Christ\u2019s kingdom is afterwards called the scepter of righteousness... he by his gospel, which is his spiritual scepter, renews us after the righteousness of God."
+        ],
+        "Philip Schaff": [
+            "Angels are all subordinate; while to Christ are given names of a very different import God and Lord, and highest dignities a sceptre and a throne, a kingdom.",
+            "A sceptre of righteousness, or rather of uprightness, as the word is translated in the Old Testament.",
+            "His character befits His kingdom. His is a sceptre of uprightness. He loves righteousness and hates iniquity, showing herein the very nature of the Father."
+        ],
+        "Archibald T. Robertson": [
+            "O God (\u03bf \u03b8\u03b5\u03bf\u03c2)... Thy throne is God.\" ",
+            "A Hebrew nuptial ode for a king treated here as Messianic.\" ",
+            "Sceptre... Old word for walking-stick, staff."
+        ],
+        "John Gill": [
+            "thy throne, O God, is for ever and ever:... the Messiah, and so the ancient Jews understand it... deity is here ascribed to the Son of God; he is expressly called God; for the words will not bear to be rendered, 'thy throne is the throne of God, or thy throne is God'... prove him to be the true God.\" (100 words)",
+            "his throne denotes his kingly power, and government... and a sceptre of righteousness, or rightness, is expressive of the justice of government... the Gospel of Christ... may be called a sceptre of righteousness, since it reveals and directs to the righteousness of Christ, and encourages to works of righteousness.\" (99 words)",
+            "just and true are, have been, and ever will be his ways, as King of saints.\" (16 words)"
+        ],
+        "John Wesley": [
+            "God, in the singular number, is never in scripture used absolutely of any but the supreme God.\" ",
+            "Thy reign, of which the sceptre is the ensign, is full of justice and equity.\" ",
+            "Psalm 45:6,7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that the Messiah, referred to as O God, has a throne that is everlasting and righteous. The use of the term sceptre of righteousness emphasizes the straightness and uprightness of His reign as King. The first-tier commentary confirms that the verse is a Hebrew nuptial ode treating the king as Messianic. Second-tier commentary highlights the grandeur and magnificence associated with the Messiah, whose character and reign are marked by righteousness and uprightness. The third-tier commentary reinforces the understanding that the verse ascribes deity to the Son of God and emphasizes the just and true nature of His ways as King. The commentary collectively affirms the Messiah's divine authority and righteous reign.",
+            "wordCount": 118,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.9803308976509335,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                21.86,
+                39.52,
+                38.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Messiah, described as O God, possesses an everlasting throne and a sceptre of righteousness. This verse is a Hebrew nuptial ode treating the king as Messianic. The second-tier commentary emphasizes the grandeur and magnificence associated with the Messiah's personal reign, characterized by righteousness and uprightness. It further highlights the divine authority ascribed to the Son of God. The third-tier commentary affirmatively supports the verse's affirmation of the Messiah's divine identity and the just and true nature of His reign. His kingly power is marked by justice and equity.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8873039274330767,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                23.09,
+                38.27,
+                38.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Messiah is proclaimed as O God, with an everlasting throne and a sceptre of righteousness. This Hebrew nuptial ode portrays the king as Messianic, highlighting his grandeur and magnificence. The use of the term sceptre of righteousness signifies the reigned righteousness and uprightness, aligned with the nature of the Father. The verse attributes deity to the Son of God, emphasizing his divine authority and the just and true nature of his ways as King. His kingly power is characterized by justice and equity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.0249176944925167,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                23.47,
+                39.67,
+                36.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Messiah is hailed as O God, whose throne is everlasting. The use of the term sceptre of righteousness accentuates the upright and just nature of his reign. This Hebrew nuptial ode presents the king as Messianic and highlights his splendor. The second-tier commentary underscores the unparalleled magnificence associated with the Messiah, extolling his moral character, dominion, and beauty. The third-tier commentary affirms the divine identity of the Son of God, with his reign exemplifying justice and righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 21.57,
+            "qualityScore": 1.9740893867071367,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                23.77,
+                40.14,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Messiah is recognized as O God, emphasizing the everlasting duration and righteousness of His reign. This verse, treated as a Hebrew nuptial ode for a king, portrays the Messiah's character and dominion. Referred to by names of highest dignities, the Messiah wields a sceptre of uprightness and embodies the very nature of the Father. The testimony of scriptures affirms that the term Elohim is given solely to God. His kingly power is marked by justice and equity, with his reign guided by righteousness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.9896916069503847,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                22.65,
+                38.68,
+                38.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:48:10",
+    "verseRef": "Hebrews 6:10",
+    "bestBHT": {
+        "bht": "God is not unjust and will not forget our work and love. Our Christian life of active obedience, a response to God's grace, is evidence of true piety. By expressing love to the saints and doing good works in God's name, we provide proof of our faith and devotion. Our acts of kindness and labor demonstrate our love for God and others. Remember, the righteous God will surely reward our faith and love.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.04,
+        "qualityScore": 2.358430473487588,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.76,
+        "commentatorTierSimilarities": [
+            28.77,
+            36.06,
+            35.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God is not unjust...to forget your work and your love.\" ",
+            "Your work...your whole Christian life of active obedience.\" ",
+            "It may hence perhaps be surmised that these Hebrews did not live in Jud\u00e6a."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not that we have any inherent right to claim reward; for (1) a servant has no merit, as he only does that which is his bounden duty; (2) our best performances bear no proportion to what we leave undone; (3) all strength comes from God; but God has promised of His own grace to reward the good works of His people.\" ",
+            "God will be no man's debtor.\" ",
+            "Your acts of love to the saints were done for His name's sake."
+        ],
+        "Albert Barnes": [
+            "God will do no wrong. He will not forget or fail to reward the endeavors of his people to promote his glory, and to do good.",
+            "By their kindness in ministering to the wants of the saints, they had given full evidence of true piety.",
+            "To show kindness to Christians, because they are Christians, is an important evidence of piety."
+        ],
+        "Marvin Vincent": [
+            "Your work and the love which ye shewed, etc.",
+            "They have shown both love and work toward God's name.",
+            "God is not unjust, as he would show himself to be if he were forgetful of this."
+        ],
+        "John Calvin": [
+            "We hence conclude, that God does not pay us a debt, but performs what he has of himself freely promised, and thus performs it, inasmuch as he pardons us and our works; nay, he looks not so much on our works as on his own grace in our works.",
+            "By this he intimates that we are not to spare labor, if we desire to perform duty towards our neighbors; for they are not only to be helped by money, but also by counsel, by labor, and in various other ways.",
+            "But what ought constantly to stimulate us is even this one expression used by the apostle, that the love shown to the saints is shown towards the name of the Lord; for he intimates that God holds himself indebted to us for whatever good we do to our neighbors."
+        ],
+        "Philip Schaff": [
+            "God is not unrighteous so as to forget your work and the love which ye have showed towards his name.",
+            "This active Christian life, this love towards God shown in generous help to His servants, gives the writer hope that they are really God\u2019s children, and that, therefore, God will not forget them.",
+            "Love towards God, and towards all that bear His name, holy love, is the divinest grace and likest God, and the Holy God would cease to be holy if He did not approve and bless it."
+        ],
+        "John Gill": [
+            "And this might be called their work, not because wrought by them, but because it was wrought in them; and the grace that came along with it was exercised by them.",
+            "Love to God...is laborious; it sets a man to work for God; nor are any works to be regarded but what spring from love to God, and to his name.",
+            "Charity or love to the saints is better than gifts, and is the evidence of grace, of passing from death to life, and of being the disciples of Christ."
+        ],
+        "John Wesley": [
+            "For \u2014 Ye give plain proof of your faith and love, which the righteous God will surely reward."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is not unjust, so he will not forget or fail to reward our work and love. Our work, our entire Christian life of active obedience, is not something we can claim on our own merit, but it is done in response to God's grace. By showing love to the saints and doing good works in God's name, we provide evidence of true piety. This active Christian life and love toward God and others gives hope that we are truly God's children and that He will not forget us. Love towards God and all who bear His name is a divine grace that pleases God and will be rewarded by Him. We should be diligent in our efforts to serve and help others, for our work is not only seen in material assistance but also in counsel and labor. Our work, which is wrought in us by God's grace, is an expression of our love for Him. Ultimately, the righteous God will reward our faith and love.",
+            "wordCount": 171,
+            "quoteTokenProportion": 47.19,
+            "qualityScore": 2.247397781224958,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.07,
+            "commentatorTierSimilarities": [
+                27.16,
+                36.45,
+                36.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is not unjust, so He will not forget our work and love. Our Christian life of active obedience, done in response to God's grace, is evidence of true piety. By showing love to the saints and doing good works in God's name, we provide evidence of true piety, for love toward God and others pleases Him and will be rewarded. Our work is not only seen in material assistance but also in counsel and labor. Ultimately, the righteous God will reward our faith and love.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1933177880634975,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+            "commentatorTierSimilarities": [
+                27.49,
+                36.76,
+                35.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God is not unjust and will not forget our work and love. Our Christian life of active obedience, done in response to God's grace, is evidence of true piety. Love toward God and others, shown in our acts of kindness and generosity, pleases God and will be rewarded. Our diligent efforts to serve and help others, both materially and through labor and counsel, are an expression of our love for God. The righteous God will surely reward our faith and love.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.2922620432200187,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                28.28,
+                36.43,
+                35.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God is not unjust and will not forget our work and love. Our Christian life of active obedience, done in response to God's grace, is evidence of true piety and devotion. By showing love to the saints and doing good works in God's name, we provide evidence of our faith and devotion to God. Our work is not to be limited to material assistance; it includes counsel, labor, and various other acts of love. The righteous God will surely reward our faith and love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.2489233602932552,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.12,
+            "commentatorTierSimilarities": [
+                28.79,
+                35.59,
+                35.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God is not unjust and will not forget our work and love. Our Christian life of active obedience, a response to God's grace, is evidence of true piety. By expressing love to the saints and doing good works in God's name, we provide proof of our faith and devotion. Our acts of kindness and labor demonstrate our love for God and others. Remember, the righteous God will surely reward our faith and love.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.358430473487588,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.76,
+            "commentatorTierSimilarities": [
+                28.77,
+                36.06,
+                35.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

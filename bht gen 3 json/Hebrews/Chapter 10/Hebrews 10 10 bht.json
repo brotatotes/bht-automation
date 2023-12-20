@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 17:49:18",
+    "verseRef": "Hebrews 10:10",
+    "bestBHT": {
+        "bht": "There is no real difference between the will of God to redeem us by the sufferings and death of Christ and the will of God as fulfilled by Christ\u2019s obedience. It is through the Blood of Christ that we are reconciled to God, but it is through the offering of His Body that we are made holy. This pertains to our acceptance as acquitted from sin as well as our perfection in holiness through union with Christ and participation in His Spirit. Christ's offering of Himself has sanctified us once for all and permanently.",
+        "wordCount": 96,
+        "quoteTokenProportion": 54.39,
+        "qualityScore": 2.874888647313651,
+        "qualityScoreNormalizedComparedToV2BHTs": 86.93,
+        "commentatorTierSimilarities": [
+            39.1,
+            28.53,
+            32.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no real difference, between the will of God to redeem us by the sufferings and death of Christ, and the will of God as fulfilled by Christ\u2019s obedience: the one includes the other.\" ",
+            "It is by the Blood of Christ that we are reconciled to God, but by the offering of His Body that we are made holy.\" ",
+            "The one concerns our acceptance as acquitted from sin; the other our perfection in holiness by union with Him and participation in His Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is the finished work of Christ in having sanctified us once for all and permanently.",
+            "As the atonement, or reconciliation, is by the blood of Christ, so our sanctification is by the body of Christ.",
+            "Our sinful bodies may be made clean by His body, and our souls washed through His most precious blood."
+        ],
+        "Albert Barnes": [
+            "It is in virtue of his obedience that we are sanctified.",
+            "Whatever there is in our hearts which is holy, or whatever influences are brought to bear upon us to make us holy, is all to be traced to the fact that the Redeemer became obedient unto death.",
+            "The object of the apostle is to exalt the sacrifice made by him above those made by the Jewish high priests."
+        ],
+        "Marvin Vincent": [
+            "The will of God as fulfilled in Christ.",
+            "We are having been sanctified; that is, in a sanctified state, as having become partakers of the spirit of Christ.",
+            "The sanctification of the Levitical offerings was only temporary, and had to be repeated. Christ's one offering 'perfected forever them that are sanctified'."
+        ],
+        "John Calvin": [
+            "Christ by offering himself fulfilled the command of his Father, and that we have been thus sanctified.",
+            "Christ found in himself what could appease God, so that he had no need of external aids.",
+            "By which will we are cleansed who are cleansed by the offering of the body of Christ once made."
+        ],
+        "Philip Schaff": [
+            "We have been and are sanctified freed from the guilt of sin.",
+            "We are made morally fit for God's service by the offering of the body of Christ.",
+            "The body of Christ, 'which Thou hast prepared for me,' once for all."
+        ],
+        "Archibald T. Robertson": [
+            "The divine will, unfulfilled in animal sacrifices, is realized in Christ's offering of himself.",
+            "He came to be a great High Priest, and the body was prepared for him, that by the offering of it he might put sinful men for ever into the perfect religious relation to God.",
+            "By the offering of [Christ's body], he might put sinful men for ever into the perfect religious relation to God."
+        ],
+        "John Gill": [
+            "By the sacrifice of Christ, which was willingly offered up by himself, and was according to the will of God.",
+            "It was his will of purpose that Christ should be crucified and slain; and it was his will of command, that he should lay down his life for his people.",
+            "This oblation was 'once for all'; which gives it the preference to Levitical sacrifices; destroys the Socinian notion of Christ's continual offering himself in heaven; and confutes the error of the Popish mass, or of the offering of Christ's body in it."
+        ],
+        "John Wesley": [
+            "By which will \u2014 Of God, done and suffered by Christ.",
+            "We are sanctified \u2014 Cleansed from guilt, and consecrated to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "There is no real difference between the will of God to redeem us by the sufferings and death of Christ and the will of God as fulfilled by Christ\u2019s obedience. It is through the Blood of Christ that we are reconciled to God, but it is through the offering of His Body that we are made holy. This pertains to our acceptance as acquitted from sin as well as our perfection in holiness through union with Christ and participation in His Spirit. Christ's offering of Himself has sanctified us once for all and permanently. Through His body, our sinful bodies may be made clean and our souls washed through His most precious blood. The will of God, unfulfilled in animal sacrifices, is realized in Christ's offering of Himself.",
+            "wordCount": 131,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.8299779139143837,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.44,
+            "commentatorTierSimilarities": [
+                39.13,
+                28.92,
+                31.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is no real difference between the will of God to redeem us by the sufferings and death of Christ and the will of God as fulfilled by Christ\u2019s obedience. It is through the Blood of Christ that we are reconciled to God, but it is through the offering of His Body that we are made holy. This pertains to our acceptance as acquitted from sin as well as our perfection in holiness through union with Christ and participation in His Spirit. Christ's offering of Himself has sanctified us once for all and permanently.",
+            "wordCount": 96,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.874888647313651,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.93,
+            "commentatorTierSimilarities": [
+                39.1,
+                28.53,
+                32.38
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

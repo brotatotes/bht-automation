@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 17:49:21",
+    "verseRef": "Hebrews 10:13",
+    "bestBHT": {
+        "bht": "The Son waits, invisibly reigning, for the moment when the Father will send Him to triumph over His foes. His expectant attitude reflects His certainty of final victory, as seen in John 16:33 and 1 Corinthians 15:24-28. This victory will be fully realized in His second advent, after which He will subject Himself to the Father as the Head of the Church. His waiting is not passive; it is an active anticipation of the subjection of His enemies as promised in Psalm 110:1.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.0570191997722196,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+        "commentatorTierSimilarities": [
+            41.34,
+            27.08,
+            31.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The Son waits till the Father shall 'send Him forth to triumph over all His foes.' He is now sitting at rest, invisibly reigning, and having His foes virtually, by right of His death, subject to Him.",
+            "He shall then come forth to a visibly manifested kingdom and conquest over His foes.",
+            "The subjection of His foes fully shall be at His second advent, and from that time to the general judgment; then comes the subjection of Himself as Head of the Church to the Father, that God may be all in all."
+        ],
+        "Albert Barnes": [
+            "He waits there until this shall be accomplished according to the promise made to him that all things shall be subdued under him.\" ",
+            "The Redeemer, having performed his great work of redemption by giving himself as a sacrifice on the cross, is represented now as calmly waiting until this glorious triumph is achieved, and this promise is fulfilled.\" ",
+            "That is, they shall be thoroughly and completely subdued. The same idea is expressed in 1 Corinthians 15:25, by saying that all his enemies shall be put under his feet."
+        ],
+        "Philip Schaff": [
+            "Not a second time can He suffer.\" ",
+            "Christ sits as at home, having completed His work and now awaiting His full reward.",
+            "The Jewish priest stood fearful and uneasy in the holy place hastening to depart when the service was done as from a place to which he had only temporary access."
+        ],
+        "Archibald T. Robertson": [
+            "The expectant attitude of Christ here is that of final and certain victory.\" ",
+            "The expectant attitude of Christ here is that of final and certain victory (John 16:33; 1 Corinthians 15:24-28).",
+            "He quotes Psalms 110:1 again."
+        ],
+        "John Gill": [
+            "From henceforth expecting,.... According to God's promise and declaration to him, Psalms 110:1.",
+            "Till his enemies be made his footstool, Psalms 110:1- :."
+        ],
+        "John Wesley": [
+            "Psalm 110:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son sits at rest, invisibly reigning, awaiting the moment when the Father will send Him forth to visibly triumph over His enemies. This expectant attitude of Christ is one of final and certain victory, as He quotes Psalm 110:1 again. In this waiting, He is assured of the subjection of His enemies to Himself. This subjection, however, will be fully realized at His second advent and continue until the general judgment. But it is important to note that Christ's waiting is not passive; He is actively anticipating the fulfillment of God's promise. He sits as at home, having completed His work and now awaiting His full reward.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.837657307073032,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                37.29,
+                32.59,
+                30.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son sits at rest, invisibly reigning, awaiting the moment when the Father will send Him forth to visibly triumph over His enemies. This expectant attitude of Christ is one of final and certain victory, as He quotes Psalm 110:1 again. In this waiting, He is assured of the subjection of His enemies. This subjection, however, will be fully realized at His second advent and continue until the general judgment. He sits as at home, having completed His work and now awaiting His reward.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.842613625317512,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                39.17,
+                31.24,
+                29.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son waits, invisibly reigning, for the moment when the Father will send Him to triumph over His foes. His expectant attitude reflects His certainty of final victory, as seen in John 16:33 and 1 Corinthians 15:24-28. This victory will be fully realized in His second advent, after which He will subject Himself to the Father as the Head of the Church. His waiting is not passive; it is an active anticipation of the subjection of His enemies as promised in Psalm 110:1.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0570191997722196,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                41.34,
+                27.08,
+                31.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son waits, invisibly reigning, for the moment when the Father will send Him to triumph over His foes. His expectant attitude here is that of final and certain victory, affirmed by John 16:33 and 1 Corinthians 15:24-28. This expectant attitude reflects His certainty of triumph and the subjection of His enemies. He awaits His second advent when His enemies will be made His footstool, as stated in Psalm 110:1. His waiting is not passive; it is an active anticipation rooted in the fulfillment of God's promise.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.971857654088646,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                39.86,
+                25.47,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son waits, invisibly reigning for His final and certain victory. He is expecting to triumph over His foes as stated in John 16:33 and 1 Corinthians 15:24-28. This awaits His second advent when His enemies will be fully subjected to Him, as declared in Psalm 110:1. His anticipate of triumph is not idle, but an active anticipation rooted in the fulfillment of God's promise.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.017273883954446,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                37.8,
+                28.04,
+                34.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

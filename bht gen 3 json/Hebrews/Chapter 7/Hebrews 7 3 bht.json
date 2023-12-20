@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:18",
+    "verseRef": "Hebrews 7:3",
+    "bestBHT": {
+        "bht": "Melchizedek, without a known genealogy or descent, stands alone as a figure whose priesthood is eternal, lacking both beginning and end. In contrast to the Levitical priesthood, which heavily relied on lineage, Melchizedek's priesthood represents a different type, one that emphasizes the eternal duration and uniqueness, pointing towards Christ's eternal priesthood. The silence regarding Melchizedek's birth and death serves to magnify his significance as a foreshadowing of the divine priesthood of Christ, who continues to serve as our high priest in heaven.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.6673710628417924,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.03,
+        "commentatorTierSimilarities": [
+            39.03,
+            39.72,
+            21.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Without father, c.\u2014explained by 'without genealogy' (so the Greek is for 'without descent) compare Hebrews 7:6, that is, his genealogy is not known, whereas a Levitical priest could not dispense with the proof of his descent.",
+            "made like, namely, in the particulars here specified. Nothing is said in Genesis of the end of his priesthood, or of his having had in his priesthood either predecessor or successor, which, in a typical point of view, represents Christ's eternal priesthood, without beginning or end.",
+            "Melchisedec remains in so far as the type remains in the antitype, in so far as his priesthood remains in Christ."
+        ],
+        "Albert Barnes": [
+            "The Messiah thus, 'as a priest,' stood alone. His name does not appear in the line of priests. He pertained to another tribe; Hebrews 7:14. No one of his ancestors is mentioned as a priest; and as a priest he has no descendants, and no followers. He has a lonely conspicuity similar to that of Melchizedek; a standing unlike that of any other priest.",
+            "In what point, then, it would be asked, was the Messiah to resemble him? In his personal character; his office; his rank; or in what he did? It would be natural, then, to run out the parallel and seize upon the points in which Melchizedek 'differed from the Jewish priests' which would be suggested on reading that account, for it was undoubtedly in those points that the resemblance between Christ and Melchizedek was to consist.",
+            "The meaning is, that there is no account of his death, or of his ceasing to exercise the priestly office, and in this respect be may be compared with the Lord Jesus. All other priests cease to exercise their office by death; but of the death of Melchizedek there is no mention."
+        ],
+        "Marvin Vincent": [
+            "The meaning is that there is no record concerning his parentage. This is significant as indicating a different type of priesthood from the Levitical, in which genealogy was of prime importance.",
+            "The emphasis is on the eternal duration of the ideal priesthood, and the writer explains the Psalm as asserting eternal duration as the mark of the Melchisedec order.",
+            "Melchisedec is not shown to be an eternal high priest because his death - record is lost; nor to be properly likened unto the Son of God because there is no notice of his birth and parentage."
+        ],
+        "John Calvin": [
+            "It behooves us then to be satisfied with this moderate view, that while Scripture sets forth to us Melchisedec as one who had never been born and never died, it shows to us as in a mirror, that Christ has neither a beginning nor an end.",
+            "And surely it is not lawful for us to allege anything of Christ from our own thoughts.",
+            "Not as far as what was typified required; for we must always bear in mind that there is but an analogy between the thing signified and the sign; for they make themselves ridiculous who imagine that he came down from heaven, in order that there might be a perfect similarity."
+        ],
+        "Philip Schaff": [
+            "He is without father or mother, appearing out of the darkness without ancestors or successors; without pedigree either immediate or remote; owing his priesthood, therefore, and dignities to no connection with priests on his father\u2019s side or even on his mother\u2019s: his is a priesthood purely personal, and not to be traced to natural descent or hereditary claim.",
+            "Without beginning of days or end of life, unlike the Jewish priests therefore, who began their ministry at thirty and closed it at fifty, the high priest holding his office until he died.",
+            "The doctrine is even more popular than the opposite extreme, forgiveness without sacrifice and without priest. All sacrifices are superseded, by the sacrifice of the cross, and all priesthoods by the priesthood of our Lord. The recognition of one priest is as essential to true religion as the recognition of one king."
+        ],
+        "Archibald T. Robertson": [
+            "Melchizedek stands alone. He is not to be understood as a miraculous being without birth or death.",
+            "The likeness is in the picture drawn in Genesis, not in the man himself.",
+            "Jesus continues priest in fact in heaven."
+        ],
+        "John Gill": [
+            "But all this is on purpose concealed, that he might be a more apparent of Christ, who, as man, is 'without father' for though, as God, he has a Father, and was never without one...",
+            "...he is without mother, though not in a spiritual sense, every believer being so to him as such; nor in a natural sense, as man, for the Virgin Mary was his mother; but in a divine sense, as God.",
+            "there is no account which shows when he was born, or when he died; and in this he was a type of Christ, who has no beginning of days, was from the beginning, and in the beginning, and is the beginning, and was from everlasting..."
+        ],
+        "John Wesley": [
+            "Without father, without mother, without pedigree.",
+            "Made like the Son of God.",
+            "Remaineth a priest continually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of Melchizedek, a figure with no recorded genealogy or descent, whose priesthood is eternal, without beginning or end. Melchizedek's priesthood represents Christ's eternal priesthood and stands in stark contrast to the Levitical priesthood, which relied on proof of lineage. Like Melchizedek, Jesus possesses an eternal priesthood as the Son of God. While Melchizedek's birth and death are not mentioned, he remains a priest continually, and in this way serves as a foreshadowing of Christ, who is without father or mother in a divine sense, has no beginning or end, and is the eternal high priest who continues to intercede for us in heaven.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.659991724771448,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.78,
+            "commentatorTierSimilarities": [
+                38.24,
+                37.55,
+                24.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Melchizedek, the mysterious figure mentioned in Hebrews 7, lacks a recorded genealogy, making him distinct from the Levitical priests who relied heavily on their lineage. Melchizedek's priesthood was eternal, represented by his unrecorded birth and death. This lack of genealogy and limited information about Melchizedek highlights a different type of priesthood, emphasizing the eternal duration and uniqueness of his character. Melchizedek's priesthood serves as a foreshadowing of Christ, who possesses a divine priesthood without beginning or end, continuing to intercede for us in heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4660711136497264,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.34,
+            "commentatorTierSimilarities": [
+                39.1,
+                39.42,
+                21.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Melchizedek, without a known genealogy or descent, stands alone as a figure whose priesthood is eternal, lacking both beginning and end. In contrast to the Levitical priesthood, which heavily relied on lineage, Melchizedek's priesthood represents a different type, one that emphasizes the eternal duration and uniqueness, pointing towards Christ's eternal priesthood. The silence regarding Melchizedek's birth and death serves to magnify his significance as a foreshadowing of the divine priesthood of Christ, who continues to serve as our high priest in heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.6673710628417924,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.03,
+            "commentatorTierSimilarities": [
+                39.03,
+                39.72,
+                21.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Melchizedek, a figure without recorded genealogy or descent, parallels the eternal priesthood of Christ. His priesthood remains in Christ, illustrating an ideal priesthood that transcends time. While there are no details about his birth or parentage, Melchizedek's lack of a death record highlights the eternal nature of his priesthood. This eternal aspect is emphasized in the Psalm, which asserts that the Melchizedek order is marked by everlasting duration. Jesus, as the true high priest, continues to fulfill this eternal priesthood in heaven.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.4342825666682018,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.28,
+            "commentatorTierSimilarities": [
+                41.31,
+                37.16,
+                21.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Melchizedek's enigmatic priesthood, lacking a recorded genealogy and death, points towards the eternal nature of Christ's priesthood. In contrast to the Levitical priests who relied on their lineage, Melchizedek stands alone as a figure with an ideal, unending priesthood that finds its fulfillment in Christ. The absence of information about his birth and parentage signifies a different type of priesthood, one that transcends time and earthly limitations. Jesus, as our eternal high priest, continues to intercede for us in heaven, embodying the Melchizedek order.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.5218968444372702,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.19,
+            "commentatorTierSimilarities": [
+                39.05,
+                39.04,
+                21.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

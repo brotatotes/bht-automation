@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:50:17",
+    "verseRef": "Hebrews 11:21",
+    "bestBHT": {
+        "bht": "Jacob's faith was evidenced by transposing his hands, specifically laying his right hand on Ephraim's head as an act of worship in connection with God's promise for the land of Canaan. Despite not being able to recognize Joseph's sons, Jacob distinguished them by faith. He expressed his confident anticipation of God's promise by desiring to be buried in Canaan, his rightful possession. Leaning on the top of his staff, Jacob showed his trust in God's faithfulness through acts of blessing and worship.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 2.4138399732900924,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.6,
+        "commentatorTierSimilarities": [
+            29.83,
+            37.58,
+            32.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The faith consisted in transposing his hands wittingly, laying the right hand on the head of the younger, Ephraim, who was to become the greater tribe.",
+            "This act of worship was one of faith, inasmuch as it was connected with a command, the point of which was, God\u2019s promise respecting the land of Canaan.",
+            "The real question with regard to the passage is confined within very narrow limits. The same Hebrew word signifies a staff, or a bed, according as it is pointed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He knew not Joseph's sons, and could not distinguish them by sight, yet he did distinguish them by faith, transposing his hands intentionally.",
+            "His faith...consisted in his so confidentially anticipating the fulfilment of God's promise of Canaan to his descendants, as to desire to be buried there as his proper possession.",
+            "Paul by adopting the Septuagint version, brings out, under the Spirit, an additional fact, namely, that the aged patriarch used his own (not Joseph's) staff to lean on in worshipping on his bed."
+        ],
+        "Albert Barnes": [
+            "By faith when about to die he blessed the sons of Joseph; and by faith also he reverently bowed before God in the belief that when he died his remains would be conveyed to the promised land, and expressed his gratitude in an act of worship, leaning reverently on the top of his staff.",
+            "Such an image is much more natural and probable than that he should 'bow upon his bed's head' - a phrase which at best is not very intelligible.",
+            "Both the acts here referred to were expressive of strong confidence in God."
+        ],
+        "Marvin Vincent": [
+            "The meaning is simply that these events took place in Jacob's last hours.",
+            "Each son received a separate and distinct blessing, although Joseph had expected only one common blessing for both.",
+            "The words upon the head of his staff are from the LXX; the Hebrew being 'Jacob bowed himself upon the head of the bed.'"
+        ],
+        "John Calvin": [
+            "If, then, the Jews wish to be anything, they should glory in nothing else, but in faith.",
+            "The main thing was, that Jacob worshipped, which was an evidence of his gratitude. He was therefore led by faith to submit himself to his son.",
+            "The word for worship in Hebrew means to prostrate one's self on the ground, the humblest mode of adoration; but it is used also to designate merely an act of worship."
+        ],
+        "Philip Schaff": [
+            "Jacob had arranged with his son for his own burial in the distant land of Canaan (itself an act of faith), recognising in Canaan the future home of his posterity.",
+            "When Joseph had given the promise, Jacob showed the energy of his faith by the energy of his thankfulness.",
+            "Though dying, he rose in his bed, leaned on his staff (the staff, perhaps, of which he spoke long before, Genesis 32:10), and bowed in worship to the God who had now fulfilled all his desires."
+        ],
+        "Archibald T. Robertson": [
+            "Leaning upon the top of his staff.\" ",
+            "The quotation is from the LXX, the Hebrew having 'the head of the bed,' but the Hebrew word allows either meaning with different vowel points."
+        ],
+        "John Gill": [
+            "this is a proof that it was done in faith by Jacob, when there was no appearance of the fulfilment of these things, and it was not likely that he should see them, and this shows the truth of what the apostle says in Hebrews 11:1.",
+            "and when he delivered the blessing he firmly believed it would be fulfilled, though they were then in a strange land.",
+            "Jacob, having blessed the two sons of Joseph, being sat upon his bed, and weak, he leaned upon the top of his staff, and worshipped God, and gave praise and glory to him, that he had lived to see not only his son Joseph, but his seed also."
+        ],
+        "John Wesley": [
+            "Jacob when dying \u2014 That is, when near death. Bowing down on the top of his staff - As he sat on the side of his bed. Genesis 48:16; Genesis 47:31"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jacob demonstrated his faith by intentionally transposing his hands and laying his right hand on the head of Ephraim, the younger son who would become the greater tribe. This act of worship was connected to God's promise regarding the land of Canaan. Despite not being able to distinguish Joseph's sons by sight, Jacob distinguished them by faith. He confidently anticipated the fulfillment of God's promise of Canaan and desired to be buried there as his rightful possession. Jacob's faith is evident in his acts of blessing and worship, leaning on the top of his staff. Through these actions, he expressed his gratitude and trust in God's faithfulness.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.2309094604610427,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                30.01,
+                37.24,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jacob's faith was demonstrated as he intentionally transposed his hands and laid his right hand on the head of Ephraim, the younger son who would become the greater tribe. This act of worship was connected to God's promise regarding the land of Canaan. Though he couldn't distinguish Joseph's sons by sight, he distinguished them by faith. Jacob confidently anticipated the fulfillment of God's promise and desired to be buried in Canaan. Through his acts of blessing and worship, leaning on his staff, he expressed trust in God's faithfulness.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.2995220423845026,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                29.84,
+                37.29,
+                32.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jacob's faith was evidenced by transposing his hands, specifically laying his right hand on Ephraim's head as an act of worship in connection with God's promise for the land of Canaan. Despite not being able to recognize Joseph's sons, Jacob distinguished them by faith. He expressed his confident anticipation of God's promise by desiring to be buried in Canaan, his rightful possession. Leaning on the top of his staff, Jacob showed his trust in God's faithfulness through acts of blessing and worship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.4138399732900924,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.6,
+            "commentatorTierSimilarities": [
+                29.83,
+                37.58,
+                32.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jacob's faith was displayed in his intentional transposition of hands, specifically placing his right hand on Ephraim's head as an act of worship tied to God's promise regarding Canaan. Although he couldn't visually distinguish Joseph's sons, Jacob discerned them through faith. He confidently anticipated the fulfillment of God's promise and desired to be buried in Canaan, demonstrating his trust in God's faithfulness. By leaning on his staff, Jacob expressed gratitude and worship towards God, acknowledging His fulfillment of desires.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.3215541322552276,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.53,
+            "commentatorTierSimilarities": [
+                28.87,
+                38.06,
+                33.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through intentional hand transposition and placing his right hand on Ephraim's head, Jacob's act of worship demonstrated his faith and trust in God's promise of Canaan. Despite being unable to visually distinguish Joseph's sons, Jacob distinguished them in faith. His confident anticipation of God's promise was reflected in his desire to be buried in Canaan, his rightful possession. Leaning on his staff, Jacob expressed his gratitude, worship, and acknowledged God's faithfulness in fulfilling all his desires.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 2.3062236838258103,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.02,
+            "commentatorTierSimilarities": [
+                29.72,
+                38.1,
+                32.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

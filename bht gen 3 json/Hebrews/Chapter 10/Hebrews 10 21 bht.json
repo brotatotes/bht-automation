@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:49:32",
+    "verseRef": "Hebrews 10:21",
+    "bestBHT": {
+        "bht": "Christ, our great Priest and King, reigns over the house of God, encompassing both the Church and heaven. He surpasses all other high priests in greatness. Through him, we have access to God and enter into his presence. Christ has fulfilled all that came before him, calling us to submit to him as our leader in the Church. He is the prophet, priest, and King over God's people, greater than any who came before him.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1185588683878827,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+        "commentatorTierSimilarities": [
+            31.28,
+            32.57,
+            36.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A Great Priest; one who is at once King and 'Priest on His throne'; a royal Priest, and a priestly King.\" ",
+            "The spiritual house, the Church, made up of believers, whose home is heaven.",
+            "Thus, by 'the house of God,' over which Jesus is, heaven is included in meaning, as well as the Church, whose home it is."
+        ],
+        "Albert Barnes": [
+            "Over the spiritual house of God; that is, the church... Under the Jewish dispensation there was a great high priest, and the same is true under the Christian dispensation.\" ",
+            "This the apostle had shown at length in the previous part of the Epistle.",
+            "The idea here is, that as under the former dispensation it was regarded as a privilege that the people of God might have access to the mercy-seat by means of the high priest; so it is true in a much higher sense that we may now have access to God through our greater and more glorious High Priest."
+        ],
+        "Marvin Vincent": [
+            "A high priest...not merely a high priest, but emphasizing Christ's superior greatness as high priest.",
+            "House of God...here the whole Christian family.",
+            "In the Gospels always of the temple...not found in Paul. Once in the Pastorals, of the church."
+        ],
+        "John Calvin": [
+            "Christ could not be a priest without having the former priests divested of their office, as it was another order.",
+            "He then intimates that all those things which Christ had changed at his coming ought to be relinquished.",
+            "God has set him over his whole house for this end \u2014 that every one who seeks a place in the Church, may submit to Christ and choose him, and no other, as his leader and ruler."
+        ],
+        "Philip Schaff": [
+            "A great priest not high priest chiefly, for which the word high priest is always used in this Epistle.",
+            "A priest who is enthroned at God\u2019s right hand over the house of God.",
+            "We reach the inmost recesses of the very sanctuary of God even now by faith and prayer."
+        ],
+        "Archibald T. Robertson": [
+            "A great priest (\u03b9\u03b5\u03c1\u03b5\u03b1 \u03bc\u03b5\u03b3\u03b1\u03bd). As has been shown in Hebrews 4:14-7.",
+            "Over the house of God (\u03b5\u03c0 \u03c4\u03bf\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). As God's Son (Hebrews 3:5). "
+        ],
+        "John Gill": [
+            "The church of God, over which Christ is as prophet, priest, and King, and as the Son and owner of it.",
+            "In the Greek text it is, 'a great priest'; so the Messiah is called by the Targum on Zechariah 6:12 'a great priest', as he is; even a great high priest.",
+            "Greater than Aaron, and any of his sons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, our great Priest and King, reigns over the house of God, which encompasses both the Church and heaven itself. Unlike the high priests of old, Christ's greatness as our high priest surpasses all others. Through him, we have access to God and can enter into the sanctuary of his presence. As the one who has changed and fulfilled all that came before him, Christ calls us to submit to him as our leader and ruler in the Church. He is the prophet, priest, and King over God's people, greater than any that came before him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.1937018809900644,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                30.48,
+                33.06,
+                36.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, our great Priest and King, reigns over the house of God, encompassing both the Church and heaven. He surpasses all other high priests in greatness. Through him, we have access to God and enter into his presence. Christ has fulfilled all that came before him, calling us to submit to him as our leader in the Church. He is the prophet, priest, and King over God's people, greater than any who came before him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1185588683878827,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                31.28,
+                32.57,
+                36.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, our great priest, is not only a high priest, but also a royal priest, as He is both King and Priest on His throne. He is the head of the spiritual house of God, which includes not only the Church, but also heaven itself. Just as under the old covenant the people of God had access to the mercy-seat through the high priest, we now have a much greater privilege of having access to God through our glorious High Priest, Jesus. He is enthroned at God's right hand over the house of God, and through faith and prayer, we can enter into the very sanctuary of God. Christ's priesthood is of a different order, surpassing that of the former priests, such as Aaron and his sons. In light of this, we are called to submit to Christ as our leader and ruler, choosing Him and no other.",
+            "wordCount": 151,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 2.2647975437006234,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+            "commentatorTierSimilarities": [
+                30.34,
+                34.78,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, our great priest, is not only a high priest, but also a royal priest, as He is both King and Priest on His throne. He is the head of the spiritual house of God, which includes not only the Church, but also heaven itself. He is enthroned over the house of God, and through faith and prayer, we can enter into the very sanctuary of God. Christ's priesthood is of a different order, surpassing that of the former priests, such as Aaron and his sons. We are called to submit to Christ as our leader and ruler, choosing Him and no other.",
+            "wordCount": 104,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.2121561874948372,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.89,
+            "commentatorTierSimilarities": [
+                31.13,
+                32.23,
+                36.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, our great priest and priestly King, presides over the house of God, which encompasses both the Church and heaven itself. His greatness as a high priest eclipses that of the former priests and is emphasized in the spiritual house, the Christian family. Through Him, we have the privilege of accessing God directly, reaching the innermost sanctum through our faith and prayers. As believers, we are called to submit to Christ as our leader, choosing Him above all others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.177940424921971,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                32.89,
+                34.76,
+                32.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:50:04",
+    "verseRef": "Hebrews 10:36",
+    "bestBHT": {
+        "bht": "By patiently enduring and submitting to God's will, we can confidently and steadfastly move forward in our journey of faith. It is through patient continuance in well-doing and enduring perseverance that we can both do God's will and receive His promises, as the doing and receiving are interconnected. Therefore, let us hold on to patience and trust that in due time, we will enjoy the promised inheritance God has for us.",
+        "wordCount": 74,
+        "quoteTokenProportion": 52.83,
+        "qualityScore": 2.065403565107503,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+        "commentatorTierSimilarities": [
+            27.56,
+            31.6,
+            40.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By degrees, the Apostle from this verse to ver. 38 introduces the prophetic citation.",
+            "If any man draw back, my Lord hath no pleasure in him: but the just by my faith shall live.",
+            "No endurance or patience would be wanted, when they had done the will of God, to receive the promise: because such interval as should elapse between their having done the will of God in this sense, and receiving the promise, would be not here, but in the intermediate state."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Waiting endurance, or enduring perseverance.",
+            "We must not only do, but also suffer.",
+            "Patience itself is a further and persevering doing of God's will."
+        ],
+        "Albert Barnes": [
+            "We have need of patience because there is in us so much disposition to complain and repine.",
+            "All that Christians can do in such cases is to be patient - to lie calmly in the hands of God, and submit to his will day by day, and year by year.",
+            "It is implied here that this promise will not be received unless we are patient in our trials, and the prospect of this reward should encourage us to endure them."
+        ],
+        "Marvin Vincent": [
+            "The verb implies, not mere obtaining, but receiving and carrying away for use and enjoyment.",
+            "The verb implies... carrying away for use and enjoyment.",
+            "Receiving and carrying away for use and enjoyment."
+        ],
+        "John Calvin": [
+            "Except we possess extraordinary patience, we shall a thousand times be broken down before we come to the half of our course.",
+            "Satan craftily suggests every kind of trouble in order to discourage us. In short, Christians will never advance two paces without fainting, except they are sustained by patience.",
+            "This then is the only way or means by which we can firmly and constantly advance; we shall not otherwise obey God, nor even enjoy the promised inheritance."
+        ],
+        "Philip Schaff": [
+            "For ye have need of patience...when used in relation to suffering, it describes the patient endurance which bears all with steadfastness and hope.\" ",
+            "When used in relation to active work, it describes the 'patient continuance in well-doing' which endures to the end.\" ",
+            "The doing and the receiving are not separated in time; the one crowns the other."
+        ],
+        "Archibald T. Robertson": [
+            "This was the call of the hour then as now.",
+            "There is no promise to those who patiently keep on doing wrong.",
+            "Now the author is ready to develop this great idea of receiving the promise in Christ."
+        ],
+        "John Gill": [
+            "Not that they were destitute of the grace of patience; for where God is the God of all grace, he is the God of patience; and such, who are called by grace, are conformed to the image of Christ, and, among other things, are like him in this...\" ",
+            "where there is one grace, there is every grace; saints are immediately called to sufferings and trials, which require patience; and, without this, there can be no enjoyment of a man's self...",
+            "and which, when done aright, is done according to the rule of his word, in faith, from love, through the strength of Christ, and by the assistance of his Spirit and grace, with a view to his glory, and without any dependence on what is done..."
+        ],
+        "John Wesley": [
+            "The promise \u2014 Perfect love; eternal life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 10:36, the writer emphasizes the importance of patience and endurance in fulfilling the will of God and receiving His promises. The need for patience arises from our inclination to complain and our tendency to be discouraged by the trials we face. However, by patiently enduring and submitting to God's will, we can confidently and steadfastly move forward in our journey of faith. It is through patient continuance in well-doing and enduring perseverance that we can both do God's will and receive His promises, as the doing and receiving are interconnected. Therefore, let us hold on to patience and trust that in due time, we will enjoy the promised inheritance God has for us.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.039056850940102,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                28.65,
+                31.56,
+                39.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By patiently enduring and submitting to God's will, we can confidently and steadfastly move forward in our journey of faith. It is through patient continuance in well-doing and enduring perseverance that we can both do God's will and receive His promises, as the doing and receiving are interconnected. Therefore, let us hold on to patience and trust that in due time, we will enjoy the promised inheritance God has for us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 2.065403565107503,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                27.56,
+                31.6,
+                40.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we desire to receive the promise that God has for us, we must not only do His will, but also endure and patiently persevere through trials and sufferings. This patient endurance is a further and persevering doing of God's will. We must lie calmly in the hands of God, submitting to His will day by day and year by year. It is through this extraordinary patience and steadfastness that we can firmly and constantly advance in our journey of faith. Satan will try to discourage us, but we must not faint or draw back. Instead, we need to be sustained by patience, for without it, we cannot obey God or enjoy the promised inheritance. By patiently enduring, we can receive and carry away for our use and enjoyment the promise of perfect love and eternal life that God has for us.",
+            "wordCount": 143,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.9794222248442344,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                26.47,
+                30.67,
+                42.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to receive God's promise, we must not only do His will but also endure and patiently persevere through trials and sufferings. This patient endurance is a further and persevering doing of God's will. We need to lie calmly in the hands of God, submitting to His will day by day and year by year. Satan will try to discourage us, but we must be sustained by patience. By patiently enduring, we can receive and carry away for our use and enjoyment the promise of perfect love and eternal life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0338398881215847,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                27.15,
+                32.66,
+                40.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To receive God's promise, we must not only do His will, but also endure and patiently persevere through trials and sufferings. This patient endurance is a further and persevering doing of God's will. By lying calmly in the hands of God, submitting to His will day by day and year by year, we can overcome the discouragement that Satan presents. Through extraordinary patience and steadfastness, we can firmly and constantly advance in our journey of faith, receiving and carrying away for our use and enjoyment the promise of perfect love and eternal life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.033735083146218,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.96,
+            "commentatorTierSimilarities": [
+                27.33,
+                31.31,
+                41.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

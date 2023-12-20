@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:47:12",
+    "verseRef": "Hebrews 1:1",
+    "bestBHT": {
+        "bht": "The Old Testament revelations were distributed among the prophets in various forms and parts, with each prophet only knowing a portion of the truth. However, when Jesus Christ came, He became the complete revelation of God, uniting all aspects of God's revelation. God dwelled within the prophets as they delivered His messages. The revelation in the Old Testament was fragmentary and came at different times and stages, ultimately building up to Christ who is the last and highest manifestation of God. The Son brought the one true and perfect revelation to us through the apostles.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.5649197068932854,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.62,
+        "commentatorTierSimilarities": [
+            37.01,
+            32.02,
+            30.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In many portions (or \u2018parts,\u2019 manifoldly as regards the distribution.\" - The Old Testament revelations were distributed among the prophets in various parts and forms.",
+            "Christ is the full revelation of God, Himself the pure light, uniting in His one Person the whole spectrum.\" - Jesus Christ is the complete revelation of God, embodying the fullness of divine truth and uniting all aspects of God's revelation.",
+            "God spoke in the prophets, being resident in them.\" - God's speaking took place within the prophets, with God dwelling within them as they delivered His messages."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Each only knew in part; but when that which was perfect came in Messiah, that which was in part was done away.",
+            "The Old Testament revelations were fragmentary in substance, and manifold in form; the very multitude of prophets shows that they prophesied only in part. In Christ, the revelation of God is full, not in shifting hues of separated color, but Himself the pure light, uniting in His one person the whole spectrum.",
+            "The Son is the last and highest manifestation of God; not merely a measure, as in the prophets, but the fulness of the Spirit of God dwelling in Him bodily."
+        ],
+        "Albert Barnes": [
+            "The contrast here is between the numerous separate parts of the revelation given by the prophets, and the oneness of that given by his Son.",
+            "God had now spoken by his Son. He had addressed us in one uniform manner.",
+            "The word 'prophet' in the Scriptures is used in a wide signification. It means not only those who predict future events, but these who communicate the divine will on any subject."
+        ],
+        "Marvin Vincent": [
+            "The truth as a whole never comes to light in the O. T. It appears fragmentarily, in successive acts, as the periods of the Patriarchs, Moses, the Kingdom, etc. One prophet has one, another element of the truth to proclaim.",
+            "Not the different ways in which God imparted his revelations to the prophets, but the different ways in which he spoke by the prophets to the fathers: in one way through Moses, in another through Elijah, in others through Isaiah, Ezekiel, etc.",
+            "The revelation differed according to the faithfulness or unfaithfulness of the covenant-people."
+        ],
+        "John Calvin": [
+            "We ought not only reverently to receive [the doctrine taught by Christ], but also to be satisfied with it alone.",
+            "The Son of God is set in opposition to the prophets... the various and manifold modes of speaking... to the last revelation brought to us by Christ.",
+            "In this diversity he still sets before us but one God, that no one might think that the Law militates against the Gospel, or that the author of one is not the author of the other."
+        ],
+        "Archibald T. Robertson": [
+            "The Son as 'the exact counterpart of God'.",
+            "The Old Testament worthies in general without 'our' or 'your'.",
+            "The Old Testament revelation came at different times and in various stages, a progressive revelation of God to men."
+        ],
+        "John Gill": [
+            "The author of this revelation is God, not essentially, but personally considered, even God the Father, as distinguished from his Son in the next verse; for the revelation under the Old Testament is divine, as well as that under the New.\" ",
+            "This revelation was made at several times, at different seasons, and to different persons; and consisted of a variety of things relating to doctrine and worship, and concerning the Messiah, his person and office.\" ",
+            "And the apostle suggests, by this way of speaking, that it was a long time since God spake to this people; for prophecy had ceased ever since the times of Malachi, for the space of three hundred years."
+        ],
+        "John Wesley": [
+            "Both these are opposed to the one entire and perfect revelation which he has made to us by Jesus Christ.",
+            "Intimating that no other revelation is to be expected.",
+            "The Son spake by the apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Old Testament revelations were distributed among the prophets in various forms and parts, with each prophet only knowing a portion of the truth. However, when Jesus Christ came, He became the complete revelation of God, embodying the entirety of divine truth. God spoke through the prophets, dwelling within them as they delivered His messages. The revelation in the Old Testament was fragmentary and came at different times and in various stages, ultimately building up to Christ who is the last and highest manifestation of God. The Son spoke through the apostles, bringing the one true and perfect revelation to us.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.5509975772285522,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.16,
+            "commentatorTierSimilarities": [
+                37.21,
+                32.1,
+                30.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Old Testament revelations were distributed among the prophets in various forms and parts, with each prophet only knowing a portion of the truth. However, when Jesus Christ came, He became the complete revelation of God, uniting all aspects of God's revelation. God dwelled within the prophets as they delivered His messages. The revelation in the Old Testament was fragmentary and came at different times and stages, ultimately building up to Christ who is the last and highest manifestation of God. The Son brought the one true and perfect revelation to us through the apostles.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.5649197068932854,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.62,
+            "commentatorTierSimilarities": [
+                37.01,
+                32.02,
+                30.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Old Testament revelations were distributed among the prophets, with each prophet only knowing a portion of the truth. However, Jesus Christ became the complete revelation of God, embodying the fullness of divine truth and uniting all aspects of God's revelation. God spoke through the prophets, dwelling within them as they delivered His messages. The revelation in the Old Testament was fragmentary, coming at different times and in various stages, ultimately leading to Christ as the last and highest manifestation of God. The Son brought the one true and perfect revelation to us through the apostles.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.5371678588044357,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.7,
+            "commentatorTierSimilarities": [
+                37.16,
+                32.14,
+                30.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Old Testament, the revelations of God were divided among the prophets, who each received only a portion of the truth. With Jesus Christ, however, the fullness of God's revelation was brought forth. He became the complete embodiment of divine truth, uniting all aspects of God's message. God spoke within the prophets as they delivered His words. The Old Testament revelation was fragmentary, given at different times and stages, ultimately leading to Christ as the ultimate manifestation of God. The Son, through the apostles, brought us the one true and perfect revelation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.489986399876779,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.13,
+            "commentatorTierSimilarities": [
+                36.48,
+                32.34,
+                31.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Old Testament revelations were distributed among the prophets, with each knowing only a portion. However, in Jesus Christ, the complete revelation of God was manifested, embodying the fullness of divine truth. God spoke through the prophets, dwelling within them as they delivered His messages. The Old Testament revelation was fragmented and came at various times and stages. Ultimately, Christ became the last and highest manifestation of God, bringing the one true and perfect revelation to us through the apostles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.4620529531648976,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.2,
+            "commentatorTierSimilarities": [
+                38.35,
+                31.04,
+                30.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

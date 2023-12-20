@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:50:52",
+    "verseRef": "Hebrews 12:20",
+    "bestBHT": {
+        "bht": "The sight that Moses witnessed was so terrible and caused him to be in great terror and in trembling. The touch of the mountain was deemed a profanation, signifying its significance. The Israelites were unable to bear the awe-inspiring communication of God's commands, which led to severe consequences of either stoning or being shot through with a dart for disobedience. Such was the gravity of the situation that even a beast could not stray, for it would also be subjected to stoning.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.7062224833190736,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+        "commentatorTierSimilarities": [
+            25.56,
+            41.4,
+            33.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And so terrible was the sight, [that] Moses said.",
+            "So fearful was that which was revealed.",
+            "I am in great terror and in trembling."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A stern interdictory mandate is meant.",
+            "The full interdict in Exodus 19:12 Exodus 19:13 is abbreviated here.",
+            "The beast's punishment, namely, the being thrust through with a dart, being left to be understood."
+        ],
+        "Albert Barnes": [
+            "They could not sustain the awe produced by the fact that God uttered his commands himself.",
+            "The meaning is not that the commands themselves were intolerable, but that the manner in which they were communicated inspired a terror which they could not bear.",
+            "The punishment was to be either by stoning, or being 'shot through.'"
+        ],
+        "Marvin Vincent": [
+            "It implies a touching or grasping which affects the object...",
+            "So here, the touch of the mountain was profanation.",
+            "The correct text omits or thrust through with a dart."
+        ],
+        "Archibald T. Robertson": [
+            "For they could not endure, for they were not enduring (bearing).",
+            "That which was enjoined, to distinguish, to dispose, to order.",
+            "If even, 'Even if.' Condition of third class... It shall be stoned."
+        ],
+        "John Gill": [
+            "They could not bear it, or bear it, as a yoke, it being a yoke of bondage; nor as a covenant of works... unless this should have any respect to the following edict, more particularly.",
+            "And, how easily, through inadvertence, might this be done? and how terrible was the punishment? nothing less than death, by stoning, or being shot.",
+            "The last clause, 'or thrust through with a dart', is wanting in the Alexandrian and Beza's Claromontane copies, in the Vulgate Latin, and all the Oriental versions; and yet is necessary to be retained, being in the original text, in Exodus 19:12."
+        ],
+        "John Wesley": [
+            "For they could not bear \u2014 The terror which seized them, when they heard those words proclaimed, If even a beast, etc. Exodus 19:12, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sight that Moses witnessed was so terrible and fearful that he was in great terror and trembling. It was a stern and interdictory mandate, as revealed in Exodus 19:12-13, abbreviated here. The touch of the mountain was considered a profanation, making it clear that it was not just a touch, but a touching or grasping that affected the object. The Israelites could not endure the awe produced by God's direct communication of his commands. The punishment for violating this mandate was severe - either stoning or being shot through with a dart. The intensity of the situation was such that even a beast would be stoned if it crossed the boundaries set by God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.6756707543051084,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+            "commentatorTierSimilarities": [
+                24.37,
+                41.96,
+                33.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sight that Moses witnessed was so terrible and fearful that he was in great terror and trembling. It was a stern and interdictory mandate, as revealed in Exodus 19:12-13, abbreviated here. The touch of the mountain was considered a profanation. The Israelites could not endure the awe produced by God's direct communication of his commands. The punishment for violating this mandate was severe - either stoning or being shot through with a dart.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.683683600264232,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                27.57,
+                42.34,
+                30.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sight that Moses witnessed was so terrible and fearful that he was in great terror and trembling. The touch of the mountain was considered a profanation. The Israelites could not endure the awe produced by God's direct communication of his commands. The punishment for violating this mandate was severe, either stoning or being shot through with a dart.",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7013530744115117,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                26.21,
+                46.7,
+                27.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sight that Moses witnessed was so terrible and caused him to be in great terror and in trembling. The touch of the mountain was deemed a profanation, signifying its significance. The Israelites were unable to bear the awe-inspiring communication of God's commands, which led to severe consequences of either stoning or being shot through with a dart for disobedience. Such was the gravity of the situation that even a beast could not stray, for it would also be subjected to stoning.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.7062224833190736,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                25.56,
+                41.4,
+                33.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sight that Moses witnessed was so terrible and caused him to be in great terror and in trembling. The touch of the mountain was deemed a profanation. The Israelites were unable to bear the awe-inspiring communication of God's commands, leading to severe consequences of either stoning or being shot through with a dart for disobedience. Even a beast could not stray, as it would face stoning. Such was the significance and gravity of the situation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.5765799346678615,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                28.29,
+                40.84,
+                30.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

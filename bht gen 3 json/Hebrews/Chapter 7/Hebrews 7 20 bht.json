@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:48:26",
+    "verseRef": "Hebrews 7:20",
+    "bestBHT": {
+        "bht": "The writer of Hebrews emphasizes the superiority of Christ's Melchisedec-like priesthood over the law-priesthood by highlighting the solemn weight of the oath of God. Through the use of an oath, God set Christ's priesthood above that of Aaron, showing that the covenant made by Christ is far more excellent than the old covenant. This establishment of Christ's priesthood by the oath of God further proves the superior excellency of his priesthood.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.589721195994318,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.45,
+        "commentatorTierSimilarities": [
+            21.64,
+            37.81,
+            40.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this seems on the whole more natural, and more agreeable to the style of our Epistle.",
+            "And inasmuch as [it was] not without an oath.",
+            "The ellipsis here is variously supplied."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Another proof of the superiority of Christ's Melchisedec-like priesthood.",
+            "The oath of God gave a solemn weight to it which was not in the law-priesthood.",
+            "Being a parenthesis, 'inasmuch as not without an oath He was made surety of the testament (for, &c.), of so much better a testament hath Jesus been made the surety.'"
+        ],
+        "Albert Barnes": [
+            "In addition to every other consideration showing the superiority of Christ as a priest, there was the solemnity of the oath by which he was set apart to the office.\" ",
+            "The appointment of one to the office of priest by an oath, such as occurred in the case of Jesus, was much more solemn and important than where the office was received merely by descent."
+        ],
+        "Marvin Vincent": [
+            "Not without an oath.\" ",
+            "The A. V. is, on the whole, better than Rev.",
+            "For an oath rend. the taking of an oath."
+        ],
+        "John Calvin": [
+            "God has set Christ\u2019s priesthood above that of Aaron, since in honor to the former he was pleased to make an oath.",
+            "We see the end for which he again quotes the Psalmist, even that we may know, that more honor through God\u2019s oath was given to Christ than to any others.",
+            "The Apostle hence concludes, that the covenant which God has made by Christ with us, is far more excellent than the old covenant of which Moses was the interpreter."
+        ],
+        "Archibald T. Robertson": [
+            "Without the taking of an oath (\u03c7\u03c9\u03c1\u03b9\u03c2 \u03bf\u03c1\u03ba\u03c9\u03bc\u03bf\u03c3\u03b9\u03b1\u03c2). As in Psalms 110:4. "
+        ],
+        "John Gill": [
+            "Hebrews 7:20: 'And inasmuch as not without an oath.'",
+            "The better hope, Christ and his priesthood, said to be brought in, and by which men draw nigh to God; this is established by the oath of God himself.",
+            "This is established by the oath of God himself referring to Psalms 110:4 afterwards cited in proof of it."
+        ],
+        "John Wesley": [
+            "And \u2014 The greater solemnity wherewith he was made priest, farther proves the superior excellency of his priesthood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The writer of Hebrews emphasizes the superiority of Christ's Melchisedec-like priesthood over the law-priesthood by highlighting the solemn weight of the oath of God. Through the use of an oath, God set Christ's priesthood above that of Aaron, showing that the covenant made by Christ is far more excellent than the old covenant. The appointment of Jesus to the role of priest by an oath signifies a greater solemnity and importance compared to the hereditary succession of the law-priests. This establishment of Christ's priesthood by the oath of God further proves the superior excellency of his priesthood.",
+            "wordCount": 103,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.598103901459537,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.73,
+            "commentatorTierSimilarities": [
+                21.22,
+                40.77,
+                38.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews emphasizes the superiority of Christ's Melchisedec-like priesthood over the law-priesthood by highlighting the solemn weight of the oath of God. Through the use of an oath, God set Christ's priesthood above that of Aaron, showing that the covenant made by Christ is far more excellent than the old covenant. The appointment of Jesus to the role of priest by an oath signifies a greater solemnity and importance compared to the hereditary succession of the law-priests.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.5706838404583086,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.81,
+            "commentatorTierSimilarities": [
+                21.78,
+                42.07,
+                36.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer of Hebrews emphasizes the superiority of Christ's Melchisedec-like priesthood over the law-priesthood by highlighting the solemn weight of the oath of God. Through the use of an oath, God set Christ's priesthood above that of Aaron, showing that the covenant made by Christ is far more excellent than the old covenant. This establishment of Christ's priesthood by the oath of God further proves the superior excellency of his priesthood.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.589721195994318,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.45,
+            "commentatorTierSimilarities": [
+                21.64,
+                37.81,
+                40.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews underscores the superiority of Christ's Melchisedec-like priesthood by emphasizing the solemnity and weight of the oath of God. This oath sets Christ's priesthood above that of Aaron, demonstrating that the covenant made through Christ is far more excellent than the old covenant. The appointment of Jesus to the priestly office by the oath signifies a greater solemnity and significance compared to the hereditary succession of the law-priests. Thus, the establishment of Christ's priesthood through the oath of God serves as compelling evidence for the superior excellency of his priesthood.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.5451579207624837,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.97,
+            "commentatorTierSimilarities": [
+                20.84,
+                42.21,
+                36.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer of Hebrews highlights the significance of the oath of God in establishing the superiority of Christ's Melchisedec-like priesthood. By setting Christ's priesthood above that of Aaron, the covenant made through Christ surpasses the old covenant. The appointment of Jesus to the priestly office through the oath carries a greater sense of solemnity and importance compared to the hereditary priests. This underscores the exceptional nature of Christ's priesthood and solidifies its excellence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.2422622883788836,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                19.45,
+                42.23,
+                38.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

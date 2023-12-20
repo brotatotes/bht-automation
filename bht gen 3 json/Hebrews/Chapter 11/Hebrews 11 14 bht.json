@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:50:03",
+    "verseRef": "Hebrews 11:14",
+    "bestBHT": {
+        "bht": "Those who confess themselves as strangers here make it evident that they are seeking after a home, proving that faith is their motivating force. In acknowledging that this world is not their true home, they reveal their longing for another and better country. They are in search of a native land, a fatherland, which they have not yet found. This pilgrimage of faith leads them to seek a country that is not of this world, a heavenly homeland.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2845785946674373,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+        "commentatorTierSimilarities": [
+            25.76,
+            38.75,
+            35.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They who say such things make manifest that they seek after a home.",
+            "Manifest that they seek after a home.",
+            "They seek after a home."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For\u2014proof that 'faith' was their actuating principle.",
+            "declare plainly\u2014make it plainly evident.",
+            "In confessing themselves strangers here, they evidently imply that they regard not this as their home or fatherland, but seek after another and a better."
+        ],
+        "Albert Barnes": [
+            "That speak of themselves as having come into a land of strangers; and that negotiate for a small piece of land, not to cultivate, but to bury their dead.",
+            "We should think that they were in search of some place as their home, and that they had not yet found it.",
+            "They lived and acted just as if they had not yet found a permanent habitation, but were traveling in search of one."
+        ],
+        "Marvin Vincent": [
+            "Declare plainly [\u03b5\u03bc\u03c6\u03b1\u03bc\u03b9\u03b6\u03bf\u03c5\u03c3\u03b9\u03bd] . o P. See on John 14:21. Occasionally in LXX Rend. 'make it manifest.'\" ",
+            "They seek a country (patrida ejpizhtousin). The verb is found in LXX, chiefly in the sense of seeking after God or another deity.",
+            "Patriv is a native country; a fatherland. Only here and in Gospels and Acts. Quite often in LXX."
+        ],
+        "Philip Schaff": [
+            "They who say of themselves that they are sojourners of their life that it is a pilgrimage, a wandering in a foreign land, make it plain that it is a fatherland, a true home, they are seeking.\" ",
+            "They proved that they lived and died in faith.",
+            "They are not seeking the home they have left in the country of Terah, or elsewhere."
+        ],
+        "Archibald T. Robertson": [
+            "A country of their own (\u03c0\u03b1\u03c4\u03c1\u03b9\u03b4\u03b1). Land of the fathers (\u03c0\u03b1\u03c4\u03b7\u03c1), one's native land (John 4:44). Cf. our patriotic, patriotism. "
+        ],
+        "John Gill": [
+            "They declare plainly that they seek a country; heaven, so called, for the largeness of it; it is a good land, a land of uprightness; a pleasant land, a land of rest...",
+            "The act of 'seeking' it supposes some things, with respect to the place where they were, as that they were in a strange land, had no settlement there, nor satisfaction in it...",
+            "The right way to this country is not mere civility and morality, nor legal righteousness, nor birth privileges, nor submission to outward ordinances, nor a mere profession of religion, but the Lord Jesus Christ; he is the true way to eternal life..."
+        ],
+        "John Wesley": [
+            "They who speak thus show plainly that they seek their own country \u2014 That they keep in view, and long for, their native home."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who confess themselves as strangers here make it evident that they are seeking after a home, proving that faith is their motivating force. In acknowledging that this world is not their true home, they reveal their longing for another and better country. They are in search of a native land, a fatherland, which they have not yet found. This pilgrimage of faith leads them to seek a country that is not of this world, a heavenly homeland.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2845785946674373,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                25.76,
+                38.75,
+                35.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals, by openly acknowledging that they are seeking after a home, reveal that their driving force is faith. Their confession of being strangers in this land demonstrates that they do not consider it their true home or native land, but instead they yearn for another, a better country. Their pursuit of a country of their own reflects their desire to find a permanent habitation, one that they have not yet discovered. Their unwavering belief and actions confirm that they are indeed seeking a country, their heavenly fatherland, where they will finally find rest and fulfillment.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.2656899174039906,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.67,
+            "commentatorTierSimilarities": [
+                25.3,
+                36.69,
+                38.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals openly declare and manifest their pursuit of a home, signifying that faith is their motivating factor. By acknowledging that they are strangers in this land, they imply that it is not their true home, but rather they are searching for a different and superior country. Their unwavering confession and actions demonstrate their longing for a permanent dwelling\u2014a native land where they can find rest and satisfaction. This journey towards their own country reveals their steadfast faith and aspiration for their heavenly fatherland.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.159079810514007,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.13,
+            "commentatorTierSimilarities": [
+                27.55,
+                34.34,
+                38.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals openly declare their desire for a home, making it evident that their driving force is faith. By confessing themselves as strangers in this land, they imply that they do not consider it their true home, but are seeking another and better one. Their unwavering pursuit of a country of their own reflects their longing for a permanent habitation, where they can find rest and fulfillment. Their actions and beliefs attest to their unwavering faith as they seek their heavenly fatherland.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.209204240769311,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.8,
+            "commentatorTierSimilarities": [
+                27.22,
+                35.4,
+                37.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals openly declare that their search for a home showcases their unwavering faith. By confessing themselves as strangers in this land, they indicate that they do not regard it as their true home, but are in pursuit of another and better country. Their unyielding quest for a country of their own reflects their longing for a permanent dwelling, where they can find solace and satisfaction. Their actions and beliefs bear witness to their resolute faith as they seek their heavenly fatherland.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.2456985613841134,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.01,
+            "commentatorTierSimilarities": [
+                26.9,
+                35.81,
+                37.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

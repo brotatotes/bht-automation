@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:47:14",
+    "verseRef": "Hebrews 3:3",
+    "bestBHT": {
+        "bht": "Christ, as the establisher of both the Old and New Testament economies, is far more exalted than Moses, for he is the builder and supervisor of God's house. Just as the architect is superior to the house itself, Jesus, as God's Son, founded and supervised this house of God. He is a greater prophet, a greater Savior, and received a greater testimony from God. He did more miracles, was raised and seated at God's right hand. Through him, our faith is founded and our salvation is secured.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.2340810167401894,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+        "commentatorTierSimilarities": [
+            35.15,
+            26.08,
+            38.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For, though He has the quality of faithfulness in God's house in common with Moses, yet is He far more exalted and glorious than he.",
+            "This person hath been held worthy of more glory than Moses, inasmuch as he hath more honour than the house, who established it.",
+            "Just as he who has built and furnished a house stands higher in honour than the house itself and the individual servants, so does Christ higher than Moses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ...was counted worthy of more glory...The Hebrew Christians admitted the fact.",
+            "The building of such a house includes all the preparations of providence and grace needed to furnish it with 'living stones' and fitting 'servants.'",
+            "Moses, as a servant, is a portion of the house, and less than the house; Christ, as the Instrumental Creator of all things, must be God, and so greater than the house of which Moses was but a part."
+        ],
+        "Albert Barnes": [
+            "He really had a higher rank, and was worthy of more respect. This was saying much for the Messiah, and that it was proper to say this, Paul proceeds to show.",
+            "The founder of a family may be really deserving of much less respect than some of his descendants. But it is always true that the architect is worthy of more respect than the house which he makes.",
+            "All the evidence of skill and adaptedness that there is in the invention had its origin in the inventor, all the beauty of the statue or the temple had its origin in the mind of him that designed it."
+        ],
+        "Marvin Vincent": [
+            "Was counted worthy [\u03b7\u03be\u03b9\u03c9\u03c4\u03b1\u03b9] . Used both of reward which is due (1 Timothy 5:17) and of punishment (Hebrews 10:29).",
+            "Of more glory [\u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03bf\u03c2 \u03b4\u03bf\u03be\u03b7\u03c2] . Comp. ch. Hebrews 2:8, Hebrews 2:9.",
+            "The point of the whole, however, is that Moses was a part of the O. T. system - a servant in the house; while Christ, as one with God who established all things, was the founder and establisher of both the Old and the New Testament economies."
+        ],
+        "John Calvin": [
+            "Christ being the builder, is superior to the whole building.",
+            "Christ is in such a way the true temple of God, that he is at the same time the God who inhabits it.",
+            "Our faith is so founded on him that he still rules over us that he is in such a way our brother that he is yet our Lord."
+        ],
+        "Philip Schaff": [
+            "The word implies gathering or making the materials, putting them together, and furnishing the whole, even appointing the servants doing all that is necessary for completing \u2018the house\u2019 as a home.",
+            "Even Moses, therefore, is regarded as part of the house which God prepared.",
+            "Moses, the honored servant in the house, yet only a part of it, is not so high as Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Definite claim of Christ's superiority to Moses.",
+            "The architect is superior to the house.",
+            "Jesus as God's Son founded and supervised this house of God."
+        ],
+        "John Gill": [
+            "Christ is worthy of more glory than Moses, and has it given him by God, angels, and men: he is a greater Saviour than Moses.",
+            "He is a greater prophet than Moses, being the only begotten Son of God, who lay in the bosom of the Father, and has declared him, his mind and will, his Gospel, grace, and truth, as Moses never did.",
+            "He did more miracles than Moses, and had a greater testimony from God than he had, as that he was his beloved Son, and to be heard; he was also raised from the dead, and is set down at the right hand of God, and is appointed Judge of all; he is ministered to, and worshipped by angels, is believed on by men, who ascribe the whole glory of their salvation to him."
+        ],
+        "John Wesley": [
+            "He that hath builded it hath more glory than the house \u2014 Than the family itself, or any member of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, as the founder and establisher of both the Old and the New Testament economies, is far more exalted and glorious than Moses. Just as the architect is superior to the house, Jesus, as God's Son, founded and supervised this house of God. He is the builder and is worthy of more glory than the house itself. Christ is a greater prophet than Moses, a greater Savior, and he received a greater testimony from God. He did more miracles, was raised from the dead, and is now seated at God's right hand. He is our Lord, and through him, our faith is founded and our salvation is secured.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.2707929193950287,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.84,
+            "commentatorTierSimilarities": [
+                33.78,
+                26.21,
+                40.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, as the establisher of both the Old and New Testament economies, is far more exalted than Moses, for he is the builder and supervisor of God's house. Just as the architect is superior to the house itself, Jesus, as God's Son, founded and supervised this house of God. He is a greater prophet, a greater Savior, and received a greater testimony from God. He did more miracles, was raised and seated at God's right hand. Through him, our faith is founded and our salvation is secured.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2340810167401894,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                35.15,
+                26.08,
+                38.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, the founder and establisher of both the Old and New Testament systems, is far more exalted than Moses. He is the builder and supervisor of God's house. Just as the architect is superior to the house itself, Jesus, as God's Son, founded and supervised this house of God. He is a greater prophet, a greater Savior, and received a greater testimony from God. He did more miracles, was raised and seated at God's right hand. Through him, our faith is founded and our salvation is secured.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.1734606669676295,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.61,
+            "commentatorTierSimilarities": [
+                34.93,
+                26.29,
+                38.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, as the establisher of both the Old and New Testament economies, is far more exalted and glorious than Moses. He is the builder and supervisor of God's house. Just as the architect is superior to the house itself, Jesus, as God's Son, founded and supervised this house of God. He is a greater prophet, a greater Savior, and received a greater testimony from God. Through miracles, resurrection, and exaltation, our faith is founded and our salvation is secured in him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.2041863565517437,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                35.49,
+                26.14,
+                38.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, as the founder of both the Old and New Testament systems, surpasses Moses in glory and honor. He is the builder and supervisor of God's house, exalted and superior to the house itself. Jesus, as God's Son, established and oversaw this divine dwelling. He is a greater prophet, a greater Savior, and received a greater testimony. With miraculous works, resurrection, and enthronement, our faith is grounded and our salvation is secured in Christ, the architect and Lord of our lives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.1620330137896833,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.23,
+            "commentatorTierSimilarities": [
+                35.87,
+                25.51,
+                38.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

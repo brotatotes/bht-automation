@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:17",
+    "verseRef": "Hebrews 6:11",
+    "bestBHT": {
+        "bht": "Believers are urged to diligently cultivate the full assurance of hope until the end, imitating those who inherit the promises through faith and endurance. The full assurance of hope is obtained through persevering in holy living and serves as a safeguard against falling away. Each individual is encouraged to exhibit the same diligence, developing their hope into full assurance, even amidst trials. This assurance of faith and hope is not a mere opinion, but a divine evidence given by the power of the Holy Spirit.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.2232183519458566,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+        "commentatorTierSimilarities": [
+            26.59,
+            37.15,
+            36.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We earnestly desire that every one of you do shew the same diligence with regard to the full assurance of your hope until the end.",
+            "That ye become not sluggish, but imitators of them who through faith and endurance inherit the promises.",
+            "Who are inheritors of, who inherit, in all times and under all circumstances."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He cares alike for great and small, and overlooks none.",
+            "They needed, besides love, patient perseverance, resting on hope and faith.",
+            "The full assurance of hope unto the end\u2014the coming of Christ."
+        ],
+        "Albert Barnes": [
+            "It is implied here that the full assurance of hope is to be obtained by a persevering effort to lead a holy life.",
+            "No man can have it who does not persevere in holy living, and they who do obtain it usually secure it only near the end of a life of eminent devotedness to God.",
+            "As it is, it is held out as a prize to be won - as that whose acquisition is to cheer us in our old age, when the warfare is over, and when amidst the infirmities of years, and the near prospect of death, we need special consolation."
+        ],
+        "Marvin Vincent": [
+            "We desire that they may exhibit more of the spirit which animates their beneficent works.",
+            "He is concerned, not only for the body of believers, but for each member.",
+            "We desire that each of you exhibit the same diligence to develop your hope, which is in danger of failing, into full assurance, unto the end of the present season of trial with its happy consummation."
+        ],
+        "John Calvin": [
+            "The life of a Christian is not complete in all its parts, unless we attend to faith as well as to love.",
+            "Faith, which relies on [God], when it is true, ought to be certain, surmounting every doubt.",
+            "Let us then know that true faith is ever connected with hope."
+        ],
+        "Philip Schaff": [
+            "But (though persuaded of better things and recognising your work and love) we desire...that every one of you do show the same diligence...with respect to the full assurance of your hope unto the end.\" ",
+            "The stress is on 'the full assurance of your hope,' and 'unto the end.'",
+            "The warnings of the Gospel are solemn, and yet Christians should live in the sunshine of an assured hope as the true safeguard against apostasy."
+        ],
+        "Archibald T. Robertson": [
+            "They have not given up Christ, but many of them are still babes and not adults and others are in peril of becoming so.",
+            "Unto the fulness of hope.",
+            "To the end."
+        ],
+        "John Gill": [
+            "And we desire that everyone of you do show the same diligence,.... In the constant exercise of the graces of faith and love...\" ",
+            "...this shows the apostle's impartiality in his exhortations, and served to remove all groundless suspicions in particular persons...",
+            "...to attain to the full assurance of it; as to interest in the love and grace of God; in the covenant of grace, its blessings and promises; in God, as a covenant God and Father; in Christ, as a Saviour and Redeemer..."
+        ],
+        "John Wesley": [
+            "The full assurance of hope \u2014 Which you cannot expect, if you abate your diligence.",
+            "The former is the highest degree of divine evidence that God is reconciled to me in the Son of his love; the latter is the same degree of divine evidence (wrought in the soul by the same immediate inspiration of the Holy Ghost) of persevering grace, and of eternal glory.",
+            "But this assurance of faith and hope is not an opinion, not a bare construction of scripture, but is given immediately by the power of the Holy Ghost; and what none can have for another, but for himself only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We earnestly desire that every one of you do show the same diligence with regard to the full assurance of your hope until the end. That ye become not sluggish, but imitators of them who through faith and endurance inherit the promises. The full assurance of hope unto the end \u2013 the coming of Christ. He is concerned, not only for the body of believers, but for each member. We desire that each of you exhibit the same diligence to develop your hope, which is in danger of failing, into full assurance, unto the end of the present season of trial with its happy consummation. It is implied here that the full assurance of hope is to be obtained by a persevering effort to lead a holy life. No man can have it who does not persevere in holy living, and they who do obtain it usually secure it only near the end of a life of eminent devotedness to God. The warnings of the Gospel are solemn, and yet Christians should live in the sunshine of an assured hope as the true safeguard against apostasy. The life of a Christian is not complete in all its parts unless we attend to faith as well as to love.",
+            "wordCount": 207,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.275859346393055,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.01,
+            "commentatorTierSimilarities": [
+                29.71,
+                38.43,
+                31.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We earnestly desire that every one of you do show the same diligence with regard to the full assurance of your hope until the end. That ye become not sluggish, but imitators of them who through faith and endurance inherit the promises. The full assurance of hope unto the end \u2013 the coming of Christ. We desire that each of you exhibit the same diligence to develop your hope into full assurance, unto the end of the present season of trial with its happy consummation. The full assurance of hope is obtained by a persevering effort to lead a holy life and Christians should live in the sunshine of an assured hope as the true safeguard against apostasy.",
+            "wordCount": 117,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.424061770611657,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.94,
+            "commentatorTierSimilarities": [
+                31.34,
+                37.32,
+                31.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Hebrews 6:11, the writer urges believers to show diligence in cultivating the full assurance of their hope until the end. They should not be sluggish, but rather imitate those who through faith and endurance inherit the promises. The desire is for each individual to exhibit the same diligence, developing their hope into full assurance, even amidst trials. The full assurance of hope is obtained through persevering in holy living, and it serves as a safeguard against falling away from the faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.263473456107226,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.6,
+            "commentatorTierSimilarities": [
+                31.54,
+                35.18,
+                33.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews encourages believers to demonstrate diligence in cultivating the full assurance of hope until the end. They are urged not to be sluggish, but rather to imitate those who inherit the promises through faith and endurance. The desire is for each individual to exhibit the same diligence, developing their hope into full assurance even in the midst of trials. This full assurance of hope is obtained through persevering in holy living and serves as a safeguard against apostasy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.2371345447943205,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+            "commentatorTierSimilarities": [
+                30.74,
+                36.08,
+                33.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are urged to diligently cultivate the full assurance of hope until the end, imitating those who inherit the promises through faith and endurance. The full assurance of hope is obtained through persevering in holy living and serves as a safeguard against falling away. Each individual is encouraged to exhibit the same diligence, developing their hope into full assurance, even amidst trials. This assurance of faith and hope is not a mere opinion, but a divine evidence given by the power of the Holy Spirit.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2232183519458566,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+            "commentatorTierSimilarities": [
+                26.59,
+                37.15,
+                36.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

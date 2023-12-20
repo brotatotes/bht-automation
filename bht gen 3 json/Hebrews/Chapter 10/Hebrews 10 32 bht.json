@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:50:09",
+    "verseRef": "Hebrews 10:32",
+    "bestBHT": {
+        "bht": "But call ever to mind the former days, in which when enlightened, ye underwent much contest of sufferings. Call over in your minds, one by one, the former days. After ye were illuminated. A great fight. The genitive may be either subjective, implying that your contest consisted of sufferings: or objective, that it was waged with sufferings, as the foe to be contended against. As previously he has warned them by the awful end of apostates, so here he stirs them up by the remembrance of their own former faith, patience, and self-sacrificing love.",
+        "wordCount": 95,
+        "quoteTokenProportion": 54.41,
+        "qualityScore": 1.8349469480189042,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+        "commentatorTierSimilarities": [
+            41.22,
+            35.86,
+            22.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But call ever to mind the former days, in which when enlightened, ye underwent much contest of sufferings.\" ",
+            "Call over in your minds, one by one, the former days.",
+            "The genitive may be either subjective, implying that your contest consisted of sufferings: or objective, that it was waged with sufferings, as the foe to be contended against."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As previously he has warned them by the awful end of apostates, so here he stirs them up by the remembrance of their own former faith, patience, and self-sacrificing love.\" ",
+            "Call to remembrance\u2014habitually: so the present tense means.\" ",
+            "In spiritual baptism, Christ, who is 'the Light,' is put on."
+        ],
+        "Albert Barnes": [
+            "When we have been enabled to pass through trials once, we are to make the remembrance of the grace then bestowed on us a means of supporting and encouraging us in future trials.",
+            "After you became Christians, or were enlightened to see the truth.",
+            "In the trials referred to, they had a great struggle; that is, a struggle to maintain their faith without wavering, or against those who would have led them to apostatize from their religion."
+        ],
+        "Marvin Vincent": [
+            "After ye were illuminated.",
+            "A great fight.",
+            "The allusions in the epistle to persecution."
+        ],
+        "John Calvin": [
+            "For Christ has not enlisted us on this condition, that we should after a few years ask for a discharge like soldiers who have served their time, but that we should pursue our warfare even to the end.",
+            "He, however, at the same time reminds them, that it was through God\u2019s favor that they believed, and not through their own strength; they were enlightened when immersed in darkness and without eyes to see, except light from above had shone upon them.",
+            "Whenever then those things which we have done or suffered for Christ come to our minds, let them be to us so many goads to stir us on to higher attainments."
+        ],
+        "Philip Schaff": [
+            "Call to remembrance (rather, call up and keep in remembrance) those former days in which, when first enlightened (as in chap. Hebrews 6:4), ye endured, without losing heart or hope...\" ",
+            "...a great fight (a manifest struggle) of suffering...",
+            "...consisting in suffering, not with suffering as your foe..."
+        ],
+        "Archibald T. Robertson": [
+            "Call to remembrance (\u03b1\u03bd\u03b1\u03bc\u03b9\u03bc\u03bd\u03b7\u03c3\u03ba\u03b5\u03c3\u03b8\u03b5). Present middle imperative of \u03b1\u03bd\u03b1\u03bc\u03b9\u03bc\u03bd\u03b7\u03c3\u03ba\u03c9, as in 2 Corinthians 7:15 'remind yourselves.'",
+            "After ye were enlightened (\u03c6\u03c9\u03c4\u03b9\u03c3\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2). First aorist passive participle of \u03c6\u03c9\u03c4\u03b9\u03b6\u03c9 in the same sense as in Hebrews 6:4 (regeneration) and like 'the full knowledge of the truth' in Hebrews 10:26.",
+            "Conflict (\u03b1\u03b8\u03bb\u03b7\u03c3\u03b9\u03bd). Late word from \u03b1\u03b8\u03bb\u03b5\u03c9, to engage in a public contest in the games (2 Timothy 2:5), only here in the N.T."
+        ],
+        "John Gill": [
+            "to see their impurity, impotence, and unrighteousness, and their lost and miserable state by nature; and to behold Christ and salvation by him; and to have some light into the doctrines of the Gospel; and some glimmering of the glories of another world.",
+            "such as are converted, and are brought to make a public profession of their faith, and submit to the ordinances of Christ, are, in common, immediately called to suffer reproach and persecution of one kind or another",
+            "these Hebrews, being enlisted as soldiers under Christ, the Captain of their salvation, were quickly engaged in a warfare, and were called forth to fight a fight of afflictions, and a very great one; and which they endured with patience, courage, and intrepidity."
+        ],
+        "John Wesley": [
+            "Enlightened \u2014 With the knowledge of God and of his truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But call ever to mind the former days, in which when enlightened, ye underwent much contest of sufferings. Call over in your minds, one by one, the former days. After ye were illuminated. A great fight. The genitive may be either subjective, implying that your contest consisted of sufferings: or objective, that it was waged with sufferings, as the foe to be contended against. As previously he has warned them by the awful end of apostates, so here he stirs them up by the remembrance of their own former faith, patience, and self-sacrificing love. In spiritual baptism, Christ, who is 'the Light,' is put on. The allusions in the epistle to persecution. Whenever then those things which we have done or suffered for Christ come to our minds, let them be to us so many goads to stir us on to higher attainments.",
+            "wordCount": 144,
+            "quoteTokenProportion": 52.58,
+            "qualityScore": 1.8299747229991237,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                38.21,
+                33.42,
+                28.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But call ever to mind the former days, in which when enlightened, ye underwent much contest of sufferings. Call over in your minds, one by one, the former days. After ye were illuminated. A great fight. The genitive may be either subjective, implying that your contest consisted of sufferings: or objective, that it was waged with sufferings, as the foe to be contended against. As previously he has warned them by the awful end of apostates, so here he stirs them up by the remembrance of their own former faith, patience, and self-sacrificing love.",
+            "wordCount": 95,
+            "quoteTokenProportion": 54.41,
+            "qualityScore": 1.8349469480189042,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                41.22,
+                35.86,
+                22.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Call to remembrance the former days, when you were enlightened and endured a great fight of sufferings. Reflect on the time when you were illuminated, when the light of Christ entered your life. Remember the struggles and trials you faced, standing strong in your faith. Let these memories serve as a reminder of your past devotion and inspire you to continue your journey of faith with steadfastness and perseverance.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.033066475122685,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                28.64,
+                41.51,
+                29.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Call to remembrance the former days, when you were enlightened and underwent much contest of sufferings. Reflect on the time when you were illuminated, after enduring a great fight. The genitive may imply that your contest consisted of sufferings, or that it was waged with sufferings as the foe. Stirred by the remembrance of their own former faith, patience, and self-sacrificing love, the readers are encouraged to uphold their devotion in the face of adversity. Let the memories of past struggles be a source of inspiration and strengthen your resolve to persevere in your faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0259011543728516,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                32.09,
+                41.8,
+                26.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Reflect on the former days when, after being enlightened, you endured a great fight of sufferings. Remember the time of your illumination, when the light of Christ entered your life. Your contest consisted of sufferings, waged as a foe to be contended against. Stir up your faith and self-sacrificing love, recalling your past devotion. These memories will serve as a reminder and inspiration, urging you to persevere in your faith journey, standing strong despite the trials and challenges you face.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.921400937274519,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                30.61,
+                42.76,
+                26.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

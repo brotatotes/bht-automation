@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:48:48",
+    "verseRef": "Hebrews 9:6",
+    "bestBHT": {
+        "bht": "The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its two-part division, one of which was inaccessible, served as a reminder of its inferiority. Yet, the high priest, on that one day, would enter the Holy of Holies with the blood to cleanse the people from their sins. Through the fall of this old system, a more familiar access to God has been obtained, prompting us to move beyond the shadows of the Law.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.6817236795759447,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+        "commentatorTierSimilarities": [
+            18.04,
+            49.78,
+            32.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "twice at the least every day, for the morning and evening care of the lamps, and offering of incense",
+            "went\u2014Greek, 'enter': present tense"
+        ],
+        "Albert Barnes": [
+            "The priests went always into the first tabernacle.",
+            "They were not permitted to enter the Holy of Holies, that being entered only once in a year by the High Priest.",
+            "Performing the acts of worship which God had appointed."
+        ],
+        "Marvin Vincent": [
+            "The inferiority of the ancient system was proved by the old tabernacle itself: by its division into two parts, both of which were inaccessible to the people.",
+            "Always [\u03b4\u03b9\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03c2]. Rend. continually. The phrase is usually found in connection with matters involving relations to God - worship, sacrifice, etc.",
+            "Accomplishing [\u03b5\u03c0\u03b9\u03c4\u03b5\u03bb\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2]. See on ch. Hebrews 8:5, and Galatians 3:3. The verb is used of performing religious services by Herodotus."
+        ],
+        "John Calvin": [
+            "The very form of the ancient tabernacle reminded the Jews that they were to look for something else.",
+            "Then foolishly did they act who, by retaining the shadows of the Law, willfully obstructed their own way.",
+            "He contends that this had fallen for our great benefit, for through its fall a more familiar access to God has been obtained for us."
+        ],
+        "Philip Schaff": [
+            "He notes the weakness of the old covenant and its fitness for this world only.",
+            "The high priest had to carry with him [the blood] within the veil, and there offer it by sprinkling it on and before the mercy-seat.",
+            "This offering of the blood is said to have cleansed the people once a year from all their sins."
+        ],
+        "Archibald T. Robertson": [
+            "A mere summary has been made of the furniture.",
+            "Go in.",
+            "Accomplishing."
+        ],
+        "John Gill": [
+            "the priests went always into the first tabernacle; the first part of the tabernacle, which was called the holy place.\" ",
+            "the priests entered into the holy place every day for service; but they might not go in at any other time but the time of service.",
+            "it becomes such who are employed in sacred service; both to be constant in it, and to do it fully and completely."
+        ],
+        "John Wesley": [
+            "Always \u2014 Every day.",
+            "Accomplishing their services \u2014 Lighting the lamps, changing the shewbread, burning incense, and sprinkling the blood of the sin offerings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 9:6, it is mentioned that the priests went into the first tabernacle twice a day, continually accomplishing their services. This ancient system, with its division into two parts and limited access, emphasized its inferiority. It is clear that the old covenant was designed for this world only and its weakness is highlighted. The high priest, on the one day he entered the Holy of Holies, had to bring the blood and offer it before the mercy-seat for the cleansing of the people's sins. Through the fall of this old system, a more familiar access to God has been obtained, emphasizing the need to move beyond the shadows of the Law.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.5955334528629126,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+            "commentatorTierSimilarities": [
+                20.19,
+                47.18,
+                32.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The priests went into the first tabernacle twice a day, continually accomplishing their services. This ancient system, with its division into two parts, emphasized its inferiority. The old covenant, in its weakness, was fit only for this world. The high priest entered the Holy of Holies, bringing the blood for the cleansing of sins. Through the fall of this system, a more familiar access to God has been obtained, urging us to move beyond the shadows of the Law.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.588686383339656,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                17.16,
+                49.98,
+                32.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its two-part division, one of which was inaccessible, served as a reminder of its inferiority. Yet, the high priest, on that one day, would enter the Holy of Holies with the blood to cleanse the people from their sins. Through the fall of this old system, a more familiar access to God has been obtained, prompting us to move beyond the shadows of the Law.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.6817236795759447,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                18.04,
+                49.78,
+                32.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its division into two parts emphasized its inferiority. The high priest would enter the Holy of Holies with the blood to cleanse the people's sins. Through the fall of this old system, a more familiar access to God has been obtained, urging us to move beyond the shadows of the Law.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.638979144306377,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.84,
+            "commentatorTierSimilarities": [
+                17.48,
+                51.37,
+                31.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priests constantly entered the first tabernacle, faithfully carrying out the prescribed acts of worship. This system's division into two parts highlighted its flawed nature. On the designated day, the high priest would enter the Holy of Holies, bringing the blood to cleanse the people's sins. The downfall of this outdated system has brought about a more direct access to God, motivating us to transcend the mere shadows and symbols of the Law.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5760454529991446,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                20.03,
+                47.39,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

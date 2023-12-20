@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:47:53",
+    "verseRef": "Hebrews 6:15",
+    "bestBHT": {
+        "bht": "Abraham's patient endurance and unwavering faith in God's promise serve to exemplify the security and trustworthiness of divine promises. He faithfully and patiently waited, ultimately obtaining what God had promised him. Through his example, we are reminded that God remains faithful to His word, even in the face of trials and delays. Abraham's perseverance serves as an encouragement for believers to endure and trust in God's promises, knowing that He will fulfill them in His perfect timing.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.937315743135988,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+        "commentatorTierSimilarities": [
+            17.79,
+            49.12,
+            33.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "15. so\u2014thus relying on the",
+            "\tpromise."
+        ],
+        "Albert Barnes": [
+            "He did not faint or grow weary, but he persevered in a confident expectation of the fulfillment of what God had so solemnly promised.",
+            "He saw by faith the Messiah in the distance and the numerous blessings which would result from his coming.",
+            "If Abraham persevered when 'appearances' were so much against the fulfillment of what had been promised, then Christians should persevere under the clearer light and with the more distinct promises of the gospel."
+        ],
+        "Marvin Vincent": [
+            "After he had patiently endured [\u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03c5\u03bc\u03b7\u03c3\u03b1\u03c2].",
+            "He obtained [\u03b5\u03c0\u03b5\u03c4\u03c5\u03c7\u03b5\u03bd]. The compounded preposition ejpi has the force of upon: to light or hit upon.",
+            "The security of the divine promise illustrated by the analogy of human practice."
+        ],
+        "Philip Schaff": [
+            "And so, in this way, having patiently waited, believing and expecting the blessing amid all the trials and delays he was subjected to, he obtained what had been promised.\" ",
+            "The promise was really fulfilled in Abraham\u2019s becoming through Isaac the father of the people of promise, and then of \u2018many nations\u2019 under the Gospel through Him who was \u2018the seed\u2019 (Galatians 3:16), and so of all who are through faith children of Abraham.",
+            "No trial of faith under any dispensation has been severer than Abraham\u2019s, and no reward more blessed or more complete."
+        ],
+        "Archibald T. Robertson": [
+            "Having patiently endured.",
+            "He obtained.",
+            "God was true to his word and Abraham was faithful."
+        ],
+        "John Gill": [
+            "He waited long for a son, from whom the Messiah was to spring, after he had had the promise of one.\" ",
+            "He endured many afflictions with patience, in his journeys from place to place, throughout his life to the end.",
+            "He saw the day of Christ by faith, and now inherits the heavenly glory, which is the thing chiefly designed."
+        ],
+        "John Wesley": [
+            "After he had waited \u2014 Thirty years.",
+            "He obtained the promise \u2014 Isaac, the pledge of all the promises."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham's patience and faith in God's promise serve as a powerful example for believers. Despite the obstacles and trials he faced, Abraham remained steadfast, fully expecting the fulfillment of God's word. He did not waver or grow weary, but instead persevered, confidently anticipating the blessings that would come through the Messiah. Christians are called to emulate Abraham's endurance, particularly in light of the clearer promises of the gospel. Just as Abraham obtained what was promised, so too can believers trust that God will remain faithful and true to His word. Through faith, Abraham became the father of many nations and serves as a testament to the rewards of unwavering faith in God.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8941394676433372,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                15.9,
+                53.7,
+                30.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's steadfastness in patiently waiting for God's promise to be fulfilled serves as a powerful example for all believers. Despite facing numerous trials and difficulties, he never wavered in his faith, fully expecting God to fulfill His word. Christians can draw strength from Abraham's perseverance, especially in light of the clearer promises of the gospel. Just as Abraham obtained what was promised, believers can trust that God will remain faithful to His word. Through faith, Abraham became the father of many nations and stands as a testament to the rewards of unwavering trust in God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8955991886485584,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                16.68,
+                52.87,
+                30.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's patient endurance and unwavering faith in God's promise serve as an inspiring example for believers. Despite facing challenges and delays, Abraham held fast to his trust in God. He believed in the authenticity of God's word, and his perseverance was rewarded when he obtained the promised blessings. This teaches us that God is faithful to His promises and that those who patiently endure can expect to see the fulfillment of God's plans in their lives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8777564297200215,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+            "commentatorTierSimilarities": [
+                18.19,
+                49.82,
+                31.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's patient endurance and unwavering faith in God's promise serve to exemplify the security and trustworthiness of divine promises. He faithfully and patiently waited, ultimately obtaining what God had promised him. Through his example, we are reminded that God remains faithful to His word, even in the face of trials and delays. Abraham's perseverance serves as an encouragement for believers to endure and trust in God's promises, knowing that He will fulfill them in His perfect timing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.937315743135988,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                17.79,
+                49.12,
+                33.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's patient endurance and unwavering faith in God's promise serve to exemplify the security and trustworthiness of divine promises. He faithfully and patiently waited, ultimately obtaining what God had promised him. Through his example, we are reminded that God remains faithful to His word, even in the face of trials and delays. Abraham's perseverance serves as an encouragement for believers to endure and trust in God's promises, knowing that He will fulfill them in His perfect timing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.937315743135988,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                17.79,
+                49.12,
+                33.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

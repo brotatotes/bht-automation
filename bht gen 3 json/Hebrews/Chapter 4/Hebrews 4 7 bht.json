@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:47:21",
+    "verseRef": "Hebrews 4:7",
+    "bestBHT": {
+        "bht": "The book of Hebrews mentions that God has designated a certain day, referred to as today, as an opportunity to enter into His rest. This day was first mentioned by David in the Psalms after a long interval between Joshua and David. It serves as a reminder and warning for us to not repeat the unbelief of our ancestors, and instead, heed God's voice and avoid having hardened hearts so that we can partake in the promised rest.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.7790557083477805,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+        "commentatorTierSimilarities": [
+            29.94,
+            32.55,
+            37.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He limited a certain day, 'To-day.'",
+            "In (the Psalm of) David saying after so long a time (after five hundred years' possession of Canaan)",
+            "To-day if ye hear His voice"
+        ],
+        "Albert Barnes": [
+            "Again, he limiteth - He designates, or definitely mentions.",
+            "That is, in the time of David, he uses the word 'today,' as if time was 'then' an offer of rest, and as if it were then possible to enter into it.",
+            "It must be an offer of heaven."
+        ],
+        "Marvin Vincent": [
+            "He gives another opportunity of securing the rest, and calls the period in which the opportunity is offered today.",
+            "After this long interval he renews the promise in the Psalm.",
+            "Referring to the citations, ch. 3 7, 8, 15."
+        ],
+        "John Calvin": [
+            "To us is offered what was denied to them; for the Holy Spirit reminds and warns us, that we may not do the same thing so as to incur the same punishment.\" ",
+            "Take heed lest the same thing happen to you as to the fathers.",
+            "Rightly then does the Apostle say, that as the fathers\u2019 unbelief deprived them of the promised possession, the promise is renewed to their children, so that they may possess what had been neglected by their fathers."
+        ],
+        "Philip Schaff": [
+            "He has already shown that the rest of God of which he here speaks is not the rest of God after creation; he now proceeds to show... that neither is it the rest of Canaan.",
+            "He limiteth (still further defines the day and consequently the rest of which he speaks) a certain day, saying in David...",
+            "A long time points back to the entrance into Canaan, and 'as it has been said before' points simply to the previous quotations."
+        ],
+        "Archibald T. Robertson": [
+            "He again defineth a certain day... to set a limit.",
+            "In David... the Psalm to David or in the Psalter.",
+            "After so long a time... the time between Joshua and David."
+        ],
+        "John Gill": [
+            "He has limited, fixed, and appointed a certain day, the Gospel dispensation, for believers to enter into [the true rest].",
+            "Today, after so long a time, as two thousand five hundred years from the first seventh day to the time of Moses, and five hundred years from the times of Moses and Joshua, to his.",
+            "Today if you will hear his voice, harden not your hearts."
+        ],
+        "John Wesley": [
+            "After so long a time\" - It was above four hundred years from the time of Moses and Joshua to David.",
+            "It was said before\" - St. Paul here refers to the text he had just cited."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 4:7, it is emphasized that God has designated a specific day, referred to as today, as an opportunity to enter into His rest. This day was first mentioned by David in the Psalms, after a long period of time had passed between Joshua and David. The goal is to remind and warn us, through the Holy Spirit, to not repeat the unbelief of our fathers that resulted in their loss of the promised possession. This promise of rest is available to us in the Gospel dispensation, but it is crucial that we heed God's voice and not harden our hearts, in order to enter into this rest.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.68428660068904,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                26.48,
+                32.46,
+                41.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the book of Hebrews, it is mentioned that God has allotted a particular day, known as today, for believers to enter into His rest. This today was mentioned by David in the Psalms and signifies an opportunity that arises after a long period of time. Through the Holy Spirit, it warns us not to repeat the unbelief of our ancestors and emphasizes the importance of heeding God's voice and avoiding hardened hearts in order to claim this promised rest.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7454161489921796,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                27.03,
+                35.84,
+                37.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The book of Hebrews mentions that God has designated a certain day, referred to as today, as an opportunity to enter into His rest. This day was first mentioned by David in the Psalms after a long interval between Joshua and David. It serves as a reminder and warning for us to not repeat the unbelief of our ancestors, and instead, heed God's voice and avoid having hardened hearts so that we can partake in the promised rest.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7790557083477805,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                29.94,
+                32.55,
+                37.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Hebrews, it is emphasized that God has designated a specific day, referred to as today, as an opportunity to enter into His rest. This day was first mentioned by David in the Psalms after a long period of time had passed between Joshua and David. The goal is to remind and warn us, through the Holy Spirit, to not repeat the unbelief of our fathers that resulted in their loss of the promised possession. This promise of rest is available to us in the Gospel dispensation, but it is crucial that we heed God's voice and not harden our hearts, in order to enter into this rest.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.688866000109833,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                26.28,
+                32.63,
+                41.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God has set apart a specific day, called today, as the opportunity to enter into His rest, as mentioned in Hebrews. David first spoke of this day in the Psalms, after a long period from Joshua to David. The Holy Spirit reminds and warns us not to repeat the unbelief of our ancestors. In the Gospel dispensation, this promise of rest is renewed, urging us to listen to God's voice and avoid hardening our hearts to obtain this rest.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6351190431485936,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.71,
+            "commentatorTierSimilarities": [
+                28.3,
+                31.08,
+                40.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

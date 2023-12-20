@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:48:48",
+    "verseRef": "Hebrews 9:3",
+    "bestBHT": {
+        "bht": "The Author elucidates the symbolism of the Holy of holies and the altar of incense, highlighting the connection between the earthly sanctuary and the heavenly realm. The altar of incense, positioned by the veil, is considered part of the Holy of holies. The second veil, also referred to as a tabernacle, separates the Holy Place from the Holy of holies. This veil represents the barrier between God and humanity, which is overcome by the death of Christ, signified by the rending of the veil, providing an open pathway to heaven.",
+        "wordCount": 90,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.4291940352469803,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+        "commentatorTierSimilarities": [
+            25.95,
+            36.27,
+            37.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Author treats the Holy of holies, irrespective of the veil, as symbolical of the heavenly sanctuary, and had also a motive to include in it the altar of incense, whose offerings of incense are the symbol of the prayers of the saints.\" ",
+            "The altar of incense, being appointed by the Mosaic ordinance to stand in immediate contiguity to the veil separating the Holy of holies, and being destined in its use especially for the service of the Holy of Holies, is taken by the Writer as appertaining to the Holy of holies.\" ",
+            "The balance inclines towards the 'censer' interpretation...the difficulty is not removed, and should hail any new solution which might clear it still further."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There were two veils or curtains, one before the Holy of Holies (catapetasma), here alluded to, the other before the tabernacle door (calumma).",
+            "Called as opposed to 'the true.'",
+            "But after, behind; within."
+        ],
+        "Albert Barnes": [
+            "The design of this veil was to separate the holy from the most holy place.",
+            "The tabernacle.",
+            "It was called 'the Most Holy place;' 'the Holy of Holies;' or 'the Holiest of all.'"
+        ],
+        "Marvin Vincent": [
+            "After the second veil...After passing the first veil and entering the tent, the worshipper would see before him the second veil behind which was the holy of holies.\" ",
+            "The writer calls this also a tabernacle.\" ",
+            "The one before the door of the tent and the other before the sanctuary."
+        ],
+        "Archibald T. Robertson": [
+            "The second veil opened from the Holy Place into the Holy of Holies.\" ",
+            "The word \u03ba\u03b1\u03c4\u03b1\u03c0\u03b5\u03c4\u03b1\u03c3\u03bc\u03b1 is from \u03ba\u03b1\u03c4\u03b1\u03c0\u03b5\u03c4\u03b1\u03bd\u03bd\u03c5\u03bc, to spread down.\" ",
+            "Cf. also Matthew 27:51."
+        ],
+        "John Gill": [
+            "The reason of these two vails may be seen in the account Maimonides gives of this matter...and the space between the two vails is called by them '\u03c4\u03b1\u03c1\u03b1\u03be\u03b9\u03c2,' from the trouble and perplexity this affair gave them.",
+            "This vail, or vails, might represent the sin of man, which separates between God and men, excludes from heaven; but is removed by the death of Christ, when the vail was rent in twain; so that now there is an open way to heaven.",
+            "Now within this second vail was the tabernacle, or that part of it, the second part, which is called the holiest of all; which was either typical of Christ, who is called the most Holy, he being so in both natures, divine and human; or of heaven, for the holy places, made with hands, were figures of heaven."
+        ],
+        "John Wesley": [
+            "The second veil divided the holy place from the most holy, as the first veil did the holy place from the courts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Author of Hebrews refers to the Holy of holies, the heavenly sanctuary, and the altar of incense, which symbolizes the prayers of the saints. The altar of incense is seen as belonging to the Holy of holies, as it was located near the veil separating it from the Holy Place. The second veil, behind which is the Holy of Holies, is called a tabernacle. This veil serves to separate the holy from the most holy place, and it represents the sin of man that separates them from God. However, through the death of Christ, symbolized by the tearing of the veil, access to heaven is now open.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.4985686078664546,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.42,
+            "commentatorTierSimilarities": [
+                24.55,
+                37.92,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Author elucidates the symbolism of the Holy of holies and the altar of incense, highlighting the connection between the earthly sanctuary and the heavenly realm. The altar of incense, positioned by the veil, is considered part of the Holy of holies. The second veil, also referred to as a tabernacle, separates the Holy Place from the Holy of holies. This veil represents the barrier between God and humanity, which is overcome by the death of Christ, signified by the rending of the veil, providing an open pathway to heaven.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.4291940352469803,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+            "commentatorTierSimilarities": [
+                25.95,
+                36.27,
+                37.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Author of Hebrews interprets the Holy of holies, the heavenly sanctuary, and the altar of incense as symbols. The altar of incense is associated with the Holy of holies and the prayers of the saints. The second veil, described as a tabernacle, separates the Holy Place from the Holy of holies. This veil represents the barrier between God and humanity, which is removed through the death of Christ, symbolized by the tearing of the veil. This opens up a way to heaven, allowing access that was previously restricted.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.17699919864359,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+            "commentatorTierSimilarities": [
+                25.97,
+                37.71,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Author emphasizes the symbolic significance of the Holy of holies and the altar of incense, representing the heavenly sanctuary and the prayers of the saints. The second veil, known as a tabernacle, separates the Holy Place from the Holy of holies. It symbolizes the barrier between God and humanity. However, this barrier is removed through the death of Christ, depicted by the tearing of the veil. This act opens the way to heaven, granting access that was previously restricted.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.988005139050251,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                25.23,
+                37.39,
+                37.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Author of Hebrews considers the altar of incense to be part of the Holy of holies, situated near the veil that separates the Holy Place from the Holy of holies. They view the second veil, which leads to the Holy of holies, as a tabernacle. This veil represents the separation between God and humanity, which is overcome through the death of Christ symbolized by the tearing of the veil. This pivotal event removes the barrier and provides open access to heaven.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.188024714641603,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+            "commentatorTierSimilarities": [
+                24.89,
+                36.0,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

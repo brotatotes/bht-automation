@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:48:30",
+    "verseRef": "Hebrews 7:16",
+    "bestBHT": {
+        "bht": "The Levitical priesthood, rooted in physical considerations and limited by death, could never be eternal. However, our High Priest, Jesus, officiates in the power of His resurrection life\u2014a life that is indissoluble and endless. His priesthood is not according to a carnal commandment, but based on the power of an endless life. As the living God, Christ's eternal life qualifies Him for His priestly intercession and advocacy, bringing souls unto eternal life through the Gospel.",
+        "wordCount": 77,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.3479432655258567,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+        "commentatorTierSimilarities": [
+            37.92,
+            28.39,
+            33.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The law can give a commandment, but it cannot give life.",
+            "Our High Priest's inherent 'power,' now in heaven, has in Him 'life for ever.'",
+            "It is in the power of His resurrection life, not of His earthly life, that Christ officiates as a Priest."
+        ],
+        "Albert Barnes": [
+            "Not after the law of a carnal commandment - Not according to the Law of a commandment pertaining to the flesh.",
+            "The word 'carnal' means 'fleshly;' and the idea is, that the Law under which the priests of the old dispensation were made was external, rather than spiritual.",
+            "But after the power of an endless life - By an authority of endless duration."
+        ],
+        "Marvin Vincent": [
+            "The conditions of the Levitical priesthood had reference to the body. Fitness for office was determined largely by physical considerations.\" ",
+            "Such a priesthood cannot be eternal.\" ",
+            "Jesus was high priest in virtue of the energy of indissoluble life which dwelt in him, unlike the priests who die."
+        ],
+        "John Calvin": [
+            "What was fulfilled in Christ by the hidden and celestial power of the Spirit, was shadowed forth under the Law by ointment, various vestments, the sprinkling of blood, and other earthly ceremonies.",
+            "However spiritual then might have been the meaning of these shadows, they were yet but shadows in themselves; and as they were made up of the elements of this world, they may justly be called earthly.",
+            "As Christ is a perpetual priest, it was necessary, that he should be different from Aaron as to the manner of his appointment; and so it was, for it was not Moses, a mortal man, who consecrated him, but the Holy Spirit, and that not with oil, nor with the blood of goats, nor with the outward pomp of vestments, but with celestial power."
+        ],
+        "Archibald T. Robertson": [
+            "Carnal (\u03c3\u03b1\u03c1\u03ba\u03b9\u03bd\u03b7\u03c2). 'Fleshen' as in 1 Corinthians 3:1, not \u03c3\u03b1\u03c1\u03ba\u03b9\u03ba\u03b7\u03c2 (fleshlike, 1 Corinthians 3:3). The Levitical priests became so merely by birth.",
+            "Of an endless life (\u03b6\u03c9\u03b7\u03c2 \u03b1\u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03c4\u03bf\u03c5). Late compound (alpha privative and verbal adjective from \u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03c9, to dissolve, as in 2 Corinthians 4:1), indissoluble.",
+            "Jesus as priest lives on forever. He is Life."
+        ],
+        "John Gill": [
+            "Christ is a priest...not after the law of a carnal commandment, but after the power of an endless life.\" ",
+            "The Gospel...is the means of bringing souls unto eternal life.",
+            "Christ is the living God...his life, as man, is an endless one, which qualifies him for his priestly intercession and advocacy."
+        ],
+        "John Wesley": [
+            "Not after the law of a carnal commandment.",
+            "Not according to the Mosaic law, which consisted chiefly of commandments that were carnal, compared to the spirituality of the gospel.",
+            "But after the power of an endless life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The old Levitical priesthood, which was based on physical considerations and limited by death, could never be eternal. The law of that priesthood was external and fleshly. However, Christ, our High Priest, has a different kind of priesthood. He officiates in the power of His resurrection life, an energy of indissoluble and endless life that dwells in Him. This priesthood is not after the law of a carnal commandment, but after the power of an endless life. It is in this power of His eternal life that Christ, as a perpetual priest, lives on forever and intercedes for us. Through the Gospel, He brings souls unto eternal life, for He is the living God whose life, as man, is endless, qualifying Him for His priestly intercession and advocacy.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.2274760159986404,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.4,
+            "commentatorTierSimilarities": [
+                37.13,
+                30.7,
+                32.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Levitical priesthood, with its physical focus and limited lifespan, could never be eternal. In contrast, our High Priest, Christ, officiates in the power of His resurrection life\u2014an energy of indissoluble and endless life. His priesthood is not based on a carnal commandment, but on the power of an endless life. This priesthood, rooted in the eternal life of Christ, allows Him to intercede for us as a perpetual and living God, bringing souls unto eternal life through the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.3203584826336257,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                38.72,
+                28.18,
+                33.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Levitical priesthood, rooted in physical considerations and limited by death, could never be eternal. However, our High Priest, Jesus, officiates in the power of His resurrection life\u2014a life that is indissoluble and endless. His priesthood is not according to a carnal commandment, but based on the power of an endless life. As the living God, Christ's eternal life qualifies Him for His priestly intercession and advocacy, bringing souls unto eternal life through the Gospel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.3479432655258567,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+            "commentatorTierSimilarities": [
+                37.92,
+                28.39,
+                33.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Levitical priesthood, determined by physical considerations, cannot be eternal, as it is grounded in the passing realm of the flesh. In contrast, our High Priest, Jesus, fulfills His priestly duties through the power of His indissoluble and endless life. His priesthood is not governed by a carnal commandment, but by the unfailing authority of an eternal life. Christ's living and eternal nature enables Him to intercede continually for us, bringing souls to everlasting life through the transformative message of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.2596933903716367,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.48,
+            "commentatorTierSimilarities": [
+                36.91,
+                30.07,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Levitical priesthood, based on physical considerations, cannot be eternal. Unlike those priests, Jesus serves as our High Priest in the power of His resurrection life\u2014a life that is indissoluble and endless. His priesthood does not rely on carnal commandments but on the authority of an eternal life. Jesus, as the living God, intercedes and advocates for us perpetually, leading souls to eternal life through the Gospel message.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.2974006579418664,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.73,
+            "commentatorTierSimilarities": [
+                39.33,
+                28.73,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:51:10",
+    "verseRef": "Hebrews 12:2",
+    "bestBHT": {
+        "bht": "Looking away from distractions and fixing our eyes on Jesus, the pioneer and leader of our faith, we are encouraged to endure the present pain in light of the coming joy. Jesus perfected faith through his example, renouncing the joy already in his possession in exchange for shame and death. He endured the cross with patience and constancy, despising the shame, and in doing so, he became the author of eternal salvation. As we face trials and suffering, we must emulate Jesus' unwavering faith and trust that all our troubles will ultimately lead to our salvation and glory.",
+        "wordCount": 98,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 2.184390336558354,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+        "commentatorTierSimilarities": [
+            31.43,
+            35.39,
+            33.17
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "One who precedes others by his example, they following him.",
+            "He perfected the faith, inasmuch as He perfected faith in his own person and example.",
+            "The joy set before Him, i.e. as in comparison with, as in exchange for, the joy which was to come after in the day of His triumph."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Looking from afar\" (see on :-); fixing the eyes upon Jesus seated on the throne of God. ",
+            "Going before us as the Originator of our faith, and the Leader whose matchless example we are to follow always.",
+            "The coming joy disarmed of its sting the present pain."
+        ],
+        "Albert Barnes": [
+            "He is the first and the last as an example of faith or of confidence in God - occupying in this, as in all other things, the pre-eminence, and being the most complete model that can be placed before us.",
+            "He stands at the head as the most eminent example that can be referred to on the subject of faith.",
+            "He, in view of the honor and joy before him, endured the most severe sufferings to which the human frame can be subjected, and the form of death which is regarded as the most shameful. So amidst all the severe trials to which you are exposed on account of religion, patiently endure all - for the glorious rewards, the happiness and the triumph of heaven, are before you."
+        ],
+        "Marvin Vincent": [
+            "Looking away from everything which may distract.",
+            "Christ is the leader or captain of faith, in that he is the perfecter of faith.",
+            "The heroic character of his faith appears in his renouncing a joy already in possession in exchange for shame and death."
+        ],
+        "John Calvin": [
+            "He intimates, that though it was free to Christ to exempt himself from all trouble and to lead a happy life, abounding in all good things, he yet underwent a death that was bitter, and in every way ignominious.\" ",
+            "He commends to us the patience of Christ on two accounts, because he endured a most bitter death, and because he despised shame.",
+            "The faithful might know that all the evils which they may endure will end in their salvation and glory, provided they follow Christ."
+        ],
+        "Philip Schaff": [
+            "Even more important than the contemplation of these martyr witnesses for maintaining the athlete spirit is the continuous looking unto Jesus, the originator and finisher of our faith.",
+            "He realized a glorious future in the midst of a troubled present, even as we must do.",
+            "Faith, as the realization of the unseen, was as much the principle of our Lord\u2019s life as it is the principle of the life of His followers."
+        ],
+        "Archibald T. Robertson": [
+            "Looking away to Jesus... fix your eyes on Jesus, for he is the goal.\" ",
+            "The pioneer of personal faith.\" ",
+            "Jesus despised that, in spite of the momentary shrinking from it, and did his Father's will by submitting to it."
+        ],
+        "John Gill": [
+            "Christ is to be looked unto as 'Jesus', a Saviour, who being appointed and sent by God to be a Saviour, came, and is become the author of eternal salvation; and to him only should we look for it.\" ",
+            "he is the author or efficient cause of [faith]; all men are by nature without it; it is not in the power of man to believe of himself; it is a work of omnipotence; it is an instance of the exceeding greatness of the power of God.\" ",
+            "Christ endured the cross...with much patience and constancy, and in obedience to the will of his Father: despising the shame; of the cross...which should teach us not to be ashamed of the reproach of Christ, but count it an honour to be worthy to suffer shame for his name."
+        ],
+        "John Wesley": [
+            "Looking \u2014 From all other things.",
+            "To Jesus \u2014 As the wounded Israelites to the brazen serpent.",
+            "And is set down \u2014 Where there is fulness of joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Looking away from distractions and fixing our eyes on Jesus, the pioneer and leader of our faith, we are encouraged to endure the present pain in light of the coming joy. Jesus perfected faith through his example, renouncing the joy already in his possession in exchange for shame and death. He endured the cross with patience and constancy, despising the shame, and in doing so, he became the author of eternal salvation. As we face trials and suffering, we must emulate Jesus' unwavering faith and trust that all our troubles will ultimately lead to our salvation and glory.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.184390336558354,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                31.43,
+                35.39,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are called to fix our eyes on Jesus, the pioneer and leader of our faith, as he perfected faith through his example. Despite already possessing joy, he willingly endured shame and death. By doing so, he became the author of eternal salvation, teaching us not to be ashamed of the reproach we may face for his name. As we face trials, we should look away from distractions and, like the wounded Israelites to the brazen serpent, fix our gaze on Jesus seated in the place of joy and fulfillment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0008564046733013,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                32.5,
+                34.17,
+                33.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Looking away from distractions, we fix our eyes on Jesus. He is the pioneer and leader of our faith, perfecting it through his own example. Renouncing the joy in his possession, he endured shame and death. His unwavering courage and obedience teach us not to be ashamed in the face of reproach, but rather to count it an honor. As we encounter trials, we must emulate Jesus' steadfastness and trust that our sufferings will ultimately lead to salvation and glory.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9701807898258341,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                33.96,
+                34.88,
+                31.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to fix our eyes on Jesus, the pioneer and leader of our faith, as he perfected faith through his example. Despite already possessing joy, he willingly endured shame and death. By doing so, he became the author of eternal salvation, teaching us not to be ashamed of the reproach we may face for his name. As we face trials, we should look away from distractions, fix our gaze on Jesus, and trust that our sufferings will ultimately lead to salvation and glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.031609193122172,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                32.16,
+                35.16,
+                32.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Looking away from distractions, we fix our eyes on Jesus, the pioneer and leader of our faith. He perfected faith in his own person and example, renouncing a joy already in his possession in exchange for shame and death. By enduring the cross with patience and constancy, he became the author of eternal salvation. As we face present pain, we are encouraged by the coming joy set before us. May we follow him always, trusting that our hardships will lead to ultimate triumph.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.0159375997460156,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                34.37,
+                36.41,
+                29.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

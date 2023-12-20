@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:47:49",
+    "verseRef": "Hebrews 4:14",
+    "bestBHT": {
+        "bht": "Our great High Priest, Jesus the Son of God, has passed through the heavens as a forerunner, opening the way for us to enter into the very presence of God. Let us firmly hold fast to our profession of faith in Him, for He fulfills the divine promise of rest and brings us into the heavenly rest. As the ideal Priest, Jesus bridges the gap between humanity and divinity, enabling us to confidently rely on the Gospel and approach God for mercy and grace.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.2592729494598203,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.46,
+        "commentatorTierSimilarities": [
+            30.72,
+            32.2,
+            37.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having therefore a great High Priest...passed through the heavens...Jesus the Son of God, let us hold fast the confession.",
+            "Great, as in ch. xiii. 20, 'the great Shepherd of the sheep,' answering very much to the use of true, in St. John...one archetypal High Priest\u2014one above all.",
+            "Come, ye Hebrews, persist in the faith of Christ, press on to your rest in the heavens: though they seem far above us, we shall easily climb and pass them with Christ for our Leader, who passed through them and opened them to us\u2014if only we firmly retain the confession."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Passed through the heavens...the veil which our High Priest passed through into the heaven of heavens, the immediate presence of God.\" ",
+            "Jesus, as our Forerunner, already spiritually, and hereafter in actual presence, body, soul, and spirit, brings His people into the heavenly rest.\" ",
+            "Let us take hold of our profession, that is, of the faith and hope which are subjects of our profession and confession."
+        ],
+        "Albert Barnes": [
+            "It came therefore to be of the utmost importance to show that Christianity was not inferior to the Jewish religion in this respect, and that the High Priest of the Christian profession would not suffer in point of dignity, and in the value of the blood with which he would approach God, and in the efficacy of his intercession, when compared with the Jewish high priest.",
+            "In no part of the Bible can there be found so full an account of the design of the Mosaic institutions, as in Heb. 5\u201310 of this Epistle; and were it not for this, the volume of inspiration would be incomplete.",
+            "The object of the apostle now is to show why the fact that we have such a High Priest is a reason why we should hold fast our professed attachment to him."
+        ],
+        "Marvin Vincent": [
+            "He is holding up the ideal priesthood.",
+            "Through, and up to the throne of God...fulfill...the divine promise of rest.",
+            "The name Jesus...recalling the historical, human person, who was tempted like his brethren."
+        ],
+        "John Calvin": [
+            "The design of both [apostleship and priesthood] is to enable us to come to God.",
+            "The priesthood serves to confirm the doctrine... there is no reason to doubt or to waver respecting the faith of the Gospel.",
+            "Such and so great a pledge [of the Son of God's approval] ought to render us confident, so as to rely unhesitantly on the Gospel."
+        ],
+        "Philip Schaff": [
+            "We have a High Priest, a great High Priest, transcending in personal and official dignity all that ever bore the name, for He is Jesus, the Son of God, each title implying His superiority.",
+            "His entrance and His intercession there are really \u2018a perpetual oblation\u2019 with the intimation of His \u2018will\u2019 that the blessings He has gained be bestowed on them for whom He pleads.",
+            "The exhortation is, therefore, that we hold fast our confession what we have acknowledged as true and Christian faith, the word being used in a wider sense than in Hebrews 3:1."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus has passed through the upper heavens up to the throne of God where he performs his function as our high priest.\" ",
+            "The human name linked with his deity, clinching the argument already made.\" ",
+            "Let us keep on holding fast."
+        ],
+        "John Gill": [
+            "Seeing then that we have a great high priest....\" ",
+            "This great high priest believers 'have', and have an interest in him; he is called to this office, and invested with it; he has been sent to do his work as a priest; and he has done the greatest part of it, and is now doing the rest; and saints receive Christ as such, and the blessings of grace from him, through his sacrifice and intercession.",
+            "let us hold fast our profession: of faith, of the grace and doctrine of faith, and of Christ, and salvation by him, and of the hope of eternal life and happiness; which being made both by words and deeds, publicly and sincerely, should be held fast."
+        ],
+        "John Wesley": [
+            "Having therefore a great high priest \u2014 Great indeed, being the eternal Son of God.",
+            "That is passed through the heavens.",
+            "Our great high priest went once for all through the visible heavens, with the virtue of his own blood, into the immediate presence of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our great High Priest, Jesus the Son of God, has passed through the heavens as a forerunner, opening the way for us to enter into the very presence of God. Let us, therefore, firmly hold fast to our profession of faith in Him. He is the one who fulfills the divine promise of rest and brings us into the heavenly rest. As the ideal Priest, Jesus holds a superior position above all, bridging the gap between humanity and divinity. Through His sacrifice and intercession, we can confidently rely on the Gospel and approach God for mercy and grace. So, let us cling tightly to our confession of faith and declare our unshakable allegiance to our great High Priest, Jesus.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.1474730005818046,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                31.15,
+                32.52,
+                36.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our great High Priest, Jesus the Son of God, has passed through the heavens as a forerunner, opening the way for us to enter into the very presence of God. Let us firmly hold fast to our profession of faith in Him, for He fulfills the divine promise of rest and brings us into the heavenly rest. As the ideal Priest, Jesus bridges the gap between humanity and divinity, enabling us to confidently rely on the Gospel and approach God for mercy and grace.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2592729494598203,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.46,
+            "commentatorTierSimilarities": [
+                30.72,
+                32.2,
+                37.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the Son of God, is our great High Priest who has passed through the heavens, opening the way for us to enter into the presence of God. We are encouraged to hold fast to our confession of faith in Him, persevering in our belief and hope. Jesus, our Forerunner, has already spiritually and will one day physically bring us into the heavenly rest. Let us cling tightly to our profession of faith and trust in Jesus, who has fulfilled the divine promise of rest.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.0977769949016025,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                32.64,
+                30.19,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, our great High Priest who has passed through the heavens, enables us to confidently approach God for mercy and grace. As our Forerunner, He paves the way for us to enter into the heavenly rest. Let us firmly hold to our profession of faith in Him, declaring our unwavering allegiance. Through His sacrifice and intercession, Jesus fulfills the divine promise of rest and brings us into a deeper relationship with God. Trust in Him and cling tightly to your confession of faith in the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.0784380681665087,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                32.9,
+                30.13,
+                36.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our great High Priest, Jesus the Son of God, has passed through the heavens as a forerunner, opening the way for us to enter into the very presence of God. Let us, therefore, firmly hold fast to our profession of faith in Him. He is the one who fulfills the divine promise of rest and brings us into the heavenly rest. As the ideal Priest, Jesus holds a superior position above all, bridging the gap between humanity and divinity. Through His sacrifice and intercession, we can confidently rely on the Gospel and approach God for mercy and grace. So, let us cling tightly to our confession of faith and declare our unshakable allegiance to our great High Priest, Jesus.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.1474730005818046,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                31.15,
+                32.52,
+                36.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:48:32",
+    "verseRef": "Hebrews 7:23",
+    "bestBHT": {
+        "bht": "The Levitical priests were appointed in numbers, but their priesthood was hindered from continuing due to death, requiring constant renewal. Christ, on the other hand, has an unchangeable priesthood since He lives forever. Unlike the earthly priests who served one after another, Christ's priesthood is eternal. The transient and changing nature of the ancient priests contrasts with the enduring and unchanging priesthood of Christ, who alone serves as the perpetual high priest.",
+        "wordCount": 73,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.4920372474196495,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.2,
+        "commentatorTierSimilarities": [
+            29.6,
+            38.2,
+            32.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And they indeed (i. e. the Levitical priests) are appointed priests in numbers... on account of their being by death hindered from continuing.\" ",
+            "They, on account of their deaths, are subject to continual renewal: He, because he lives for ever, has his priesthood unchangeable.\" ",
+            "He, on account of his remaining for ever, hath his priesthood unchangeable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ dies not, and so hath a priesthood which passes not from one to another.",
+            "Many\u2014one after another; opposed to His 'unchangeable (that does not pass from one to another) priesthood.'",
+            "Not suffered to continue\u2014Greek, 'hindered from permanently continuing,' namely, in the priesthood."
+        ],
+        "Albert Barnes": [
+            "One more reason of the excellence of the priesthood of Christ is that owing to the frailty of human nature, and the shortness of life, the office of priest there was continually changing.",
+            "Christ, being exalted to the heavens to live forever there, has now an unchangeable priesthood.",
+            "Everything in regard to his office is permanent."
+        ],
+        "Marvin Vincent": [
+            "Have been made priests many in number.",
+            "Because they are hindered from continuing.",
+            "To abide by their ministration."
+        ],
+        "John Calvin": [
+            "The ancient priests were many, for death put an end to their priesthood; but there is no death to prevent Christ from discharging his office.\" ",
+            "Then he alone is a perpetual priest.\" ",
+            "Thus a different cause produces different effects."
+        ],
+        "Archibald T. Robertson": [
+            "Many in number, not simultaneously.",
+            "Because they are hindered by death.",
+            "From continuing in the present."
+        ],
+        "John Gill": [
+            "Christ is the one and only high priest; there is no other, nor is there any need of any other.",
+            "Death has a power to forbid a long continuance in this world, and no man does continue long here.",
+            "The office of high priests was bought for money, and men that would give most were put into it: hence there were frequent changes."
+        ],
+        "John Wesley": [
+            "They were many priests \u2014 One after another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Levitical priests appointed in numbers were hindered from continuing due to death, which necessitated their constant renewal. However, Christ, whose priesthood is unchangeable, does not die. Unlike the priests who served one after another, His priesthood persists forever. While the human priests were prevented from permanently continuing in their office, Christ's priesthood remains steadfast. He alone is the perpetual high priest, and there is no need for any other. The impermanence of the ancient priests, along with the frequent changes caused by death and the sale of the priesthood, contrasts with the enduring and unchanging nature of Christ's priesthood.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.3933471973775564,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.92,
+            "commentatorTierSimilarities": [
+                29.72,
+                35.21,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Levitical priests were appointed in numbers, but due to their mortal nature, their priesthood was subject to continual renewal. In contrast, Christ, who lives forever, has an unchangeable priesthood. While the earthly priests were hindered from permanently continuing in their ministry because of death, Christ's priesthood is everlasting. He is the one and only high priest, and there is no need for any other. The transient and changing nature of the ancient priests stands in contrast to the enduring and unchanging priesthood of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.384812295336008,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.64,
+            "commentatorTierSimilarities": [
+                28.67,
+                36.81,
+                34.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Levitical priests were appointed in numbers, but their priesthood was hindered from continuing due to death, requiring constant renewal. Christ, on the other hand, has an unchangeable priesthood since He lives forever. Unlike the earthly priests who served one after another, Christ's priesthood is eternal. The transient and changing nature of the ancient priests contrasts with the enduring and unchanging priesthood of Christ, who alone serves as the perpetual high priest.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.4920372474196495,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.2,
+            "commentatorTierSimilarities": [
+                29.6,
+                38.2,
+                32.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Due to death, the Levitical priests were appointed in numbers and hindered from continuing in their priesthood, necessitating constant renewal. In contrast, Christ, who lives forever, has an unchangeable priesthood. While the earthly priests were hindered from permanently continuing in their ministry, Christ's priesthood endures without alteration. He is the sole and perpetual high priest, eliminating the need for any other. The fleeting and ever-changing nature of the ancient priests stands in stark contrast to the enduring and unchanging priesthood of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.3915398250633015,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.86,
+            "commentatorTierSimilarities": [
+                29.63,
+                37.79,
+                32.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Levitical priests were appointed in numbers, but their priesthood was hindered by death, leading to constant renewal. In contrast, Christ's priesthood is unchangeable and everlasting since He lives forever. While the human priests were prevented from continuing permanently, Christ's priesthood endures without alteration. He is the sole and perpetual high priest, eliminating the need for any other. The fleeting and ever-changing nature of the ancient priests stands in sharp contrast to the enduring and unchanging priesthood of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.3624999646395257,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+            "commentatorTierSimilarities": [
+                28.88,
+                37.76,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

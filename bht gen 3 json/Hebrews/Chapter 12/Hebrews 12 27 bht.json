@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:51:16",
+    "verseRef": "Hebrews 12:27",
+    "bestBHT": {
+        "bht": "The final shaking will introduce the kingdom of God, causing the passing away of the transitory and making way for unremovable better things. This cosmic catastrophe has a divine purpose, establishing a new heaven and earth made by God. The effect of Christ's coming distinguishes the true from the false, setting up principles that cannot be changed. Through embracing the Gospel, we are given the Spirit of Christ to worship God reverently and with humility. The shaking and removal pertain to the Jewish state, while the enduring kingdom and priesthood of Christ bring eternal blessings.",
+        "wordCount": 96,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 1.9127936995109032,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+        "commentatorTierSimilarities": [
+            33.3,
+            34.43,
+            32.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great final shaking which is to introduce the accomplished kingdom of God is that after which there shall be no other.",
+            "The scope of Creation has been, the establishing of the kingdom of Redemption: that it, the transitory and baseless, may pass away when its work is fulfilled, and give place to that which shall never pass away.",
+            "For we should on this rendering have the clause beginning with 'in order that' entirely subordinated to the word made, and indicating, not the purpose of the main action of the sentence, but that of the creation, a matter lying quite out of the present record."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In saying 'once more,' the Spirit implies that something has already passed, and something else shall be which is to remain, and is no more to be changed to something else; for the once is exclusive, that is, not many times.\" ",
+            "As the shaking is to be total, so shall the removal be, making way for the better things that are unremovable.",
+            "The new abiding heaven and earth are also made by God, but they are of a higher nature than the material creation, being made to partake of the divine nature of Him who is not made."
+        ],
+        "Albert Barnes": [
+            "The effect of the gospel would be to overturn everything which was of a temporary character in the previous system, and everything in morals which was not founded on a solid basis, and to set up in the place of it principles which no revolution and no time could change.\" ",
+            "The effect of his coming has been to distinguish what is true and what is false; to give permanency to the one, and to cause the other to vanish.\" ",
+            "The result of all will be that he will preside over a permanent kingdom, and that his people will inherit 'a kingdom which cannot be moved.'"
+        ],
+        "John Calvin": [
+            "He only infers from the shaking of the heaven and the earth that the state of the world was to be changed at the coming of Christ; for things created are subject to decay, but Christ\u2019s kingdom is eternal; then all creatures must needs be brought into a better state.",
+            "We, in embracing the Gospel, have the gift of the Spirit of Christ, that we may reverently and devoutly worship God.",
+            "He intimates that though he requires us to serve with promptitude and delight, there is yet no service approved by him except it be united with humility and due reverence."
+        ],
+        "Philip Schaff": [
+            "The shaking of the \u2018heavenly things\u2019 has created some difficulty. But, in fact, the new covenant affected both earth and heaven.",
+            "The Word made flesh, the complete forgiveness of sin, eternal life through the blood of Christ, the introduction of sinners of all nations into the Church of God, the changing of the Church itself from an earthly into a spiritual fellowship, Christ exalted as Priest and King: these are changes that affect both worlds, but cannot themselves be changed.",
+            "The last clause, as of things that have been made, etc., refers probably not to creation but to the Jewish economy, to which the word \u2018made\u2019 has been already applied; and their removal is with the view to the permanence of the spiritual economy which is \u2018to abide.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "There is a divine purpose in the cosmic catastrophe.\" (Moffatt)",
+            "Made by God, but made to pass away.",
+            "The Kingdom of God is not shaken, fearful as some saints are about it."
+        ],
+        "John Gill": [
+            "And it signifieth the removing of those things that are shaken, as of things that are made.",
+            "This is to be understood of Christ's coming to the destruction of Jerusalem; when there was an entire removal of the Jewish state, both political and ecclesiastical.",
+            "The kingdom and priesthood of Christ, which are everlasting; and the good things which come by him, as remission of sins, justification, adoption, sanctification, and the heavenly inheritance; as also the Gospel, and the doctrines and ordinances of it, baptism, and the Lord's supper, and the mode of Gospel worship; all which are to continue until Christ's second coming."
+        ],
+        "John Wesley": [
+            "The things which are shaken \u2014 Namely, heaven and earth.",
+            "As being made \u2014 And consequently liable to change.",
+            "That the things which are not shaken may remain \u2014 Even \"the new heavens and the new earth,\" Revelation 21:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse expresses the final shaking that will bring about the established kingdom of God, in which the transitory and baseless will pass away and make room for the unremovable. This cosmic catastrophe serves a divine purpose, introducing a better state of things created by God. The effect of Christ's coming is to distinguish between the true and the false, to establish principles that are unchangeable. The shaking encompasses both the earthly and heavenly, signifying the permanence of the spiritual economy. Through embracing the Gospel, we are given the Spirit of Christ to worship God reverently and with humility. This shaking and removal pertain to the Jewish state, while the kingdom and priesthood of Christ endure eternally, along with the good things that come through Him.",
+            "wordCount": 127,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8957914940536222,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "commentatorTierSimilarities": [
+                32.57,
+                34.43,
+                32.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The final shaking will establish God's unremovable kingdom, causing the transitory to pass away. The effect of Christ's coming is to differentiate between the true and the false, establishing unchangeable principles. This shaking encompasses both the earthly and heavenly, signifying the permanence of the spiritual economy. Through embracing the Gospel, we are given the Spirit of Christ to worship God reverently and with humility. This shaking and removal pertain to the Jewish state, while the kingdom and priesthood of Christ endure eternally, along with the good things that come through Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.838558670926056,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                31.01,
+                34.27,
+                34.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The final shaking will introduce the kingdom of God, causing the passing away of the transitory and making way for unremovable better things. This cosmic catastrophe has a divine purpose, establishing a new heaven and earth made by God. The effect of Christ's coming distinguishes the true from the false, setting up principles that cannot be changed. Through embracing the Gospel, we are given the Spirit of Christ to worship God reverently and with humility. The shaking and removal pertain to the Jewish state, while the enduring kingdom and priesthood of Christ bring eternal blessings.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.9127936995109032,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                33.3,
+                34.43,
+                32.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The final shaking ushers in the established kingdom of God, causing the transitory to pass away and making way for what is unremovable. This cosmic catastrophe serves a divine purpose, introducing a new heaven and earth made by God. The effect of Christ's coming distinguishes the true from the false, setting up unchangeable principles. Through embracing the Gospel, we are given the Spirit of Christ to worship God reverently and with humility. The shaking and removal pertain to the Jewish state, while the enduring kingdom and priesthood of Christ bring everlasting blessings.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8672544967283746,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                32.9,
+                34.34,
+                32.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The final shaking establishes the unremovable kingdom of God, causing the transient to pass away. This divine purpose brings the creation of a new, higher natured heaven and earth made by God. Christ's coming distinguishes the true and the false, setting up unchangeable principles. Through embracing the Gospel, we worship God reverently and with humility, guided by the Spirit of Christ. This shaking and removal primarily affect the Jewish state, while the enduring kingdom and priesthood of Christ bring eternal blessings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 1.8081847286319825,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                33.56,
+                32.56,
+                33.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:47:00",
+    "verseRef": "Hebrews 2:15",
+    "bestBHT": {
+        "bht": "Jesus Christ has delivered us from the curse of sin and taken away the fear of death. Living in denial of the future life and rejection of God is a life that can hardly be called life. However, the author of Hebrews recognized the reality of judgment after death, highlighting the need for Christ to break the power of sin and Satan in death. Through a firm faith in Christ's victory over death and a clear understanding of His sacrifice, Christians are freed from the dread of death and find peace and safety in Him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.2372956825942536,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+        "commentatorTierSimilarities": [
+            30.34,
+            38.3,
+            31.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "fear of death\u2014even before they had experienced its actual power.",
+            "Such a life can hardly be called life.",
+            "Christ by delivering us from the curse of God against our sin, has taken from death all that made it formidable."
+        ],
+        "Albert Barnes": [
+            "A Christian has nothing to fear in death; nothing beyond the grave. In no part of the universe has he any thing to dread, for God is his friend, and he will be his Protector everywhere.",
+            "There is no other evil that we fear so much as we do death - and there is nothing more clear than that God intended that we should have a dread of dying.",
+            "God planned that man should be deterred from rushing uncalled into His awful presence, by this salutary dread of death - and his implanting this feeling in the human heart is one of the most striking and conclusive proofs of a moral government over the world."
+        ],
+        "Marvin Vincent": [
+            "Deliver [\u03b1\u03c0\u03b1\u03bb\u03bb\u03b1\u03be\u03b7] . Only here in Hebrews, and besides, only Luke 12:58; Acts 19:12.\" ",
+            "Used here absolutely, not with douleiav bondage, reading deliver from bondage.",
+            "Lit. holden of bondage. See on James 2:10. Comp. the verb ejvexein, Mark 6:19 (note), and Galatians 5:1."
+        ],
+        "John Calvin": [
+            "For though we are not now freed from death, yet in life and in death we have peace and safety, when we have Christ going before us.",
+            "But if anyone cannot pacify his mind by disregarding death, let him know that he has made as yet but very little proficiency in the faith of Christ; for as extreme fear is owing to ignorance as to the grace of Christ, so it is a certain evidence of unbelief.",
+            "Death here does not only mean the separation of the soul from the body, but also the punishment which is inflicted on us by an angry God, so that it includes eternal ruin; for where there is guilt before God, there immediately hell shows itself."
+        ],
+        "Philip Schaff": [
+            "Christ destroyed death by dying, and cast out the prince of the world the king of death on the cross, the weakness Droving as often to be the power of God.",
+            "He might destroy is too strong; abolish, bring to nought, render of none effect, neutralize the power of, permanently paralyze, take away the occupation of, are all nearer the meaning.",
+            "Even now Christians are freed from this dread only by a firm faith in Christ\u2019s victory over it, and by a clear insight into the significancy of His dying."
+        ],
+        "Archibald T. Robertson": [
+            "There is today a flippant attitude towards death with denial of the future life and rejection of God.",
+            "But the author of Hebrews saw judgement after death (Hebrews 9:27). Hence our need of Christ to break the power of sin and Satan in death.",
+            "Jesus has the keys of life and death and said: 'I am the life.' Thank God for that."
+        ],
+        "John Gill": [
+            "And deliver them, who through fear of death...were all their lifetime subject to bondage.",
+            "This describes more particularly the state of the Jews, under the law of Moses, which gendered unto bondage.",
+            "Christ delivered, or saved from sin, from Satan, from the law, and its curses, from death corporeal, as a penal evil, and from death eternal; even from all enemies and dangers, and brought them into the glorious liberty of the children of God."
+        ],
+        "John Wesley": [
+            "Every man who fears death is subject to bondage; is in a slavish, uncomfortable state.",
+            "And every man fears death, more or less, who knows not Christ: death is unwelcome to him, if he knows what death is.",
+            "But he delivers all true believers from this bondage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ, by delivering us from the curse of sin, has taken away the power and fear of death. Those who do not have Christ are subject to a life that can hardly be called life, living in bondage to the fear of death and denial of the future life and rejection of God. However, as the author of Hebrews understood, judgment comes after death, and so we need Christ to break the power of sin and Satan in death. Christians are freed from the dread of death through a firm faith in Christ's victory over it and a clear understanding of the significance of His death. In Him, we find peace and safety in life and in death. Thank God that Jesus holds the keys to life and death and offers us eternal life.",
+            "wordCount": 136,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 2.2411781592466564,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+            "commentatorTierSimilarities": [
+                30.23,
+                36.27,
+                33.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ, by delivering us from the curse of sin, has taken away the power and fear of death. Those who do not have Christ are subject to a life that can hardly be called life, living in bondage to the fear of death and denial of the future life and rejection of God. However, as the author of Hebrews understood, judgment comes after death, and so we need Christ to break the power of sin and Satan in death. Christians are freed from the dread of death through a firm faith in Christ's victory over it and a clear understanding of the significance of His death. In Him, we find peace and safety in life and in death.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.264918473830564,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.65,
+            "commentatorTierSimilarities": [
+                29.4,
+                36.69,
+                33.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ has delivered us from the curse of sin and taken away the fear of death. Living in denial of the future life and rejection of God is a life that can hardly be called life. However, the author of Hebrews recognized the reality of judgment after death, highlighting the need for Christ to break the power of sin and Satan in death. Through a firm faith in Christ's victory over death and a clear understanding of His sacrifice, Christians are freed from the dread of death and find peace and safety in Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2372956825942536,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+            "commentatorTierSimilarities": [
+                30.34,
+                38.3,
+                31.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ has delivered us from the power and fear of death. A life lived in denial of the future life and rejection of God cannot be called life at all. The author of Hebrews recognized the reality of judgment after death and the need for Christ to break the power of sin and Satan in death. Through a firm faith in Christ's victory over death and a clear understanding of His sacrifice, Christians are freed from the dread of death and find peace and safety in Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.220220803245068,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                30.77,
+                38.61,
+                30.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ has delivered us from the fear and power of death. Those who reject God and deny the future life live a life that can hardly be considered true life. The author of Hebrews understood the reality of judgment after death, highlighting the necessity of Christ in breaking the power of sin and Satan in death. By having a firm faith in the triumph of Christ over death and comprehending the significance of His sacrifice, believers are freed from the terror of death and find peace and security in the Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.1417525882247848,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                30.05,
+                37.84,
+                32.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

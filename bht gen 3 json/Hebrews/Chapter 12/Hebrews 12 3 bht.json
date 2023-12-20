@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:51:12",
+    "verseRef": "Hebrews 12:3",
+    "bestBHT": {
+        "bht": "Look to Jesus, as He had much conflict with sinners and endured their contradiction. Consider Him and compare His sufferings to your own, for understanding Him is the key to overcoming doubt and weariness. Do not grow weary or faint, for if the Son of God willingly endured such severe conflicts, how can we refuse to submit with Him? Take courage in knowing that we are companions of the Son of God, who willingly joined us in our condition.",
+        "wordCount": 79,
+        "quoteTokenProportion": 51.67,
+        "qualityScore": 1.9847306945641092,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+        "commentatorTierSimilarities": [
+            32.99,
+            28.72,
+            38.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And there is reason in what I say; looking to Him, for He like yourselves had much and continual conflict with the sinners of His day.\" ",
+            "Consider Him, as set in comparison with yourselves.",
+            "Think on Him who hath endured such contradiction by the sinners against Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sinners\u2014Sin assails us. Not sin, but sinners, contradicted Christ.",
+            "Be wearied and faint\u2014lest ye weary fainting.",
+            "Jesus not being wearied out by the contradiction and strange unbelief of those among whom He labored, preaching as never man did, and exhibiting miracles wrought by His inherent power, as none else could do."
+        ],
+        "Albert Barnes": [
+            "Attentively reflect on his example that you may be able to bear your trials in a proper manner.",
+            "We are to pursue the path of duty and follow the dictates of conscience, let the world say what they will about it.",
+            "The best means of leading a faithful Christian life amidst the opposition which we may encounter, is to keep the eye steadily fixed on the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Look unto him, for a comparison with him will show you how much more he had to endure than you have.\" ",
+            "The explanation will then be that Christ endured the gainsaying of sinners, who, in opposing him, were enemies of their own souls.\" ",
+            "That ye be not weary, fainting in your minds."
+        ],
+        "John Calvin": [
+            "For if the Son of God, whom it behaves all to adore, willingly underwent such severe conflicts, who of us should dare to refuse to submit with him to the same?",
+            "This one thought alone ought to be sufficient to conquer all temptations, that is, when we know that we are companions or associates of the Son of God, and that he willingly came down to our condition.",
+            "It is thus that we gather courage, which would otherwise melt away, and turn as it were into despair."
+        ],
+        "Philip Schaff": [
+            "For (He suffered as well as you, therefore you may well) consider (properly, compare His case with your own, and gather the lessons) him who hath endured (it is His permanent character that is described) such contradiction (not in words only, but hostility of every kind, even treason (John 19:12)) of sinners against themselves (i.e of those who, in thus acting, sinned against their own souls).",
+            "The other reading, \u2018against Himself,\u2019 has also good authority; \u2018themselves\u2019 suggests a fresh reason why the Hebrew Christians should not join \u2018a gainsaying people\u2019 by rejecting the Gospel.",
+            "Still the athlete\u2019s figure. As the limbs grow faint (loose) in the race, so the soul in the Christian conflict. Principle is strengthened by thoughtfulness; for want of consideration Israel perished, as well as from want of knowledge."
+        ],
+        "Archibald T. Robertson": [
+            "Understanding Jesus is the key to the whole problem, the cure for doubt and hesitation.",
+            "Against themselves, against their better selves if a genuine reading.",
+            "That ye wax not weary, fainting in your souls."
+        ],
+        "John Gill": [
+            "Consider the analogy between him and us, and how great is the disproportion; and therefore if he was ill treated, no wonder we should consider him under all his reproaches and sufferings.",
+            "And this he endured 'from sinners'; some more secret, as the Scribes, Sadducees, and Pharisees; some more open, as the common people; some of them the vilest of sinners, the most abandoned of creatures, as the Roman soldiers, and Herod's men of war: and this should be considered, that we cannot be contradicted by viler or meaner persons.",
+            "Contradiction is apt to make persons weary and faint, but a consideration of Jesus, and of what he has endured, tends to relieve the saints in such a condition."
+        ],
+        "John Wesley": [
+            "Consider \u2014 Draw the comparison and think.",
+            "The Lord bore all this; and shall his servants bear nothing?",
+            "Lest ye be weary - Dull and languid, and so actually faint in your course."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Look to Jesus, who endured such contradiction and conflict from sinners against Himself. Consider Him, for a comparison with Him will show you how much more He had to endure than you have. Fix your eyes on the Savior, for understanding Jesus is the key to the whole problem and the cure for doubt and hesitation. Do not grow weary and faint in your souls, for if the Son of God willingly underwent such severe conflicts, who of us should dare to refuse to submit with Him to the same? Let the example of Christ give you courage to conquer all temptations, knowing that you are companions of the Son of God and that He willingly came down to your condition.",
+            "wordCount": 121,
+            "quoteTokenProportion": 48.75,
+            "qualityScore": 2.0485609232484956,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                35.01,
+                29.09,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Look to Jesus, who endured conflict from sinners against Himself. Consider Him, for a comparison will show how much more He had to endure. Fix your eyes on the Savior, for understanding Jesus is the key to the whole problem. Do not grow weary and faint, for if the Son of God willingly underwent conflicts, who of us should refuse to submit to the same? Let the example of Christ give us courage to conquer all temptations, as we are companions of the Son of God who willingly came down to our condition.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.959869756573092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                34.91,
+                29.14,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Look to Jesus, who endured conflict from sinners against Himself. Consider Him, for a comparison will show how much more He had to endure. Fix your eyes on the Savior, for understanding Jesus is the key to the whole problem. Do not grow weary and faint, for if the Son of God willingly underwent conflicts, who of us should refuse to submit to the same? Let the example of Christ give us courage to conquer all temptations, as we are companions of the Son of God who willingly came down to our condition.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.959869756573092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                34.91,
+                29.14,
+                35.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Look to Jesus, as He had much conflict with sinners and endured their contradiction. Consider Him and compare His sufferings to your own, for understanding Him is the key to overcoming doubt and weariness. Do not grow weary or faint, for if the Son of God willingly endured such severe conflicts, how can we refuse to submit with Him? Take courage in knowing that we are companions of the Son of God, who willingly joined us in our condition.",
+            "wordCount": 79,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.9847306945641092,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                32.99,
+                28.72,
+                38.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Consider Jesus, who faced constant conflict with sinners during His time on earth. He endured the contradiction and opposition from those who opposed Him, enemies of their own souls. Reflect on His example to find strength in your own trials. Think about how much more He had to endure compared to what you are currently facing. By understanding Jesus and comparing your situation to His, you can find the courage and perseverance to keep going and not grow weary or faint in your soul.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.9446867539646338,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                37.17,
+                32.6,
+                30.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

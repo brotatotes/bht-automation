@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:50:05",
+    "verseRef": "Hebrews 10:25",
+    "bestBHT": {
+        "bht": "Gathering together as a congregation signifies the assembled body and should not be neglected. The day of Christ's second coming, which brings judgment, is always near. Assembling together fosters love, provokes good works, and strengthens unity. It is a sacred duty for believers to gather for public worship, as our graces are enriched in community. We should be diligent and encourage one another, especially as the day of Christ's return draws nearer. Neglecting the act of assembling may result in spiritual loss and potential apostasy.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9442548771260126,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+        "commentatorTierSimilarities": [
+            33.06,
+            36.29,
+            30.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The congregation has come from the act of assembling to signify the body thus assembled.",
+            "This pretty plainly shows that not formal apostasies, but habits of negligence, are in the Writer's view.",
+            "That Day, indeed, in its great final sense, is always near, always ready to break forth upon the church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The assembling or gathering of ourselves for Christian communion in private and public, is an earnest of our being gathered together to Him at His appearing.",
+            "Union is strength; continual assemblings together beget and foster love, and give good opportunities for 'provoking to good works,' by 'exhorting one another'.",
+            "He avoids the Greek term 'sunagoge,' as suggesting the Jewish synagogue meetings."
+        ],
+        "Albert Barnes": [
+            "With all who bear the Christian name, with all who expect to make advances in piety and religious knowledge, it should be regarded as a sacred duty to assemble together for public worship.",
+            "Religion is social; and our graces are to be strengthened and invigorated by waiting together on the Lord.",
+            "We should be the more diligent when we see the indications that the great Messenger is about to come to summon us into the presence of our final Judge."
+        ],
+        "Marvin Vincent": [
+            "The act of assembling, although some explain assembly.",
+            "The idea of apostasy which would be conveyed by the rendering assembly or congregation is excluded by eqov habit or custom...",
+            "The day of Christ's second coming, bringing with it the judgment of Israel."
+        ],
+        "John Calvin": [
+            "It is an evil which prevails everywhere among mankind, that every one sets himself above others, and especially that those who seem in anything to excel cannot well endure their inferiors to be on an equality with themselves.",
+            "Unless similarity of habits or some allurements or advantages draw us together, it is very difficult even to maintain a continual concord among ourselves.",
+            "Exceedingly needed, therefore, by us all is the admonition to be stimulated to love and not to envy, and not to separate from those whom God has joined to us, but to embrace with brotherly kindness all those who are united to us in faith."
+        ],
+        "Philip Schaff": [
+            "Not forsaking (the original is stronger not deserting, not leaving in the lurch) the assembling of yourselves together.",
+            "Exhorting one another, comforting, strengthening, entreating, is the meaning of the term, both by word and by example.",
+            "'The day' was seen to be approaching, the briefest description of Christ\u2019s coming to judgment, found only here and in 1 Corinthians 3:13: the day of days, the last of time, the first of eternity."
+        ],
+        "Archibald T. Robertson": [
+            "Not forsaking (\u03bc\u03b7 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c0\u03bf\u03bd\u03c4\u03b5\u03c2). 'Not leaving behind, not leaving in the lurch'",
+            "The assembling of yourselves together (\u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03b7\u03bd \u03b5\u03b1\u03c5\u03c4\u03c9\u03bd). Late double compound from \u03b5\u03c0\u03b9\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9, to gather together (\u03c3\u03c5\u03bd) besides (\u03b5\u03c0)",
+            "The day drawing nigh (\u03b5\u03b3\u03b3\u03b9\u03b6\u03bf\u03c5\u03c3\u03b1\u03bd \u03c4\u03b7\u03bd \u03b7\u03bc\u03b5\u03c1\u03b1\u03bd). The Second Coming of Christ which draws nearer all the time (Romans 13:12)."
+        ],
+        "John Gill": [
+            "It is the duty of saints to assemble together for public worship, on the account of God, who has appointed it, who approves of it, and whose glory is concerned in it; and on the account of the saints themselves, that they may be delighted, refreshed, comforted, instructed, edified, and perfected; and on account of others, that they may be convinced, converted, and brought to the knowledge and faith of Christ; and in imitation of the primitive saints.",
+            "And an assembling together ought not to be forsaken; for it is a forsaking God, and their own mercies, and such are like to be forsaken of God; nor is it known what is lost hereby; and it is the first outward visible step to apostasy, and often issues in it.",
+            "but exhorting one another; to prayer, to attend public worship, to regard all the duties of religion, to adhere to Christ, and a profession of him, and to consider him, and walk on in him: or 'comforting one another'; by meeting privately together, and conferring about experience, and the doctrines of grace; and by observing to one another the promises of God, relating to public worship; and by putting each other in mind of the bright day of the Lord, that is coming on."
+        ],
+        "John Wesley": [
+            "Not forsaking the assembling ourselves \u2014 In public or private worship.",
+            "But exhorting one another \u2014 To faith, love, and good works.",
+            "And so much the more, as ye see the day approaching \u2014 The great day is ever in your eye."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The act of assembling together as a congregation is significant because it signifies the unity of the body. Negligence in gathering together is seen as a habit that should be avoided. The writer emphasizes that the day of Christ's second coming, which brings judgment, is always near. Assembling together fosters love and provides opportunities for encouragement and exhortation. It is a sacred duty for believers to gather for public worship, as religion is inherently social and our graces are strengthened in community. We should be even more diligent in our gathering when we see signs of Christ's imminent return. It is important not to forsake the assembling of ourselves together and instead comfort and strengthen one another, especially as the day of Christ's return draws nearer.",
+            "wordCount": 129,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8662152679493955,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                33.34,
+                37.93,
+                28.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The act of assembling together as a congregation signifies the unity of the body and should not be neglected. The day of Christ's second coming is always near and brings judgment. Assembling together fosters love and provides opportunities for encouragement and exhortation. It is a sacred duty for believers to gather for public worship as our graces are strengthened in community. We should be diligent in our gathering and comfort one another, especially as the day of Christ's return draws nearer.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9254129168864451,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                33.2,
+                37.2,
+                29.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The act of assembling as a congregation signifies the unity of the body and avoiding negligence. The day of Christ's second coming, bringing judgment, is always near. Gathering together fosters love and encourages good works. It is a sacred duty for believers to assemble for public worship, as our graces are strengthened in community. We should be diligent in gathering, particularly as the day of Christ's return approaches. Comforting and exhorting one another is vital in our meetings, ensuring we do not forsake the act of assembling.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8860832831412373,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                34.58,
+                35.85,
+                29.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gathering together as a congregation signifies the assembled body and should not be neglected. The day of Christ's second coming, which brings judgment, is always near. Assembling together fosters love, provokes good works, and strengthens unity. It is a sacred duty for believers to gather for public worship, as our graces are enriched in community. We should be diligent and encourage one another, especially as the day of Christ's return draws nearer. Neglecting the act of assembling may result in spiritual loss and potential apostasy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9442548771260126,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                33.06,
+                36.29,
+                30.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Assembling together as a congregation signifies the unity of the body and should not be neglected. The day of Christ's second coming, bringing judgment, is always near. Gathering together fosters love and provokes good works through exhortation. It is a sacred duty for believers to gather for public worship, as our graces are strengthened in community. We should diligently continue to gather, comforting and encouraging one another, especially as the day of Christ's return approaches. Neglecting the act of assembling may lead to spiritual loss and even apostasy.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9059193072697296,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                32.59,
+                35.74,
+                31.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

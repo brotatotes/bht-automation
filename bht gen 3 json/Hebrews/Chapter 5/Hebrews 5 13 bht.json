@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:47:57",
+    "verseRef": "Hebrews 5:13",
+    "bestBHT": {
+        "bht": "Those who partake of milk, lacking in understanding and experience, are like infants. They need to progress from the basic principles of the Gospel to a more mature understanding of righteousness. This involves not only the doctrine of justification but also the perfection of the doctrine of Christ. Remaining unskilled and inexperienced in the word of righteousness hinders spiritual growth and prevents true knowledge of Christ. It is crucial to move beyond the milk of the Gospel and strive for a deeper understanding of God's truth.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.9008429975495904,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+        "commentatorTierSimilarities": [
+            27.02,
+            36.8,
+            36.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For every one who partakes of milk is unskilled in the word of righteousness: for he is an infant.",
+            "Every one who requires yet to be taught the first principles is devoid of understanding in the word of righteousness.",
+            "The word of righteousness follows as something of course and generally understood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even strong men partake of milk, but do not make milk their chief, much less their sole, diet.",
+            "The Gospel wherein 'the righteousness of God is revealed from faith to faith' (Romans 1:17), and which is called 'the ministration of righteousness' (Romans 1:17- :).",
+            "This includes the doctrine of justification and sanctification: the first principles, as well as the perfection, of the doctrine of Christ."
+        ],
+        "Albert Barnes": [
+            "The apostle has in view here those Christians who resemble children in this respect, that they are not capable of receiving the stronger food adapted to those of mature age.",
+            "They had not the experience or skill requisite to enable them to understand the higher mysteries of the Christian religion.",
+            "He understands the great system only as a child may. It is common to speak of 'babes in knowledge,' as denoting a state of ignorance."
+        ],
+        "Marvin Vincent": [
+            "Useth [\u03bc\u03b5\u03c4\u03b5\u03c7\u03c9\u03bd]. Rend. partakes of.",
+            "Unskilful [\u03b1\u03c0\u03b5\u03b9\u03c1\u03bf\u03c2]. N. T. o. Rend. unskilled or inexperienced.",
+            "A babe [\u03bd\u03b7\u03c0\u03b9\u03bf\u03c2]."
+        ],
+        "John Calvin": [
+            "He reproves here an infancy in understanding, such as constrains God even to prattle with us.",
+            "Those who indulge themselves in their ignorance preclude themselves from a real knowledge of Christ.",
+            "The doctrine of the Gospel is unfruitful in them, because they never reach the goal, nor come even near it."
+        ],
+        "Archibald T. Robertson": [
+            "Without experience. Inexperienced.",
+            "The babe, not able to chew if one uses only milk and is without teeth.",
+            "Perhaps moral truth is meant by 'word of righteousness'."
+        ],
+        "John Gill": [
+            "For everyone that useth milk... is unskilful in the word of righteousness.\" ",
+            "Such are unskilful in it, who either have no knowledge of the doctrine of justification... or have a very confused notion of it.",
+            "For he is a babe... denotes levity and inconstancy, ignorance and non-proficiency, want of digestion of strong meat, and incapacity to take care of themselves."
+        ],
+        "John Wesley": [
+            "Every one that useth milk [...] is unexperienced in the word of righteousness.",
+            "Neither desires, nor can digest, anything else: otherwise strong men use milk; but not milk chiefly, and much less that only.",
+            "Such are all who desire and can digest nothing but the doctrine of justification and imputed righteousness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who partake only of milk, the basic principles of the Gospel, are lacking in understanding and experience in the deeper truths of righteousness. They are like infants, unable to digest solid food and lacking teeth to chew on moral truth. This verse highlights the need for believers to progress from the first principles of the Gospel to a more mature understanding of justification and sanctification. It warns against remaining unskilled and inexperienced in the word of righteousness, which restricts one from truly knowing Christ and hinders spiritual growth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8703498052216405,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                29.19,
+                35.95,
+                34.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who partake of milk, the basic principles of the Gospel, are lacking in understanding and experience in the deeper truths of righteousness. They are like infants, unable to digest solid food and lacking teeth to chew on moral truth. This verse highlights the need for believers to progress from the first principles of the Gospel to a more mature understanding of justification and sanctification. It warns against remaining unskilled and inexperienced in the word of righteousness, hindering spiritual growth and preventing a true knowledge of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8524255176577213,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                29.09,
+                36.33,
+                34.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who partake of milk, lacking in understanding and experience, are like infants. They need to progress from the basic principles of the Gospel to a more mature understanding of righteousness. This involves not only the doctrine of justification but also the perfection of the doctrine of Christ. Remaining unskilled and inexperienced in the word of righteousness hinders spiritual growth and prevents true knowledge of Christ. It is crucial to move beyond the milk of the Gospel and strive for a deeper understanding of God's truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9008429975495904,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                27.02,
+                36.8,
+                36.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who rely solely on milk, the basic principles of the Gospel, lack understanding and experience in the deeper truths of righteousness. They are like infants, incapable of digesting solid food and grasping moral truth. This emphasizes the need for believers to progress from the elementary teachings of the Gospel to a more mature comprehension of justification and sanctification. Failing to grow in knowledge and experience in the word of righteousness hinders spiritual development and inhibits a true understanding of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.8602194162204202,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                26.58,
+                38.83,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who stick to milk, the basic principles of the Gospel, lack understanding and experience in deeper righteousness. They are like infants, unable to chew solid food or comprehend moral truth. This verse urges believers to advance from these foundational teachings to a more mature understanding of justification and sanctification. Remaining unskilled and inexperienced in the word of righteousness impedes spiritual growth and hampers a genuine knowledge of Christ. It is essential to move beyond the simplicity of milk and pursue a deeper grasp of God's truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.830866619682448,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
+            "commentatorTierSimilarities": [
+                27.71,
+                36.4,
+                35.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

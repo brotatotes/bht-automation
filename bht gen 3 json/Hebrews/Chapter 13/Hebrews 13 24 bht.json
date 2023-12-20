@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:51:34",
+    "verseRef": "Hebrews 13:24",
+    "bestBHT": {
+        "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers, and the writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. The phrase They of Italy could either refer to those with the writer in Italy or to Italian Christians who have sent their greetings. Grace be with all of you, a fitting conclusion to the Epistle, emphasizing the free result of Divine love that justifies, sanctifies, and guides us.",
+        "wordCount": 91,
+        "quoteTokenProportion": 51.67,
+        "qualityScore": 2.2684477048187177,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.77,
+        "commentatorTierSimilarities": [
+            40.22,
+            33.66,
+            26.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] Salute all your leaders, and all the saints, They from Italy salute you (on this, see Introd.,\u00a7ii. 13)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Scriptures are intended for all, young and old, not merely for ministers.\" ",
+            "He says here 'all,' for the Hebrews whom he addresses were not all in one place, though the Jerusalem Hebrews are chiefly addressed.\" ",
+            "They of Italy\u2014not merely the brethren at Rome, but of other places in Italy."
+        ],
+        "Albert Barnes": [
+            "Salute all them - see the notes on Romans 16:3 ff. It was customary for the apostle Paul to close his epistles with an affectionate salutation.",
+            "That have the rule over you - notes, Hebrews 13:7, Hebrews 13:17... The cause of this omission is unknown.",
+            "They of Italy salute you - The saints or Christians in Italy... He was probably in Rome; see the introduction, section 4."
+        ],
+        "Marvin Vincent": [
+            "This may mean, 'those who are in Italy send greeting from Italy'; or,' those of Italy (Italian Christians with the writer at the time) send greeting' from the place at which the letter is being written.",
+            "The phrase affords no reliable indication as to the residence of the persons addressed.",
+            "See Introduction."
+        ],
+        "John Calvin": [
+            "He bids some, separate from the rest, to be saluted; but he sends this salutation, as I think, more particularly to the rulers, as a mark of honor, that he might conciliate them, and gently lead them to assent to his doctrine.",
+            "He either means the faithful from among the Gentiles, and refers to them that both Jews and Gentiles might learn to cultivate unity among themselves.",
+            "His object was to intimate, that they who first received the Epistle, were to communicate it to others."
+        ],
+        "Philip Schaff": [
+            "Grace be with all of you; an order of words that gives individuality to the message as well as universality.",
+            "Grace, the free result of Divine love; grace which justifies and sanctifies and guides us; grace which begins and completes our salvation; an especially appropriate ending of this Epistle, and the characteristic ending of each of Paul\u2019s Epistles, and of his only, in the New Testament.",
+            "False conceptions of the Gospel and of God\u2019s way of peace, when based on institutions and teaching that are originally Divine, are among the greatest hindrances to salvation, and among the most fruitful sources of apostasy."
+        ],
+        "Archibald T. Robertson": [
+            "They of Italy (\u03bf \u03b1\u03c0\u03bf \u03c4\u03b7\u03c2 \u0399\u03c4\u03b1\u03bb\u03b9\u03b1\u03c2). Either those with the author in Italy or those who have come from Italy to the author outside of Italy. "
+        ],
+        "John Gill": [
+            "Salute all them that have the rule over you....and all the saints; the several members of the church.",
+            "the apostle wished all prosperity, inward and outward, spiritual and temporal.",
+            "Italy is a famous and well known country in Europe; a very fruitful and delightful one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers, and the writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. The phrase They of Italy could either refer to those with the writer in Italy or to Italian Christians who have sent their greetings. Grace be with all of you, a fitting conclusion to the Epistle, emphasizing the free result of Divine love that justifies, sanctifies, and guides us. False conceptions and teachings can hinder salvation and lead to apostasy, so it is important to cultivate unity and spread the message of the Epistle. Italy, a well-known and prosperous country, is where the greetings come from.",
+            "wordCount": 129,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 2.1144496818187752,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                38.02,
+                34.02,
+                27.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers, and the writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. The phrase They of Italy could either refer to those with the writer in Italy or to Italian Christians who have sent their greetings. Grace be with all of you, a fitting conclusion to the Epistle, emphasizing the free result of Divine love that justifies, sanctifies, and guides us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.2684477048187177,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.77,
+            "commentatorTierSimilarities": [
+                40.22,
+                33.66,
+                26.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers, and the writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. The phrase They of Italy could either refer to those with the writer in Italy or to Italian Christians who have sent their greetings. Grace be with all of you, emphasizing the free result of Divine love that justifies, sanctifies, and guides us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 2.2454935902854585,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.0,
+            "commentatorTierSimilarities": [
+                40.93,
+                33.13,
+                25.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers. The writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. The phrase They of Italy might refer to those with the writer in Italy or to Italian Christians who have sent their greetings. Grace be with all of you, highlighting the free result of Divine love that justifies, sanctifies, and guides us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 2.123586723124448,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                41.55,
+                32.33,
+                26.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salute all your leaders and all the saints, both those in Italy and those from Italy. The Scriptures are intended for everyone, not just ministers. The writer of Hebrews addresses not only the Hebrews in Jerusalem but also those in Italy. Grace be with all of you, emphasizing the free result of Divine love that justifies, sanctifies, and guides us. False conceptions and teachings can hinder salvation and lead to apostasy, so it is important to cultivate unity and spread the message of the Epistle.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9763108339059747,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                34.67,
+                37.92,
+                27.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

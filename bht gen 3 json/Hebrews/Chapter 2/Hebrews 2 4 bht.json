@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:47:08",
+    "verseRef": "Hebrews 2:4",
+    "bestBHT": {
+        "bht": "The Gospel was indisputably confirmed through signs, wonders, and powers, which served as evidence of its divine origin. Signs and wonders were miraculous works that caused astonishment, while powers displayed God's superhuman capabilities. The Holy Spirit, though abundantly given to Christ, is distributed among believers in different measures and operations. The gifts of the Holy Ghost exemplify this diversity, distributed according to God's will. These intentional displays, sealed with miracles, authenticated the truth of the Gospel and revealed distinct aspects of God's power.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 2.363293383581759,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+        "commentatorTierSimilarities": [
+            34.11,
+            36.01,
+            29.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Signs\" and miracles, or other facts regarded as proofs of a divine mission \"wonders\" are miracles viewed as prodigies, causing astonishment. (Acts 2:22; Acts 2:33)",
+            "Powers\" are miracles viewed as evidences of superhuman power.",
+            "The gift of the Holy Spirit was given to Christ without measure (John 3:34), but to us it is distributed in various measures and operations. (Romans 12:3 Romans 12:6; 1 Corinthians 12:4-11)"
+        ],
+        "Albert Barnes": [
+            "No man can work a miracle by his own power. When the dead are raised, the deaf made to hear and the blind to see by a word, it is the power of God alone that does it.\" ",
+            "The various influences of the Holy Spirit enabling them to speak different languages, and to perform works beyond the power of man.",
+            "The gospel has been promulgated to man in a solemn manner. It was confirmed by the most impressive and solemn miracles. It is undoubtedly a revelation from heaven."
+        ],
+        "Marvin Vincent": [
+            "With signs and wonders. A very common combination in N.T.",
+            "Powers signifies, not the miraculous manifestations, as signs and wonders, but the miraculous energies of God as displayed in his various forms of witness.",
+            "The Spirit was imparted and distributed as God willed."
+        ],
+        "John Calvin": [
+            "They who do not reverently receive the Gospel recommended by such testimonies, disregard not only the word of God, but also his works.",
+            "The conjunction 'together with' has this meaning, that we are confirmed in the faith of the Gospel by the joint testimony of God and men.",
+            "The miracles mentioned could not be ascribed to any except to God alone, and that they were not wrought undesignedly, but for the distinct purpose of sealing the truth of the Gospel."
+        ],
+        "Philip Schaff": [
+            "God also bearing them witness, i.e God bearing witness with them to the Gospel they preached, confirming their word by the signs that followed.",
+            "With signs, wonders, and miracles. This is the threefold division of the miraculous acts which prove the superhuman mission of those who work them.",
+            "The gifts of the Holy Ghost are illustrated in their diversity (to one man one gift; to another, another) in 1 Corinthians 12:4-11, God Himself distributing them according to His own will."
+        ],
+        "Archibald T. Robertson": [
+            "Both by signs and wonders and by manifold powers and by gifts of the Holy Ghost.",
+            "\u03a4\u03b5\u03c1\u03b1\u03c2 (wonder) attracts attention, \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2 (power) shows God's power, \u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd reveals the purpose of God in the miracles.",
+            "The writer is fond of words in -\u03b9\u03c2."
+        ],
+        "John Gill": [
+            "A sign, wonder, or miracle, for these signify the same thing, is a marvellous work done before men, by the power of God, to confirm a divine truth.\" ",
+            "God is the sole author of miracles; and they were done in the first ages of Christianity, when they were necessary, to give evidence of the truth of it, and to establish men in it.\" ",
+            "Gifts of the Holy Spirit; such as besides gifts of healing and working miracles, gifts of foretelling things to come, discerning of spirits, speaking with divers kinds of tongues, and the interpretation of tongues, according to his own will."
+        ],
+        "John Wesley": [
+            "By signs and wonders \u2014 While he lived.",
+            "And various miracles and distributions of the Holy Ghost \u2014 Miraculous gifts, distributed after his exaltation.",
+            "According to his will \u2014 Not theirs who received them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the signs, wonders, and powers that accompanied the preaching of the Gospel, serving as confirmation of its divine origin. These signs and wonders are extraordinary miracles that cause astonishment, displaying the superhuman power of God. The Holy Spirit, whose distribution varies among believers, was given to Christ without limit, but to us, it is distributed in various measures and operations. The writer emphasizes the significance of signs, wonders, and powers, with each term revealing a different aspect of the divine miracles. The gifts of the Holy Ghost illustrate their diversity, distributed according to God's will. These miracles were not mere coincidences, but intentional displays aimed at sealing the truth of the Gospel.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.2756648557334174,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.01,
+            "commentatorTierSimilarities": [
+                33.38,
+                36.17,
+                30.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The signs, wonders, and powers that accompanied the Gospel served as proof of its divine origin. These signs were miraculous displays of God's power, while wonders caused astonishment. The Holy Spirit was given to Christ without measure, while among believers, His distribution varies. The gifts of the Holy Ghost exhibit diversity, distributed according to God's will. These miracles were intentional displays, aimed at confirming the truth of the Gospel. Their significance lies in revealing different aspects of God's power, confirming the divine mission of those who worked them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1788115088398685,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "commentatorTierSimilarities": [
+                33.37,
+                36.42,
+                30.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel was indisputably confirmed through signs, wonders, and powers, which served as evidence of its divine origin. Signs and wonders were miraculous works that caused astonishment, while powers displayed God's superhuman capabilities. The Holy Spirit, though abundantly given to Christ, is distributed among believers in different measures and operations. The gifts of the Holy Ghost exemplify this diversity, distributed according to God's will. These intentional displays, sealed with miracles, authenticated the truth of the Gospel and revealed distinct aspects of God's power.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.363293383581759,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+            "commentatorTierSimilarities": [
+                34.11,
+                36.01,
+                29.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel's authenticity was confirmed through miraculous signs, wonders, and powers. These signs were viewed as prodigies, causing astonishment, while wonders testified to the superhuman power of God. Though the Holy Spirit was given to Christ in abundance, believers receive varying measures and operations. The gifts of the Holy Ghost highlight this diversity, distributed according to God's will. Through intentional displays of miracles, the truth of the Gospel was confirmed, showcasing different aspects of God's power and sealing its divine origin.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.318171565711628,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+            "commentatorTierSimilarities": [
+                34.21,
+                35.57,
+                30.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The authenticity of the Gospel was established by the signs, wonders, and powers that accompanied it. These signs were miraculous acts that caused astonishment, while wonders demonstrated the superhuman power of God. Although the Holy Spirit was given to Christ in limitless measure, believers receive varying distributions. The gifts of the Holy Ghost exemplify this diversity, distributed according to God's will. Miracles played a significant role in confirming the truth of the Gospel and revealing different aspects of God's power, attesting to its divine origin.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.273745886189789,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                33.33,
+                36.42,
+                30.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

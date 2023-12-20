@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:48:32",
+    "verseRef": "Hebrews 7:24",
+    "bestBHT": {
+        "bht": "Christ's priesthood is singular and unchangeable, as God has uniquely placed him in this role. While other priests may pass their office to successors, Christ's priesthood remains forever because he continues to live and fulfill his priestly duties. His death, a part of his priestly office, did not mark the end of his priesthood, but rather he lives on as an eternal intercessor. No one else can assume his priesthood, as it is exclusive to him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 2.1653789793183336,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.34,
+        "commentatorTierSimilarities": [
+            31.25,
+            33.81,
+            34.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "THOU art a priest\"; singular, not priests, \"many.",
+            "Remaineth,\" namely, in life.",
+            "hath His priesthood unchangeable\"; not passing from one to another, intransmissible."
+        ],
+        "Albert Barnes": [
+            "Because he does not die, but ever lives, he has an unchanging priesthood.",
+            "The reason in their case, why it passed to others, was not that they did not perform the office well, but that they were mortal.",
+            "The idea is not strictly that it was 'unchangeable,' but that 'it did not pass over into other hands.'"
+        ],
+        "Marvin Vincent": [
+            "Hath an unchangeable priesthood [\u03b1\u03c0\u03b1\u03c1\u03b1\u03b2\u03b1\u03c4\u03bf\u03bd \u03b5\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b9\u03b5\u03c1\u03c9\u03c3\u03c5\u03bd\u03b7\u03bd] . Rend. hath his priesthood unchangeable.\" ",
+            "The A. V. misses the possessive force of the article, his priesthood, and the emphasis is on unchangeable.",
+            "Usage is in favor of the former meaning, but the other falls in better with the course of thought."
+        ],
+        "Philip Schaff": [
+            "The active sense of the word rendered 'unchangeable' (\u2018what does not pass over to another\u2019) is very unusual, and therefore less likely; but either meaning makes a good, and nearly the same, sense.",
+            "If this meaning seem preferable, it needs then to be kept in mind that the \u2018for ever\u2019 of the Psalm relates to the priesthood of Christ, and answers to the \u2018for ever\u2019 of the arrangement with Melchisedec.",
+            "Though the life of Christ is eternal, as are the effects of His priesthood, yet His exercise of that office will cease when all the glorious ends of it are completely answered in the eternal salvation of the redeemed."
+        ],
+        "Archibald T. Robertson": [
+            "Because he abideth (\u03b4\u03b9\u03b1 \u03c4\u03bf \u03bc\u03b5\u03bd\u03b5\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Same idiom as in verse Hebrews 7:23, 'because of the abiding as to him' (accusative of general reference, \u03b1\u03c5\u03c4\u03bf\u03bd).",
+            "Unchangeable (\u03b1\u03c0\u03b1\u03c1\u03b1\u03b2\u03b1\u03c4\u03bf\u03bd). Predicate adjective in the accusative (feminine of compound adjective like masculine), late double compound verbal adjective in Plutarch and papyri, from alpha privative and \u03c0\u03b1\u03c1\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9, valid or inviolate.",
+            "God placed Christ in this priesthood and no one else can step into it. See verse Hebrews 7:11 for \u03b9\u03b5\u03c1\u03c9\u03c3\u03c5\u03bd\u03b7."
+        ],
+        "John Gill": [
+            "Though he died, death did not forbid him to continue, as it does other men...",
+            "...his death was a branch of his priestly office...",
+            "...he himself ever lives as an intercessor..."
+        ],
+        "John Wesley": [
+            "He continueth for ever \u2014 In life and in his priesthood.",
+            "That passeth not away \u2014 To any successor."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, as the eternal high priest, has a priesthood that is unchangeable and cannot be passed on to another. God has placed him in this role, and no one else can step into it. His priesthood remains forever because Christ himself continues to live and fulfill his priestly duties. His death was not the end of his priesthood but a part of it, and he now lives forever as our intercessor. His priesthood is not temporary or transferable but remains in effect for all time, ensuring the eternal salvation of the redeemed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 54.69,
+            "qualityScore": 1.9834731730938087,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                28.53,
+                35.84,
+                35.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's priesthood is singular and unchangeable, as God has uniquely placed him in this role. While other priests may pass their office to successors, Christ's priesthood remains forever because he continues to live and fulfill his priestly duties. His death, a part of his priestly office, did not mark the end of his priesthood, but rather he lives on as an eternal intercessor. No one else can assume his priesthood, as it is exclusive to him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 2.1653789793183336,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.34,
+            "commentatorTierSimilarities": [
+                31.25,
+                33.81,
+                34.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, our ultimate high priest, holds a singular and unchangeable priesthood that remains in His possession. This means that His priesthood cannot be passed down to another, as it is inviolate and distinct to Him alone. Because Christ abides forever, His priesthood is likewise unchanging, unlike the mortal priests of old whose office was transmissible. Though His death was a part of His priestly work, it did not prevent Him from continuing as our intercessor who ever lives. Therefore, Christ's priesthood is eternal and does not pass to any successor, ensuring that He continues forever in His life and in His priesthood.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.1586237068419885,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.11,
+            "commentatorTierSimilarities": [
+                30.5,
+                35.59,
+                33.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, our high priest, possesses a singular and unchangeable priesthood that remains with Him in life. His priesthood is not passed on to others and is inviolate and distinct to Him alone. While His death was part of His priestly work, it did not hinder His continuous intercession. Therefore, His priesthood is eternal and does not pass to any successor, ensuring that He continues forever both in His life and in His priesthood.",
+            "wordCount": 73,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.102062596960891,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                29.48,
+                32.8,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "One must remember that the verse states THOU art a priest, implying a singular priesthood belonging to Christ alone, one that remains in him unchangeably. God has placed Christ in this priesthood, and no one else can step into it. The priesthood is not passed on because Christ does not die, but ever lives, maintaining an unchanging priesthood. Though the life of Christ is eternal, as are the effects of His priesthood, His exercise of that office will cease when all the glorious ends of it are completely answered in the eternal salvation of the redeemed.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.130374021287051,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                32.33,
+                40.15,
+                27.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

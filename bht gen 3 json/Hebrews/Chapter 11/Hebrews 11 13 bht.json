@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:50:11",
+    "verseRef": "Hebrews 11:13",
+    "bestBHT": {
+        "bht": "Believers in faith died, not having seen their promised blessings, but they embraced them as though within reach, confessing themselves as strangers and pilgrims. These believers, like seamen waving a greeting from afar, clung to their faith, even though they did not fully possess what their faith promised. Just as Abraham rejoiced at the distant sight of Christ's day, they accepted their circumstances with the resignation of faith, trusting in the assurance of future rest.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.0133566152224334,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+        "commentatorTierSimilarities": [
+            27.8,
+            40.42,
+            31.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "died in faith\u2014died as",
+            "\tbelievers, waiting for, not actually seeing as yet",
+            "\ttheir good things promised to them.\" ",
+            "embraced them\u2014as though",
+            "\tthey were not 'afar off,' but within reach, so as to draw",
+            "\tthem to themselves and clasp them in their embrace.",
+            "Worldly men hold",
+            "\tfast the world; believers sit loose to it. Citizens of the world",
+            "\tdo not confess themselves 'strangers on the earth.'"
+        ],
+        "Albert Barnes": [
+            "The phrase used here, 'these all died in faith,' does not mean that they died in the exercise or possession of religion, but more strictly that they died not having possessed what was the object of their faith.",
+            "Having seen that they would be fulfilled in future times...the 'promises' to which they trusted included all these things.",
+            "It was not a cold and formal reception of them, but a warm and hearty welcome. Such is the nature of true faith when it embraces the promises of salvation."
+        ],
+        "Marvin Vincent": [
+            "Having seen them from afar and greeted them\" : as seamen wave their greeting to a country seen far off on the horizon, on which they cannot land.",
+            "Confessed that they were strangers and pilgrims.",
+            "They admitted and accepted the fact with the resignation of faith, and with the assurance of future rest."
+        ],
+        "John Calvin": [
+            "They despised all that was in the world; and they never forgot the taste of them, however small it was either in life or in death.",
+            "Though God gave to the fathers only a taste of that grace which is largely poured on us, though he showed to them at a distance only an obscure representation of Christ, who is now set forth to us clearly before our eyes, yet they were satisfied and never fell away from their faith.",
+            "If the land of Canaan did not engross their attention, how much more weaned from things below ought we to be, who have no promised habitation in this world?"
+        ],
+        "Archibald T. Robertson": [
+            "In faith (\u03ba\u03b1\u03c4\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd). Here a break in the routine \u03c0\u03b9\u03c3\u03c4\u03b5 (by faith), 'according to faith,' either for literary variety 'or to suggest \u03c0\u03b9\u03c3\u03c4\u03b9\u03c2 as the sphere and standard of their characters' (Moffatt).",
+            "Abraham rejoiced to see Christ's day in the dim distance (John 8:56).",
+            "But they 'confessed' it (Genesis 23:4; Genesis 47:9)."
+        ],
+        "John Gill": [
+            "They died in faith, having the grace itself, which being once implanted, can never be lost.",
+            "They died according to the life of faith they lived, and the doctrine of faith they professed, being the Lord's both living and dying.",
+            "And they confessed themselves to be such, nor are believers ashamed to own and confess their mean estate in this world."
+        ],
+        "John Wesley": [
+            "In death faith acts most vigorously.",
+            "The promised blessings.",
+            "Embraced as one does a dear friend."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers in Hebrews 11:13 died in faith, not having seen the good things promised to them. They embraced these promises with a warm and heartfelt welcome, as though they were within reach and able to be embraced. They confessed that they were strangers and pilgrims, accepting their role with the resignation of faith and the assurance of future rest. Even though they only saw these promises from afar, like seamen waving a greeting to a distant country, they held fast to their faith. Just as Abraham rejoiced to see Christ's day in the distance, these believers confessed their faith in spite of not fully experiencing or possessing what their faith promised.",
+            "wordCount": 111,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8841277836065666,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                26.3,
+                42.88,
+                30.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers in faith died, not having seen their promised blessings, but they embraced them as though within reach, confessing themselves as strangers and pilgrims. These believers, like seamen waving a greeting from afar, clung to their faith, even though they did not fully possess what their faith promised. Just as Abraham rejoiced at the distant sight of Christ's day, they accepted their circumstances with the resignation of faith, trusting in the assurance of future rest.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0133566152224334,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                27.8,
+                40.42,
+                31.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers in Hebrews 11:13 died in faith, not having seen the good things promised to them. They embraced these promises, drawing them near and confessing themselves as strangers and pilgrims. Even though they saw these promises from afar, like seamen greeting a distant country, they held fast to their faith. Just as Abraham rejoiced to see Christ's day in the distance, these believers confessed their faith in spite of not fully experiencing or possessing what their faith promised. Their resignation of faith and hope in future rest allowed them to endure in their journey as strangers in the world.",
+            "wordCount": 99,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8495067313622742,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                28.2,
+                40.15,
+                31.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers in faith died, not having seen their promised blessings, but they embraced them as though within reach, confessing themselves as strangers and pilgrims. They held fast to their faith, even though they did not fully possess what their faith promised. Just as Abraham rejoiced at the distant sight of Christ's day, they accepted their circumstances, trusting in the assurance of future rest. With the resignation of faith, they endured as strangers in the world, steadfastly clinging to their hope.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9276756736029603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                27.34,
+                40.0,
+                32.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers died in faith, not having seen their promised blessings, but embraced them as within reach, confessing themselves as strangers and pilgrims. With the resignation of faith and the assurance of future rest, they endured as they held fast to their faith, even though they did not fully possess what it promised. They accepted their circumstances, like Abraham rejoicing at the distant sight of Christ's day. These believers clung to hope, journeying as strangers in the world, detached from worldly possessions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8460344996312394,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                28.1,
+                39.46,
+                32.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:49:03",
+    "verseRef": "Hebrews 8:7",
+    "bestBHT": {
+        "bht": "If that first covenant had been faultless, a place would not be sought for a second. The old covenant, though blameless in its morality, was inadequate in saving humanity. It did not fully satisfy the needs of the people, leading to a search for something better. The imperfections of the old covenant pointed to the necessity of a new covenant, which was anticipated by the prophets. The weakness of the old covenant highlights the superiority of the new covenant, fulfilling it in a way that the old covenant could not.",
+        "wordCount": 90,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 2.144395942754331,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+        "commentatorTierSimilarities": [
+            36.68,
+            26.63,
+            36.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For if that first (covenant) were (or, had been) blameless... a place would not be sought for a second.\" ",
+            "It is the contrary of 'weak and profitless,' ch. vii. 18.\" ",
+            "But it is far better to understand it of a place in history for a second (the emphasis is on second)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faultless\u2014perfect in all its parts, so as not to be found fault with as wanting anything which ought to be there: answering all the purposes of a law.\" ",
+            "The law in its morality was blameless (Greek, 'amomos'); but in saving us it was defective, and so not faultless (Greek, 'amemptos').",
+            "The old covenant would have anticipated all man's wants, so as to give no occasion for seeking something more perfectly adequate."
+        ],
+        "Albert Barnes": [
+            "God had said that that covenant was not perfect or faultless. The meaning is not that that first covenant made under Moses had any real faults - or inculcated what was wrong, but that it did not contain the ample provision for the pardon of sin and the salvation of the soul which was desirable.\" ",
+            "It was merely 'preparatory' to the gospel.",
+            "There could not have been - inasmuch as in that case it would have been impossible to have bettered it, and any change would have been only for the worse."
+        ],
+        "Marvin Vincent": [
+            "If that first covenant had been faultless, there would no place have been sought for a second.",
+            "This implies a sense of dissatisfaction while the old covenant was still in force, and a looking about for something better.",
+            "It is to be shown that the Levitical system answered to a covenant which was recognized as imperfect and transitory by an O. T. prophet, since he spoke of a divine purpose to establish a new covenant."
+        ],
+        "John Calvin": [
+            "To render it perfect and valid, God declares that it needed an amendment.",
+            "Though the crime of violating the covenant was justly imputed to the people, yet the weakness of the covenant is also pointed out, because it was not written in their hearts.",
+            "This double fault or weakness more fully sets forth the excellency of the new covenant."
+        ],
+        "Philip Schaff": [
+            "For ... the better promises implied in what follows are themselves a proof of the inferiority of the old covenant\"  ",
+            "no place would have been sought\"  ",
+            "in the development of the Divine purpose, in the plan of redemption"
+        ],
+        "Archibald T. Robertson": [
+            "Faultless (\u03b1\u03bc\u03b5\u03bc\u03c0\u03c4\u03bf\u03c2). Old compound adjective for which see Luke 1:6; Philippians 2:15. The condition is second class and assumes that the old covenant was not 'blameless,' apparently a serious charge which he hastens to explain.",
+            "For a second (\u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03b1\u03c2). Objective genitive with \u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03c2 understood. The conclusion with \u03b1\u03bd and the imperfect passive indicative (\u03b5\u03b6\u03b7\u03c4\u03b5\u03b9\u03c4\u03bf) is clearly a second-class condition.",
+            "See a like argument in Hebrews 7:11."
+        ],
+        "John Gill": [
+            "But the covenant here designed is the covenant of grace, as administered under the legal dispensation, and which was a typical one; the people with whom it was made were typical of the true Israel of God; the blessings promised in it were shadows of good things to come; the works it required were typical of Christ's obedience to the law, in the room and stead of his people, by which he fulfilled it.\" ",
+            "This covenant was not 'faultless', but was faulty or blameworthy; not that there was anything sinful and criminal in it, but it was deficient; there was a weakness in it; its sacrifices could not make men perfect, nor take away sin; there wanted a larger supply of the grace of the Spirit to write the law of God upon the heart, and to enable men to keep it.",
+            "Had it been faultless, then should no place have been sought for the second; the covenant of grace unveiled in the Gospel dispensation, called the better testament, the better covenant, and the new covenant; in order to, introduce which, the first was removed, that this might succeed it; just as because there was no perfection by the Levitical priesthood, it became necessary that another priest should arise, of another order."
+        ],
+        "John Wesley": [
+            "If that dispensation had answered all God's designs and man's wants, if it had not been weak and unprofitable unable to make anything perfect, no place would have been for a second.",
+            "If the first had been faultless.",
+            "Unable to make anything perfect, no place would have been for a second."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the first covenant had been blameless and faultless, there would have been no need for a second covenant. The old covenant, though morally blameless, was insufficient in saving humanity. It did not fully meet the purposes of the law and left room for dissatisfaction and seeking something better. In recognizing the imperfections of the old covenant, the writer of Hebrews shows that a new covenant was anticipated and necessary. The old covenant was merely preparatory to the superior promises and provisions of the gospel. The weakness of the old covenant demonstrates the superiority of the new covenant, which fulfilled it as a shadow of good things to come.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.181874455673402,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.89,
+            "commentatorTierSimilarities": [
+                36.17,
+                27.95,
+                35.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the first covenant had been blameless and faultless, there would have been no need for a second. The old covenant, though morally blameless, was insufficient in saving humanity and did not fully meet the purposes of the law. It left room for dissatisfaction and seeking something better. Recognizing the imperfections of the old covenant, the writer of Hebrews shows that a new covenant was anticipated and necessary. The weakness of the old covenant demonstrates the superiority of the new covenant, which fulfilled it as a shadow of good things to come.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1152198549954906,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                37.55,
+                25.5,
+                36.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the first covenant had been faultless, there would have been no place for a second. The old covenant was blameless in its morality but lacked the ability to save. It fell short of fully meeting the needs of humanity, leading to a sense of dissatisfaction and a search for something better. The imperfections of the old covenant highlight the necessity for a new covenant, anticipating the superior promises and provisions of the gospel. The weakness of the old covenant showcases the superiority of the new covenant, which fulfilled it as a shadow of greater things to come.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1163650621317878,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.71,
+            "commentatorTierSimilarities": [
+                35.44,
+                27.27,
+                37.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the first covenant had been faultless, there would have been no place for a second. The old covenant, though morally blameless, was insufficient in saving humanity. It did not fully meet the purposes of the law and left room for dissatisfaction and seeking something better. Recognizing the imperfections of the old covenant, the writer of Hebrews shows that a new covenant was anticipated and necessary. The weakness of the old covenant demonstrates the superiority of the new covenant, which fulfilled it as a shadow of good things to come.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1785404561324775,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                36.63,
+                26.02,
+                37.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If that first covenant had been faultless, a place would not be sought for a second. The old covenant, though blameless in its morality, was inadequate in saving humanity. It did not fully satisfy the needs of the people, leading to a search for something better. The imperfections of the old covenant pointed to the necessity of a new covenant, which was anticipated by the prophets. The weakness of the old covenant highlights the superiority of the new covenant, fulfilling it in a way that the old covenant could not.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.144395942754331,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                36.68,
+                26.63,
+                36.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

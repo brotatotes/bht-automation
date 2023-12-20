@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:50:46",
+    "verseRef": "Hebrews 11:39",
+    "bestBHT": {
+        "bht": "The believers who lived by faith in the past did not receive the promise of final salvation, the eternal inheritance. For them, the promise was purely future, while for us, it is a present reality as well. At the death of Christ, believers were perfected in title and conscience, but the full blessedness of body and soul will be attained when the full number of the elect is completed. These faithful ones may not have seen the fulfillment of the Messianic promise, but their witness through faith is a testament to their righteousness.",
+        "wordCount": 93,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 2.2573120520855126,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.4,
+        "commentatorTierSimilarities": [
+            36.51,
+            31.15,
+            32.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And these all, borne witness to by their faith, did not receive the promise.",
+            "the promise of final salvation, or as it is called, 'the promise of the eternal inheritance:' the perfection, to which without us they were not to attain.",
+            "For them, final salvation was a thing purely future: for us, it is a thing present as well as future."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They received not the promise.",
+            "The full blessedness of body and soul shall not be till the full number of the elect shall be accomplished.",
+            "The perfecting of believers in title, and in respect to conscience, took place once for all, at the death of Christ, by virtue of His being made by death perfect as Saviour."
+        ],
+        "Albert Barnes": [
+            "They were all commended and approved on account of their confidence in God.",
+            "Did not receive the fulfillment of the promise; or did not receive all that was promised.",
+            "They all still looked forward to some future blessings."
+        ],
+        "John Calvin": [
+            "A small spark of light led them to heaven; when the sun of righteousness shines over us, with what pretense can we excuse ourselves if we still cleave to the earth?\" ",
+            "It is a singular evidence of God\u2019s benevolence towards us, that though he has shown himself bountifully to his children from the beginning of the world, he yet has so distributed his grace as to provide for the well-being of the whole body.\" ",
+            "Let us then know that we are doubly and treble ungrateful to God, if less faith appears in us under the kingdom of Christ than the fathers had under the Law, as proved by so many remarkable examples of patience."
+        ],
+        "Philip Schaff": [
+            "The Bible is largely a history of faith, its deeds and sufferings and rewards; pre-eminently of the patience and perseverance which belong to it, and which seem essential in a world where virtue is militant.",
+            "These all having had witness borne to them through their faith, i.e though they had all this noble attestation, had still to wait for the fulfilment of the promise the promise of final and complete salvation.",
+            "To give up the Gospel and go back to the Law is to return from what is perfect to what is preparatory; and to sever ourselves from the blessedness for which the patriarchs died."
+        ],
+        "Archibald T. Robertson": [
+            "These all...Through their faith.\" ",
+            "Received not the promise.",
+            "The Messianic promise they did not live to see."
+        ],
+        "John Gill": [
+            "And all these were witnesses concerning the faith.",
+            "They had the promise, but not the thing.",
+            "Now since these saints so strongly believed, and so cheerfully suffered before Christ came; the apostle's argument is, that much more should the saints now, since Christ is come, and the promises received, go on believing in him, and readily suffering for his sake."
+        ],
+        "John Wesley": [
+            "And all these \u2014 Though they obtained a good testimony, Hebrews 11:2, yet did not receive the great promise, the heavenly inheritance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers of the past, commended for their faith, did not receive the full fulfillment of the promise of final salvation. They trusted in God and their faith bore witness to their righteousness, but they did not live to see the Messianic promise. However, the promise they longed for is now present for us, as Jesus' death on the cross brought about the perfecting of believers in both title and conscience. We, the present-day believers, are doubly ungrateful if we do not show the same faith and resilience that the patriarchs exemplified under the Law. Let us remember the noble examples of patience and perseverance as we hold fast to our faith in Christ and willingly suffer for His sake, knowing that the promise is not just for the saints of old, but for us as well.",
+            "wordCount": 138,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 2.2191128329771193,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.13,
+            "commentatorTierSimilarities": [
+                32.63,
+                33.02,
+                34.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers of the past, commended for their faith, did not receive the fulfillment of the promise of final salvation, but their faith bore witness to their righteousness. The Messianic promise they longed for was purely future for them, unlike for us, who experience its present and future reality. The perfecting of believers happened at the death of Christ, but the full blessedness of body and soul will be realized when the full number of the elect is accomplished.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.1958812848923266,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                37.5,
+                32.17,
+                30.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers who lived by faith in the past did not receive the promise of final salvation, the eternal inheritance. For them, the promise was purely future, while for us, it is a present reality as well. At the death of Christ, believers were perfected in title and conscience, but the full blessedness of body and soul will be attained when the full number of the elect is completed. These faithful ones may not have seen the fulfillment of the Messianic promise, but their witness through faith is a testament to their righteousness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.2573120520855126,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.4,
+            "commentatorTierSimilarities": [
+                36.51,
+                31.15,
+                32.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers commended for their faith did not receive the promise of final salvation. Their faith bore witness to their righteousness, but they did not live to see the Messianic promise. However, we now experience both the present and future reality of the promise through Jesus' perfecting work. The fullness of blessedness awaits us when the complete number of the elect is achieved. Their enduring faith serves as a powerful reminder for us to hold fast, believing and willingly suffering for Christ's sake.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0820600959302054,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                36.66,
+                32.15,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers of the past, commended for their faith, did not receive the full fulfillment of the promise of final salvation. They trusted in God and their faith bore witness to their righteousness, but they did not live to see the Messianic promise. However, the promise they longed for is now present for us, as Jesus' death on the cross brought about the perfecting of believers in both title and conscience. We, the present-day believers, are doubly ungrateful if we do not show the same faith and resilience that the patriarchs exemplified under the Law.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.231652790447807,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.54,
+            "commentatorTierSimilarities": [
+                33.28,
+                33.04,
+                33.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

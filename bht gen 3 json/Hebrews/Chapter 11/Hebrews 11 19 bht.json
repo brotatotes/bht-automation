@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:50:17",
+    "verseRef": "Hebrews 11:19",
+    "bestBHT": {
+        "bht": "Abraham's unwavering faith in God allowed him to trust in the power of resurrection, believing that God was capable of raising Isaac from the dead. Despite the seemingly impossible command to sacrifice his son, Abraham's faith overcame any objections from reason. The figure of the ram offered as a substitute for Isaac symbolized the death and resurrection of Christ. Abraham received his son back as if he had been brought back to life, demonstrating God's faithfulness and the belief in the resurrection.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.658134024961182,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.72,
+        "commentatorTierSimilarities": [
+            36.66,
+            36.84,
+            26.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Abraham's faith was able, in anticipation, to clear the suspicion of God\u2019s faithfulness by the suggestion of His power.\" ",
+            "It was not God\u2019s power to raise Isaac, but God\u2019s power, generally, to raise from the dead, that Abraham believed.",
+            "The true identification of the parable is I am persuaded to be found in the figure under which Isaac was sacrificed, viz. the ram, as already hinted by Chrysostom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith answered the objections which reason brought against God's command to Abraham to offer Isaac, by suggesting that what God had promised He both could and would perform, however impossible the performance might seem.",
+            "He received him back, risen from that death which he had undergone in, under, the figure of the ram.",
+            "The figure to be the representation which the whole scene gave to Abraham of Christ in His death and resurrection."
+        ],
+        "Albert Barnes": [
+            "To fulfil these promises, therefore, there was no other way possible but for him to be raised up from the dead, and Abraham fully believed that it would be done.",
+            "The strength of his faith was seen in the fact that in obedience to the simple command of God, all the strong feelings of a father were overcome.",
+            "The faith of Abraham in this remarkable instance shows us that the doctrine of the resurrection of the dead [...] was early believed in the world."
+        ],
+        "John Calvin": [
+            "Nor did hope disappoint Abraham, for it was a sort of resurrection when his son was so suddenly delivered from the midst of death.",
+            "However, I do not dislike what some say, who think that our flesh, which is subject to death, is set forth in the ram which was substituted for Isaac.",
+            "But I have now to state what the Apostle meant, not what may in truth be said; and the real meaning here, as I think, is, that Abraham did not receive his Son otherwise than if he had been restored from death to new life."
+        ],
+        "Philip Schaff": [
+            "And the reason was that he reckoned the faithfulness of God to be safe in the keeping of His almightiness; he believed that God would keep His word, even if it was necessary for Him to effect a resurrection from the dead.",
+            "Whence and from the dead he did receive him back (used of captives delivered of hostages sent home), not in a literal resurrection indeed, but in what was an equivalent; the father\u2019s heart was as resigned, and the bitterness of the separation was as complete.",
+            "Perhaps \u2018in a figure\u2019 has a further reference to \u2018the ram\u2019 which was offered in his stead the victim of God\u2019s providing, while the son was set free; or possibly the whole transaction may be a figure of the death and resurrection of our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "God is able (\u03b4\u03c5\u03bd\u03b1\u03c4\u03b1 \u03bf \u03b8\u03b5\u03bf\u03c2). God had given him Isaac in his old age. God can raise him from the dead. It was Abraham's duty to obey God.",
+            "Because of (\u03bf\u03b8\u03b5\u03bd, whence) Abraham's superb faith Isaac was spared and so he received him back (\u03b5\u03ba\u03bf\u03bc\u03b9\u03c3\u03b1\u03c4\u03bf) as almost from the dead.",
+            "This is the test that Abraham stood of which James speaks (James 2:23)."
+        ],
+        "John Gill": [
+            "His reasoning was the reasoning of faith; and the conclusion of it was...that he was able to do it.",
+            "Abraham received his son in the similitude of a resurrection; it was as life from the dead.",
+            "The Jews speak of him as if he was just dead; they say, 'when he saw the sword over his neck, his breath fled from him, and came to the place of the soul, as if he was at the point of giving up the ghost.'"
+        ],
+        "John Wesley": [
+            "Accounting that God was able even to raise him from the dead \u2014 Though there had not been any instance of this in the world.",
+            "From whence also \u2014 To speak in a figurative way.",
+            "He did receive him \u2014 Afterwards, snatched from the jaws of death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham's extraordinary faith in God was demonstrated by his belief that God had the power to raise Isaac from the dead, even though it seemed impossible. Abraham's faith allowed him to overcome any objections or doubts that reason presented, assuring him that God would fulfill His promises. This faith was so remarkable that even James refers to it as a test. The figure of the ram, offered as a substitute for Isaac, foreshadowed the death and resurrection of Christ. Ultimately, Abraham received his son back as if he had been restored from death to new life, symbolizing the power of God's faithfulness and the belief in the resurrection of the dead.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.478455331946054,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.75,
+            "commentatorTierSimilarities": [
+                37.25,
+                36.38,
+                26.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's unwavering faith in God allowed him to trust in the power of resurrection, believing that God was capable of raising Isaac from the dead. Despite the seemingly impossible command to sacrifice his son, Abraham's faith overcame any objections from reason. The figure of the ram offered as a substitute for Isaac symbolized the death and resurrection of Christ. Abraham received his son back as if he had been brought back to life, demonstrating God's faithfulness and the belief in the resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.658134024961182,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.72,
+            "commentatorTierSimilarities": [
+                36.66,
+                36.84,
+                26.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's remarkable faith in God's power was evident when he believed that God could raise Isaac from the dead, even when faced with the command to sacrifice his son. This extraordinary faith allowed him to overcome any doubts or objections raised by reason, trusting in God's ability to fulfill His promises. The figure of the ram offered as a substitute for Isaac foreshadowed the death and resurrection of Christ. Ultimately, Abraham received his son back as if he had been restored from death to new life, exemplifying the unwavering belief in the resurrection.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.548349652841079,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.07,
+            "commentatorTierSimilarities": [
+                35.83,
+                37.76,
+                26.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's unwavering faith in God's power was exemplified by his belief that God could raise Isaac from the dead. He trusted in God's faithfulness and overlooked any objections from reason. The ram, offered in place of Isaac, symbolized Christ's death and resurrection. Abraham received his son back as if he had been restored to life, representing the belief in resurrection. This powerful demonstration of faith is referred to as a test by James, highlighting the remarkable trust Abraham had in God's ability to fulfill His promises.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.4187451050021,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                38.19,
+                35.45,
+                26.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's unwavering faith in God's power was evident when he believed that God could raise Isaac from the dead. This remarkable faith allowed him to overcome any objections from reason and trust in God's ability to fulfill His promises. The ram, offered as a substitute for Isaac, served as a figure of Christ's death and resurrection. Ultimately, Abraham received his son back as if he had been restored from death to new life, showcasing the profound belief in the resurrection. James even describes this faith as a significant test.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.3772692784541896,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.38,
+            "commentatorTierSimilarities": [
+                37.59,
+                36.28,
+                26.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:49:12",
+    "verseRef": "Hebrews 9:11",
+    "bestBHT": {
+        "bht": "Christ, as the High Priest, appeared in a greater and more perfect tabernacle that does not belong to this world. This tabernacle is not built by human hands but by the Lord Himself, and it is meant for the glorious future. Through Christ's sacrifice, not our own righteousness or any other priest's sacrifice, atonement is achieved. This new age ushers in a time of reformation, introducing a higher sanctuary, better offering, and a more radical salvation where blessings are not just prophetic or hopeful, but actually attained.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 2.476646942536373,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.69,
+        "commentatorTierSimilarities": [
+            35.2,
+            32.99,
+            31.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ...having appeared as High Priest of the good things to come...",
+            "The tabernacle here, as in ch. viii. 2, is the heavens through which Christ passed not only locally, but conditionally, being the abode of blessed spirits and just men made perfect.",
+            "That tabernacle is not built by hands of men, but by the Lord Himself...it belongs to the age of the future, to the glorified world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So not our righteousness, nor any other priest's sacrifice, but Christ alone atones.",
+            "Christ entered the heavenly holiest in His glorified body.",
+            "His body is opposed to the tabernacle, as His blood to the blood of goats."
+        ],
+        "Albert Barnes": [
+            "Now that the Messiah has come, a more perfect system is introduced by which the conscience may be made free from guilt.",
+            "The phrase 'high priest of good things to come' seems to refer to those 'good things' which belonged to the dispensation that was to come; that is, the dispensation under the Messiah.",
+            "The meaning is, that Christ officiated as high priest in a much more magnificent and perfect temple than either the tabernacle or the temple under the old dispensation."
+        ],
+        "Marvin Vincent": [
+            "The time of reformation introduces a higher sanctuary, a better offering, a more radical salvation.",
+            "Blessings not merely prophetic or objects of hope, but actually attained; free approach to God, the better covenant, personal communion with God, the purging of the conscience.",
+            "Christ appears with a greater and more perfect tabernacle."
+        ],
+        "John Calvin": [
+            "He who believes that the things then shadowed forth under the Law have been really found in Christ, will no longer cleave to the shadows, but will embrace the substance and the genuine reality.",
+            "We are led by Christ\u2019s priesthood into the celestial kingdom of God, and that we are made partakers of spiritual righteousness and of eternal life, so that it is not right to desire anything better.",
+            "But the power of God made the flesh of Christ to be a living and spiritual temple."
+        ],
+        "Philip Schaff": [
+            "That old economy was earthly, glorious indeed, but ineffectual.",
+            "The new economy has to do with another tabernacle not of this creation, with other blood, with a far completer redemption, and with the purification of the conscience and of the life.",
+            "But Christ having come, a high priest of the good things to come, by a greater and a more perfect tabernacle not made with hands, that is, not of this creation."
+        ],
+        "Archibald T. Robertson": [
+            "Christ came on the scene, and all was changed\" (Moffatt).",
+            "Christ is High Priest of good things that have already come as well as of the glorious future of hope.",
+            "This greater and more perfect tabernacle is heaven itself."
+        ],
+        "John Gill": [
+            "he is come an high priest of good things to come; such as peace, reconciliation, and atonement, a justifying righteousness, pardon of sin, eternal life and salvation",
+            "the human body of Christ, which was greater than tabernacle of Moses; not in bulk and quantity, but in value, worth, and dignity",
+            "Christ was not begotten by man, but was conceived in the womb of a virgin, under the power of the Holy Ghost; he came not into the world in the way of ordinary generation, but in a supernatural manner"
+        ],
+        "John Wesley": [
+            "An high priest of good things to come.",
+            "Entered through a greater, that is, a more noble, and perfect tabernacle - Namely, his own body.",
+            "Not of this creation \u2014 Not framed by man, as that tabernacle was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, the High Priest, has appeared in a greater and more perfect tabernacle, not built by human hands but by the Lord Himself, belonging to the age of the future. He entered the heavenly holiest in His glorified body, with His blood contrasting the blood of goats. This ushered in a time of reformation, introducing a higher sanctuary, a better offering, and a more radical salvation. Through Christ, we attain blessings that are not merely prophetic or objects of hope, but actually attained; blessings that include free approach to God, personal communion with Him, and the purging of our consciences. Christ came on the scene and changed everything, being the High Priest of good things that have already come as well as of the glorious future of hope. This greater and more perfect tabernacle is heaven itself, and it is through Christ's priesthood that we enter the celestial kingdom of God, partaking in spiritual righteousness and eternal life.",
+            "wordCount": 159,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.33755017062838,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+            "commentatorTierSimilarities": [
+                36.19,
+                31.21,
+                32.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, as the High Priest, appeared in a greater and more perfect tabernacle that does not belong to this world. This tabernacle is not built by human hands but by the Lord Himself, and it is meant for the glorious future. Through Christ's sacrifice, not our own righteousness or any other priest's sacrifice, atonement is achieved. This new age ushers in a time of reformation, introducing a higher sanctuary, better offering, and a more radical salvation where blessings are not just prophetic or hopeful, but actually attained.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.476646942536373,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.69,
+            "commentatorTierSimilarities": [
+                35.2,
+                32.99,
+                31.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, the High Priest, has appeared in a greater and more perfect tabernacle, not built by human hands but by the Lord Himself. This tabernacle belongs to the age of the future, to the glorified world. Through Christ alone, not our righteousness or any other priest's sacrifice, atonement is achieved. In this time of reformation, we experience blessings that are not just prophetic or hopeful, but actually attained - free approach to God, a better covenant, personal communion, and purging of the conscience. Christ brings a higher sanctuary, a better offering, and a more radical salvation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.365767904231955,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.0,
+            "commentatorTierSimilarities": [
+                36.36,
+                32.3,
+                31.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, the High Priest, appeared in a greater and more perfect tabernacle, not built by human hands but by the Lord Himself, belonging to the future. Through Christ alone, atonement is achieved. This new age brings a time of reformation, introducing a higher sanctuary, a better offering, and a more radical salvation. It brings blessings that are not just prophetic or hopeful, but actually attained - free approach to God, a better covenant, personal communion, and purging of the conscience. Christ ushers in a greater and more perfect tabernacle, heaven itself.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.363516987435765,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.93,
+            "commentatorTierSimilarities": [
+                37.01,
+                31.67,
+                31.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, as High Priest, has appeared in a greater and more perfect tabernacle, not built by human hands but by the Lord Himself. This tabernacle belongs to the future and signifies the age of the glorified world. His sacrifice surpasses the atonement achieved by our own righteousness or any other priest's sacrifice. In this time of reformation, we experience blessings that are not just prophetic or hopeful, but actually attained through Christ, such as a free approach to God, a better covenant, personal communion, and the purging of our consciences.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.3705611620907385,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+            "commentatorTierSimilarities": [
+                35.25,
+                32.63,
+                32.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

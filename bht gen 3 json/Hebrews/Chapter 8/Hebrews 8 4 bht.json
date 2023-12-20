@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:41",
+    "verseRef": "Hebrews 8:4",
+    "bestBHT": {
+        "bht": "If His priesthood terminated on the earth, He would not even be called a priest. Christ's priestly office is exercised in the heavenly sanctuary, not on earth. His priesthood is not rooted in His earthly life, but in the power of His resurrection. Since Jesus was not of the tribe of Levi, He could not serve as a priest on earth. Therefore, Christ's priesthood operates on a heavenly level, separate from the Levitical priests who offered gifts according to the law.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.2479367199509066,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+        "commentatorTierSimilarities": [
+            37.11,
+            23.69,
+            39.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He would not even belong to the category of priests.",
+            "The things in heaven, in the heavenly sanctuary.",
+            "The pattern...was shewn...in the mount."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Implying that Christ's priestly office is exercised in heaven, not in earth; in the power of His resurrection life, not of His earthly life.",
+            "if He were on earth, He would not even be a priest",
+            "If His priesthood terminated on the earth, He would not even be a priest at all"
+        ],
+        "Albert Barnes": [
+            "He could not perform that office.",
+            "The reason was, that on earth there were those who were set apart to that office.",
+            "There was an order of people here on earth consecrated already to that office."
+        ],
+        "Marvin Vincent": [
+            "Christ could not be a priest on earth.",
+            "there are those who offer the gifts according to the law.",
+            "he could have nothing in common with them."
+        ],
+        "John Calvin": [
+            "We must always hold this truth that when the Apostle speaks of the death of Christ, he regards not the external action, but the spiritual benefit.",
+            "He suffered death as men do, but as a priest he atoned for the sins of the world in a divine manner; there was an external shedding of blood, but there was also an internal and spiritual purgation.",
+            "For he intends to show one of these two things, either that Christ is no priest, while the priesthood of the Law continued, as he had no sacrifice, or that the sacrifices of the law ceased as soon as Christ appeared."
+        ],
+        "Archibald T. Robertson": [
+            "Not even would he be a priest.",
+            "Jesus was not of the tribe of Levi and so could not serve here.",
+            "On earth...as opposed to \u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03bf\u03c5\u03c1\u03b1\u03bd\u03bf\u03b9\u03c2."
+        ],
+        "John Gill": [
+            "His coming into the world, and his appearance in human nature, was in the character of a priest, and to qualify himself for one.",
+            "If his human nature had been earthly, had been of men, had come by ordinary generation, he had not been properly, only typically a priest, at most; and had been no better than the typical ones.",
+            "The Levitical priesthood was in force while Christ was on earth; Christ's priesthood was not perfected on earth; the Levitical priesthood remaining while he was on earth, proves he was not then a perfect priest, or had not completed his priesthood."
+        ],
+        "John Wesley": [
+            "If his priesthood terminated here.",
+            "He could not be a priest.",
+            "There being other priests."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If Christ's priestly office terminated on the earth, He would not even be considered a priest at all. His priesthood is exercised in heaven, in the heavenly sanctuary. His priestly role is not rooted in His earthly life, but in the power of His resurrection life. Since Jesus was not of the tribe of Levi, He could not serve as a priest on earth. The Levitical priests, who offered gifts according to the law, would have nothing in common with Him. Therefore, it is clear that Christ's priesthood is not dependent on earthly circumstances, but rather it operates on a heavenly level, distinct from the priesthood on earth.",
+            "wordCount": 110,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 2.1561500551483865,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                38.16,
+                21.54,
+                40.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If His priesthood terminated on the earth, He would not even be a priest at all. Christ's priestly office is exercised in heaven, in the heavenly sanctuary. His priestly role is not rooted in His earthly life, but in the power of His resurrection life. Since Jesus was not of the tribe of Levi, He could not serve as a priest on earth. The Levitical priests, who offered gifts according to the law, would have nothing in common with Him. Therefore, Christ's priesthood is not dependent on earthly circumstances, but operates on a heavenly level distinct from the priesthood on earth.",
+            "wordCount": 103,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.159576999366425,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                38.8,
+                21.45,
+                39.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If Christ's priesthood terminated on the earth, He would not even be a priest at all. His priesthood is exercised in the heavenly sanctuary, not on earth. His priestly role is not rooted in His earthly life, but in the power of His resurrection life. Jesus, not being of the tribe of Levi, could not serve as a priest on earth. The Levitical priests, offering gifts according to the law, would have nothing in common with Him. Christ's priesthood operates on a heavenly level, distinct from the priesthood on earth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.169937886359255,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                39.64,
+                19.61,
+                40.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If Christ's priesthood terminated on the earth, He would not even be a priest at all. His priestly office is exercised in the heavenly sanctuary, not on earth. His priesthood is not rooted in His earthly life, but in the power of His resurrection life. Since Jesus was not of the tribe of Levi, He could not serve as a priest on earth. The Levitical priests, who offered gifts according to the law, would have nothing in common with Him. Therefore, Christ's priesthood operates on a heavenly level, distinct from the priesthood on earth.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.229681573352537,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.48,
+            "commentatorTierSimilarities": [
+                37.37,
+                23.79,
+                38.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If His priesthood terminated on the earth, He would not even be called a priest. Christ's priestly office is exercised in the heavenly sanctuary, not on earth. His priesthood is not rooted in His earthly life, but in the power of His resurrection. Since Jesus was not of the tribe of Levi, He could not serve as a priest on earth. Therefore, Christ's priesthood operates on a heavenly level, separate from the Levitical priests who offered gifts according to the law.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.2479367199509066,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                37.11,
+                23.69,
+                39.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

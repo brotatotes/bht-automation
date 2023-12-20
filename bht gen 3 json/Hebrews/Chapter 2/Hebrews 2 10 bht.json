@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:47:08",
+    "verseRef": "Hebrews 2:10",
+    "bestBHT": {
+        "bht": "It was fitting for God to bring many sons to glory as the scheme of redemption harmonizes perfectly with His attributes of justice, goodness, and wisdom. Through the voluntary humiliation of Christ, being made a little lower than the angels, God perfected His Son in His human life and death for His task as Redeemer and Saviour. This process of perfecting Jesus corresponds to Him being crowned with glory and honor, and He became a complete and perfect Saviour through His sufferings.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.3846655194280495,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+        "commentatorTierSimilarities": [
+            33.11,
+            35.51,
+            31.37
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "it was altogether correspondent to and worthy of His Being and His Wisdom and His Love",
+            "the nearest representation of it is, as in the text, perhaps\u2014 \u2018it became Him.... bringing, as He did, many sons to glory",
+            "it answers to the 'crowning with glory and honour' of ver. 9: and to the 'glorifying' of St. John: and fits exactly the requirements of the other passages in our Epistle where our Lord is spoken of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This scheme of redemption was altogether such a one as harmonizes with",
+            "the love, justice, and wisdom of God.",
+            "Bringing to the end of troubles, and to the goal full of glory: a metaphor from the contests in the public games.",
+            "He who suffers for another, not only benefits him, but becomes himself the brighter and more perfect."
+        ],
+        "Albert Barnes": [
+            "It was fit, in the nature of the case, that he should be qualified to be 'a complete' or 'perfect Saviour' - a Saviour just adapted to the purpose undertaken, by sufferings.",
+            "The period is to arrive when the gospel shall spread over all lands, and during that long period of the millennium, innumerable millions will be brought under its saving power, and be admitted to heaven.",
+            "By his sufferings he was made 'wholly suited' to be a Saviour of people; and that, therefore, the fact of his being a suffering man was no evidence, as a Jew might have urged, that he was not the Son of God."
+        ],
+        "Marvin Vincent": [
+            "The whole course of nature and grace must find its explanation in God; and not merely in an abstract divine arbitrum, but in that which befits the divine nature.",
+            "For whom, that is, for whose sake all things exist. God is the final cause of all things.",
+            "The perfecting of Jesus corresponds to his being 'crowned with glory and honor,' although it is not a mere synonym for that phrase; for the writer conceives the perfecting not as an act but as a process."
+        ],
+        "John Calvin": [
+            "We must therefore take heed, lest Christ should be less esteemed, because he willingly humbled himself for us; and this is what is here spoken of.",
+            "It is indeed a singular consolation, calculated to mitigate the bitterness of the cross, when the faithful hear, that by sorrows and tribulations they are sanctified for glory as Christ himself was; and hence they see a sufficient reason why they should lovingly kiss the cross rather than dread it.",
+            "Who can despise what is sacred, nay, what God sanctifies? Who can deem that ignominious, by which we are prepared for glory? And yet both these things are said here of the death of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The voluntary humiliation or incarnation of Christ the Son a little lower than the angels was a seemly thing to God the Father.\" ",
+            "The universe comes out of God, by means of God, for God.",
+            "By means of sufferings, God perfected his Son in his human life and death for his task as Redeemer and Saviour."
+        ],
+        "John Gill": [
+            "For it became him, for whom are all things... and he is the efficient cause of all things",
+            "in bringing many sons to glory... the heavenly glory, which they are undeserving of... is weighty, solid, durable, yea, eternal",
+            "Christ is... the author of [salvation]... and he is made 'perfect through sufferings'; he suffered all that the law and justice of God could require; and hereby he became perfectly acquainted with the sufferings of his people, and a perfect Saviour of them"
+        ],
+        "John Wesley": [
+            "It became him \u2014 It was suitable to all his attributes, both to his justice, goodness, and wisdom.",
+            "To perfect the captain - Prince, leader, and author of their salvation, by his atoning sufferings for them.",
+            "A fuller consideration of both these points he interweaves with the following discourse on his priesthood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was altogether worthy of God's Being, Wisdom, and Love to bring many sons to glory. The scheme of redemption perfectly harmonizes with His justice, love, and wisdom. The voluntary humiliation of Christ, being made a little lower than the angels, was fitting to the Father. Through His sufferings, God perfected His Son for His role as Redeemer and Saviour. The process of perfecting Jesus corresponds to crowning Him with glory and honor, and He became a complete and perfect Saviour through His sufferings. We must take heed not to esteem Christ less due to His willing humility for us. It is a consolation for the faithful to know that through sorrows and tribulations, they are sanctified for glory just as Christ was.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 2.0739247533793153,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                32.4,
+                32.77,
+                34.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It was altogether worthy of God to bring many sons to glory. The scheme of redemption harmonizes with His justice, love, and wisdom. The voluntary humiliation of Christ was fitting to the Father, and through His sufferings, God perfected His Son as Redeemer and Saviour. The process of perfecting Jesus corresponds to crowning Him with glory and honor. We must take heed not to esteem Christ less due to His willing humility for us. It is a consolation for the faithful to know that through sorrows, they are sanctified for glory as Christ was.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.035930625649855,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                33.62,
+                30.88,
+                35.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It was altogether worthy of God to bring many sons to glory, as the scheme of redemption harmonizes with His justice, love, and wisdom. The voluntary humiliation of Christ, becoming a little lower than the angels, was fitting to the Father, who perfected His Son through sufferings. This process of perfecting corresponds to crowning Jesus with glory and honor. We must take heed not to esteem Christ less because of His willing humility. Through sorrows and tribulations, the faithful are sanctified for glory, just as Christ was.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.994968344125272,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                32.72,
+                31.85,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It was fitting for God to bring many sons to glory, as the scheme of redemption corresponds perfectly to His attributes of justice, goodness, and wisdom. The voluntary humiliation of Christ, becoming a little lower than the angels, was befitting to the Father. Through His sufferings, God perfected His Son as Redeemer and Saviour, making Him fully acquainted with the sufferings of His people. This process of perfecting Jesus aligns with crowning Him with glory and honor, as He became a complete and perfect Saviour through His sufferings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.283294103587679,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.26,
+            "commentatorTierSimilarities": [
+                31.58,
+                36.45,
+                31.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It was fitting for God to bring many sons to glory as the scheme of redemption harmonizes perfectly with His attributes of justice, goodness, and wisdom. Through the voluntary humiliation of Christ, being made a little lower than the angels, God perfected His Son in His human life and death for His task as Redeemer and Saviour. This process of perfecting Jesus corresponds to Him being crowned with glory and honor, and He became a complete and perfect Saviour through His sufferings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3846655194280495,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+            "commentatorTierSimilarities": [
+                33.11,
+                35.51,
+                31.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

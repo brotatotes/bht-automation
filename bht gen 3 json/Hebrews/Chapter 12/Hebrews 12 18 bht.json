@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:51:14",
+    "verseRef": "Hebrews 12:18",
+    "bestBHT": {
+        "bht": "The Hebrew Christians are reminded that they have not approached the tangible Mount Sinai like their ancestors did, but rather, they draw near to the spiritual mount in the spirit. Mount Sinai represented the fear and awe associated with the law, as opposed to the grace and love of God in the Gospel. The Hebrew Christians are called to diligently respond to the higher privileges of the Gospel, leaving behind the material mountain and embracing the spiritual connection with God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 2.0113823864174782,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+        "commentatorTierSimilarities": [
+            23.12,
+            41.56,
+            35.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye have not drawn near to that which was being touched.\" ",
+            "Mount Sinai was a material mountain, which not only might be touched,\u2014but was being touched, would have been touched by the people had it not been forbidden.",
+            "To blackness, and darkness, and tempest."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fact that we are not under the law, but under a higher, and that the last dispensation, the Gospel, with its glorious privileges, is the reason why especially the Hebrew Christians should 'look diligently', c.",
+            "In your coming near unto God, it has not been to [the mount].",
+            "The Hebrews drew near to the material Mount Sinai with material bodies; we, to the spiritual mount in the spirit."
+        ],
+        "Albert Barnes": [
+            "Under the Jewish dispensation, everything was adapted to awe the mind, and to restrain by the exhibition of grandeur and power; but under the Christian dispensation, there was much more that was adapted to win and hold the affections.",
+            "The apostle does not mean that it was permitted to the Israelites to touch Mount Sinai - for this was strictly forbidden, Exodus 19:12; but he evidently alludes to that prohibition, and means to say that a command forbidding them to 'touch' the mountain, implied that it was a material or palpable object.",
+            "The 'Mount Zion' to which the church now has come, is of a different character. It is not thus visible and palpable. It is not enveloped in smoke and flame, and the thunders of the Almighty do not roll and re-echo among its lofty peaks as at Horeb; yet it presents 'stronger' motives to perseverance in the service of God."
+        ],
+        "Marvin Vincent": [
+            "The mount that might be touched and that burned with fire... a touch which communicates only a superficial effect. It need not imply contact with an object at all, but simply the movement of the hands feeling after something. Hence often of the groping of the blind.",
+            "Blackness, darkness, tempest... signify half - darkness, gloom, nebulousness; as the darkness of evening or the gathering gloom of death.",
+            "Quella N. T. o, from quein to boil or foam. It is a brief, violent, sudden, destructive blast, sometimes working upward and carrying objects into the upper air... Sometimes it indicates the mere force of the wind."
+        ],
+        "John Calvin": [
+            "He fights now with a new argument, for he proclaims the greatness of the grace made known by the Gospel, that we may reverently receive it...",
+            "When considered in themselves they were magnificent and truly celestial; but when we come to the kingdom of Christ, the things which God exhibits to us are far above all the heavens.",
+            "The Hebrews came in the body to a material mountain, but we in spirit to that which is spiritual."
+        ],
+        "Archibald T. Robertson": [
+            "Ye are not come...There is no word here in the Greek for 'a mount'...but it is clearly understood.\" ",
+            "That might be touched...to handle, to touch.\" ",
+            "That burned with fire...unless the other view (above) is correct."
+        ],
+        "John Gill": [
+            "For ye are not come unto the mount that might be touched.\" ",
+            "It was an earthly mountain, that might be approached to, and be seen and felt, and not of a spiritual nature.\" ",
+            "The horror of the legal dispensation, and the obscurity of it; little being known by the Jews of the spirituality of the law, of the strict justice of God, and of the righteousness which the law requires."
+        ],
+        "John Wesley": [
+            "A strong reason this why they ought the more to regard the whole exhortation drawn from the priesthood of Christ: because both salvation and vengeance are now nearer at hand.",
+            "Ye are not come to the mountain that could be touched \u2014 That was of an earthy, material nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 12:18, the writer emphasizes that the Hebrew Christians have not approached the physical mount, Sinai, as their ancestors did. This mount was tangible and would have been touched by the people if it had not been forbidden. The author contrasts this with the spiritual mount that the believers now draw near to in the Gospel. Mount Sinai, with its blackness, darkness, and tempest, symbolized the fear and awe associated with the law. However, in the Christian dispensation, the focus is on the grace and love of God, which calls for a diligent response from the Hebrew Christians. By coming near to this spiritual mount, they experience a deep connection with God in the realm of the spirit.",
+            "wordCount": 118,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.874856900440684,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "commentatorTierSimilarities": [
+                25.91,
+                40.68,
+                33.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Hebrew Christians are reminded that they have not approached the tangible Mount Sinai like their ancestors did, but rather, they draw near to the spiritual mount in the spirit. Mount Sinai represented the fear and awe associated with the law, as opposed to the grace and love of God in the Gospel. The Hebrew Christians are called to diligently respond to the higher privileges of the Gospel, leaving behind the material mountain and embracing the spiritual connection with God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.0113823864174782,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                23.12,
+                41.56,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Hebrew Christians draw near to the spiritual mount in the spirit, whereas their ancestors approached the material Mount Sinai that could be touched. Mount Sinai was a symbol of fear and awe associated with the law, characterized by blackness, darkness, and tempest. However, in the Christian dispensation, the focus is on the grace and love of God in the Gospel. By leaving behind the physical mountain, the Hebrew Christians are called to diligently respond to the higher privileges of the spiritual mount.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9393628637304143,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                25.12,
+                40.35,
+                34.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Hebrew Christians, unlike their ancestors, draw near to the spiritual mount in the spirit rather than the material Mount Sinai. The tangible mountain would have been touched by the people had it not been forbidden. Mount Sinai represented the fear and awe associated with the law, with its blackness, darkness, and tempest. However, in the Christian dispensation, the focus is on the grace and love of God in the Gospel, calling for a diligent response from the Hebrew Christians. They are urged to leave behind the physical mountain and embrace the spiritual connection with God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8903408843488276,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                26.59,
+                38.74,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Hebrew Christians draw near to the spiritual mount in the spirit while their ancestors approached the material Mount Sinai which could be touched. Mount Sinai represented the fear and awe associated with the law, characterized by blackness, darkness, and tempest. However, in the Christian dispensation, the focus is on the grace and love of God in the Gospel. The Hebrew Christians are called to diligently respond to the higher privileges of the spiritual mount, leaving behind the physical mountain.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.914700126601487,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                25.67,
+                40.02,
+                34.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

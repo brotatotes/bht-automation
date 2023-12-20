@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:50:13",
+    "verseRef": "Hebrews 11:27",
+    "bestBHT": {
+        "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, for he endured as seeing the invisible One. He did not fear the king to the point of neglecting his duty and not returning when God called him. This act of faith involved seeing God as if he were tangible, with undying loyalty and commitment. Just as Moses trusted in God's command, so faith calls us to set our gaze on God, to perceive the unseen and find strength to withstand the assaults of the enemy.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.4421683311729265,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.54,
+        "commentatorTierSimilarities": [
+            30.4,
+            36.9,
+            32.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith he left Egypt, not fearing the wrath of the king... for he endured, as seeing the invisible One.\" ",
+            "It may be that the truth is, that though the fact of his flight was the effect of his fear, the same flight itself, the dereliction of Egypt and reserving himself for farther action, showed that that fear did not possess nor bear him away.\" ",
+            "Had it stood 'fearing,' instead of not fearing, the whole would have been plain enough: 'when he feared the anger of the king'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He did not fear the king so as to neglect his duty and not return when God called him.",
+            "The faith of this act, according to the express statement here.",
+            "Seeing him...invisible\u2014as though he had not to do with men, but only with God, ever before his eyes by faith."
+        ],
+        "Albert Barnes": [
+            "By faith he forsook Egypt... That the latter is the time referred to is evident from the fact that it is said that he did 'not fear the wrath of the king.'",
+            "He went forth, indeed, at the head of his people when all the power of the king was excited to destroy them, but he went confiding in God: and this is the faith referred to here.",
+            "As seeing him who is invisible - 'As if' he saw God. He had no more doubt that God had called him to this work, and that he would sustain him, than if he saw him with his physical eyes. This is a most accurate account of the nature of faith."
+        ],
+        "John Calvin": [
+            "He saw a most powerful king in a furious rage, and he knew that he would not cease till he had tried his utmost. But as he knew that God had commanded him to depart, he committed the event to him, nor did he doubt but that he would in due time restrain all the assaults of the Egyptians.",
+            "God at that time only showed him a certain symbol of his presence; but he was far from seeing God as he is. Now, the Apostle means, that Moses so endured, as though he was taken up to heaven, and had God only before his eyes; and as though he had nothing to do with men, was not exposed to the perils of this world and had no contests with Pharaoh.",
+            "We hence learn, that the true character of faith is to set God always before our eyes; secondly, that faith beholds higher and more hidden things in God than what our senses can perceive; and thirdly, that a view of God alone is sufficient to strengthen our weakness, so that we may become firmer than rocks to withstand all the assaults of Satan."
+        ],
+        "Archibald T. Robertson": [
+            "Not fearing...Moses did flee from Egypt after slaying the Egyptian, but the author omits that slaughter and ignores it as the dominant motive in the flight of Moses.\" ",
+            "He endured...Moses had made his choice before slaying the Egyptian. He stuck to its resolutely.\" ",
+            "This is the secret of his choice and of his loyalty to God and to God's people. This is the secret of loyalty in any minister today who is the interpreter of God to man."
+        ],
+        "John Gill": [
+            "His fleeing was consistent with courage, and was a point of prudence, and in obedience to the will of God.",
+            "He endured affliction and meanness in Midian, and waited patiently till God should call him again to service.",
+            "He expected divine help, and persevered; and so do such, who are called by the grace of God."
+        ],
+        "John Wesley": [
+            "By faith he left Egypt \u2014 Taking all the Israelites with him. Not then fearing the wrath of the king - As he did many years before, Exodus 2:14. Exodus 14:15, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, for he endured as seeing the invisible One. Though his flight from Egypt could be seen as an act of fear, it was actually a demonstration that fear did not control him. He did not fear the king to the point of neglecting his duty to return when God called him. This act of faith involved seeing God as if he were tangible, with undying loyalty and commitment. Just as Moses trusted in God's command, so faith calls us to set our gaze on God, to perceive the unseen and find strength to withstand the assaults of the enemy.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.4149632219488466,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.64,
+            "commentatorTierSimilarities": [
+                31.65,
+                36.87,
+                31.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, for he endured as seeing the invisible One. He did not fear the king to the point of neglecting his duty and not returning when God called him. This act of faith involved seeing God as if he were tangible, with undying loyalty and commitment. Just as Moses trusted in God's command, so faith calls us to set our gaze on God, to perceive the unseen and find strength to withstand the assaults of the enemy.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.4421683311729265,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.54,
+            "commentatorTierSimilarities": [
+                30.4,
+                36.9,
+                32.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, as he endured with the invisible One in sight. Though his flight from Egypt might have been driven by fear, it also demonstrated his refusal to be controlled by it. Moses did not fear the king to the point of neglecting his duty and not returning when called by God. This act of faith involved a steadfast loyalty and commitment, fixated on God alone, reminding us of the importance of keeping God before our eyes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.377717228216802,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.4,
+            "commentatorTierSimilarities": [
+                32.76,
+                35.33,
+                31.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, for he endured as seeing the invisible One. His flight from Egypt revealed that, although fear influenced his actions, it did not overpower him. Moses did not fear the king so much that he neglected his duty or failed to return when God called him. This act of faith centered on keeping God constantly in view, as though Moses had no concerns with earthly matters, but only with God Himself. Such faith empowers us to remain unwavering in the face of adversity.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.300337155538984,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+            "commentatorTierSimilarities": [
+                32.01,
+                36.68,
+                31.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Moses left Egypt, not fearing the wrath of the king, for he endured as seeing the invisible One. Despite the external appearance of fear driving his flight from Egypt, Moses' departure was actually a result of his commitment to God and his people. This act of faith involved a resolute choice and unwavering loyalty to God. Like Moses, ministers today who faithfully interpret God's word demonstrate loyalty by keeping God ever before their eyes, guided by faith in the invisible.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.313925977607423,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+            "commentatorTierSimilarities": [
+                30.86,
+                35.93,
+                33.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:49:16",
+    "verseRef": "Hebrews 10:4",
+    "bestBHT": {
+        "bht": "The blood of bulls and goats in the Old Testament sacrifices could not take away sin as they lacked the power for complete vicarious propitiation. These sacrifices were only exhibitions and reminders of the need for a true Propitiation, pointing to the hope of coming redemption promised by God. The blood of animals did not possess the efficacy to cleanse souls or weigh against the guilt of a nation, but what these creatures could not do, the blood of Christ has done by completely removing sin from the sight of justice and the consciences of believers.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.457347933681726,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.05,
+        "commentatorTierSimilarities": [
+            30.88,
+            33.16,
+            35.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For it is impossible that the blood of bulls and of goats should take away sin.",
+            "The Writer by no means denies the typical virtue of the Old Test. sacrifices, but asserts that which the schoolmen explained... by means of something not inherent in them, viz. the grace of the true Propitiation which was to come, and of faith directed to it.",
+            "It was shed, as Ebrard well observes, not as the instrument of complete vicarious propitiation, but as an exhibition of the postulate of vicarious propitiation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The blood of bulls...sacrificed, had power but it was only in virtue of the power of the one real antitypical sacrifice of Christ; they had no power in themselves; they were not the instrument of perfect vicarious atonement, but an exhibition of the need of it, suggesting to the faithful Israelite the sure hope of coming redemption, according to God's promise.",
+            "The blood of beasts could not take away the sin of man. A MAN must do that.",
+            "The Greek, 'take away utterly.' The blood of beasts could not take away the sin of man."
+        ],
+        "Albert Barnes": [
+            "It was not possible that the blood of these animals should make a complete expiation so as to purify the conscience, and so as to save the sinner from deserved wrath.",
+            "There was no efficacy in the blood of a mere animal to wash away a 'moral' offence. It could not repair the Law; it could not do anything to maintain the justice of God; it had no efficacy to make the heart pure.",
+            "The mere shedding of the blood of an animal never could make the soul pure."
+        ],
+        "John Calvin": [
+            "The blood of beasts could not cleanse souls from sin.",
+            "The blood of the calf represented the blood of Christ.",
+            "It is not then right to measure the offering which he has made by the former sacrifices."
+        ],
+        "Philip Schaff": [
+            "The fact is, that the blood of the bullock or of the goat could not weigh against the guilt of a nation, or even of a single worshipper.\" ",
+            "It could only sanctify to the purifying of the flesh, restoring the sinner to living membership with the literal Israel.\" ",
+            "The annual sacrifice was only a shadow and prophecy of another sacrifice, in which the Divine will was to be perfectly accomplished."
+        ],
+        "Archibald T. Robertson": [
+            "Should take away (\u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd). Present active infinitive of \u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03c9. Old verb and common in N.T., only here and Romans 11:27 with \"sins\". Cf. Hebrews 9:9. "
+        ],
+        "John Gill": [
+            "sin is committed against God, and has an objective infiniteness in it, and therefore can never be atoned for by the blood of such creatures...",
+            "it leaves a stain on the mind and conscience, which this blood cannot reach...",
+            "what the blood of these creatures could not do, the blood of Christ has done, and does: that takes away sin from the sight of justice, and from the consciences of the saints."
+        ],
+        "John Wesley": [
+            "It is impossible the blood of goats should take away sins \u2014 Either the guilt or the power of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The writer of Hebrews explains that the blood of bulls and goats in the Old Testament sacrifices had no inherent power to take away sin. Instead, they served as a temporary exhibition and reminder of the need for a true Propitiation to come. These animal sacrifices were not the instrument of perfect atonement but pointed to the future redemption promised by God. It was impossible for the blood of these creatures to cleanse souls from sin as they did not possess the necessary efficacy. Only a Man could accomplish that, and that Man is none other than Christ. His sacrificial blood has the power to completely remove sin, both in the sight of justice and in the consciences of believers.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 2.1741818956556904,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.63,
+            "commentatorTierSimilarities": [
+                32.18,
+                32.62,
+                35.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The blood of bulls and goats in the Old Testament sacrifices were unable to take away sin as they lacked the inherent power for complete vicarious propitiation. These sacrifices served as a visual representation of the need for true redemption, pointing to the hope of coming salvation. Only a Man, Jesus Christ, could effectively remove sin. The blood of animals could not cleanse souls or weigh against the guilt of a nation, but Christ's sacrificial blood has the power to remove sin from the sight of justice and the consciences of believers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.3203255806344787,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                31.42,
+                32.71,
+                35.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blood of bulls and goats in the Old Testament sacrifices could not take away sin as they lacked the power for complete vicarious propitiation. These sacrifices were only exhibitions and reminders of the need for a true Propitiation, pointing to the hope of coming redemption promised by God. The blood of animals did not possess the efficacy to cleanse souls or weigh against the guilt of a nation, but what these creatures could not do, the blood of Christ has done by completely removing sin from the sight of justice and the consciences of believers.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.457347933681726,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.05,
+            "commentatorTierSimilarities": [
+                30.88,
+                33.16,
+                35.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blood of bulls and goats in the Old Testament sacrifices lacked the power for complete vicarious propitiation, and it was impossible for them to take away sin. These sacrifices were merely exhibitions of the need for a true Propitiation, pointing to the hope of coming redemption promised by God. The blood of animals did not possess the efficacy to cleanse souls or weigh against the guilt of a nation. Only the blood of Christ, a Man, has the power to remove sin from the sight of justice and the consciences of believers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.370332013710999,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.15,
+            "commentatorTierSimilarities": [
+                29.01,
+                33.53,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blood of bulls and goats in the Old Test. sacrifices had no inherent power to take away sin, serving only as temporary exhibitions of the need for a true propitiation. These animal sacrifices were not instruments of perfect vicarious atonement, but rather pointed to the future redemption promised by God. It was impossible for the blood of these creatures to cleanse souls from sin. Only a Man, Jesus Christ, could accomplish that with His sacrificial blood, removing sin from both justice and the consciences of believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3461173433389932,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.35,
+            "commentatorTierSimilarities": [
+                31.18,
+                32.1,
+                36.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

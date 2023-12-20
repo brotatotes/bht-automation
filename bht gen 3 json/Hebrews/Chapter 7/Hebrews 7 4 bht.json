@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:48:18",
+    "verseRef": "Hebrews 7:4",
+    "bestBHT": {
+        "bht": "Consider the personal excellence and dignity of Melchizedek, to whom even Abraham, the esteemed patriarch and head of our Jewish nation, paid tithes out of the topmost and best portion of the spoils. This act of Abraham acknowledges the superiority and exceptional dignity of Melchizedek, emulating the honor that God bestowed upon him. The magnitude of Melchizedek's greatness is further emphasized by the fact that Abraham, being himself a patriarch, recognized his superiority and offer of tithes. Truly, if Abraham acknowledged the surpassing dignity of Melchizedek, then how much greater must Christ, the antitype of Melchizedek, be?",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.727282658184407,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.02,
+        "commentatorTierSimilarities": [
+            23.15,
+            41.8,
+            35.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But observe how great (of what dignity and personal excellence) this man [was] (let it be noticed that the argument still puts forward the personal dignity of Melchisedec, in a way quite inconsistent with the commonly received interpretation of the predicates above).",
+            "to whom Abraham paid tithes also (went so far as to pay tithes), from the best [of the spoil] (literally, that which comes from the top of an heap, and so the firstfruits.",
+            "And in consequence, some have pressed here the proper meaning, and understood, that Abraham gave to Melchisedec the tenth of that portion of the spoil which was already set apart for God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Consider\u2014not merely see, but weigh with attentive contemplation, the fact.",
+            "He paid 'tithes of ALL,' and those tithes were taken out of the topmost and best portion of the whole spoils.",
+            "And this payer of tithe being no less a personage than 'the patriarch,' the first forefather and head of our Jewish race and nation."
+        ],
+        "Albert Barnes": [
+            "The object of the apostle was to exalt the rank and dignity of Melchizedek.",
+            "Abraham, according to the views of the East, the illustrious ancestor of the Jewish nation, was regarded as superior to any of his posterity.",
+            "The argument here is, that Abraham acknowledged the superiority of Melchizedek by thus devoting the usual part of the spoils of war, or of what was possessed, to God by his hands, as the priest of the Most High."
+        ],
+        "Marvin Vincent": [
+            "Consider [\u03b8\u03b5\u03c9\u03c1\u03b5\u03b9\u03c4\u03b5] . Only here in Hebrews and o P. Except this passage, confined to the Synoptic Gospels, Acts, and Johannine writings.",
+            "How great [\u03c0\u03b7\u03bb\u03b9\u03ba\u03bf\u03c2] . Only here and Galatians 6:11.",
+            "The tenth [\u03b4\u03b5\u03ba\u03b1\u03c4\u03b7\u03bd] . Properly an adjective, but used as a noun for tithe. Only in Hebrews, as is the kindred verb dekatoun to impose or take tithes."
+        ],
+        "John Calvin": [
+            "The only reason now alleged is, that as the people offered the tithes as a sacred tribute to God, the Levites only received them. It hence appears that it was no small honor that God in a manner substituted them for himself.",
+            "Then Abraham, being one of the chief sergeants of God and a prophet, having offered tithes to Melchisedec the priest, thereby confessed that Melchisedec excelled him in dignity.",
+            "If, then, the patriarch Abraham owned him more honourable than himself, his dignity must have been singular and extraordinary."
+        ],
+        "Philip Schaff": [
+            "Now consider how great this man was, to whom even Abraham the patriarch gave the tenth out of the best of the spoils.\" (Hebrews 7:4)"
+        ],
+        "Archibald T. Robertson": [
+            "How great (\u03c0\u03b7\u03bb\u03b9\u03ba\u03bf\u03c2). Geometrical magnitude in contrast to arithmetical (\u03c0\u03bf\u03c3\u03bf\u03c2), here only in N.T., 'how distinguished.'\" ",
+            "Out of the chief spoils (\u03b5\u03ba \u03c4\u03c9\u03bd \u03b1\u03ba\u03c1\u03bf\u03b8\u03b9\u03bd\u03b9\u03c9\u03bd). Old word from \u03b1\u03ba\u03c1\u03bf\u03c2, top, and \u03b8\u03b9\u03c2, a heap (the top of the pile).",
+            "Patriarch (\u03c0\u03b1\u03c4\u03c1\u03b9\u03b1\u03c1\u03c7\u03b7\u03c2). LXX word (\u03c0\u03b1\u03c4\u03c1\u03b9\u03b1, tribe, \u03b1\u03c1\u03c7\u03c9, to rule) transferred to N.T. (Acts 2:29)."
+        ],
+        "John Gill": [
+            "Melchizedek's greatness is aggravated, not only from this act of Abraham's, but from Abraham's being a 'patriarch', who did it.",
+            "He was the patriarch of patriarchs, as the sons of Jacob are called.",
+            "How great then must Melchizedek be, to whom he paid tithes? and how much greater must Christ, the antitype of Melchizedek, be?"
+        ],
+        "John Wesley": [
+            "The greatness of Melchisedec is described in all the preceding and following particulars.",
+            "The most manifest proof of it was, that Abraham gave him tithes as to a priest of God and a superior.",
+            "Though he was himself a patriarch, greater than a king, and a progenitor of many kings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Consider the greatness and personal excellence of Melchizedek, to whom even Abraham, the esteemed patriarch and head of our Jewish nation, paid tithes out of the topmost and best portion of the spoils. This act of Abraham acknowledges the superiority and exceptional dignity of Melchizedek, emulating the honor that God bestowed upon him as seen in the sacred tribute of tithes. The magnitude of Melchizedek's greatness is further emphasized by the fact that Abraham, being himself a patriarch of patriarchs, recognized his superiority and offer of tithes. Truly, if Abraham acknowledged the surpassing dignity of Melchizedek, then how much greater must Christ, the antitype of Melchizedek, be?",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.7552186405236707,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.95,
+            "commentatorTierSimilarities": [
+                23.53,
+                41.26,
+                35.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Consider the personal excellence and dignity of Melchizedek, to whom even Abraham, the patriarch and head of our Jewish nation, paid tithes out of the topmost and best portion of the spoils. This act confirms Melchizedek's superiority and exceptional honor as a priest of God. The magnitude of Melchizedek's greatness is evident in how Abraham, being himself a distinguished patriarch, acknowledged his surpassing dignity and offered tithes. This emphasizes the remarkable greatness of Melchizedek and, by extension, highlights the even greater magnitude of Christ as the antitype of Melchizedek.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.50478904358247,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.62,
+            "commentatorTierSimilarities": [
+                23.62,
+                40.66,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Consider the personal excellence and dignity of Melchizedek, to whom even Abraham, the esteemed patriarch and head of our Jewish nation, paid tithes out of the topmost and best portion of the spoils. This act of Abraham acknowledges the superiority and exceptional dignity of Melchizedek, emulating the honor that God bestowed upon him. The magnitude of Melchizedek's greatness is further emphasized by the fact that Abraham, being himself a patriarch, recognized his superiority and offer of tithes. Truly, if Abraham acknowledged the surpassing dignity of Melchizedek, then how much greater must Christ, the antitype of Melchizedek, be?",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.727282658184407,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.02,
+            "commentatorTierSimilarities": [
+                23.15,
+                41.8,
+                35.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Consider the greatness and personal excellence of Melchizedek, to whom even Abraham, the patriarch, paid tithes out of the topmost and best portion of the spoils. This act confirms Melchizedek's superiority as a priest of God. The fact that Abraham, himself a distinguished patriarch, acknowledged Melchizedek's surpassing dignity and offered tithes highlights the remarkable greatness of Melchizedek. Thus, it becomes evident that if Abraham recognized Melchizedek's greatness, then Christ, the antitype of Melchizedek, must be even greater in magnitude.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.5807744274063475,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.15,
+            "commentatorTierSimilarities": [
+                23.23,
+                40.96,
+                35.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Reflect on the exceptional dignity and personal excellence of Melchizedek, to whom Abraham, the revered patriarch, willingly paid the tithe from the topmost and best portion of the spoils. This deliberate act by Abraham acknowledges Melchizedek's superiority and unique position as a priest of God. Abraham's recognition of Melchizedek's surpassing honor underscores the greatness of Melchizedek himself. It serves as a powerful reminder of the even greater magnitude and significance of Christ, who perfectly embodies the characteristics and role of Melchizedek in a transcendent way.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 2.4546299758059718,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+            "commentatorTierSimilarities": [
+                23.27,
+                41.23,
+                35.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

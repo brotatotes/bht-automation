@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:50:10",
+    "verseRef": "Hebrews 10:39",
+    "bestBHT": {
+        "bht": "We are not of backsliding unto destruction, but of faith unto the preservation of the soul. Faith saves the soul by linking it to God. Those who do not believe are under God's wrath and lose their souls. Our faith in Christ sets us apart from those who shrink back, as it secures our salvation and leads us towards life. Through faith, we establish a profound connection with God that safeguards our souls and preserves them for eternity.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2143665803374195,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.97,
+        "commentatorTierSimilarities": [
+            38.23,
+            28.68,
+            33.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But we are not of backsliding unto destruction, but of faith unto [the] preservation of [the] soul.\" ",
+            "The soul is the subject of life and salvation. Faith saves the soul, by linking it to God, the living One.\" ",
+            "The unbelieving man loses his soul: for not being God\u2019s, neither is he his own: all that his personality has in itself, and round itself, is fallen under wrath and the powers of wrath."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A Pauline elegant turning-off from denunciatory warnings to charitable hopes of his readers.",
+            "If we acquire or obtain our soul's salvation, it is through Him who has obtained it for us by His bloodshedding.",
+            "Faith saves the soul by linking it to God."
+        ],
+        "Albert Barnes": [
+            "(1) \"We may come to the altar of God feeling that the great sacrifice has been made, and that the last drop of blood to make atonement has been shed.",
+            "(2) \"Like that Great Redeemer, let us do the will of God.",
+            "(3) \"The Christian has exalted advantages. He has access to the mercy-seat of God. He may enter by faith into the 'Holiest' - the very heavens where God dwells."
+        ],
+        "Marvin Vincent": [
+            "We are not of shrinking back... We do not partake of drawing back, which is characteristic of recreants.",
+            "Drawing back makes for and terminates in destruction.",
+            "The concluding statement of ch. 10 suggests the following discussion of the nature of faith and of its fruits as called out by God's revelation from the earliest time."
+        ],
+        "John Calvin": [
+            "We had been called for this end, that they might not draw back.",
+            "We, whom God has favored with the light of the Gospel, ought to acknowledge that we have been called in order that we may advance more and more in our obedience to God.",
+            "This is the real preservation of the soul, for by so doing we shall escape eternal perdition."
+        ],
+        "Philip Schaff": [
+            "We are not of them that draw back unto perdition, but of them that believe.\" ",
+            "We are not of the character that drawing back produces; we are of the character that faith produces.",
+            "The man who is not God\u2019s is not even his own; his entire personality is the slave and the property of another."
+        ],
+        "Archibald T. Robertson": [
+            "But we...in contrast to renegades who do flicker and turn back from Christ.",
+            "Predicate genitive of \u03c5\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03b7, as in Hebrews 12:11, from \u03c5\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03c9 with same sense here, stealthy retreat in Plutarch, dissimulation in Josephus.",
+            "Old word from \u03c0\u03b5\u03c1\u03b9\u03c0\u03bf\u03b9\u03b5\u03c9, to reserve, to preserve (Luke 17:33) to purchase (Acts 20:28). So here preserving or saving one's life as in Plato, but possession in Ephesians 1:14, obtaining in 1 Thessalonians 4:9."
+        ],
+        "John Gill": [
+            "But true believers do not, and cannot draw back in this sense; because they are held fast in the arms, and with the cords of everlasting love.",
+            "By faith a man lives, walks, and stands; and with this is connected the salvation of the soul.",
+            "True believers can never perish."
+        ],
+        "John Wesley": [
+            "We are not of them who draw back to perdition \u2014 Like him mentioned Hebrews 10:38.",
+            "But of them that believe \u2014 To the end, so as to attain eternal life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We, as believers, are not characterized by backsliding leading to destruction, but rather by faith that leads to the preservation of our souls. Our souls, the very essence of our life and salvation, are saved by linking them to God through faith. Those who do not believe are at the risk of losing their souls, as they are not their own but are subject to God's wrath. As the concluding statement of Hebrews 10 suggests, our faith in Christ brings about a discussion on its nature and the fruits it produces in our lives. We are not like those who shrink back, but instead, we hold onto our faith and salvation, which leads to life. Through faith, we are connected to God and held securely in His love and grace.",
+            "wordCount": 130,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.1403994107289446,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.51,
+            "commentatorTierSimilarities": [
+                35.85,
+                30.78,
+                33.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are not of backsliding unto destruction, but of faith unto the preservation of the soul. Faith saves the soul by linking it to God, the living One. The unbeliever loses their soul and falls under wrath. Our faith in Christ leads to discussion on its nature and fruits. We are not like those who shrink back but hold onto our faith. Through faith, we are connected to God and held securely in His love.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.0828043523392887,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                37.87,
+                30.46,
+                31.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our souls are not destined for destruction through backsliding, but rather for preservation through faith. Faith is the essential link that connects our souls to the living God. Without faith, the unbeliever's soul remains untouched by God's saving grace and is subject to the powers of wrath. As believers, we stand in contrast to those who shrink back, as our faith in Christ secures our salvation and leads us towards life. Through faith, we establish a profound connection with God that sustains and safeguards our souls.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.194069206888294,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                37.23,
+                29.86,
+                32.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are not of backsliding unto destruction, but of faith unto the preservation of the soul. Faith saves the soul by linking it to God. Those who do not believe are under God's wrath and lose their souls. Our faith in Christ sets us apart from those who shrink back, as it secures our salvation and leads us towards life. Through faith, we establish a profound connection with God that safeguards our souls and preserves them for eternity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2143665803374195,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.97,
+            "commentatorTierSimilarities": [
+                38.23,
+                28.68,
+                33.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith saves the soul by linking it to God, the living One, preserving it from destruction. Unlike those who draw back in unbelief and face perdition, we, as believers, are called to persevere in faith. This is our true preservation, as we are held fast in the arms of everlasting love. The soul is the subject of life and salvation, and acquiring its salvation is through Him who obtained it for us by His bloodshedding. Therefore, let us not be of those who shrink back, but rather, let us do the will of God and continue to believe and advance in our obedience to Him, confident that true believers can never perish.",
+            "wordCount": 112,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 2.0885602242125354,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                35.85,
+                27.41,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

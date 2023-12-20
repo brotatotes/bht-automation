@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:46:47",
+    "verseRef": "Hebrews 3:9",
+    "bestBHT": {
+        "bht": "The Hebrew Christians are warned about the rebellious actions of their ancestors who tested and doubted God, refusing to believe in His ability and willingness to help them. Despite witnessing His works and being provided for over forty years, they demanded tangible proof of His promises, enhancing the guilt of their disobedience. Even amidst God's blessings and displays of power, they continued to provoke Him, disregarding both His punishments and acts of mercy.",
+        "wordCount": 74,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.8720315610950358,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+        "commentatorTierSimilarities": [
+            25.0,
+            41.41,
+            33.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The authority of the ancients is not conclusive.",
+            "Putting (Me) to the proof whether I was able and willing to relieve them, not believing that I am so.",
+            "The lesson intended to be hinted to the Hebrew Christians is, their 'to-day' is to last only between the first preaching of the Gospel and Jerusalem's impending overthrow, namely, FORTY YEARS."
+        ],
+        "Albert Barnes": [
+            "As if they would have made an experiment how much it was possible for me to bear.",
+            "Even while sinners look on the doings of God, and are surrounded by the proofs of his power and goodness, they rebel, and provoke him to anger.",
+            "Men sin when God is filling their houses with plenty; when he opens his hand daily to supply their wants; when they behold the manifestations of his goodness...and even in the midst of all the blessings of redemption, they provoke him to wrath."
+        ],
+        "Marvin Vincent": [
+            "The phrase here means tempted by putting to the test.\" (29 words)",
+            "They tempted and yet saw my works;\" although they saw my works.\" (14 words)",
+            "Forty years.\" (2 words)"
+        ],
+        "John Calvin": [
+            "For it enhanced the guilt of their impiety, that having been taught by so many evidences of divine power, they had made so bad a progress.",
+            "Forty years. These are connected by David with what follows. But we know that the Apostles in quoting passages attend more to the general meaning than to the words. And no doubt God complained that the people had been vexatious to him for forty years, because so many benefits had availed nothing for the purpose of teaching them.",
+            "Generation means race, or men of one age."
+        ],
+        "Philip Schaff": [
+            "The true reading is, \u2018tempted me in\u2019 (or by) \u2018proving\u2019 [me]. Strong passion is some excuse for sin.",
+            "When men tempt God to try how far they may go, and how much He will bear, there is a shamelessness in their state of heart that is without excuse.",
+            "Either the punishment God inflicted, which failed to lead them to repentance, or my mighty works, punishment in part, but chiefly mercy, and disregarding both they became the more guilty."
+        ],
+        "Archibald T. Robertson": [
+            "They were not content with God's promise, but demanded objective proof of God.",
+            "The Israelites 'tested' God 'in putting to the proof'.",
+            "They tempted me by proving me."
+        ],
+        "John Gill": [
+            "To dissuade them from following their sinful practices; to deter them from the same by observing both their sin and punishment; and to heighten their regards to the voice and Gospel of Christ.",
+            "God's works of providence, in furnishing them with the necessaries of life, in guiding, protecting, and supporting them for the space of forty years, in the wilderness; and his miracles, and the punishment of their enemies.",
+            "The space of time, forty years, is in the psalm placed to the beginning of the next verse, and is joined with God's grief and indignation at the people...because there was just this number of years from Christ's sufferings, to the destruction of Jerusalem."
+        ],
+        "John Wesley": [
+            "Where your fathers \u2014 That hard-hearted and stiff-necked generation. So little cause had their descendants to glory in them.",
+            "Tempted me \u2014 Whether I could and would help them.",
+            "Proved me \u2014 Put my patience to the proof, even while they saw my glorious works both of judgment and mercy, and that for forty years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They tempted and put God to the test, not believing in His ability and willingness to help them, despite witnessing His works and being provided for for forty years. Their lack of faith and demand for tangible proof of God's promises only served to enhance the guilt of their rebellion. Even in the midst of God's blessings and evidences of His power, they still provoked Him to wrath. Their shamelessness and persistence in testing God's patience and limits is without excuse. Despite the punishment and mercy shown to them, they became more guilty.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8270349887774686,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                26.47,
+                40.98,
+                32.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They tempted and put God to the test, not believing in His ability and willingness to help them, despite witnessing His works and being provided for for forty years. Their lack of faith and demand for tangible proof of God's promises only served to enhance the guilt of their rebellion. Even in the midst of God's blessings and evidences of His power, they still provoked Him to wrath. Despite the punishment and mercy shown to them, they became more guilty.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8433325735224098,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                26.03,
+                40.61,
+                33.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Hebrew Christians are reminded of the time when their ancestors put God to the test, doubting His ability and willingness to help them. Despite witnessing His works and being provided for during the forty years in the wilderness, they lacked faith and demanded objective proof of His promises. This disobedience and lack of trust only intensified their guilt. Even surrounded by God's blessings and acts of power, they persisted in provoking Him, disregarding the punishment and mercy shown to them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6954275841937547,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                25.91,
+                40.09,
+                33.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Hebrew Christians are warned about the rebellious actions of their ancestors who tested and doubted God, refusing to believe in His ability and willingness to help them. Despite witnessing His works and being provided for over forty years, they demanded tangible proof of His promises, enhancing the guilt of their disobedience. Even amidst God's blessings and displays of power, they continued to provoke Him, disregarding both His punishments and acts of mercy.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8720315610950358,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                25.0,
+                41.41,
+                33.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Hebrew Christians are reminded of the time when their ancestors tempted and put God to the test, not believing in His ability and willingness to help them, despite witnessing His works and being provided for for forty years. Their lack of faith and demand for tangible proof of God's promises only served to enhance the guilt of their rebellion. Even in the midst of God's blessings and evidences of His power, they still provoked Him to wrath. Despite the punishment and mercy shown to them, they became more guilty.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8548846416760207,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                26.07,
+                40.15,
+                33.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

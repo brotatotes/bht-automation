@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 17:49:58",
+    "verseRef": "Hebrews 11:18",
+    "bestBHT": {
+        "bht": "This verse provides a definition of the 'only-begotten Son' as it states that in Isaac shall thy seed be called, highlighting Isaac as the heir of the promises. It reveals that the phrase means that only Isaac's descendants would be named as the true seed of Abraham. Through Abraham's unwavering faith and his willingness to offer up his beloved son, he demonstrated his complete trust in God's promises. This verse showcases the significance of Isaac in God's plan as the fulfillment of the promises.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.199740375539426,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.48,
+        "commentatorTierSimilarities": [
+            36.32,
+            23.4,
+            40.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This verse gives a definition of the 'only-begotten Son'.\" (Commentary)",
+            "The posterity of Isaac alone shall be accounted as the seed of Abraham, which is the heir of the promises.\" (Commentary)",
+            "in Isaac shall thy seed be called\u2014 (Genesis 21:12).\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "The phrase 'thy seed be called' means, that his posterity was to be named after Isaac, or was to descend only from him.",
+            "To 'name' or 'call' a thing was the same as to say that it was, or that it existed.",
+            "It was shown not only by his willingness to offer up the child of his old age - his only son by his beloved wife, but by his readiness, at the command of God, to sacrifice even him on whom the fulfillment of the promises depended."
+        ],
+        "Philip Schaff": [
+            "Even he to whom it was said, In Isaac shall there be named to thee a seed only his descendants shall be...",
+            "To be called, is generally used in Scripture with one of two senses, 'to have the name,' or really to be.",
+            "Sometimes, as here, the two senses are combined."
+        ],
+        "Archibald T. Robertson": [
+            "God's very words were in the heart of Abraham now about Isaac.\" (Quote 1)",
+            "his only son\" (\u03c4\u03bf\u03bd \u03bc\u03bf\u03bd\u03bf\u03b3\u03b5\u03bd\u03b7. Cf. Luke 7:12).\" (Quote 2)"
+        ],
+        "John Gill": [
+            "That numerous natural seed of his, which should inherit the land of Canaan; and his special famous seed, the Messiah, to whom the promises were made.",
+            "Of whom it is said,.... That is, of Isaac, Abraham's own son, whom he offered up.",
+            "That in Isaac shall thy seed be called; that numerous natural seed of his, which should inherit the land of Canaan; and his special famous seed, the Messiah, to whom the promises were made."
+        ],
+        "John Wesley": [
+            "In Isaac shall thy seed be called \u2014 From him shall the blessed seed spring. Genesis 21:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse gives a definition of the 'only-begotten Son' by stating that in Isaac shall thy seed be called, referring to Isaac as the heir of the promises. It emphasizes how God's words were in the heart of Abraham about Isaac, his only son, and how his descendants were to be named after Isaac. The phrase thy seed be called means that his posterity was to be named after Isaac and descend only from him. It shows Abraham's willingness to offer up his beloved son and his readiness to sacrifice even him on whom the fulfillment of the promises depended.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.33688843711848,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+            "commentatorTierSimilarities": [
+                32.27,
+                27.92,
+                39.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This definition of the 'only-begotten Son' can be found in Hebrews 11:18, where it states that in Isaac shall thy seed be called, referring to Isaac as the heir of the promises. The phrase means that only Isaac's descendants would be named as the true seed of Abraham, emphasizing the significance of Isaac in God's plan. This verse reflects Abraham's unwavering faith and his willingness to sacrifice his beloved son, demonstrating his complete trust in God's promises.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.2600911379352273,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.49,
+            "commentatorTierSimilarities": [
+                35.49,
+                24.61,
+                39.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse provides a definition of the 'only-begotten Son' as it states that in Isaac shall thy seed be called, highlighting Isaac as the heir of the promises. It reveals that the phrase means that only Isaac's descendants would be named as the true seed of Abraham. Through Abraham's unwavering faith and his willingness to offer up his beloved son, he demonstrated his complete trust in God's promises. This verse showcases the significance of Isaac in God's plan as the fulfillment of the promises.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.199740375539426,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.48,
+            "commentatorTierSimilarities": [
+                36.32,
+                23.4,
+                40.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse defines the 'only-begotten Son' by stating that in Isaac shall thy seed be called, emphasizing Isaac's role as the heir of the promises. The phrase signifies that only Isaac's descendants would bear the name and inherit the blessings. It showcases Abraham's unwavering faith and his willingness to sacrifice his beloved son, reflecting his deep trust in God's promises. Ultimately, this verse highlights the significance of Isaac in fulfilling God's plan and the inheritance of the promises.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.0124158427597267,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                34.11,
+                24.86,
+                41.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse reveals the definition of the 'only-begotten Son' by stating that in Isaac shall thy seed be called, emphasizing Isaac as the rightful heir of the promises. The phrase signifies that only Isaac's descendants would be named as the true seed of Abraham, demonstrating the significance of Isaac in God's plan. Abraham's unwavering faith is evident in his willingness to offer up his beloved son, displaying complete trust in God's Word. This verse highlights Isaac's pivotal role in the fulfillment of God's promises.",
+            "wordCount": 91,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.095663418909146,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                37.29,
+                21.79,
+                40.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

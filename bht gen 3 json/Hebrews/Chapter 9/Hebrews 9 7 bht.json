@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:48:57",
+    "verseRef": "Hebrews 9:7",
+    "bestBHT": {
+        "bht": "On the one occasion per year that the high priest entered the Holy of Holies, he did so not without blood, offering it for himself and the errors of the people\u2014a reference to their sins of ignorance. These sacrifices were a constant reminder of sin, ensuring that the priests and people acknowledged their violation of God's Law. Christ, as the ultimate high priest, didn't need to offer for his own sins because he was sinless; rather, he offered himself for the sins of the people.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.225996156189254,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.35,
+        "commentatorTierSimilarities": [
+            22.13,
+            39.36,
+            38.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No one would think, if I said I was in the habit of seeing a certain person but once in every year, of asking how long I spent in his company during that day, and how often I looked upon him.",
+            "Not without blood, which he offers... on behalf of himself, and the ignorances of the people.",
+            "I have found it not improbable, that this may have been intended."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "once\" means here on the one occasion only. The two, or possibly more, entrances on that one day were regarded as parts of the one whole.",
+            "not without blood",
+            "errors\u2014Greek, \"ignorances\": \"inadvertent errors.\" They might have known, as the law was clearly promulged, and they were bound to study it; so that their ignorance was culpable"
+        ],
+        "Albert Barnes": [
+            "On that day he probably entered the Holy of Holies three or four times, first to burn incense, Leviticus 16:12; then to sprinkle the blood of the bullock on the mercy-seat, Leviticus 16:14; then he was to kill the goat of the sin-offering, and bring that blood within the Veil and sprinkle it also on the mercy-seat, and then, perhaps, he entered again to bring out the golden censer.\" ",
+            "The only important point being that he entered it only on one day of the year, while the holy place was entered every day.",
+            "The repetition of these sacrifices was a constant remembrancer of sin, and the design was that neither the priests nor the people should lose sight of the fact that they were violators of the Law of God."
+        ],
+        "Marvin Vincent": [
+            "Errors [\u03b1\u03b3\u03bd\u03bf\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd] . Lit. ignorances. See on ch. Hebrews 5:2."
+        ],
+        "John Calvin": [
+            "No sin is free from error or ignorance; for however knowingly and willfully anyone may sin, yet it must be that he is blinded by his lust, so that he does not judge rightly.",
+            "Men never deliberately rush headlong into ruin, but being entangled in the deceptions of Satan, they lose the power of judging rightly.",
+            "The word rendered 'errors,' literally means 'ignorances,' and so some render it 'sins of ignorance;' but it is used in the Apocrypha as designating sins in general; and Grotius refers to Tobit 3:3."
+        ],
+        "Archibald T. Robertson": [
+            "Not even he could enter the second tent (Holy of Holies) without blood.",
+            "The errors of the people (\u03c4\u03c9\u03bd \u03c4\u03bf\u03c5 \u03bb\u03b1\u03bf\u03c5 \u03b1\u03b3\u03bd\u03bf\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd). Late word from \u03b1\u03b3\u03bd\u03bf\u03b5\u03c9, not to know (Hebrews 5:2), only here in the N.T.",
+            "But these sins of ignorance (\u03b1\u03b3\u03bd\u03bf\u03b7\u03bc\u03b1\u03c4\u03b1) were sins and called for atonement. See Hebrews 10:26 for wilful sinning."
+        ],
+        "John Gill": [
+            "Though this is not expressed in so many words in Leviticus 16:2 only it is said that 'Aaron came not at all times into the holy place within the vail'; yet it is the constant and generally received sense of the Jewish writers, in agreement with the apostle here, that the high priest went into the holy of holies but once a year.",
+            "He went in alone without any attendance: the Jews say that a cord or thong was bound to the feet of the high priest when he went into the holy of holies, that if he died there, the rest might be able to draw him out.",
+            "Christ the antitype having no sin, had no need to offer for himself, only for the sins of the people."
+        ],
+        "John Wesley": [
+            "Errors \u2014 That is, sins of ignorance, to which only those atonements extended."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest, on the one occasion per year that he entered the Holy of Holies, did so not without blood. This blood was offered on behalf of himself and the errors of the people, referring to their inadvertent sins or sins of ignorance. The repetition of these sacrifices was a constant reminder of sin, ensuring that the priests and people did not lose sight of the fact that they were violators of the Law of God. While the high priest entered the Holy of Holies to carry out various rituals and offerings, it was clear that he went in alone, without any attendance. Christ, as the ultimate fulfillment of this high priestly role, had no need to offer for himself, since he was without sin, but for the sins of the people.",
+            "wordCount": 133,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.1784058462475846,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.77,
+            "commentatorTierSimilarities": [
+                21.62,
+                43.75,
+                34.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the one occasion per year that the high priest entered the Holy of Holies, he did so not without blood, offering it for himself and the errors of the people\u2014a reference to their sins of ignorance. These sacrifices were a constant reminder of sin, ensuring that the priests and people acknowledged their violation of God's Law. Christ, as the ultimate high priest, didn't need to offer for his own sins because he was sinless; rather, he offered himself for the sins of the people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.225996156189254,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.35,
+            "commentatorTierSimilarities": [
+                22.13,
+                39.36,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The high priest entered the Holy of Holies once a year, not without blood, offering it for himself and the errors of the people\u2014referring to their sins of ignorance. These sacrifices served as a continuous reminder of sin, ensuring that both priests and people recognized their transgressions of God's Law. In contrast, Christ, as the ultimate high priest, did not need to offer sacrifices for himself because he was without sin. Instead, he offered himself as the atonement for the sins of the people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1609926576173044,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                22.12,
+                38.94,
+                38.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The high priest entered the Holy of Holies once a year, not without blood, offering it for himself and the errors of the people\u2014referring to their sins of ignorance. These sacrifices served as a continuous reminder of sin, ensuring that both priests and people recognized their transgressions of God's Law. In contrast, Christ, as the ultimate high priest, did not need to offer sacrifices for himself because he was without sin. Instead, he offered himself as the atonement for the sins of the people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1609926576173044,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                22.12,
+                38.94,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest entered the Holy of Holies on the one occasion per year, offering blood for himself and the errors of the people\u2014referring to their sins of ignorance. These sacrifices served as a constant reminder of sin, ensuring that priests and people acknowledged their violations of God's Law. Christ, as the ultimate high priest, didn't need to offer for his own sins since he was without sin. Instead, he offered himself to atone for the sins of the people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0925215083283777,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                21.49,
+                37.51,
+                41.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:49:25",
+    "verseRef": "Hebrews 9:15",
+    "bestBHT": {
+        "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, securing forgiveness for sins not covered by the former imperfect covenant and guaranteeing an eternal inheritance. At the moment of His death, the Old Testament gave way to the New Testament. The Levitical system was insufficient for full salvation, but Christ's sacrifice as the Mediator of the new covenant is the basis for the salvation of all who believe, past and present. Through Christ, those who are called can receive the promise of the eternal inheritance.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.5495316025559527,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.11,
+        "commentatorTierSimilarities": [
+            36.47,
+            29.78,
+            33.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This pre-eminent spiritual virtue of His redeeming blood constitutes his fitness to be the Mediator of the new covenant.\" (Quote 1)",
+            "The main blessing of which, forgiveness, extends even back over the insufficient former one, and ensures the inheritances to the called.\" (Quote 2)",
+            "This end, of the called being put in possession of the promise of the eternal inheritance, is to be attained 'by death having taken place for the propitiation of the transgressions under the first testament.'\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Because of the all-cleansing power of His blood, this fits Him to be Mediator of the new covenant, which secures both forgiveness for the sins not covered by the former imperfect covenant or testament, and also an eternal inheritance to the called.",
+            "At the moment that His death took place, the necessary effect is, 'the called receive the (fulfilment of the) promise' that moment divides the Old from the New Testament.",
+            "The 'first testament' thus includes the whole period from Adam to Christ, and not merely that of the covenant with Israel, which was a concentrated representation of the covenant made with mankind by sacrifice, down from the fall to redemption."
+        ],
+        "Albert Barnes": [
+            "He is the Mediator between God and man in respect to that new covenant which he has made, or that new dispensation by which people are to be saved.\" ",
+            "That by means of death - His own death as a sacrifice for sin.\" ",
+            "The blood of Christ would now avail for the remission of all those sins which could not be expiated by the sacrifices offered under the Law."
+        ],
+        "Marvin Vincent": [
+            "The efficacy of Christ's sacrifice is bound up with a covenant. His priesthood involves a new and a better covenant.",
+            "The intimation is in the same direction with that of the phrase through an eternal spirit - that the ideal redemption must be eternal.",
+            "The whole statement implies that the provisions of the Levitical system were inadequate to procure and ensure full salvation."
+        ],
+        "John Calvin": [
+            "He alone can be justly deemed a Mediator.",
+            "If the Law was so weak that all the remedies it applied for expiating sins did by no means accomplish what they represented, who could rest in it as in a safe harbor?",
+            "We obtain [full redemption] in [Christ], there is nothing which can any more distress us."
+        ],
+        "Philip Schaff": [
+            "The death of Christ...extends its efficacy forward to the end of time and backward to the entrance of the Law.",
+            "It is the procuring cause of forgiveness for all dispensations.",
+            "They that have been called may receive the promise of the eternal inheritance."
+        ],
+        "Archibald T. Robertson": [
+            "A death having taken place (\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5 \u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5). Genitive absolute, referring to Christ's death.",
+            "So then the atoning sacrifice of Christ is the basis of the salvation of all who are saved before the Cross and since.",
+            "That they may receive (\u03bf\u03c0\u03c9\u03c2 \u03bb\u03b1\u03b2\u03c9\u03c3\u03b9\u03bd). Purpose clause (God's purpose in the rites and symbols) with \u03bf\u03c0\u03c9\u03c2 and the second aorist active subjunctive of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9."
+        ],
+        "John Gill": [
+            "Christ became the Mediator of the New Testament, and assumed human nature that he might die, and by dying might obtain redemption for his people.",
+            "The sense is, that though legal sacrifices could not atone for sin, nor ceremonial ablutions cleanse from them; yet the sins of Old Testament saints were expiated, their iniquities pardoned, and they justified and saved, through the blood of Christ.",
+            "The ultimate end of Christ's being a Mediator, and dying for such purposes, was, that called ones might receive the promised inheritance."
+        ],
+        "John Wesley": [
+            "He is the Mediator of a new covenant, that they who are called... might receive the eternal inheritance promised to Abraham.\" ",
+            "Not by means of legal sacrifices, but of his meritorious death.",
+            "The article of his death properly divides the old covenant from the new."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, which secures forgiveness for sins not covered by the former imperfect covenant and guarantees an eternal inheritance to those who are called. At the moment of His death, the Old Testament gave way to the New Testament. The Levitical system in the Old Testament was insufficient for full salvation, but Christ's sacrifice as the Mediator of the new covenant is the basis for the salvation of all who believe, past and present. His death extends its efficacy to all dispensations, procuring forgiveness for every sin. Through Christ, those who are called can receive the promise of the eternal inheritance.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.517604770056181,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.05,
+            "commentatorTierSimilarities": [
+                35.21,
+                31.7,
+                33.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, securing forgiveness for sins not covered by the former imperfect covenant and guaranteeing an eternal inheritance. At the moment of His death, the Old Testament gave way to the New Testament. The Levitical system was insufficient for full salvation, but Christ's sacrifice as the Mediator of the new covenant is the basis for the salvation of all who believe, past and present. Through Christ, those who are called can receive the promise of the eternal inheritance.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.5495316025559527,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.11,
+            "commentatorTierSimilarities": [
+                36.47,
+                29.78,
+                33.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, securing forgiveness for sins not covered by the former imperfect covenant and guaranteeing an eternal inheritance. At the moment of His death, the Old Testament gave way to the New Testament. The Levitical system was insufficient for full salvation, but Christ's sacrifice as the Mediator is the basis for the salvation of all who believe. Through Christ, those who are called can receive the promise of eternal inheritance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.5047742531736548,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.62,
+            "commentatorTierSimilarities": [
+                36.28,
+                29.91,
+                33.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, which secures both forgiveness for sins not covered by the former imperfect covenant and an eternal inheritance. At the moment of His death, the Old Testament gives way to the New Testament. The Levitical system is inadequate for full salvation, but Christ's sacrifice as the Mediator of the new covenant is the foundation for the salvation of all who believe. Through Christ, those who are called can receive the promised eternal inheritance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.541256321531657,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.84,
+            "commentatorTierSimilarities": [
+                36.43,
+                29.17,
+                34.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because of the all-cleansing power of His blood, Jesus is fit to be the Mediator of the new covenant, securing forgiveness for sins not covered by the former covenant and guaranteeing an eternal inheritance. At the moment of His death, the Old Testament gives way to the New Testament. The Levitical system is insufficient for full salvation, but Christ's sacrifice as the Mediator is the basis for the salvation of all who believe. Through Him, the called can receive the promise of eternal inheritance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.4886477196338026,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.09,
+            "commentatorTierSimilarities": [
+                35.73,
+                30.81,
+                33.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

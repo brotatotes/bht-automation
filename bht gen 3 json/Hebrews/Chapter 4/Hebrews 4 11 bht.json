@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:47:33",
+    "verseRef": "Hebrews 4:11",
+    "bestBHT": {
+        "bht": "Strive diligently to enter into the rest that Christ has entered before us, lest any fall into disobedience. The promise of rest carries a responsibility for the people of God, as the Israelites set a terrible example of unbelief. Let us labor and give diligence, seeking earnestly to enter into that rest, lest any man fall and form part of the same example of unbelief. May we not fall into perdition, but rather press on, habituating ourselves to self-denial in pursuit of the rest that faith in Christ offers.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.1873053709729398,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.07,
+        "commentatorTierSimilarities": [
+            28.82,
+            39.43,
+            31.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Strive diligently.",
+            "That rest into which Christ has entered before.",
+            "Lest any fall into such disobedience."
+        ],
+        "Albert Barnes": [
+            "Since there is a rest whose attainment is worth all our efforts; since so many have failed of reaching it by their unbelief, and since there is so much danger that we may fail of it also, let us give all diligence that we may enter into it.",
+            "Heaven is never obtained but by diligence; and no one enters there who does not earnestly desire it, and who does not make a sincere effort to reach it.",
+            "The word 'unbelief' best expresses the sense, as the apostle was showing that this was the principal thing that prevented people from entering into heaven."
+        ],
+        "Marvin Vincent": [
+            "This promise of rest carries with it a special responsibility for the people of God.\" ",
+            "Let us labor therefore. Give diligence, not hasten, which is the primary meaning.",
+            "Lest any man fall after the same example of unbelief."
+        ],
+        "John Calvin": [
+            "Having pointed out the goal to which we are to advance, he exhorts us to pursue our course, which we do, when we habituate ourselves to self-denial.",
+            "And as he compares entering into rest to a straight course, he sets falling in opposition to it.",
+            "To fall means to perish; or to speak more plainly, it is to fall, not as to sin, but as a punishment for it."
+        ],
+        "Philip Schaff": [
+            "Labour, give diligence (as in 2 Peter 1:10), seek earnestly, strive to enter into that rest, lest any man fall and form part of the same example of disobedience or unbelief; lest through unbelief like theirs we like them come short of the promise.",
+            "The earnest striving, the eager seeking of which the writer speaks, is well described by St. Paul in Philippians 3:7-14, and in 2 Peter 1:5-12.",
+            "Faith is ceasing to work and beginning to trust; in another sense it is the most difficult of all works, requiring the energy of the whole nature, and the help of the blessed God besides."
+        ],
+        "Archibald T. Robertson": [
+            "Let us therefore give diligence.\" ",
+            "That no man fall.",
+            "The Israelites set a terrible example and it is so easy to copy the bad examples."
+        ],
+        "John Gill": [
+            "Not eternal rest; this is not to be entered into now; nor is an entrance into it to be obtained by labour; salvation is not by works; eternal life is a free gift; good works do not go before to prepare heaven for the saints, but follow after.",
+            "But the Gospel rest is here meant, that rest which believers now enter into, and is at this present time for them... and though true believers are entered into it, yet their rest, peace, and joy in Christ, is not full; they enter by degrees into it, and by believing enjoy more of it.",
+            "True believers may fall into sin, and from a degree of the exercise of grace, and of the steadfastness of the Gospel; but they cannot finally and totally fall away, because they are kept by the power of God; yet they may so fall, as to come short, or at least seem to come short of enjoying the rest and peace of the Gospel state."
+        ],
+        "John Wesley": [
+            "Lest any one should fall \u2014 Into perdition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Strive diligently to enter into the rest that Christ has already entered into before us. Take heed not to fall into the same disobedience as the Israelites, for the promise of rest carries a great responsibility. The Israelites set a terrible example, making it easy for us to follow in their unbelief. Therefore, let us labor and give diligence, seeking earnestly to enter into that rest, lest any man fall and become an example of disobedience. May we not fall into perdition, but rather press on, habituating ourselves to self-denial as we pursue the goal of entering into the rest that is already available to us through faith in Christ.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.01388859119817,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                30.46,
+                38.08,
+                31.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Strive diligently to enter into the rest that Christ has already entered into before us, lest any fall into disobedience. This promise of rest places a special responsibility on the people of God, as the Israelites set a terrible example that is so easy to follow. Therefore, let us labor and give diligence, seeking earnestly to enter into that rest, lest any man fall and form part of the same example of unbelief. May we not fall into perdition, but rather press on, habituating ourselves to self-denial as we pursue the goal of entering into the rest that is already available to us through faith in Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.128422697140146,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+            "commentatorTierSimilarities": [
+                28.32,
+                39.8,
+                31.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Strive diligently to enter into the rest that Christ has already entered into before us. Take heed not to fall into the same disobedience as the Israelites, for the promise of rest carries a great responsibility. The Israelites set a terrible example, making it easy for us to follow in their unbelief. Therefore, let us labor and give diligence, seeking earnestly to enter into that rest, lest any man fall and become an example of disobedience. May we not fall into perdition, but rather press on, habituating ourselves to self-denial as we pursue the goal of entering into the rest that is already available to us through faith in Christ.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.01388859119817,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                30.46,
+                38.08,
+                31.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Strive diligently to enter into the rest that Christ has already entered into before us. The promise of rest carries a special responsibility for the people of God, as the Israelites set a terrible example of unbelief. Let us labor and give diligence, seeking earnestly to enter into that rest, lest we fall after the same example of disobedience. May we not fall into perdition, but rather press on, habituating ourselves to self-denial as we pursue the goal of entering into the rest that is available through faith in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.038514678654761,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                29.54,
+                39.04,
+                31.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Strive diligently to enter into the rest that Christ has entered before us, lest any fall into disobedience. The promise of rest carries a responsibility for the people of God, as the Israelites set a terrible example of unbelief. Let us labor and give diligence, seeking earnestly to enter into that rest, lest any man fall and form part of the same example of unbelief. May we not fall into perdition, but rather press on, habituating ourselves to self-denial in pursuit of the rest that faith in Christ offers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.1873053709729398,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.07,
+            "commentatorTierSimilarities": [
+                28.82,
+                39.43,
+                31.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

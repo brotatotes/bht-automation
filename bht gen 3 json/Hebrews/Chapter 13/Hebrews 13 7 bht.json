@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:51:19",
+    "verseRef": "Hebrews 13:7",
+    "bestBHT": {
+        "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. So, diligently contemplate their example and imitate their faith, keeping in mind the blessed end they had. Let us remember their counsel, instructions, and the word of God they spoke to us. Respect and honor their ministry, as they guided us in understanding the Scriptures. Keep on imitating their faith and strive to lead a holy life, following their example with gratitude.",
+        "wordCount": 95,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.9388913427569703,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+        "commentatorTierSimilarities": [
+            27.14,
+            33.71,
+            39.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Remember to imitate them.",
+            "The past tense shows that this speaking was over, and numbers these leaders among those in ch. ii, 3: as those who heard the Lord, 'by whom the salvation of the Gospel was confirmed to them.'",
+            "Surveying the termination of their conversation, imitate the faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Remember\u2014so as to imitate: not to invoke in prayer, as Rome teaches.",
+            "considering\u2014Greek, 'looking up to,' 'diligently contemplating all over,' as an artist would a model.",
+            "the end\u2014the termination, at death. The Greek is used of decease."
+        ],
+        "Albert Barnes": [
+            "Remember them which have the rule over you... the duty here enjoined is that of remembering their counsel; their instructions; their example.",
+            "Respect is to be shown to the ministerial office, by whomsoever it is borne.",
+            "The proper remembrance of those now deceased who were once our spiritual instructors and guides, should be allowed to have an important influence in inducing us to lead a holy life."
+        ],
+        "Marvin Vincent": [
+            "Remember them which have the rule over you...with a view to observing their admonitions.\" ",
+            "Follow...imitate.\" ",
+            "Considering...observe attentively. The end of their conversation...the outcome or issue of their life."
+        ],
+        "John Calvin": [
+            "He first sets before the Jews the example of those by whom they had been taught.",
+            "Considering the end of their conversation.",
+            "They who have begotten us in Christ ought to be to us in the place as it were of fathers."
+        ],
+        "Philip Schaff": [
+            "Leadership is the prominent thought with so much of ruling as is essential to lead.",
+            "As applied to ministers, it gives no authority to make new laws in Christ\u2019s kingdom, or even to enforce Christ\u2019s commands by any authority except His own.",
+            "The which (who have this quality that a word which defines the ground and the limit of their authority) have spoken to you the word of God (the Gospel); whose faith (not their creed, but their blessed trust in trouble and fidelity to principle) copy (or imitate), thoroughly considering what a blessed end their life had."
+        ],
+        "Archibald T. Robertson": [
+            "Keep in mind.",
+            "Few lessons are harder for the average Christian to learn, viz., good following.",
+            "Keep on imitating the faith of the leaders."
+        ],
+        "John Gill": [
+            "For such [pastors] point out the way of peace, life, and salvation to men, and direct them to Christ; and guide them into the understanding of the Scriptures, and the truths of the Gospel.",
+            "To 'remember' them is to know, own, acknowledge, and respect them as their governors; to obey them, and submit to them; to treasure up in memory their doctrines and exhortations; to be mindful of them at the throne of grace, to pray for them; and to take care of their maintenance and outward supply of life.",
+            "Considering the end of their conversation; which may intend the whole of their conduct in the discharge of the several duties of their office; the end of which designs either the manner of it... or the drift and scope of it, which was Christ, his honour and glory..."
+        ],
+        "John Wesley": [
+            "Remember them \u2014 Who are now with God, considering the happy end of their conversation on earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. So, diligently contemplate their example and imitate their faith, keeping in mind the blessed end they had. Let us remember their counsel, instructions, and the word of God they spoke to us. Respect and honor their ministry, as they pointed us to Christ and guided us in understanding the Scriptures. May we pray for them, obey them, and support them, as they have played a crucial role in our spiritual journey. Keep on imitating their faith and strive to lead a holy life, following their example with reverence and gratitude.",
+            "wordCount": 123,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.908377355459892,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                25.99,
+                34.4,
+                39.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. So, diligently contemplate their example and imitate their faith, keeping in mind the blessed end they had. Let us remember their counsel, instructions, and the word of God they spoke to us. Respect and honor their ministry, as they pointed us to Christ and guided us in understanding the Scriptures. May we pray for them, obey them, and support them, as they have played a crucial role in our spiritual journey. Keep on imitating their faith and strive to lead a holy life, following their example with reverence and gratitude.",
+            "wordCount": 123,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.908377355459892,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                25.99,
+                34.4,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. So, diligently contemplate their example and imitate their faith, keeping in mind the blessed end they had. Let us remember their counsel, instructions, and the word of God they spoke to us. Respect and honor their ministry, as they guided us in understanding the Scriptures. May we obey and support them, as they played a crucial role in our spiritual journey. Keep on imitating their faith and strive to lead a holy life, following their example with gratitude.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8950156941024132,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                26.04,
+                35.04,
+                38.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. So, diligently contemplate their example and imitate their faith, keeping in mind the blessed end they had. Let us remember their counsel, instructions, and the word of God they spoke to us. Respect and honor their ministry, as they guided us in understanding the Scriptures. Keep on imitating their faith and strive to lead a holy life, following their example with gratitude.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9388913427569703,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                27.14,
+                33.71,
+                39.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remember to imitate the faith of the leaders who have gone before us, considering the outcome of their lives. These leaders heard the Lord and confirmed the salvation of the Gospel to us. Diligently contemplate their example, keeping in mind the blessed end they had. Remember their counsel and the word of God they spoke to us. Respect and honor their ministry, as they guided us in understanding the Scriptures. Keep on imitating their faith and strive to lead a holy life, following their example with gratitude.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9160005618690858,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                27.67,
+                32.46,
+                39.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:51:32",
+    "verseRef": "Hebrews 13:20",
+    "bestBHT": {
+        "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace unites believers in mutual love through true doctrine and the seal of the everlasting covenant. Christ, as the great shepherd, was raised and ratifies the eternal covenant through His blood.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.5298324949618944,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.46,
+        "commentatorTierSimilarities": [
+            36.38,
+            33.28,
+            30.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the God of peace...who brought up from the dead...the great Shepherd of the sheep, in the blood of the everlasting covenant",
+            "their labours and his for the settlement of the Church in peace...the Chief Shepherd...brought again from the dead by the God of Peace",
+            "perfect you in every good work, towards the doing His will...doing in you that which is well-pleasing in His sight, through Jesus Christ"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The God of peace by giving unity of true doctrine, will unite them in mutual love.",
+            "He would not conclude without mentioning 'the connecting link between the two truths mainly discussed; the one perfect sacrifice and the continual priestly intercession\u2014the depth of His humiliation and the height of His glory.",
+            "The 'blood' was the seal of the everlasting covenant entered into between the Father and Son; in virtue of the Son's blood, first Christ was raised, then Christ's people shall be so."
+        ],
+        "Albert Barnes": [
+            "The word 'peace' in the New Testament is used to denote every kind of blessing or happiness.",
+            "It is only by the fact of the resurrection of the Lord Jesus that we have peace, for it is only by him that we have the prospect of an admission into heaven.",
+            "That which makes him so eminently distinguished; that by which he was made superior to all others who ever ruled over the people of God, was the fact that he offered the blood by which the eternal covenant was ratified."
+        ],
+        "Marvin Vincent": [
+            "The God of peace. Not an O. T. phrase, and found only in Paul and Hebrews. See Romans 14:33; Romans 16:20; 1 Corinthians 14:33; Philippians 4:9, 1 Thessalonians 5:23; 2 Thessalonians 3:16. The phrase signifies God who is the author and giver of peace.\" ",
+            "That great shepherd of the sheep [\u03c4\u03bf\u03bd \u03c0\u03bf\u03b9\u03bc\u03b5\u03bd\u03b1 \u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03c9\u03bd \u03c4\u03bf\u03bd \u03bc\u03b5\u03b3\u03b1\u03bd] . The Greek order is, 'the shepherd of the sheep the great (shepherd).' Comp. John 10:2, John 10:11, John 10:14; 1 Peter 2:25, and see Isaiah 63:11. Of God, Ezekiel 34:0.",
+            "Through the blood of the everlasting covenant [\u03b5\u03bd \u03b1\u03b9\u03bc\u03b1\u03c4\u03b9 \u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03c2 \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03c5] . Rend. 'in the blood of an eternal covenant.' See Zechariah 9:11. The phrase eternal covenant N. T. o. Common in LXX; see Genesis 9:16; Genesis 17:19; Leviticus 24:8; 2 Samuel 23:5; Jeremiah 39:40; Ezekiel 16:60. Const. with the great shepherd of the sheep."
+        ],
+        "John Calvin": [
+            "We are by no means fit to do good until we are made or formed for the purpose by God, and that we shall not continue long in doing good unless he strengthens us; for perseverance is his peculiar gift.",
+            "God is then only prayed to aright by us, to lead us on to perfection, when we acknowledge his power in the resurrection of Christ, and acknowledge Christ himself as our pastor.",
+            "God raised up his own son, but in such a way that the blood he shed once for all in his death is efficacious after his resurrection for the ratification of the everlasting covenant, and brings forth fruit the same as though it were flowing always."
+        ],
+        "Archibald T. Robertson": [
+            "God is the author and giver of peace.",
+            "The shepherd of the sheep the great one.",
+            "The language reminds us of Christ's own words about 'my blood of the covenant.'"
+        ],
+        "John Gill": [
+            "The God of peace is manifestly God the Father, who is distinguished from Christ his Son.",
+            "The apostle addresses the God and Father of Christ in prayer, under this consideration, to observe his power and ability to help in the greatest distress, and in the most difficult and desperate case; to encourage faith and hope in him, when things are at the worst, and most discouraging.",
+            "The blood of Christ may be called the blood of it [the covenant], because the shedding of it is a principal article in it; by it the covenant is ratified and confirmed; and all the blessings of it come through it."
+        ],
+        "John Wesley": [
+            "The Christian covenant, which is not temporary, like the Jewish, but designed to remain for ever.",
+            "By the application of that blood, may he make you, inwardly and outwardly holy!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep, in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace, who is the author and giver of peace, unites believers in unity of true doctrine and mutual love. In the blood of an eternal covenant, Christ, as the great shepherd of the sheep, was raised and ratifies the covenant between the Father and the Son. May God strengthen and form us for doing good, acknowledging His power in Christ's resurrection, and acknowledging Christ as our pastor. Through His blood, God leads us on to perfection and holiness, and accomplishes His will in and through us.",
+            "wordCount": 140,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3157409555675166,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+            "commentatorTierSimilarities": [
+                34.75,
+                32.3,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace unites believers in true doctrine and mutual love. Christ, as the great shepherd, ratifies the eternal covenant through His blood. Through His blood, God leads us on to perfection and holiness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.3385475933815223,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.1,
+            "commentatorTierSimilarities": [
+                35.97,
+                32.21,
+                31.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace unites believers in mutual love through true doctrine and the seal of the everlasting covenant. Christ, as the great shepherd, was raised and ratifies the eternal covenant through His blood.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.5298324949618944,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.46,
+            "commentatorTierSimilarities": [
+                36.38,
+                33.28,
+                30.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace unites believers in true doctrine and mutual love. Christ, the great shepherd, was raised and ratifies the eternal covenant through His blood, leading us to perfection and holiness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.4115907363272306,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.53,
+            "commentatorTierSimilarities": [
+                36.82,
+                33.28,
+                29.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the God of peace, who brought up from the dead the great Shepherd of the sheep in the blood of the everlasting covenant, perfect you in every good work, towards the doing His will and doing in you that which is well-pleasing in His sight, through Jesus Christ. The God of peace unites believers in true doctrine and mutual love. Christ, the great Shepherd of the sheep, was raised by the God of peace, and through the blood of the everlasting covenant, He accomplishes His will for us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 2.5289996188395834,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.43,
+            "commentatorTierSimilarities": [
+                37.75,
+                33.16,
+                29.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

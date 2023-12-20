@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:51:11",
+    "verseRef": "Hebrews 12:25",
+    "bestBHT": {
+        "bht": "Take heed that you do not decline God's voice, whether it was heard on earth or from His heavenly throne through His Son. Just as our ancestors did not escape the consequences of turning away from Him, we also will not escape if we reject His voice. The voice of God, heard in the Gospel, will bring about a shaking of heaven and earth. Let us not neglect or refuse the word that is destined for us, for the punishment for despising the Gospel is severe.",
+        "wordCount": 87,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.029205173224332,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+        "commentatorTierSimilarities": [
+            32.91,
+            33.54,
+            33.55
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Take heed that ye decline not him that speaketh... For if they did not escape, declining as they did him who spoke on earth, much more we shall not escape, who are turning away from him from the heavens.",
+            "Clearly, not Jesus: for by the words whose voice, which follow, the voice of this same speaker shook the earth at the giving of the law: and it can by no ingenuity be pretended, that the terrors of the law proceeded from the Son of God.",
+            "Simply by taking above, the speaker in both cases to be GOD: in the first, as speaking from Mount Sinai by His Angels: in the second, as speaking from His heavenly throne through His exalted Son."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His word now is the prelude of the last 'shaking' of all things.",
+            "The same word which is heard in the Gospel from heaven, will shake heaven and earth.",
+            "In the giving of the law God spake on earth (namely, Mount Sinai) by angels, but in the Gospel, God speaks from His heavenly throne."
+        ],
+        "Albert Barnes": [
+            "Do not turn away from him who has addressed you in the new dispensation, and called you to obey and serve him.",
+            "God had addressed 'them' in the gospel as really as he had done the Hebrews on Mount Sinai, and that there was as much to be dreaded in disregarding his voice now as there was then.",
+            "The contrast here is between Moses and the Son of God - the head of the Jewish and the head of the Christian dispensation."
+        ],
+        "John Calvin": [
+            "We ought not to reject the word destined for us.",
+            "The severest punishment awaits the despisers of the Gospel.",
+            "The comparison here is between speaking on earth and speaking from heaven; but included in this, as previously explained in the Epistle, are the agents employed."
+        ],
+        "Philip Schaff": [
+            "See that ye refuse decline not (the same word as in Hebrews 12:19) him that speaketh (offering peace through the blood of Christ: see Hebrews 12:24): for if they escaped not, declining as they did to hear him that spoke on earth a different word, meaning to speak as an oracle with Divine authority.",
+            "God is the speaker in both cases; but the contrast is between God speaking on earth and through Moses who received the living oracles to give to men, and God speaking from heaven and in the life and blood of His Son not concerning an earthly covenant with earthly blessings, but concerning blessings that are spiritual and eternal.",
+            "The medium (the Son), the place, the blessedness of the message, all combine to make the guilt of rejecting the Gospel the greater."
+        ],
+        "Archibald T. Robertson": [
+            "The consequences are dreadful to apostates now, for Zion has greater terrors than Sinai, great as those were.",
+            "Much more we...our chance to escape is far less, 'we who turn away...the one from heaven,' God speaking through his Son.",
+            "Argument from the less to the greater, \u03c0\u03bf\u03bb\u03c5, adverbial accusative case."
+        ],
+        "John Gill": [
+            "Jesus, the Mediator of the new covenant, whose blood speaks better things than Abel, or than his blood and sacrifice.",
+            "Nor should he be refused, as he is, when his Gospel is made light of, and neglected; when men excuse themselves from an attendance on it; when they will not hear it; or, when they do, and contradict and blaspheme, despise and reproach it, or leave off hearing it.",
+            "There have been, and are some, that turn away from him; from a profession of him, and his Gospel and ordinances, and draw back unto perdition; such shall not escape divine wrath and vengeance."
+        ],
+        "John Wesley": [
+            "Refuse not \u2014 By unbelief.\" ",
+            "The same voice which spake both by the law and in the gospel, when heard from heaven, will shake heaven and earth.",
+            "Much more shall not we \u2014 Those of us who turn from him that speaketh from heaven - That is, who came from heaven to speak to us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not reject God's word and turn away from His heavenly voice, for just as our ancestors did not escape the consequences of declining the voice that spoke on earth, we will not escape if we turn away from the voice that speaks from heaven. The speaker in both cases is God, speaking first from Mount Sinai through angels and now through His exalted Son from His heavenly throne. We are warned that the consequences for apostates are dreadful, as Zion has greater terrors than Sinai. Let us not refuse or disregard the word destined for us, for the punishment for despising the Gospel is severe.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.140630593179514,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                37.04,
+                33.07,
+                29.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not reject God's word and turn away from His heavenly voice, for just as our ancestors did not escape the consequences of declining the voice that spoke on earth, we will not escape if we turn away from the voice that speaks from heaven. The speaker in both cases is God, speaking first from Mount Sinai through angels and now through His exalted Son from His heavenly throne. We are warned that the consequences for apostates are dreadful, as Zion has greater terrors than Sinai.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.1944185736649118,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                40.89,
+                33.55,
+                25.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not decline God, the speaker from heaven, for if our ancestors did not escape the consequences of declining the voice that spoke on earth, we will not escape if we turn away from the voice that speaks from heaven. The speaker in both cases is God, speaking first from Mount Sinai through angels and now through His exalted Son from His heavenly throne. We are warned that the consequences for apostates are dreadful, as Zion has greater terrors than Sinai.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.182130041333668,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+            "commentatorTierSimilarities": [
+                42.02,
+                32.92,
+                25.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not decline God's voice, whether spoken on earth or from His heavenly throne through His Son. Our ancestors faced consequences for turning away from Him, and we will not escape if we do the same. The voice of God, heard in the Gospel, will shake heaven and earth. The punishment for despising the Gospel is severe, and those who turn away from it will not escape divine wrath and vengeance. Let us not refuse or neglect the word destined for us, lest we suffer the severest punishment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8729835934832086,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                31.68,
+                31.33,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heed that you do not decline God's voice, whether it was heard on earth or from His heavenly throne through His Son. Just as our ancestors did not escape the consequences of turning away from Him, we also will not escape if we reject His voice. The voice of God, heard in the Gospel, will bring about a shaking of heaven and earth. Let us not neglect or refuse the word that is destined for us, for the punishment for despising the Gospel is severe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.029205173224332,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                32.91,
+                33.54,
+                33.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

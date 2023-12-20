@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 17:50:47",
+    "verseRef": "Hebrews 12:9",
+    "bestBHT": {
+        "bht": "We used to have our earthly fathers as correctors, and we reverenced them. But how much more should we be in subjection to the Father of spirits, who is the Originator and Sustainer of both our physical and spiritual lives? Our earthly parents are limited in their relation to us, while God's relationship with us is universal and encompasses our essential life. Just as we showed reverence to our earthly fathers, we should submit with reverence and meekness to the Father of spirits, that we may live with Him forever.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.3659713099712114,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+        "commentatorTierSimilarities": [
+            41.27,
+            22.72,
+            36.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Then again we once had the fathers of our flesh as chastisers, and reverenced them: shall we not much rather be in subjection to the Father of spirits, and live?\" ",
+            "An inquiry arises out of the expression here used, in what sense our earthily fathers are said to be the fathers of our flesh, and God the Father of (our) spirits.",
+            "I would understand the expression as an exalted contrast of God, a Spirit Himself, and the Creator of spirits, His like, to men, flesh themselves, and the progenitors of fleshly bodies, their like."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We had the fathers of our flesh as correctors.",
+            "As 'Father of spirits,' He is both the Originator, and the Providential and Gracious Sustainer, at once of animal and spiritual life.",
+            "God is a spirit Himself, and the Creator of spirits like Himself, in contrast to men who are flesh, and the progenitors of flesh."
+        ],
+        "Albert Barnes": [
+            "In God everything is without any intermingling of passion or any improper feeling. In an earthly parent there is often much that is the result of hasty emotion, of an irascible temper, perhaps of the mere love of power.",
+            "The effect of such discipline, properly administered, is to produce real veneration for a parent - for he who in a timely and appropriate manner restrains his child is the only one who will secure ultimate reverence and respect.",
+            "Since God\u2019s government is so much more perfect; since he has so much better right to control us; and since his administration is free from all the defects which attend parental discipline on earth, there is a much higher reason for bowing with submission and reverence to him."
+        ],
+        "Marvin Vincent": [
+            "Their fathers, with whom God is compared, were only earthly, human parents.",
+            "The comparison is between the respect paid to a fallible, human parent, which may grow out of the natural relation, or may be due to fear, and the complete subjection to the divine Father.",
+            "Their relation to us is limited; his is universal. They are related to us on the fleshly side; he is the creator of our essential life."
+        ],
+        "John Calvin": [
+            "If we showed so much reverence to the fathers from whom we have descended according to the flesh, as to submit to their discipline, much more honor is due to God who is our spiritual Father.",
+            "The discipline which fathers use as to their children is only useful for the present life, but God looks farther, having in view to prepare us for an eternal life.",
+            "There is nothing more ruinous to us than to refuse to surrender ourselves in obedience to God."
+        ],
+        "Archibald T. Robertson": [
+            "We used to have chasteners. We turned ourselves to in habitual attitude of reverence.",
+            "We shall be in subjection unto the Father of our spirits.",
+            "Unto the Father of our spirits As God is."
+        ],
+        "John Gill": [
+            "Which corrected us; early, and at proper seasons, in love, and for instruction, and to prevent ruin, and death.",
+            "Shall we not much rather be in subjection to the Father of spirits, and live?",
+            "Such ought to be in 'subjection' to him; not only as creatures to a Creator, and as subjects to their prince: but as children to a father, and particularly to him, as and when correcting."
+        ],
+        "John Wesley": [
+            "And we reverenced them \u2014 We neither despised nor fainted under their correction.",
+            "Shall we not much rather \u2014 Submit with reverence and meekness To the Father of spirits - That we may live with him for ever.",
+            "Perhaps these expressions, fathers of our flesh, and Father of spirits, intimate that our earthly fathers are only the parents of our bodies, our souls not being originally derived from them, but all created by the immediate power of God; perhaps, at the beginning of the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "We used to have our earthly fathers as correctors, and we reverenced them. But how much more should we be in subjection to the Father of spirits, who is the Originator and Sustainer of both our physical and spiritual lives? Our earthly parents, with whom God is compared, are merely human and limited in their relation to us, while God's relationship with us is universal and encompasses our essential life. Just as we showed reverence to our earthly fathers, we should submit with reverence and meekness to the Father of spirits, that we may live with Him forever. His discipline is perfect, free from passion and defects, and designed to prepare us for eternal life. To refuse to surrender ourselves in obedience to God would be ruinous to us. Let us bow with submission and reverence to God, recognizing His superior right to control us and His perfect administration.",
+            "wordCount": 150,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 2.2074920884992015,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.74,
+            "commentatorTierSimilarities": [
+                35.17,
+                29.15,
+                35.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We used to have our earthly fathers as correctors, and we reverenced them. But how much more should we be in subjection to the Father of spirits, who is the Originator and Sustainer of both our physical and spiritual lives? Our earthly parents are limited in their relation to us, while God's relationship with us is universal and encompasses our essential life. Just as we showed reverence to our earthly fathers, we should submit with reverence and meekness to the Father of spirits, that we may live with Him forever.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.3659713099712114,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+            "commentatorTierSimilarities": [
+                41.27,
+                22.72,
+                36.01
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

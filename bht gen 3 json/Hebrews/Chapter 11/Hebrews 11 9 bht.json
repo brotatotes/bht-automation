@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:50:12",
+    "verseRef": "Hebrews 11:9",
+    "bestBHT": {
+        "bht": "Abraham, Isaac, and Jacob lived as strangers and pilgrims, dwelling in tents without a fixed possession. Their patient endurance was inspired by faith, as it assured them of a permanent home in the future. The promise of the land was made directly by God and they were heirs of the same promise, not through inheritance. Their faith enabled them to sustain the trial and patiently wait for the fulfillment of the promise, living in the land of promise as if it were not their own.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.9709478756034944,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+        "commentatorTierSimilarities": [
+            31.85,
+            33.46,
+            34.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "sojourned\u2014as a 'stranger and pilgrim.'",
+            "dwelling in tabernacles\u2014tents: as strangers and sojourners do: moving from place to place, as having no fixed possession of their own.",
+            "heirs with him of the same promise\u2014Isaac did not inherit it from Abraham, nor Jacob from Isaac, but they all inherited it from God directly as 'fellow heirs'."
+        ],
+        "Albert Barnes": [
+            "He resided there as if he were a stranger and sojourner.",
+            "He exercised no privileges which might not have been exercised by any foreigner, and which was not regarded as a right of common.",
+            "Yet they were heirs of the same promise as Abraham, that the land would be theirs."
+        ],
+        "Marvin Vincent": [
+            "In Class. only in the sense of neighbor.",
+            "The land which was designated in the promise of God.",
+            "Faith inspired these to endure patiently their unsettled life, since it assured them of a permanent home in the future."
+        ],
+        "John Calvin": [
+            "That Abraham then courageously sustained this trial was an instance of great fortitude; but it proceeded from faith alone.",
+            "By setting up the shield of faith they repelled all the assaults of doubt and unbelief.",
+            "Dwelling in tents, as well as Isaac and Jacob, co-heirs to the same promise."
+        ],
+        "Philip Schaff": [
+            "By faith he received the promise, and still waited for the fulfilment of it.",
+            "His whole life, therefore, was a life of promise unfulfilled, and so of patient waiting for God's time and at God's disposal.",
+            "Having his home in tents tents without foundation pitched today, struck tomorrow."
+        ],
+        "Archibald T. Robertson": [
+            "In the land of promise (\u03b5\u03b9\u03c2 \u03b3\u03b7\u03bd \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2). Literally, 'land of the promise.' The promise made by God to him (Genesis 12:7; Genesis 13:15; Genesis 17:8).",
+            "As in a land not his own (\u03c9\u03c2 \u03b1\u03bb\u03bb\u03bf\u03c4\u03c1\u03b9\u03b1\u03bd). For \u03b1\u03bb\u03bb\u03bf\u03c4\u03c1\u03b9\u03bf\u03c2 (belonging to another) see Hebrews 9:25; Hebrews 11:34.",
+            "The heirs with him of the same promise (\u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03ba\u03bb\u03b7\u03c1\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c5\u03c4\u03b7\u03c2). Late double compound (\u03c3\u03c5\u03bd, \u03ba\u03bb\u03b7\u03c1\u03bf\u03c3, \u03bd\u03b5\u03bc\u03bf\u03bc\u03b1), found in Philo, inscriptions and papyri, in N.T. only here, Romans 8:17; Ephesians 3:6; 1 Peter 3:7. 'Co-heirs' with Abraham."
+        ],
+        "John Gill": [
+            "The land of Canaan, so called, because it was promised to Abraham and his seed; and is typical of heaven, which is not by the works of the law, but by the free promise and grace of God.",
+            "So all God's people are sojourners in this world, strangers and pilgrims in it; this is not their dwelling place; they do not belong to it, but to another.",
+            "True believers, as they are Abraham's seed, they are heirs with him, according to the promise; and are heirs together of the grace of life; and dwell in earthly tabernacles, in houses of clay, which are erected for a while, and then taken down."
+        ],
+        "John Wesley": [
+            "By faith he sojourned in the land of promise.",
+            "Dwelling in tents - as a sojourner.",
+            "The joint heirs of the same promise - having all the same interest therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham, along with Isaac and Jacob, exemplified faith by living as strangers and pilgrims and dwelling in tents, without a fixed possession of their own. Despite their unsettled life, they patiently endured because their faith assured them of a permanent home in the promised land. This land was given to them directly by God, making them fellow heirs of the same promise. Their faithful sojourning in the land of promise, as if they were foreigners, demonstrated their trust in the free promise and grace of God. These patriarchs, as well as all true believers, are heirs together of the grace of life and dwell temporarily in earthly tabernacles. Through faith, they eagerly await a future heavenly dwelling, as they are not citizens of this world but belong to another.",
+            "wordCount": 129,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9530557615251511,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                31.88,
+                31.09,
+                37.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham, Isaac, and Jacob displayed remarkable faith by living as strangers and pilgrims in tents, without a permanent possession. Their enduring trust in God's promise of a future land sustained them through their unsettled life. These patriarchs, along with all true believers, are fellow heirs of the same promise, looking forward to a heavenly dwelling. Their temporary sojourning in the land of promise reflects their status as foreigners and their anticipation of the grace of life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7842104923449047,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                30.55,
+                31.98,
+                37.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham, Isaac, and Jacob lived as strangers and pilgrims, dwelling in tents without a fixed possession. Their patient endurance was inspired by faith, as it assured them of a permanent home in the future. The promise of the land was made directly by God and they were heirs of the same promise, not through inheritance. Their faith enabled them to sustain the trial and patiently wait for the fulfillment of the promise, living in the land of promise as if it were not their own.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9709478756034944,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                31.85,
+                33.46,
+                34.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The faith of Abraham, Isaac, and Jacob was seen in their lifestyle as strangers and pilgrims, dwelling in temporary tents. Their patient endurance was due to the assurance of a permanent home in the future, a promise made by God directly to them. They were co-heirs of the same promise, not through inheritance, but as fellow recipients. Their faith enabled them to live in the land of promise as if it were not their own, knowing that their true inheritance lay in the future.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.8408045028649176,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                31.62,
+                33.69,
+                34.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham, Isaac, and Jacob demonstrated their faith by living as strangers and pilgrims in temporary dwellings. Despite having no fixed possessions of their own, they patiently endured, knowing that their faith assured them of a permanent home in the future. This promise came directly from God, making them co-heirs of the same promise, not through inheritance but as recipients. Their faith allowed them to reside in the land of promise as if it were not their own, with the hope of a future heavenly dwelling.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9365385345091022,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                33.15,
+                31.4,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

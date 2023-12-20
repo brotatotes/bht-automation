@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:47:37",
+    "verseRef": "Hebrews 4:13",
+    "bestBHT": {
+        "bht": "No creature goes unseen in God's presence; His eyes are all-seeing. His powerful word lays bare the depths of our souls and exposes doubts and sins. We must approach Him with fear and shame, for no disguise can hide unbelief. We must diligently strive to enter His rest, aware that He sees and knows everything. His penetrating gaze reveals even our secret faults. May we obey His word with sincerity and affection, for nothing is hidden from His watchful eye.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 2.13284850020558,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+        "commentatorTierSimilarities": [
+            32.86,
+            34.09,
+            33.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And there is not a creature (the term embraces all created things, visible and invisible) unseen in His presence.\" ",
+            "But all things are naked and lying open to His eyes, with whom we have to do.\" ",
+            "His word is so powerful, and His eye so discerning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's wisdom, simply manifold, and uniformly multiform, with incomprehensible comprehension, comprehends all things incomprehensible.",
+            "Show, O man, shame and fear towards thy God, for no veil, no twisting, bending, coloring, or disguise, can cover unbelief.",
+            "Let us, therefore, earnestly labor to enter the rest lest any fall through practical unbelief."
+        ],
+        "Albert Barnes": [
+            "There is no being who is not wholly known to God. All his thoughts, feelings, plans, are distinctly understood.",
+            "There is nothing that can be concealed from God.",
+            "He will judge us according to truth, not according to appearances; and his sentence, therefore, will be just."
+        ],
+        "Marvin Vincent": [
+            "The victim's throat bared to the sacrificial knife is a powerful figure of the complete exposure of all created intelligence to the eye of him whose word is as a two-edged sword.",
+            "With whom is our reckoning; that is to whom we have to give account.",
+            "The exact metaphor, however, it is impossible to determine."
+        ],
+        "John Calvin": [
+            "There is no creature, he says, which is hid from the eyes of God; there is, therefore, nothing so deep in man\u2019s soul, which cannot be drawn forth into light by that word that resembles its own author.",
+            "We ought to obey God\u2019s word in sincerity and with cordial affection, because God, who knows our hearts, has assigned to his word the office of penetrating even into our inmost thoughts.",
+            "It is God who deals with us, or with whom we have a concern; and that, therefore, we ought not to trifle with him as with a mortal man, but that whenever his word is set before us, we ought to tremble, for nothing is hid from him."
+        ],
+        "Philip Schaff": [
+            "The power of this word comes really from Him whose it is. More accurately, the Word of God is God Himself speaking.",
+            "But all things are naked and l aid bare to the eyes of him with whom we have to do.",
+            "Before God we are all manifest, stripped of every covering and concealment, our very thoughts, our \u2018secret faults,\u2019 revealed to the eyes of him with whom we have to do."
+        ],
+        "Archibald T. Robertson": [
+            "God's microscope can lay bare the smallest microbe of doubt and sin.",
+            "Both soul and body are naked to the eye of God.",
+            "God's eyes see all the facts in our inmost hearts. There are no mental reservations from God."
+        ],
+        "John Gill": [
+            "There is no creature, in general, rational, or irrational, animate or inanimate, but what are known to him, and seen by him.\" ",
+            "He knows their persons, he sees their actions, even those that are most secretly devised and performed against him, and his saints.\" ",
+            "There is nothing in them, or belongs to them, but what is before him, even the secret desires of their souls."
+        ],
+        "John Wesley": [
+            "It is God whose word is thus 'powerful:' it is God in whose sight every creature is manifest; and of this his word, working on the conscience, gives the fullest conviction.",
+            "But all things are naked and opened \u2014 Plainly alluding to the sacrifices under the law which were first flayed, and then (as the Greek word literally means) cleft asunder through the neck and backbone; so that everything both without and within was exposed to open view."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's eyes see all, leaving no creature unseen in His presence. His word is powerful, laying bare the deepest parts of our souls, revealing our doubts and sins with precision. We must approach Him with shame and fear, aware that no disguise can cover unbelief. Let us labor to enter His rest, for no veil can hide our true selves from the one to whom we must give account. Every thought, feeling, and plan is distinctly understood by Him. Before God, we are stripped of every covering, our very thoughts and secret faults revealed. May we obey His word with sincerity and cordial affection, for nothing is hidden from His penetrating gaze.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 2.1294820985345932,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+            "commentatorTierSimilarities": [
+                31.01,
+                36.59,
+                32.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No creature goes unseen by God's discerning eyes. He sees all, both visible and invisible, and nothing can escape His sight. His powerful word lays bare the deepest parts of our souls, exposing doubt and sin. We must approach Him with shame and fear, knowing that no disguise can cover unbelief. Let us earnestly labor to enter His rest, for He knows us fully and we must give account to Him. His penetrating gaze reveals even our secret faults.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.070110074211926,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                34.34,
+                33.32,
+                32.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No creature goes unseen in God's presence; His eyes are all-seeing. His powerful word lays bare the depths of our souls and exposes doubts and sins. We must approach Him with fear and shame, for no disguise can hide unbelief. We must diligently strive to enter His rest, aware that He sees and knows everything. His penetrating gaze reveals even our secret faults. May we obey His word with sincerity and affection, for nothing is hidden from His watchful eye.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.13284850020558,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                32.86,
+                34.09,
+                33.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No creature is unseen in God's intimate presence; His eyes see all. His powerful word exposes every depth of our being, revealing doubts and sins. We must approach Him with reverence, for no disguise can conceal unbelief. Let us earnestly strive to enter His rest, aware that He knows us fully and we are accountable to Him. His penetrating gaze exposes every secret fault. May we sincerely and affectionately obey His word, for nothing escapes His watchful eye.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.069602036444302,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                31.62,
+                35.12,
+                33.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every created thing, both visible and invisible, is laid bare before God's discerning eyes. His powerful word exposes the depths of our souls, revealing doubt and sin. We should approach Him with shame and fear, for no disguise can conceal unbelief. Let us diligently strive to enter His rest, knowing that we will be held accountable. God's penetrating gaze uncovers even our hidden faults. Therefore, let us obey His word with sincerity and affection, understanding that nothing is hidden from His watchful eye.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.108740081463874,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+            "commentatorTierSimilarities": [
+                33.78,
+                34.26,
+                31.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

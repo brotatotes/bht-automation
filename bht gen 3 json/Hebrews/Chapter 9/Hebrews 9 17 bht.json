@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:49:01",
+    "verseRef": "Hebrews 9:17",
+    "bestBHT": {
+        "bht": "The writer of Hebrews uses the idea of a testament or will to highlight the significance of Christ's death. Just as a testament only has force once the testator dies, the new covenant is established through Christ's death. The necessity of Christ's death is emphasized, as it is through His sacrificial act that the claims and rights of the beneficiaries of the covenant can be fulfilled. Only after His death can the covenant become operative and carry out its intended purpose.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.1,
+        "qualityScore": 1.924214435915594,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+        "commentatorTierSimilarities": [
+            30.46,
+            33.93,
+            35.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For a testament is of force in the case of the dead.",
+            "The Writer has in his mind the transition which he is about to make from the death of the New Testament to the typical deaths of the Old.",
+            "A testament is never availing when he that made it is alive."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "after\u2014literally, 'over,' as we say 'upon the death of the testators'\".",
+            "otherwise\u2014'seeing that it is never availing'",
+            "BENGEL and LACHMANN read with an interrogation, 'Since, is it ever in force (surely not) while the testator liveth?'"
+        ],
+        "Albert Barnes": [
+            "For a covenant is completed or confirmed over dead sacrifices, seeing it is never of force as long as the victim set apart for its ratification is still living.\" ",
+            "What is the meaning of this very word - \u03bd\u03b5\u03ba\u03c1\u03bf\u0301\u03c2 nekros - 'nekros' - in Hebrews 6:1; Hebrews 9:14, of this very Epistle when it is applied to works - 'dead works' - if it never refers to anything but people?",
+            "It can be confirmed only by its being slain."
+        ],
+        "Marvin Vincent": [
+            "For a covenant is of force (or sure) over (or upon) dead (victims).",
+            "Since it hath not then force when the institutor is alive.",
+            "Until he has been representatively slain."
+        ],
+        "Philip Schaff": [
+            "For a covenant is of force over the dead.",
+            "Since it has no avail at all while the covenanting victim liveth."
+        ],
+        "John Gill": [
+            "The necessity of Christ's death is here urged, from the nature and force of a testament or will, among men, which does not take place, and cannot be executed, till a man is dead.",
+            "No claim can be made by the legatees for the part they have in it, nor can any disposition be made by the executor of it.",
+            "There was a necessity of it, that the saints right unto it, upon the foot of justice, might be evident by it."
+        ],
+        "John Wesley": [
+            "After he is dead \u2014 Neither this, nor after men are dead is a literal translation of the words. It is a very perplexed passage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The writer of Hebrews illustrates the importance of Christ's death by drawing on the nature and force of a testament or will. Just as a testament only becomes effective and executory upon the death of the testator, so the new covenant that Christ establishes can only come into force after His death. It is through His sacrificial death that the covenant is completed and confirmed. The necessity of Christ's death is emphasized, highlighting that no claim can be made and no disposition can be enacted until the death of the testator.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.9027980338202197,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                31.15,
+                32.21,
+                36.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews explains the significance of Christ's death by comparing it to the nature of a testament or will. In order for a testament to be valid and effective, the testator must die. Similarly, the new covenant established by Christ becomes operational only after His sacrificial death. Through His death, the covenant is confirmed and fulfilled. This emphasizes the necessity of Christ's death, as it is only through His sacrificial act that the claims and rights of the beneficiaries of the covenant can be fulfilled.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.7252950804920406,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                31.18,
+                35.34,
+                33.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer of Hebrews uses the idea of a testament or will to highlight the significance of Christ's death. Just as a testament only has force once the testator dies, the new covenant is established through Christ's death. The necessity of Christ's death is emphasized, as it is through His sacrificial act that the claims and rights of the beneficiaries of the covenant can be fulfilled. Only after His death can the covenant become operative and carry out its intended purpose.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.924214435915594,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                30.46,
+                33.93,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews emphasizes the importance of Christ's death by drawing on the concept of a testament or will. Just as a testament is only valid when the testator has died, the new covenant established by Christ becomes effective through His sacrificial death. The necessity of Christ's death is highlighted, as it is through His sacrificial act that the claims and rights of the beneficiaries of the covenant can be fulfilled. Only after His death can the covenant take effect and accomplish its intended purpose.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.8516550140179011,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                31.26,
+                34.05,
+                34.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer of Hebrews underscores the significance of Christ's death by comparing it to a testament or will. Similar to how a testament is only valid when the testator dies, the new covenant is established through Christ's sacrificial death. The necessity of Christ's death is emphasized, as it is through His act that the claims and rights of the covenant's beneficiaries can be fulfilled. The covenant becomes operative only after His death, enabling it to accomplish its intended purpose.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.8466224695347702,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                30.9,
+                34.29,
+                34.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

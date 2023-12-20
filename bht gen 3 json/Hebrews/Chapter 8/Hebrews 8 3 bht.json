@@ -1,0 +1,97 @@
+{
+    "timestamp": "12-19-2023 17:48:27",
+    "verseRef": "Hebrews 8:3",
+    "bestBHT": {
+        "bht": "It is necessary that our High Priest in heaven has something to offer, namely, the blood of the offering, Christ, which He bears into the Holy Place. Just as the high priest did not enter the Holy Place without blood, Christ has entered the heavenly Holy Place with His own blood. It is indispensable that Christian ministers bring a sacrifice to God, as the priesthood is an empty name without a sacrifice. Our prayers must be founded on the sacrifice of Christ, as all are without any sacrifice of their own to appease God.",
+        "wordCount": 94,
+        "quoteTokenProportion": 57.89,
+        "qualityScore": 2.4318202972798595,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+        "commentatorTierSimilarities": [
+            26.05,
+            40.27,
+            33.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whence it is necessary that this (High Priest) also have somewhat which He may offer.",
+            "Thus regarded then, what is it which our High Priest in heaven has to offer?",
+            "This BLOOD of the one offering, Christ is represented as bearing into the Holy Place, and its application is set ever forth to us as a continuing and constantly repeated one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But as the high priest did not enter the Holy Place without blood, so Christ has entered the heavenly Holy Place with His own blood.\" ",
+            "That 'blood of sprinkling' is in heaven. And is thence made effectual to sprinkle believers as the end of their election.\" ",
+            "Christ, as a priest, has His blood as His oblation to offer before God."
+        ],
+        "Albert Barnes": [
+            "If this idea that a priest must offer sacrifice be correct, then it follows that the name priest should not be given to any one who is not appointed to offer sacrifice.",
+            "The name priest as applied to Christian ministers, has been derived from the 'papists.'",
+            "That is, since he is declared to be a priest, and since it is essential to the office that a priest should make an offering, it is indispensable that he should bring a sacrifice to God."
+        ],
+        "Marvin Vincent": [
+            "Wherefore it is necessary.\" ",
+            "Somewhat to offer\" ",
+            "The statement is a truism, unless it be assumed that the Hebrew Christians were ignorant of the doctrine of Christ's priesthood."
+        ],
+        "John Calvin": [
+            "The Law appointed priests to offer sacrifices to God; it hence appears that the priesthood is an empty name without a sacrifice.",
+            "That our prayers may be heard, they must be founded on a sacrifice; their audacity, therefore, is altogether pernicious and fatal, who pass by Christ and forget his death, and yet rush into the presence of God.",
+            "No one either among men or angels is qualified for pacifying God, for all are without any sacrifice of their own which they can offer to appease God."
+        ],
+        "Archibald T. Robertson": [
+            "It is necessary (\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b9\u03bf\u03bd). A moral and logical necessity.",
+            "This high priest also (\u03ba\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd). 'This one also,' no word for high priest.",
+            "Somewhat to offer (\u03c4 \u03c9 \u03c0\u03c1\u03bf\u03c3\u03b5\u03bd\u03b5\u03b3\u03ba\u03b7). Second aorist active subjunctive of \u03c0\u03c1\u03bf\u03c3\u03c6\u03b5\u03c1\u03c9."
+        ],
+        "John Gill": [
+            "he was a person, and existed as a divine person antecedent to his assumption of human nature",
+            "something to offer as a sacrifice was necessary to him as a priest, but not any thing was proper to him",
+            "it was human nature that had offended God, and satisfaction must be made in that nature"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "It is necessary that our High Priest in heaven has something to offer, namely, the blood of the offering, Christ, which He bears into the Holy Place. This sprinkling of blood is made effectual in heaven and is constantly repeated. Just as the high priest did not enter the Holy Place without blood, Christ has entered the heavenly Holy Place with His own blood. This is why the Hebrew Christians should not be ignorant of the doctrine of Christ's priesthood. As a priest, Christ has His blood as His oblation to offer before God. It follows that a priest must offer sacrifice, and for Christian ministers, it is indispensable that they bring a sacrifice to God. Without a sacrifice, the priesthood is an empty name. Therefore, it is essential that our prayers are founded on the sacrifice of Christ, as all are without any sacrifice of their own to appease God.",
+            "wordCount": 152,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.3428830032637116,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.24,
+            "commentatorTierSimilarities": [
+                27.96,
+                40.42,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is necessary that our High Priest in heaven has something to offer, namely, the blood of the offering, Christ, which He bears into the Holy Place. Just as the high priest did not enter the Holy Place without blood, Christ has entered the heavenly Holy Place with His own blood. It is indispensable that Christian ministers bring a sacrifice to God, as the priesthood is an empty name without a sacrifice. Our prayers must be founded on the sacrifice of Christ, as all are without any sacrifice of their own to appease God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 2.4318202972798595,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+            "commentatorTierSimilarities": [
+                26.05,
+                40.27,
+                33.69
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

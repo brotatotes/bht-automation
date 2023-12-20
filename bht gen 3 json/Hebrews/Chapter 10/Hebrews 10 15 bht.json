@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 17:49:24",
+    "verseRef": "Hebrews 10:15",
+    "bestBHT": {
+        "bht": "The Gospel covenant eliminates the need for further sacrifices, as it brings remission of sins. Multiple testimonies confirm this, highlighting the distinction between the new and old covenants. The authority of the Old Testament scriptures is affirmed, emphasizing the excellence and perfection of Christ's priesthood and sacrifice. Through His sacrifice, all other expiatory sacrifices are rendered unnecessary, securing the blessings of the new covenant.",
+        "wordCount": 65,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 1.6472819154464997,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+        "commentatorTierSimilarities": [
+            44.15,
+            0.0,
+            55.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "After He had said before, This is the covenant that I will make with them... saith the Lord; I will put My laws into their hearts and in their minds; I will inscribe them... their sins... will I remember no more.\" The great object of the quotation here is to prove that, there being in the Gospel covenant, 'REMISSION of sins,' there is no more need of a sacrifice for sins. - Hebrews 10:15",
+            "The testimony of all Three leads to the same conclusion.\" - Hebrews 10:15",
+            "The object of the same quotation in Hebrews 8:8-13 is to show that, there being a 'NEW covenant,' the old is antiquated.\" - Hebrews 10:15"
+        ],
+        "John Calvin": [
+            "Hence we may conclude, that sins are now remitted in a way different from what they were formerly; but this difference is not in the promise, nor in faith, but in the very price by which remission is procured.\" ",
+            "The sacrifices of the Law are not more effectually proved here to have been abolished, than the sacrifice of the mass practiced by the Papists is proved to be a vain fiction.\" ",
+            "The Papists, in order to make the death of Christ efficacious, require daily applications by means of a sacrifice; so that they calling themselves Christians, differ nothing from the Jews except in the external symbol."
+        ],
+        "Archibald T. Robertson": [
+            "And the Holy Ghost also beareth witness to us.\" ",
+            "The author confirms his interpretation of Psalms 40:7-9 by repeating from Jeremiah what he had already quoted.\" ",
+            "After he hath said, 'after the having said'."
+        ],
+        "John Gill": [
+            "This preface to the following citation shows that the books of the Old Testament are of divine original and authority.\" ",
+            "He is truly and properly God, the Lord, or Jehovah, that speaks in the following verses.\" ",
+            "He is a distinct divine Person and the author of the covenant of grace."
+        ],
+        "John Wesley": [
+            "The new covenant as now completely ratified, and all the blessings of it secured to us by the one offering of Christ.\" ",
+            "All other expiatory sacrifices, and any repetition of his own, utterly needless.\" ",
+            "The excellency and perfection of the priesthood and sacrifice of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 10:15, the author quotes a passage from the Old Testament to emphasize the remission of sins through the Gospel covenant. This quotation serves as evidence that no further sacrifices for sins are necessary. The repetition of this testimony by multiple sources only strengthens the argument. The verse also highlights the difference between the new covenant and the old, ultimately rendering the old covenant obsolete. The testimonies presented provide divine confirmation of the authority and origination of the Old Testament scriptures. This passage underscores the uniqueness and efficacy of Christ's sacrifice, rendering all other expiatory sacrifices unnecessary. It further emphasizes the excellence and perfection of Christ's priesthood and sacrifice.",
+            "wordCount": 111,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.5914532125094332,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                47.21,
+                0.0,
+                52.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gospel covenant brings remission of sins, making further sacrifices unnecessary. Multiple testimonies confirm this truth, showing a clear distinction between the new and old covenants. The authority of the Old Testament scriptures is affirmed through divine confirmation. Christ's sacrifice stands out as unique and effective, rendering all other sacrifices unnecessary. His priesthood and sacrifice are excellent and perfect, securing the blessings of the new covenant.",
+            "wordCount": 67,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.5104107001620666,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                43.39,
+                0.0,
+                56.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great object... there is no more need... for sins. The Gospel covenant brings remission of sins, making further sacrifices unnecessary. Multiple testimonies confirm this truth, showing a clear distinction between the new and old covenants. The authority of the Old Testament scriptures is affirmed through divine confirmation. Christ's sacrifice stands out as unique and effective, rendering all other sacrifices unnecessary. His priesthood and sacrifice are excellent and perfect, securing the blessings of the new covenant.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.4486428309885122,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                43.4,
+                0.0,
+                56.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Hebrews 10:15, the author points out that the Gospel covenant provides remission of sins, removing the need for additional sacrifices. This is confirmed by multiple testimonies, highlighting the distinction between the new and old covenants. The authority of the Old Testament scriptures is affirmed, emphasizing the excellence and perfection of Christ's priesthood and sacrifice. Through His sacrifice, all other expiatory sacrifices are rendered unnecessary, securing the blessings of the new covenant.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.7120503244131446,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                46.15,
+                0.0,
+                53.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel covenant eliminates the need for further sacrifices, as it brings remission of sins. Multiple testimonies confirm this, highlighting the distinction between the new and old covenants. The authority of the Old Testament scriptures is affirmed, emphasizing the excellence and perfection of Christ's priesthood and sacrifice. Through His sacrifice, all other expiatory sacrifices are rendered unnecessary, securing the blessings of the new covenant.",
+            "wordCount": 65,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.6472819154464997,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                44.15,
+                0.0,
+                55.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

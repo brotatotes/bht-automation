@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:51:12",
+    "verseRef": "Hebrews 12:5",
+    "bestBHT": {
+        "bht": "Do not forget the exhortation that urges you to not despise the correction of the Lord or faint when you are rebuked by Him. His discipline is given in kindness to remove impurities and strengthen your faith. It is essential not to disregard or make light of His chastening, for it signifies His love and concern for you as a Father. Instead of resisting or resenting His correction, endure it with patience and trust in His loving guidance.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.957410082493793,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+        "commentatorTierSimilarities": [
+            29.41,
+            29.49,
+            41.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And ye have completely forgotten the exhortation... despise not the chastening of the Lord.\" ",
+            "Nor faint when corrected by Him.",
+            "Have no aversion to His correction."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His exhortation ought to have more effect on you than the cheers and exhortations of the spectators have on the competitors striving in the games.",
+            "Betraying a contumacious spirit of unbelief, as 'faint' implies a broken-down, weak, and desponding spirit.",
+            "To him such adverse things occur only by the decree of God, and that designed in kindness, namely, to remove the defilements adhering to the believer, and to exercise his patience."
+        ],
+        "Albert Barnes": [
+            "Do not regard it as a small matter, or as a trivial thing.",
+            "Afflictions have many objects, or produce many happy effects.",
+            "Avoid the extremes of proud insensibility and entire dejection."
+        ],
+        "Marvin Vincent": [
+            "Ye have forgotten [\u03b5\u03ba\u03bb\u03b5\u03bb\u03b7\u03c3\u03b8\u03b5]. The simple verb lanqanein means to escape notice; to be unseen or unknown. Middle and passive, to let a thing escape; forget.",
+            "My son, etc. From Proverbs 3:11, Proverbs 3:12. Comp. Job 5:17.",
+            "Despise not [\u03bc\u03b7 \u03bf\u03bb\u03b9\u03b3\u03c9\u03c1\u03b5\u03b9]. It means to make little of [\u03bf\u03bb\u03b9\u03b3\u03bf\u03c2]."
+        ],
+        "John Calvin": [
+            "It is useful and needful for us to be disciplined by the cross.",
+            "If the scourges of God testify his love towards us, it is a shame that they should be regarded with dislike or hatred.",
+            "They who bear not to be chastised by God for their own salvation, yea, who reject a proof of his paternal kindness, must be extremely ungrateful."
+        ],
+        "Philip Schaff": [
+            "And ye have quite forgotten...the exhortation...which reasons with you...The quotation is from Proverbs 3:11-12; and as wisdom speaks there as a person, so here the exhortation she gives is spoken of as a person addressing tender, motherly appeals to all who suffer.",
+            "Nor faint when corrected by him. The rendering of the Greek is here adopted; the Hebrew means, to resent or to murmur against.",
+            "Despondency and resentment imply the same unbelief of the loving purpose of the discipline, and they express themselves in the same outward form of complaint."
+        ],
+        "Archibald T. Robertson": [
+            "Ye have forgotten... to cause to forget, old verb\".",
+            "Reasoneth with you... to ponder different (\u03b4\u03b9\u03b1-) things, to converse, with dative\".",
+            "Chastening... correction and punishment as here\"."
+        ],
+        "John Gill": [
+            "My son, despise not thou the chastening of the Lord; by which is meant, not vindictive punishment; this would not be speaking to them, nor dealing with them as children, and would be contrary to the love of God towards them.",
+            "But a fatherly correction is designed, and which is given in love by God, as a Father, and for the instruction of his children, as the word used signifies.",
+            "And it is called not the chastening of men, but of the Lord; every chastening, or afflictive providence, is appointed by God, and is looked upon by believers, when grace is in exercise, as coming from him."
+        ],
+        "John Wesley": [
+            "Despise not thou the chastening of the Lord \u2014 Do not slight or make little of it; do not impute any affliction to chance or second causes but see and revere the hand of God in it.",
+            "Neither faint when thou art rebuked of him \u2014 But endure it patiently and fruitfully.",
+            "Proverbs 3:11, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not despise the correction and chastening of the Lord, for His exhortation should have a greater impact on you than any applause or encouragement from onlookers. Refrain from having a resistant and unbelieving spirit, as this implies weakness, despondency, and a lack of faith. Remember that adverse circumstances are allowed by God to purify and strengthen you, shedding away impurities and testing your patience. Do not forget or overlook these truths but receive them with the understanding that they come from a loving Father who desires to teach and guide His children. Instead of resenting His correction, endure it patiently and fruitfully, recognizing it as a sign of His care and guidance for your growth.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8279150041080667,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                28.75,
+                30.73,
+                40.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not overlook the exhortation that reasons with you, Despise not the chastening of the Lord; neither faint when rebuked by Him. Have no aversion to His correction, for His discipline is meant to remove defilements and cultivate patience. Remember the words, My son, do not make light of the Lord's discipline, and do not lose heart when He rebukes you. Endure it patiently, for afflictions have a purpose and express God's love as a Father.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9380759514124661,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                29.14,
+                28.93,
+                41.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not forget the exhortation that urges you to not despise the correction of the Lord or faint when you are rebuked by Him. His discipline is given in kindness to remove impurities and strengthen your faith. It is essential not to disregard or make light of His chastening, for it signifies His love and concern for you as a Father. Instead of resisting or resenting His correction, endure it with patience and trust in His loving guidance.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.957410082493793,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                29.41,
+                29.49,
+                41.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not overlook the exhortation that reasons with you, Despise not the chastening of the Lord; neither faint when rebuked by Him. Have no aversion to His correction, for His discipline is meant to remove defilements and cultivate patience. Remember the words, My son, despise not thou the chastening of the Lord; by which is meant, not vindictive punishment...It is called not the chastening of men, but of the Lord; every chastening, or afflictive providence, is appointed by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.93645757013382,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                30.4,
+                25.29,
+                44.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not forget the exhortation to not despise the chastening of the Lord and to not faint when corrected by Him. The cheers and encouragements of spectators in a game should have less impact on you compared to the effect of His exhortation. Do not have a broken-down, weak, and desponding spirit of unbelief, but rather embrace His correction as a means to remove defilements and cultivate patience. Recognize that adverse circumstances are by the decree of God, designed in kindness for your growth. Remember the wisdom from Proverbs, My son, despise not thou the chastening of the Lord.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9030670629925348,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                34.0,
+                27.78,
+                38.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

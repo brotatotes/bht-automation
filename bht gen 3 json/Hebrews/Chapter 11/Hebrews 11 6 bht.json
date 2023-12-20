@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:50:02",
+    "verseRef": "Hebrews 11:6",
+    "bestBHT": {
+        "bht": "Without faith, it is impossible to please God. This is because faith is the foundation and assurance of our belief in God's existence and His faithfulness to reward those who diligently seek Him. Our works and desires must be rooted in this intelligent faith, as works without faith are just splendid sins. We must have confidence in God, in His fidelity, truth, wisdom, and promises, to truly please Him. If we doubt His declarations and promises, if we do not believe that He hears our prayers, then there can be no encouragement to call upon Him. Therefore, our relationship with God is built upon the conviction that He is, and that He is a rewarder to all who seek Him.",
+        "wordCount": 121,
+        "quoteTokenProportion": 52.78,
+        "qualityScore": 2.265864922386047,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.68,
+        "commentatorTierSimilarities": [
+            27.03,
+            38.59,
+            34.38
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But apart from faith it is impossible... to please... God.\"  ",
+            "It behoves him that cometh to God... to believe that He is... and becomes a renderer of reward.\"  ",
+            "God's existence is realized to him by it, and by it his future reward assured."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is impossible to please God at all.",
+            "Works not rooted in God are splendid sins.",
+            "The reward is God Himself diligently 'sought' and 'walked with' in partial communion here, and to be fully enjoyed hereafter."
+        ],
+        "Albert Barnes": [
+            "Without 'confidence' in God - in his fidelity, his truth, his wisdom, his promises... It is impossible for a child to please his father unless he has confidence in him.",
+            "He cannot be pleased with the man who has no confidence in him; who doubts the truth of his declarations and promises; who does not believe that his ways are right, or that he is qualified for universal empire.",
+            "If we could not believe that God would hear and answer our prayers, there could be no encouragement to call upon him."
+        ],
+        "John Calvin": [
+            "The reason he assigns why no one can please God without faith, is this, \u2014 because no one will ever come to God, except he believes that God is, and is also convinced that he is a remunerator to all who seek him.",
+            "We must believe that God is deeply fixed in our hearts, so as not to be led here and there by various opinions.",
+            "Faith will only then be complete and secure us God\u2019s favor, when we shall feel a confidence that we shall not seek him in vain, and thus entertain the certainty of obtaining salvation from him."
+        ],
+        "Archibald T. Robertson": [
+            "The very existence of God is a matter of intelligent faith.",
+            "This is true in business also (banks, for instance).",
+            "That seek out God."
+        ],
+        "John Gill": [
+            "Without faith it is impossible to please him...\" ",
+            "...he must believe that he is; or exists...",
+            "...and that he is a rewarder of them that diligently seek him..."
+        ],
+        "John Wesley": [
+            "Without faith, it is impossible to please him.\" ",
+            "Even some divine faith in God.",
+            "He that cometh to God must believe that he is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without faith, it is impossible to please God. This is because faith is the foundation and assurance of our belief in God's existence and His faithfulness to reward those who diligently seek Him. Our works and desires must be rooted in this intelligent faith, as works without faith are just splendid sins. We must have confidence in God, in His fidelity, truth, wisdom, and promises, to truly please Him. If we doubt His declarations and promises, if we do not believe that He hears our prayers, then there can be no encouragement to call upon Him. Therefore, our relationship with God is built upon the conviction that He is, and that He is a rewarder to all who seek Him.",
+            "wordCount": 121,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 2.265864922386047,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.68,
+            "commentatorTierSimilarities": [
+                27.03,
+                38.59,
+                34.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without faith, it is impossible to please God. Our works must be rooted in intelligent faith, for works without faith are splendid sins. We must have confidence in God's fidelity, truth, wisdom, and promises, in order to truly please Him. Our relationship with God is built upon the conviction that He exists and that He rewards those who diligently seek Him. If we doubt His declarations and promises, there is no encouragement to call upon Him. Faith is the foundation of our belief in God, and an assurance of His faithfulness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.215357696692482,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.0,
+            "commentatorTierSimilarities": [
+                27.36,
+                38.52,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Without faith, it is impossible to please God. (1) Our works must be rooted in intelligent faith, (1) for works without faith are splendid sins. (1) We must have confidence in God's fidelity, truth, wisdom, and promises, (2) in order to truly please Him. Our relationship with God is built upon the conviction that He exists (1) and that He rewards those who diligently seek Him. (1) Faith is the foundation of our belief in God (2) and an assurance of His faithfulness. (1)",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.9945371564699559,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                28.24,
+                36.59,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Apart from faith, it is impossible to please God, as It behoves him that cometh to God to believe that He is and becomes a renderer of reward. This intelligent faith recognizes the existence of God and His willingness to reward those who seek Him. Our relationship with God is built upon this confidence in His fidelity, truth, and promises, for without it, our works are merely splendid sins. Faith assures us of God's faithfulness and forms the foundation of our belief in Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.3941442754945554,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.95,
+            "commentatorTierSimilarities": [
+                30.74,
+                35.82,
+                33.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Apart from faith, it is impossible to please God. It behoves him that cometh to God to believe that He is and becomes a renderer of reward. Our relationship with God is built upon this confidence in His fidelity, truth, and promises. Without faith, our works are merely splendid sins. This intelligent faith assures us of God's faithfulness and forms the foundation of our belief in Him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.2492844618624286,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+            "commentatorTierSimilarities": [
+                32.45,
+                33.24,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

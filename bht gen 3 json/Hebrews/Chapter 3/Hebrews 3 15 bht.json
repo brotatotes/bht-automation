@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:46:57",
+    "verseRef": "Hebrews 3:15",
+    "bestBHT": {
+        "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This reminder emphasizes the need to avoid the wicked heart of unbelief and hold onto our confidence in Christ until the end. The invitation given in the ninety-fifth Psalm should not remain a mere invitation, but rather a lived experience. The fulfillment of this condition lies in the Scripture itself, which calls us daily and necessitates our continual growth in faith. Therefore, let us encourage one another, cling to Christ and His Gospel, and willingly obey His teachings every day.",
+        "wordCount": 99,
+        "quoteTokenProportion": 39.19,
+        "qualityScore": 1.7691694617032976,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+        "commentatorTierSimilarities": [
+            28.65,
+            29.97,
+            41.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I would render then, 'since it is said,' or in more idiomatic English, for it is said, To-day if ye hear His voice, harden not your hearts, as in the provocation.",
+            "Thus the context goes on smoothly, and the purpose of the whole is to shew, as is summed up in ver. 12, that (ver. 12) it is the wicked heart of unbelief which they have above all things to avoid.",
+            "This argument is now carried forward by taking up the word provocation, and asking, in a double question, who they were that provoked, and with whom it was that He was offended."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It entirely depends on yourselves that the invitation of the ninety-fifth Psalm be not a mere invitation, but also an actual enjoyment.",
+            "ALFORD translates, 'Since (that is, 'for') it is said,' &c., regarding Hebrews 3:15 as a proof that we must 'hold . . . confidence . . . unto the end,' in order to be 'partakers of Christ.'",
+            "While it is said\u2014connected with Hebrews 3:13, 'exhort one another . . . while it is said, To-day': Hebrews 3:13- :, 'for we are made partakers,' &c., being a parenthesis."
+        ],
+        "Albert Barnes": [
+            "Persevere as long as life lasts, or as long as it can be said 'today'; and by persevering in this manner you will have evidence that you are the friends of the Redeemer.",
+            "Paul means, undoubtedly, to make use of this language himself as a direct exhortation to the Christians to whom he was writing.",
+            "He entreats them, therefore, as long as it could be said 'today,' or as long as life lasted, to take care lest they should harden their hearts as had been done in the temptation in the wilderness."
+        ],
+        "Marvin Vincent": [
+            "We are fellows of Christ if we hold the beginning of our confidence steadfast unto the end.\" ",
+            "The holding fast come to pass only on the ground of what is said in that Psalm.\" ",
+            "The condition of fulfillment... is declared to rest on the same Scripture."
+        ],
+        "John Calvin": [
+            "The reason for making progress never ceases as long as we live, because God calls us daily.",
+            "It is not enough for us readily to receive his doctrine, except we exhibit the same teachableness and obedience tomorrow and every following day.",
+            "Since God never makes an end of speaking, we ought to continue growing in faith."
+        ],
+        "Philip Schaff": [
+            "We must hold fast if we would be partakers of Christ.",
+            "Today if ye hear his voice.",
+            "The connection of this verse with the preceding is difficult."
+        ],
+        "Archibald T. Robertson": [
+            "While it is said...the author introduces the repeated quotation\" ",
+            "Probably it is to be connected with \u03ba\u03b1\u03c4\u03b1\u03c3\u03c7\u03c9\u03bc\u03b5\u03bd",
+            "though it can be joined with \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03b5\u03b9\u03c4\u03b5"
+        ],
+        "John Gill": [
+            "Exhort one another, and hold fast Christ and his Gospel, and faith and confidence therein.\" ",
+            "The words belong to the present times of the Gospel, and contain in them matter of moment, and great concern.",
+            "Scripture instructions and exhortations are of perpetual use."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This verse serves as a reminder that believers must avoid the wicked heart of unbelief and hold onto their confidence in Christ until the very end. The invitation presented in the ninety-fifth Psalm should not be mere words, but a lived reality. The fulfillment of this condition is rooted in the Scripture, which calls us daily and requires our continual growth in faith. Therefore, let us exhort one another, hold fast to Christ and His Gospel, and remain teachable and obedient each day.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.8345944776069747,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                27.92,
+                30.81,
+                41.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This verse reminds us to avoid the heart of unbelief and hold onto confidence in Christ until the end. The invitation of the ninety-fifth Psalm should not be a mere invitation, but an actual enjoyment. Fulfillment depends on ourselves and rests on the same Scripture. Let us exhort one another, hold fast to Christ and His Gospel, and continue growing in faith every day.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8313545685551849,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                30.7,
+                29.96,
+                39.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This reminder emphasizes the need to avoid the wicked heart of unbelief and hold onto our confidence in Christ until the end. The invitation given in the ninety-fifth Psalm should not remain a mere invitation, but rather a lived experience. The fulfillment of this condition lies in the Scripture itself, which calls us daily and necessitates our continual growth in faith. Therefore, let us encourage one another, cling to Christ and His Gospel, and willingly obey His teachings every day.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7691694617032976,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                28.65,
+                29.97,
+                41.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This verse reminds us that we must avoid the heart of unbelief and hold onto our confidence in Christ until the end. The invitation of the ninety-fifth Psalm should not be empty words, but an actual enjoyment. Fulfillment depends on ourselves and rests on the same Scripture. Let us exhort one another, hold fast to Christ and His Gospel, and continue growing in faith every day.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.848454278880427,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.8,
+            "commentatorTierSimilarities": [
+                30.23,
+                29.81,
+                39.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For it is said, 'Today if you hear His voice, harden not your hearts, as in the provocation.' This reminder urges believers to avoid unbelief and maintain unwavering trust in Christ until the end. The invitation conveyed in the ninety-fifth Psalm should be more than mere words, but a tangible experience. Its realization depends on personal commitment and is grounded in the same Scripture. Together, let us encourage one another, hold firmly to Christ and His Gospel, and persevere in growing our faith daily.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7335653394195532,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                28.88,
+                30.69,
+                40.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

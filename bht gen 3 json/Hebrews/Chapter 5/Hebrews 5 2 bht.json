@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:02",
+    "verseRef": "Hebrews 5:2",
+    "bestBHT": {
+        "bht": "The high priest is called to be compassionate towards the ignorant and erring, making allowances for their weaknesses and showing leniency. His duty is not to please himself, but to sympathize with the sinner and plead with God on their behalf. Despite his own infirmities, he must withhold irritation and indulgence, understanding the frailty and deception that can lead astray. This compassion is necessary because the priest himself is encompassed with weaknesses, enabling him to effectively intercede for guilty and misguided people.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.3825645736173984,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.56,
+        "commentatorTierSimilarities": [
+            32.57,
+            38.47,
+            28.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "being (one who is) able (this clause is closely bound to the last, and belongs to it, not to the whole sentence) to be compassionate towards the ignorant and erring",
+            "towards those who [possibly after all] are ignorant and deluded",
+            "ignorance and error, being the results of weakness, with which he himself is encompassed"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being able\"; not pleasing himself.",
+            "Feel leniently,\" or \"moderately towards\"; \"to make allowance for\"; not showing stern rigor save to the obstinate.",
+            "Deluded through the fraud of Satan and their own carnal frailty and thoughtlessness."
+        ],
+        "Albert Barnes": [
+            "The high priest is taken from among men, in order that he may have a fellow-feeling for those on whose behalf he officiates.",
+            "He is liable to err; He is subject to temptation; he must die, and appear before God - and encompassed with these infirmities, he is better qualified to minister in behalf of guilty and dying people.",
+            "They are of like passions with others. They are sinners; they are dying men. They can enter into the feelings of those who are conscious of guilt; they can sympathize with those who tremble in dread of death; they can partake of the emotions of those who expect soon to appear before God."
+        ],
+        "Marvin Vincent": [
+            "It is not identical with sunpaqhsai(ch. 4 5), but signifies to be moderate or tender in judgment toward another's errors.",
+            "The high priest must not be betrayed into irritation at sin and ignorance, neither must he be weakly indulgent.",
+            "Sympathy belongs to the high-priestly office, and grows out of the sense of personal infirmity."
+        ],
+        "John Calvin": [
+            "It is enough for us to know that he bare our infirmities, though free from sin and undefiled.",
+            "Christ is a brother to us, not only on account of unity as to flesh and nature, but also by becoming a partaker of our infirmities.",
+            "The sum of what is said is, that Christ is a brother to us... so that he is led, and as it were formed, to show forbearance and kindness."
+        ],
+        "Philip Schaff": [
+            "The true position of a priest in relation to those who are not only suffering, but are also guilty, is between the two. His is a blended feeling of sorrow and blame.",
+            "The persons for whom the priest acts are not innocent, or the function would cease; they are sinners, and are described as ignorant and out of the way.",
+            "All men are blameably ignorant, and are out of the way; every sin is want of knowledge, as well as want of wisdom; we all have gone astray, and for all the priest acts."
+        ],
+        "Archibald T. Robertson": [
+            "If the priest is cordially to plead with God for the sinner, he must bridle his natural disgust at the loathsomeness of sensuality, his impatience at the frequently recurring fall, his hopeless alienation from the hypocrite and the superficial, his indignation at any confession he hears from the penitent\" (Dods).",
+            "The one article with both participles probably makes it a hendiadys, sins of ignorance (both accidence and sudden passion) as opposed to high-handed sins of presumption and deliberate purpose.",
+            "The priest himself has weakness lying around him like a chain. Not so Jesus."
+        ],
+        "John Gill": [
+            "Who can have compassion on the ignorant... pities them, and sympathizes with them... and bears with them with great moderation and temper.",
+            "and on them that are out of the way... who transgress the law of God, and err from it.",
+            "for that he himself also is compassed with infirmity;... he was 'clothed' with it... as Joshua the high priest was with filthy garments."
+        ],
+        "John Wesley": [
+            "Who can have compassion \u2014 In proportion to the offence: so the Greek word signifies.",
+            "Seeing himself also is compassed with infirmity \u2014 Even with sinful infirmity; and so needs the compassion which he shows to others.",
+            "And the wandering \u2014 Them that are in sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest, being able to be compassionate towards the ignorant and erring, is not to please himself, but rather to show leniency and make allowances for their weaknesses. Despite his own infirmities, he must refrain from being irritated or indulgent, bridling his natural disgust and impatience. He is called to sympathize and plead with God for the sinner, understanding the frailty and deception that can lead them astray. This compassion is necessary because the priest himself is encompassed with weaknesses, not unlike the individuals he ministers to. It is through this compassionate understanding that the priest can effectively intercede on behalf of guilty and misguided people, who, like all humanity, are prone to ignorance and sin.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.414666744558815,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.63,
+            "commentatorTierSimilarities": [
+                32.04,
+                40.46,
+                27.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The high priest is called to be compassionate towards the ignorant and erring, making allowances for their weaknesses and showing leniency. His duty is not to please himself, but to sympathize with the sinner and plead with God on their behalf. Despite his own infirmities, he must withhold irritation and indulgence, understanding the frailty and deception that can lead astray. This compassion is necessary because the priest himself is encompassed with weaknesses, enabling him to effectively intercede for guilty and misguided people.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.3825645736173984,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.56,
+            "commentatorTierSimilarities": [
+                32.57,
+                38.47,
+                28.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The high priest is able to be compassionate towards the ignorant and deluded, making allowances for their weaknesses and showing leniency. His duty is to sympathize with the sinner, pleading with God on their behalf. Despite his own infirmities, he must refrain from irritation and indulgence, understanding the frailty and deception that can lead astray. This compassion is necessary because the priest himself is encompassed with weaknesses, effectively interceding for guilty and misguided people.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.3343387010591092,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.96,
+            "commentatorTierSimilarities": [
+                32.69,
+                38.67,
+                28.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The high priest is called to be moderate and tender in judgment towards the ignorant and deluded, showing compassion and making allowances for their weaknesses. His duty involves understanding the frailty and deception that can lead astray, refraining from irritation and indulgence. Despite his own infirmities, he is able to effectively intercede for guilty and misguided people, pleading with God on their behalf. This compassion arises from the priest's sense of personal weakness and the recognition that he himself is encompassed with frailties.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.2872080515501922,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.39,
+            "commentatorTierSimilarities": [
+                32.76,
+                38.18,
+                29.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest must be able to show compassion towards the ignorant and deluded, making allowances for their weaknesses and erring ways. He should not please himself, but instead, display leniency and moderation in judgment. Despite his own infirmities, he must refrain from irritation and impatience, understanding the frailty and deception that can lead astray. The priest's sympathy arises from his sense of personal weakness and the recognition that he himself is encompassed with flaws.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.253272570531677,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                35.19,
+                35.56,
+                29.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

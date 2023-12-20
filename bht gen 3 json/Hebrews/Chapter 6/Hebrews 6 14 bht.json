@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 17:47:57",
+    "verseRef": "Hebrews 6:14",
+    "bestBHT": {
+        "bht": "The writer of Hebrews uses the example of Abraham to emphasize the certainty and abundance of divine blessing. Quoting Genesis 22:17, the phrase surely blessing I will bless thee signifies the multiplication and increase of Abraham himself, not just his descendants. This promise extends to all spiritual blessings, such as being chosen, justified, and sanctified. It emphasizes the reality, substantiality, and continuance of these blessings, ultimately leading to eternal happiness. The multiplying refers to the fulfillment of this promise in both Abraham's natural and spiritual seed.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.918371361456037,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+        "commentatorTierSimilarities": [
+            28.51,
+            34.59,
+            36.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The increase of Abraham's seed is virtually an increase of himself.",
+            "The argument here refers to Abraham himself as an example.",
+            "Paul quotes Genesis 22:17, 'thee,' instead of 'thy seed.'"
+        ],
+        "Albert Barnes": [
+            "Surely blessing I will bless thee - That is, I will certainly bless thee. The phrase is a Hebrew mode of expression, to denote emphasis or certainty - indicated by the repetition of a word.\" ",
+            "Multiplying I will multiply thee - I will greatly increase thee - I will grant thee an exceedingly numerous posterity."
+        ],
+        "Marvin Vincent": [
+            "Surely blessing I will bless thee.\" ",
+            "Blessing I will bless is a Hebraism, emphasizing the idea contained in the verb.\" ",
+            "Ei mhn as a formula of swearing N. T. o."
+        ],
+        "Philip Schaff": [
+            "The unfamiliarity to the Greek translators of the Hebrew idiom for swearing has created various renderings of the Hebrew particles, and the meaning of the Greek particle has been misunderstood by the English translators in this Epistle.",
+            "The repetition indicates...either the certainty of the thing promised...or the continuousness and consequent completeness of it. In neither case is it unmeaning.",
+            "The multiplying is the essential thing, and, as Abraham could be multiplied only through his descendants, the promise in this shorter form leaves the meaning unchanged."
+        ],
+        "Archibald T. Robertson": [
+            "By itacism for \u03b7 \u03bc\u03b7\u03bd (Deissmann, Bible Studies, p. 205). The quotation is from Genesis 22:16.",
+            "Hebraism (present active participle) for the Hebrew infinitive absolute and so with \u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03c9\u03bd (multiplying)."
+        ],
+        "John Gill": [
+            "Saying, surely blessing I will bless thee....of this nature are all spiritual blessings; as to be chosen of God; to have God to be a covenant God and Father; to be justified, pardoned, adopted, and sanctified, and so have a right and title to eternal happiness.\" ",
+            "...the certainty of the blessings; the reality and substantiality of them; the abundance of them, and the continuance of the same.",
+            "...the multiplying I will multiply thee; meaning both in his natural and spiritual seed, which has had its accomplishment."
+        ],
+        "John Wesley": [
+            "Genesis 22:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 6:14, the writer refers to Abraham as an example of divine blessing, quoting Genesis 22:17's promise that surely blessing I will bless thee. This phrase, a Hebrew idiom for emphasis or certainty, highlights the multiplication and increase of not just Abraham's descendants but of Abraham himself. The repetition in the promise signifies either the certainty or continuousness of the fulfillment. This promise extends to all spiritual blessings, such as being chosen, justified, and sanctified, ultimately leading to eternal happiness. The multiplying refers to both the multiplication of Abraham's natural and spiritual seed, fulfilling the promise made in Genesis 22:17.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9475907197570743,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                28.31,
+                37.52,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of Hebrews uses the example of Abraham to emphasize the certainty and abundance of divine blessing. Quoting Genesis 22:17, the phrase surely blessing I will bless thee signifies the multiplication and increase of Abraham himself, not just his descendants. This promise extends to all spiritual blessings, such as being chosen, justified, and sanctified. It emphasizes the reality, substantiality, and continuance of these blessings, ultimately leading to eternal happiness. The multiplying refers to the fulfillment of this promise in both Abraham's natural and spiritual seed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.918371361456037,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                28.51,
+                34.59,
+                36.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The example of Abraham in Hebrews illustrates the certainty and abundance of divine blessing. The promise of surely blessing I will bless thee signifies the multiplication and increase of Abraham himself, as well as his descendants. This promise extends to all spiritual blessings, including being chosen, justified, and sanctified. It emphasizes the reality, substantiality, and continuance of these blessings. The multiplying refers to the fulfillment of this promise in both Abraham's natural and spiritual seed.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.835752757286051,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                28.68,
+                35.03,
+                36.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of Hebrews highlights the example of Abraham to emphasize the certainty and abundance of divine blessing. In quoting Genesis 22:17, the phrase surely blessing I will bless thee reveals the multiplication and increase not only of Abraham's descendants but of Abraham himself. This promise encompasses all spiritual blessings, such as being chosen, justified, and sanctified. It underscores the reality, substantiality, and enduring nature of these blessings, ultimately leading to eternal happiness. The multiplying mentioned refers to the fulfillment of this promise in both Abraham's natural and spiritual seed.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8729046390584636,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                28.61,
+                33.99,
+                37.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer of Hebrews draws upon the example of Abraham to illustrate the certainty and abundance of divine blessing. The promise of surely blessing I will bless thee signifies not only the multiplication of Abraham's descendants but also of Abraham himself. This promise encompasses all spiritual blessings, such as being chosen, justified, pardoned, adopted, and sanctified. The multiplying mentioned in the promise refers to the fulfillment in both Abraham's natural and spiritual seed, thus confirming the certainty and continuousness of these blessings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9066964484903772,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                28.38,
+                35.89,
+                35.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

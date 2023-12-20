@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:49:10",
+    "verseRef": "Hebrews 9:20",
+    "bestBHT": {
+        "bht": "Behold the blood of the covenant, which the Lord has made with you concerning all these words. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when they are confirmed by the blood of Christ. If we truly grasped that what we read is not written so much with ink as with the blood of Christ, that when the Gospel is preached, his sacred blood distills together with the voice, there would be far greater attention as well as reverence on our part.",
+        "wordCount": 133,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0126437700073323,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+        "commentatorTierSimilarities": [
+            34.26,
+            26.95,
+            38.8
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Behold the blood of the covenant, which the Lord has made with you concerning all these words.",
+            "Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign.",
+            "The testator was represented by the animals slain in the old dispensation. In both dispensations the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present."
+        ],
+        "Albert Barnes": [
+            "This is the blood by which the covenant is ratified.",
+            "The language used by Paul...shows that he did not regard this as strictly of the nature of a 'covenant,' or 'compact.'",
+            "It is a solemn 'arrangement' on the part of God which he proposes to mankind, and which he enjoins them to embrace."
+        ],
+        "John Calvin": [
+            "We see that before the explanation of the Law, no symbol was added, for what would a sacrament be except the word preceded it? Hence a symbol is a kind of appendage to the word.",
+            "This passage reminds us that the promises of God are then only profitable to us when they are confirmed by the blood of Christ.",
+            "If this thought only came to our minds, that what we read is not written so much with ink as with the blood of Christ, that when the Gospel is preached, his sacred blood distills together with the voice, there would be far greater attention as well as reverence on our part."
+        ],
+        "Philip Schaff": [
+            "The design of this sprinkling is now explained.",
+            "Saying, This is the blood of the covenant which God commanded to you-ward.",
+            "The N. T. covenant, the Supper especially, is connected with \u2018the Lord\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of \u03b9\u03b4\u03bf\u03c5 of the LXX (Exodus 24:8), just like our Lord's words in Mark 14:24, a possible reminiscence of the Master's words.\" ",
+            "The author also has \u03b5\u03bd\u03b5\u03c4\u03b5\u03b9\u03bb\u03b1\u03c4\u03bf (he commanded) for \u03b4\u03b9\u03b5\u03b8\u03b5\u03c4\u03bf of the LXX.",
+            "(Dods)"
+        ],
+        "John Gill": [
+            "Saying, this is the blood of the testament... it was dedicated with blood, or confirmed by it...\" (Hebrews 9:20) ",
+            "Which God hath enjoined unto you...\" (Hebrews 9:20) ",
+            "The people of Israel, to observe, and which they promised to do...\" (Hebrews 9:20)"
+        ],
+        "John Wesley": [
+            "Saying, This is the blood of the covenant which God hath enjoined me to deliver unto you - By this it is established. Exodus 24:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold the blood of the covenant, which the Lord has made with you concerning all these words. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when they are confirmed by the blood of Christ. If we truly grasped that what we read is not written so much with ink as with the blood of Christ, that when the Gospel is preached, his sacred blood distills together with the voice, there would be far greater attention as well as reverence on our part.",
+            "wordCount": 133,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0126437700073323,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                34.26,
+                26.95,
+                38.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold the blood of the covenant, which the Lord has made with you. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when confirmed by the blood of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.0523886429966463,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                34.54,
+                28.76,
+                36.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold the blood of the covenant, which the Lord has made with you concerning all these words. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when they are confirmed by the blood of Christ. If we truly grasped that what we read is not written so much with ink as with the blood of Christ, that when the Gospel is preached, his sacred blood distills together with the voice, there would be far greater attention as well as reverence on our part.",
+            "wordCount": 133,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0126437700073323,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                34.26,
+                26.95,
+                38.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold the blood of the covenant, which the Lord has made with you. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when confirmed by the blood of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.0523886429966463,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                34.54,
+                28.76,
+                36.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold the blood of the covenant, which the Lord has made with you concerning all these words. Christ has sealed the testament with His blood, of which the Lord's Supper is the sacramental sign. In both dispensations, the inheritance was bequeathed: in the new by One who has come in person and died; in the old by the same one, only typically and ceremonially present. The promises of God are then only profitable to us when they are confirmed by the blood of Christ. If we truly grasped that what we read is not written so much with ink as with the blood of Christ, that when the Gospel is preached, his sacred blood distills together with the voice, there would be far greater attention as well as reverence on our part.",
+            "wordCount": 133,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0126437700073323,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                34.26,
+                26.95,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

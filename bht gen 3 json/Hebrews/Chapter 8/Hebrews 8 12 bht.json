@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:48:54",
+    "verseRef": "Hebrews 8:12",
+    "bestBHT": {
+        "bht": "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord. Their sins are not charged upon them, and they are no more punished than if they had passed entirely out of the recollection. By which are meant all kind of sin, original and actual; sins before and after conversion; every sin but that against the Holy Ghost, and that God's covenant people are never guilty of; these God remembers no more. (61 words)",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.808064093634729,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+        "commentatorTierSimilarities": [
+            25.03,
+            35.43,
+            39.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord.",
+            "The Hebrew, 'salach,' is always used of God only in relation to men.",
+            "Contrast the law, Hebrews 10:3."
+        ],
+        "Albert Barnes": [
+            "The uniqueness by which the gospel is distinguished from all other systems...is that it is a system making provision for the forgiveness of sin, and actually bestowing pardon on the guilty. This is the center, the crown, the glory of the new dispensation.",
+            "God is merciful to the unrighteousness of people and their sins are remembered no more.",
+            "Their sins are not charged upon them, and they are no more punished than if they had passed entirely out of the recollection."
+        ],
+        "Marvin Vincent": [
+            "Merciful. Only here and Matthew 16:22, see note.",
+            "Their sins and their iniquities. Omit and their iniquities.",
+            "Will I remember no more. Lit. I will by no means remember any more."
+        ],
+        "Philip Schaff": [
+            "In saying a new covenant, he hath made the first old.",
+            "And (we know, for it is a general truth) that which is becoming antiquated, which is already obsolescent, and is daily growing feebler with age, is nigh to vanishing away.",
+            "It is nearing the point where its power and its right to exist will both cease!"
+        ],
+        "Archibald T. Robertson": [
+            "Merciful (\u03b9\u03bb\u03b5\u03c9\u03c2). Old Attic adjective for \u03b9\u03bb\u03b1\u03bf\u03c2, common in the LXX, only here in N.T.\" ",
+            "Will I remember no more (\u03bf\u03c5 \u03bc\u03b7 \u03bc\u03bd\u03b7\u03c3\u03b8\u03c9 \u03b5\u03c4). Double negative \u03bf\u03c5 \u03bc\u03b7 with first aorist passive subjunctive (volitive) of \u03bc\u03b9\u03bc\u03bd\u03b7\u03c3\u03ba\u03c9, to recall."
+        ],
+        "John Gill": [
+            "And the way and means, in and by which God pardons, is the propitiatory sacrifice of his Son; and the word here rendered 'merciful', signifies 'propitious'; God pardons none but those to whom he is pacified, or rendered propitious by Christ; there is no mercy, nor pardon, but through him; he pardons on the foot of reconciliation and satisfaction for sin by Christ; so that forgiveness of sin is an act of justice, as well as of mercy; or it is an act of mercy streaming through the blood and sacrifice of Christ.",
+            "By which are meant all kind of sin, original and actual; sins before and after conversion; every sin but that against the Holy Ghost, and that God's covenant people are never guilty of; these God remembers no more; he casts them behind his back, and into the depths of the sea, so that when they are sought for, they shall not be found; God will never charge them with them, or punish them for them.",
+            "This is another phrase to express the forgiveness of sins, and distinguishes the new covenant from the old one, or the former dispensation; in which, though there were many typical sacrifices, and a typical removal of sin, yet there was a remembrance of it every year."
+        ],
+        "John Wesley": [
+            "For I will justify them, which is the root of all true knowledge of God.",
+            "First, a sinner is pardoned: then he knows God, as gracious and merciful.",
+            "God's laws are written on his heart: he is God's, and God is his."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord. The Hebrew, 'salach,' is always used of God only in relation to men. Their sins are not charged upon them, and they are no more punished than if they had passed entirely out of the recollection. By which are meant all kind of sin, original and actual; sins before and after conversion; every sin but that against the Holy Ghost, and that God's covenant people are never guilty of; these God remembers no more. For I will justify them, which is the root of all true knowledge of God. (68 words)",
+            "wordCount": 113,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 1.745157549382398,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                26.39,
+                30.27,
+                43.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord. Their sins are not charged upon them, and they are no more punished than if they had passed entirely out of the recollection. By which are meant all kind of sin, original and actual; sins before and after conversion; every sin but that against the Holy Ghost, and that God's covenant people are never guilty of; these God remembers no more. (61 words)",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.808064093634729,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                25.03,
+                35.43,
+                39.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The forgiveness of sins is, and will be, the root of this new state of inward grace and knowledge of the Lord. Their sins are not charged upon them, and they are no more punished than if they had passed entirely out of the recollection. By which are meant all kind of sin, original and actual; sins before and after conversion; every sin but that against the Holy Ghost, and that God's covenant people are never guilty of; these God remembers no more. (61 words)",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.808064093634729,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                25.03,
+                35.43,
+                39.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The forgiveness of sins is the foundation of the new state of grace and knowledge of the Lord. God, in His mercy, does not hold their sins against them and He will not remember them anymore. This forgiveness extends to all kinds of sin, both before and after conversion. It is through the propitiatory sacrifice of Christ that God is able to render Himself propitious and extend His mercy to those who have been reconciled to Him. This act of forgiveness is at the heart of true knowledge of God. (79 words)",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7956801411046772,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                24.95,
+                31.76,
+                43.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The forgiveness of sins is the root of the new state of grace and knowledge of the Lord. God, in His mercy, does not hold their sins against them. This forgiveness extends to all kinds of sin, both before and after conversion. Through the propitiatory sacrifice of Christ, God renders Himself propitious and extends His mercy to those who have been reconciled to Him. This act of forgiveness is at the heart of true knowledge of God. (68 words)",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7617773950079139,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                25.25,
+                30.95,
+                43.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

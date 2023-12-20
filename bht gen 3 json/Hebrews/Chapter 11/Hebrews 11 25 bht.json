@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 17:50:08",
+    "verseRef": "Hebrews 11:25",
+    "bestBHT": {
+        "bht": "Moses, at the mature age of forty, made a deliberate choice to prioritize the afflictions of God's people over the temporary pleasures of sin. He recognized that while the world may offer enjoyment for a season, the pleasures of a life dedicated to God are everlasting. By choosing to align himself with the suffering of God's chosen people, Moses displayed his faithfulness and loyalty to God. Despite the challenges and hardships this choice brought, he valued the fellowship and pursuit of righteousness over fleeting worldly indulgence.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.848977668912666,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+        "commentatorTierSimilarities": [
+            26.79,
+            35.04,
+            38.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Choosing\" implies a deliberate resolution, not a hasty impulse. He was forty years old, a time when the judgment is matured.",
+            "If the world has \"pleasure\" (Greek, \"enjoyment\") to offer, it is but \"for a season.\" If religion bring with it \"affliction,\" it too is but for a season; whereas its \"pleasures are for evermore.",
+            "He balanced the best of the world with the worst of religion, and decidedly chose the latter."
+        ],
+        "Albert Barnes": [
+            "If he sought to elevate and deliver them, such an undertaking could not but be one of great peril and hardship.",
+            "Yet he 'chose' this. He on the whole preferred it. He left the court...because he deliberately preferred to share the trials and sorrows of the friends of God.",
+            "So every one who becomes a friend of God and casts in his lot with his people, though he may anticipate that it will be attended with persecution, with poverty, and with scorn, prefers this to all the pleasures of a life of gaiety and sin."
+        ],
+        "Marvin Vincent": [
+            "To suffer affliction...than to be evil entreated.",
+            "To enjoy the pleasures of sin for a season...",
+            "To have temporary enjoyment of sin."
+        ],
+        "Archibald T. Robertson": [
+            "Choosing rather (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03b5\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). 'Rather having chosen' (second aorist middle of \u03b1\u03b9\u03c1\u03b5\u03c9, to take for oneself a position).",
+            "To be entreated with (\u03c3\u03c5\u03bd\u03ba\u03b1\u03ba\u03bf\u03c5\u03c7\u03b5\u03b9\u03c3\u03b8\u03b1). Present passive infinitive of the double compound \u03c3\u03c5\u03bd\u03ba\u03b1\u03ba\u03bf\u03c5\u03c7\u03b5\u03c9 (from \u03c3\u03c5\u03bd, \u03ba\u03b1\u03ba\u03bf\u03c3, \u03b5\u03c7\u03c9), to treat ill with (associative instrumental case).",
+            "To enjoy the pleasures of sin for a season (\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03b9\u03c1\u03bf\u03bd \u03b5\u03c7\u03b5\u03b9\u03bd \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03c2 \u03b1\u03c0\u03bf\u03bb\u03b1\u03c5\u03c3\u03b9\u03bd). Literally, 'to have temporary pleasure of sin.'"
+        ],
+        "John Gill": [
+            "Choosing rather to suffer affliction with the people of God,.... The Israelites, who were God's chosen and peculiar people, and were the true worshippers of him, Moses chose to be with those: the company and conversation of such is most eligible to every good man because God is with them.\" ",
+            "But then those are a poor, and an afflicted people; affliction is with them, for the sake of God, and Christ, and the truths which they profess, and the worship and service they are engaged in; and their afflictions are many and grievous.",
+            "And the reasons which might induce Moses, and so every good man, to such a choice, may be taken partly from the nature of afflictions themselves, which are such that God has chosen for them, and appointed them unto, and which he gives them to suffer for his name, and which are an honour to them, and issue in their good, and in the glory of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hebrews 11:25 teaches us the importance of making deliberate choices in our lives. Moses, at the mature age of forty, made a careful decision to prioritize the afflictions of God's people over the temporary pleasures that sin offered. He recognized that while the world may offer enjoyment, it is only for a short time, whereas the pleasures of a life dedicated to God are eternal. Moses chose to align himself with the suffering and afflictions that came with being a part of God's chosen people. Despite the challenges and hardships that this choice entailed, he deemed it more valuable than the fleeting pleasures of sin. In doing so, he displayed his faithfulness and loyalty to God, demonstrating that he valued the company of God's people and their pursuit of righteousness over worldly indulgence.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.7693356502277016,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                26.75,
+                34.0,
+                39.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Choosing to prioritize the afflictions of God's people over the temporary pleasures of sin, Moses made a deliberate and mature decision. He recognized that worldly enjoyment is short-lived while the joys of a dedicated life with God are everlasting. By aligning himself with the suffering of God's chosen people, Moses displayed faithfulness and loyalty, valuing their pursuit of righteousness over worldly indulgence. Despite the difficulties and hardships this choice entailed, he demonstrated a deep commitment to God and His people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8150254982454226,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                23.08,
+                35.4,
+                41.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses, at the age of forty, deliberately chose to prioritize the afflictions of God's people over the fleeting pleasures of sin. He recognized that while the world may offer enjoyment for a time, the pleasures of a life dedicated to God are eternal. Moses valued the company of God's people and their pursuit of righteousness over the allure of sinful indulgence. Despite the challenges and hardships that accompanied this choice, he remained steadfast in his commitment, displaying his faithfulness and loyalty to God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7505001959155533,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                24.49,
+                36.19,
+                39.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At forty years old, Moses deliberately chose to prioritize the afflictions of God's people over the temporary pleasures of sin. Recognizing that worldly enjoyment is short-lived, he valued the eternal pleasures that come from a life dedicated to God. Despite the hardships that accompanied this choice, Moses remained steadfast in his commitment, faithfully aligning himself with the suffering of God's chosen people. His decision demonstrated his loyalty and dedication to God, highlighting the greater value of righteousness over fleeting indulgence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7937565741509862,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                26.69,
+                34.8,
+                38.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses, at the mature age of forty, made a deliberate choice to prioritize the afflictions of God's people over the temporary pleasures of sin. He recognized that while the world may offer enjoyment for a season, the pleasures of a life dedicated to God are everlasting. By choosing to align himself with the suffering of God's chosen people, Moses displayed his faithfulness and loyalty to God. Despite the challenges and hardships this choice brought, he valued the fellowship and pursuit of righteousness over fleeting worldly indulgence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.848977668912666,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                26.79,
+                35.04,
+                38.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:49:58",
+    "verseRef": "Hebrews 10:29",
+    "bestBHT": {
+        "bht": "To trample under foot and show contempt towards the Son of God by counting the blood of the covenant as unholy is a flagrant disregard for the Lord and His precepts. This heinous act warrants a sorer punishment than any temporal consequence, as it rejects grace and insults the Spirit of grace. Such apostasy serves as a powerful warning to all followers of Christ not to play with treachery, as it is an unspeakable tragedy to insult the Holy Spirit after receiving His blessings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.4320943207704806,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.21,
+        "commentatorTierSimilarities": [
+            31.29,
+            35.99,
+            32.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By \u2018trampling under foot\u2019 is meant that flagrant contempt which those shew who deliberately abandon the Lord and His precepts.",
+            "The apostate 'accounted common' this blood\u2014deemed it mere ordinary blood of a common man, and if so, consented to its shedding, for then Christ deserved to die as a blasphemer.",
+            "No two things can be more opposed, as Delitzsch remarks, than insolence and grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "sorer\u2014Greek, 'worse,' namely, 'punishment' (literally, 'vengeance') than any mere temporal punishment of the body.",
+            "suppose ye\u2014an appeal to the Hebrews' reason and conscience.",
+            "The higher such a one's past Christian experiences, the deeper his fall."
+        ],
+        "Albert Barnes": [
+            "This must refer to future punishment, for the severest punishment was inflicted on the apostate from the Jewish religion which can be in this world - death; and yet the apostle here says that a severer punishment than that would be deserved by him who should apostatize from the Christian faith.",
+            "He who should apostatize from the Christian faith, the apostle goes on to say, would also be guilty of the most aggravated crime of which man could be guilty - the crime of trampling under foot the Son of God, of showing contempt for his holy blood, and despising the Spirit of grace.",
+            "How dangerous then is every step which would lead to such a precipice! And how strange and unscriptural the opinion held by so many that sincere Christians may 'fall away' and be renewed, again and again!"
+        ],
+        "Marvin Vincent": [
+            "By how much think ye shall he be thought worthy of sorer punishment.",
+            "The strong term [trodden under foot] is purposely selected in order to convey the sense of the fearful outrage involved in forsaking Christ and returning to Judaism.",
+            "In refusing to regard Christ's blood as that of an atoner and redeemer, it was implied that his blood was unclean as being that of a transgressor."
+        ],
+        "John Calvin": [
+            "It is a more heinous thing to tread under foot than to despise or reject; and the dignity of Christ is far different from that of Moses; and further, he does not simply set the Gospel in opposition to the Law, but the person of Christ and of the Holy Spirit to the person of Moses.",
+            "It is the greatest indignity to count the blood of Christ unholy, by which our holiness is effected; this is done by those who depart from the faith.",
+            "Hence learn that all who willfully render useless his grace, by which they had been favored, act disdainfully towards the Spirit of God."
+        ],
+        "Philip Schaff": [
+            "He tramples under foot (an expression of ruthless contempt) the Son of God",
+            "He treats the sacrifice of blood under the covenant as a common thing, nay, as a profane thing",
+            "To contemn mercy and holiness, to return insult to Him who gives them grace, is the sin of sins"
+        ],
+        "Archibald T. Robertson": [
+            "An appeal to their own sense of justice about apostates from Christ.",
+            "A powerful word for insulting the Holy Spirit after receiving his blessings.",
+            "It is an unspeakable tragedy that should warn every follower of Christ not to play with treachery to Christ."
+        ],
+        "John Gill": [
+            "Who hath trodden under foot the Son of God... is a phrase expressive of the utmost scorn, contempt, and ill usage...",
+            "And hath counted the blood of the covenant... as unclean and abominable, as the blood of a very wicked man...",
+            "And hath done despite unto the spirit of grace... treating his extraordinary gifts as illusions; and ascribing his miracles to Satan, and representing the Gospel dictated by him as a fable, or a lie..."
+        ],
+        "John Wesley": [
+            "Of how much sorer punishment is he worthy, who... hath, as it were, trodden underfoot the Son of God...\" ",
+            "And counted the blood wherewith the better covenant was established, an unholy, a common, worthless thing.",
+            "And done despite to the Spirit of grace \u2014 By rejecting all his motions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To trample under foot the Son of God and count the blood of the covenant as unholy is to show flagrant contempt towards the Lord and His precepts. It is to deem His blood as the mere ordinary blood of a common man and consent to its shedding. This is a heinous act, worse than any temporal punishment, and calls for a sorer punishment. It is a rejection of grace and insults the Holy Spirit. Such an apostasy is a tragedy that should serve as a warning to all followers of Christ not to play with treachery.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1345431017223255,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.31,
+            "commentatorTierSimilarities": [
+                31.41,
+                36.61,
+                31.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To trample under foot the Son of God and count the blood of the covenant as unholy is a flagrant contempt towards the Lord and His precepts. This heinous act deserves a sorer punishment than any temporal consequence, as it rejects grace and insults the Holy Spirit. Such apostasy is a tragic warning to all followers of Christ not to play with treachery and to remember that there is nothing more opposed than insolence and grace.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.4294316069030435,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+            "commentatorTierSimilarities": [
+                31.35,
+                36.08,
+                32.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To trample under foot and show contempt towards the Son of God by counting the blood of the covenant as unholy is a flagrant disregard for the Lord and His precepts. This heinous act warrants a sorer punishment than any temporal consequence, as it rejects grace and insults the Spirit of grace. Such apostasy serves as a powerful warning to all followers of Christ not to play with treachery, as it is an unspeakable tragedy to insult the Holy Spirit after receiving His blessings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.4320943207704806,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.21,
+            "commentatorTierSimilarities": [
+                31.29,
+                35.99,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To trample under foot and show contempt towards the Son of God by counting the blood of the covenant as unholy is a flagrant disregard for the Lord and His precepts. This heinous act warrants a sorer punishment than any temporal consequence. Such apostasy serves as a powerful warning to all followers of Christ not to play with treachery, as it is an unspeakable tragedy to insult the Holy Spirit after receiving His blessings.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.281273969903056,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.19,
+            "commentatorTierSimilarities": [
+                31.94,
+                36.27,
+                31.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To trample under foot the Son of God and count the blood of the covenant as unholy is to show flagrant contempt towards the Lord and His precepts. It is to deem His blood as the mere ordinary blood of a common man and consent to its shedding. This is a heinous act, worse than any temporal punishment, and calls for a sorer punishment. It is a rejection of grace and insults the Holy Spirit. Such an apostasy is a tragedy that should warn every follower of Christ not to play with treachery to Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1483685614295567,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                31.79,
+                35.97,
+                32.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

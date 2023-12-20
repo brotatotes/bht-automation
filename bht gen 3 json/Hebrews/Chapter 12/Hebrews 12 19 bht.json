@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:51:04",
+    "verseRef": "Hebrews 12:19",
+    "bestBHT": {
+        "bht": "When God spoke the Ten Commandments, the people were overwhelmed by the terrifying voice that issued forth without any visible form. The sound of a trumpet roused their attention and signaled God's approach. The people, overcome with fear, pleaded for Moses to intercede on their behalf, unable to bear the weight of God's direct communication. This stark contrast between the fearful nature of the Law and the love and grace of the Gospel demonstrates the severity of sin and the redemptive power found in faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.7830171887619413,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+        "commentatorTierSimilarities": [
+            24.74,
+            44.64,
+            30.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Writer avoids the word 'voice' there used, having so soon to speak of 'the voice of words'\".",
+            "We must not understand that the people refused to hear the words of God, but deprecated hearing them from God Himself.",
+            "The person of Moses being interposed, in some degree mitigated their fear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "trumpet\u2014to rouse attention, and herald God's approach",
+            "that speech should not be added to them",
+            "The voice of words was the Decalogue, spoken by God Himself, a voice issuing forth, without any form being seen"
+        ],
+        "Albert Barnes": [
+            "The sound of the trumpet amidst the tempest was suited to increase the terror of the scene.",
+            "It is easy to conceive what must have been the awe produced by a voice uttered from the midst of the tempest so distinct as to be heard by the hundreds of thousands of Israel, when the speaker was invisible.",
+            "It was so fearful and overpowering that the people earnestly prayed that if they must be addressed, it might he by the familiar voice of Moses and not by the awful voice of the Deity."
+        ],
+        "Marvin Vincent": [
+            "Sound of a trumpet... A rumor or report.\" ",
+            "Voice of words.\" ",
+            "That no word more should be spoken unto them."
+        ],
+        "John Calvin": [
+            "The Law was very different from the Gospel; for when it was promulgated there was nothing but terrors on every side.",
+            "But the Gospel contains nothing but love, provided it be received by faith.",
+            "For everything we read of in the nineteenth chapter of Exodus was of this kind, and intended to show to the people that God had ascended his tribunal and manifested himself as a strict judge."
+        ],
+        "Archibald T. Robertson": [
+            "Unto blackness.",
+            "Darkness, old word, in Homer for the gloom of the world below.",
+            "The sound of a trumpet, from Exodus 19:16."
+        ],
+        "John Gill": [
+            "the sound of a trumpet... made it still more awful\" ",
+            "the voice of words; of the ten words, or decalogue; which was as an articulate voice, formed by angels",
+            "they that heard, entreated that the word should not be spoken to them any more: fearing that they should die"
+        ],
+        "John Wesley": [
+            "The sound of a trumpet \u2014 Formed, without doubt, by the ministry of angels.",
+            "Preparatory to the words, that is, the Ten Commandments, which were uttered with a loud voice.",
+            "Deuteronomy 5:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When God spoke the Ten Commandments, His voice was so terrifying that the people begged Moses to speak to them instead. The sound of a trumpet signaled God's approach, adding to the fear and anticipation. The voice of God was unlike anything they had ever experienced before \u2013 a voice issuing forth without any visible form. The Law brought only terror and strict judgment, illustrating God's holiness and the severity of sin. However, the Gospel is a message of love and grace, contrasting the fearful nature of the Law. The trumpeting of the sound and the voice of words produced an awe-inspiring scene that emphasized God's authority and power.",
+            "wordCount": 112,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.808530395207492,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                25.81,
+                43.15,
+                31.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When God spoke the Ten Commandments, the people were overcome with fear and pleaded for Moses to intercede on their behalf. The sound of a trumpet heralded God's approach, intensifying the atmosphere of awe and anticipation. The voice of God, issuing forth without any visible form, was unlike anything they had ever heard before. This experience of the law communicated the holiness and severity of sin. In contrast, the Gospel brings a message of love and grace, offering redemption through faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.640108399534164,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                24.04,
+                42.44,
+                33.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When God spoke the Ten Commandments, the people were overwhelmed by the terrifying voice that issued forth without any visible form. The sound of a trumpet roused their attention and signaled God's approach. The people, overcome with fear, pleaded for Moses to intercede on their behalf, unable to bear the weight of God's direct communication. This stark contrast between the fearful nature of the Law and the love and grace of the Gospel demonstrates the severity of sin and the redemptive power found in faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7830171887619413,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                24.74,
+                44.64,
+                30.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice of God, speaking the Ten Commandments, struck fear into the hearts of the people, causing them to beg Moses to speak to them instead. The sound of a trumpet announced God's presence, adding to the sense of awe. God's voice was powerful and without any visible form, emphasizing the holiness and authority of His words. The Law, with its strict judgment, highlighted the severity of sin. In contrast, the Gospel brings a message of love and grace, offering redemption through faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.7143970452613038,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+            "commentatorTierSimilarities": [
+                26.14,
+                40.78,
+                33.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When God spoke the Ten Commandments, the people were filled with fear and pleaded for Moses to serve as an intermediary. The sound of a trumpet made the scene even more awe-inspiring, signaling God's approach. The voice of God resonated with authority, issuing forth without any visible form. This display of the law emphasized the strict judgment and severity of sin. In contrast, the Gospel is a message of love and grace, showing that faith brings redemption.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5930862021534389,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                24.41,
+                40.6,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

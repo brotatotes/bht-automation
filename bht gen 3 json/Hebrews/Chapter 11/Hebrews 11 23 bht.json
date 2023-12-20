@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:50:16",
+    "verseRef": "Hebrews 11:23",
+    "bestBHT": {
+        "bht": "By faith, Moses' parents saw that their child was comely and had faith in a divine revelation that marked their babe as one whom God designed to do a great work. They believed that he was destined for a great purpose and, disregarding the command of the king, hid him for three months. Their faith was commended by God, securing the life of Moses upon which the deliverance of the Church depended.",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 2.2245847024761867,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.31,
+        "commentatorTierSimilarities": [
+            25.74,
+            37.6,
+            36.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith Moses, when born, was hidden three months by his parents, because they saw the child was comely; and they feared not the command of the king.",
+            "By faith Moses, when grown up, refused to be called son of a daughter of Pharaoh, choosing rather to suffer affliction with the people of God, than to possess a temporary enjoyment of sin; esteeming the reproach of Christ greater riches than the treasures of Egypt.",
+            "For he looked to the recompence of reward."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'faith' of his parents in saving the child must have had some divine revelation to rest on (probably at the time of his birth), which marked their 'exceeding fair' babe as one whom God designed to do a great work by.\" ",
+            "His beauty was probably 'the sign' appointed by God to assure their faith.",
+            "The king's commandment\u2014to slay all the males."
+        ],
+        "Albert Barnes": [
+            "The faith of Moses himself is commended in the following verses.",
+            "The strength of the faith of the parents of Moses, appears...because they had so much confidence in God.",
+            "They believed that he was destined to some great purpose, and that he would be spared, notwithstanding all the probabilities against it, and all the difficulties in the case."
+        ],
+        "Marvin Vincent": [
+            "Proper [\u03b1\u03c3\u03c4\u03b5\u03b9\u03bf\u03bd] . Only here and Acts 7:20, on which see note. Rend. 'comely.'",
+            "Commandment [\u03b4\u03b9\u03b1\u03c4\u03b1\u03b3\u03bc\u03b1] . N. T. o. Rend. 'mandate.'",
+            "Of his parents [\u03c5\u03c0\u03bf \u03c4\u03c9\u03bd \u03c0\u03b1\u03c4\u03b5\u03c1\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5] . Lit. by his fathers. Comp. Exodus 2:2. Paterev fathers, according to a late Greek usage, is employed like goneiv parents."
+        ],
+        "John Calvin": [
+            "The parents of Moses were inducted to save him for another reason, even for this, \u2014 that as God had promised to them, under their oppression, that there would come some time a deliverer, they relied confidently on that promise.\" ",
+            "There was some mark, as it were, of future excellency imprinted on the child, which gave promise of something extraordinary.",
+            "It behaves us to be more encouraged when we hear that their faith, though weak, was yet so approved by God as to secure that life to Moses, on which depended the deliverance of the Church."
+        ],
+        "Philip Schaff": [
+            "The history and character of Moses naturally occupy a chief place in the following verses.",
+            "From the first he was a child of faith.",
+            "They therefore disregarded the king\u2019s ordinance, and did their duty, looking for Divine succour."
+        ],
+        "Archibald T. Robertson": [
+            "Was hid (\u03b5\u03ba\u03c1\u03c5\u03b2\u03b7). Second aorist passive indicative of \u03ba\u03c1\u03c5\u03c0\u03c4\u03c9, to hide, as in Matthew 5:14.",
+            "Three months (\u03c4\u03c1\u03b9\u03bc\u03b7\u03bd\u03bf\u03bd). Old adjective used as neuter substantive in accusative case for extent of time, here only in N.T.",
+            "A goodly child (\u03b1\u03c3\u03c4\u03b5\u03b9\u03bf\u03bd \u03c4\u03bf \u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03bd). Literally, 'the child was goodly' (predicate adjective). Old adjective from \u03b1\u03c3\u03c4\u03c5 (city), 'of the city' ('citified'), of polished manners, genteel."
+        ],
+        "John Gill": [
+            "Parents ought to take care of their children; and persons may lawfully hide themselves, or others, from the cruelty of tyrants, and that as long as they can, for their safety; and this was so far from being wrong in the parents of Moses, that it is commended, as an instance of faith.",
+            "They believed the promise in general, that God would deliver the people of Israel; they believed this to be about the time of their deliverance, and had some intimation, that this child in particular would be the deliverer, because they saw he was a proper child.",
+            "There is a great deal of courage and boldness in faith; and though faith may be weakened, it cannot be lost; and a weak faith is taken notice of, as here; for though they feared not at first, they seem to be afraid afterwards; but when God designs to work deliverance, nothing shall prevent."
+        ],
+        "John Wesley": [
+            "They saw \u2014 Doubtless with a divine presage of things to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Moses' parents saw that their child was comely and had faith in a divine revelation that marked their babe as one whom God designed to do a great work. They believed that he was destined for a great purpose and, disregarding the command of the king, hid him for three months. Their faith was commended by God, securing the life of Moses upon which the deliverance of the Church depended. Their courage and boldness in faith demonstrates that even weak faith is noticed by God, for when He intends to work deliverance, nothing shall prevent it.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1665852688289595,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+            "commentatorTierSimilarities": [
+                24.9,
+                36.78,
+                38.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Moses' parents saw that their child was comely and had faith in a divine revelation that marked their babe as one whom God designed to do a great work. They believed that he was destined for a great purpose and, disregarding the command of the king, hid him for three months. Their faith was commended by God, securing the life of Moses upon which the deliverance of the Church depended.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.2245847024761867,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.31,
+            "commentatorTierSimilarities": [
+                25.74,
+                37.6,
+                36.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Moses' parents saw that their child was comely and had faith in a divine revelation that marked their babe as one whom God designed to do a great work. They believed that he was destined for a great purpose and, disregarding the command of the king, hid him for three months. Their faith was commended by God, securing the life of Moses upon which the deliverance of the Church depended. Their courage and boldness in faith demonstrates that even weak faith is noticed by God, for when He intends to work deliverance, nothing shall prevent.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1696362752667913,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                24.98,
+                36.77,
+                38.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, Moses' parents saw that their child was comely and had faith in a divine revelation that marked their babe as one whom God designed to do a great work. They believed that he was destined for a great purpose and, disregarding the command of the king, hid him for three months. Their faith was commended by God, securing the life of Moses upon which the deliverance of the Church depended. Their courage and boldness in faith demonstrates that when God intends to work deliverance, nothing shall prevent.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.148122366125091,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                24.72,
+                36.9,
+                38.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Moses' parents saw that their child was comely and believed in a divine revelation that marked their babe as one whom God designed for a great work. They defied the king's command and hid the child for three months, their faith commended by God. Their boldness in faith shows that when God intends to work deliverance, nothing can hinder it. The life of Moses, secured by their faith, became pivotal in the deliverance of the Church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.1641141365379584,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.3,
+            "commentatorTierSimilarities": [
+                25.95,
+                36.09,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

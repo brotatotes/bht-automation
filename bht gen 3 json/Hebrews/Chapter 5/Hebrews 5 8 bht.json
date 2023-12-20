@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:48:09",
+    "verseRef": "Hebrews 5:8",
+    "bestBHT": {
+        "bht": "Though He was God's divine Son, Jesus learned His obedience through sufferings. As the Son, He was always obedient, but the specific obedience required to qualify Him as our High Priest was learned through practical suffering. Jesus' training for the priesthood involved suffering, even though he was a Son. He did not have to learn to obey, but required the discipline of severe human experiences to be a high priest who could sympathize with us. Through suffering, Jesus learned what it meant to obey God fully and willingly.",
+        "wordCount": 89,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 2.674043184456477,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.25,
+        "commentatorTierSimilarities": [
+            36.48,
+            31.7,
+            31.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Though He WAS God's divine Son, yet He learned His obedience, not from His Sonship, but from His sufferings.",
+            "As the Son, He was always obedient to the Father's will; but the special obedience needed to qualify Him as our High Priest, He learned experimentally in practical suffering.",
+            "Praying and obeying, as in Christ's case, ought to go hand in hand."
+        ],
+        "Albert Barnes": [
+            "Though the Son of God...he was willing to learn experimentally what is meant by obedience in the midst of sufferings.",
+            "The 'object' here is, to show how well suited the Lord Jesus was to be a Saviour for mankind...to lead us 'to obey God.'",
+            "Some of the most valuable lessons of obedience are learned in the furnace of affliction; and many of the most submissive children of the Almighty have been made so as the result of protracted woes."
+        ],
+        "Marvin Vincent": [
+            "His training for the priesthood involved suffering, even though he was a son.",
+            "Jesus did not have to learn to obey, but he required the special discipline of a severe human experience as a training for his office as a high priest who could be touched with the feeling of human infirmities.",
+            "Growth in experience was an essential part of his humanity."
+        ],
+        "John Calvin": [
+            "The proximate end of Christ\u2019s sufferings was thus to habituate himself to obedience; not that he was driven to this by force, or that he had need of being thus exercised, as the case is with oxen or horses when their ferocity is to be tamed, for he was abundantly willing to render to his Father the obedience which he owed.",
+            "Christ by his death learned fully what it was to obey God, since he was then led in a special manner to deny himself; for renouncing his own will, he so far gave himself up to his Father that of his own accord and willingly he underwent that death which he greatly dreaded.",
+            "This benefit, which arises from the cross, ought to allay its bitterness in our hearts; for what can be more desirable than to be made obedient to God? But this cannot be effected but by the cross, for in prosperity we exult as with loose reins; nay, in most cases, when the yoke is shaken off, the wantonness of the flesh breaks forth into excesses."
+        ],
+        "Philip Schaff": [
+            "Though being [in His own nature] Son, yet learned he his obedience by the things which he suffered.",
+            "Son. The absence of the article again calls attention to His relation to the Father.",
+            "Learned by suffering. There is in the Greek a play upon the words, troubles our best teachers discipline essential to discipleship."
+        ],
+        "Archibald T. Robertson": [
+            "Though he was a Son, Yet learned obedience.",
+            "Succinct and crisp statement of the humanity of Jesus.",
+            "He always did his Father's will, but he grew in experience as in wisdom and stature and in the power of sympathy with us."
+        ],
+        "John Gill": [
+            "Though he were a Son...yet learned he obedience",
+            "and this he learnt...by the things which he suffered",
+            "Christ's sonship did not exempt him from obedience and sufferings"
+        ],
+        "John Wesley": [
+            "His being the Son of God did not arise merely from his resurrection.",
+            "He learned obedience, when he began to suffer.",
+            "Obedience in suffering and dying."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though He was God's divine Son, Jesus learned His obedience through the sufferings He endured. As the Son, He was always obedient to the Father's will, but the specific obedience required to qualify Him as our High Priest was learned through practical suffering. Jesus' training for the priesthood involved suffering, even though he was a Son. While he did not have to learn to obey, he underwent the discipline of severe human experiences to build empathy and understanding. Though always doing His Father's will, Jesus grew in experience, wisdom, stature, and the power of sympathy with us. Through His suffering, He learned what it meant to obey God fully and willingly, even denying Himself. The cross, though bitter, brought the desirable benefit of being made obedient to God. Obedience in suffering and dying was an essential part of Christ's humanity and His role as our Savior.",
+            "wordCount": 150,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 2.5533504119974237,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.24,
+            "commentatorTierSimilarities": [
+                35.88,
+                31.62,
+                32.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though He was God's divine Son, Jesus learned His obedience through sufferings. As the Son, He was always obedient, but the specific obedience required to qualify Him as our High Priest was learned through practical suffering. Jesus' training for the priesthood involved suffering, even though he was a Son. He did not have to learn to obey, but required the discipline of severe human experiences to be a high priest who could sympathize with us. Through suffering, Jesus learned what it meant to obey God fully and willingly.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.674043184456477,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.25,
+            "commentatorTierSimilarities": [
+                36.48,
+                31.7,
+                31.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though He was God's divine Son, yet He learned His obedience from His sufferings. The special obedience needed to qualify Him as our High Priest, He learned experimentally in practical suffering. His training for the priesthood involved suffering, even though he was a son. Jesus did not have to learn to obey, but he required the special discipline of a severe human experience as a training for his office as a high priest who could be touched with the feeling of human infirmities.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.6357016781429508,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.98,
+            "commentatorTierSimilarities": [
+                39.38,
+                30.17,
+                30.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As God's divine Son, Jesus learned obedience through His sufferings. He was always obedient to the Father's will, but the specific obedience needed to qualify Him as our High Priest was learned through practical suffering. His training for the priesthood involved experiencing human infirmities and sympathizing with us. Though he was a Son, he grew in experience, wisdom, and the power of empathy. Jesus didn't need to learn how to obey, but the discipline of severe human experiences refined his obedience and shaped him for his role as our compassionate High Priest.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.4989697214754383,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.43,
+            "commentatorTierSimilarities": [
+                38.45,
+                30.55,
+                31.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though Jesus was God's divine Son, He learned obedience through the sufferings He endured. His training for the priesthood involved suffering, even though He was a Son. Jesus did not have to learn to obey, but He required the special discipline of severe human experiences as a training for His role as a high priest who could empathize with our weaknesses. Through His suffering, Jesus learned what it meant to obey God fully and willingly, showcasing His humanity and role as our Savior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.627211697367736,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.69,
+            "commentatorTierSimilarities": [
+                37.71,
+                31.33,
+                30.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

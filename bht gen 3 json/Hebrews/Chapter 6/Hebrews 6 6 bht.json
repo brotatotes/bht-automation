@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:48:10",
+    "verseRef": "Hebrews 6:6",
+    "bestBHT": {
+        "bht": "There are individuals who, by their actions, tear [Christ] out of the recesses of their hearts and expose Him to ridicule and scorn. These people were once renewed by the Holy Ghost, but they are not the elect, as they can fall away. Their conscience is seared, and they are now beyond hope unless God performs a miracle of grace. They declare that Christ's crucifixion has no significance or power. It is an impossible task to renew them again to repentance, for their sin is unpardonable and denies Christ himself.",
+        "wordCount": 91,
+        "quoteTokenProportion": 49.28,
+        "qualityScore": 1.9082700385369127,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+        "commentatorTierSimilarities": [
+            28.7,
+            32.16,
+            39.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "they virtually crucify again the Son of God; 'they tear him out of the recesses of their hearts where He had fixed His abode and exhibit Him to the open scoffs of the world as something powerless and common'",
+            "This passage implies that persons may be in some sense 'renewed,' and yet fall away finally; for the words, 'renew again,' imply that they have been, in some sense, not the full sense, ONCE RENEWED by the Holy Ghost; but certainly not that they are 'the elect,' for these can never fall away",
+            "their conscience being served, and they 'twice dead' (Mark 4:17- :), are now past hope, except by a miracle of God's grace. 'It is the curse of evil eternally to propagate evil'"
+        ],
+        "Albert Barnes": [
+            "It is not an affirmation that any had actually fallen away, or that in fact they would do it; but the statement is, that 'on the supposition that they had fallen away,' it would be impossible to renew them again.",
+            "Should a Christian fall from grace, he 'must perish.' He never could be saved.",
+            "The knowledge that apostasy would be fatal, and there could be no hope of being saved after rejecting the only way of salvation, would be a more effectual means of preserving one from apostasy than all the other means that could be used."
+        ],
+        "Marvin Vincent": [
+            "To renew them again. The verb N. T. o. Anakainoun to renew.",
+            "So that Christ is no more available for them. They declare that Christ 's crucifixion has not the meaning or the virtue which they formerly attached to it.",
+            "To put something alongside of a thing by way of commending it to imitation or avoidance. To make an example of; thence to expose to public disgrace."
+        ],
+        "John Calvin": [
+            "Repentance is not at the will of man, but that it is given by God to those only who have not wholly fallen away from the faith.",
+            "The ungodly indeed deceive themselves by such sayings as this \u2014 that it will be sufficient for them to repent of their wicked life at their last breath.",
+            "When any one rises up again after falling, we may hence conclude that he had not been guilty of defection, however grievously he may have sinned."
+        ],
+        "Archibald T. Robertson": [
+            "It is a terrible picture and cannot be toned down.",
+            "They crucify Christ.",
+            "To make an example of, and in bad sense to expose to disgrace."
+        ],
+        "John Gill": [
+            "To renew them again unto repentance, is a thing impossible: by 'repentance' is meant, not baptism of repentance; nor admission to a solemn form of public repentance in the church; nor a legal repentance, but an evangelical one... but it is absolutely impossible: it is impossible to these men to renew themselves to repentance;... yea, it is impossible to God himself... chiefly because to renew such persons to repentance, is repugnant to the determined will of God, who cannot go against his own purposes and resolutions...",
+            "seeing they crucify to themselves the Son of God afresh; who is truly and properly God... now this being the case, it makes their renewal to repentance impossible; because, as before observed, the sin they commit is unpardonable; it is a denial of Christ, who gives repentance; and such who sin it must arrive to such hardness of heart as to admit of no repentance...",
+            "and besides, this sin of denying Christ to be the Son of God, and Saviour of men, after so much light and knowledge, precludes the way of salvation, unless Christ was to be crucified again, which is impossible..."
+        ],
+        "John Wesley": [
+            "The apostle here describes the case of those who have cast away both the power and the form of godliness; who have lost both their faith, hope, and love...\" (Hebrews 6:6)",
+            "Of these wilful total apostates he declares, it is impossible to renew them again to repentance.\" (Hebrews 6:6)",
+            "Seeing they crucify the Son of God afresh \u2014 They use him with the utmost indignity. And put him to an open shame \u2014 Causing his glorious name to be blasphemed.\" (Hebrews 6:6)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There are individuals who, by their actions, tear [Christ] out of the recesses of their hearts and expose Him to ridicule and scorn. These people were once renewed by the Holy Ghost, but they are not the elect, as they can fall away. Their conscience is seared, and they are now beyond hope unless God performs a miracle of grace. They declare that Christ's crucifixion has no significance or power. Their behavior is a disgrace and an example to be avoided. The gravity of this situation cannot be understated, as they effectively crucify Christ again and put Him to open shame. It is an impossible task to renew them again to repentance, for their sin is unpardonable and denies Christ himself.",
+            "wordCount": 122,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.831189066962664,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                30.55,
+                31.65,
+                37.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There are individuals who, by their actions, tear [Christ] out of the recesses of their hearts and expose Him to ridicule and scorn. These people were once renewed by the Holy Ghost, but they are not the elect, as they can fall away. Their conscience is seared, and they are now beyond hope unless God performs a miracle of grace. They declare that Christ's crucifixion has no significance or power. It is an impossible task to renew them again to repentance, for their sin is unpardonable.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.8837114440314475,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                28.25,
+                32.68,
+                39.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There are those who, by their actions, tear [Christ] out of the recesses of their hearts and display Him as powerless and common to the world. These individuals were once renewed by the Holy Ghost, but they are not the elect and can fall away. Their conscience is ruined, leaving them without hope unless God performs a miracle of grace. They declare that Christ's crucifixion holds no meaning or virtue. Their behavior crucifies Christ again, putting Him to open disgrace. It is an impossible task to renew them again to repentance.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.8521986853348391,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                30.42,
+                32.16,
+                37.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals, by tearing Christ out of their hearts and exposing Him to ridicule, virtually crucify the Son of God again. Though once renewed, they can fall away, as they are not the elect. Their seared conscience leads to hopelessness, unless God's grace performs a miracle. By denying the power of Christ's crucifixion, they make His renewal impossible for themselves. Their actions serve as an example of disgrace and expose them to public humiliation. Their sin denies Christ and hinders their salvation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8048777809385417,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                31.1,
+                30.45,
+                38.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There are individuals who, by their actions, tear [Christ] out of the recesses of their hearts and expose Him to ridicule and scorn. These people were once renewed by the Holy Ghost, but they are not the elect, as they can fall away. Their conscience is seared, and they are now beyond hope unless God performs a miracle of grace. They declare that Christ's crucifixion has no significance or power. It is an impossible task to renew them again to repentance, for their sin is unpardonable and denies Christ himself.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 1.9082700385369127,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                28.7,
+                32.16,
+                39.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

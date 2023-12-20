@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:48:01",
+    "verseRef": "Hebrews 5:12",
+    "bestBHT": {
+        "bht": "You have brought yourselves into a state of need, indicating that it was of your own will. The mentioned milk refers to Christian doctrine concerning the beginning of Christ. You needed someone to teach you the very first elements. And considering the time you have been under instruction, you should be able to instruct others. It is disheartening that modern Christians still lack knowledge of the fundamental principles of divine truth and are incapable of grasping deeper spiritual concepts.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.7005397307162458,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+        "commentatorTierSimilarities": [
+            35.94,
+            34.27,
+            29.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You have become such as have need: indicating that it was of their own will, that they had brought themselves into this state of need.\" ",
+            "The similitude is very common with Philo. What is the milk in the Writer\u2019s meaning, is plain from ch. vi. 1, where he enumerates several portions of Christian doctrine as parts of the discourse concerning the beginning of Christ.",
+            "They wanted some one to begin again with them and learn them the very first elements."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye need not only to be taught the first elements, but also 'which they be.'"
+        ],
+        "Albert Barnes": [
+            "You ought to be able to explain to others the truths of the Christian religion.",
+            "They had shown that they were ignorant of some of the very elements of the gospel.",
+            "They had passed from the hopeful condition... and had become such as to need again the most simple form of instruction."
+        ],
+        "Marvin Vincent": [
+            "Because of the time during which the readers have been under instruction, they ought to be able to instruct others.",
+            "Again ye have need of being taught the very rudiments of divine truth which ye were taught long ago.",
+            "The time was when you needed the strong meat of the word."
+        ],
+        "John Calvin": [
+            "You do not know the alphabet.",
+            "We must, indeed, learn through life; for he alone is truly wise who owns that he is very far from perfect knowledge; but we ought still to profit so much by learning as not to continue always in the first principles.",
+            "The doctrine of Christ does indeed minister milk to babes as well as strong meat to adults; but as the babe is nourished by the milk of its nurse, not that it may ever depend on the breast, but that it may by degrees grow and take stronger food; so also at first we must suck milk from Scripture, so that we may afterwards feed on its bread."
+        ],
+        "Archibald T. Robertson": [
+            "Alas, what a commentary on modern Christians.",
+            "For \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03b9\u03b1 see Galatians 4:3; Galatians 4:9; Colossians 2:8.",
+            "Because still babes (1 Corinthians 3:2) and not able to chew 'solid food' (\u03c3\u03c4\u03b5\u03c1\u03b5\u03b1\u03c2 \u03c4\u03c1\u03bf\u03c6\u03b7\u03c2), without intellectual and spiritual teeth."
+        ],
+        "John Gill": [
+            "To have time for learning, and yet make no proficiency, is an aggravation of dulness.",
+            "Persons are not only to hear for their own edification, but for the instruction of others, though all hearers are not designed for public teachers.",
+            "The churches of Christ are the proper seminaries of Gospel ministers."
+        ],
+        "John Wesley": [
+            "Ye have need that one teach you again which are the first principles of religion.\" ",
+            "And have need of milk \u2014 The first and plainest doctrines."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You have become such as have need, indicating that it was of your own will that you brought yourselves into this state of need. The milk mentioned here is explained in another chapter as portions of Christian doctrine concerning the beginning of Christ. You needed someone to begin again with you and teach you the very first elements. You needed to be taught not only the first elements, but also what they are. And because of the time during which you have been under instruction, you ought to be able to instruct others. But alas, what a commentary on modern Christians that you still need the very rudiments of divine truth and are not able to chew 'solid food' without intellectual and spiritual teeth. We must learn through life, but we should still profit so much by learning that we do not always remain in the first principles. So, let the doctrine of Christ minister milk to you as babes, but remember to gradually grow and take stronger food.",
+            "wordCount": 169,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.7401436946028264,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                40.21,
+                25.81,
+                33.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You have become such as have need, indicating that it was of your own will that you brought yourselves into this state of need. The milk mentioned here is explained in another chapter as portions of Christian doctrine concerning the beginning of Christ. You needed someone to begin again with you and teach you the very first elements. And because of the time during which you have been under instruction, you ought to be able to instruct others. But alas, what a commentary on modern Christians that you still need the very rudiments of divine truth and are not able to chew 'solid food' without intellectual and spiritual teeth.",
+            "wordCount": 109,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.6984544042768432,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                39.49,
+                30.84,
+                29.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You have brought yourselves into a state of need, indicating that it was of your own will. The mentioned milk refers to Christian doctrine concerning the beginning of Christ. You needed someone to teach you the very first elements. And considering the time you have been under instruction, you should be able to instruct others. It is disheartening that modern Christians still lack knowledge of the fundamental principles of divine truth and are incapable of grasping deeper spiritual concepts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7005397307162458,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                35.94,
+                34.27,
+                29.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You have willingly brought yourselves into a state of need, signifying your own responsibility. The milk mentioned is the basic teachings of Christian doctrine concerning the beginning of Christ. You required someone to re-teach you the initial elements. Due to the length of your instruction, you ought to be able to teach others. It is truly disappointing that modern Christians still lack the knowledge of fundamental principles, unable to comprehend deeper spiritual truths.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6375986863194434,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                31.91,
+                35.98,
+                32.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You have brought yourselves into a state of need, indicating that it was of your own will. The mentioned milk refers to Christian doctrine concerning the beginning of Christ. You needed someone to teach you the very first elements. And considering the time you have been under instruction, you should be able to instruct others. It's disheartening that modern Christians still lack knowledge of the fundamental principles of divine truth and are incapable of grasping deeper spiritual concepts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6979387056558748,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                35.95,
+                34.21,
+                29.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:49:24",
+    "verseRef": "Hebrews 10:5",
+    "bestBHT": {
+        "bht": "Christ's act of willingly obeying the Father's will and offering Himself as a sacrifice is emphasized in this passage. By preparing His body for this sacrifice, He fulfills God's desire for a superior offering. Animal sacrifices are insufficient for the deliverance from sin; rather, obedience to God's will is the key. Christ's voluntary submission and sacrifice hold greater virtue than any animal sacrifice could ever achieve, making His offering the true and final sacrifice for sin.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.4802329336924416,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.81,
+        "commentatorTierSimilarities": [
+            47.06,
+            25.72,
+            27.22
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Christ's assuming a human body, in obedience to the Father's will, in order to die the death of a slave, was virtually the same act of voluntary submission to service as that of a slave suffering his ear to be bored by his master.",
+            "His willing obedience to the Father's will is what is dwelt on as giving especial virtue to His sacrifice.",
+            "The preparing, or fitting of a body for Him, is not with a view to His mere incarnation, but to His expiatory sacrifice, as the contrast to 'sacrifice and offering' requires."
+        ],
+        "Albert Barnes": [
+            "It was, therefore, of the highest importance to defend the position which he had laid down by authority which they would not presume to call in question.\" ",
+            "The simple idea is, that since it was impossible that the blood of bulls and goats should take away sin, Christ coming into the world made arrangements for a better sacrifice.",
+            "But still it is clear that the apostle meant to lay some stress on the fact that a body had been prepared for the Redeemer."
+        ],
+        "Marvin Vincent": [
+            "Deliverance from sin is not obtained by animal sacrifices, but by fulfilling God's will.",
+            "Christ did not yield to God's will as authoritative constraint. The constraint lay in his own eternal spirit.",
+            "His sacrifice was no less his own will than God's will."
+        ],
+        "John Calvin": [
+            "Yet all do not consider that the words have this meaning, for they think that sacrifices are not here expressly repudiated, but that the superstitious notion which had generally prevailed, that the whole worship of God consisted in them, is what is condemned; and if it be so, it may be said that this testimony has little to do with the present question.\" ",
+            "David, being under the Law, ought not surely to have neglected the rite of sacrificing. He ought, I allow, to have worshipped God with sincerity of heart; but it was not lawful for him to omit what God had commanded, and he had the command to sacrifice in common with all the rest.",
+            "There is no small importance in this, that when he professes that he would do the will of God, he assigns no place to sacrifices; for we hence conclude that without them there may be a perfect obedience to God, which could not be true were not the Law annulled."
+        ],
+        "Archibald T. Robertson": [
+            "That there was a sacrifice which answered to the will of God as no animal sacrifice could.\" ",
+            "The Son's offering of himself is the true and final offering for sin, because it is the sacrifice, which, according to prophecy, God desired to be made.\" ",
+            "Using \u03c3\u03c9\u03bc\u03b1 (body) for \u03c9\u03c4\u03b9\u03b1 (ears) does not change the sense, for the ears were the point of contact with God's will."
+        ],
+        "John Gill": [
+            "This phrase always signifies coming into this terrene world, and intends men's coming into it at their birth; Psalms 40:7- : and must be understood of Christ's incarnation, which was an instance of great love, condescension, and grace.",
+            "God would not have these [ceremonial sacrifices] continue any longer, they being only imposed for a time, and this time being come; nor would he accept of them, as terms, conditions, and causes of righteousness, pardon, peace, and reconciliation.",
+            "Thou hast clothed me with a body...he might dwell in, and in it do the will of God, and perform the work of man's redemption...the opening, or boring of the ear, was a sign [of his cheerful obedience as a servant]."
+        ],
+        "John Wesley": [
+            "It is said, into the world, not into the tabernacle, because all the world is interested in his sacrifice.",
+            "A body hast thou prepared for me \u2014 That I may offer up myself.",
+            "Psalm 40:6, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 10:5, the commentators point out the significance of Christ willingly obeying the Father's will, which adds great virtue to His sacrifice. They emphasize that the preparation of a body for Christ's ultimate sacrifice goes beyond mere incarnation, and it fulfills God's desire for a sacrifice that animal sacrifices could never achieve. This act of voluntary submission is likened to a slave willingly enduring the piercing of his ear by his master. The commentators highlight that Christ's sacrifice is the true and final offering for sin, as prophesied. Ultimately, this verse underscores the deliverance from sin that is obtained not by animal sacrifices, but by fulfilling God's will.",
+            "wordCount": 113,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 2.291331411093772,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.53,
+            "commentatorTierSimilarities": [
+                44.67,
+                28.69,
+                26.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's voluntary submission to the Father's will in offering Himself as a sacrifice is highlighted in Hebrews 10:5. The preparation of His body for this sacrifice goes beyond mere incarnation; it is the true and final offering for sin that fulfills God's desire for a sacrifice. The deliverance from sin is not achieved through animal sacrifices, but rather by fulfilling God's will. Christ's willing obedience gives special virtue to His sacrifice, which far surpasses the atonement provided by the blood of bulls and goats.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.4891754576715592,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.1,
+            "commentatorTierSimilarities": [
+                47.02,
+                27.13,
+                25.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's act of willingly obeying the Father's will and preparing His body for sacrifice in Hebrews 10:5 demonstrates the superiority of His offering over animal sacrifices. His sacrifice fulfills God's desire for a true and final offering for sin, as prophesied. The commentators highlight the importance of Christ's submission and the fact that deliverance from sin is attained through fulfilling God's will, not through animal sacrifices. Therefore, Christ's obedience and sacrifice hold greater virtue and effectiveness in achieving redemption.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.337471660655574,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+            "commentatorTierSimilarities": [
+                46.1,
+                26.81,
+                27.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's act of willingly obeying the Father's will and offering Himself as a sacrifice is emphasized in this passage. By preparing His body for this sacrifice, He fulfills God's desire for a superior offering. Animal sacrifices are insufficient for the deliverance from sin; rather, obedience to God's will is the key. Christ's voluntary submission and sacrifice hold greater virtue than any animal sacrifice could ever achieve, making His offering the true and final sacrifice for sin.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.4802329336924416,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.81,
+            "commentatorTierSimilarities": [
+                47.06,
+                25.72,
+                27.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's voluntary obedience to the Father's will and the preparation of His body for sacrifice is the focus of this text. The commentators emphasize that Christ's sacrifice surpasses animal offerings and fulfills God's desire for an ultimate sacrifice. Deliverance from sin is not attained through animal sacrifices, but rather through fulfilling God's will. Christ's voluntary submission and sacrifice hold greater virtue and efficacy in securing redemption, serving as the true and final sacrifice for sin.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.395281070139103,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.98,
+            "commentatorTierSimilarities": [
+                47.42,
+                25.87,
+                26.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

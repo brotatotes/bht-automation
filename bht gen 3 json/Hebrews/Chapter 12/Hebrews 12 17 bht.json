@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:51:26",
+    "verseRef": "Hebrews 12:17",
+    "bestBHT": {
+        "bht": "For he found not place of repentance... It means he found no way to reverse what he had done by repentance. The sin had been committed and the consequence was irrevocable. We do not mean an opportunity to be sorry for what has been done, but a chance to repair through repentance. It is obvious that our interpretation cannot exclude any sinner from repentance. His tears were of vain regret and remorse, not of true repentance. Tears alone are not proof of genuine repentance. (Quote 1, 4, 5, 6)",
+        "wordCount": 85,
+        "quoteTokenProportion": 55.0,
+        "qualityScore": 2.2145935650073385,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.98,
+        "commentatorTierSimilarities": [
+            36.96,
+            29.62,
+            33.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he found not place of repentance... It will mean, that he found no way open to reverse what had been done, by repentance: the sin had been committed and the consequence entailed, irrevocably.",
+            "We do not mean by it an opportunity to repent in a man\u2019s own bosom, to be sorry for what he has done, but we mean, a chance, by repenting, to repair.",
+            "It is obvious, that our passage, rightly understood, cannot by any means favour the exclusion of any sinner from repentance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that will not when he may, when he will, shall have nay.",
+            "His were tears of vain regret and remorse, not of repentance.",
+            "Tears are no proof of real repentance."
+        ],
+        "Albert Barnes": [
+            "The decision of God on the human character and destiny will soon be pronounced. That decision will be according to truth, and cannot be changed.",
+            "If we should despise our privileges as Esau did his birth-right, and renounce our religion, it would be impossible to recover what we had lost.",
+            "When God has once pronounced a sentence excluding us from his favor, no tears, or pleading, or effort of our own can change him. The sentence which he pronounces on the scoffer, the impenitent, the hypocrite, and the apostate, is one that will abide forever without change."
+        ],
+        "Marvin Vincent": [
+            "He found no place of repentance... means an opportunity to repair by repenting. He found no way to reverse by repentance what he had done.\" (Quote 1)",
+            "The penalty could not be reversed in the nature of the case. This is clear from Isaac's words, Genesis 27:33.\" (Quote 2)",
+            "Sought it carefully... See also on questionings, 1 Timothy 1:4.\" (Quote 3)"
+        ],
+        "John Calvin": [
+            "Thus they who are led away by the allurements of this world alienate themselves from God, and sell their own salvation that they may feed on the morsels of this world, without thinking that they lose anything, nay, they flatter and applaud themselves, as though they were extremely happy.\" ",
+            "When too late their eyes are opened, so that being warned by the sight of their own wickedness, they become sensible of the loss of which they made no account.",
+            "To this I answer, that repentance here is not to be taken for sincere conversion to God; but it was only that terror with which the Lord smites the ungodly, after they have long indulged themselves in their iniquity."
+        ],
+        "Philip Schaff": [
+            "For he found no place of repentance, though he sought it carefully and with tears.",
+            "He is regarded as a type of the hopeless apostate, who throws away his birthright through sensual indulgence or love of the world, and who, too late, finds the door of repentance closed to him, because repentance itself, in its true and deep sense, is impossible.",
+            "There is a striking sermon of Melvill\u2019s on the text as thus interpreted. In any case the lesson remains; sensual, worldly preferences may be so indulged as to become our masters; and we may wish to die the death of the righteous, and reap their rewards, and yet be rejected."
+        ],
+        "Archibald T. Robertson": [
+            "He was rejected...to disapprove.\" (8 words)",
+            "Place of repentance...change of mind and purpose.\" (10 words)",
+            "Esau is a tragic example...who does a wilful sin.\" (11 words)"
+        ],
+        "John Gill": [
+            "He found no place of repentance, though he sought it carefully with tears.\" ",
+            "Tears are not an infallible sign of repentance.",
+            "He plainly saw it was the mind of God, that the blessing should be where it was."
+        ],
+        "John Wesley": [
+            "He was rejected \u2014 He could not obtain it.",
+            "For he found no place for repentance \u2014 There was no room for any such repentance as would regain what he had lost.",
+            "Diligently with tears \u2014 He sought too late. Let us use the present time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For he found not place of repentance... It will mean, that he found no way open to reverse what had been done, by repentance... the sin had been committed and the consequence entailed, irrevocably. We do not mean by it an opportunity to repent in a man\u2019s own bosom, to be sorry for what he has done, but we mean, a chance, by repenting, to repair. It is obvious, that our passage, rightly understood, cannot by any means favour the exclusion of any sinner from repentance... He that will not when he may, when he will, shall have nay. His were tears of vain regret and remorse, not of repentance... Tears are no proof of real repentance. He found no place of repentance... means an opportunity to repair by repenting. He found no way to reverse by repentance what he had done. (Quote 1)",
+            "wordCount": 144,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 2.2991756995373356,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.79,
+            "commentatorTierSimilarities": [
+                36.7,
+                30.38,
+                32.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For he found not place of repentance... It means he found no way to reverse what he had done by repentance. The sin had been committed and the consequence was irrevocable. We do not mean an opportunity for a person to be sorry for what they have done, but a chance to repair by repenting. It is obvious that our interpretation cannot exclude any sinner from repentance. His tears were of vain regret and remorse, not of real repentance. Tears alone are not proof of genuine repentance. He found no place of repentance... means an opportunity to repair through repentance. He found no way to reverse what he had done. (Quote 1, 4, 5, 6)",
+            "wordCount": 111,
+            "quoteTokenProportion": 53.97,
+            "qualityScore": 2.1851773029527424,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.0,
+            "commentatorTierSimilarities": [
+                36.47,
+                29.25,
+                34.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For he found not place of repentance... It means he found no way to reverse what he had done by repentance. The sin had been committed and the consequence was irrevocable. We do not mean an opportunity to be sorry for what has been done, but a chance to repair through repentance. It is obvious that our interpretation cannot exclude any sinner from repentance. His tears were of vain regret and remorse, not of true repentance. Tears alone are not proof of genuine repentance. He found no place of repentance... means an opportunity to repair through repentance. He found no way to reverse what he had done. (Quote 1, 4, 5, 6)",
+            "wordCount": 108,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 2.206497307494102,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+            "commentatorTierSimilarities": [
+                36.57,
+                29.3,
+                34.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For he found not place of repentance... It means he found no way to reverse what he had done by repentance. The sin had been committed and the consequence was irrevocable. We do not mean an opportunity to be sorry for what has been done, but a chance to repair through repentance. It is obvious that our interpretation cannot exclude any sinner from repentance. His tears were of vain regret and remorse, not of true repentance. Tears alone are not proof of genuine repentance. (Quote 1, 4, 5, 6)",
+            "wordCount": 85,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 2.2145935650073385,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.98,
+            "commentatorTierSimilarities": [
+                36.96,
+                29.62,
+                33.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For he found not place of repentance... It means he found no way to reverse what he had done by repentance. The sin had been committed and the consequence was irrevocable. We do not mean an opportunity to be sorry for what has been done, but a chance to repair through repentance. His tears were of vain regret and remorse, not of true repentance. Tears alone are not proof of genuine repentance. (Quote 1, 4, 5, 6)",
+            "wordCount": 73,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 2.1817375731809836,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.88,
+            "commentatorTierSimilarities": [
+                36.78,
+                28.97,
+                34.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

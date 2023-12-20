@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 17:50:23",
+    "verseRef": "Hebrews 11:36",
+    "bestBHT": {
+        "bht": "In this description of others who faced trials and testing, it is mentioned that they endured cruel mockings, scourgings, bonds, and imprisonment. These experiences were not merely physical, but also served as a test of their character and endurance. Their ability to patiently endure and remain steadfast in the face of adversity showcased their unwavering commitment to their beliefs.",
+        "wordCount": 59,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.011993130217631,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.99,
+        "commentatorTierSimilarities": [
+            4.98,
+            51.17,
+            43.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "others\u2014of a different class of confessors for the truth\" ",
+            "trial\u2014testing their faith.\" ",
+            "imprisonment\u2014as Hanani (2 Chronicles 16:10), imprisoned by Asa. Micaiah, the son of Imlah, by Ahab (1 Kings 22:26; 1 Kings 22:27)."
+        ],
+        "Albert Barnes": [
+            "And others had trial of cruel mockings - Referring to the scorn and derision which the ancient victims of persecution experienced.",
+            "And scourging - Whipping. This was a common mode of punishment, and was usually inflicted before a martyr was put to death.",
+            "And imprisonment."
+        ],
+        "Philip Schaff": [
+            "Others had trial (experience) of cruel mockings and scourgings.",
+            "Yea, moreover (a harder thing, because of the continuance and depressing influence of it), of bends of imprisonment.",
+            "Perhaps with reference to Jonathan, or to Hanani, Micaiah, and especially to Jeremiah."
+        ],
+        "Archibald T. Robertson": [
+            "\u03b5\u03bc\u03c0\u03b1\u03b9\u03b3\u03bc\u03c9\u03bd \u03ba\u03b1 \u03bc\u03b1\u03c3\u03c4\u03b9\u03b3\u03c9\u03bd. \u0395\u03bc\u03c0\u03b1\u03b9\u03b3\u03bc\u03bf\u03c2 is from \u03b5\u03bc\u03c0\u03b1\u03b9\u03b6\u03c9 (Matthew 20:19), late word, in LXX, here alone in N.T.\" ",
+            "\u039c\u03b1\u03c3\u03c4\u03b9\u03b3\u03c9\u03bd (\u03bc\u03b1\u03c3\u03c4\u03b9\u03be, a whip, a scourge) is old and common enough (Acts 22:24).",
+            "\u03b5\u03bc\u03c0\u03b1\u03b9\u03b3\u03bc\u03c9\u03bd \u03ba\u03b1 \u03bc\u03b1\u03c3\u03c4\u03b9\u03b3\u03c9\u03bd"
+        ],
+        "John Gill": [
+            "And others had trial of cruel mockings...\" (Hebrews 11:36) ",
+            "yea, moreover of bonds and imprisonment...\" (Hebrews 11:36)",
+            "Now of these things they had trial, or experience; their graces were tried by them, and they patiently endured them."
+        ],
+        "John Wesley": [
+            "And others \u2014 The apostle seems here to pass on to recent examples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 11:36, the verse speaks about a different class of confessors for the truth who experienced trials testing their faith, including cruel mockings and scourgings, as well as bonds and imprisonment. These trials were not only physical but also a testing of their character and endurance. The mention of these experiences highlights their perseverance and commitment to their beliefs, as they patiently endured and remained steadfast in the face of adversity.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.1100244109223216,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.25,
+            "commentatorTierSimilarities": [
+                13.73,
+                38.46,
+                47.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is mentioned that there were others who endured trials and testing of their faith, which included cruel mockings, scourgings, bonds, and imprisonment. These experiences were not only physical in nature but also served to test their character and endurance. These individuals demonstrated great perseverance and commitment to their beliefs as they patiently endured and remained steadfast in the face of adversity.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.0560003492910537,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.46,
+            "commentatorTierSimilarities": [
+                7.42,
+                44.88,
+                47.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this description of others who faced trials and testing, it is mentioned that they endured cruel mockings, scourgings, bonds, and imprisonment. These experiences were not merely physical, but also served as a test of their character and endurance. Their ability to patiently endure and remain steadfast in the face of adversity showcased their unwavering commitment to their beliefs.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.011993130217631,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.99,
+            "commentatorTierSimilarities": [
+                4.98,
+                51.17,
+                43.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Hebrews, there were others who endured trials testing their faith, including cruel mockings and scourgings, bonds, and imprisonment. These experiences served as both physical and character tests, revealing their endurance and unwavering commitment to their beliefs. Through patiently enduring these adversities, they exemplified their steadfastness and dedication in the face of challenges.",
+            "wordCount": 53,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.086868713712918,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.48,
+            "commentatorTierSimilarities": [
+                8.21,
+                43.44,
+                48.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this context, there were individuals who faced trials that tested their faith, enduring cruel mockings, scourgings, bonds, and imprisonment. These experiences served as both physical and character trials, revealing their endurance and unwavering commitment to their beliefs. Through their patient endurance, they demonstrated steadfastness and dedication in the midst of challenges.",
+            "wordCount": 52,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.0064629432241432,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.81,
+            "commentatorTierSimilarities": [
+                4.06,
+                50.26,
+                45.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

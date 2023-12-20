@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:46:41",
+    "verseRef": "Hebrews 1:12",
+    "bestBHT": {
+        "bht": "The heavens and the earth will be rolled up and changed like a garment, emphasizing the transient nature of creation. However, God remains the same and His years do not fail, reflecting His immutability and faithfulness. This assurance of Christ's unchanging nature strengthens our faith, encouraging us to expect blessings from Him even as the old is replaced with the new heavens and earth, characterized by righteousness.",
+        "wordCount": 68,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.6739546101189517,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+        "commentatorTierSimilarities": [
+            19.3,
+            43.37,
+            37.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "an enwrapping cloak.",
+            "changed\u2014as one lays aside a garment to put on another.",
+            "thou art the same\u2014(Isaiah 46:4; Malachi 3:6). The same in nature, therefore in covenant faithfulness to Thy people."
+        ],
+        "Albert Barnes": [
+            "They are represented in the Scriptures as an 'expanse' [...] and as a 'scroll' that might be spread out or rolled up like a book or volume.",
+            "The present form of the heavens and the earth is not to be permanent, but is to be succeeded by others, or to pass away, but that the Creator is to remain the same.",
+            "What could more clearly prove that he of whom this is spoken is immutable? Yet it is indubitably spoken of the Messiah, and must demonstrate that he is divine."
+        ],
+        "Marvin Vincent": [
+            "Vesture [\u03c0\u03b5\u03c1\u03b9\u03b2\u03bf\u03bb\u03b1\u03b9\u03bf\u03bd] . Only here and 1 Corinthians 11:5. From periballein to throw around : a wrapper, mantle.",
+            "Shalt thou fold them up [\u03b5\u03bb\u03b9\u03be\u03b5\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2] . Rather, roll them up. A scribal error for ajllaxeiv shalt change. After these words the LXX repeats wJv iJmation as a garment from ver. 11.",
+            "Shall not fail [\u03bf\u03c5\u03ba \u03b5\u03ba\u03bb\u03b5\u03b9\u03c8\u03bf\u03c5\u03c3\u03b9\u03bd] . Shall not be ended. With this exception the verb only in Luke's Gospel. See Luke 16:9; Luke 22:32; Luke 23:45. Very frequent in LXX"
+        ],
+        "Philip Schaff": [
+            "As a mantle shalt thou roll them up, as a garment also shall they be changed.\" ",
+            "The heavens and the earth are to be lolled up as done with.",
+            "They are to be changed for a new heaven and a new earth, wherein dwelleth righteousness."
+        ],
+        "Archibald T. Robertson": [
+            "Nature is at his mercy, not he at nature's.",
+            "Shall not fail.",
+            "To fold together."
+        ],
+        "John Gill": [
+            "as a vesture shalt thou fold them up,.... In order to lay them aside, and make no use of them in the manner they now are",
+            "but thou art the same, and thy years shall not fail; which is expressive of the immutability of Christ, in his nature and perfections, in his person, and offices, in the virtue of his blood, righteousness, and sacrifice",
+            "this may serve to take off the heart from the one, and set it upon the other; and to strengthen our faith in Christ, and encourage us to expect a continuance of blessings from him"
+        ],
+        "John Wesley": [
+            "As a mantle \u2014 With all ease.",
+            "They shall be changed \u2014 Into new heavens and a new earth. But thou art eternally the same."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the heavens and the earth being rolled up and changed like a garment, while God remains the same and His years do not fail. This imagery emphasizes the transient nature of creation and the steadfastness of the Creator. The change in the heavens and the earth signifies the coming of new heavens and a new earth, where righteousness will dwell. By understanding this, we can find comfort and faith in Christ, knowing that He remains unchanging and will continue to bless us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.586833926967139,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                16.89,
+                46.76,
+                36.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heavens and the earth will be rolled up and changed like a garment, but God, who remains the same, will not fail. This shows the impermanence of creation and the immutability of the Creator. The change signifies the coming of a new heaven and a new earth, where righteousness will dwell. Understanding this brings comfort and strengthens our faith in Christ, assuring us of His unchanging nature and His continuous blessings.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.5937834966018631,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+            "commentatorTierSimilarities": [
+                15.18,
+                48.63,
+                36.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavens and the earth will be rolled up and changed like a garment, emphasizing the transient nature of creation. However, God remains the same and His years do not fail, reflecting His immutability and faithfulness. This assurance of Christ's unchanging nature strengthens our faith, encouraging us to expect blessings from Him even as the old is replaced with the new heavens and earth, characterized by righteousness.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.6739546101189517,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                19.3,
+                43.37,
+                37.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavens and the earth will be rolled up and changed like a garment, highlighting the impermanence of creation. On the other hand, God remains unchanging, displaying His faithfulness and eternality. This knowledge fortifies our faith in Christ and instills hope, as we anticipate blessings from Him. The transformative nature of the heavens and the earth, making way for a new realm of righteousness, emphasizes the enduring nature of God's sovereignty and His continual provision.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.5282515409867972,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+            "commentatorTierSimilarities": [
+                17.59,
+                45.08,
+                37.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavens and the earth will be rolled up like a garment, depicting the transient state of creation. In contrast, God remains unchanged and His years do not fail, exhibiting His immutability and faithfulness. Consequently, this revelation reinforces our confidence in Christ and inspires us to anticipate continuous blessings from Him. The symbolism of the heavens and the earth being transformed into a new realm underscores God's everlasting dominion and the presence of righteousness within it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5345819454222112,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                18.64,
+                45.38,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

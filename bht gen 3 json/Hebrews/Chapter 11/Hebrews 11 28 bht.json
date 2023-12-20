@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:50:14",
+    "verseRef": "Hebrews 11:28",
+    "bestBHT": {
+        "bht": "By faith, Moses celebrated the Passover, relying on God's promise that the blood on the doorposts would protect the Israelites from the destroying angel. He trusted in the invisible God and accepted His word without hesitation. Through this act of faith, the Passover became a lasting commemoration of deliverance and a foreshadowing of the Messiah. The sprinkling of blood on the doorposts symbolizes the purification and security that believers find through faith in Christ, ensuring they are unaffected by the second death.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9219422556562047,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+        "commentatorTierSimilarities": [
+            25.33,
+            36.25,
+            38.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By faith he hath celebrated the Passover [...] that by faith which was to him the evidence of things unseen.\" ",
+            "This word is ordinarily used of those cases where the blood was sprinkled round the altar, e.g. Lev. i. 5; vi. 32, &c. So that the word applies well to this ordinance, where the blood was sprinkled by means of a bunch of hyssop.",
+            "Them, of a subject not before expressed, is to be understood out of the context as meaning the Israelites, who sprinkled the blood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His faith here was his belief in the invisible God's promise that the destroying angel should pass over, and not touch the inmates of the blood-sprinkled houses.",
+            "He acquiesced in the bare word of God where the thing itself was not apparent.",
+            "The first-born\u2014Greek neuter; both of man and beast."
+        ],
+        "Albert Barnes": [
+            "The faith in the case was confidence that this would be the means of preserving the first-born of the Israelites, when the angel should destroy the first-born of the Egyptians, and also that it would be celebrated as a perpetual memorial of this great deliverance.",
+            "So wherever true faith exists, there is a readiness to abandon the hope of gain, and brilliant prospects of distinction, and fascinating pleasures, in obedience to the command of God.",
+            "In all the difficulties and discouragements of the undertaking of Moses, therefore, his only hope of success must have arisen from his confidence in God."
+        ],
+        "John Calvin": [
+            "But, he says, that it was kept by faith, not because the Paschal lamb was a type of Christ, but because its benefit did not appear, when he sprinkled the doorposts with blood: when therefore the effect was yet hid, it was necessarily looked for by faith.",
+            "Being satisfied with God\u2019s word alone, that the people would be exempt from the scourge that was coming on the Egyptians, he did not hesitate.",
+            "And the reason why he mentions Moses alone, as celebrating the Passover, seems to be this, that God through him instituted the Passover."
+        ],
+        "Archibald T. Robertson": [
+            "He has made, emphasizing the permanent nature of the feast.",
+            "An allusion to the command in Exodus 12:7; Exodus 12:22 but in the LXX \u03c0\u03c1\u03bf\u03c3\u03c7\u03b5\u03c9 is the usual term for the act.",
+            "Negative final clause with \u03b9\u03bd\u03b1 \u03bc\u03b7 and the second aorist active subjunctive of \u03b8\u03b9\u03b3\u03b3\u03b1\u03bd\u03c9, old verb to touch with genitive, in the N.T. only here, Hebrews 12:20; Colossians 2:21."
+        ],
+        "John Gill": [
+            "Through faith he kept the passover... in faith of the speedy deliverance of the children of Israel, from the house of bondage; and in the faith of the Messiah, of whom the passover was a type.\" ",
+            "The blood of Christ being sprinkled upon the hearts and consciences of his people; whereby they are purified through faith; which blood is looked upon by Jehovah, so that justice passes by them; and they are all safe and secure.",
+            "They will be, when others are destroyed; nor can they be hurt by the second death."
+        ],
+        "John Wesley": [
+            "The pouring out of the blood \u2014 Of the paschal lamb, which was sprinkled on the door-posts, lest the destroying angel should touch the Israelites. Exodus 12:12-18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, Moses celebrated the Passover as an act of obedience to God's command, trusting in the promise that the destroying angel would pass over the blood-sprinkled houses of the Israelites. He relied solely on the word of God, even though the actual effect of the blood on the doorposts was not immediately apparent. Through this act of faith, Moses and the Israelites commemorated their deliverance from Egypt and looked forward to the Messiah, of whom the Passover was a type. The blood-sprinkling on the doorposts symbolizes the purification and protection that comes through the sprinkling of the blood of Christ on the hearts and consciences of believers. Through faith in Christ, they are kept safe and secure, unaffected by the judgement that others will face.",
+            "wordCount": 129,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.8939990966151368,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                25.86,
+                33.79,
+                40.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, Moses celebrated the Passover as an act of obedience, trusting in God's promise that the destroying angel would pass over the blood-sprinkled houses of the Israelites. He relied on the invisible God's word, even when the effect was not apparent. Through this faith, the Passover became a permanent feast, symbolizing deliverance and pointing to the coming Messiah. The blood-sprinkling represents the purification and protection obtained through faith in Christ, ensuring believers are kept safe from judgement.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9158617277696743,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                27.55,
+                36.09,
+                36.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, Moses celebrated the Passover as a lasting testimony of God's promise. He trusted in the invisible God's word and relied on the blood-sprinkling as a means of protection. This act of obedience demonstrated his belief in the unseen and his unwavering confidence in God's deliverance. The Passover serves as a reminder of the great deliverance of the Israelites and points to the ultimate deliverance through Christ's sacrifice. Through faith, believers are purified and secured from the judgment that others will face.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.78943370030965,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                26.83,
+                40.25,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, Moses celebrated the Passover, obediently following God's command and trusting in His promise. Through the sprinkling of blood on the doorposts, Moses believed in the unseen protection that would spare the Israelites from the destroyer. The Passover served as a perpetual memorial, symbolizing deliverance and providing hope for the future. This act of faith reminds believers of the purification and security found in Christ's blood, ensuring their safety from judgment and the second death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8874813668817452,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                25.21,
+                36.64,
+                38.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, Moses celebrated the Passover, relying on God's promise that the blood on the doorposts would protect the Israelites from the destroying angel. He trusted in the invisible God and accepted His word without hesitation. Through this act of faith, the Passover became a lasting commemoration of deliverance and a foreshadowing of the Messiah. The sprinkling of blood on the doorposts symbolizes the purification and security that believers find through faith in Christ, ensuring they are unaffected by the second death.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9219422556562047,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                25.33,
+                36.25,
+                38.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

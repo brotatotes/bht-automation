@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:46:24",
+    "verseRef": "Hebrews 1:11",
+    "bestBHT": {
+        "bht": "The heavens and the earth will perish and wax old, but God remains unchanged as the eternal Creator. Just as the earth was renewed after the flood, the covenant and possession of the earth will be renewed after its perishing by fire. Let us not be alarmed by any revolution or fear the destruction of the heavens, for God, the unchanging and everlasting One, presides over all.",
+        "wordCount": 67,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.287363092568257,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+        "commentatorTierSimilarities": [
+            28.5,
+            30.99,
+            40.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They (the heavens) shall perish...but thou remainest.",
+            "They all shall wax old as a garment... and as a mantle shalt thou fold them up.",
+            "Thou art the same...and thy years shall not fail."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Perish\" does not mean annihilation; just as it did not mean so in the case of \"the world that being overflowed with water, perished\" under Noah (2 Peter 3:6).",
+            "The covenant of the possession of the earth was renewed with Noah and his seed on the renovated earth. So it shall be after the perishing by fire.",
+            "[You] remainest through all changes, as . . . a garment\" (Isaiah 51:6)."
+        ],
+        "Albert Barnes": [
+            "The idea is, that though the heavens and earth should suddenly disappear, or though they should gradually wear out and become extinct, yet there is one infinite being who remains unaffected and unchanged.",
+            "Let us not be alarmed then at any revolution. Let us not fear though we should see the heavens rolled up as a scroll, and the stars falling from their places. God, the Creator and the Redeemer, presides over all. He is unchanged. He ever lives.",
+            "Can there be constant exhaustion, a constant burning like that, and yet no tendency to decay at some far distant period? Not unless the material for its splendor shall be supplied from the boundless resources of the Great Source of Light - God; and when he shall choose to withhold it, even that glorious sun must be dimmed of its splendor, and shine with enfeebled beams."
+        ],
+        "Marvin Vincent": [
+            "They [\u03b1\u03c5\u03c4\u03bf\u03b9] . The heavens : not heaven and earth. ",
+            "Remainest [\u03b4\u03b9\u03b1\u03bc\u03b5\u03bd\u03b5\u03b9\u03c2] . Note the present tense : not shalt remain. Permanency is the characteristic of God in the absolute and eternal present."
+        ],
+        "Philip Schaff": [
+            "Hebrews 1:11. They all, i.e the heavens and the earth. The language and the imagery are taken largely from Isaiah 34:4; Isaiah 51:6.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Modern scientists no longer postulate the eternal existence of the heavenly bodies.",
+            "This is what matters most, the eternal existence of God's Son as Creator and Preserver of the universe.",
+            "Shall wax old."
+        ],
+        "John Gill": [
+            "They shall perish... the heavens and the earth... the present form and fashion of them shall pass away...\" ",
+            "But thou remainest; without any change or alteration... as a priest, he has an unchangeable priesthood, and ever lives to make intercession... his kingdom is an everlasting one, and of it there will be no end... he will be the everlasting light of his people.\" ",
+            "They all shall wax old as doth a garment... the heavens, and the light thereof, are as a garment and a curtain... these, together with the earth, will in time come to their end of usefulness, in the present form of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The heavens and the earth, though they may wear out and become extinct, are not eternal. They will perish and wax old like a garment. However, in contrast to the transient nature of creation, God remains unchanged and unaffected by these changes. Just as the earth was renewed after the flood, the covenant and possession of the earth will be renewed after its perishing by fire. The eternal existence of God's Son as the Creator and Preserver of the universe is what truly matters. Let us not be alarmed by any revolution or fear the destruction of the heavens, for God, the unchanging and everlasting One, presides over all.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.0816702027833225,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                30.17,
+                28.74,
+                41.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heavens and the earth, though they may wear out, will perish and wax old like a garment. But in contrast to their transient nature, God remains unchanged as the eternal Creator and Preserver of the universe. Just as the earth was renewed after the flood, the covenant and possession of the earth will be renewed after its perishing by fire. Let us not be alarmed by any revolution or fear the destruction of the heavens, for God, the unchanging and everlasting One, presides over all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1962822692821438,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+            "commentatorTierSimilarities": [
+                27.91,
+                29.54,
+                42.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavens and the earth will perish and wax old, but God remains unchanged as the eternal Creator. Just as the earth was renewed after the flood, the covenant and possession of the earth will be renewed after its perishing by fire. Let us not be alarmed by any revolution or fear the destruction of the heavens, for God, the unchanging and everlasting One, presides over all.",
+            "wordCount": 67,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.287363092568257,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                28.5,
+                30.99,
+                40.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though the heavens and the earth will perish and wax old like a garment, God remains unchanged. The covenant of the possession of the earth will be renewed after its perishing by fire, just as it was after the flood. Let us not be alarmed by any revolution or fear the destruction of the heavens, for God, the eternal Creator and Preserver of the universe, remains unaffected and unchanged.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 2.271999973603443,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.88,
+            "commentatorTierSimilarities": [
+                29.13,
+                30.4,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavens and the earth will wax old and perish, while God remains unchanged, as a garment. This does not mean annihilation, but rather reflects the covenant renewal after the flood. Modern science no longer postulates the eternal existence of heavenly bodies, but what matters most is the eternal existence of God's Son as the Creator and Preserver of the universe. Though the heavens may roll up like a scroll and the stars fall, God, the unchanging One, presides over all.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.214962655702741,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                31.31,
+                29.66,
+                39.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

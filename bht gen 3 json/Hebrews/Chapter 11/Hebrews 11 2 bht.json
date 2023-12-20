@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:50:11",
+    "verseRef": "Hebrews 11:2",
+    "bestBHT": {
+        "bht": "Faith, deserving of its noble description, prompted God to testify to the revered elders, who demonstrated patience and endured hardships. Their faith allowed them to anticipate unseen blessings that eventually materialized, confirming the reliability of faith. The experience of these faithful ancestors reveals that faith possesses the power to perceive the invisible. By conquering obstacles, they gained God's endorsement and their stories were preserved in Scripture. This verse underpins the definition of faith provided earlier and emphasizes its pivotal role in establishing a genuine connection with God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 2.1704166110713636,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+        "commentatorTierSimilarities": [
+            34.57,
+            32.81,
+            32.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So high a description of faith is not undeserved, seeing that faith is noble enough to be dignified with the offices just named.",
+            "In this [faith] it was, that the elders were testified of.",
+            "It is of course implied, that the testimony [of the elders] was a good one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The elders, whom we all revere so highly.",
+            "The earlier elders had their patience exercised for a long period of life: those later, in sharper afflictions.",
+            "Many things which they hoped for and did not see, subsequently came to pass and were conspicuously seen, the event confirming faith."
+        ],
+        "Albert Barnes": [
+            "By that faith which gives reality to things hoped for, and a certain persuasion to the mind of the existence of those things which are not seen.",
+            "Their acting under the influence of faith, in the circumstances in which they were, was the ground of the honorable testimony which was borne to them.",
+            "They showed in trying circumstances that they had unwavering confidence in God."
+        ],
+        "Marvin Vincent": [
+            "Faith has power to see and realize the unseen, for the experience of the fathers proves it.",
+            "God bore witness to them in the victory of their faith over all obstacles, and their characters and deeds as men of faith were recorded in Scripture.",
+            "Notice that the statement in this verse does not begin the list of examples, which commences with ver. 4, but is closely attached to the definition in ver. 1 as a comprehensive justification of it."
+        ],
+        "John Calvin": [
+            "The main point and the very hinge on which the Apostle\u2019s argument turns is this \u2014 That all the fathers from the beginning of the world were approved by God in no other way than by being united to him by faith.",
+            "The Jews [...] became attached to the old ceremonies, as though the whole of religion and perfect holiness consisted in them.",
+            "By faith alone they could be bound together in holy unity with the fathers, and that as soon as they renounced faith, they became banished from the Church."
+        ],
+        "Philip Schaff": [
+            "In just such and no other faith all the heroes of the older economy were testified of, and obtained a [good] report...",
+            "The forms of expression used to describe a life of faith are all instructive.",
+            "All those phrases are common in Paul\u2019s writings."
+        ],
+        "Archibald T. Robertson": [
+            "Therein (\u03b5\u03bd \u03c4\u03b1\u03c5\u03c4\u03b7). That is, 'in faith,' feminine demonstrative referring to \u03c0\u03b9\u03c3\u03c4\u03b9\u03c2.",
+            "The elders (\u03bf \u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b5\u03c1\u03bf). More nearly like 'the fathers,' not the technical sense of elders (officers) usual in the N.T.",
+            "Had witness borne to them (\u03b5\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive of \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03c9 (cf. Hebrews 7:8), 'were testified to.'"
+        ],
+        "John Gill": [
+            "These also believed the report of the Gospel, and gave a good report of God, and of the good land, and adorned their profession.",
+            "The apostle mentions this, to take off the Hebrews from any esteem of their traditionary elders, who had got a name, not by their faith, but by their traditions.",
+            "Unless they had the same faith with their ancestors, it would be a vain thing to boast of descent from them."
+        ],
+        "John Wesley": [
+            "The former of them had a long exercise of their patience; the latter suffered shorter but sharper trials.",
+            "God gave a testimony, not only of them but to them: and they received his testimony as if it had been the things themselves of which he testified.",
+            "Hence they also gave testimony to others, and others testified of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith, as described in Hebrews 11:2, is truly deserving of the high praise it receives, as it was through faith that the elders of old were testified of, receiving a good report from God. The elders, who are greatly revered, displayed great patience and endured various afflictions throughout their lives, yet they held on to their hope, even when they did not see the fulfillment of their desires. Their faith allowed them to see and realize the unseen, and their unwavering trust in God was evident in their characters and deeds, which have been recorded in Scripture. This verse serves as a comprehensive justification of the definition of faith provided earlier in Hebrews 11, and it highlights the power of faith to overcome obstacles and bear witness to God's faithfulness.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3109185700959975,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                33.95,
+                32.68,
+                33.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The noble description of faith in Hebrews 11:2 is well-deserved, for it is faith that allowed the revered elders of old to be testified of and receive a good report from God. These elders, admired for their patience and endurance in the face of afflictions, exemplify the power of faith. Though they did not see all that they hoped for, subsequent events confirmed their faith. Faith enabled them to see the unseen and displayed God's victory over obstacles, with their characters and actions being recorded in Scripture.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.2860234099742796,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.35,
+            "commentatorTierSimilarities": [
+                36.41,
+                32.35,
+                31.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The commendation of faith in Hebrews 11:2 is befitting, as the revered elders of old were testified of, receiving a good report from God. These elders exhibited patience in enduring afflictions and their faith was proven by subsequent fulfillments. Faith has the power to perceive the unseen and the experience of the fathers attests to this. God's testimony to their faith and their inclusion in Scripture as men of faith highlight the significance of this verse as a comprehensive justification of faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.3130741052349637,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+            "commentatorTierSimilarities": [
+                36.28,
+                31.49,
+                32.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elders, revered for their faith, received a good report from God. They displayed remarkable patience and endured afflictions, their hopes yielding tangible outcomes. These men exemplify the power of faith, which enables believers to see the unseen. Their triumphs over obstacles bore witness to God's faithfulness and their inclusion in Scripture is testament to their character and deeds. This verse serves as a comprehensive explanation of faith and highlights the vital role it plays in establishing a connection with God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.028725576457629,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                33.08,
+                34.29,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith, deserving of its noble description, prompted God to testify to the revered elders, who demonstrated patience and endured hardships. Their faith allowed them to anticipate unseen blessings that eventually materialized, confirming the reliability of faith. The experience of these faithful ancestors reveals that faith possesses the power to perceive the invisible. By conquering obstacles, they gained God's endorsement and their stories were preserved in Scripture. This verse underpins the definition of faith provided earlier and emphasizes its pivotal role in establishing a genuine connection with God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.1704166110713636,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+            "commentatorTierSimilarities": [
+                34.57,
+                32.81,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

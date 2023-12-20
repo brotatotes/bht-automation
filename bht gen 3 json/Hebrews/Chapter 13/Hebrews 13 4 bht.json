@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:51:17",
+    "verseRef": "Hebrews 13:4",
+    "bestBHT": {
+        "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. Marriage is honorable in all. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, however social sentiment may condone them. There has been a constant effort to show that celibacy was a more holy state, but this sentiment has caused more abomination than any other single opinion. All licentiousness of life and violations of the marriage covenant will be severely punished by God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.387642215626556,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+        "commentatorTierSimilarities": [
+            27.44,
+            40.95,
+            31.61
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let your marriage be (held) in honour in all things and your marriage bed be undefiled.",
+            "The imperative view has accordingly been taken by very many ancient Commentators, and the great mass of moderns.",
+            "The latter clause carries with it the anticipation of condemnation in the term shall judge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let marriage be treated as honorable.",
+            "To avoid fornication let EVERY MAN have his own wife.",
+            "And let the bed be undefiled."
+        ],
+        "Albert Barnes": [
+            "Marriage is honorable in all...There has been a constant effort made to show that celibacy was a more holy state...This sentiment has been the cause of more abomination in the world than any other single opinion claiming to have a religious sanction.",
+            "The apostle asserts, without any restriction or qualification, that marriage is honorable in all; and this proves that it is lawful for the ministers of religion to marry, and that the whole doctrine of the superior purity of a state of celibacy is false.",
+            "All licentiousness of life, and all violations of the marriage covenant, will be severely punished by God."
+        ],
+        "Marvin Vincent": [
+            "Marriage is honorable in all (timiov oJ gamov ejn pasin).",
+            "Rend. 'let marriage be had in honor.'",
+            "God will judge [\u03ba\u03c1\u03b9\u03bd\u03b5\u03b9 \u03bf \u03b8\u03b5\u03bf\u03c2]. He will judge and condemn infractions of the marriage - bond, however social sentiment may condone them."
+        ],
+        "John Calvin": [
+            "Let marriage be honorable.",
+            "...marriage is honorable, it is yet unlawful to commit fornication.",
+            "...the married might know that everything is not lawful for them, but that the use of the legitimate bed should be moderate, lest anything contrary to modesty and chastity be allowed."
+        ],
+        "Archibald T. Robertson": [
+            "Let marriage be.\" ",
+            "Undefiled.",
+            "God will judge both classes whether men do or not."
+        ],
+        "John Gill": [
+            "Marriage is honourable in all...becomes persons of all ranks and degrees...and it is honourable in all that are lawfully married, and do not violate the marriage contract, or defile the marriage bed.\" ",
+            "The bed of such whose marriage is honourable...is not polluted by admitting others into it, or by acts of fornication and adultery.",
+            "God will judge and punish [whoremongers and adulterers], both in this life, with diseases, poverty, and disgrace, and in the world to come, at the great day of account."
+        ],
+        "John Wesley": [
+            "Marriage is honourable in, or for all sorts of men, clergy as well as laity: though the Romanists teach otherwise.",
+            "And the bed undefiled \u2014 Consistent with the highest purity; though many spiritual writers, so called, say it is only licensed whoredom.",
+            "But whoremongers and adulterers God will judge \u2014 Though they frequently escape the sentence of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. Marriage is honorable in all. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, however social sentiment may condone them. There has been a constant effort to show that celibacy was a more holy state, but this sentiment has caused more abomination than any other single opinion. All licentiousness of life and violations of the marriage covenant will be severely punished by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.387642215626556,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                27.44,
+                40.95,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. Marriage is honorable in all. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, however social sentiment may condone them. There has been a constant effort to show that celibacy was a more holy state, but this sentiment has caused more abomination than any other single opinion. All licentiousness of life and violations of the marriage covenant will be severely punished by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.387642215626556,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                27.44,
+                40.95,
+                31.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. The imperative view has been taken by many ancient commentators and modern scholars. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, regardless of social sentiment. There has been an erroneous belief that celibacy is holier, but it has caused much wrongdoing. Licentiousness and violations of the marriage covenant will face severe punishment from God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.061106260734013,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                28.58,
+                39.2,
+                32.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. Marriage is honorable in all. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, however social sentiment may condone them. There has been a constant effort to show that celibacy was a more holy state, but this sentiment has caused more abomination than any other single opinion. All licentiousness of life and violations of the marriage covenant will be severely punished by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.387642215626556,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                27.44,
+                40.95,
+                31.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your marriage be held in honour in all things and your marriage bed be undefiled. Marriage is honorable in all. To avoid fornication, let every man have his own wife. God will judge and condemn infractions of the marriage-bond, however social sentiment may condone them. There has been a constant effort to show that celibacy was a more holy state, but this sentiment has caused more abomination than any other single opinion. All licentiousness of life and violations of the marriage covenant will be severely punished by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.387642215626556,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                27.44,
+                40.95,
+                31.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

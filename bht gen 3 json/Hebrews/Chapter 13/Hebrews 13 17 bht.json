@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:51:26",
+    "verseRef": "Hebrews 13:17",
+    "bestBHT": {
+        "bht": "Submit to and obey your leaders, for they keep watch over your souls and must give account. Reverence their labor, for it is through their toil that your souls may be saved. Show them respect and attention, for their duty is arduous enough without adding unpleasantness. Trust their guidance, obey willingly, and recognize the weight of their responsibility in guiding you towards salvation.",
+        "wordCount": 63,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.2327362324302538,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+        "commentatorTierSimilarities": [
+            30.51,
+            37.18,
+            32.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Obey your leaders, and submit (to them)... for they keep watch on behalf of your souls.\" ",
+            "They [the leaders] may do this [watch over your souls] with joy, and not lamenting (over your disobedience).",
+            "For this [the leaders lamenting over your disobedience] is unprofitable for you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Submit yourselves\" as a matter of dutiful yielding, when your judgment and natural will incline you in an opposite direction.",
+            "Watch for your soul's eternal salvation.\" It is a perilous responsibility for a man to have to give account for others' deeds, who is not sufficient for his own.",
+            "Mitigate their toil by every office of attention and respect, that with alacrity, rather than with grief, they may fulfil their duty, arduous enough in itself, even though no unpleasantness be added on your part."
+        ],
+        "Albert Barnes": [
+            "The obligation to obedience does not, of course, extend to anything which is wrong in itself, or which would be a violation of conscience.\" ",
+            "The measures adopted, therefore, and the obedience enjoined, should not be arbitrary, oppressive, or severe, but should be such as will really promote salvation.",
+            "They should so obey, that when their teachers came to give up their account they need not do it with sorrow over their perverseness and disobedience."
+        ],
+        "Marvin Vincent": [
+            "They watch (ajgrupnousin).",
+            "Unprofitable [\u03b1\u03bb\u03c5\u03c3\u03b9\u03c4\u03b5\u03bb\u03b5\u03c2] . N. T. o, o LXX From aj not, and lusitelhv paying for expenses.",
+            "I may be restored to you [\u03b1\u03c0\u03bf\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03b8\u03c9 \u03c5\u03bc\u03b9\u03bd] . Not implying imprisonment, but enforced absence through sickness or other cause."
+        ],
+        "John Calvin": [
+            "But it ought at the same time to be noticed that the Apostle speaks only of those who faithfully performed their office; for they who have nothing but the title, nay, who use the title of pastors for the purpose of destroying the Church, deserve but little reverence and still less confidence.",
+            "For they watch, etc. His meaning is, that the heavier the burden they bear, the more honor they deserve; for the more labor anyone undertakes for our sake, and the more difficulty and danger he incurs for us, the greater are our obligations to him.",
+            "He further reminds us in what great a concern their labor may avail us, for, if the salvation of our souls be precious to us, they ought by no means to be deemed of no account who watch for it."
+        ],
+        "Philip Schaff": [
+            "Having referred to deceased leaden and to their steadfastness, the writer is naturally led to speak of the danger of apostatizing to Judaism; he therefore exhorts them to come completely out of it and boldly follow Christ.",
+            "Obey your leaders, and submit yourselves;... give, and keep giving, the obedience which springs from trust in them, and from the persuasion that their rule is right.",
+            "...it is their duty and their right to watch over and in the interest of your souls, free alike from indolence and from false security, as having to give account, that they may do this work of watching with joy."
+        ],
+        "Archibald T. Robertson": [
+            "Obey (\u03c0\u03b5\u03b9\u03b8\u03b5\u03c3\u03b8\u03b5). Present middle imperative of \u03c0\u03b5\u03b9\u03b8\u03c9 with dative case.",
+            "These leaders as good shepherds recognize keenly their responsibility for the welfare of the flock.",
+            "Unprofitable (\u03b1\u03bb\u03c5\u03c3\u03b9\u03c4\u03b5\u03bb\u03b5\u03c2). Old double compound adjective (alpha privative and \u03bb\u03c5\u03c3\u03b9\u03c4\u03b5\u03bb\u03b7\u03c2 and this from \u03bb\u03c5\u03c9, to pay, and \u03c4\u03b5\u03bb\u03bf\u03c2, tax, useful or profitable as Luke 17:2), not profitable, not advantageous, by litotes, hurtful, pernicious."
+        ],
+        "John Gill": [
+            "Obey them that have the rule over you...by being present at, and joining with them in the ordinances of Christ.",
+            "They watch for your souls, as they that must give account...especially as such as must stand before the judgment seat of Christ.",
+            "That they may do it with joy, and not with grief...otherwise they do their work heavily, and with sorrow."
+        ],
+        "John Wesley": [
+            "Obey them that have the rule over you... in truth and holiness.",
+            "Submit yourselves... in all things purely indifferent.",
+            "He is not a good shepherd, who does not either rejoice over them, or groan for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Submit yourselves to your leaders and obey their guidance, for they keep watch over your souls. They fulfill this duty with joy when you willingly follow their counsel, rather than lamenting over your disobedience, which is unprofitable for you. As a matter of dutiful yielding, submit to their authority, even when your own desires and judgment may lead you in a different direction. Recognize the weighty responsibility these leaders bear, as they watch over your souls and give account for your deeds. Mitigate their burden by showing them every office of attention and respect, so that they may fulfill their duty with alacrity instead of grief. Trust that their rule is right, and give them the obedience that springs from such trust, knowing that it is their duty and right to watch over and guide you towards salvation.",
+            "wordCount": 138,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 2.24064974941941,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.84,
+            "commentatorTierSimilarities": [
+                31.25,
+                37.2,
+                31.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Submit to and obey your leaders, for they watch over your souls with a duty to give account. Their toil for your sake should be met with reverence, for it is through their labor that your souls may be saved. Mitigate their burden with respect and attention, so that they may fulfill their duty joyfully rather than with sorrow. Trust in their rule, obey them willingly, and recognize the weight of their responsibility in guiding you towards salvation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.319912597745101,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.48,
+            "commentatorTierSimilarities": [
+                29.3,
+                37.47,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Submit to and obey your leaders, for they keep watch over your souls and must give account. Reverence their labor, for it is through their toil that your souls may be saved. Show them respect and attention, for their duty is arduous enough without adding unpleasantness. Trust their guidance, obey willingly, and recognize the weight of their responsibility in guiding you towards salvation.",
+            "wordCount": 63,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.2327362324302538,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                30.51,
+                37.18,
+                32.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Submit yourselves to your leaders and obey them, for they watch over your souls with the responsibility of giving an account. By yielding to their authority, you alleviate the burdens they bear and contribute to the joy they experience in fulfilling their duty. Remember that their role in watching over your souls is of great importance, as your eternal salvation is at stake. So, honor and respect them, recognizing the toil they endure on your behalf. When you submit to your leaders, they can perform their work with joy rather than grief, which is unprofitable for you. Trust in their guidance and the righteousness of their rule, offering your obedience as an act of faith and conviction.",
+            "wordCount": 117,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1485681316348293,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                30.15,
+                36.08,
+                33.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Submit to and obey your leaders, for they diligently watch over your souls and have the responsibility of giving an account for you. By yielding to their authority and respecting their toilsome duty, they can fulfill their role with joy rather than grief. This obedience is crucial, as they tirelessly strive for your eternal salvation. Therefore, gracefully submit to their watchful care and honor their efforts, recognizing the weight of their responsibility in guiding and protecting your soul.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.202909436066634,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.59,
+            "commentatorTierSimilarities": [
+                29.54,
+                38.69,
+                31.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:51:15",
+    "verseRef": "Hebrews 13:18",
+    "bestBHT": {
+        "bht": "Pray for us, for we trust we have a good conscience, desiring in all things to behave ourselves honorably and uprightly. Living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Let us support one another and lift each other up in prayer, as we strive to maintain a good conscience and proclaim the truth faithfully as good stewards of the mysteries of God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.1511499834078935,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+        "commentatorTierSimilarities": [
+            24.95,
+            40.85,
+            34.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Pray for us...for we are persuaded that we have a good conscience.\" ",
+            "Desiring in all things to behave ourselves with seemliness.",
+            "To live without giving offense or scandal."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Pray for us\u2014Paul usually requests the Church's intercessions for him in closing his Epistles.\" ",
+            "we trust we have a good conscience\u2014in spite of your former jealousies, and the charges of my Jewish enemies at Jerusalem.\" ",
+            "Good conscience produces confidence, where the Holy Spirit rules the conscience."
+        ],
+        "Albert Barnes": [
+            "Pray for us - This is a request which the apostle often makes in his own behalf, and in behalf of his fellow laborers in the gospel.",
+            "For we trust we have a good conscience ... - The apostle here appeals to the uprightness of his Christian life as a reason why he might claim their sympathy.",
+            "It is only when we aim to do right, and to maintain a good conscience, that we can with propriety ask the prayers of others, or claim their sympathy."
+        ],
+        "John Calvin": [
+            "After having commended himself to their prayers, in order to excite them to pray, he declares that he had a good conscience.",
+            "By saying, 'I am persuaded, or I trust,' he thus partly shows his modesty and partly his confidence.",
+            "A good conscience is a pure conscience, free from guilt and sinister motives: and to behave or live goodly, as the words are literally, is not to behave honorably or honestly, but to behave or live uprightly according to the rule of God\u2019s word."
+        ],
+        "Philip Schaff": [
+            "Pray for us, for we are persuaded that we have a good conscience.",
+            "The feeling, however, may be a delusion; and yet it rests on the teaching of God\u2019s Word, and is confirmed by God\u2019s blessing and by our higher consciousness.",
+            "To live a good and noble life in all things is an earnest purpose, and the conscience which affirms this is our purpose, is itself worthy of the life we desire to live."
+        ],
+        "Archibald T. Robertson": [
+            "Honestly (\u03ba\u03b1\u03bb\u03c9\u03c2). Nobly, honourably. Apparently the writer is conscious that unworthy motives have been attributed to him. Cf. Paul in 1 Thessalonians 2:18; 2 Corinthians 1:11; 2 Corinthians 1:17. "
+        ],
+        "John Gill": [
+            "A good conscience is a conscience sanctified by the Spirit of God, and sprinkled by the blood of Jesus.\" ",
+            "Faithfully dispensing the word of truth, without any regard to the favour or frowns of men, as good stewards of the mysteries of God.",
+            "They were willing to live honestly in every respect, as men, Christians, and ministers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pray for us, for we trust we have a good conscience, desiring in all things to behave ourselves honorably and uprightly. We believe that living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Through our faithfulness and stewardship of His message, we aim to live without giving offense or scandal. Let us support one another and lift each other up in prayer, as we strive to maintain a good conscience and proclaim the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.073557770425987,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                26.47,
+                41.3,
+                32.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pray for us, for we trust we have a good conscience, desiring in all things to behave ourselves honorably and uprightly. Living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Let us support one another and lift each other up in prayer, as we strive to maintain a good conscience and proclaim the truth.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.1359139568938916,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.36,
+            "commentatorTierSimilarities": [
+                25.5,
+                42.09,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pray for us, for we trust we have a good conscience in all things. Living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Let us support one another and lift each other up in prayer, as we strive to maintain a good conscience and proclaim the truth.",
+            "wordCount": 60,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.122158189415376,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+            "commentatorTierSimilarities": [
+                25.74,
+                42.99,
+                31.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pray for us, for we trust we have a good conscience, desiring in all things to behave ourselves honorably and uprightly. Living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Let us support one another and lift each other up in prayer, striving to maintain a good conscience and proclaim the truth faithfully as good stewards of the mysteries of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.136856346971078,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                25.02,
+                40.4,
+                34.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pray for us, for we trust we have a good conscience, desiring in all things to behave ourselves honorably and uprightly. Living a good and noble life, guided by the Holy Spirit and the Word of God, allows us to approach God confidently. Let us support one another and lift each other up in prayer, as we strive to maintain a good conscience and proclaim the truth faithfully as good stewards of the mysteries of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1511499834078935,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+            "commentatorTierSimilarities": [
+                24.95,
+                40.85,
+                34.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:47:09",
+    "verseRef": "Hebrews 3:2",
+    "bestBHT": {
+        "bht": "Jesus, characterized by His faithfulness, is compared to Moses in order to highlight His superiority and to gain the favor of the Hebrew Christians. While Moses was faithful as a servant in God's house, Jesus, as a son, displayed His faithfulness in His role as our mediating High Priest. The author skillfully argues for Jesus' superiority, emphasizing His trustworthiness and inspiring believers to trust Him and be faithful as well.",
+        "wordCount": 71,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 2.553462344371762,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.24,
+        "commentatorTierSimilarities": [
+            39.16,
+            32.77,
+            28.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus, whose character it is, that He is faithful.",
+            "That regarded more the sacerdotal, this regards the apostolic office of Christ.",
+            "The signification of 'His house' is well illustrated by 1 Tim. iii. 15,\u2014 'the house of God, which is the church of the living God.' It imports the Church of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He first notes the feature of resemblance between Moses and Christ, in order to conciliate the Hebrew Christians whom He addressed, and who still entertained a very high opinion of Moses; he afterwards brings forward Christ's superiority to Moses.",
+            "The Greek implies also that He still is faithful, namely, as our mediating High Priest, faithful to the trust God has assigned Him (Hebrews 2:17). So Moses in God's house (Numbers 12:7).",
+            "The likeness of Moses to Messiah was foretold by Moses himself (Deuteronomy 18:15). Other prophets only explained Moses, who was in this respect superior to them; but Christ was like Moses, yet superior."
+        ],
+        "Albert Barnes": [
+            "He performed with fidelity all the functions entrusted to him.",
+            "Amidst all the temptations of the adversary, and all the trials through which he passed, he never for a moment swerved from fidelity to the great trust which had been committed to his hands.",
+            "Fidelity to God was remarkable in Moses. In all the provocations and rebellions of the Jews, he was firm and unwavering."
+        ],
+        "Marvin Vincent": [
+            "He is faithful as he ever was.",
+            "Jesus was faithful even as Moses was faithful.",
+            "The general sense of the comparison is that Moses was as faithful as any servant in a house can be, while Christ was not a servant in the house, but a son, and displayed his fidelity in that capacity."
+        ],
+        "John Calvin": [
+            "This is a commendation of the apostleship of Christ, in order that the faithful may securely acquiesce in him; and he commends it on two grounds, because the Father has set him to be over us as our teacher, and because Christ himself has faithfully performed the office committed to him.",
+            "For we say of Christ, that as he is clothed with our flesh, he is the Father\u2019s minister to execute his commands.",
+            "Hence it follows, that none belong to the Church of God except those who acknowledge Christ."
+        ],
+        "Philip Schaff": [
+            "Consider Him, he being faithful in that He is faithful.",
+            "His faithfulness is the quality we are to contemplate, a fresh reason why we should trust Him and be faithful too.",
+            "The maker must be greater than the work, and He that made all things must be Divine."
+        ],
+        "Archibald T. Robertson": [
+            "Who was faithful (\u03c0\u03b9\u03c3\u03c4\u03bf\u03bd \u03bf\u03bd\u03c4\u03b1). Present active participle with predicate accusative agreeing with \u0399\u03b7\u03c3\u03bf\u03c5\u03bd, 'as being faithful.'",
+            "The author makes no depreciatory remarks about Moses as he did not about the prophets and the angels. He cheerfully admits that Moses was faithful 'in all his house' (\u03b5\u03bd \u03bf\u03bb\u03c9 \u03c4\u03c9 \u03bf\u03b9\u03ba\u03c9 \u03b1\u03c5\u03c4\u03bf\u03c5), an allusion to Numbers 12:7 (\u03b5\u03b1\u03bd \u03bf\u03bb\u03c9 \u03c4\u03c9 \u03bf\u03b9\u03ba\u03c9 \u03bc\u03bf\u03c5) about Moses.",
+            "But wherein is Jesus superior to Moses? The argument is keen and skilful."
+        ],
+        "John Gill": [
+            "Christ, as man, was made, but not as God; nor is the apostle speaking of the divine nature of Christ, but of his offices.",
+            "Now, as Mediator, he had a trust reposed in him; as the persons of all God's elect, and a fulness of all grace for them.",
+            "And so the faithfulness of Christ is not so much to be understood of the discharge of his trust, as of the trust itself."
+        ],
+        "John Wesley": [
+            "His house \u2014 The church of Israel, then the peculiar family of God. Numbers 12:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, whose character is faithful, is compared to Moses in Hebrews 3:2. This comparison is made to highlight Christ's superiority to Moses and to conciliate the Hebrew Christians who held Moses in high regard. While Moses was faithful as a servant in God's house, Jesus is faithful as a son. The significance of His house is understood to be the Church of God. Jesus' faithfulness as our mediating High Priest is emphasized, just as Moses was faithful in God's house. The author cheerfully acknowledges Moses' faithfulness and skillfully argues the superiority of Jesus to Moses. Overall, Jesus' faithfulness and trustworthiness are qualities to be contemplated, inspiring believers to trust Him and be faithful as well.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.5209159742891947,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.16,
+            "commentatorTierSimilarities": [
+                41.99,
+                29.05,
+                28.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, characterized by His faithfulness, is compared to Moses in order to highlight His superiority and to gain the favor of the Hebrew Christians. While Moses was faithful as a servant in God's house, Jesus, as a son, displayed His faithfulness in His role as our mediating High Priest. The significance of His house refers to the Church of God. The author aptly acknowledges Moses' faithfulness and skillfully argues for Jesus' superiority. Trusting in Jesus, contemplating His faithfulness, should inspire believers to emulate His fidelity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.411133164589626,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.51,
+            "commentatorTierSimilarities": [
+                38.7,
+                30.96,
+                30.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, characterized by His faithfulness, is compared to Moses in order to highlight His superiority and to gain the favor of the Hebrew Christians. While Moses was faithful as a servant in God's house, Jesus, as a son, displayed His faithfulness in His role as our mediating High Priest. The author skillfully argues for Jesus' superiority, emphasizing His trustworthiness and inspiring believers to trust Him and be faithful as well.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.553462344371762,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.24,
+            "commentatorTierSimilarities": [
+                39.16,
+                32.77,
+                28.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The author of Hebrews compares Jesus to Moses, highlighting Jesus' superiority and faithfulness. While Moses was faithful in God's house, Jesus is faithful as our mediating High Priest. The significance of His house refers to the Church of God. The author acknowledges Moses' faithfulness and skillfully argues for Jesus' superiority. Trusting in Jesus and contemplating His faithfulness should inspire believers to be faithful as well.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.4126024827797368,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.56,
+            "commentatorTierSimilarities": [
+                40.18,
+                30.25,
+                29.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Hebrews, Jesus is portrayed as faithful, just like Moses. However, Jesus surpasses Moses in authority, being not just a servant in God's house, but a son. The term His house refers to the Church of God. The author emphasizes Jesus' faithfulness as our mediating High Priest and skillfully argues for His superiority. This comparison aims to gain the approval of the Hebrew Christians, who held Moses in high regard. Trusting in Jesus and contemplating His faithfulness encourages believers to also be faithful.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.296989852860201,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.72,
+            "commentatorTierSimilarities": [
+                40.84,
+                27.58,
+                31.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

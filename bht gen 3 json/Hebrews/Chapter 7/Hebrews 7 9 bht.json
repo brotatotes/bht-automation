@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:48:18",
+    "verseRef": "Hebrews 7:9",
+    "bestBHT": {
+        "bht": "The writer illustrates the superiority of Melchizedek's priesthood by showing that even Levi, the Jewish priesthood's patriarch, paid tithes in Abraham. This seemingly paradoxical statement emphasizes the symbolic role of Abraham as the representative of his descendants. While not a priest himself, Abraham's act of paying tithes signifies the inferiority of the Levitical priesthood and acknowledges the greatness of Melchizedek. Through this representative action performed by Levi in the person of Abraham, the writer magnifies the excellence of Melchizedek's priesthood.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.5146762428931186,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.95,
+        "commentatorTierSimilarities": [
+            30.59,
+            33.82,
+            35.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Writer therefore proceeds to a third proof, shewing that in Abraham even Levi himself, the patriarch of the Jewish priesthood, paid tithes.\" (Quote 1)",
+            "And so to speak... by means of Abraham Levi also, who receiveth tithes, hath been taken tithes of.\" (Quote 2)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I may say that, virtually, Levi, in the person of his father Abraham, acknowledged Melchisedec's superiority, and paid tithes to him.",
+            "Who receiveth tithes.",
+            "Paid tithes...been taken tithes of."
+        ],
+        "Albert Barnes": [
+            "It is employed when what is said is not strictly and literally true, but when it amounts to the same thing, or when about the same idea is conveyed.",
+            "But it means, that in the circumstances of the case, the same thing occurred in regard to the superiority of Melchizedek, and the inferiority of the Levitical priesthood, as if Levi had been present with Abraham, and had himself actually paid tithes on that occasion.",
+            "Melchizedek had no descendants of which mention is made, and the act of Abraham, as the head of the Hebrew race, stood therefore as if it were the act of all who descended from him."
+        ],
+        "Marvin Vincent": [
+            "As I may say, so to speak.\" ",
+            "Introducing an unusual statement, or one which may appear paradoxical or startling to the reader.",
+            "In Abraham, through Abraham."
+        ],
+        "John Calvin": [
+            "Christ is not to be counted simply as one of the sons of Abraham, but is to be exempted by a peculiar privilege from the common order of men.",
+            "What is subordinate is not in opposition: hence the type, which comes short of the reality, ought by no means to be opposed to it.",
+            "If we receive what they teach, we must condemn God\u2019s Spirit for inadvertence in having omitted a matter so important, especially as the question is avowedly handled!"
+        ],
+        "Philip Schaff": [
+            "An obvious objection to the previous reasoning is that Abraham was not a priest.",
+            "But the objection is answered by the fact that as Abraham had obtained the promise, he was the representative of all his descendants.",
+            "Levi was in him, not physically and seminally merely, but representatively."
+        ],
+        "Archibald T. Robertson": [
+            "An old idiom, here only in the N.T., common in Philo, used to limit a startling statement, an infinitive for conceived result with \u03c9\u03c2.",
+            "Hath paid tithes (\u03b4\u03b5\u03b4\u03b5\u03ba\u03b1\u03c4\u03c9\u03c4\u03b1). Perfect passive indicative of \u03b4\u03b5\u03ba\u03b1\u03c4\u03bf\u03c9, 'has been tithed.'",
+            "This could only be true of Levi 'so to speak.'"
+        ],
+        "John Gill": [
+            "Levi also who receiveth tithes.",
+            "Paid tithes in Abraham; that is, to Melchizedek.",
+            "Melchizedek must be greater than they, and his priesthood a more excellent one than theirs."
+        ],
+        "John Wesley": [
+            "And even Levi, who received tithes \u2014 Not in person, but in his successors, as it were, paid tithes - In the person of Abraham."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Hebrews 7:9, the writer presents a third proof by showing that even Levi, the patriarch of the Jewish priesthood, paid tithes in Abraham. This statement may seem paradoxical or startling, but it serves to emphasize the superiority of Melchizedek's priesthood over the Levitical priesthood. Although Abraham was not a priest himself, his act of paying tithes represented the inferiority of the Levitical priesthood and the acknowledgement of Melchizedek's superiority. In this way, Levi, not physically or seminally, but representatively, paid tithes through Abraham. This highlights the symbolic significance of Abraham as the representative of all his descendants and underscores the greater excellence of Melchizedek's priesthood.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.56000729342362,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.46,
+            "commentatorTierSimilarities": [
+                30.17,
+                33.64,
+                36.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the writer presents a compelling argument regarding the superiority of Melchizedek's priesthood over the Levitical priesthood. By emphasizing that even Levi, the patriarch of the Jewish priesthood, paid tithes in Abraham, the writer reinforces the acknowledgement of Melchizedek's greatness. While it may seem paradoxical or startling at first, the act of paying tithes by Levi, though not literal or physical, was a representative action performed through Abraham. This serves to highlight the symbolic significance of Abraham as the representative of his descendants and showcases the excellence of Melchizedek's priesthood.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.4660767026804953,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.34,
+            "commentatorTierSimilarities": [
+                30.52,
+                33.4,
+                36.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer establishes the superiority of Melchizedek's priesthood by highlighting that even Levi, the patriarch of the Jewish priesthood, paid tithes in Abraham. Through this striking statement, the writer emphasizes the symbolic significance of Abraham as the representative of his descendants, imprinting the acknowledgment of Melchizedek's greatness. Although seemingly paradoxical, Levi's act of paying tithes, which was not literal or physical but representative, further underscores the excellence of Melchizedek's priesthood.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.380391971112469,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.49,
+            "commentatorTierSimilarities": [
+                30.47,
+                33.45,
+                36.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer supports the notion of Melchizedek's superior priesthood by pointing out that even Levi, the Jewish priesthood's patriarch, paid tithes in Abraham. This seemingly paradoxical statement reveals the symbolic role of Abraham, representing his descendants. Although Abraham wasn't a priest himself, his act of paying tithes communicates the inferiority of the Levitical priesthood and the recognition of Melchizedek's greatness. It serves to highlight the excellence of Melchizedek's priesthood through the representative action carried out by Levi in the person of Abraham.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.4936770435646842,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.25,
+            "commentatorTierSimilarities": [
+                30.68,
+                33.45,
+                35.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer illustrates the superiority of Melchizedek's priesthood by showing that even Levi, the Jewish priesthood's patriarch, paid tithes in Abraham. This seemingly paradoxical statement emphasizes the symbolic role of Abraham as the representative of his descendants. While not a priest himself, Abraham's act of paying tithes signifies the inferiority of the Levitical priesthood and acknowledges the greatness of Melchizedek. Through this representative action performed by Levi in the person of Abraham, the writer magnifies the excellence of Melchizedek's priesthood.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.5146762428931186,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.95,
+            "commentatorTierSimilarities": [
+                30.59,
+                33.82,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

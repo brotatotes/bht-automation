@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:50:12",
+    "verseRef": "Hebrews 11:1",
+    "bestBHT": {
+        "bht": "Faith is the confident assurance and demonstration of the things we hope for, even though they are not yet seen. By faith, we treat the future blessings as if they are already present, grasping the reality of what is not revealed to our senses. It is through faith that we assent to the truths testified by God in His Word, trusting in His promises. Faith gives substance and weight to the unseen, allowing us to hold firmly to what we cannot yet fully perceive.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.8681475727261727,
+        "qualityScoreNormalizedComparedToV2BHTs": 86.7,
+        "commentatorTierSimilarities": [
+            35.85,
+            30.31,
+            33.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faith is the confidence of things hoped for, demonstration of matters not seen.",
+            "Faith gives reality to things not yet seen, so that they are treated as veritably present.",
+            "Faith is the demonstration to us of that which we do not see."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Through faith, the future object of Christian hope, in its beginning, is already present.",
+            "True faith infers the reality of the objects believed in and hoped for.",
+            "Faith is an assent unto truths credible upon the testimony of God, delivered unto us in the writings of the apostles and prophets."
+        ],
+        "Albert Barnes": [
+            "Faith gives reality or substance to things hoped for.",
+            "We do not see the things of eternity. We do not see God, or heaven, or the angels, or the redeemed in glory, or the crowns of victory, or the harps of praise; but we have faith in them, and this leads us to act as if we saw them.",
+            "The Christian believes what God says. He has never seen heaven; he has never seen an angel; he has never seen the Redeemer; he has never seen a body raised from the grave. 'But he has evidence which is satisfactory to his mind that God has spoken on these subjects,' and his very nature prompts him to confide in the declarations of his Creator."
+        ],
+        "Marvin Vincent": [
+            "Faith is a real seeing.",
+            "Faith apprehends as a real fact what is not revealed to the senses.",
+            "It [faith] is the firm grasp of faith on unseen fact."
+        ],
+        "John Calvin": [
+            "Faith is the substance of things hoped for...faith regards not present things, but such as are waited for...Faith, then, is rightly said to be the subsistence or substance of things which are as yet the objects of hope and the evidence of things not seen.",
+            "What would become of us were we not supported by hope, and did not our minds emerge out of the midst of darkness above the world through the light of God\u2019s word and of his Spirit?",
+            "Faith sustains hope, and exhibits to view things unseen: it is the basis on which the objects of hope rest, and the demonstration or manifestation of what is not seen."
+        ],
+        "Philip Schaff": [
+            "Faith, then, has to do with what is future and is an object of hope, viz. blessing and reward.",
+            "More widely, it has to do with what is unseen, whether in the future, the present, or the past.",
+            "Faith gives weight and force to what would be otherwise unsubstantial; and faith is itself, in an important sense, a proof of the truth of what it believes."
+        ],
+        "Archibald T. Robertson": [
+            "Faith is the title-deed of things hoped for.",
+            "...the sense of assurance (une assurance certaine) in Hebrews 3:14, that steadiness of mind which holds one firm.",
+            "Perhaps 'conviction' suiting better though not in the older Greek."
+        ],
+        "John Gill": [
+            "Now faith is the substance of things hoped for... it chiefly regards the faith of Old Testament saints, though that, as to its nature, object, and acts, is the same with the faith of New Testament ones...",
+            "faith is the ground and foundation of them, in which there is some standing hope; in which sense the word \u03c5\u03c0\u03bf\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2 is used by Septuagint in Psalms 69:2.",
+            "faith gives a kind of possession of those things before hand, John 6:47."
+        ],
+        "John Wesley": [
+            "The definition of faith given in this verse, and exemplified in the various instances following, undoubtedly includes justifying faith, but not directly as justifying.",
+            "Now faith is the subsistence of things hoped for, the evidence or conviction of things not seen \u2014 Things hoped for are not so extensive as things not seen.",
+            "The subsistence of things hoped for - Giving a kind of present subsistence to the good things which God has promised: the divine supernatural evidence exhibited to, the conviction hereby produced in, a believer of things not seen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith is the assurance and reality of what we hope for, even though we cannot see it. By faith, we grasp and hold on to the unseen truths that God has revealed to us through His Word. It is through faith that we confidently trust in the promises of God, although they may not yet be fully realized in our present reality. Faith gives substance to what would otherwise be unsubstantial, and it serves as the proof of the truth of what it believes. As believers, we may not see heaven, angels, or the resurrected bodies, but we have faith in their existence and act accordingly. Ultimately, faith is the foundation and demonstration of what is not seen but is hoped for.",
+            "wordCount": 122,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.992491095296562,
+            "qualityScoreNormalizedComparedToV2BHTs": 90.84,
+            "commentatorTierSimilarities": [
+                35.34,
+                31.88,
+                32.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith is the firm grasp and confidence in the unseen realities that we hope for, even though they are not yet seen. It gives weight and substance to the intangible, and acts as a title-deed of the things we long for. Through faith, we have a real assurance in our minds, sustaining us in the midst of darkness, and serving as the evidential proof of the truth that we cannot perceive with our senses. Faith enables us to possess in anticipation what we have not yet attained.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.539354335496953,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.77,
+            "commentatorTierSimilarities": [
+                36.07,
+                30.65,
+                33.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith is the confidence and assurance we have in the things we hope for, even though we cannot see them. It is the demonstration and reality of the unseen, giving substance and weight to what would otherwise be insubstantial. Through faith, we lay hold of the promises and truths that God has revealed, even though they may not have come to pass. It is by faith that we possess in advance what we eagerly await, and it serves as the proof of the unseen realities we believe in.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.7144099042688827,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.59,
+            "commentatorTierSimilarities": [
+                34.41,
+                31.88,
+                33.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is the confident assurance and demonstration of the things we hope for, even though they are not yet seen. By faith, we treat the future blessings as if they are already present, grasping the reality of what is not revealed to our senses. It is through faith that we assent to the truths testified by God in His Word, trusting in His promises. Faith gives substance and weight to the unseen, allowing us to hold firmly to what we cannot yet fully perceive.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.8681475727261727,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.7,
+            "commentatorTierSimilarities": [
+                35.85,
+                30.31,
+                33.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith is the firm grasp and confidence in the unseen realities that we hope for, even though they are not yet seen. It gives weight and substance to the intangible, acting as the title-deed of the things we eagerly await. Through faith, we possess a true assurance in our minds, sustaining us amidst darkness and uncertainty. Faith enables us to confidently hold onto what is not revealed to our senses, serving as the convincing evidence of the truths we believe in.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.599032097151702,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.76,
+            "commentatorTierSimilarities": [
+                36.34,
+                30.45,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

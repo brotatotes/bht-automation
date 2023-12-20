@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:49:55",
+    "verseRef": "Hebrews 10:35",
+    "bestBHT": {
+        "bht": "Do not cast away your boldness and confidence in God, for it has a great recompense of reward. This boldness is what gives you strength to persevere and it is the foundation of a godly and holy life. It is not something that can be taken from you, but it can be lost by your own neglect or imprudence. Therefore, hold fast to your faith and hope in Christ, for it is through these qualities that you will receive the great reward that God has promised.",
+        "wordCount": 86,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 2.0511260183087496,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+        "commentatorTierSimilarities": [
+            23.29,
+            37.73,
+            38.98
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Cast not away therefore your confidence, the which hath great recompence of reward.\" ",
+            "The which predicates it of a whole class of which that antecedent is one. For it expresses it well: 'being of such sort, as'...\" ",
+            "Hath set down over against it: possesses in reversion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Cast not away\u2014implying that they now have 'confidence,' and that it will not withdraw of itself unless they 'cast it away' wilfully.",
+            "It hath in reversion.",
+            "Self-devoting unselfishness for Christ's sake will be its own rich recompense."
+        ],
+        "Albert Barnes": [
+            "Cast not away therefore your confidence - Greek 'your boldness;' referring to their confident hope in God. They were not to cast this away, and to become timid, disheartened, and discouraged.",
+            "Nothing could take it from them if they trusted in God, and it could be lost only by their own neglect or imprudence.",
+            "A similar disgrace would attend the Christian soldier if he should cast away his shield of faith."
+        ],
+        "Marvin Vincent": [
+            "Confidence [\u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1\u03bd] . Rend. boldness. The boldness and courage which you manifested under persecution."
+        ],
+        "John Calvin": [
+            "He shows what especially makes us strong to persevere, even the retaining of confidence; for when that is lost, we lose the recompense set before us.",
+            "It hence appears that confidence is the foundation of a godly and holy life.",
+            "By mentioning reward, he diminishes nothing from the gratuitous promise of Salvation; for the faithful know that their labor is not vain in the Lord in such a way that they still rest on God\u2019s mercy alone."
+        ],
+        "Philip Schaff": [
+            "Cast not away, therefore, your confidence which hath a great recompense of reward.",
+            "The faith and hope and boldness with which you confessed Christ.",
+            "This quality is among the things that have a great recompense of reward."
+        ],
+        "Archibald T. Robertson": [
+            "Cast not away therefore your boldness.\" ",
+            "The Jewish Christians in question were in peril of a panic and of stampeding away from Christ.\" ",
+            "Recall \u03ba\u03b1\u03c4\u03b5\u03c7\u03c9\u03bc\u03b5\u03bd in verse Hebrews 10:23."
+        ],
+        "John Gill": [
+            "Prayer itself should not be left off, nor should freedom, boldness, and confidence in it be slackened, or laid aside.\" ",
+            "There are two sorts of believers, nominal and real; and there are two sorts of faith; an historical one, which may be in persons destitute of the grace of God, and is in devils; and a true and unfeigned one, which has salvation connected with it; the former may be cast away and lost; the latter, though it may be remiss and weak in its exercise, yet it cannot be wholly and finally lost.",
+            "The reward of the inheritance follows upon it; and this reward is the recompense of God's own grace: and it is a very great one; it is the fruit of great love and grace; yea, it is no other than God himself, who is the exceeding great reward of his people; it is Christ and his glory, and the riches of it; it is a reward exceeding, and beyond all deserts of men, and beyond all thought and expression."
+        ],
+        "John Wesley": [
+            "Cast not away therefore this your confidence - Your faith and hope; which none can deprive you of but yourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not cast away your boldness and confidence in God, for it has a great recompense of reward. This boldness is what gives you strength to persevere and it is the foundation of a godly and holy life. It is not something that can be taken from you, but it can be lost by your own neglect or imprudence. Therefore, hold fast to your faith and hope in Christ, for it is through these qualities that you will receive the great reward that God has promised.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.0511260183087496,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                23.29,
+                37.73,
+                38.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not cast away your boldness and confidence in God, for it has a great recompense of reward. This boldness is what gives you strength to persevere and it is the foundation of a godly and holy life. Hold fast to your faith and hope in Christ, for it is through these qualities that you will receive the great reward that God has promised.",
+            "wordCount": 64,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 2.1311128165198086,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                24.29,
+                37.3,
+                38.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not cast away your boldness and confidence in God, for it possesses a great recompense of reward. This boldness and courage, which you manifested under persecution, is what gives you strength to persevere. Do not let fear and discouragement cause you to lose this confidence, for it is the foundation of a godly and holy life. Hold fast to your faith and hope, knowing that the reward of the inheritance follows upon it.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.392891377593622,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.9,
+            "commentatorTierSimilarities": [
+                26.79,
+                34.82,
+                38.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cast not away therefore your confidence, the which hath great recompense of reward. Self-devoting unselfishness for Christ's sake will be its own rich recompense. Do not cast away your boldness and confidence in God, for it possesses a great recompense of reward. This boldness and courage, which you manifested under persecution, is what gives you strength to persevere. Hold fast to your faith and hope, knowing that the reward of the inheritance follows upon it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.4307463027730885,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.16,
+            "commentatorTierSimilarities": [
+                29.52,
+                35.83,
+                34.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not cast away your boldness and confidence in God, for it possesses a great recompense of reward. This boldness and courage, which you manifested under persecution, is what gives you strength to persevere. Hold fast to your faith and hope, knowing that the reward of the inheritance follows upon it. Self-devoting unselfishness for Christ's sake will be its own rich recompense.",
+            "wordCount": 64,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.302483789188753,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.9,
+            "commentatorTierSimilarities": [
+                29.93,
+                35.04,
+                35.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

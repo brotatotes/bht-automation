@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:48:22",
+    "verseRef": "Hebrews 7:6",
+    "bestBHT": {
+        "bht": "Melchisedec, the one whose genealogy is never reckoned, received tithes from Abraham and blessed him in an official capacity. This implies that Melchisedec, without a legal right, was much above the Levitical priests. The act of Abraham offering tithes to Melchisedec as a voluntary gift signifies his recognition of Melchisedec's personal greatness. Despite being the possessor of divine promises, Abraham willingly accepted the blessing from Melchisedec, showcasing the significance of this acceptance. Thus, Melchisedec must be considered greater than the Levitical priests.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.359870462765569,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+        "commentatorTierSimilarities": [
+            30.53,
+            40.05,
+            29.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But he whose pedigree is never reckoned from them hath taken tithes of Abraham and hath blessed the possessor of the promises.",
+            "And without all controversy the less is blessed by the better.",
+            "It is obvious that the axiom here laid down only holds good where the blessing is a solemn and official one, as of a father, or a priest: as was the case here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who needs not, as the Levitical priests, to be able to trace his genealogy back to Levi.",
+            "The perfect tense implies that the significance of the fact endures to the present time.",
+            "Melchisedec must be much above the Levitical priests."
+        ],
+        "Albert Barnes": [
+            "He was not 'in the same genealogy' - he was not of the order of Levitical priests.",
+            "Blessed him as a priest of God; blessed him in such a manner as to imply acknowledged superiority.",
+            "The promise that he should have a numerous posterity; that in him all the nations of the earth should be blessed."
+        ],
+        "Marvin Vincent": [
+            "Melchisedec, though having no legal right, received tithes from Abraham as a voluntary gift, which implied Abraham's recognition of his personal greatness.",
+            "He who had received the divine promises might have been supposed to be above being blessed by any man.",
+            "The significance of this acceptance is brought out in the next verse."
+        ],
+        "John Calvin": [
+            "The Apostle assumes it as an admitted principle that the less is blessed by the greater; and then he adds that Melchisedec blessed Abraham: hence the conclusion is that the less was Abraham.",
+            "But for the sake of strengthening his argument he again raises the dignity of Abraham; for the more glorious Abraham is made, the higher the dignity of Melchisedec appears.",
+            "We hence see how great he was to whom Abraham gave place in these two things, \u2014 that he suffered himself to be blessed by him, and that he offered him tithes as to God\u2019s vicegerent."
+        ],
+        "Philip Schaff": [
+            "But he (Melchisedec) whose descent (pedigree) is not reckoned from them has nevertheless taken tithes of Abraham... And not only did he receive tithes from the tithe-taking Levites, he hath also blessed him who has (who is the possessor of) the promises."
+        ],
+        "Archibald T. Robertson": [
+            "He whose genealogy is not counted (\u03bf \u03bc\u03b7 \u03b3\u03b5\u03bd\u03b5\u03b1\u03bb\u03bf\u03b3\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2).",
+            "Hath taken tithes (\u03b4\u03b5\u03b4\u03b5\u03ba\u03b1\u03c4\u03c9\u03ba\u03b5\u03bd).",
+            "Hath blessed (\u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03ba\u03b5\u03bd)."
+        ],
+        "John Gill": [
+            "That is, Melchizedek, whose genealogy or pedigree is not reckoned from the Levites... his lineal descent is not the same with theirs; and so did not receive tithes by any law, as they did, but by virtue of his superiority.",
+            "Received tithes of Abraham; not from the people, or his brethren, but from Abraham, the father of the people of Israel, and of Levi himself.",
+            "This shows that Melchizedek had a descent, though it was not known; and that, since his descent was not the same with the Levites, he was a more proper type of Christ, who belonged not to that, but another tribe."
+        ],
+        "John Wesley": [
+            "Another proof of his superiority.",
+            "That was so highly favored of God.",
+            "Promises refer to other blessings also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Melchisedec, though without a genealogy traced back to the Levites, received tithes from Abraham and blessed him in a solemn and official capacity. This implies that Melchisedec was much greater than the Levitical priests. Abraham, the possessor of the divine promises, willingly offered tithes to Melchisedec, acknowledging his personal greatness. By doing so, Abraham attested to the superiority of Melchisedec, who blessed him as a priest of God. This is significant because it establishes the greater dignity of Melchisedec and further strengthens the argument being made.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.3034829208628045,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.93,
+            "commentatorTierSimilarities": [
+                26.89,
+                40.1,
+                33.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Melchisedec, without a genealogy traced back to the Levites, received tithes from Abraham and blessed him in an official capacity. This implies that Melchisedec was much greater than the Levitical priests. Abraham, the possessor of the divine promises, willingly offered tithes to Melchisedec, acknowledging his personal greatness. By doing so, Abraham attested to the superiority of Melchisedec, who blessed him as a priest of God. This establishes the greater dignity of Melchisedec and strengthens the argument being made.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2934352097535333,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+            "commentatorTierSimilarities": [
+                26.62,
+                40.27,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Melchisedec, whose genealogy is not counted, received tithes from Abraham and blessed him in a solemn and official capacity. This implies that Melchisedec was much above the Levitical priests, as Abraham, the possessor of the promises, willingly offered tithes to him. The significance of this act is that it acknowledges Melchisedec's personal greatness and establishes his superiority. This strengthens the argument being made about the greater dignity of Melchisedec compared to the Levitical priests.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.314749036405434,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.31,
+            "commentatorTierSimilarities": [
+                27.42,
+                40.49,
+                32.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Melchisedec, the one whose genealogy is never reckoned, received tithes from Abraham and blessed him in an official capacity. This implies that Melchisedec, without a legal right, was much above the Levitical priests. The act of Abraham offering tithes to Melchisedec as a voluntary gift signifies his recognition of Melchisedec's personal greatness. Despite being the possessor of divine promises, Abraham willingly accepted the blessing from Melchisedec, showcasing the significance of this acceptance. Thus, Melchisedec must be considered greater than the Levitical priests.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.359870462765569,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                30.53,
+                40.05,
+                29.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Melchisedec, the one whose genealogy is never reckoned, received tithes from Abraham and blessed him in an official capacity. This implies that Melchisedec, without a legal right, was much above the Levitical priests. The act of Abraham offering tithes to Melchisedec as a voluntary gift signifies his recognition of Melchisedec's personal greatness. Despite being the possessor of divine promises, Abraham willingly accepted the blessing from Melchisedec, showcasing the significance of this acceptance. Thus, Melchisedec must be considered greater than the Levitical priests.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.359870462765569,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                30.53,
+                40.05,
+                29.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

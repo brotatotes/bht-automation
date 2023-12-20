@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:50:16",
+    "verseRef": "Hebrews 11:29",
+    "bestBHT": {
+        "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rash presumption, were swallowed up. The Israelites' reliance on God's word enabled their safe journey, whereas the Egyptians, attempting the same in uncertainty, faced a tragic outcome. This highlights the distinction between genuine faith and mere presumption. The Israelites experienced a glorious deliverance, protected by divine intervention, while the Egyptians suffered the consequences of their oppressive actions towards the Israelites. Trust in God and His promises leads to remarkable deliverance.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.9842032560586935,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+        "commentatorTierSimilarities": [
+            34.58,
+            30.32,
+            35.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] By faith they (see above) crossed the Red sea as through dry land: of which the Egyptians making experiment were swallowed up."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rashness and presumption mistaken by many for faith; with similar rash presumption many rush into eternity.\" ",
+            "The same thing when done by the believer, and when done by the unbeliever, is not the same thing.\" ",
+            "What was faith in Israel, was presumption in the Egyptians."
+        ],
+        "Albert Barnes": [
+            "It was only by confidence in God that they were able to do this.",
+            "The assertion of the apostle is, that the passage was made in virtue of strong confidence in God, and that if it had not been for this confidence the passage could not have been made at all.",
+            "The destruction of the Egyptians by the return of the waters in accordance with natural laws, showed that the Israelites would have been destroyed in the passage if a divine energy had not been employed to prevent it."
+        ],
+        "John Calvin": [
+            "The Lord granted to the faith of a few, that the whole multitude should pass through the Red Sea dry\u00adshod.",
+            "While the former passed through safely, the latter coming after them were drowned. Whence was this difference, but that the Israelites had the word of God, and that the Egyptians were without it.",
+            "The Israelites were preserved safe, because they relied on God\u2019s word, and refused not to march through the midst of the waters."
+        ],
+        "Philip Schaff": [
+            "That awful night is followed by a glorious deliverance.",
+            "God by a strong east wind made a passage through the water.",
+            "The Egyptians tried...as an uncertain experiment, and were swallowed up."
+        ],
+        "Archibald T. Robertson": [
+            "Which assaying to do (\u03b7\u03c2 \u03c0\u03b9\u03b5\u03c1\u03b1\u03bd \u03bb\u03b1\u03b2\u03bf\u03bd\u03c4\u03b5\u03c2). Literally, \"of which taking trial\" [...] The idiom \u03c0\u03b5\u03b9\u03c1\u03b1\u03bd \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03bd occurs in Deuteronomy 28:56, in N.T. only here and verse Hebrews 11:36, though a classical idiom.",
+            "Were swallowed up (\u03ba\u03b1\u03c4\u03b5\u03c0\u03bf\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive indicative of \u03ba\u03b1\u03c4\u03b1\u03c0\u03b9\u03bd\u03c9, to drink down, to swallow down (Matthew 23:24)."
+        ],
+        "John Gill": [
+            "By faith they passed through the Red sea, as by dry land... and this they did by faith, believing, that God would make a passage quite through it for them, and deliver them out of the hands of their enemies, who were closely pursuing them.",
+            "which the Egyptians assaying to do, were drowned. These were Pharaoh and his numerous army... in just retaliation for the cruel edict for drowning the male infants of the Israelites, as soon as they were born.",
+            "Not through a river, but through the sea, the Red sea, the sea of Suph, or weeds... and that all one as if it had been on dry ground."
+        ],
+        "John Wesley": [
+            "They \u2014 Moses, Aaron, and the Israelites.",
+            "Passed the Red Sea \u2014 It washed the borders of Edom, which signifies red.",
+            "Thus far the examples are cited from Genesis and Exodus; those that follow are from the former and the latter Prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rashness and presumption, were swallowed up by the same waters. The passage emphasizes the distinction between faith and presumption, and how the actions of believers and unbelievers differ. Through their unwavering trust in God's word, the Israelites were preserved and delivered from their pursuing enemies. The Egyptians, on the other hand, attempted to do the same out of uncertainty and were met with their own destruction. This passage showcases the remarkable deliverance that comes from trusting in God, as the Israelites experienced a triumphant escape while the Egyptians faced their just retribution.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.118192330219098,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+            "commentatorTierSimilarities": [
+                35.55,
+                28.54,
+                35.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rash presumption, were swallowed up. It is important to note that what may be seen as faith in Israel was in fact presumption for the Egyptians. The Israelites were able to pass through safely because they relied on God's word, while the Egyptians, attempting the same as an uncertain experiment, suffered a different fate. This passage highlights the crucial distinction between true faith and mere presumption.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.2037433006085045,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                38.43,
+                26.25,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rash presumption, were swallowed up. The Israelites' unwavering trust in God's word allowed them to be preserved and delivered from their pursuing enemies. On the contrary, the Egyptians attempted to do the same out of uncertainty and suffered their own destruction. This passage serves as a powerful reminder of the difference between true faith and mere presumption, and the remarkable deliverance that comes from trusting in God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.092140143875019,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                35.29,
+                28.51,
+                36.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rash presumption, were swallowed up. The Israelites' reliance on God's word enabled their safe journey, whereas the Egyptians, attempting the same in uncertainty, faced a tragic outcome. This highlights the distinction between genuine faith and mere presumption. The Israelites experienced a glorious deliverance, protected by divine intervention, while the Egyptians suffered the consequences of their oppressive actions towards the Israelites. Trust in God and His promises leads to remarkable deliverance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9842032560586935,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                34.58,
+                30.32,
+                35.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, the Israelites crossed the Red Sea as on dry land, while the Egyptians, in their rash presumption, were swallowed up. What may have been seen as faith in Israel was, in fact, presumption for the Egyptians. The Israelites' unwavering trust in God's word enabled their safe journey, while the Egyptians, attempting the same as an uncertain experiment, suffered their own destruction. This passage serves as a powerful reminder of the distinction between true faith and mere presumption, and the remarkable deliverance that comes from trusting in God's promises.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.3031067788216317,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+            "commentatorTierSimilarities": [
+                37.81,
+                27.9,
+                34.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

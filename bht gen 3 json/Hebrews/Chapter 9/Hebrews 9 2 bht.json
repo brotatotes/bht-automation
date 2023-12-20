@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:49:11",
+    "verseRef": "Hebrews 9:2",
+    "bestBHT": {
+        "bht": "In the outer holy place of the tabernacle, there were significant elements such as the golden lampstand with its seven branches, representing the church's role in spreading the light of the Gospel. Adjacent to it was the table covered in gold, holding the sacred loaves of shewbread symbolizing communion with Christ. These elements, along with the altar of incense in the more secluded holy of holies, were shadows and examples of heavenly things to come. The pot of manna and Aaron's rod were possibly stored with the two tables of the Ten Commandments in the ark.",
+        "wordCount": 98,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 2.1096214581947628,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+        "commentatorTierSimilarities": [
+            32.2,
+            31.6,
+            36.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The candlestick consisted of a shaft and six branches of gold, seven in all, the bowls made like almonds, with a knop and a flower in one branch.\" ",
+            "The table of shittim wood, covered with gold, was for the showbread.",
+            "In the outer holy place: so the Eucharist continues until our entrance into the heavenly Holy of Holies."
+        ],
+        "Albert Barnes": [
+            "The apostle terms them, 'the example and shadow of heavenly things,' Hebrews 8:5; 'the patterns of things in the heavens, Hebrews 9:23; and these typical patterns included not only the tabernacle and its services, but every article of its furniture.'",
+            "As there are frequent allusions in the New Testament to the different parts of the tabernacle furniture here specified, it may be a matter of interest and profit to furnish an illustration of the most material of them.",
+            "An expositor of the Scripture cannot have a safer guide than the sacred writers themselves. How should any uninspired man know that these things had such a special typical signification?"
+        ],
+        "Marvin Vincent": [
+            "The first tabernacle, that is, the first division of the tabernacle. He speaks of the two divisions as two tabernacles.",
+            "Rend. lampstand, See on Matthew 5:15; Revelation 1:12. Description in Exodus 25:31-37.",
+            "Lit. the table and the setting forth of the loaves, that is, the table with its loaves set forth."
+        ],
+        "John Calvin": [
+            "As to the first sanctuary, which was contiguous to the court of the people, he says that there were the candlestick and the table on which the shew\u00adbread was set: he calls this place, in the plural number, the holies.",
+            "Then, after this is mentioned, the most secret place, which they called the holy of holies, still more remote from the view of the people... There, the Apostle says, was the\u03b8\u03c5\u03bc\u03b9\u03b1\u03c4\u1f75\u03c1\u03b9\u03bf\u03bd by which name I understand the altar of incense, or fumigation, rather than the censer...",
+            "He says that the pot in which Moses had deposited the manna, and Aaron\u2019s rod which had budded, were in the ark with the two tables; but this seems inconsistent with sacred history... God had commanded the pot and Aaron\u2019s rod to be laid up before the testimony; it is hence probable that they were deposited in the ark, together with the tables."
+        ],
+        "Philip Schaff": [
+            "The writer first notes the beauty of the holy place.",
+            "For a tabernacle was prepared with two apartments, the first wherein were the candlestick... and the table... and the shewbread.",
+            "The loaves [of shewbread] as set forth and presented before God."
+        ],
+        "Archibald T. Robertson": [
+            "The large outer tent was entered first and was called H\u03b1\u03b3\u03b9\u03b1 (Holy), the first division of the tabernacle.\" ",
+            "Three items are named here: the candlestick (\u03b7 \u03bb\u03c5\u03c7\u03bd\u03b9\u03b1, late word for \u03bb\u03c5\u03c7\u03bd\u03b9\u03bf\u03bd) or lampstand, necessary since there were no windows.\" ",
+            "The shewbread (\u03b7 \u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b1\u03c1\u03c4\u03c9\u03bd) as in Exodus 25:30; Exodus 40:23; Leviticus 24:5-9. Probably a hendiadys for the table with the loaves of God's Presence."
+        ],
+        "John Gill": [
+            "This [the candlestick] was a type of Christ mystical, or the church; in the general use of it, to hold forth light, so the church holds forth the light of the Gospel, being put into it by Christ; in the matter of it, which was pure gold, denoting the purity, worth, splendour, glory, and duration of the church.",
+            "The table, with the shewbread on it, was also in the tabernacle, on the north side of it... [It was] typical of Christ, and of communion with him; of the person of Christ...",
+            "[The shewbread] may be typical of Christ himself, who is the bread of life, the food of his people; and may be signified by the shewbread for its fineness and purity, being made of fine flour, Christ is the finest of the wheat, bread from heaven, and angels' food..."
+        ],
+        "John Wesley": [
+            "This candlestick and bread seem to have typified the light and life which are more largely dispensed under the gospel by Him who is the Light of the world, and the Bread of life.",
+            "The shewbread, shown continually before God and all the people, consisting of twelve loaves, according to the number of the tribes, was placed on this table in two rows, six upon one another in each row.",
+            "The outward tabernacle...in which was the candlestick, and the table."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The author of Hebrews describes the various elements of the tabernacle in detail. In the first division of the tabernacle, known as the holy place, there was a golden lampstand with seven branches, representing the light of the Gospel that the church holds forth. Adjacent to this was a table covered in gold, holding the sacred loaves of shewbread, symbolizing communion with Christ. These elements were part of the first sanctuary, leading up to the more secret place known as the holy of holies, where the altar of incense was located. Additionally, the author mentions the pot of manna and Aaron's rod in the ark, which possibly were stored with the two tables of the Ten Commandments. Overall, these elements and furnishings served as a shadow and example of the heavenly things to come.",
+            "wordCount": 135,
+            "quoteTokenProportion": 28.4,
+            "qualityScore": 2.0489022951442752,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                31.58,
+                34.63,
+                33.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the holy place of the tabernacle, there was a golden lampstand with seven branches, symbolizing the church's role in holding forth the light of the Gospel. Next to it was a table covered in gold, bearing the sacred loaves of shewbread that represented communion with Christ. These elements were part of the first sanctuary, leading to the more secret holy of holies, where the altar of incense resided. The pot of manna and Aaron's rod were likely stored with the two tables of the Ten Commandments in the ark, signifying their importance. These furnishings served as a shadow and example of the heavenly things to come.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 2.0358496799017294,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                32.21,
+                32.53,
+                35.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the outer holy place of the tabernacle, there were significant elements such as the golden lampstand with its seven branches, representing the church's role in spreading the light of the Gospel. Adjacent to it was the table covered in gold, holding the sacred loaves of shewbread symbolizing communion with Christ. These elements, along with the altar of incense in the more secluded holy of holies, were shadows and examples of heavenly things to come. The pot of manna and Aaron's rod were possibly stored with the two tables of the Ten Commandments in the ark.",
+            "wordCount": 98,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 2.1096214581947628,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                32.2,
+                31.6,
+                36.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The holy place of the tabernacle held significant elements, such as the golden lampstand with its seven branches, symbolizing the church's role in spreading the light of the Gospel. It was accompanied by the table covered in gold, which held the sacred loaves of shewbread representing communion with Christ. These elements served as shadows and examples of the heavenly things to come. The pot of manna and Aaron's rod, possibly stored in the ark, enhanced the symbolism of these furnishings, showcasing their importance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.9800421909326278,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                30.66,
+                33.79,
+                35.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the tabernacle's holy place, there stood a golden lampstand with seven branches, signifying the church's duty to spread the light of the Gospel. Beside it was a table covered in gold, bearing the sacred loaves of shewbread that represented communion with Christ. These elements provided a glimpse into the heavenly things to come. The pot of manna and Aaron's rod, possibly kept in the ark, further emphasized the significance of these furnishings, reaffirming their connection to divine teachings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.9057876916572984,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.1,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

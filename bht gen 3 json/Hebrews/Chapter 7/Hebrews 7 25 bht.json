@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:48:43",
+    "verseRef": "Hebrews 7:25",
+    "bestBHT": {
+        "bht": "He is able to save to the uttermost those that approach through Him to God. This speaks of the completeness and effectiveness of Christ's intercession, which is based on His sacrificial offering. His intercession is not limited by death, in contrast to the Levitical priests. He intercedes only for those who come unto God through Him, not for the unbelieving world. His intercession founded on His voluntary offering of Himself without spot to God. We are not only then forgiven but admitted to favor and grace.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.0607824236198855,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+        "commentatorTierSimilarities": [
+            36.49,
+            30.99,
+            32.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is able to save to the uttermost those that approach through Him to God.",
+            "Completeness, not duration, is its idea.",
+            "This intercession implies the whole mediatorial work, which the exalted Saviour performs for his own with his heavenly Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is able to the uttermost; He is not, like the Levitical priest, prevented by death, for 'He ever liveth' (Hebrews 7:23).",
+            "He intercedes only for those who come unto God through Him, not for the unbelieving world (John 17:9).",
+            "His intercession being founded on His voluntary offering of Himself without spot to God. We are not only then in virtue of His sacrifice forgiven, but in virtue of the intercession admitted to favor and grace."
+        ],
+        "Albert Barnes": [
+            "He does not abandon the work midway; he does not begin a work which he is unable to finish.\" ",
+            "He constantly presents the merits of his death as a reason why we should be saved.",
+            "He does in heaven whatever is necessary to obtain for us grace and strength; secures the aid which we need against our foes; and is the pledge or security for us that the law shall be honored, and the justice and truth of God maintained, though we are saved."
+        ],
+        "Marvin Vincent": [
+            "Not perpetually, but perfectly.",
+            "The verb o P., and in this sense only in Hebrews and 1 Peter 2:4.",
+            "The idea is not intercession, but intervention. It includes every form of Christ's identifying himself with human interests."
+        ],
+        "John Calvin": [
+            "The chief good of man is to be united to his God, with whom is the fountain of life and all blessings.",
+            "Christ liveth for us, not for himself!",
+            "He at the same time teaches us by what Christ is doing, that he is performing his office as a priest; for it belongs to a priest to intercede for the people, that they may obtain favor with God."
+        ],
+        "Philip Schaff": [
+            "He is able also to save... all that approach through him to God, ever living as he does, a fuller explanation of the 'whence' at the beginning of the verse, to undertake for them.",
+            "This mediation is of the very essence of the work of Christ so far as His priestly office is concerned, and is the ground of the triumphant outburst of St. Paul when he concludes that none can condemn, seeing that Christ who died is now risen, and is making continual intercession on our behalf.",
+            "Its foundation of right is His atoning sacrifice; its central motive is the love He bears us; its method of procedure, the advocacy of our interests, and the intimation of His will that the blessings we need be bestowed; and its fruit the maintenance of our relation to God, and our perseverance in holiness."
+        ],
+        "Archibald T. Robertson": [
+            "Since he alone holds this priesthood.\" ",
+            "The common meaning is completely, utterly.\" ",
+            "His intercession has red blood in it, unlike Philo's conception."
+        ],
+        "John Gill": [
+            "Christ is able; as appears from the help his Father laid on him, who knew him to be mighty; from his own undertaking it, being mighty to save; and from his having completely effected it; and he must needs be able to do it, since he is the mighty God.\" ",
+            "the persons he is able to save, are such that come to God by him\" ",
+            "Christ ever lives as God, he is the living God; and though he died as man, he is risen from the dead, and will not die again, but live for evermore; and he lives as Mediator and Redeemer, and particularly as a priest; one branch of whose office it is to intercede for his people"
+        ],
+        "John Wesley": [
+            "He is able to save to the uttermost \u2014 From all the guilt, power, root, and consequence of sin.",
+            "He ever lives and intercedes.",
+            "He died once; he intercedes perpetually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He is able to save to the uttermost those that approach through Him to God (Hebrews 7:25). This verse speaks of the completeness and effectiveness of Christ's intercession for believers, which is based on His sacrificial offering. His intercession is not limited by death, in contrast to the Levitical priests. He intercedes only for those who approach God through Him, not for the unbelieving world. His intercession is not perpetual, but perfect. He intervenes in every aspect of our lives, identifying Himself with our needs and interests. As the only High Priest, He is able to save completely and utterly. His intercession is not a passive pleading, but an active engagement that includes offering His own blood.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.0589609065107384,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                35.39,
+                31.62,
+                32.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He is able to save to the uttermost those that approach through Him to God. This speaks of the completeness and effectiveness of Christ's intercession, which is based on His sacrificial offering. His intercession is not limited by death, in contrast to the Levitical priests. He intercedes only for those who come unto God through Him, not for the unbelieving world. His intercession founded on His voluntary offering of Himself without spot to God. We are not only then forgiven but admitted to favor and grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0607824236198855,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                36.49,
+                30.99,
+                32.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He is able to save to the uttermost those that approach through Him to God. This verse emphasizes the completeness of Christ's intercession and His ability to save completely. Unlike the Levitical priests, His intercession is not hindered by death because He ever lives. Christ intercedes only for those who come to God through Him, not for the unbelieving world. His intercession is based on His voluntary offering of Himself and grants forgiveness and admission to favor and grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.1670405153015233,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                32.99,
+                32.14,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He is able to save to the uttermost those that approach through Him to God. The completeness of Christ's intercession is highlighted in this passage. His intercession is not limited by death, unlike the Levitical priests. It is based on His voluntary offering of Himself without spot to God and grants forgiveness and favor to those who come to God through Him. Christ's intercession is not perpetual, but perfect, and includes every form of His involvement in the interests of humanity. He alone holds this priesthood and is able to save completely.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1464109786884054,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                35.66,
+                31.61,
+                32.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He is able to save to the uttermost those that approach through Him to God. This verse underscores the completeness of Christ's intercession, unaffected by death like the Levitical priests. His intercession is exclusively for those who come to God through Him, not for the unbelieving world. It is founded on His voluntary offering, granting both forgiveness and admission to favor and grace. Christ's intercession is perfect, including every aspect of His identification with human interests. As the sole possessor of this priesthood, He is fully capable of saving completely.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.132529818374807,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.25,
+            "commentatorTierSimilarities": [
+                35.59,
+                32.14,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
