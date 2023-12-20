@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:50:43",
+    "verseRef": "Matthew 21:13",
+    "bestBHT": {
+        "bht": "The act of Jesus cleansing the temple was a purely Messianic act and a fulfillment of the prophecy in Malachi. The temple had become a den of robbers, as merchants charged exorbitant prices, corrupting the place of worship. This act of cleansing not only revealed the general venality and corruption present but also emphasized the desecration of a prayer space for the Gentiles. It served as a powerful symbol of the need for restoration and the unifying message of the Gospel for all nations.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.769030207275887,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+        "commentatorTierSimilarities": [
+            24.69,
+            46.84,
+            28.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The intention of this act of our Lord was a purely Messianic act.",
+            "It was a purely Messianic act.",
+            "See Mal. iii. 1\u20133."
+        ],
+        "Marvin Vincent": [
+            "Thieves [\u03bb\u03b7\u03c3\u03c4\u03c9\u03bd] . Rev., correctly, robbers. See on Matthew 26:55; Luke 10:30."
+        ],
+        "John Calvin": [
+            "God intended that this temple should exist till no as a sign on which all his worshippers should fix their eyes; and how base and wicked is it to profane it by thus turning it into a market?",
+            "It began to be a house of prayer for all nations, when out of it resounded the doctrine of the Gospel, by which the whole world was to be united in one common faith.",
+            "Christ means that the complaint of Jeremiah applied equally well to his own time, in which the temple was not less corrupted... they falsely boast of the name of the temple, which they had made a den of robbers."
+        ],
+        "Philip Schaff": [
+            "What they did here was a sign of the general venality and corruption, a desecration of a place of worship for purposes of gain, ill-gotten often enough.",
+            "This driving of bargains in the place where the Gentiles could come and pray, was a robbery, a contemptuous disregard of the rights and privileges of the Gentiles.",
+            "Such a cleansing was appropriate both at the beginning and the close of Christ\u2019s ministry. In the first case it was more the act of a reformer; here it assumes a Messianic character."
+        ],
+        "Archibald T. Robertson": [
+            "A den of robbers (\u03c3\u03c0\u03b7\u03bb\u03b1\u03b9\u03bf\u03bd \u03bb\u03b7\u03b9\u03c3\u03c4\u03c9\u03bd). By charging exorbitant prices. "
+        ],
+        "John Gill": [
+            "My house shall be called the house of prayer...for all people.\" ",
+            "The temple was...used as a den...where they shelter themselves.",
+            "Under the appearance of religion and devotion, [they] devoured widows' houses."
+        ],
+        "John Wesley": [
+            "A den of thieves \u2014 A proverbial expression, for a harbour of wicked men. Isaiah 56:7; Jeremiah 7:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The act of Jesus cleansing the temple in Matthew 21:13 was a purely Messianic act, reminiscent of the prophecy in Malachi 3:1-3. The temple had become a den of robbers, as merchants were charging exorbitant prices and exploiting the place of worship for their own gain. Such corruption and disregard for the rights and privileges of the Gentiles desecrated the house of prayer for all nations. This act of cleansing was not only a reformer's action, but also carried a Messianic character, signifying the need for restoration and the coming of the Gospel to unite the world in faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8893936399852969,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                26.81,
+                45.49,
+                27.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The act of Jesus cleansing the temple was a purely Messianic act and a fulfillment of the prophecy in Malachi. The temple had become a den of robbers, as merchants charged exorbitant prices, corrupting the place of worship. This act of cleansing not only revealed the general venality and corruption present but also emphasized the desecration of a prayer space for the Gentiles. It served as a powerful symbol of the need for restoration and the unifying message of the Gospel for all nations.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.769030207275887,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                24.69,
+                46.84,
+                28.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cleansing of the temple by Jesus was a purely Messianic act, reminiscent of the prophecy in Malachi. The temple had devolved into a den of robbers, as merchants exploited the place of worship by charging exorbitant prices. This act not only revealed the corruption and desecration of a prayer space for the Gentiles but also carried a deep message of restoration and the universal scope of the Gospel. It symbolized the need for reform and the unifying power of faith for all nations.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.747813237184669,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                26.92,
+                43.12,
+                29.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The act of Jesus cleansing the temple was a purely Messianic act, fulfilling the prophecy in Malachi. The temple had become a den of robbers, as merchants charged exorbitant prices, exploiting the place of worship. This act of cleansing not only revealed the corruption and disregard for the rights of the Gentiles, but also conveyed the need for restoration and the universal message of the Gospel. It emphasized the importance of prayer for all nations and served as a powerful symbol of the temple's true purpose.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7059612410917713,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                25.05,
+                44.47,
+                30.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cleansing of the temple by Jesus was a purely Messianic act, fulfilling the prophecy in Malachi. It had devolved into a den of robbers, as merchants charged exorbitant prices, exploiting the place of worship. This act not only exposed the corruption and disregard for the rights of the Gentiles but also highlighted the need for restoration and the universal message of the Gospel. It served as a powerful symbol of the temple's true purpose and the importance of prayer for all nations.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7043380113669249,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+            "commentatorTierSimilarities": [
+                26.18,
+                44.58,
+                29.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

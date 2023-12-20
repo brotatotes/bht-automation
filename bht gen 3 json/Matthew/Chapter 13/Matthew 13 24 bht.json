@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:47:50",
+    "verseRef": "Matthew 13:24",
+    "bestBHT": {
+        "bht": "The parable of the man who sowed good seed in his field is an illustration given by Jesus to explain the kingdom of heaven. The man represents the circumstances of the kingdom, and the good seed symbolizes the children of the kingdom. The kingdom of heaven refers to the Gospel dispensation and the times of the Messiah. While bad men and hypocrites will mingle with the good, the children of God must remain steadfast in faith, enduring offenses and preserving the purity of their beliefs.",
+        "wordCount": 85,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 1.92419125757544,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+        "commentatorTierSimilarities": [
+            17.35,
+            42.12,
+            40.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "is likened unto a man, i.e. \u2018is like the whole circumstances about to be detailed; like the case of a man,\u2019&c.\" "
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The kingdom of heaven is likened unto a man which sowed good seed in his field.",
+            "Expounded to us by the Great Preacher Himself.",
+            "We pass to a more definite exposition of this second parable."
+        ],
+        "Marvin Vincent": [
+            "Put he forth ... means rather to set before or offer.\" ",
+            "Often used of meals, to serve up.",
+            "Hence, better, Rev., set he before them."
+        ],
+        "John Calvin": [
+            "So long as the pilgrimage of the Church in this world continues, bad men and hypocrites will mingle in it with those who are good and upright, that the children of God may be armed with patience and, in the midst of offenses which are fitted to disturb them, may preserve unbroken stedfastness of faith.",
+            "But as he was about to drive his plough through every country of the world, so as to cultivate fields, and scatter the seed of life, throughout the whole world, he has employed a synecdoche, to make the world denote what more strictly belonged only to a part of it.",
+            "With respect to morals, those faults of men which cannot be corrected must be endured; but we are not at liberty to extend such a toleration to wicked errors, which corrupt the purity of faith."
+        ],
+        "Philip Schaff": [
+            "The kingdom of heaven. The subject in all seven parables. Christ\u2019s reign in the new economy of salvation.",
+            "The speedy establishment of the kingdom is implied; hence this parable is referred to the first stage of Christianity.",
+            "His field. The \u2018world\u2019 (Matthew 13:38) is \u2018His\u2019 though \u2018the devil\u2019 works in it."
+        ],
+        "Archibald T. Robertson": [
+            "He placed another parable beside (\u03c0\u03b1\u03c1\u03b1) the one already given and explained.\" ",
+            "The same verb (\u03c0\u03b1\u03c1\u03b1\u03b8\u03b5\u03b9\u03bd\u03b1) occurs in Luke 9:16.",
+            "The case of \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9 is associative instrumental."
+        ],
+        "John Gill": [
+            "The kingdom of heaven is likened unto a man which sowed good seed in his field.",
+            "By 'the kingdom of heaven', is not meant the ultimate glory of the saints in heaven, or the state of happiness in the other world; for there will be no tares there; nor the Gospel, and the ministration of it, but the Gospel dispensation, and times, and kingdom of the Messiah.",
+            "By the good seed sown in it, are meant 'the children of the kingdom'; as is said, Matthew 13:38 such as have a good work begun in them, and bring forth good fruit in their lives and conversations."
+        ],
+        "John Wesley": [
+            "The kingdom of heaven (as has been observed before) sometimes signifies eternal glory: sometimes the way to it, inward religion; sometimes, as here, the Gospel dispensation.",
+            "God sowed nothing but good in his whole creation.",
+            "Christ sowed only the good seed of truth in his Church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the man who sowed good seed in his field is an illustration given by Jesus to explain the kingdom of heaven. In this parable, the man represents the circumstances of the kingdom, and the good seed symbolizes the children of the kingdom. The kingdom of heaven refers to the Gospel dispensation and the times of the Messiah. It signifies the reign of Christ in the new economy of salvation. While there will be bad men and hypocrites in the Church, it is essential for the children of God to remain steadfast in faith and endure the offenses and errors that may arise. The parable emphasizes that God sowed only good in his creation and that Christ sowed only the good seed of truth in his Church.",
+            "wordCount": 129,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.003078797059007,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                17.53,
+                44.66,
+                37.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the man who sowed good seed in his field is an illustration given by Jesus to explain the kingdom of heaven. The man represents the circumstances of the kingdom, and the good seed symbolizes the children of the kingdom. The kingdom of heaven refers to the Gospel dispensation and the times of the Messiah. While bad men and hypocrites will mingle with the good, the children of God must remain steadfast in faith, enduring offenses and preserving the purity of their beliefs.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.92419125757544,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                17.35,
+                42.12,
+                40.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the man who sowed good seed in his field is an illustration given by Jesus to explain the kingdom of heaven. The man represents the circumstances of the kingdom, and the good seed symbolizes the children of the kingdom. The kingdom of heaven refers to the Gospel dispensation and the times of the Messiah. While bad men and hypocrites will mingle with the good, the children of God must remain steadfast in faith, enduring offenses and preserving the purity of their beliefs.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.92419125757544,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                17.35,
+                42.12,
+                40.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the parable of the man who sowed good seed in his field, Jesus compares the kingdom of heaven to the circumstances of a man sowing seed. The good seed represents the children of the kingdom, who have a good work begun in them and produce good fruit in their lives. This parable illustrates the Gospel dispensation and the times of the Messiah, emphasizing that God sowed only good in His creation and Christ sowed only the good seed of truth in His Church. Despite the presence of bad men and hypocrites, the children of God are called to endure and preserve their faith.",
+            "wordCount": 104,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.8022796825570457,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                15.76,
+                37.61,
+                46.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the man who sowed good seed in his field is an illustration given by Jesus to explain the kingdom of heaven. The man represents the circumstances of the kingdom, and the good seed symbolizes the children of the kingdom. The kingdom of heaven refers to the Gospel dispensation and the times of the Messiah. While bad men and hypocrites will mingle with the good, the children of God must remain steadfast in faith, enduring offenses and preserving the purity of their beliefs.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.92419125757544,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                17.35,
+                42.12,
+                40.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:25",
+    "verseRef": "Matthew 26:17",
+    "bestBHT": {
+        "bht": "On the first day of unleavened bread, the disciples, Peter and John, came to Jesus to inquire about the Passover meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. By adhering to the Law, even at his final hour, Jesus demonstrated his commitment to deliver humanity from its yoke. This moment signified the fusion of two feasts, the Passover feast and the feast of unleavened bread, rolled into one significant occasion.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.9579666853299906,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+        "commentatorTierSimilarities": [
+            39.77,
+            29.0,
+            31.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If this night had been the ordinary time of sacrificing the Passover, the day preceding would not indeed have been strictly the first day of unleavened bread; but there is reason to suppose that it was accounted so.",
+            "The \u2018making ready\u2019 would include the following particulars; the ration of the guest-chamber itself...the lamb already kept up from the 10th had to be slain in the fore-court of the temple...the unleavened bread, bitter herbs, &c., prepared;\u2014and the room arranged.",
+            "This report does not represent the whole that passed: it was the Lord who sent the two disciples; and in reply this enquiry was made."
+        ],
+        "John Calvin": [
+            "It is beyond a doubt that Christ was put to death on the day before the Sabbath; for he was hastily buried before sunset in a sepulcher which was at hand.",
+            "Now if it was the custom, at that time, to join two festivals in one, it is a highly probable conjecture that Christ...observed the day prescribed by the Law.",
+            "Having determined to be subject to the Law, that he might deliver us from its yoke, he did not forget this subjection at his latest hour."
+        ],
+        "Philip Schaff": [
+            "On the first day of unleavened bread.",
+            "The householder kept the lamb from the 10th day of the month; he presented it in the temple, 'between the evenings,' i.e., between three and six o'clock in the afternoon of the fourteenth, himself slew it.",
+            "The householder then removed the skin and fat from the lamb; the latter was burned on the altar by the priest, the former was carried home bound about the lamb."
+        ],
+        "Archibald T. Robertson": [
+            "There were two feasts rolled into one, the passover feast and the feast of unleavened bread.",
+            "My view is that the five passages in John rightly interpreted agree with the Synoptic Gospels that Jesus ate the passover meal at the regular time about 6 P.M. beginning of 15 Nisan.",
+            "According to this view Jesus ate the passover meal at the regular time and died on the cross the afternoon of 15 Nisan."
+        ],
+        "John Gill": [
+            "The disciples came to Jesus; that is, Peter and John, as may be learnt from Luke 22:8, for these only seem to have had any notion of Judas's betraying Christ, from what had been said at the supper in Bethany, two days before; the rest thought he was gone to prepare for the feast, and therefore were under no concern about it; but these two judged otherwise, and therefore came to Christ to know his mind concerning it.",
+            "The disciples having received such an order from their master, inquire not in what town or city they must prepare the passover, for that was always ate in Jerusalem; see Deuteronomy 16:5, where they were obliged, by the Jewish canon k, to lodge that night.",
+            "They inquire in what house he would have it got ready; for they might make use of any house, and the furniture of it, where they could find room, and conveniency, without any charge."
+        ],
+        "John Wesley": [
+            "On the first day of unleavened bread \u2014 Being Thursday, the fourteenth day of the first month, Exodus 12:6,15. Mark 14:12; Luke 22:7"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the first day of unleavened bread, the disciples came to Jesus, seeking guidance on where to prepare the Passover meal. This was not just any ordinary time of sacrificing the Passover, but a significant moment when two feasts, the Passover feast and the feast of unleavened bread, were rolled into one. According to some interpretations, Jesus ate the Passover meal at the regular time, around 6 PM on the 15th of Nisan, and it was on this day that he was crucified. By adhering to the Law, even at his final hour, Jesus showed his commitment to deliver humanity from its yoke. The disciples, Peter and John, came to Jesus to inquire about the meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. Ultimately, this verse reveals the importance of adhering to the customs and traditions established by God.",
+            "wordCount": 165,
+            "quoteTokenProportion": 37.76,
+            "qualityScore": 2.002972412493359,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                40.49,
+                28.36,
+                31.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the first day of unleavened bread, the disciples, Peter and John, came to Jesus to inquire about the Passover meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. By adhering to the Law, even at his final hour, Jesus demonstrated his commitment to deliver humanity from its yoke. This moment signified the fusion of two feasts, the Passover feast and the feast of unleavened bread, rolled into one significant occasion.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9579666853299906,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                39.77,
+                29.0,
+                31.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the first day of unleavened bread, the disciples, Peter and John, sought Jesus for guidance on preparing the Passover meal. They came to determine the location and arrange the necessary provisions. Jesus, committed to adhering to the Law, observed the prescribed day, uniting the Passover feast and the feast of unleavened bread. His disciples' obedience and inquiry reflected their awareness of Judas's betrayal. This inquiry highlights the significance of upholding customs and traditions while underlining Jesus's mission to liberate humanity from the burden of the Law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.5833460474549588,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                39.43,
+                26.79,
+                33.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the first day of unleavened bread, Peter and John sought Jesus to inquire about the Passover meal, being the only ones aware of Judas's betrayal. Their obedience led them to search for a suitable house to make the necessary preparations. By adhering to the Law, even at his final hour, Jesus exhibited his commitment to liberating humanity from its yoke. This occasion merged the Passover feast and the feast of unleavened bread, emphasizing the significance of upholding traditions and illustrating Jesus's fulfillment of the Law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.7193644578326133,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                38.51,
+                28.21,
+                33.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the first day of unleavened bread, Peter and John approached Jesus seeking guidance on the preparation of the Passover meal, as they were aware of Judas's betrayal. Their obedience and inquiry demonstrate their understanding of Jesus's instructions. Jesus, upholding the Law, observed the prescribed day, combining the Passover feast and the feast of unleavened bread into a significant event. This moment signifies Jesus's commitment to deliver humanity from the burden of the Law, highlighting the importance of adhering to customs and traditions established by God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.8589615369424253,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                39.73,
+                27.78,
+                32.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:55:01",
+    "verseRef": "Matthew 28:17",
+    "bestBHT": {
+        "bht": "After encountering the risen Lord multiple times, it may seem surprising that some disciples still had doubts when Jesus appeared to them on the mountain. However, this doubt did not come from the eleven, who had already witnessed Christ's resurrection, but from others present. Their hesitation could have been due to caution in examining the evidence or uncertainty regarding the identity of the risen Lord. Nonetheless, their doubt does not diminish the fact that Jesus had conquered death and was their Risen Lord and Savior.",
+        "wordCount": 86,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 2.0004369985293264,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+        "commentatorTierSimilarities": [
+            29.6,
+            32.42,
+            37.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But some doubted\u2014certainly none of 'the Eleven,' after what took place at previous interviews in Jerusalem.",
+            "But if the five hundred were now present, we may well believe this of some of them."
+        ],
+        "Albert Barnes": [
+            "They worshipped him - Paid him honour as the Messiah.",
+            "But some doubted - As, for example, Thomas, John 20:25.",
+            "Their caution in examining the evidence; their slowness to believe; their firm conviction after all their doubts; and their willingness to show their conviction even by their 'death,' is most conclusive proof that they were 'not' deceived in regard to the fact of his resurrection."
+        ],
+        "Marvin Vincent": [
+            "Worshipped [\u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c5\u03bd\u03b7\u03c3\u03b1\u03bd] . As in ver. 9. Prostrated themselves. The first time that the disciples are described as doing so."
+        ],
+        "John Calvin": [
+            "It is wonderful that, after they had twice seen Christ, still some doubted.",
+            "The meaning, therefore, appears to me to be, that some at first hesitated, until Christ made a nearer and more familiar approach to them.",
+            "He had laid aside the form of a servant, and had nothing in his appearance but what was heavenly."
+        ],
+        "Philip Schaff": [
+            "The word might mean something less than religious worship, but it does mean that in many cases; the matter could scarcely be mentioned, if it meant less here.",
+            "Some say the doubt was respecting the identity of our Lord, and find in it an evidence of their caution in examining the evidence, which gives their subsequent conviction and testimony the greater weight.",
+            "So now \u2018some,\u2019 attached to our Lord, have a speculative doubt as to the propriety of according Him Divine honors. When it becomes a positive denial of the power He claims in the next verse, genuine faith in Him is scarcely possible."
+        ],
+        "Archibald T. Robertson": [
+            "The reference is not to the eleven who were all now convinced after some doubt, but to the others present.",
+            "Their very doubt makes it easier for us to believe.",
+            "He is now their Risen Lord and Saviour."
+        ],
+        "John Gill": [
+            "And when, they saw him, they worshipped him,.... With divine adoration, as the eternal Son of God.",
+            "Not that they doubted now that Christ was risen from the dead; since he had appeared several times to them before this, and had given them all the proofs of the truth of his resurrection they could desire.",
+            "Some of them, though they believed Christ was risen from the dead, of which they had had the strongest assurance; yet they doubted whether what they then saw on the mountain was he, or whether it was not a spirit, or a mere phantom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After encountering the risen Lord multiple times, it may seem surprising that some disciples still had doubts when Jesus appeared to them on the mountain. However, it is important to note that this doubt did not come from the eleven who had already witnessed Christ's resurrection. Instead, it was among others who were present. Their hesitation might have stemmed from caution in examining the evidence or uncertainty regarding the identity of the risen Lord. Nonetheless, their doubt does not diminish the fact that Jesus had indeed conquered death and was their Risen Lord and Savior. Their worship of Him, whether understood as religious worship or simply honoring the Messiah, demonstrated their acknowledgment of His divine authority. The doubt among some serves as a reminder of the journey of faith that individuals may undergo and the need for patience and perseverance in seeking a deeper understanding of Christ's power and claims.",
+            "wordCount": 152,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7887765658823218,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                27.67,
+                34.16,
+                38.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After encountering the risen Lord multiple times, it may seem surprising that some disciples still had doubts when Jesus appeared to them on the mountain. However, it is important to note that this doubt did not come from the eleven who had already witnessed Christ's resurrection. Instead, it was among others who were present. Their hesitation might have stemmed from caution in examining the evidence or uncertainty regarding the identity of the risen Lord. Nonetheless, their doubt does not diminish the fact that Jesus had indeed conquered death and was their Risen Lord and Savior.",
+            "wordCount": 96,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.8336231491288033,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                30.39,
+                31.09,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After encountering the risen Lord multiple times, it may seem surprising that some disciples still had doubts when Jesus appeared to them on the mountain. However, this doubt did not come from the eleven, who had already witnessed Christ's resurrection, but from others present. Their hesitation could have been due to caution in examining the evidence or uncertainty regarding the identity of the risen Lord. Nonetheless, their doubt does not diminish the fact that Jesus had conquered death and was their Risen Lord and Savior.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.0004369985293264,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                29.6,
+                32.42,
+                37.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While it may be surprising that some disciples still had doubts after multiple encounters with the risen Lord, it is important to note that these doubts did not come from the eleven who had already witnessed Christ's resurrection. Instead, it was among others who were present. Their uncertainty could have stemmed from cautious examination of the evidence or uncertainty about the identity of the risen Lord. However, their doubts do not negate the fact that Jesus had triumphed over death and was their Risen Lord and Savior.",
+            "wordCount": 88,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.7826831425998289,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                29.03,
+                33.07,
+                37.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although it may seem surprising, some disciples still had doubts when Jesus appeared to them on the mountain, despite having encountered the risen Lord multiple times. However, it is important to note that these doubts did not come from the eleven who had witnessed Christ's resurrection. Rather, they arose among others who were present. The reasons behind their hesitations might include cautious examination of the evidence or uncertainty about the identity of the risen Lord. Nevertheless, their doubts do not diminish the reality that Jesus had conquered death and now reigned as their Risen Lord and Savior.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.68,
+            "qualityScore": 1.824266696962707,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                31.69,
+                31.5,
+                36.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:43:40",
+    "verseRef": "Matthew 5:6",
+    "bestBHT": {
+        "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This hunger and thirst is the true sign of that new life on which those born of the Spirit have entered. It is a strong desire, a longing for God's righteousness and goodness. Those who earnestly desire to be holy will be filled, satisfied, and saturated with spiritual nourishment. They will receive an abundance of what they hunger and thirst for, finding complete satisfaction in God's righteousness and the blessings that flow from it.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.770578151130019,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.46,
+        "commentatorTierSimilarities": [
+            28.02,
+            37.74,
+            34.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This hunger and thirst is the true sign of that new life on which those born of the Spirit...have entered.\" ",
+            "It is after righteousness, i.e. perfect conformity to the holy will of God.\" ",
+            "They shall be satisfied\u2014in the new heaven and new earth, in which dwelleth righteousness, 2 Pet. iii. 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Blessed are they which do hunger and thirst after righteousness: for they shall be filled\u2014\"shall be saturated.",
+            "The Old Testament dwells much on this righteousness, as that which alone God regards with approbation.",
+            "Our Lord just takes up here\u2014this blessed frame of mind, representing it as\u2014the surest pledge of the coveted supplies, as it is the best preparative, and indeed itself the beginning of them."
+        ],
+        "Albert Barnes": [
+            "Nothing would better express the strong desire which we ought to feel to obtain righteousness than hunger and thirst.",
+            "An ardent desire for anything is often represented in the Scriptures by hunger and thirst.",
+            "Never was there a desire to be holy which God was not willing to gratify, and the gospel of Christ has made provision to satisfy all who truly desire to be holy."
+        ],
+        "Marvin Vincent": [
+            "In Revelation 19:21, it is used of the filling of the birds with the flesh of God's enemies.",
+            "Also of the multitudes fed with the loaves and fishes (Matthew 14:20; Mark 8:8; Luke 9:17).",
+            "It is manifestly appropriate here as expressing the complete satisfaction of spiritual hunger and thirst."
+        ],
+        "John Calvin": [
+            "Happy are they who hunger...to suffer poverty, to want the necessaries of life, and even to be defrauded of one\u2019s right.",
+            "Though their distressing anxiety exposes them to the ridicule of others, yet it is a certain preparation for happiness.",
+            "God will one day listen to their groans, and satisfy their just desires."
+        ],
+        "Philip Schaff": [
+            "Hunger and thirst after righteousness. \u2018The righteousness,\u2019 i.e., God\u2019s; something without us, given to us, not merely imputed to us, though that is included, but made ours, part of our life, as food is assimilated.",
+            "A still stronger representation of the sense of spiritual need, advancing to positive longing, for a blessing, known to be the one needed, namely, God\u2019s approval conformity to the will of God.",
+            "Those thus hungering are blessed, for they shall be filled, shall get in abundance what they want."
+        ],
+        "Archibald T. Robertson": [
+            "They that hunger and thirst after righteousness... It is passionate hunger and thirst for goodness, for holiness.",
+            "Here Jesus turns one of the elemental human instincts to spiritual use.",
+            "The word for 'filled' means to feed or to fatten cattle... like Mark 6:39 'green grass'."
+        ],
+        "John Gill": [
+            "To 'hunger and thirst' after this, supposes a want of righteousness, which is the case of all men; a sense of want of it, which is only perceived by persons spiritually enlightened; a discovery of the righteousness of Christ to them, which is made in the Gospel, and by the Spirit of God.",
+            "A value for it, and a preference of it to all other righteousness; and an earnest desire after it, to be possessed of it, and found in it; and that nothing can be more grateful than that, because of its perfection, purity, suitableness, and use.",
+            "They shall be filled: with that righteousness, and with all other good things, in consequence of it; and particularly with joy and peace, which are the certain effects of it."
+        ],
+        "John Wesley": [
+            "They that hunger and thirst after righteousness \u2014 After the holiness here described. They shall be satisfied with it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This hunger and thirst is a sign of the new life that those born of the Spirit have entered into. It is a strong desire, a longing for God's righteousness, and a recognition that it is the only righteousness that truly matters. Those who earnestly desire to be holy will be satisfied, filled to the brim with spiritual goodness, joy, and peace. God will listen to their groans and fulfill their just desires. This intense longing for righteousness is not in vain; it is the best preparative and the beginning of the coveted supplies of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.54086137576698,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.82,
+            "commentatorTierSimilarities": [
+                27.15,
+                37.88,
+                34.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This hunger and thirst is a sign of the new life that those born of the Spirit have entered into. It is a strong desire, a longing for God's righteousness, and a recognition that it is the only righteousness that truly matters. Those who earnestly desire to be holy will be satisfied, filled to the brim with spiritual goodness, joy, and peace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.6688382250723572,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.08,
+            "commentatorTierSimilarities": [
+                27.8,
+                37.61,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This hunger and thirst is a sign of the new life that those born of the Spirit have entered into. It is a strong desire, a longing for God's righteousness, and a recognition that it is the only righteousness that truly matters. Those who earnestly desire to be holy will be filled, satiated with God's righteousness and all other good things that come from it, including joy and peace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.685024122505239,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.62,
+            "commentatorTierSimilarities": [
+                27.89,
+                37.74,
+                34.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This intense longing for righteousness is the best preparative and the beginning of the supplies of God. It is a sign of the new life that those born of the Spirit have entered into. Those who earnestly desire to be holy will be filled, satisfied, and saturated with God's righteousness. They will receive an abundance of what they truly hunger and thirst for, including joy, peace, and all other good things.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.521344804497966,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.17,
+            "commentatorTierSimilarities": [
+                28.51,
+                36.41,
+                35.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are those who passionately hunger and thirst after perfect conformity to the holy will of God. This hunger and thirst is the true sign of that new life on which those born of the Spirit have entered. It is a strong desire, a longing for God's righteousness and goodness. Those who earnestly desire to be holy will be filled, satisfied, and saturated with spiritual nourishment. They will receive an abundance of what they hunger and thirst for, finding complete satisfaction in God's righteousness and the blessings that flow from it.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.770578151130019,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.46,
+            "commentatorTierSimilarities": [
+                28.02,
+                37.74,
+                34.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

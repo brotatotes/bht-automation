@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:21",
+    "verseRef": "Matthew 4:16",
+    "bestBHT": {
+        "bht": "The inhabitants of Galilee, who sat in darkness and were in the region and shadow of death, saw great light when Christ came to them. They were walking in spiritual darkness, ignorance, and error, but the light of Christ brought them truth and knowledge. Even though they did not ask or seek for it, the sun of righteousness arose upon them, turning their darkness into light and their death into life. This was the fulfillment of the prophecy and marked the beginning of a new era for them. ",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9356497643311448,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+        "commentatorTierSimilarities": [
+            30.3,
+            23.62,
+            46.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.\" ",
+            "First, Judah shall not, cannot perish, because IMMANUEL, the Virgin's Son, is to come forth from his loins.\" ",
+            "By Messiah's taking up His abode in those very regions of Galilee, and shedding His glorious light upon them, this prediction, He says, of the Evangelical prophet was now fulfilled."
+        ],
+        "Marvin Vincent": [
+            "The people whose characteristic it was to sit in darkness.\" ",
+            "This land, whose inhabitants are spiritually dead, belongs to Death as the realm of his government.\" ",
+            "Death is personified."
+        ],
+        "Philip Schaff": [
+            "\u2018Darkness\u2019 is the usual Scriptural figure for a state of depravity, including more than ignorance.",
+            "This region had seen Christ, the light of men, bringing to them \u2018truth, knowledge, moral purity, and happiness!\u2019",
+            "Among the despised, those furthest from the temple, the work began and met with best success."
+        ],
+        "Archibald T. Robertson": [
+            "The same district lay in spiritual darkness and death and the new era dawned when Christ went thither\" (McNeile).",
+            "Light sprang up from those who were sitting in the region and shadow of death\" (\u03b5\u03bd \u03c7\u03bf\u03c1\u03b1 \u03ba\u03b1 \u03c3\u03ba\u03b9\u03b1 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5).",
+            "Death is personified."
+        ],
+        "John Gill": [
+            "The inhabitants of Galilee, who sat or 'walked', as in Isaiah; that is, continued in spiritual darkness, in ignorance, blindness, error, and infidelity, 'saw great light'; Christ himself, who came a light into the world; he conversed with them, preached unto them, and opened the eyes of their understandings to behold his glory, and to know him, and salvation by him.",
+            "But the happiness of these people was, that to them 'light is sprung up', like the rising sun, and this without their asking or seeking for: Christ, the sun of righteousness, arose upon them, without any desert, desire, or expectation of theirs, with healing in his wings; and cured them of their darkness and deadness, turned them from darkness to light, and caused them to pass from death to life.",
+            "And these days of light first begun in the land of Zabulon which, according to Philo the Jew, was 'sumbolon fwtov, 'a symbol of light'; since its name signifies the nature of night; but, the night removing, and departing, light necessarily arises.' As did, in a spiritual sense, here, when Christ the light arose."
+        ],
+        "John Wesley": [
+            "Here is a beautiful gradation, first, they walked, then they sat in darkness, and lastly, in the region of the shadow of death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in the region of Galilee, characterized by their spiritual darkness and ignorance, were the ones who witnessed the great light of Christ. In their state of depravity and distance from the temple, Christ began His work and achieved the greatest success. These people had the privilege of experiencing the dawning of a new era when Christ, the light of the world, came to enlighten them and bring them out of their spiritual death. This was a fulfillment of the prophecy that even those who sat in the shadow of death would see the light. It was through Christ's presence and teachings that their understanding was opened, their darkness turned to light, and their death transformed into life.",
+            "wordCount": 120,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.9614418781198175,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                30.39,
+                29.16,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inhabitants of Galilee, who sat in darkness and were in the region and shadow of death, saw great light when Christ came to them. They were walking in spiritual darkness, ignorance, and error, but the light of Christ brought them truth and knowledge. Even though they did not ask or seek for it, the sun of righteousness arose upon them, turning their darkness into light and their death into life. This was the fulfillment of the prophecy and marked the beginning of a new era for them. ",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9356497643311448,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                30.3,
+                23.62,
+                46.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in Galilee, who were sitting in darkness and the shadow of death, witnessed a great light when Christ arrived among them. Christ's presence and teachings brought enlightenment to those who were spiritually dead and walked in ignorance. They did not actively seek or deserve this light, but it sprang up upon them, turning their darkness into light and their death into life. This marked the fulfillment of the prophecy and signaled a new era for the region of Galilee.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9058726544114526,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                32.29,
+                24.64,
+                43.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Galilee, characterized by their spiritual darkness, witnessed the great light of Christ. In their state of ignorance and despair, Christ brought them truth, knowledge, moral purity, and happiness. He came as a light into the world, opening their eyes and revealing His glory to them. They did not seek or expect this light, but it arose upon them like the rising sun, transforming their darkness and deadness into light and life. This fulfilled the prophecy and marked the beginning of a new era for Galilee.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6338662282983845,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                26.77,
+                32.19,
+                41.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Galilee, a region characterized by spiritual darkness and ignorance, Christ's arrival brought about a profound transformation. Those who had been walking in darkness and residing in the shadow of death witnessed a great light. Christ, the light of the world, conversed with them, preached unto them, and opened their eyes to behold His glory. They were blessed to have this light spring up upon them, turning their darkness to light and leading them from death to life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9016846036203514,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                29.77,
+                24.81,
+                45.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

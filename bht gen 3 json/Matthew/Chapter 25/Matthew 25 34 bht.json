@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:53:11",
+    "verseRef": "Matthew 25:34",
+    "bestBHT": {
+        "bht": "The King, the Lord Himself, gives the righteous the kingdom that was prepared for them from the foundation of the world. Chosen from everlasting, they were predestined to be holy and blameless in love, and their inheritance in heaven awaits them. God's free gift of salvation is bestowed on individuals who aim at righteousness through good works. As the Judge, the Son of Man invites the blessed of His Father to inherit the kingdom that was purchased for them by His blood.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.032560074545646,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+        "commentatorTierSimilarities": [
+            29.5,
+            35.46,
+            35.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "THE KING\u2014here for the first and only time does the Lord give Himself this name.\" ",
+            "Whatever of good these persons had done, was all from Him from whom cometh every good gift.\" ",
+            "Election to life is the universal doctrine of Scripture; but not the reprobation of the wicked."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is still, 'Come,' and to 'rest' too; but to rest in a higher style, and in another region.",
+            "The whole story of this their blessedness is given by the apostle, in words which seem but an expression of these: 'Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ.'",
+            "They were chosen from everlasting to the possession and enjoyment of all spiritual blessings in Christ, and so chosen in order to be holy and blameless in love."
+        ],
+        "Albert Barnes": [
+            "Christ says to the righteous that the kingdom was prepared for 'them.' Of course, God meant to confer it on 'them.' They were individuals, and it follows that He intended to bestow His salvation on them as individuals.",
+            "The phrase 'from the foundation of the world' is used to denote that this was appointed for them in the beginning; that God has no new plan; that the rewards which he will now confer on them he always intended to confer.",
+            "The salvation of His people is universally represented as the result of the free gift of God, according to His own pleasure, bestowed on individuals, and by a plan which is eternal."
+        ],
+        "John Calvin": [
+            "To this latter clause he refers, when he promises the inheritance of the heavens to none but those who by good works aim at the prize of the heavenly calling.",
+            "Christ, in describing the salvation of the godly, begins with the undeserved love of God, by which those who, under the guidance of the Spirit in this life, aim at righteousness, were predestined to life.",
+            "It is no slight persuasive to patience, when men are fully convinced that they do not run in vain; and therefore, lest our minds should be cast down by the pride of the ungodly... let us always remember the inheritance which awaits us in heaven."
+        ],
+        "Philip Schaff": [
+            "He is the judge; comp. Luke 19:38, and many other passages.",
+            "God has but one way of blessing.",
+            "The idea of choosing unto eternal life is plainly implied here."
+        ],
+        "Archibald T. Robertson": [
+            "From the foundation of the world... The eternal purpose of the Father for his elect in all the nations.",
+            "The Son of Man... is the King here seated on the throne in judgment.",
+            "The Son of Man... is the King here seated on the throne in judgment."
+        ],
+        "John Gill": [
+            "Come. The Arabic version adds, 'to me': by such a phrase he sometimes had invited, and encouraged poor sensible sinners: to come and partake of his grace.",
+            "ye blessed of my Father: so called, partly because they were his Father's, not only by creation, but by his choice of them to grace and glory, and therefore most happy and blessed.",
+            "inherit the kingdom prepared for you from the foundation of the world. The happiness of the saints, in the other world, is here expressed by a 'kingdom', because of the glory, riches, grandeur, and magnificence of it."
+        ],
+        "John Wesley": [
+            "Inherit the kingdom \u2014 Purchased by my blood, for all who have believed in me with the faith which wrought by love.",
+            "Prepared for you \u2014 On purpose for you.",
+            "May it not be probably inferred from hence, that man was not created merely to fill up the places of the fallen angels?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The King, the Lord Himself, gives the righteous the kingdom that was prepared for them from the foundation of the world. This kingdom is not only a place of rest, but a place where they will be blessed with all spiritual blessings in heavenly places in Christ. Chosen from everlasting, they were predestined to be holy and blameless in love, and their inheritance in heaven awaits them. God's free gift of salvation, according to His eternal plan, is bestowed on individuals who aim at righteousness through good works. As the Judge, the Son of Man invites the blessed of His Father to inherit the kingdom that was purchased for them by His blood.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.0218510038916246,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                30.45,
+                35.03,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The King, the Lord Himself, gives the righteous the kingdom that was prepared for them from the foundation of the world. Chosen from everlasting, they were predestined to be holy and blameless in love, and their inheritance in heaven awaits them. God's free gift of salvation is bestowed on individuals who aim at righteousness through good works. As the Judge, the Son of Man invites the blessed of His Father to inherit the kingdom that was purchased for them by His blood.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.032560074545646,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                29.5,
+                35.46,
+                35.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The King, the Lord Himself, bestows the kingdom of the righteous, prepared for them from the foundation of the world. Chosen from everlasting, they are predestined to be blameless in love. Their inheritance in heaven awaits them as a result of God's free gift of salvation given to individuals who strive for righteousness through good works. As the Judge, the Son of Man invites the blessed to inherit the kingdom that He purchased for them by His blood.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.91516812075145,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                30.0,
+                34.26,
+                35.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The King, the Lord Himself, gives the righteous the kingdom that was prepared for them from the foundation of the world. This kingdom is not only a place of rest, but a place where they will be blessed with all spiritual blessings in heavenly places in Christ. Chosen from everlasting, they were predestined to be holy and blameless in love, and their inheritance in heaven awaits them. God's free gift of salvation, according to His eternal plan, is bestowed on individuals who aim at righteousness through good works. As the Judge, the Son of Man invites the blessed of His Father to inherit the kingdom that was purchased for them by His blood.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.0218510038916246,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                30.45,
+                35.03,
+                34.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The righteous receive the kingdom prepared for them by the Lord Himself since the foundation of the world. This heavenly kingdom is a place of rest, where they will be blessed with all spiritual blessings in Christ. Chosen from eternity, they are meant to be holy and blameless in love. God's free gift of salvation is given to those who aim for righteousness through good works. As the Judge, the Son of Man invites the blessed to inherit the kingdom purchased for them by His blood.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.93807829458655,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                30.85,
+                35.05,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

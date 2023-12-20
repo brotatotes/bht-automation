@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:42:15",
+    "verseRef": "Matthew 1:7",
+    "bestBHT": {
+        "bht": "In Matthew's genealogy, three kings are omitted to maintain the structure of three groups of fourteen generations. Scholars suggest that these omissions are due to religious considerations, such as the kings' connection with the house of Ahab or their inadequate qualifications as legitimate links in the theocratic chain. Nevertheless, the exclusion of these names does not undermine the significance of the genealogy, which serves as a powerful testament to the lineage it presents.",
+        "wordCount": 74,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.3151121131395502,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.07,
+        "commentatorTierSimilarities": [
+            65.94,
+            0.0,
+            34.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Three kings are here omitted\u2014Ahaziah, Joash, and Amaziah (1 Chronicles 3:11; 1 Chronicles 3:12).",
+            "Some omissions behooved to be made, to compress the whole into three fourteens (Matthew 1:17).",
+            "The reason why these, rather than other names, are omitted, must be sought in religious considerations\u2014either in the connection of those kings with the house of Ahab (as LIGHTFOOT, EBRARD, and ALFORD view it); in their slender right to be regarded as true links in the theocratic chain (as LANGE takes it); or in some similar disqualification."
+        ],
+        "John Gill": [
+            "And Solomon begat Roboam...of Naamah an Ammonitess.\" ",
+            "And Roboam begat Abia...sometimes called Abijam.\" ",
+            "And Abia begat Asa, who was a good king...perhaps it is not his proper mother, but his grandmother who is meant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 1:7, three kings are curiously omitted from the genealogy - Ahaziah, Joash, and Amaziah. This omission is necessary to maintain the structure of three groups of fourteen generations. Some scholars suggest that these kings were omitted due to religious considerations, possibly due to their connection with the house of Ahab or their lack of legitimacy as true links in the theocratic chain. Regardless, this omission does not detract from the significance of the genealogy and the lineage it represents.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.3089300633110745,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.87,
+            "commentatorTierSimilarities": [
+                66.05,
+                0.0,
+                33.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the genealogy found in Matthew, three kings are noticeably missing\u2014Ahaziah, Joash, and Amaziah. Their exclusion is necessary to maintain the three groups of fourteen generations. The reason for their omission is likely rooted in religious considerations, such as their association with the house of Ahab or their limited right to be regarded as true links in the theocratic chain. Despite these omissions, the significance of the genealogy and the lineage it presents remain intact.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.123298589925067,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.69,
+            "commentatorTierSimilarities": [
+                69.62,
+                0.0,
+                30.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew's genealogy, three kings are omitted\u2014Ahaziah, Joash, and Amaziah. This omission is necessary to ensure that there are three groups of fourteen generations. The reason for their exclusion is likely due to religious considerations, such as their connection to the house of Ahab or their questionable qualification as true links in the theocratic chain. While these names are missing, the genealogy still carries significant meaning and highlights the lineage it presents.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.2196548690760072,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.9,
+            "commentatorTierSimilarities": [
+                66.84,
+                0.0,
+                33.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the genealogy presented by Matthew, the omission of three kings\u2014Ahaziah, Joash, and Amaziah\u2014is noteworthy. These exclusions were necessary to uphold the structure of three groups of fourteen generations. Scholars propose that these kings were left out due to religious considerations, such as their association with the house of Ahab or their perceived inadequacy as true links within the theocratic lineage. Nevertheless, the omission of these names does not diminish the significance of the genealogy, which carries a profound testament to the ancestral line it represents.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1639774037942234,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.05,
+            "commentatorTierSimilarities": [
+                66.98,
+                0.0,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew's genealogy, three kings are omitted to maintain the structure of three groups of fourteen generations. Scholars suggest that these omissions are due to religious considerations, such as the kings' connection with the house of Ahab or their inadequate qualifications as legitimate links in the theocratic chain. Nevertheless, the exclusion of these names does not undermine the significance of the genealogy, which serves as a powerful testament to the lineage it presents.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3151121131395502,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.07,
+            "commentatorTierSimilarities": [
+                65.94,
+                0.0,
+                34.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

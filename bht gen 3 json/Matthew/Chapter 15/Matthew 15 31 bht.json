@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:48:33",
+    "verseRef": "Matthew 15:31",
+    "bestBHT": {
+        "bht": "The disciples were filled with joy as they contrasted the abundance of acts of mercy now before them with the difficulty a Gentile had faced to obtain help. The people marveled as they witnessed the mute speaking and the lame walking, glorifying the God of Israel and recognizing His power. These remarkable miracles were undeniable evidence of the wonderful power of God, leaving them astonished and in awe. It was clear that only the one true and all-powerful God could accomplish such extraordinary feats.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.5062972328305473,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+        "commentatorTierSimilarities": [
+            40.63,
+            22.29,
+            37.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Perhaps this last word is added as an expression of the joy of the disciples themselves, who contrasted the fulness and abundance of the acts of mercy now before them.",
+            "The acts of mercy now before them, with the instance which they had just seen of the difficulty with which the faith of a Gentile had prevailed to obtain help.",
+            "Contrasted the fulness and abundance of the acts of mercy now before them."
+        ],
+        "Philip Schaff": [
+            "Wondered. Comp. Mark 7:37. The people had probably heard of, but never witnessed, His power.",
+            "The dumb speaking, etc. This is the form of the original.",
+            "They glorified the God of Israel. They were not heathen, but Jews. Yet living on the borders, they seem to have been affected by heathen nations, and half recognized other gods."
+        ],
+        "John Gill": [
+            "These were such glaring proofs and evidences of the wonderful power of God, that they were astonished.",
+            "This is left out in some copies; nor is it in the Arabic, Ethiopic, and Vulgate Latin versions, nor in Munster's Hebrew Gospel; but the Syriac has it, and most Greek copies, and seems necessary.",
+            "They glorified the God of Israel...by whose power alone such things could be done, who is the one only and true God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were filled with joy as they contrasted the great abundance of merciful acts before them with the previous struggle they had witnessed. The people marveled at Jesus' wondrous works, particularly at the previously unheard-of instances of the mute speaking and the lame walking. Their astonishment led them to glorify the God of Israel, recognizing His power as the source of these remarkable miracles. It was evident that only God could perform such amazing feats, prompting the people to give glory to the one true God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.4277468277737748,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                41.2,
+                24.71,
+                34.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were filled with joy, for they contrasted the abundance of merciful acts before them with the previous struggle of a Gentile's faith. The people marveled at the unprecedented miracles of the mute speaking and the lame walking, leading them to glorify the God of Israel. Their astonishment was a testament to the marvelous power of God, for only He could perform such wondrous works. It was evident that these miracles could only result from the one true and all-powerful God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.423560295246713,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.68,
+            "commentatorTierSimilarities": [
+                37.62,
+                24.25,
+                38.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were filled with joy as they contrasted the abundance of acts of mercy now before them with the difficulty a Gentile had faced to obtain help. The people marveled as they witnessed the mute speaking and the lame walking, glorifying the God of Israel and recognizing His power. These remarkable miracles were undeniable evidence of the wonderful power of God, leaving them astonished and in awe. It was clear that only the one true and all-powerful God could accomplish such extraordinary feats.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5062972328305473,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                40.63,
+                22.29,
+                37.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples rejoiced, contrasting the abundance of merciful acts now before them with the previous struggle experienced by a Gentile. The people marveled as they witnessed the mute speaking and the lame walking, leading them to glorify the God of Israel. These miracles served as glaring proofs of the wonderful power of God, leaving them astonished. It was evident that such extraordinary feats could only be accomplished by the one true and all-powerful God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4264238266215226,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.77,
+            "commentatorTierSimilarities": [
+                37.49,
+                23.23,
+                39.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were filled with joy as they contrasted the abundance of acts of mercy now before them with the difficulty a Gentile had faced to obtain help. The people marveled at the unprecedented miracles of the mute speaking and the lame walking, leading them to glorify the God of Israel. These remarkable miracles were undeniable evidence of the wonderful power of God, leaving them astonished and in awe. It was clear that only the one true and all-powerful God could accomplish such extraordinary feats.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.457781449726704,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                40.94,
+                21.04,
+                38.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:50:31",
+    "verseRef": "Matthew 20:30",
+    "bestBHT": {
+        "bht": "When Jesus passed by, the blind men recognized their one opportunity and cried out, hailing him as the Messiah, the son of David. Their faith was exhibited by their acknowledgment of Jesus as the Lord and their desperate plea for him to have mercy on them. Their cry proved the ardor of their desire and overcame any fear they had. Jesus, moved by their faith, stood still and opened their eyes, granting them the restoration they so eagerly desired.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.7582874113942732,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+        "commentatorTierSimilarities": [
+            39.19,
+            25.82,
+            35.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "That Jesus passed by [\u03bf\u03c4\u03b9 \u03b9\u03b7\u03c3\u03bf\u03c5\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b3\u03b5\u03b9] . The oti is equivalent to quotation marks. They heard the crowd cry Jesus is passing! "
+        ],
+        "John Calvin": [
+            "They confer on Christ no ordinary honor, when they request him to have mercy, and relieve them.",
+            "Their faith is still more clearly exhibited by their acknowledgment of him as Messiah...",
+            "The cry proved the ardor of the desire; for... their fear was overcome by the ardor of desire, so that they did not refrain, on this account, from raising their voice aloud."
+        ],
+        "Philip Schaff": [
+            "Mark and Luke mention but one (\u2018blind Bartimeus, the son of Timeus\u2019), probably a well-known person, and hence especially mentioned.",
+            "Lord, have mercy on us, thou Son of David, the better supported order."
+        ],
+        "Archibald T. Robertson": [
+            "It was their one opportunity, now or never.",
+            "They hail him as 'the son of David' (the Messiah).",
+            "Jesus stood still and opened their eyes."
+        ],
+        "John Gill": [
+            "the titles of honour they give him, which declare their faith in him; calling him Lord, expressing their sense of his deity, dominion, and power; and 'Son of David,' thereby owning and professing him to be the Messiah",
+            "the petition they make is, that he would 'have mercy on them,' who, through blindness, were in a poor, helpless, and miserable condition",
+            "being eagerly desirous of having their sight, and firmly believing that he was able to restore it to them"
+        ],
+        "John Wesley": [
+            "Behold two blind men cried out.",
+            "He was far the more eminent of the two.",
+            "...spoke for both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus passed by, the blind men recognized their one opportunity and cried out, hailing him as the Messiah, the son of David. Their faith was exhibited by their acknowledgment of Jesus as the Lord and their desperate plea for him to have mercy on them. Their cry proved the ardor of their desire and overcame any fear they had. Jesus, moved by their faith, stood still and opened their eyes, granting them the restoration they so eagerly desired.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7582874113942732,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                39.19,
+                25.82,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus, the son of David, passed by, the blind men recognized their one opportunity and hailed him as the Messiah. Their cry for mercy reflected their faith and ardor of desire for Jesus to restore their sight. Jesus, moved by their acknowledgement of him as the Lord, stood still and opened their eyes, relieving them from their helpless and miserable condition. Their plea demonstrated their belief in Jesus' deity, dominion, and power, as they eagerly desired and firmly believed that he was able to grant them their request.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7366280371210991,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                38.32,
+                26.6,
+                35.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus passed by, the blind men recognized this as their one opportunity and hailed him as the Messiah, the son of David. Their cry for mercy revealed their faith and desperate desire for Jesus to restore their sight. Jesus, acknowledging their acknowledgment, stood still and opened their eyes, relieving them from their helpless and helpless condition. Their plea expressed their belief in Jesus' deity, dominion, and power, as they fervently desired and firmly believed he could grant their request.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.700839693984783,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                38.48,
+                26.39,
+                35.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus passed by, the blind men recognized their one opportunity and passionately cried out, acknowledging him as the Messiah, the Son of David. Their plea demonstrated their faith and their belief in Jesus' ability to have mercy on them in their helpless and miserable condition. Their fervent desire for sight overcame any fear they had, compelling them to raise their voice without restraint. Jesus, moved by their faith, stood still and granted their request by opening their eyes, allowing them to witness the miracle of restoration.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6483418579309943,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.15,
+            "commentatorTierSimilarities": [
+                38.94,
+                24.99,
+                36.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus passed by, the blind men recognized their only chance and cried out, acknowledging him as the Messiah, the Son of David. Their plea expressed their faith and belief in Jesus' ability to have mercy on their helpless condition. The intensity of their desire for sight overcame their fear, prompting them to raise their voices without hesitation. Jesus, moved by their faith, stood still and opened their eyes, granting them the miracle they fervently sought.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6334175498349126,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                40.3,
+                23.35,
+                36.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

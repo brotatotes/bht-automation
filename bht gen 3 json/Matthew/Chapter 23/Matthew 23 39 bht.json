@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:52:10",
+    "verseRef": "Matthew 23:39",
+    "bestBHT": {
+        "bht": "Jesus declares that He will not reveal Himself until the people repent and recognize Him as their Messiah. This prophetic moment will occur when all of Israel acknowledges Him with joyful hearts, saying, Blessed is He who comes in the name of the Lord. The departure of Jesus signifies the desertion and desolation of the temple, for the glory of God has departed from Jerusalem. The desolation will persist until the appointed time when Israel will be converted and seek the Lord their God, recognizing Jesus as their Redeemer and Judge.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.6573261337687677,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+        "commentatorTierSimilarities": [
+            35.76,
+            25.76,
+            38.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He did not shew Himself to all the people after His resurrection, but only to chosen witnesses.\" ",
+            "Until that day, the subject of all prophecy, when your repentant people shall turn with true and loyal Hosannas and blessings to greet \u2018Him whom they have pierced.\" ",
+            "He who reads not this in the prophets, reads not yet the prophets aright."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Does Jesus mean that He was Himself the Lord",
+            "\tof the temple, and that it became 'deserted' when HE",
+            "\tfinally left it? It is even so.",
+            "Now is thy fate sealed, O Jerusalem,",
+            "\tfor the glory is departed from thee!",
+            "Till those 'Hosannas to the Son of David' with which the multitude had welcomed Him into the city... should break forth from the whole nation, as their glad acclaim to their once pierced, but now acknowledged, Messiah."
+        ],
+        "Albert Barnes": [
+            "We are not to copy the example of wicked people, though they are our teachers or rulers.",
+            "Our highest honor is in humility, and he is most exalted who is most lowly.",
+            "The reason why the wicked are not saved is their own obstinacy."
+        ],
+        "John Calvin": [
+            "For that was the accepted time, the day of salvation, so long as that very person who had come to be their Redeemer, attested and proclaimed the redemption which he had brought.",
+            "And even the adverb until extends no farther than to the time which goes before.",
+            "So then the true meaning of the present passage, in my opinion, is this: 'Hitherto I have lived among you in humility and kindness, and have discharged the office of a teacher; and now having finished the course of my calling, I shall depart, and it will not be possible for you any longer to enjoy my presence, but him whom you now despise as a Redeemer and a minister of salvation, you will find to be your Judge.'"
+        ],
+        "Philip Schaff": [
+            "Ye shall not see me henceforth. A solemn declaration of His withdrawal from His ministry among them.",
+            "Till ye shall say, etc. This refers to the future conversion of the Jews.",
+            "Blessed is he that cometh, etc. The heavy judgments would inevitably come, but hope still remains."
+        ],
+        "John Gill": [
+            "This shows the reason of their house being desolate, and in what sense it should be so, and immediately became so; namely, by being then directly, and ever after, destitute of his presence.",
+            "until the time comes, that the fulness of the Gentiles shall be brought in, and all Israel shall be saved, the Jews shall be converted, and seek the Lord their God, and David their king.",
+            "when they shall readily and cheerfully say these words to Christ, who will then appear in his glory."
+        ],
+        "John Wesley": [
+            "Ye shall not see me from this time - Which includes the short space till his death, till, after a long interval of desolation and misery...",
+            "Ye say, Blessed is he that cometh in the name of the Lord - Ye receive me with joyful and thankful hearts.",
+            "This also shall be accomplished in its season."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of Jesus proclaiming that the people will not see Him until they acknowledge Him as their Messiah. This is a reference to the time when Jesus, the chosen witness, will be received with glad acclaim by the nation, and they will say, Blessed is He who comes in the name of the Lord. The departure of Jesus from Jerusalem signifies the desertion and desolation of the temple, as the glory has departed. This points to the future conversion of the Jews, when all Israel will be saved and they will seek the Lord their God, acknowledging Jesus as their Redeemer and Judge. The house of Israel will remain desolate until that appointed time.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.609587043635339,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                34.49,
+                28.8,
+                36.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus declares that He will not reveal Himself until the people repent and recognize Him as their Messiah. This prophetic moment will occur when all of Israel acknowledges Him with joyful hearts, saying, Blessed is He who comes in the name of the Lord. The departure of Jesus signifies the desertion and desolation of the temple, for the glory of God has departed from Jerusalem. The desolation will persist until the appointed time when Israel will be converted and seek the Lord their God, recognizing Jesus as their Redeemer and Judge.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6573261337687677,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                35.76,
+                25.76,
+                38.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus reveals that He will not show Himself to all the people after His resurrection, but only to chosen witnesses. This signifies a future moment when the repentant people of Israel will turn with genuine praise and blessings to acknowledge the One whom they had pierced. The departure of Jesus from Jerusalem symbolizes the departure of glory and the sealing of Jerusalem's fate. However, there is hope as the day will come when the entire nation will joyfully acclaim their once-pierced, now recognized, Messiah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6152896880814496,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "commentatorTierSimilarities": [
+                39.78,
+                26.49,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After His resurrection, Jesus did not reveal Himself to all the people, but only to chosen witnesses. This indicates a future time when the repentant people of Israel will acknowledge Him whom they have pierced with genuine adoration and blessings. The departure of Jesus from Jerusalem signifies the forsakenness of the temple and the sealed fate of the city. However, there is hope in the anticipation of the day when the whole nation will unite in joyful acclamation to their once-pierced, but now acknowledged, Messiah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.5708140137906317,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                41.85,
+                24.34,
+                33.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus declares that He will not reveal Himself until the people acknowledge Him as their Messiah. This is a reference to the future conversion of the Jews, when all Israel will be saved and recognize Jesus as their Redeemer and Judge. The departure of Jesus signifies the desertion and desolation of the temple, as the glory has departed. The house of Israel will remain desolate until the appointed time when they joyfully acclaim their once-pierced, now recognized, Messiah.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.6568098567188647,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                35.98,
+                27.97,
+                36.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

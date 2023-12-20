@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:52:54",
+    "verseRef": "Matthew 25:7",
+    "bestBHT": {
+        "bht": "The folly of the foolish virgins was in not making provision against the oil's exhaustion, by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former keeps their lamps trimmed by putting fresh oil and removing any hindrances, while the latter relies on their fellow virgins and only makes superficial preparations. Despite their awakenings of conscience, the foolish virgins were destitute of the oil of grace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.026249093485519,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+        "commentatorTierSimilarities": [
+            29.76,
+            30.84,
+            39.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is not enough to have burnt, but to be burning, when He comes.",
+            "Raise the wick as they will, what avails it if the oil is spent?",
+            "Trimmed by pouring on fresh oil, and removing the fungi about the wick."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their folly consisted in not making provision against its exhaustion, by taking with their lamp an oil-vessel wherewith to replenish their lamp from time to time.",
+            "Certainly not. Since the parable was designed to hold forth the prepared and the unprepared to meet Christ at His coming, and how the unprepared might, up to the very last, be confounded with the prepared.",
+            "But this is evidently just a structural device; and the real difference between the two classes who profess to love the Lord's appearing is a radical one\u2014the possession by the one class of an enduring principle of spiritual life, and the want of it by the other."
+        ],
+        "Albert Barnes": [
+            "Trimmed their lamps - Burning until midnight, the oil was exhausted: they gave a dim and obscure light.\" ",
+            "It was needful, also, to dip them again in oil, or to pour oil upon them.",
+            "This strikingly represents the conduct of most people at the approach of death."
+        ],
+        "Marvin Vincent": [
+            "Then arose all the virgins, those former ones.\" ",
+            "Their lamps, emphasizing the personal preparation in contrast with the foolish, who depended for supply on their fellows.\" ",
+            "After waiting two or three hours, at length near midnight it was announced, in the very words of Scripture, 'Behold the bridegroom cometh; go ye out to meet him.'"
+        ],
+        "Philip Schaff": [
+            "Mere trimming does little good, if there is no oil.",
+            "The foolish virgins were not lacking in effort.",
+            "But mere trimming does little good, if there is no oil."
+        ],
+        "Archibald T. Robertson": [
+            "Trimmed (\u03b5\u03ba\u03bf\u03c3\u03bc\u03b7\u03c3\u03b1\u03bd). Put in order, made ready.",
+            "The wicks were trimmed, the lights being out while they slept, fresh oil put in the dish, and lit again.",
+            "After waiting two or three hours, at length near midnight it was announced, as in the very words of Scripture, 'Behold the bridegroom cometh; go ye out to meet him.'"
+        ],
+        "John Gill": [
+            "True believers may fall into a very low condition, with respect to the exercise of grace, and discharge of duty; but they shall arise again, for they are held and upheld by the right hand of God.",
+            "The foolish virgins also arose; which may intend some awakenings of conscience, and reformation of life, and a more diligent attendance on duties and ordinances; all which they did to make them meet for Christ, and to obtain salvation; but after all it appears, they were destitute of the oil of grace.",
+            "The former [wise virgins] by removing what hindered the clear burning of them; by casting off the works of darkness, and causing the light of good works to shine before men, in the discharge of them, from a principle of grace; and chiefly by applying to Christ for fresh supplies of the oil of grace, to fill their lamps, revive their light and heat, and keep them burning: and the latter [foolish virgins], only by a few outward decorations, and external performances; to make their outward profession of religion look as bright as possibly they could."
+        ],
+        "John Wesley": [
+            "They trimmed their lamps \u2014 They examined themselves and prepared to meet their God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is not enough to have burnt, but to be burning when He comes. The folly of the foolish virgins consisted in not making provision against the oil's exhaustion, by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former class constantly keeps their lamps trimmed, putting fresh oil and removing any hindrances, while the latter relies on their fellow virgins and only makes superficial preparations. Despite their awakenings of conscience and attempts at reform, the foolish virgins were destitute of the oil of grace.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9054058123540416,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                31.44,
+                29.79,
+                38.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is not enough to have burnt, but to be burning when He comes. The folly of the foolish virgins consisted in not making provision against the oil's exhaustion, by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former constantly keeps their lamps trimmed, putting fresh oil and removing any hindrances, while the latter relies on their fellow virgins and only makes superficial preparations. Despite their awakenings of conscience, the foolish virgins were destitute of the oil of grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.932393183876978,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                31.68,
+                31.53,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is not enough to have burnt, but to be burning when He comes. The foolish virgins' folly was in not making provision against the oil's exhaustion, by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former keeps their lamps trimmed by putting fresh oil and removing any hindrances, while the latter relies on their fellow virgins and only makes superficial preparations. Despite their awakenings of conscience, the foolish virgins were destitute of the oil of grace.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.945222081451492,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                31.57,
+                31.65,
+                36.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The folly of the foolish virgins was in not making provision against the oil's exhaustion, by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former keeps their lamps trimmed by putting fresh oil and removing any hindrances, while the latter relies on their fellow virgins and only makes superficial preparations. Despite their awakenings of conscience, the foolish virgins were destitute of the oil of grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.026249093485519,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+            "commentatorTierSimilarities": [
+                29.76,
+                30.84,
+                39.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The foolish virgins' folly consisted in not making provision against the oil's exhaustion by taking an oil-vessel to replenish their lamp. The real difference between the prepared and unprepared is the possession of an enduring principle of spiritual life. The former keeps their lamps trimmed, putting fresh oil and removing hindrances, while the latter relies on their fellow virgins and makes superficial preparations. Despite their awakenings of conscience, the foolish virgins lacked the oil of grace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.011158286118038,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                30.18,
+                30.85,
+                38.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

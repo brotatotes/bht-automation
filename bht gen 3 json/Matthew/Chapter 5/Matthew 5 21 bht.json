@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:43:56",
+    "verseRef": "Matthew 5:21",
+    "bestBHT": {
+        "bht": "The true meaning of the law was degraded and restricted until Jesus came to fulfill and glorify it. The commandment against killing was reduced to a mere criminal statute, focusing solely on outward actions. However, Jesus clarifies that it extends even to thoughts and feelings. The interpretation of the scribes, although correct, is incomplete.",
+        "wordCount": 54,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.662338777426787,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+        "commentatorTierSimilarities": [
+            35.91,
+            35.07,
+            29.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The contrasts here are not between the law misunderstood and the law rightly understood, but between the law and its ancient exposition.\" ",
+            "The just and holy and true law was necessarily restricted in meaning and degraded in position, until He came, whose office it was to fulfil and glorify it.",
+            "The judgment in the next verse is the court of judgment in the Messiah's kingdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This being all that the law requires, whosoever has imbrued his hands in his brother's blood, but he only, is guilty of a breach of this commandment.",
+            "Thus was this commandment reduced, from a holy law of the heart-searching God, to a mere criminal statute, taking cognizance only of outward actions.",
+            "Either as opposed to it\u2014as some go the length of affirming\u2014or at least as modifying, enlarging, elevating it."
+        ],
+        "Albert Barnes": [
+            "He [Jesus] illustrates what he meant by that better righteousness by showing that the common opinions of the scribes were erroneous.",
+            "This properly denotes taking the life of another with malice, or with an intention to murder him. The Jews understood it as meaning no more. The comment of our Saviour shows that it was spiritual, and was designed to extend to the thoughts and feelings as well as the external act.",
+            "The judgment - This was the tribunal that had cognizance of cases of murder, etc. It was a court that sat in each city or town, and consisted commonly of seven members."
+        ],
+        "John Calvin": [
+            "It is a mistake, however, to suppose that this is an \u1f10\u03c0\u03b1\u03bd\u1f79\u03c1\u03b8\u03c9\u03c3\u03b9\u03c2 , or correction (397) of the Law, and that Christ raises his disciples to a higher degree of perfection, than Christ could raise a gross and carnal nation...",
+            "That the doctrine of the law not only commences, but brings to perfection, a holy life, may be inferred from a single fact, that it requires a perfect love of God and of our neighbor...",
+            "But as the law had been corrupted by false expositions, and turned to a profane meaning, Christ vindicates it against such corruptions, and points out its true meaning, from which the Jews had departed."
+        ],
+        "Philip Schaff": [
+            "As the passage is from the law, the indefinite phrase, 'it was said,' cannot be referred to a false teacher or author of tradition.\" ",
+            "Thou shalt not kill. From the Decalogue, the sixth commandment (Exodus 20:13), the first of the second table; the fifth belongs rather to the first table, containing duties to God.\" ",
+            "Whosoever shall kill, commit actual murder, shall be in danger of the judgment, i.e., subject to trial by an earthly court, probably the one in the place he lived. The interpretation of the scribes; correct, but not complete."
+        ],
+        "John Gill": [
+            "Ye have heard,.... That is, from the Scriptures being read to them, and the explanations of the ancients, which were called 'hearing'\".",
+            "Their rules for the judgment of such persons were these; 'everyone that kills his neighbour with his hand...must be put to death by the house of judgment, or the sanhedrim\". ",
+            "A little after, it is said, 'their judgment' is delivered to heaven, i.e. to God; and this seems to be the sense of the word 'judgment' here, namely, the judgment of God, or death by the hand of God\"."
+        ],
+        "John Wesley": [
+            "Thou shalt do no murder - And they interpreted this, as all the other commandments, barely of the outward act.",
+            "The Jews had in every city a court of twenty-three men, who could sentence a criminal to be strangled.",
+            "But the sanhedrim only (the great council which sat at Jerusalem, consisting of seventy-two men,) could sentence to the more terrible death of stoning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The contrasts in this verse are not between misunderstood and rightly understood law, but between the ancient exposition of the law and the law itself. The true meaning of the law was degraded and restricted until Jesus came to fulfill and glorify it. The judgment mentioned in the next verse refers to the court of judgment in the Messiah's kingdom. The commandment not to kill was reduced to a mere criminal statute, only concerned with outward actions. However, Jesus clarifies that it extends to encompass thoughts and feelings as well. The interpretation of the scribes, though correct, is not complete.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.767575399354274,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+            "commentatorTierSimilarities": [
+                37.55,
+                33.96,
+                28.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law's true meaning was degraded and restricted until Jesus came to fulfill and glorify it. The judgment mentioned in the next statement refers to the court in the Messiah's kingdom. The commandment against killing was reduced to a mere criminal statute, focused only on outward actions. However, Jesus clarifies that it extends to thoughts and feelings as well. The interpretation of the scribes, though correct, is not complete.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.6208759142663614,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                35.12,
+                36.16,
+                28.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The true meaning of the law was degraded and restricted until Jesus came to fulfill and glorify it. The commandment against killing was reduced to a mere criminal statute, focusing solely on outward actions. However, Jesus clarifies that it extends even to thoughts and feelings. The interpretation of the scribes, although correct, is incomplete.",
+            "wordCount": 54,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.662338777426787,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                35.91,
+                35.07,
+                29.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The contrasts in this passage are not between the law misunderstood and the law rightly understood, but between the law and its ancient exposition. The commandment not to kill was reduced to a mere criminal statute, taking note only of outward actions. However, Jesus clarifies that it extends to encompass thoughts and feelings as well. The interpretation of the scribes, though correct, is not complete. The judgment mentioned in the following verse refers to the court of judgment in the Messiah's kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6834927872001346,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                36.8,
+                35.24,
+                27.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law's true meaning was degraded and restricted until Jesus came to fulfill and glorify it. The commandment against killing was reduced to a mere criminal statute, focusing solely on outward actions. However, Jesus clarifies that it extends even to thoughts and feelings. The interpretation of the scribes, though correct, is incomplete. The judgment mentioned refers to the court in the Messiah's kingdom.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.629198645057143,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
+            "commentatorTierSimilarities": [
+                35.69,
+                35.76,
+                28.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

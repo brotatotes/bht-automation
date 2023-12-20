@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:43:42",
+    "verseRef": "Matthew 4:18",
+    "bestBHT": {
+        "bht": "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers. The circumstances related in John's account provide the reason why these two brothers were so ready to follow someone they had never seen. The sea mentioned here is the small lake of Gennesaret, also known as the sea of Galilee. The net referred to is a casting-net, thrown over the shoulder and spread into a circle. The fact that the first people Christ called to the ministry were uneducated fishermen serves to show His power and confound human wisdom.",
+        "wordCount": 98,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.8378040476537838,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+        "commentatorTierSimilarities": [
+            41.31,
+            32.0,
+            26.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If we give any consideration to the circumstances here related, we cannot fail to see that the account in John is admirably calculated to complete the narrative.",
+            "We have there furnished to us the reason why these two brethren were so ready to arise and follow One, whom, if we had this account only, we should infer they had never before seen.",
+            "The circumstance related in John xxi, that even after they were assured of the Resurrection, the Apostles returned to their occupation as fishermen, gives additional probability to the usual nation of the call in our text."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word 'Jesus' here appears not to belong to the text, but to have been introduced from those portions of it which were transcribed to be used as church lessons; where it was naturally introduced as a connecting word at the commencement of a lesson.\"[Commentary]",
+            "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers.\" [Commentary]",
+            "'Called Peter' for the reason mentioned in\" [Commentary]"
+        ],
+        "Albert Barnes": [
+            "There is no part of Palestine, it is said, which can be compared in beauty with the environs of this lake.",
+            "The lake is fed mainly by the Jordan; but besides this there are several great fountains and streams emptying into it during the rainy seasons, which pour an immense amount of water into it, raising its level several feet above the ordinary mark.",
+            "The waters of the lake are sweet and pleasant to the taste, and clear."
+        ],
+        "Marvin Vincent": [
+            "The sea [\u03c4\u03b7\u03bd \u03b8\u03b1\u03bb\u03b1\u03c3\u03c3\u03b1\u03bd] . The small lake of Gennesaret, only thirteen miles long and six wide in its broadest part, is called the sea, by the same kind of popular usage by which Swiss and German lakes are called See; as the Konigsee, the Trauensee.\" ",
+            "So, also, in Holland we have the Zuyder Zee. The Latin mare (the sea) likewise becomes meer in Holland, and is used of a lake, as Haarlemmer Meer; and in England, mere, as appears in Windermere, Grasmere, etc.\" ",
+            "A net [\u03b1\u03bc\u03c6\u03b9\u03b2\u03bb\u03b7\u03c3\u03c4\u03c1\u03bf\u03bd] . From ajmfi, around, and ballw, to throw. Hence the casting - net, which, being cast over the shoulder, spreads into a circle [\u03b1\u03bc\u03c6\u03b9]."
+        ],
+        "John Calvin": [
+            "But miracles, which took place nearly about the same time, are freely intermixed.",
+            "If they had been previously called, it would follow that they were apostates, who had forsaken their Master, despised their calling, and returned to their former occupation.",
+            "There is, therefore, no absurdity in saying, that a miracle, which is related by one, has been passed over by the other two."
+        ],
+        "Philip Schaff": [
+            "The omission of the word \u2018Jesus\u2019 connects this verse closely with what precedes; the \u2018walking\u2019 was while preaching.\" ",
+            "The sea of Galilee or lake of Gennesaret... is a body of water of oval shape, from twelve to fourteen miles long and about half as broad.",
+            "Casting a net. They were busy at their usual avocation, for they were fishers. This does not imply special poverty or ignorance."
+        ],
+        "Archibald T. Robertson": [
+            "The word here for net is a casting-net... The net was thrown over the shoulder and spread into a circle.\" ",
+            "In Matthew 4:20 and Matthew 4:21 another word occurs for nets... nets of any kind.",
+            "The large drag-net appears in Matthew 13:47."
+        ],
+        "John Gill": [
+            "Of this mean employment were the very first persons Christ was pleased to call to the work of the ministry; men of no education, who made no figure in life, but were despicable and contemptible: this he did, to make it appear, that they were not qualified for such service of themselves; that all their gifts and qualifications were from him; to show his own power; to confound the wisdom of the wise; and to let men see, that none ought to glory in themselves, but in him.",
+            "The Jews have a notion of the word of God and prophecy being received and embraced only by such sort of persons: says R. Isaac Arama f, 'his word came to heal all, but some particular persons only receive it; and who of all men are of a dull understanding, \u05d3\u05d9\u05d9\u05d2\u05d9\u05dd \u05e2\u05d1\u05d3\u05d9 \u05d4\u05d9\u05dd, 'fishermen, who do business in the sea': this is what is written; 'they that go down to the sea in ships, that do business in great waters, these see the works of the Lord': these seem not indeed fit to receive anything that belongs to the understanding, because of their dulness; and yet these receive the truth of prophecy and vision, because they believe his word.'",
+            "I cannot but think, that some respect is had to these fishers, in Ezekiel 47:10 'it shall come to pass that fishers shall stand upon it': that is, upon, or by the river of waters, said in Ezekiel 47:8 to 'issue out toward the east country, and go down into the desert': which both R. Jarchi and Kimchi understand of the sea of Tiberias; the same with the sea of Galilee, by which Christ walked; and where he found these fishers at work, and called them."
+        ],
+        "John Wesley": [
+            "Mark 1:16; Luke 5:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers. The circumstances here related in John's account give us the reason why these two brothers were so ready to follow someone they had never before seen. Even after being assured of the Resurrection, the Apostles returned to their occupation as fishermen. The sea mentioned here refers to the small lake of Gennesaret, also known as the sea of Galilee. The net mentioned is a casting-net, thrown over the shoulder and spread into a circle. It is worth noting that the first persons Christ called to the ministry were fishermen, men of no education who made no figure in life, yet chosen to show God's power and confound the wise.",
+            "wordCount": 129,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.8181400093567803,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                40.43,
+                28.86,
+                30.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simon called Peter and Andrew his brother, casting a net into the sea, for they were fishers. The account in John complements this narrative by explaining why they were so willing to follow someone they had never seen before, as even after the Resurrection they returned to fishing. The sea referred to is the small lake of Gennesaret, also known as the sea of Galilee, and the net they used was a casting-net thrown over the shoulder and spread into a circle. These fishermen, of no education and despised in society, were chosen by Christ to display His power and humble human wisdom.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.9512413683316687,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                38.02,
+                31.69,
+                30.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers. The circumstances related in John's account provide the reason why these two brothers were so ready to follow someone they had never seen. The sea mentioned here is the small lake of Gennesaret, also known as the sea of Galilee. The net referred to is a casting-net, thrown over the shoulder and spread into a circle. The fact that the first people Christ called to the ministry were uneducated fishermen serves to show His power and confound human wisdom.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.8378040476537838,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                41.31,
+                32.0,
+                26.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers. The account in John provides the reason why these two brothers followed someone they had never seen before. Even after the Resurrection, the Apostles returned to their occupation as fishermen. The sea mentioned refers to the small lake of Gennesaret, also known as the sea of Galilee. The net used is a casting-net thrown over the shoulder and spread into a circle. It is noteworthy that the first individuals Christ called to the ministry were uneducated fishermen, meant to showcase His power and humble human wisdom.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.814625359736966,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                40.7,
+                30.39,
+                28.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon called Peter and Andrew his brother, casting a net into the sea; for they were fishers. The account in John provides the reason why these two brothers followed someone they had never seen before. After the Resurrection, the Apostles returned to their occupation as fishermen. The sea mentioned refers to the small lake of Gennesaret, also known as the sea of Galilee. The net used is a casting-net thrown over the shoulder and spread into a circle. The fact that the first individuals Christ called to the ministry were uneducated fishermen demonstrates His power and humbles human wisdom.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.8067694964063246,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+            "commentatorTierSimilarities": [
+                40.66,
+                30.48,
+                28.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:49:16",
+    "verseRef": "Matthew 16:24",
+    "bestBHT": {
+        "bht": "This discourse is a solemn sequel to our Lord\u2019s rebuke of Peter, teaching that not only He, but also His followers, must suffer and self-deny. They all have a life to save, more precious than all else to them. Let him deny himself, and take up his cross, and follow me. He would do better to face squarely his own cross and bear it after Jesus, keeping on following His example. It is a call to renounce worldly desires, embrace the crosses of life willingly, and submit to God's will.",
+        "wordCount": 93,
+        "quoteTokenProportion": 51.43,
+        "qualityScore": 1.8575913373485884,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+        "commentatorTierSimilarities": [
+            42.08,
+            21.81,
+            36.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This discourse is a solemn sequel to our Lord\u2019s announcement respecting Himself and the rebuke of Peter: teaching that not only He, but also His followers, must suffer and self-deny.\" ",
+            "They all have a life to save, more precious than all else to them.\" ",
+            "The great day of account of that life\u2019s welfare should be ever before them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then said Jesus unto his disciples\u2014Mark says, 'When He had called the people unto Him, with His disciples also, He said unto them'\u2014turning the rebuke of one into a warning to all.",
+            "If any man will come after me, let him deny himself, and take up his cross, and follow me.",
+            "Let him deny himself, and take up his cross, and follow me."
+        ],
+        "John Calvin": [
+            "If any man would be my disciple, let him follow me by denying himself and taking up his cross, or, let him conform himself to my example.",
+            "The meaning is, that none can be reckoned to be the disciples of Christ unless they are true imitators of him, and are willing to pursue the same course.",
+            "The patience of the saints, therefore, consists in bearing willingly the cross which has been laid on them."
+        ],
+        "Philip Schaff": [
+            "A religion of force cannot be Christ's religion.",
+            "Let him renounce self as the object of supreme regard; this involves the relinquishment of all that interferes with the higher object.",
+            "The reference is to readiness to endure for Christ, even death in its worst form. It includes of course all minor forms of endurance."
+        ],
+        "Archibald T. Robertson": [
+            "Take up his cross... Pick up at once, aorist tense.\" ",
+            "He would do better to face squarely his own cross and to bear it after Jesus.",
+            "Follow... Present tense. Keep on following."
+        ],
+        "John Gill": [
+            "let him deny sinful self, ungodliness, and worldly lusts; and part with them, and his former sinful companions, which were as a part of himself",
+            "let him deny righteous self, and renounce all his own works of righteousness, in the business of justification and salvation",
+            "let him drop and banish all his notions and expectations of an earthly kingdom, and worldly grandeur, and think of nothing but reproach, persecution, and death, for the sake of his Lord and Master"
+        ],
+        "John Wesley": [
+            "Let him deny himself, and take up his cross - A rule that can never be too much observed: let him in all things deny his own will, however pleasing, and do the will of God, however painful.",
+            "Should we not consider all crosses, all things grievous to flesh and blood, as what they really are, as opportunities of embracing God's will at the expense of our own?",
+            "We may in these daily and hourly crosses make effectual oblations of our will to God; which oblations, so frequently repeated, will soon amount to a great sum."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 16:24, Jesus delivers a solemn message to his disciples, teaching them that just as He must suffer and deny Himself, they too must do the same. He emphasizes the value of their life and the importance of prioritizing their eternal welfare. By using the metaphor of taking up one's cross, Jesus calls His followers to face their own trials and sufferings, following Him and imitating His example. This requires a complete renunciation of self and a readiness to endure even the worst forms of suffering for the sake of Christ. It is a call to deny one's sinful desires and worldly ambitions, as well as to relinquish personal notions of fame and glory. Jesus urges His disciples to continuously, persistently, and willingly follow Him, embracing the crosses that come their way as opportunities to surrender their own wills and embrace God's.",
+            "wordCount": 145,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.709843201815938,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                30.45,
+                28.33,
+                41.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This discourse is a solemn sequel to our Lord\u2019s rebuke of Peter, teaching that not only He, but also His followers, must suffer and self-deny. They all have a life to save, more precious than all else to them. Let him deny himself, and take up his cross, and follow me. He would do better to face squarely his own cross and bear it after Jesus, keeping on following His example. It is a call to renounce worldly desires, embrace the crosses of life willingly, and submit to God's will.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.8575913373485884,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                42.08,
+                21.81,
+                36.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus emphasizes that His disciples must be willing to endure suffering and self-denial, just as He does. They are urged to prioritize their eternal well-being above all else and to follow His example by denying themselves, taking up their cross, and persistently following Him. This entails renouncing sinful desires, worldly ambitions, and personal expectations. It is a call to embrace the hardships of life as opportunities to surrender one's own will and embrace God's plan.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.648506914444718,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                32.21,
+                25.29,
+                42.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this teaching from Jesus, He reveals that both He and His disciples must embrace suffering and self-denial. They all possess a precious life that cannot be prioritized over anything else. Through the metaphor of taking up one's cross, Jesus calls His followers to openly face their own hardships and to bear them following His example. This ongoing commitment involves denying oneself, renouncing worldly desires and ambitions, and persistently following Him. It is an invitation to willingly endure for Christ and to submit to God's will above all else.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.6090190685192125,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+            "commentatorTierSimilarities": [
+                31.72,
+                28.75,
+                39.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this solemn teaching, Jesus emphasizes the necessity for His disciples to suffer and deny themselves, in parallel with His own journey. The value of their life and the importance of their eternal welfare should always be at the forefront of their minds. Taking up one's cross is an urgent call to squarely confront personal trials and wholeheartedly follow in Jesus' footsteps. This requires a renunciation of self, endurance through even the harshest tribulations, and a persistent commitment to follow Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6631833104316311,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                32.56,
+                29.7,
+                37.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:45:59",
+    "verseRef": "Matthew 10:1",
+    "bestBHT": {
+        "bht": "Notice that the disciples were not chosen at this point, but rather empowered and authorized by Jesus for a specific mission. He gave them power and authority, not only to heal the sick, cast out demons, and raise the dead, but also to preach the gospel. These men were plain, honest, and trustworthy witnesses, uniquely qualified to testify about Jesus and His teachings. The number twelve, symbolizing the Trinity indwelling in the world, holds great significance. Jesus equipped them with heavenly power to heal physical ailments and cure souls through the preaching of the Gospel.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.9618453377545553,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+        "commentatorTierSimilarities": [
+            26.46,
+            37.67,
+            35.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notice, that this is not the choosing, but merely the mission of the twelve.",
+            "The choosing had taken place some time before, but is not any where distinctly detailed by the Evangelists.",
+            "On the characteristic differences between this discourse and that delivered to the Seventy (Luke x. 1 ff.) see notes there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word signifies both 'power' and 'authority' or 'right.' Even if it were not evident that here both ideas are included, we find both words expressly used in the parallel passage of Luke.\" ",
+            "He both qualified and authorized them.",
+            "He gave them power and authority."
+        ],
+        "Albert Barnes": [
+            "Their office was clearly made known. They were to heal the sick, cast out devils, raise the dead, preach the gospel.\" ",
+            "They were just such men as are always found the best witnesses in courts of justice - plain men, of good sense, of fair character, of great honesty, and with favorable opportunities of ascertaining the facts to which they bore witness.",
+            "No witnesses were ever so well qualified to give testimony as they, and none ever gave so much evidence of their sincerity as they did."
+        ],
+        "Marvin Vincent": [
+            "The disciples [\u03c4\u03bf\u03c5\u03c2 \u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03c2] . The or his, referring to them as already chosen, though he nowhere relates their choosing. See Mark 3:14; Luke 6:13."
+        ],
+        "John Calvin": [
+            "Formerly, they were held in expectation of future labor: now, Christ announces that the hour is come when they must put their hands to the work.\" (Commentary)",
+            "It is of great importance to observe this, that we may not suppose it to be a certain and fixed rule laid down for all ministers of the word when our Lord gives instructions to the preachers of his doctrine as to what he wishes them to do for a short time.\" (Commentary)",
+            "By enabling them to perform miracles, Christ invests them with the badges of heavenly power, in order to secure the confidence and veneration of the people.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "They are now sent out as 'laborers.' Henceforward they are 'Apostles'...with a definite mission...",
+            "...to heal, as Christ did, by the authority He gave them, so as to attest the truth of the message they bore respecting Christ and His teachings.",
+            "The number twelve (3 \u00d7 4) has been considered a symbol of the Trinity (3) indwelling in the world (4)."
+        ],
+        "Archibald T. Robertson": [
+            "They were chosen before the Sermon on the Mount was delivered, but Matthew did not mention it in connection with that sermon.",
+            "Hence it is not fair to say that Matthew knows only the charge to heal the sick, important as that is.",
+            "But intelligent faith does not justify us in abstaining from the help of the physician who must not be confounded with the quack and the charlatan."
+        ],
+        "John Gill": [
+            "He gave them power against unclean spirits, to cast them out.\" ",
+            "He likewise gave them power to heal all manner of sicknesses, and all manner of diseases, as he himself had done.\" ",
+            "At the same time they were sent to preach the Gospel, for the cure of the souls of men, they were empowered to heal the diseases of their bodies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were not chosen at this point, but rather empowered and authorized by Jesus to go on a specific mission. The word used here signifies both power and authority, highlighting that Jesus equipped them with both. Their role was clearly defined: healing the sick, casting out demons, raising the dead, and preaching the gospel. These men were plain, honest, and trustworthy individuals who were the best witnesses to testify about Jesus and His teachings. They were sent out as laborers with a definite mission, to heal by the authority given to them, thus confirming the truth of their message. The number twelve, symbolizing the Trinity indwelling in the world, holds great significance. Jesus not only enabled them to perform miracles but also entrusted them with the responsibility of healing physical ailments and preaching the gospel for the spiritual well-being of humanity.",
+            "wordCount": 143,
+            "quoteTokenProportion": 38.54,
+            "qualityScore": 1.9456646235921478,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                26.12,
+                39.29,
+                34.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Notice that the disciples were not chosen at this point, but rather empowered and authorized by Jesus for a specific mission. He gave them power and authority, not only to heal the sick, cast out demons, and raise the dead, but also to preach the gospel. These men were plain, honest, and trustworthy witnesses, uniquely qualified to testify about Jesus and His teachings. The number twelve, symbolizing the Trinity indwelling in the world, holds great significance. Jesus equipped them with heavenly power to heal physical ailments and cure souls through the preaching of the Gospel.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9618453377545553,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                26.46,
+                37.67,
+                35.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were not chosen, but rather given power and authority by Jesus for a specific mission. They were plain, honest witnesses who were qualified to testify about Jesus and His teachings. The number twelve serves as a symbol of the Trinity indwelling in the world. Jesus entrusted them with the power to heal physical ailments and cure souls through preaching the Gospel. They were empowered to heal the sick, cast out demons, raise the dead, and preach the truth of Jesus' message.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.951913951069674,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                24.66,
+                39.58,
+                35.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were not chosen at this point, but rather empowered and authorized by Jesus for a specific mission. He both qualified and authorized them, giving them power and authority to heal the sick, cast out demons, raise the dead, and preach the gospel. They were plain, honest witnesses, uniquely qualified to testify about Jesus and His teachings. The number twelve holds great significance, symbolizing the Trinity indwelling in the world. Through these miraculous powers, the disciples were entrusted with both physical healing and the spiritual healing of souls.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.942902463499756,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                27.64,
+                38.1,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were not chosen, but rather given power and authority by Jesus for a specific mission. They were plain, honest witnesses who were qualified to testify about Jesus and His teachings. The number twelve symbolizes the Trinity indwelling in the world. Jesus empowered them to heal physical ailments and preach the Gospel, confirming the truth of their message. They were equipped with heavenly power to heal the sick, cast out demons, raise the dead, and proclaim the good news of Jesus' teachings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.958812359168658,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                24.77,
+                40.54,
+                34.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:51:46",
+    "verseRef": "Matthew 23:36",
+    "bestBHT": {
+        "bht": "This generation will face the consequences of their accumulated iniquity, as the Amorites did in the past and during the French Revolution. Their national punishment, a culmination of hypocrisy and persecution, would be executed in this world. Eventually, Jerusalem would see the fulfillment of Christ's prophecy, with the guilt of their actions imputed and the punishment inflicted upon the nation 40 years later.",
+        "wordCount": 63,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 1.8636012237200095,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+        "commentatorTierSimilarities": [
+            33.09,
+            34.57,
+            32.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All these things shall come upon this generation\u2014As it was only in the last generation of them that \"the iniquity of the Amorites was full\" and then the abominations of ages were at once completely and awfully avenged...",
+            "...the iniquity of Israel was allowed to accumulate from age to age till in that generation it came to the full, and the whole collected vengeance of heaven broke at once over its devoted head.",
+            "In the first French Revolution the same awful principle was exemplified, and Christendom has not done with it yet."
+        ],
+        "Albert Barnes": [
+            "Upon this generation - The destruction of Jerusalem took place about forty years after this was spoken. See the next chapter."
+        ],
+        "Philip Schaff": [
+            "The punishment was a national one, to be executed in this world upon that generation, \u2018as the last in a progressive series of such hypocrites and persecutors.\u2019\" ",
+            "National judgments are often thus delayed and suddenly executed.",
+            "The Jews were the nation chosen for the manifestation of God\u2019s mercy, and having repeatedly rejected Him and His messengers, this generation which rejected His Son became the vessels of His wrath."
+        ],
+        "John Gill": [
+            "Verily I say unto you, all these things shall come upon this generation; all the things which Christ had foretold should come to pass in the present age.",
+            "The guilt of them imputed to them, and the punishment due unto them be inflicted on them.",
+            "And which came to pass, and had its full accomplishment about forty years after this, in the utter destruction of Jerusalem, and the whole nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that this generation will face the consequences of their accumulated iniquity and be subject to a devastating judgment. Just as in the past, when the Amorites experienced the full force of God's retribution, and during the French Revolution when a similar principle was demonstrated, Christ's contemporaries would bear the weight of God's wrath. This punishment was not individual, but rather national, imposed on the entire generation as the culmination of a long line of hypocrisy and persecution. Forty years later, the destruction of Jerusalem would fulfill Christ's prophecy, with the guilt of their actions being imputed and the punishment finally inflicted upon the nation.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.9010644083925217,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                35.92,
+                34.72,
+                29.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This generation will face the consequences of their accumulated iniquity, as the Amorites did in the past and during the French Revolution. Their national punishment, a culmination of hypocrisy and persecution, would be executed in this world. Eventually, Jerusalem would see the fulfillment of Christ's prophecy, with the guilt of their actions imputed and the punishment inflicted upon the nation 40 years later.",
+            "wordCount": 63,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.8636012237200095,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                33.09,
+                34.57,
+                32.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This generation, marked by their accumulated iniquity, will bear the weight of the Lord's retributive judgment, mirroring the consequences faced by the Amorites and during the French Revolution. The punishment inflicted upon them will be collective, a national manifestation of divine wrath for their persistent rejection of God and His messengers. The impending destruction of Jerusalem will serve as the full realization of Christ's prophecy, fulfilling the guilt and punishment upon the entire nation, as foretold forty years prior.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.7935435053089785,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                31.78,
+                34.83,
+                33.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This generation will face the culmination of their iniquity with the execution of divine vengeance. Similar to the iniquity of the Amorites and the French Revolution, their accumulated guilt will be avenged collectively. As a consequence of their rejection of God and His messengers, the impending destruction of Jerusalem will bring about the fulfillment of Christ's prophecy. The guilt of their actions will be imputed, and their punishment will be fully accomplished upon the nation, as foretold 40 years prior.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.748997787591631,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                35.37,
+                31.88,
+                32.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This generation will experience the full consequences of their iniquity, just as the Amorites did, and during the French Revolution. The impending punishment is not individual, but national, a culmination of their hypocrisy and persecution. The destruction of Jerusalem, foretold by Christ, will serve as the ultimate fulfillment of this prophecy. The guilt of their actions will be imputed, leading to the complete downfall of the nation, as prophesied 40 years beforehand.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.8038797391044936,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+            "commentatorTierSimilarities": [
+                33.69,
+                34.57,
+                31.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

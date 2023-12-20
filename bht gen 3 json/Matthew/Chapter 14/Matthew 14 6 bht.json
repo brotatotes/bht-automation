@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:48:12",
+    "verseRef": "Matthew 14:6",
+    "bestBHT": {
+        "bht": "The damsel's name was Salome, daughter of Herodias by her former husband Philip, and she later married her uncle Philip. The dance she performed was a pantomimic dance, part of a birthday celebration. The custom of celebrating birthdays by festivities was not approved by strict Jews, but it was adopted by the Herodian princes. Salome's dance, prearranged by Herodias, was a shameful exhibition of lewd dancing designed to accomplish her purpose of having John the Baptist killed. Public and private dancing can often provoke evil passions, even unintentionally.",
+        "wordCount": 90,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.9408749664944827,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+        "commentatorTierSimilarities": [
+            36.74,
+            43.9,
+            19.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The damsel\u2019s name was Salome, daughter of Herodias by her former husband Philip.\" ",
+            "She afterwards married her uncle Philip, tetrarch of Itur\u00e6a and Trachonitis.",
+            "The dance was probably a pantomimic dance."
+        ],
+        "Marvin Vincent": [
+            "The custom of celebrating birthdays by festivities was not approved by the strict Jews; but it is claimed that the Herodian princes adopted the custom.",
+            "The Roman satirist, Persius, alludes to a festival known as 'Herod's Day,' and pictures a banquet on that occasion.",
+            "Before [\u03b5\u03bd \u03c4\u03c9 \u03bc\u03b5\u03c3\u03c9] . Rev., in the midst. Wyc., leaped in the middle."
+        ],
+        "John Calvin": [
+            "But nothing is so pure that the world shall not taint it with its own vices.",
+            "The wicked murder of a holy prophet.",
+            "Let us therefore learn to be careful in anticipating and resisting the devil, lest he entangle us in such snares."
+        ],
+        "Philip Schaff": [
+            "The dancing seems to have taken place late in the entertainment, when all were more or less intoxicated.",
+            "The dance was a pantomime probably of a voluptuous character, and was performed 'in the midst,' with the intoxicated party forming a circle about her.",
+            "Public dancing (and often private dancing) calls forth evil passions, even if not designed to do so."
+        ],
+        "Archibald T. Robertson": [
+            "The word \u03b3\u03b5\u03bd\u03b5\u03c3\u03b9\u03b1 in the papyri (Fayum Towns, 114-20, 115-8, 119-30) is always a birthday feast as here in Matthew and Mark.",
+            "The earlier Greeks used the word \u03b3\u03b5\u03bd\u03b5\u03c3\u03b9\u03b1 for funeral commemorations (birthdays of the dead), \u03b3\u03b5\u03bd\u03b5\u03b8\u03bb\u03b9\u03b1 being the word for birthday celebrations of living persons.",
+            "It was a shameful exhibition of lewd dancing prearranged by Herodias to compass her purpose for John's death."
+        ],
+        "John Gill": [
+            "And it might also be a question, whether it was the then present Herod's birthday, or whether it was not his father Herod's, was it not that Mark says, Mark 6:21 it was his birthday.",
+            "This they did, believing him to be the Messiah.",
+            "The pleasure he had did not arise merely from the respect and honour shown to him and his birthday, by her appearing with so much cheerfulness on this occasion before him; who had taken her father's wife from him, and defiled her mother; but from the airs, gestures, and motions of the lady in dancing; which were so extremely fine and regular, that she gave wonderful satisfaction and delight to Herod, and the whole company."
+        ],
+        "John Wesley": [
+            "The daughter of Herodias \u2014 Afterward infamous for a life suitable to this beginning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The damsel's name was Salome, daughter of Herodias by her former husband Philip, and she later married her uncle Philip. The dance she performed was a pantomimic dance, which was part of a birthday celebration. This type of celebration was not approved by strict Jews, but the Herodian princes adopted the custom. Salome's dance was a prearranged exhibition of lewd dancing orchestrated by Herodias to achieve her goal of having John the Baptist killed. Public and private dancing can often lead to the arousal of evil passions, even if not intended to do so.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8752989978847174,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                35.62,
+                44.75,
+                19.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The damsel's name was Salome, daughter of Herodias by her former husband Philip, and she married her uncle Philip. The dance was a pantomimic dance, part of a birthday celebration. This was not approved by strict Jews, but the Herodian princes adopted the custom. Salome's dance was a prearranged exhibition of lewd dancing orchestrated by Herodias to achieve her goal of having John the Baptist killed. Public and private dancing can often lead to the arousal of evil passions, even if not intended.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.809296921273865,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                36.37,
+                44.22,
+                19.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The damsel's name was Salome, daughter of Herodias by her former husband Philip, and she later married her uncle Philip. The dance she performed was a pantomimic dance, part of a birthday celebration. The custom of celebrating birthdays by festivities was not approved by strict Jews, but it was adopted by the Herodian princes. Salome's dance, prearranged by Herodias, was a shameful exhibition of lewd dancing designed to accomplish her purpose of having John the Baptist killed. Public and private dancing can often provoke evil passions, even unintentionally.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9408749664944827,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                36.74,
+                43.9,
+                19.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The damsel's name was Salome, daughter of Herodias by her former husband Philip, and she married her uncle Philip. The dance was a pantomimic dance, part of a birthday celebration. The custom of celebrating birthdays with festivities was not approved by strict Jews. Salome's dance, prearranged by Herodias, was a shameful exhibition of lewd dancing aimed at achieving John the Baptist's death. Public and private dancing can incite evil passions, even unintentionally.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9039985559113641,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                37.08,
+                43.74,
+                19.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salome, daughter of Herodias by Philip, performed a pantomimic dance during a birthday celebration. Though not endorsed by strict Jews, the Herodian princes embraced this custom. Salome's prearranged lewd dance was orchestrated by Herodias to ensure the death of John the Baptist. Public and private dancing have the potential to stimulate evil passions.",
+            "wordCount": 54,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.7740864033490835,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                34.21,
+                43.05,
+                22.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

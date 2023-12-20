@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:48:21",
+    "verseRef": "Matthew 15:1",
+    "bestBHT": {
+        "bht": "The Pharisees and Jews, except they wash their hands, hold on to the tradition of the elders. Jerusalem is the center of this conspiracy against Jesus, with the Pharisees leading the resistance. The Scribes and Pharisees from Jerusalem were the most learned and influential, making it clear that they had come to challenge Jesus. They are strict in their observance of purity laws, including washing their hands before eating. The Pharisees and scribes are keeping a close eye on Jesus, teaming up with Galilean Pharisees to oppose him.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.11340032211244,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.61,
+        "commentatorTierSimilarities": [
+            31.63,
+            39.06,
+            29.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For the Pharisees, and all the Jews, except they wash their hands oft...eat not, holding the tradition of the elders.\" ",
+            "And when they come from the market...except they wash, they eat not. And many other things there be, which they have received to hold.",
+            "Then the Pharisees and scribes asked Him."
+        ],
+        "Marvin Vincent": [
+            "Transgress [\u03c0\u03b1\u03c1\u03b1\u03b2\u03b1\u03b9\u03bd\u03bf\u03c5\u03c3\u03b9\u03bd] . Lit., to step on one side."
+        ],
+        "John Calvin": [
+            "A vast number of men, as if it were a light and trivial matter to obey God and to keep what he enjoins, collect for themselves, on every hand, many additions.",
+            "The worship of God is corrupted, of which the first and leading principle is obedience. The authority of men is preferred to the command of God.",
+            "An outrage is committed against God, when the inventions of men are so highly extolled, that the majesty of his law is almost lowered, or at least the reverence for it is abated."
+        ],
+        "Philip Schaff": [
+            "From Jerusalem Pharisees and scribes. Not \u2018scribes and Pharisees,\u2019 but representatives of the party of the Pharisees, including \u2018scribes.\u2019\" ",
+            "They came apparently with a definite and hostile purpose (comp. Mark 7:1), probably to aid the Galilean Pharisees.",
+            "Possibly a formal deputation from the Sanhedrin"
+        ],
+        "Archibald T. Robertson": [
+            "Jerusalem is the headquarters of the conspiracy against Jesus with the Pharisees as the leaders in it.",
+            "Unusual order here, 'Pharisees and scribes.'",
+            "'The guardians of tradition in the capital have their evil eye on Jesus and co-operate with the provincial rigorists' (Bruce), if the Pharisees were not all from Jerusalem."
+        ],
+        "John Gill": [
+            "The Scribes and Pharisees, who were his inveterate enemies, hearing thereof, came to him, where he was, in Galilee: to know the truth of these things, to converse with him, and to watch, and observe, what he said and did.\" ",
+            "There were Scribes and Pharisees throughout the land, but those of Jerusalem were the chief; they were men of the greatest learning and abilities, and were more expert in their religion and customs.\" ",
+            "These were either sent by the sanhedrim at Jerusalem, or came of themselves; taking upon them a greater power, and authority of examining, correcting, directing, and advising."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and all the Jews, except they wash their hands, hold on to the tradition of the elders. They are strict in their observance of purity laws, including washing their hands before eating. Jerusalem is the center of this conspiracy against Jesus, with the Pharisees leading the resistance. The Pharisees and scribes, the guardians of tradition, are keeping a close eye on Jesus, even teaming up with Galilean Pharisees to oppose him. The Scribes and Pharisees from Jerusalem were the most learned and influential, making it clear that they had come to challenge Jesus.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.1025406662509467,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                31.96,
+                38.58,
+                29.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and all the Jews, except they wash their hands, hold on to the tradition of the elders. Jerusalem is the center of this conspiracy against Jesus, with the Pharisees leading the resistance. The Scribes and Pharisees from Jerusalem were the most learned and influential, making it clear that they had come to challenge Jesus. They are strict in their observance of purity laws, including washing their hands before eating. The Pharisees and scribes, the guardians of tradition, are keeping a close eye on Jesus, even teaming up with Galilean Pharisees to oppose him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.1025406662509467,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                31.96,
+                38.58,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees and Jews, except they wash their hands, hold on to the tradition of the elders. Jerusalem is the center of this conspiracy against Jesus, with the Pharisees leading the resistance. The Scribes and Pharisees from Jerusalem were the most learned and influential, making it clear that they had come to challenge Jesus. They are strict in their observance of purity laws, including washing their hands before eating. The Pharisees and scribes are keeping a close eye on Jesus, teaming up with Galilean Pharisees to oppose him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.11340032211244,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.61,
+            "commentatorTierSimilarities": [
+                31.63,
+                39.06,
+                29.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, together with all the Jews, hold to the tradition of washing their hands before eating, which they consider a crucial aspect of their religious observance. Jerusalem serves as the hub of the opposition against Jesus, with the Pharisees taking the lead. They closely monitor Jesus, even collaborating with the Galilean Pharisees to counter him. These Jerusalem-based Scribes and Pharisees possess extensive knowledge and authority, highlighting their intention to confront Jesus.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.046510833301796,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                30.58,
+                40.14,
+                29.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and all the Jews strictly adhere to the tradition of washing their hands before eating, which they consider an essential practice. Jerusalem plays a pivotal role in the conspiracy against Jesus, with the Pharisees leading the opposition against him. The Scribes and Pharisees from Jerusalem, renowned for their expertise and influence, have come with the purpose of challenging Jesus. Their observance of purity laws, including handwashing, is punctiliously upheld, and they closely watch Jesus, even collaborating with Galilean Pharisees in their efforts to oppose him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.0454532051475507,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                29.93,
+                38.59,
+                31.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

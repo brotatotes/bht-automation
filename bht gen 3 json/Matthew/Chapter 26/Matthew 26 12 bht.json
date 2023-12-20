@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:17",
+    "verseRef": "Matthew 26:12",
+    "bestBHT": {
+        "bht": "Mary's act of anointing Jesus' body with oil was not simply an act of devotion, but a conscious recognition of his impending death and burial. Mary alone truly understood Jesus' words about his approaching death, and her anointing was her way of expressing her deep emotions and loyalty. Jesus commended her for reserving the anointing for his burial, using this act to confirm what he had previously said about his impending death and to testify that his grave would yield a sweet odor of life and salvation for the entire world.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.1418129417597855,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+        "commentatorTierSimilarities": [
+            40.57,
+            31.68,
+            27.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I can hardly think that our Lord would have said this, unless there had been in Mary\u2019s mind a distinct reference to His burial, in doing the act.",
+            "All the company surely knew well that His death, and that by crucifixion, was near at hand: can we suppose one who so closely observed his words as Mary, not to have been possessed with the thought of that which was about to happen?",
+            "The 'she is come aforehand to anoint' of Mark (xiv. 8), and the 'against the day of my burying hath she kept this' of John (xii. 7), point even more strongly to her intention."
+        ],
+        "John Calvin": [
+            "It was because he wished to testify by this symbol, that his grave would yield a sweet odor, as it breathed life and salvation through the whole world.",
+            "Christ praised Mary for having reserved that anointing till the day of his burial.",
+            "Christ...perfumed not one house, but the whole world, by the quickening odor of his death."
+        ],
+        "Philip Schaff": [
+            "If she was conscious of the meaning of her own act, then her love discerned what the disciples could not perceive.",
+            "The Lord gives to acts of love a significance beyond the intention.",
+            "The expressions in Mark 14:8; John 12:7, imply that she had a presentiment of an impending crisis, after which anointing would be unnecessary or impossible."
+        ],
+        "Archibald T. Robertson": [
+            "Mary alone had understood what Jesus had repeatedly said about his approaching death.",
+            "Mary with the woman's fine intuitions did begin to understand and this was her way of expressing her high emotions and loyalty.",
+            "Mary was vindicated by Jesus and her noble deed has become a 'memorial of her' as well as of Jesus."
+        ],
+        "John Gill": [
+            "For in that she hath poured this ointment...upon my body.\" ",
+            "She did it for my burial.",
+            "She hath done it, as it were, to bury me."
+        ],
+        "John Wesley": [
+            "She hath done it for my burial \u2014 As it were for the embalming of my body.",
+            "Indeed this was not her design: but our Lord puts this construction upon it.",
+            "To confirm thereby what he had before said to his disciples, concerning his approaching death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary's act of anointing Jesus' body with oil was not simply an act of devotion, but a conscious recognition of his impending death and burial. While the disciples may not have fully grasped the significance of Jesus' words about his impending death, Mary understood and expressed her deep loyalty to him. Jesus commended her for this act, testifying to its symbolic meaning. Her anointing became a memorial both for Jesus and herself. It was an act of love that carried a significance beyond her intention. In pouring the oil on Jesus' body, she was, in a way, burying him and confirming his earlier words about his approaching death. Through this act, Jesus testified that his grave would yield a sweet odor, symbolizing the life and salvation his death would bring to the world.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.9659445019893211,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                37.97,
+                34.56,
+                27.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' body with oil was not simply an act of devotion, but a conscious recognition of his impending death and burial. Mary alone truly understood Jesus' words about his approaching death, and her anointing was her way of expressing her deep emotions and loyalty. Jesus commended her for reserving the anointing for his burial, using this act to confirm what he had previously said about his impending death and to testify that his grave would yield a sweet odor of life and salvation for the entire world.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1418129417597855,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                40.57,
+                31.68,
+                27.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In her act of anointing Jesus with oil, Mary demonstrated her understanding of his impending death and burial. Jesus praised her for reserving the anointing for this purpose, indicating that it was more than just an expression of devotion. Mary's act spoke to her deep emotions and loyalty, and Jesus used it as a confirmation of his earlier words about his approaching death. Through this act, Jesus symbolically testified that his grave would bring life and salvation, permeating the entire world with its fragrance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.025083262297171,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                40.51,
+                31.66,
+                27.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary's anointing of Jesus with oil was not simply an act of devotion, but a conscious recognition of his impending death and burial. Jesus commended Mary for reserving this anointing for his burial, confirming his earlier teachings about his approaching death. Through this act, Mary expressed her deep emotions and loyalty, understanding what the disciples failed to perceive. In symbolically anointing Jesus, she testified to the sweet fragrance of life and salvation that would emanate from his grave and extend to the entire world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9860311494392568,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                41.25,
+                31.74,
+                27.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' body with oil went beyond mere devotion; it revealed her understanding of his imminent death and burial. Jesus praised her, confirming his earlier words about his approaching death. Through this act, Mary expressed her deep emotions and loyalty, perceiving what the disciples failed to understand. Her anointing became a powerful symbol, testifying to the sweet fragrance of life and salvation that would emanate from Jesus' grave and impact the entire world. Mary's noble deed stands as a memorial, parallel to that of Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.8890109254263254,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                42.8,
+                30.36,
+                26.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

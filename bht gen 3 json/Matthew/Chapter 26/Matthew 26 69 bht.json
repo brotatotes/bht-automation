@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:00",
+    "verseRef": "Matthew 26:69",
+    "bestBHT": {
+        "bht": "As Jesus stood before the High Priest, Peter stayed outside in the palace courtyard, where a servant girl approached him and accused him of being with Jesus. Peter, fearful of the consequences, denied any association with Jesus. This banter was likely seen as light ridicule rather than a serious accusation. Peter's fear and weakness caused him to crumble under pressure. It serves as a reminder that without God's strength, we easily waver and fall, highlighting the importance of remaining steadfast in our faithfulness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.439189272658161,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.2,
+        "commentatorTierSimilarities": [
+            23.58,
+            35.26,
+            41.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An oriental house is usually built round a quadrangular interior court; into which there is a passage (sometimes arched) through the front part of the house...\" (Commentary, Matthew 26:69).",
+            "In the text, the interior court, often paved or flagged, and open to the sky, is the \u2018hall,\u2019 where the attendants made a fire...\" (Commentary, Matthew 26:69).",
+            "The place where Jesus stood before the High Priest may have been an open room or place of audience on the ground floor, in the rear or on one side of the court...\" (Commentary, Matthew 26:69)."
+        ],
+        "Albert Barnes": [
+            "This 'palace' was the large hall or court belonging to the residence of the high priest.",
+            "Yet, as Matthew says, he sat without in the palace - that is, out of the palace where they were trying Jesus - to wit, in the lower part of the hall with the servants.",
+            "Probably she suspected him from his being in company with John. This was in the early part of the trial of Jesus."
+        ],
+        "Marvin Vincent": [
+            "A damsel [\u03bc\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03c3\u03ba\u03b3\u03b7] . Lit., one damsel, because the writer has in mind a second one (ver. 71)."
+        ],
+        "John Calvin": [
+            "any man, who is not supported by the hand of God, will instantly fall by a slight gale or the rustling of a falling leaf.",
+            "our strength is so far from being sufficient to resist powerful attacks, that it will give way, when there is the mere shadow of a battle.",
+            "God gives us the just reward of our treachery when he disarms and strips us of all power, so that, when we have thrown off the fear of him, we tremble for a mere nothing."
+        ],
+        "Philip Schaff": [
+            "But warming one\u2019s self with Christ\u2019s enemies has its dangers.",
+            "Probably contemptuous banter, or light ridicule, not with a view to serious accusation.",
+            "The maid seems to have followed him into the court, repeating the banter, which he repelled in the different words recorded by the different Evangelists."
+        ],
+        "Archibald T. Robertson": [
+            "Thou also wast with Jesus the Galilean.",
+            "Peter was warming himself by the fire and the light shone in his face.",
+            "She probably had noticed Peter come in with John the Beloved Disciple who went on up into the hall of trial."
+        ],
+        "John Gill": [
+            "Indeed, the ill usage he met with from his enemies, their spitting in his face, buffeting him with their fists, smiting him on the cheeks with their hands, and rods, did not give him so much pain and grief, as to be denied by his own disciple.",
+            "we are before told, Matthew 26:58, that Peter followed Christ afar off, and went into the high priest's palace, and sat with the servants there, to see what would be the end and issue of these things: and here now he was in the apartment, where the council sat, and were examining and trying Jesus...",
+            "when she charges him with being 'with' him, her meaning is not, that he was with him in the garden, when he was taken; where it cannot be thought she was to see him; nor with him in the temple, or in any part of Jerusalem, where she possibly might have seen him; but that he was a disciple of his, one that believed in him, embraced him as the Messiah, had imbibed his principles and doctrines, and was of his party; and was only come thither as a spy, to see what would be done to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of Jesus' trial, Peter found himself in the courtyard of the high priest's residence. As he warmed himself by the fire, a servant girl approached him, recognizing him as one who had been with Jesus. This banter was likely seen as light ridicule rather than a serious accusation. Yet, Peter's fear and weakness caused him to deny any association with Jesus, fearing the consequences. In this moment, Peter's loyalty wavered, and he crumbled under the pressure. It is a reminder that, without God's strength, we are easily swayed and can fall with the slightest gust of opposition. Peter's denial serves as a sobering warning that even in the face of adversity, our faithfulness should remain steadfast.",
+            "wordCount": 124,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.4445158830879716,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                24.88,
+                35.76,
+                39.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus stood before the High Priest, Peter stayed outside in the palace courtyard, where a servant girl approached him and accused him of being with Jesus. Peter, fearful of the consequences, denied any association with Jesus. This banter was likely seen as light ridicule rather than a serious accusation. Peter's fear and weakness caused him to crumble under pressure. It serves as a reminder that without God's strength, we easily waver and fall, highlighting the importance of remaining steadfast in our faithfulness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.439189272658161,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.2,
+            "commentatorTierSimilarities": [
+                23.58,
+                35.26,
+                41.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the courtyard of the high priest's residence, as Peter warmed himself by the fire, a servant girl recognized him as one who had been with Jesus. Though her words may have been a light ridicule, Peter's fear and weakness led him to deny any association with Jesus. This moment serves as a powerful reminder of the fragility of our own faithfulness and the need for God's strength to withstand even the slightest opposition. Without His support, we are prone to falter in our loyalty and devotion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.3923747641694186,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                20.99,
+                31.75,
+                47.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the court of the high priest, Peter, warming himself by the fire, was recognized by a servant girl as one who had been with Jesus. The girl's words carried a tinge of banter, not a serious accusation. However, consumed by fear and weakness, Peter denied any association with Jesus. This moment reveals the frailty of human faithfulness and serves as a stark reminder of the need for God's strength to withstand even the slightest opposition. Without His support, we are liable to crumble and abandon our convictions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.3456653758792787,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.09,
+            "commentatorTierSimilarities": [
+                23.75,
+                34.25,
+                41.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the palace courtyard of the high priest, Peter found himself accused by a servant girl of being with Jesus. The girl's words, likely intended as banter rather than a serious charge, struck fear in Peter's heart. Fueled by weakness and apprehension, he denied any association with Jesus. This episode underscores the fragility of our own faithfulness and highlights the necessity of relying on God's strength in the face of adversity. Without His support, we risk faltering and abandoning our convictions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.3395107013748344,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.88,
+            "commentatorTierSimilarities": [
+                21.02,
+                34.66,
+                44.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

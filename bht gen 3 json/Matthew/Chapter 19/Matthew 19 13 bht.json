@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:13",
+    "verseRef": "Matthew 19:13",
+    "bestBHT": {
+        "bht": "Jesus's encounter with the children illustrates his care for even the youngest members of society, despite the disciples initially viewing them as a distraction. Jesus rebukes the disciples and welcomes the children, demonstrating the importance of their presence. The act of touching or laying hands on the children signifies a common practice of blessing and consecrating individuals in Jewish culture. This encounter highlights Jesus's willingness to embrace not only those who approach him willingly, but also those who may not yet realize their need for his grace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.660774337138755,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+        "commentatorTierSimilarities": [
+            27.49,
+            35.21,
+            37.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Evangelist has that he should put his hands on them, and pray (see Gen. xlviii. 14: Acts vi. 6), where the other two have only \u2018that He should touch them.\u2019\" (Author)",
+            "The connexion in which it stands here and in Mark seems to be natural, immediately after the discourse on marriage.\" (Author)",
+            "Some further remarks of our Lord, possibly on the fruit of marriage, may have given rise to the circumstance.\" (Author)"
+        ],
+        "Albert Barnes": [
+            "All the Jews were accustomed to devote their children to God by circumcision. It was natural, therefore, under the new dispensation, that it should be done.\" ",
+            "It was customary among the Jews, when blessings were sought for others in prayer, to lay the hands on the head of the person prayed for, implying a kind of consecration to God.",
+            "The disciples rebuked them - That is, reproved them, or told them it was improper. This they did, probably, either: 1. Because they thought that they were too young; or, 2. Because they thought that they would be troublesome to their Master."
+        ],
+        "John Calvin": [
+            "This narrative is highly useful; for it shows that Christ receives not only those who, moved by holy desire and faith, freely approach to him, but those who are not yet of age to know how much they need his grace.",
+            "But hence we learn, that they who judge of Christ according to the feeling of their flesh are unfair judges; for they constantly deprive him of his peculiar excellencies, and, on the other hand, ascribe, under the appearance of honor, what does not at all belong to him.",
+            "And therefore let us learn not to think of him otherwise than what himself teaches, and not to assign to him a character different from what he has received from the Father."
+        ],
+        "Philip Schaff": [
+            "An encouragement to parents to bring even 'infants' to Christ.",
+            "A recognition of Christ's power to bless, since He healed by laying on His hands.",
+            "Abstract theories about household relations should not stand between the Lord and little children."
+        ],
+        "Archibald T. Robertson": [
+            "It is a tragedy to make children feel that they are in the way at home and at church.",
+            "How little they understood children and Jesus.",
+            "The new child world of today is due directly to Jesus."
+        ],
+        "John Gill": [
+            "Nor is it known whose children they were, whether their parents were believers or unbelievers, nor by whom they were brought.",
+            "It was common with them to bring their children to venerable persons, men of note for religion and piety, to have their blessing and prayers.",
+            "From this rebuke and prohibition of the disciples, it looks plainly as if it had never been the practice of the Jews, nor of John the Baptist, nor of Christ and his disciples, to baptize infants; for had this been then in use, they would scarcely have forbid and rebuked those that brought them."
+        ],
+        "John Wesley": [
+            "That he should lay his hands on them.",
+            "The disciples rebuked them.",
+            "Mark 10:13; Luke 18:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus's encounter with the children in Matthew 19:13 is significant, as it demonstrates his care and love for even the youngest members of society. The disciples initially misunderstood this, possibly viewing the children as a distraction or inconvenience. However, Jesus reprimands them and welcomes the children, emphasizing the importance of their presence. It is worth noting that the mention of Jesus touching them or laying his hands on them reflects a common practice of blessing and consecrating individuals in Jewish culture. By embracing the children, Jesus showed that he not only welcomes those who come to him freely but also those who may not yet fully comprehend their need for his grace.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.694717715774324,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                30.48,
+                32.26,
+                37.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's encounter with the children illustrates his care for even the youngest members of society, despite the disciples initially viewing them as a distraction. Jesus rebukes the disciples and welcomes the children, demonstrating the importance of their presence. The act of touching or laying hands on the children signifies a common practice of blessing and consecrating individuals in Jewish culture. This encounter highlights Jesus's willingness to embrace not only those who approach him willingly, but also those who may not yet realize their need for his grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.660774337138755,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                27.49,
+                35.21,
+                37.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's encounter with the children reveals his care for even the youngest members of society. Although initially rebuked by the disciples, Jesus welcomes the children, highlighting the importance of their presence. The act of touching or laying hands on them reflects the Jewish practice of blessing and consecrating individuals. This demonstrates that Jesus not only welcomes those who approach Him willingly but also embraces those who may not fully understand their need for His grace. His acceptance of children exemplifies His love and compassion for all.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5669474162108314,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                29.74,
+                34.18,
+                36.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's encounter with the children emphasizes his care for the youngest members of society, despite their initial rebuke by the disciples. Jesus welcomes the children, showing the significance of their presence. The act of touching or laying hands on them mirrors the Jewish practice of blessing and consecrating individuals. This acts as a reminder that Jesus not only embraces those who willingly approach him, but also extends his love and grace to those who may not fully comprehend their need for him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.62455109168868,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                29.1,
+                34.52,
+                36.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's encounter with the children in this passage represents his deep care for even the youngest members of society, despite the disciples initially disapproving. Jesus welcomes the children, demonstrating the significance of their presence. The act of touching or laying hands on them echoes the Jewish tradition of blessing and consecration. This incident serves as a powerful reminder that Jesus not only embraces those who approach him willingly, but extends his love and grace to those who may not fully understand their need for him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.5988054019792002,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                28.75,
+                35.47,
+                35.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

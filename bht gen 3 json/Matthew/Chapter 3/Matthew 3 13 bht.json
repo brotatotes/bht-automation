@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:43:07",
+    "verseRef": "Matthew 3:13",
+    "bestBHT": {
+        "bht": "In this account, Jesus, being sinless, comes to be baptized by John as an act of obedience and to fulfill all righteousness. His baptism signifies the transition from His concealed life of legal submission to His public life of mediatorial satisfaction. By participating in this baptism, Jesus demonstrates His approval of John's baptismal practice and receives a testimony from heaven and John affirming His identity as the Son of God and true Messiah. This act of baptism symbolically represents believers being united with Christ, buried with Him in baptism, and rising to newness of life.",
+        "wordCount": 96,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 2.1666350548908646,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+        "commentatorTierSimilarities": [
+            26.64,
+            37.83,
+            35.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Why should our Lord, who was without sin, have come to a baptism of repentance? Because He was made sin for us: for which reason also He suffered the curse of the law.",
+            "The prophetic words in Ps, xl. 12, spoken in the person of our Lord, indicate, in the midst of sinlessness, the most profound apprehension of the sins of that nature which He took upon him.",
+            "His baptism, as it was our Lord\u2019s closing act of obedience under the Law, in His hitherto concealed life of legal submission, His fulfilling all righteousness, so was His solemn inauguration and anointing for the higher official life of mediatorial satisfaction which was now opening upon Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not so this greater than Moses.",
+            "Now it had arrived and this movement from Galilee to Jordan is the step, doubtless, of deepest interest to all heaven.",
+            "Thus, as He rode into Jerusalem upon an ass 'whereon yet never man sat' and lay in a sepulchre 'wherein was never man yet laid', so in His baptism, too. He would be 'separate from sinners.'"
+        ],
+        "Albert Barnes": [
+            "The expression 'cometh' implies that the act was voluntary on his part; that he went for that purpose and for no other.",
+            "It is to be remembered, also, that it was the main purpose of John\u2019s appointment to introduce the Messiah to the world.",
+            "Baptism was not in his case a symbol of personal reformation and repentance, for he was sinless; but it was a solemn rite by which he was set apart to his great office."
+        ],
+        "John Calvin": [
+            "He received the same baptism with us, in order to assure believers, that they are ingrafted into his body, and that they are 'buried with him in baptism,' that they may rise to 'newness of life.'\"  ",
+            "The general reason why Christ received baptism was, that he might render full obedience to the Father; and the special reason was, that he might consecrate baptism in his own body, that we might have it in common with him.\"  ",
+            "Say nothing for the present... Let us rather consider what our calling demands, and what has been enjoined on us by God the Father."
+        ],
+        "Philip Schaff": [
+            "Jesus who was sinless, came to a baptism \u2018unto repentance.\u2019 This condescension formed a part of the obedience to the Divine law...",
+            "The Jews were baptized in token of uncleanness, so He, \u2018numbered with the transgressors,\u2019 must needs go through the rites and purifications prescribed for them.",
+            "This act closes the concealed life of quiet subjection and legal submission, opening the public life of mediatorial satisfaction."
+        ],
+        "Archibald T. Robertson": [
+            "He comes all the way from Galilee to Jordan 'to be baptized by him.'",
+            "The fame of John had reached Nazareth and the hour has come for which Jesus has waited.",
+            "The genitive articular infinitive of purpose, a very common idiom."
+        ],
+        "John Gill": [
+            "Now when John had given notice of the Messiah's coming, and so had prepared his way... then cometh Jesus...\" ",
+            "[Jesus] does not send for [John], though John was his servant, and he was his Lord and Master.",
+            "[Jesus' purpose in being baptized] was to show his approbation of John's baptism, and to bear a testimony of it, that it was from heaven; and also that he himself might receive a testimony both from heaven, and from John, that he was the Son of God and true Messiah..."
+        ],
+        "John Wesley": [
+            "Mark 1:9; Luke 3:21"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 3:13, Jesus, who was without sin, willingly comes to the baptism of repentance as part of His obedience and fulfillment of the law. This act marks the transition from His concealed life of legal submission to His public life of mediatorial satisfaction. By being baptized, Jesus not only sets apart Himself for His great office, but also demonstrates His approval of John's baptism and receives a testimony from heaven and from John that He is the Son of God and true Messiah. This baptism serves as a symbolic representation of believers being ingrafted into His body, buried with Him in baptism, and rising to newness of life.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.0417652527728185,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                26.45,
+                37.8,
+                35.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus, sinless and without the need for personal repentance, willingly goes to be baptized by John to fulfill the law and show His approval of John's baptism. It marks the end of His concealed life of legal submission and the beginning of His public life of mediatorial satisfaction. By being baptized, Jesus sets Himself apart for His divine purpose and receives a testimony from heaven and John, affirming His status as the Son of God and true Messiah. This baptism also symbolizes believers being united with Christ and rising to a new life.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9818999509497948,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                25.4,
+                38.49,
+                36.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Jesus, sinless and absent of personal need for repentance, voluntarily presents Himself for baptism by John, signaling the conclusion of His concealed life of obedient submission to the law and the initiation of His public life of fulfilling divine satisfaction. His baptism signifies His endorsement of John's practices and serves as a testament, affirmed by heaven and John, of His identity as the Son of God and true Messiah. Through this act, Jesus also symbolically reveals the believer's inclusion in His body and their spiritual renewal.",
+            "wordCount": 91,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 2.0947858312707393,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.99,
+            "commentatorTierSimilarities": [
+                26.08,
+                37.48,
+                36.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Jesus, being sinless, comes to be baptized by John as an act of obedience and to fulfill all righteousness. His baptism signifies the transition from His concealed life of legal submission to His public life of mediatorial satisfaction. By participating in this baptism, Jesus demonstrates His approval of John's baptismal practice and receives a testimony from heaven and John affirming His identity as the Son of God and true Messiah. This act of baptism symbolically represents believers being united with Christ, buried with Him in baptism, and rising to newness of life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.1666350548908646,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+            "commentatorTierSimilarities": [
+                26.64,
+                37.83,
+                35.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, sinless and without need for personal repentance, willingly goes to be baptized by John to fulfill the law and show His approval of John's baptism. This marks the end of His concealed life of legal submission and the beginning of His public life of mediatorial satisfaction. By being baptized, Jesus sets Himself apart for His divine purpose and receives a testimony from heaven and John, affirming His status as the Son of God and true Messiah. This baptism also symbolizes believers being united with Christ and rising to a new life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.973073794612001,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                25.43,
+                38.31,
+                36.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:47:14",
+    "verseRef": "Matthew 12:45",
+    "bestBHT": {
+        "bht": "Falling from God's grace can lead to a worse state than before, as Satan's cruelty intensifies upon our return to him. We must beware of the internal lusts and corruptions of the heart, which can make us more wicked than ever. Yet, despite the fierceness of Satan's attacks, the sons of God find security through the invincible power of the Holy Spirit. This serves as a timeless warning against apostasy and its consequences.",
+        "wordCount": 76,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.0336024340643735,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.71,
+        "commentatorTierSimilarities": [
+            0.0,
+            30.86,
+            69.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "By these words Christ shows that if we fall from his grace, our subjection to Satan is doubled, so that he treats us with greater cruelty than before, and that this is the just punishment of our slothfulness.",
+            "Let us not then suppose that the devil has been vanquished by a single combat, because he has once gone out of us. On the contrary, let us remember that, as his lodgment within us was of old standing, ever since we were born, he has knowledge and experience of all the approaches by which he may reach us.",
+            "Whatever may be the fierceness or violence of Satan\u2019s attacks, they ought not to intimidate the sons of God, whom the invincible power of the Holy Spirit preserves in safety."
+        ],
+        "Philip Schaff": [
+            "And the last state of that man is worse than the first.",
+            "The emptying, sweeping, and garnishing at their return (Pharisaism, a seeming reformation, but really an invitation to evil influences).",
+            "The house 'empty, swept, and garnished: swept and garnished by the decencies of civilization and discoveries of secular knowledge, but empty of living and earnest faith."
+        ],
+        "John Gill": [
+            "Or else the various corruptions of a man's heart, the swarms of internal lusts which are there stirred up by Satan; more wicked than himself.",
+            "And the last state of that man is worse than the first: he becomes more wicked than ever he was, before he made pretensions to religion.",
+            "This parable fitly suited them... returns to the Jews, and fills them with more malice, blasphemy, and blindness, than ever, which issued in their utter ruin and destruction."
+        ],
+        "John Wesley": [
+            "Seven other spirits \u2014 That is, a great many; a certain number being put for an uncertain: More wicked than himself.\" ",
+            "Whence it appears, that there are degrees of wickedness among the devils themselves.",
+            "So shall it be to this wicked generation \u2014 Yea, and to apostates in all ages."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When reading Matthew 12:45, we are warned about the dangers of falling from God's grace. If we are not careful, our state after falling can be worse than before. This passage emphasizes that Satan, who is experienced in his ability to reach us, treats us with greater cruelty if we become subject to him again. While the fierceness of Satan's attacks may be intimidating, we can find comfort knowing that the sons of God are preserved in safety by the invincible power of the Holy Spirit. It is important to be aware of the internal lusts and corruptions of the heart that Satan can stir up, as they can make us more wicked than ever before. Ultimately, this parable serves as a warning to all generations about the consequences of apostasy and our need for constant vigilance in our faith.",
+            "wordCount": 141,
+            "quoteTokenProportion": 43.62,
+            "qualityScore": 0.956313457496663,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.14,
+            "commentatorTierSimilarities": [
+                0.0,
+                30.27,
+                69.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are warned of the dangers of falling from God's grace and the potential consequences of apostasy. If we are not careful, our state after falling can be worse than before. Satan treats those who have fallen with greater cruelty, using their internal lusts and corruptions of the heart to make them even more wicked. However, we find comfort in knowing that the sons of God are preserved by the invincible power of the Holy Spirit despite the fierceness of Satan's attacks.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.0095213209718346,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.91,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.23,
+                66.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Falling from God's grace can have dire consequences, making our state worse than before. Satan, experienced in reaching us, treats us with greater cruelty if we become subject to him again. We must beware of the internal lusts and corruptions of the heart that Satan stirs up, leading us to become more wicked than ever before. Despite the fierceness of Satan's attacks, the sons of God find security in the invincible power of the Holy Spirit. This serves as a warning to all generations about the dangers of apostasy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.0126591176108557,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                30.01,
+                69.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Falling from God's grace can result in a state worse than before, as Satan treats us with greater cruelty if we become subject to him again. We must be wary of the internal lusts and corruptions of the heart, as they can make us more wicked than ever. Despite Satan's fierce attacks, the sons of God find safety through the invincible power of the Holy Spirit. This passage serves as a warning to all generations about the consequences of apostasy.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 0.9821430228363763,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                26.77,
+                73.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Falling from God's grace can lead to a worse state than before, as Satan's cruelty intensifies upon our return to him. We must beware of the internal lusts and corruptions of the heart, which can make us more wicked than ever. Yet, despite the fierceness of Satan's attacks, the sons of God find security through the invincible power of the Holy Spirit. This serves as a timeless warning against apostasy and its consequences.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.0336024340643735,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                30.86,
+                69.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

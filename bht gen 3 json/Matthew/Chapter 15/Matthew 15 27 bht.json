@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:48:38",
+    "verseRef": "Matthew 15:27",
+    "bestBHT": {
+        "bht": "The woman, understanding the reference to the children being filled first, humbly responds, acknowledging herself as a Gentile dog dependent on the scraps that fall from the table. She accepts Jesus' words about his mission to the lost sheep of Israel, yet wisely emphasizes that even the Gentiles, though considered dogs, have a place in the provision and care of their common Lord and Master. Her reply beautifully captures the essence of God's grace and her humble recognition of her place in relation to the chosen people of Israel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7239715319459212,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+        "commentatorTierSimilarities": [
+            29.91,
+            34.49,
+            35.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Her words also have a reference to 'let the children first be filled,' expressed by Mark vii. 27.\" ",
+            "Our Lord, in the use of the familiar diminutive, has expressed not the uncleanness of the dog 20 much, as his attachment to and dependence on the human family.",
+            "She was, as it were, under the edge of the table\u2014close on the confines of Israel\u2019s feast."
+        ],
+        "John Calvin": [
+            "The woman\u2019s reply showed that she was not hurried along by a blind or thoughtless impulse to offer a flat contradiction to what Christ had said.",
+            "As God preferred the Jews to other nations, she does not dispute with them the honor of adoption, and declares, that she has no objection whatever that Christ should satisfy them according to the order which God had prescribed.",
+            "No terms could have been employed that would have described more appropriately, or more justly, that dispensation of the grace of God which was at that time in full operation."
+        ],
+        "Philip Schaff": [
+            "Yea, Lord. She accepts the Lord\u2019s word and makes an argument of it.",
+            "For even, not \u2018yet,\u2019 the dogs. Not as one of the children; but as a humble dependent, she asks only what falls to such: the crumbs.",
+            "The woman had been earnest in gaining a hearing at all. Her answer shows a quickness of mind, approaching wit, humility also, joined with true wisdom; in her persevering faith she saw the mind of Christ even in the seemingly repulsive figure."
+        ],
+        "Archibald T. Robertson": [
+            "She took no offence at the implication of being a Gentile dog.",
+            "The little dogs eat of the crumbs that fall from the table of their masters.",
+            "The children."
+        ],
+        "John Gill": [
+            "She owns all that he had said to be true, that he was sent only to the lost sheep of the house of Israel.",
+            "Thus she wisely lays hold upon and improves in a very beautiful manner, in her own favour, what seemed to be so much against her.",
+            "She suggests that though the Gentiles were but dogs, and she one of them; yet their common Lord and Master had a propriety in them, and they in him; and were to be maintained and fed, and ought to live."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman, understanding the reference to the children being filled first, humbly and witfully responds to Jesus, acknowledging that she is like a little dog under the table, dependent on the scraps that fall from the table of their masters. She does not dispute Jesus' words about his mission to the lost sheep of Israel, but instead demonstrates her persevering faith and acknowledges that even the Gentiles, though considered dogs, have a place in the grace and provision of their common Lord and Master. In her reply, she beautifully captures the essence of the dispensation of God's grace and shows her humility, wisdom, and understanding of her place in relation to the chosen people of Israel.",
+            "wordCount": 117,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.6987793975274932,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                25.85,
+                37.16,
+                36.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman, acknowledging the order of priority for the children of Israel, responds humbly and cleverly, recognizing her place as a Gentile dog under the table, content with the crumbs that fall. She accepts Jesus' words and presents her request as a dependent, not disputing the preference given to the children. With wisdom, she emphasizes that even as outsiders, they too have a rightful share in God's provision. Her reply beautifully sheds light on the grace and inclusion extended by their common Lord and Master.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5832497895176219,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                26.54,
+                38.06,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman, aware of the children being filled first, replies with humility, accepting her position as a Gentile dog under the table, content with the crumbs that fall. She doesn't dispute Jesus' mission or take offense, but instead highlights that even as Gentiles, they have a share in God's provision and should be maintained and fed. Her response reflects wisdom, humility, and an understanding of her place in relation to the chosen people of Israel, acknowledging their common Lord and Master.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6254649093255646,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                25.94,
+                36.23,
+                37.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman, realizing the priority given to the children, responds with humility, accepting her position as a Gentile dog seeking only the crumbs from the table. She doesn't argue, but instead acknowledges that even as a Gentile, she has a place in the provision and care of their common Lord and Master. Her wise and humble reply recognizes the dispensation of God's grace and demonstrates her understanding of her place in relation to the chosen people of Israel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.6486638672999252,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                24.71,
+                37.57,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman, understanding the reference to the children being filled first, humbly responds, acknowledging herself as a Gentile dog dependent on the scraps that fall from the table. She accepts Jesus' words about his mission to the lost sheep of Israel, yet wisely emphasizes that even the Gentiles, though considered dogs, have a place in the provision and care of their common Lord and Master. Her reply beautifully captures the essence of God's grace and her humble recognition of her place in relation to the chosen people of Israel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7239715319459212,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                29.91,
+                34.49,
+                35.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

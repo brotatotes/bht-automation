@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:50:16",
+    "verseRef": "Matthew 19:10",
+    "bestBHT": {
+        "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and suffering. They saw the high standard Jesus set for marriage and thought it would be better to avoid it altogether. Neander, who himself remained unmarried, acknowledged the difficulty of marriage but emphasized the importance of using God's gifts with reverence. Despite the challenges, if we find ourselves in an unhappy marriage, it would be better to remain faithful than to risk the consequences of divorce.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1477398615573238,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+        "commentatorTierSimilarities": [
+            27.95,
+            37.53,
+            34.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The disciples apprehend that the trials and temptations of marriage would prove sources of sin and misery.",
+            "His estimate for us of the expediency of celibacy, as a general question, is to be gathered from the parable of the talents, where He visits with severe blame the burying of the talent for its safer custody.",
+            "The remark is Neander\u2019s, and the more valuable, as he himself lived and died unmarried."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In this view of marriage, surely it must prove a snare rather than a blessing.\" ",
+            "Had better be avoided altogether.",
+            "It is not good to marry."
+        ],
+        "Albert Barnes": [
+            "The disciples were full of Jewish notions.",
+            "They thought that the privilege of divorcing a wife when there was a quarrelsome disposition, or anything else that rendered the marriage unhappy, was a great privilege.",
+            "They said, therefore, that if such was the case - such the condition on which people married - it was better not to marry."
+        ],
+        "Marvin Vincent": [
+            "The case [\u03b1\u03b9\u03c4\u03b9\u03b1]. Not the relation of the man to his wife, nor the circumstances, the state of the case.\" ",
+            "Aijtia refers to cause (ver. 3), and the meaning is, if the matter stands thus with reference to the cause which the man must have for putting away his wife."
+        ],
+        "John Calvin": [
+            "It is better, according to them, to avoid marriage than to bind one\u2019s self by the bond of living always together.",
+            "Let us therefore learn not to be delicate and saucy, but to use with reverence the gifts of God, even if there be something in them that does not please us.",
+            "Above all, let us guard against this wickedness in reference to holy marriage; for, in consequence of its being attended by many annoyances, Satan has always endeavored to make it an object of hatred and detestation, in order to withdraw men from it."
+        ],
+        "Philip Schaff": [
+            "The low views then held may be inferred from what the disciples said: it is not good to marry; the ideal seemed so high, that its application seemed almost impossible."
+        ],
+        "Archibald T. Robertson": [
+            "Christ's doctrine on marriage not only separated Him from Pharisaic opinions of all shades, but was too high even for the Twelve.\" ",
+            "It is not expedient to marry if such a strict view is held. If the bond is so tight a man had best not commit matrimony.",
+            "It is a bit unusual to have \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 and \u03b3\u03c5\u03bd\u03b7 contrasted rather than \u03b1\u03bd\u03b7\u03c1 and \u03b3\u03c5\u03bd\u03b7."
+        ],
+        "John Gill": [
+            "if the case of a man be so with his wife; if they are so closely joined together in marriage; if they are, as it were, one flesh, or one body, that a man's wife is himself...if a man cannot part with his wife lawfully, provided she be chaste, and is faithful to his bed, let her be what she will otherwise...yet if she is not an adulteress, must not be put away.\" ",
+            "it would be more expedient and advisable for a man to live always a single life, than to run the risk of marrying a woman, that may prove very disagreeable and uncomfortable.",
+            "This they said under the prejudice of a national law and custom, which greatly prevailed, and under the influence of a carnal heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and suffering. They saw the high standard Jesus set for marriage and thought it would be better to avoid it altogether. However, Jesus's teaching on marriage was even more strict than the Twelve could comprehend. Marriage was meant to be a sacred and permanent bond, and divorce should only occur in cases of adultery. Neander, who himself remained unmarried, acknowledged the difficulty of marriage but emphasized the importance of using God's gifts with reverence. Despite the challenges, we should not give in to Satan's attempts to undermine the sanctity of marriage. If we find ourselves in an unhappy marriage, it would be better to remain faithful than to risk the consequences of divorce.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 2.0992463953402716,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                29.5,
+                35.65,
+                34.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and suffering. They saw the high standard Jesus set for marriage and thought it would be better to avoid it altogether. Neander, who himself remained unmarried, acknowledged the difficulty of marriage but emphasized the importance of using God's gifts with reverence. Despite the challenges, if we find ourselves in an unhappy marriage, it would be better to remain faithful than to risk the consequences of divorce.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1477398615573238,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                27.95,
+                37.53,
+                34.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and suffering. They thought it would be better to avoid it altogether. However, Jesus's teaching on marriage was even more strict. Marriage was meant to be a sacred and permanent bond, and divorce should only occur in cases of adultery. Neander acknowledged the difficulty of marriage but emphasized the importance of using God's gifts with reverence. Therefore, if we find ourselves in an unhappy marriage, it would be better to remain faithful than to risk the consequences of divorce.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9789017052807423,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "commentatorTierSimilarities": [
+                29.5,
+                36.03,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and suffering. However, Jesus's teaching on marriage was even more strict, emphasizing the sanctity and permanence of the bond. Neander, who lived and died unmarried, acknowledged the difficulties of marriage but urged reverence towards God's gifts. Despite the challenges, it is better to remain faithful in an unhappy marriage than to risk the consequences of divorce. Marriage should be approached with seriousness, for Satan tempts many to despise it.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0538885719211053,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                30.44,
+                33.91,
+                35.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, influenced by their Jewish notions, believed that marriage could lead to sin and misery. They even expressed the sentiment that it might be better to avoid marriage altogether. However, Jesus's teaching on marriage was more strict than they realized. He emphasized the sanctity of the marriage bond and cautioned against divorce, except in cases of adultery. Neander, who himself remained unmarried, acknowledged the challenges of marriage but stressed the importance of using God's gifts with reverence. Despite the difficulties, it is better to remain faithful in an unhappy marriage than to risk the consequences of divorce.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.1301851771086997,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                30.09,
+                35.35,
+                34.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

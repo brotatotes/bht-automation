@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:47:18",
+    "verseRef": "Matthew 12:49",
+    "bestBHT": {
+        "bht": "How graphic and profound is Jesus' declaration, Behold my mother and my brethren! In this moment, Jesus acknowledges his love for his earthly family while also emphasizing that their role should not interfere with his Messianic work. The true spiritual family of Jesus includes all who follow and learn from him. As Jesus stretched forth his hand towards his disciples, he symbolically embraced all those who believed in him, both men and women, who were dear to him as his own mother and siblings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.9105070861848032,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+        "commentatorTierSimilarities": [
+            32.38,
+            29.0,
+            38.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How graphic is this! It is the language evidently of an eye-witness.",
+            "Behold my mother and my brethren!"
+        ],
+        "Marvin Vincent": [
+            "Disciples [\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03c2] . Not the apostles only, but all who followed him in the character of learners. The Anglo - Saxon renders learning knights. "
+        ],
+        "Philip Schaff": [
+            "Behold my mother and my brethren, i.e., these are as nearly allied and as dear to me.",
+            "He stretched forth his hand toward his disciples.",
+            "\u2018He looked round about on them which sat about him,\u2019 hence \u2018disciples\u2019 in the wider sense."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus loved his mother and brothers, but they were not to interfere in his Messianic work.",
+            "The real spiritual family of Jesus included all who follow him.",
+            "It was hard for Mary to go back to Nazareth and leave Jesus with the excited throng so great that he was not even stopping to eat."
+        ],
+        "John Gill": [
+            "By whom are meant, not only the twelve, but all others present, who truly believed in him, both men and women.",
+            "In whose hearts he was formed, and who were the children of God by adopting grace, and so his brethren; and were as dear to him as his mother and brethren.",
+            "It is reasonable to suppose, that when he said, 'behold my mother', and, as in the following verse, 'sister'; he might stretch forth his hand particularly, toward the pious and religious women that believed in him, and ministered to him of their substance, who might be now present."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How powerful and poignant is Jesus' statement in Matthew 12:49! He declares, Behold my mother and my brethren! Jesus loved his earthly family, but he knew that they should not interfere with his Messianic mission. Instead, the true spiritual family of Jesus includes all who follow him as learners and knights of faith. It must have been incredibly difficult for Mary to leave Jesus with the excited throng, but Jesus's hand was stretched forth towards his disciples, signifying that they, including the pious and devoted women who supported him, were as dear to him as his own mother and brethren.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.8939794419410592,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                35.22,
+                31.24,
+                33.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How graphic and profound is Jesus' declaration, Behold my mother and my brethren! In this moment, Jesus acknowledges his love for his earthly family while also emphasizing that their role should not interfere with his Messianic work. The true spiritual family of Jesus includes all who follow and learn from him. As Jesus stretched forth his hand towards his disciples, he symbolically embraced all those who believed in him, both men and women, who were dear to him as his own mother and siblings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9105070861848032,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                32.38,
+                29.0,
+                38.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How powerful and poignant is Jesus' statement in Matthew 12:49! He declares, Behold my mother and my brethren! Jesus loved his earthly family, but he knew that they should not interfere with his Messianic mission. Instead, the true spiritual family of Jesus includes all who follow him as learners and knights of faith. It must have been incredibly difficult for Mary to leave Jesus with the excited throng, but Jesus's hand was stretched forth towards his disciples, signifying that they, including the pious and devoted women who supported him, were as dear to him as his own mother and brethren.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.8939794419410592,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                35.22,
+                31.24,
+                33.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' declaration, Behold my mother and my brethren! conveys a profound message. While Jesus loved his earthly family, he recognized that they should not interfere with his Messianic work. The spiritual family of Jesus encompasses all who follow him as learners and knights of faith. In this context, Jesus extends his hand towards his disciples, representing their significance in his life. This gesture also symbolizes the close bond Jesus shares with those who believe in him, including the dedicated women who faithfully supported his ministry.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5809926405219257,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "commentatorTierSimilarities": [
+                35.21,
+                30.44,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' powerful words, Behold my mother and my brethren! demonstrate his deep love for his earthly family while asserting that they should not hinder his Messianic mission. He highlights that his true spiritual family extends beyond blood relations, encompassing all who follow him as disciples and seekers of knowledge. By extending his hand towards his disciples, Jesus emphasizes their importance and signifies that they, along with the devoted women who served him, hold a special place in his heart, akin to his own mother and siblings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8455187029016011,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                31.11,
+                31.51,
+                37.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

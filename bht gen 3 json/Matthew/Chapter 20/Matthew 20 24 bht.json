@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:50:28",
+    "verseRef": "Matthew 20:24",
+    "bestBHT": {
+        "bht": "The disciples were filled with anger and resentment when they perceived that James and John had taken advantage of their relationship with Jesus. This strong indignation arose from their own aspirations for power and honor within the kingdom of Christ. Each disciple secretly held onto the expectation of being the one with the highest position. However, Jesus swiftly rebuked their ambitions and taught them the importance of humility, extinguishing the pride that had a firm grip on their hearts.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.5368654366890881,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+        "commentatorTierSimilarities": [
+            41.65,
+            27.45,
+            30.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "The dispute about the primacy, therefore which Luke mentions, flowed from this source, that the sons of Zebedee aspired to the first places in the kingdom of Christ.",
+            "There was not one of them who would willingly yield to others, but every one secretly cherished within himself the expectation of the primacy.",
+            "We see then how ambition springs up in any man who has great power and honors, and sends out its flames far and wide, unless the spirit of modesty, coming from heaven, extinguish the pride which has a firm hold of the nature of man."
+        ],
+        "Philip Schaff": [
+            "The ten, including Matthew who writes the account. A proof of humility and truthfulness.",
+            "This displeasure was no more praiseworthy than the ambition of the two, and was speedily discountenanced."
+        ],
+        "Archibald T. Robertson": [
+            "Moved with indignation... A strong word for angry resentment.",
+            "The ten felt that James and John had taken advantage of their relation to Jesus.",
+            "The ten felt that James and John had taken advantage of their relation to Jesus."
+        ],
+        "John Gill": [
+            "They were not so much displeased with the mother of them, who asked the favour for them, as with her sons, knowing that they have put her upon making this motion to Christ.",
+            "Nor were they so much moved with indignation at the action, detesting all notions of superiority and preeminence; for they were all tinctured with the same carnal principle, and each was desirous of the chief place for himself.",
+            "They were angry, and out of all temper, that these two brethren should move for that, which they thought they had as good a right unto, as any of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples became filled with anger and resentment when they realized that James and John had taken advantage of their close relationship with Jesus. This indignation stemmed from their own desire for power and recognition. In their hearts, each disciple privately hoped to be the one with the highest position in the kingdom of Christ. This dispute over authority and primacy, as mentioned by Luke, was fueled by the ambitious aspirations of the sons of Zebedee. However, this pride and ambition were quickly reprimanded by Jesus, who taught them the importance of humility and extinguished the flames of their selfish desires.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.5743517435574703,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.69,
+            "commentatorTierSimilarities": [
+                38.29,
+                30.95,
+                30.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were filled with anger and resentment when they perceived that James and John had taken advantage of their relationship with Jesus. This strong indignation arose from their own aspirations for power and honor within the kingdom of Christ. Each disciple secretly held onto the expectation of being the one with the highest position. However, Jesus swiftly rebuked their ambitions and taught them the importance of humility, extinguishing the pride that had a firm grip on their hearts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5368654366890881,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                41.65,
+                27.45,
+                30.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples harbored angry resentment as they witnessed James and John capitalizing on their privileged connection to Jesus. The ten, including Matthew who recorded this account, felt that the two brothers had unfairly taken advantage of their relationship with the Lord. This displeasure, though no more commendable than the ambition of James and John, was promptly discouraged. Their dispute over authority and primacy arose from their desire for superiority and preeminence. Yet Jesus, through his teachings on humility, extinguished the flames of pride that consumed them all.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7443042858717015,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                40.47,
+                32.24,
+                27.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with anger and resentment, the disciples reacted strongly when James and John seemingly exploited their relationship with Jesus. This displeasure stemmed from their own aspirations for power and recognition within the kingdom of Christ. Each disciple secretly cherished the expectation of obtaining the highest position. However, Jesus swiftly addressed their ambitions, teaching them the importance of humility and extinguishing the pride that had taken hold of their hearts.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4117786252137856,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.28,
+            "commentatorTierSimilarities": [
+                38.89,
+                29.27,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were indignant when they realized that James and John had taken advantage of their relationship with Jesus. This strong anger arose from their perception that the two brothers had exploited their connection to Him. The ten, including Matthew who wrote this account, felt that James and John had unfairly used their position with Jesus. However, this resentment was no more commendable than the ambition of the two, and Jesus quickly discouraged it. Their dispute about authority and primacy resulted from their own desires for superiority and preeminence, which Jesus taught against through the spirit of modesty and humility.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.833653533713438,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                45.25,
+                29.02,
+                25.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

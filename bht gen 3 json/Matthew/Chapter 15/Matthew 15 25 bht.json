@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:48:37",
+    "verseRef": "Matthew 15:25",
+    "bestBHT": {
+        "bht": "The Canaanite woman approached Jesus in the house, seeking his help with great reverence. Her faith was evident as she worshiped him and made her plea. She believed in the kindness of the Messiah and held on firmly to her hope, not allowing discouragement to deter her. She acknowledged Jesus as Lord, recognizing his sovereignty and power. Her persistent and fervent prayers reflected her deep love and sympathy for her daughter, making the case her own. She pushed through all obstacles, growing in faith and importunity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.3223316214126744,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+        "commentatorTierSimilarities": [
+            19.94,
+            37.05,
+            43.01
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] came she, i.e. into the house where our Lord was. See Mark vii. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. Then came she and worshipped",
+            "\thim, saying, Lord, help me\u2014(Also see on :-.) ",
+            "\t",
+            " :-. MIRACLES OF",
+            "\tHEALING\u2014FOUR",
+            "\tTHOUSAND MIRACULOUSLY",
+            "\tFED. ",
+            "\t",
+            "For the exposition, see on :-; :-."
+        ],
+        "John Calvin": [
+            "There is no reason to doubt that she was animated by the conviction which she entertained as to the kindness of the Messiah.",
+            "She adhered firmly to that previous sentiment of faith... and admitted nothing that was opposed to her hope.",
+            "This is the sure test of faith, that we do not suffer that general commencement of our salvation, which is founded on the word of God, to be in any way torn from us."
+        ],
+        "Philip Schaff": [
+            "Her faith was more manifest, as the Lord gave her opportunity.",
+            "Lord. Reverential address.",
+            "Help me. A touch of nature in the mother's prayer!"
+        ],
+        "John Gill": [
+            "She pushes on, through all discouragements; her faith grows stronger, and her importunity greater.",
+            "The object she prays unto is the Lord, by which she owns his sovereignty, dominion, and power.",
+            "Though it was her daughter, and not she herself, that was so miserably afflicted; yet such was her sympathy, love, and affection to her, that she makes the case her own, and calls helping her daughter, helping herself."
+        ],
+        "John Wesley": [
+            "Then came she \u2014 Into the house where he now was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Canaanite woman approached Jesus in the house, seeking his help with great reverence. Her faith was evident as she worshiped him and made her plea. She believed in the kindness of the Messiah and held on firmly to her hope, not allowing discouragement to deter her. She acknowledged Jesus as Lord, recognizing his sovereignty and power. Her persistent and fervent prayers reflected her deep love and sympathy for her daughter, making the case her own. She pushed through all obstacles, growing in faith and importunity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.3223316214126744,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+            "commentatorTierSimilarities": [
+                19.94,
+                37.05,
+                43.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Canaanite woman came into the house where Jesus was, approaching him with reverence and worship. Her faith in the kindness of the Messiah drove her to persistently seek his help. Despite obstacles and discouragement, she held firmly to her hope, not letting anything oppose it. Her heartfelt prayers reflected her deep love and sympathy for her daughter, as she recognized Jesus as Lord and acknowledged his sovereignty and power. Her unwavering faith and unwavering persistence exemplify her determination to receive the help she sought.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.2552887541002353,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.08,
+            "commentatorTierSimilarities": [
+                18.59,
+                36.37,
+                45.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Canaanite woman approached Jesus with reverence, seeking his help in the house where he was. Her persistent faith in the kindness of the Messiah remained unshaken, even in the face of discouragement. She firmly held onto her hope, not allowing anything to undermine it. With heartfelt prayers, she expressed her deep love and sympathy for her daughter. By acknowledging Jesus as Lord and recognizing his sovereign power, she displayed unwavering faith and determination to receive the help she sought.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.2752917612621655,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+            "commentatorTierSimilarities": [
+                21.08,
+                36.07,
+                42.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Canaanite woman came to the house where Jesus was and worshiped him, earnestly seeking his help. Her unwavering faith in the Messiah's kindness fueled her persistence. Despite discouragement, she clung steadfastly to her hope, refusing to let anything hinder it. Her heartfelt prayers revealed the depth of her love and compassion for her daughter. Recognizing Jesus as Lord, she acknowledged his sovereignty and power. With unwavering faith and unwavering persistence, she pressed on until she received the help she sought.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.2181153437908439,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.85,
+            "commentatorTierSimilarities": [
+                19.43,
+                35.71,
+                44.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Canaanite woman approached Jesus in the house, worshiping him and pleading for his help. Her unshakable faith in the kindness of the Messiah propelled her to persistently seek his aid, despite facing discouragement. She clung firmly to her hope, refusing to let anything undermine it. Through her heartfelt prayers, she demonstrated her deep love and empathy for her daughter. Recognizing Jesus as Lord, she acknowledged his sovereignty and power. With unwavering faith and determination, she pushed forward until her plea was answered.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.256199547534505,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "commentatorTierSimilarities": [
+                19.64,
+                36.16,
+                44.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

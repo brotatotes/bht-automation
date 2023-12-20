@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:52:20",
+    "verseRef": "Matthew 24:23",
+    "bestBHT": {
+        "bht": "When trouble arises, false prophets offer their own solutions, leading many to cry out, Lo, here! However, it is crucial to discern the true Christ from those pretending to be the Messiah. While the disciples expected an immediate second Advent, we should not be deceived by plausible pretensions. Falsehoods disguised in the name of God only deepen our despair and close the door to repentance. We must not be swayed by the tempting promises of false Messiahs, as they lead to madness and despair.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.7262089177880675,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.74,
+        "commentatorTierSimilarities": [
+            47.28,
+            28.91,
+            23.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The Jews expected the Messiah to deliver them from Roman oppression.",
+            "Many would claim 'to be' the Messiah.",
+            "You have evidence that the Messiah has come, and you are not to be deceived by the plausible pretensions of others."
+        ],
+        "John Calvin": [
+            "When we are left without direction in adversity, nothing is more pernicious than to be deceived, under the disguise of the name of God, by falsehoods which not only shut against us the door of repentance, but increase the darkness of infidelity, and at length overwhelm us with despair, and drive us to madness.",
+            "Since our Lord declares that antichrists and false prophets would be armed with miracles, there is no reason why the Papists should talk so haughtily on this ground, or why we should be terrified by their boasting.",
+            "If it be objected, that such reasoning would overthrow and set aside the miracles by which both the Law and the Gospel were ratified, I reply, that the Spirit engraved on them an undoubted mark, which removed from believers all doubt and fear of being mistaken."
+        ],
+        "Philip Schaff": [
+            "During the subsequent period, is exact enough.",
+            "This indicates that the disciples then expected that the second Advent would immediately follow.",
+            "This phrase furnishes no argument against the visible personal coming of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The false prophets create the trouble and now false Christs offer a way out of these troubles.",
+            "The deluded victims raise the cries of 'Lo, here,' when these false Messiahs arise with their panaceas for public ills.",
+            "False Christs... offer a way out of these troubles."
+        ],
+        "John Gill": [
+            "Lo! here is Christ, or there, believe it not; for both during the time of the siege, there were such that sprung up, and pretended to be Messiahs, and deliverers of them from the Roman power.",
+            "One saying he was in such place, and another that he was in such a place; and so spirited up the people not to fly, nor to deliver up the city.",
+            "After the city was taken and destroyed, one and another set up for the Messiah."
+        ],
+        "John Wesley": [
+            "Mark 13:21; Luke 17:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When false prophets create trouble, false Christs offer their own solutions to the problems. These deluded victims cry out, Lo, here! as these false Messiahs emerge with their promises of deliverance from the world's ills. In the context of the Jews expecting the Messiah to deliver them from Roman oppression, it is important for believers to discern the true Christ from those claiming to be the Messiah. The disciples initially believed that the second Advent would immediately follow, but this verse does not negate the idea of Christ's visible personal coming. We must not be deceived by falsehoods disguised in the name of God, for they lead to despair and madness. The presence of miracles does not guarantee truth, as the Spirit distinctly marked the miracles by which the Law and the Gospel were authenticated. Just as during the time of the siege, false Messiahs sprung up and incited people to stay rather than flee or surrender. Even after the city was destroyed, others continued to claim to be the Messiah. Therefore, when someone declares, Lo! here is Christ, or there, we must not believe it.",
+            "wordCount": 188,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6888728805036441,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                44.93,
+                28.44,
+                26.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When false prophets instigate trouble, false Christs emerge with their supposed solutions to these issues. These deluded victims desperately cry out, Lo, here! in the hope of finding deliverance. However, we must be vigilant in distinguishing the true Christ from those who claim to be the Messiah. The disciples initially believed that Christ's visible personal coming would immediately follow, but we should not be deceived by false pretensions. It is crucial not to be misled by falsehoods disguised in the name of God, as they can lead to despair and madness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.643589751790914,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                47.83,
+                27.0,
+                25.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When trouble arises, false prophets are quick to offer their own solutions, leading many to cry out, Lo, here! as they seek deliverance. However, it is essential to discern the true Christ from those pretending to be the Messiah. The disciples initially expected the second Advent to immediately follow, but we must not be deceived by plausible pretensions. Falsehoods disguised as divine interventions only deepen our despair, driving us to madness and shutting the door on repentance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5158585178260586,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                45.0,
+                30.49,
+                24.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When false prophets sow the seeds of trouble, false Christs emerge, offering their own panaceas for the afflictions of the world. The deluded victims are quick to cry out, Lo, here! as these impostors rise to prominence. In the backdrop of the Jews' longing for a Messiah to deliver them from Roman oppression, it becomes crucial for believers to discern the genuine Christ amidst the claims of pretenders. While the disciples initially expected an immediate second Advent, we are reminded not to be swayed by the superficial allure of false Messiahs. Deception, disguised in the name of God, only plunges us into despair, driving us further away from repentance.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.5880596138633685,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                46.36,
+                29.26,
+                24.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When trouble arises, false prophets offer their own solutions, leading many to cry out, Lo, here! However, it is crucial to discern the true Christ from those pretending to be the Messiah. While the disciples expected an immediate second Advent, we should not be deceived by plausible pretensions. Falsehoods disguised in the name of God only deepen our despair and close the door to repentance. We must not be swayed by the tempting promises of false Messiahs, as they lead to madness and despair.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7262089177880675,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.74,
+            "commentatorTierSimilarities": [
+                47.28,
+                28.91,
+                23.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

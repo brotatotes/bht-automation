@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:51:48",
+    "verseRef": "Matthew 23:18",
+    "bestBHT": {
+        "bht": "The phrase he is guilty in the context of the altar of burnt-offerings implies a state of indebtedness or obligation. The rendering of this word as oweth or debtor suggests this sense. The significance and sanctity of the temple and the offerings on the altar are emphasized by the reversed order of hallowed things, indicating their equal holiness. Jesus' intention is to direct the purpose of swearing to its lawful end. Thus, if one swears by the gift on the altar, fulfilling the oath becomes obligatory.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.5195632064426805,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+        "commentatorTierSimilarities": [
+            32.09,
+            31.12,
+            36.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The altar of burnt-offerings, in the court of the priests.",
+            "The gift or offering made to God, so called because it was devoted or 'given' to him.",
+            "The gift upon this altar was always beasts and birds."
+        ],
+        "Marvin Vincent": [
+            "He is guilty [\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03b9] . In the rendering of this word the A. V. seems to have been shaped by the earlier and now obsolete sense of guilt, which was probably a fine or payment.\" ",
+            "There is a hint of this sense in Shakspeare, Henry Xiv (Second Part), Acts 4:0 Sc. 4 'England shall double gild his treble guilt,' where the play upon the words hovers between the sense of bedeck and recompense.",
+            "Wyc. renders oweth, and Tynd., he is debtor. Rev., he is a debtor."
+        ],
+        "John Calvin": [
+            "He leads us up to the source, and shows, by the very nature of an oath, that the temple is far more valuable than the gifts which are offered in it.",
+            "God permits himself to be called as a witness and judge, by means of such symbols of his presence, provided that he retain his authority unimpaired.",
+            "His design is, to direct all forms of swearing to their lawful end and object."
+        ],
+        "Philip Schaff": [
+            "The gift. The offering placed upon it.",
+            "The order of hallowed things is again reversed.",
+            "Since all are holy, our Lord declares that no oath can distinguish between them."
+        ],
+        "John Gill": [
+            "It was usual with them to swear by the altar; and this was reckoned either no sin at all, or such an oath was not accounted binding on a man; he might break, or keep it as he thought fit.",
+            "Whatever he swore should be a gift for the altar, he was indispensably obliged to bring it; for whatever he swore by 'Korban', or the gift, could never be put to any other use.",
+            "Whosoever sweareth by the gift that is upon it, he is guilty: of perjury, if he does not make good his oath; he is bound to perform it, it is obligatory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 23:18, the phrase he is guilty can be understood in the sense of being indebted or obligated. The altar of burnt-offerings, where gifts were offered to God, is mentioned as the context for this statement. The reversal of the order of hallowed things suggests that all offerings on the altar are equally holy and valuable. By highlighting the importance of the temple and the gifts offered in it, Jesus shows the lawful end and object of swearing. Therefore, if one swears by the gift on the altar, they are bound to fulfill their oath, as it becomes obligatory.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.556512470518598,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.1,
+            "commentatorTierSimilarities": [
+                23.63,
+                36.11,
+                40.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the phrase he is guilty refers to the notion of being indebted or obligated, as seen in the rendering of the word as oweth or debtor. The altar of burnt-offerings, where beasts and birds were offered, is mentioned as the setting for this discussion. Jesus emphasizes the value and holiness of the temple and the gifts placed upon the altar, indicating that any swearing by these offerings requires fulfillment and is considered obligatory.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5325277010932232,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                34.02,
+                30.99,
+                34.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the context of the altar of burnt-offerings, the phrase he is guilty signifies a state of indebtedness or obligation, as interpreted by the rendering of the word as oweth or debtor. The importance and sanctity of the temple and offerings placed on the altar are underscored by the reversal of the order of hallowed things. This serves to highlight the lawful purpose and objective of swearing. Therefore, if one were to take an oath by the gift on the altar, it becomes obligatory and must be fulfilled.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5094808053648279,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "commentatorTierSimilarities": [
+                29.32,
+                31.27,
+                39.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The phrase he is guilty in the context of the altar of burnt-offerings implies a state of indebtedness or obligation. The rendering of this word as oweth or debtor suggests this sense. The significance and sanctity of the temple and the offerings on the altar are emphasized by the reversed order of hallowed things, indicating their equal holiness. Jesus' intention is to direct the purpose of swearing to its lawful end. Thus, if one swears by the gift on the altar, fulfilling the oath becomes obligatory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5195632064426805,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                32.09,
+                31.12,
+                36.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase he is guilty in Matthew 23:18 implies a state of indebtedness or obligation. The rendering of the word as oweth or debtor emphasizes this meaning. The altar of burnt-offerings is mentioned, highlighting the value and holiness of the temple and the gifts offered. The reversal of the order of hallowed things suggests their equal significance. Jesus aims to direct swearing to its lawful purpose, stating that an oath by the gift on the altar becomes obligatory and must be fulfilled.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.487458243487827,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+            "commentatorTierSimilarities": [
+                32.77,
+                33.71,
+                33.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

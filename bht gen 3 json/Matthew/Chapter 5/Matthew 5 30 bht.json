@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:43:40",
+    "verseRef": "Matthew 5:30",
+    "bestBHT": {
+        "bht": "If the right hand, the organ of action, incites one to sin, it should be cut off and cast away, for it is profitable. This stern truth and awful lesson, characteristic of our Lord's teaching style, emphasizes the importance of self-denial and self-government to avoid impure thoughts and desires. Sacrificing even the dearest earthly objects is preferable to being led to the pit of corruption. Let us refrain from impure practices that endanger our salvation, body, and soul.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 1.3974697105780454,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+        "commentatorTierSimilarities": [
+            29.08,
+            46.7,
+            24.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And if thy right hand\u2014the organ of action, to which the eye excites.",
+            "Cut it off, and cast it from thee; for it is profitable, &amp;c.",
+            "The repetition, in identical terms, of such stern truths and awful lessons seems characteristic of our Lord's manner of teaching."
+        ],
+        "Albert Barnes": [
+            "The dearest earthly objects are to be sacrificed rather than that we should commit sin.",
+            "The most rigid self-denial should be practiced, and the most absolute self-government should be maintained at any sacrifice.",
+            "Rather than suffer the mind to be polluted by unholy thoughts and impure desires."
+        ],
+        "John Gill": [
+            "It is better that his belly be ripped up, than that he should go down to the pit of corruption.",
+            "He is not to be understood literally, as enjoining the cutting off of the right hand, but of men's refraining from all such impure practices.",
+            "Refraining from all such impure practices...endanger the salvation of them, body and soul."
+        ],
+        "John Wesley": [
+            "."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the right hand, the organ of action which the eye excites, causes one to sin, it should be cut off and cast away, for it is profitable to lose a part rather than the whole. This stern truth and awful lesson is characteristic of our Lord's teaching style, as He emphasizes the importance of self-denial and self-government to avoid the corruption of impure thoughts and desires. It is better to make sacrifices, even sacrificing the dearest earthly objects, than to allow sin to lead us to the pit of corruption. So, let us refrain from impure practices that endanger our salvation, body, and soul.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.4330538728946534,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.99,
+            "commentatorTierSimilarities": [
+                27.93,
+                44.92,
+                27.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the right hand, the organ of action, incites one to sin, it should be cut off and cast away, for it is profitable. This stern truth and awful lesson, characteristic of our Lord's teaching style, emphasizes the importance of self-denial and self-government to avoid impure thoughts and desires. Sacrificing even the dearest earthly objects is preferable to being led to the pit of corruption. Let us refrain from impure practices that endanger our salvation, body, and soul.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3974697105780454,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+            "commentatorTierSimilarities": [
+                29.08,
+                46.7,
+                24.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the right hand, the organ of action, incites one to sin, it should be cut off and cast away. This stern lesson, characteristic of our Lord's teaching style, highlights the need for self-denial and self-government, even at the cost of sacrificing precious earthly objects. It is better to lose a part than to succumb to impurity. Refraining from such practices is crucial to safeguarding our salvation, both in body and soul, against the dangers of corruption.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.1774524630214434,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.49,
+            "commentatorTierSimilarities": [
+                29.25,
+                45.37,
+                25.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the right hand, the organ of action, incites one to sin, it should be cut off and cast away, for it is profitable. This stern truth emphasizes the importance of self-denial and self-government to avoid impure thoughts and desires. Sacrificing precious earthly objects is preferable to being led to the pit of corruption. Let us refrain from impure practices that endanger our salvation, body, and soul.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3609839095017011,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.6,
+            "commentatorTierSimilarities": [
+                26.34,
+                49.14,
+                24.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If the right hand, the organ of action, incites one to sin, it is profitable to cut it off and cast it away. Our Lord's teaching style often repeats such stern truths and awful lessons to emphasize their importance. This underscores the need for self-denial and self-government, even if it means sacrificing beloved earthly objects. We ought to refrain from impure practices that endanger our body and soul, avoiding the pit of corruption. Let us prioritize the preservation of our salvation above all else.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.256153403459138,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "commentatorTierSimilarities": [
+                33.71,
+                43.63,
+                22.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:44:44",
+    "verseRef": "Matthew 6:25",
+    "bestBHT": {
+        "bht": "Do not be anxious about your life. This command urges us not to be burdened with worry and care about our needs, but rather trust in God's providence. By committing everything to Him in prayer and supplication, we can find peace in knowing that He will sustain and protect us. We should not be excessive and anxious about the future, for our lives are far more valuable than mere sustenance, and God, who gives the greater gift of life, will surely provide the lesser gifts of food and clothing.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.0719468037101016,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+        "commentatorTierSimilarities": [
+            30.85,
+            33.5,
+            35.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Take not anxious thought, is far better.",
+            "The argument is, 'Shall not He who gave us the greater, also give us the less?'",
+            "The A.V., 'Take no thought,' does not express the sense, but gives rather an exaggeration of the command, and thus makes it unreal and nugatory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not solicitous... It is that anxious solicitude, that oppressive care, which springs from unbelieving doubts and misgivings, which alone is here condemned.",
+            "When 'careful (or 'full of care') about nothing,' but committing all in prayer and supplication with thanksgiving unto God, the apostle assures us that 'the peace of God, which passeth all understanding, shall keep our hearts and minds in Christ Jesus.'",
+            "If God, then, gives and keeps up the greater\u2014the life, the body\u2014will He withhold the less, food to sustain life and raiment to clothe the body?"
+        ],
+        "Albert Barnes": [
+            "Is not the life more than meat, and the body than raiment? Shall not he who has conferred the 'greater' blessing be willing to confer the 'less?'",
+            "The word 'thought,' when the Bible was translated, meant 'anxiety,' and is so used frequently in Old English authors.",
+            "Thought about the future is right; 'anxiety, solicitude, trouble' is wrong."
+        ],
+        "Marvin Vincent": [
+            "Take no thought [\u03bc\u03b7 \u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1\u03c4\u03b5] ... the common notion of earnest thoughtfulness.",
+            "Take thought, in this passage, was a truthful rendering when the A. V. was made, since thought was then used as equivalent to anxiety or solicitude.",
+            "It is uneasiness and worry about the future which our Lord condemns here, and therefore Rev. rightly translates be not anxious."
+        ],
+        "John Calvin": [
+            "But immoderate care is condemned for two reasons: either because in so doing men tease and vex themselves to no purpose... or because they claim more for themselves than they have a right to do, and place such a reliance on their own industry, that they neglect to call upon God.",
+            "Though the children of God are not free from toil and anxiety, yet, properly speaking, we do not say that they are anxious about life: because, through their reliance on the providence of God, they enjoy calm repose.",
+            "He who is fully convinced, that the Author of our life has an intimate knowledge of our condition, will entertain no doubt that he will make abundant provision for our wants."
+        ],
+        "Philip Schaff": [
+            "Anxiety, which is distrust of God, is the source of avarice.",
+            "Living to God is the proper life, and it relieves from care, because we trust Him for what we need.",
+            "Is not He who gave 'the life' able and willing to give what will sustain it, and He who made 'the body,' what will protect it."
+        ],
+        "Archibald T. Robertson": [
+            "Take no thought for your life.\" ",
+            "The command not to have the habit of petulant worry about food and clothing, a source of anxiety to many housewives, a word for women especially as the command not to worship mammon may be called a word for men.\" ",
+            "Here \u03c8\u03c5\u03c7\u03b7 stands for the life principle common to man and beast, which is embodied in the \u03c3\u03c9\u03bc\u03b1: the former needs food, the latter clothing."
+        ],
+        "John Gill": [
+            "Christ does not forbid labour to maintain, support, and preserve, this animal life; nor does he forbid all thought and care about it, but all anxious, immoderate, perplexing, and distressing thoughts and cares.",
+            "The several and the only things, which are necessary for the support and comfort of human life, are mentioned; as meat, drink, and clothing; Eating and drinking are necessary to preserve life; and raiment, to cover and defend the body, from the injuries of the heavens.",
+            "Since these [life and body] are better, and much more excellent, than food and raiment, as all must and will acknowledge; and God has given these the greater gifts, it may be depended upon, that he will give the lesser."
+        ],
+        "John Wesley": [
+            "And if you serve God, you need be careful for nothing.",
+            "Beware of worldly cares; for these are as inconsistent with the true service of God as worldly desires.",
+            "Is not the life more than meat? And if God give the greater gift, will he deny the smaller?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be anxious about your life. The command here is not to have an excessive, worrisome care about the future, since God, who gives the greater gift of life and body, will surely provide the lesser gifts of food and clothing. The proper understanding of this verse is that we should not be burdened with uneasiness and worry about our needs, but rather trust in God's providence. By committing everything to Him in prayer and supplication, we can find peace in knowing that He will sustain and protect us, for our lives are more valuable than mere sustenance.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1469616144263295,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                30.13,
+                34.14,
+                35.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be anxious about your life. The command here is not to have an excessive, worrisome care about the future, since God, who gives the greater gift of life, will surely provide the lesser gifts of food and clothing. By committing everything to Him in prayer and supplication, we can find peace in knowing that He will sustain and protect us. Trusting in His providence and relinquishing our worries allows us to focus on what truly matters, for our lives are more valuable than mere sustenance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.0384267015686506,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                30.79,
+                33.37,
+                35.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be anxious about your life. The command here is not to have an excessive, worrisome care about the future, since God, who gives the greater gift of life, will surely provide the lesser gifts of food and clothing. By committing everything to Him in prayer and supplication, we can find peace in knowing that He will sustain and protect us. Trusting in His providence and relinquishing our worries allows us to focus on what truly matters, for our lives are more valuable than mere sustenance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.0384267015686506,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                30.79,
+                33.37,
+                35.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be anxious about your life. This command urges us not to be burdened with worry and care about our needs, but rather trust in God's providence. By committing everything to Him in prayer and supplication, we can find peace in knowing that He will sustain and protect us. We should not be excessive and anxious about the future, for our lives are far more valuable than mere sustenance, and God, who gives the greater gift of life, will surely provide the lesser gifts of food and clothing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0719468037101016,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                30.85,
+                33.5,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not be anxious about your life. This command encourages us to trust in God's providence and not be burdened with excessive worry about our needs. By committing everything to Him in prayer and supplication, we can find peace knowing that He will sustain and protect us. Our lives are more valuable than mere sustenance, and God, who gives the greater gift of life, will surely provide the lesser gifts of food and clothing. Therefore, we should not be anxious, but rather have faith in His provision.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.011846531667074,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                31.66,
+                33.76,
+                34.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

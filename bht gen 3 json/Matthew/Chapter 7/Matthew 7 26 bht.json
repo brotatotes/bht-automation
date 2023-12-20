@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 23:44:43",
+    "verseRef": "Matthew 7:26",
+    "bestBHT": {
+        "bht": "Those who listen to the teachings of Jesus but fail to put them into practice are compared to a foolish builder who constructs a house on an unstable foundation of sand. This metaphor represents an empty profession and superficial acts lacking true discipleship. It highlights the significance of not only hearing and teaching but also actively applying Jesus' teachings in one's life. This cautionary message emphasizes that mere hearing or profession is insufficient; one must fully embody and live out the teachings of Jesus to avoid the perils of empty words.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.6239692096898057,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+        "commentatorTierSimilarities": [
+            32.93,
+            28.56,
+            38.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And every one that heareth these sayings of mine\u2014in the attitude of discipleship.",
+            "and doeth them not, shall be likened unto a foolish man, which built his house upon the sand\u2014denoting a loose foundation\u2014that of an empty profession and mere external services."
+        ],
+        "Philip Schaff": [
+            "Life is the test, not knowledge, or profession, which may be included here under the word \u2018heareth.\u2019",
+            "Foolish, i.e., senseless, singularly imprudent.",
+            "The transitory teachings and works of man. For moral results, science itself is shifting sand compared to the Rock, Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The foolish builder put his house on the sands that could not hold in the storm.",
+            "One is reminded of the words of Jesus at the beginning of the Sermon in Matthew 5:19 about the one 'who does and teaches.'",
+            "Hearing sermons is a dangerous business if one does not put them into practice."
+        ],
+        "John Gill": [
+            "And everyone that heareth these sayings of mine... depends upon his external hearing of them, and contents himself with a speculative knowledge, without the practice of them, and doth them not... shall be likened unto a foolish man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns that those who hear the teachings of Jesus but do not put them into practice are like a foolish builder who erects a house on an unstable foundation, represented by sand. This signifies an empty profession and superficial acts without true discipleship. Just as Jesus mentioned in a previous part of the Sermon, it is not enough to merely listen or teach, but one must also act upon the teachings. Knowledge and profession alone are not sufficient; what truly matters is the application of Jesus' sayings in one's life. Hearing sermons without aligning one's actions accordingly is a perilous practice.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6246427679995263,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                34.81,
+                23.52,
+                41.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who hear the teachings of Jesus without putting them into practice are likened to a foolish builder erecting a house on an unstable foundation of sand. This signifies an empty profession and superficial acts without true discipleship. It emphasizes the importance of not just hearing and teaching, but also applying Jesus' teachings in one's life. The verse serves as a cautionary reminder that merely listening or professing is inadequate; one must actively live out the teachings of Jesus to avoid the dangers of empty words.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.624723507379502,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                33.73,
+                25.65,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who listen to the teachings of Jesus but fail to put them into practice are compared to a foolish builder who constructs a house on an unstable foundation of sand. This metaphor represents an empty profession and superficial acts lacking true discipleship. It highlights the significance of not only hearing and teaching but also actively applying Jesus' teachings in one's life. This cautionary message emphasizes that mere hearing or profession is insufficient; one must fully embody and live out the teachings of Jesus to avoid the perils of empty words.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.6239692096898057,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                32.93,
+                28.56,
+                38.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who hear the teachings of Jesus but fail to put them into practice are compared to a foolish builder who erects a house on a foundation of sand. This represents an empty profession and mere external services, lacking true discipleship. It serves as a reminder that it is not enough to simply listen to or teach the words of Jesus; one must also actively incorporate them into their daily lives. The passage emphasizes the importance of aligning actions with beliefs, as hearing sermons without applying them is a perilous practice.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.579105409864911,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.85,
+            "commentatorTierSimilarities": [
+                36.69,
+                20.74,
+                42.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who hear the teachings of Jesus but do not put them into practice are like a foolish builder who constructs their house on a foundation of sand. This metaphor represents an empty profession and superficial actions, highlighting the need for true discipleship. Merely listening or teaching without actively applying Jesus' teachings is not enough. The verse emphasizes the dangers of hearing sermons without aligning one's actions with the teachings, underscoring the importance of putting faith into action.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5676739885737607,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                35.38,
+                25.19,
+                39.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

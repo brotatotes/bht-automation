@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:47:57",
+    "verseRef": "Matthew 14:7",
+    "bestBHT": {
+        "bht": "In a state of gratification, Herod confessed his obligation and promised with an oath to give Salome whatever she desired. Salome's degrading dance entitled her to claim her reward, and Herod's foolish promise, based solely on her performance, raised questions about the extent of his commitment. When Salome requested the head of John the Baptist, she cunningly emphasized Herod's sworn oath by his own head, providing a fitting response to his senseless vow.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6379311016616986,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+        "commentatorTierSimilarities": [
+            32.6,
+            24.87,
+            42.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He promised [\u03c9\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03bd] . Lit., confessed; conveying the idea of acknowledging the obligation of his oath.",
+            "Salome had degraded herself to perform the part of an almeh or common dancer.",
+            "She could claim her reward."
+        ],
+        "Philip Schaff": [
+            "Matthew 14:7. The promise and oath of Herod show his gratification, which Herodias had anticipated. Mark adds: \u2018unto the half of my kingdom.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Promised with an oath.",
+            "Literally, 'confessed with an oath.'",
+            "Note middle voice of \u03b1\u03b9\u03c4\u03b7\u03c3\u03b7\u03c4\u03b1 (ask for herself)."
+        ],
+        "John Gill": [
+            "He first promised her, to give her whatsoever she would ask; and then repeating it, he confirmed it with an oath.",
+            "A very foolish promise and a rash oath these, which were made upon such a consideration, as only a fine dance.",
+            "If she, as Theophylact observes, had asked for his head, would he have given it her? And if he swore by his head, which was a common form of swearing with the Jews, she very appropriately, though unjustly, as Dr. Lightfoot observes, answers to him; as you have swore by your head, give me John Baptist's head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod made a foolish promise and a rash oath to Salome, acknowledging his obligation to give her whatever she asked for after she performed a degrading dance. He even confirmed his promise with an oath. This demonstrates his gratification and shows that Salome had the right to claim her reward. Theophylact wonders if Herod would have given her his own head if she had asked for it, and points out that she fittingly replied to him by asking for the head of John the Baptist, since he had sworn by his own head.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.561728332903333,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                31.25,
+                21.89,
+                46.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod confessed his obligation and promised to give Salome whatever she asked for, sealing his vow with an oath. Salome, having degraded herself with a dance, had the right to claim her reward. However, Theophylact questions whether Herod would have actually given her his own head if she had requested it, given his rash promise. Salome cleverly responds to his oath by asking for the head of John the Baptist, as he had sworn by his own head.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5308137118319842,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.24,
+            "commentatorTierSimilarities": [
+                34.02,
+                19.31,
+                46.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Herod, in a state of gratification, confessed his obligation and promised with an oath to give Salome whatever she desired. After her degrading dance, Salome could rightfully claim her reward. It was a foolish and rash promise, made solely based on her performance. The question arises: if Salome had asked for his own head, would Herod have fulfilled such a request? Salome's demand for John the Baptist's head, pointing out Herod's sworn oath by his own head, reveals her clever response to his foolish promise.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4313377234892222,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
+            "commentatorTierSimilarities": [
+                32.73,
+                21.21,
+                46.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a state of gratification, Herod confessed his obligation and promised with an oath to give Salome whatever she desired. Her degrading dance entitled her to claim her reward, and Herod's foolish and rash promise, based solely on her performance, raised questions about the extent of his commitment. When Salome demanded the head of John the Baptist, she cleverly pointed out Herod's sworn oath by his own head, providing justification for her request.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6209932684739312,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                33.12,
+                23.65,
+                43.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a state of gratification, Herod confessed his obligation and promised with an oath to give Salome whatever she desired. Salome's degrading dance entitled her to claim her reward, and Herod's foolish promise, based solely on her performance, raised questions about the extent of his commitment. When Salome requested the head of John the Baptist, she cunningly emphasized Herod's sworn oath by his own head, providing a fitting response to his senseless vow.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6379311016616986,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                32.6,
+                24.87,
+                42.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:53:06",
+    "verseRef": "Matthew 25:9",
+    "bestBHT": {
+        "bht": "The foolish virgins found themselves lacking oil for their lamps, and although they pleaded for the wise virgins to share, it was simply not possible. Each individual can only have as much of God's provision as will meet their own needs. The time for obtaining the oil had passed, and there would not be enough for both parties. This serves as a reminder that we must not neglect the opportunity to seek the necessary provisions for our spiritual journey, as there may come a time when it is too late to obtain them.",
+        "wordCount": 94,
+        "quoteTokenProportion": 52.86,
+        "qualityScore": 1.49829170419903,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+        "commentatorTierSimilarities": [
+            36.18,
+            17.21,
+            46.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No man can have more of this provision than will supply his own wants.\" ",
+            "The counsel was good, and well followed\u2014but the time was past.\" ",
+            "Observe that those who sell are a particular class of persons\u2014no mean argument for a set and appointed ministry; and moreover for a paid ministry."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A truly wise answer this. 'And what, then, if we shall share it with you? Why, both will be undone.'",
+            "It is merely a friendly way of reminding them of the proper way of obtaining the needed and precious article, with a certain reflection on them for having it now to seek.",
+            "Now, since what we pay the demanded price for becomes thereby our own property, the salvation which we thus take gratuitously at God's hands, being bought in His own sense of that word, becomes ours thereby in inalienable possession."
+        ],
+        "Marvin Vincent": [
+            "The Greek does not give the blunt negative of the A. V. It is a more courteous form of refusal, making the reason for refusing to supply the place of the negative.\" ",
+            "Lest perchance there be not by any means [\u03bf\u03c5 \u03bc\u03b7, \u03c4\u03b7\u03b5 \u03b4\u03bf\u03c5\u03b2\u03bb\u03b5 \u03bd\u03b5\u03b3\u03b1\u03c4\u03b9\u03c2\u03b5] enough.",
+            "The Rev. gives it very happily. Per adventure there will not be enough, etc."
+        ],
+        "John Calvin": [
+            "We know that the Lord distributes his gifts so variously to each, according to his measure, in order that they may give mutual aid to each other.",
+            "That portion of grace received, which every man has laid up for himself, is, therefore, justly compared to a stock of provisions for a journey, which would not be enough for a greater number of persons.",
+            "There once was a time for buying, which you ought not to have neglected; for oil was at that time offered for sale, but the means of obtaining it are now withdrawn."
+        ],
+        "Philip Schaff": [
+            "Not so.",
+            "There will not be enough.",
+            "The brightness of the outward life, moreover, is to be a part of the glory of that hour."
+        ],
+        "Archibald T. Robertson": [
+            "We are afraid that there is no possibility of there being enough for us both.",
+            "It was necessary to show that the foolish virgins could not have the consequences of their folly averted at the last moment.",
+            "The compound Greek negatives are very expressive, \u03bc\u03b7\u03c0\u03bf\u03c4\u03b5--\u03bf\u03c5 \u03bc\u03b7."
+        ],
+        "John Gill": [
+            "saints know that all grace comes from Father, Son, and Spirit; and frankly own, that what they have is from thence; and they give God all the glory of it, and cannot bear any such application to them for it, as this",
+            "saints have a large abundance of grace communicated to them; some have more, others less; at least it so appears, as to exercise; but they that have the most, have none to spare, and see their need of more; and ask for more, being sensible that present grace in them, is not sufficient for time to come, but grace in Christ only",
+            "directing them to go to proper persons for grace; not to men, even ministers of the Gospel, nor to angels; but to God the Father, the Father of mercies, and God of all comfort, who sits on a throne of grace, and gives it liberally to them that come to him for it through Christ, and ask it of him; and to Christ the mediator, who is full of grace and truth, and counsels persons to buy of him gold tried in the fire, grace more precious than the purest gold; and to the Spirit of grace, who gives it to all severally as he will"
+        ],
+        "John Wesley": [
+            "Lest there be not enough for us and you! \u2014 Beginning the sentence with a beautiful abruptness; such as showed their surprise at the state of those poor wretches, who had so long received them, as well as their own souls.",
+            "It is sure there is not; for no man has more than holiness enough for himself.",
+            "The time is past and returns no more!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The foolish virgins were clearly in a desperate situation, as they realized too late that they did not have enough oil to keep their lamps burning. They pleaded with the wise virgins to share their oil, but it was simply not possible. Each person can only have as much of God's provision as will supply their own needs; it is not something that can be shared or given away. The wise virgins understood this and refused to sell their oil, explaining that if they were to share it, both would be undone. While it may seem unkind or uncaring, this refusal was a necessary reminder of the proper way of obtaining the needed and precious oil. The foolish virgins had missed their opportunity to acquire it and now had to face the consequences of their neglect. The Greek language used in this passage reflects the certainty that there would not be enough for both parties, using double negatives to emphasize the impossibility of the situation. The time for obtaining the oil had passed, and now they had to face the reality that there was simply not enough. This serves as a reminder that we must not neglect the opportunity to seek and acquire the necessary provisions for our spiritual journey, as there may come a time when it is too late to obtain them.",
+            "wordCount": 225,
+            "quoteTokenProportion": 42.98,
+            "qualityScore": 1.4720202840325738,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                41.77,
+                13.12,
+                45.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The foolish virgins were in a desperate situation, realizing too late that they didn't have enough oil. In a kind yet firm manner, the wise virgins reminded them that each person can only have as much of God's provision as will supply their own needs. It wasn't possible to share the oil, as both would be undone. The time for obtaining the oil had passed, showing the importance of not neglecting the opportunity to seek what is necessary.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.437077537285778,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                42.29,
+                12.92,
+                44.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The foolish virgins found themselves lacking oil for their lamps, and although they pleaded for the wise virgins to share, it was simply not possible. Each individual can only have as much of God's provision as will meet their own needs. The time for obtaining the oil had passed, and there would not be enough for both parties. This serves as a reminder that we must not neglect the opportunity to seek the necessary provisions for our spiritual journey, as there may come a time when it is too late to obtain them.",
+            "wordCount": 94,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 1.49829170419903,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+            "commentatorTierSimilarities": [
+                36.18,
+                17.21,
+                46.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The foolish virgins found themselves without enough oil for their lamps, and despite their plea for the wise virgins to share, it was not possible. Each person can only have enough of God's provision to meet their own needs. The time for obtaining the oil had passed, and there simply would not be enough for both parties. This story reminds us of the importance of diligently seeking and acquiring what is necessary for our spiritual journey, before it is too late.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.4622079215736836,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                38.59,
+                14.51,
+                46.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The foolish virgins found themselves in a desperate situation, lacking enough oil for their lamps. Despite their plea for the wise virgins to share, it was impossible. Each person can only have as much of God's provision as will supply their own needs. The time for obtaining the oil had passed, and there was simply not enough. This reminds us to not neglect the opportunity to seek the necessary provisions for our spiritual journey, as there may come a time when it is too late to obtain them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.4291788335995523,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                40.41,
+                14.7,
+                44.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

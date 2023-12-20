@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:46:43",
+    "verseRef": "Matthew 11:30",
+    "bestBHT": {
+        "bht": "The rest that Christ offers can be seen as both a yoke and a burden, representing the struggle and sorrow that come from our sinful nature. However, this yoke is light, providing a peace that surpasses understanding and upholds the soul. Christ's yoke is described as wholesome, serviceable, and kindly, encompassing all of these meanings. While it may not be easy in the ordinary sense, it is a gracious and beneficial yoke that makes all other burdens light and easy to bear.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.175578082554625,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+        "commentatorTierSimilarities": [
+            33.29,
+            29.16,
+            37.56
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Owing to the conflict with evil ever incident to our corrupt nature even under grace, the rest which Christ gives is yet to be viewed as a yoke and a burden, seen on this its painful side, of conflict and sorrow.\" ",
+            "But it is a light yoke; the inner rest in the soul giving a peace which passeth understanding, and bearing it up against all.\" ",
+            "See 2 Cor. iv. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Matchless paradox, even among the paradoxically couched maxims in which our Lord delights!",
+            "That rest which the soul experiences when once safe under Christ's wing makes all yokes easy, all burdens light."
+        ],
+        "Albert Barnes": [
+            "A spirit of inquiry about the person and works of Christ is especially proper.",
+            "Clear proof has been furnished that Jesus is the Christ and can save us.",
+            "The poor and needy; the weary and heavy-ladened; the soul sick of sin and of the world; the sinner conscious of guilt and afraid to die, may come to Jesus Christ and live."
+        ],
+        "Marvin Vincent": [
+            "Christ's yoke is not easy in the ordinary sense of that word. The word means originally, good, serviceable.",
+            "The three meanings combine in the word, though it is impossible to find an English word which combines them all.",
+            "Christ's yoke is wholesome, serviceable, kindly."
+        ],
+        "Philip Schaff": [
+            "Christ does not promise freedom from labor and burdens, but promises that we shall be so changed as to find them \u2018wholesome\u2019 and light.",
+            "Christ indeed demands a righteousness exceeding that of the Scribes and Pharisees, and teaches us that there is a depth of meaning in the law, which our consciences did not perceive; yet. He says that His yoke, His requirements, are wholesome, and His burden, oftentimes a cross, is light!",
+            "Saved by Him, indeed, as Augustine says, the yoke is like the plumage of the bird, an easy weight enabling it to soar heavenward."
+        ],
+        "John Gill": [
+            "For my yoke is easy, and my burden is light.\" ",
+            "His commandments are not grievous, hard and heavy to be borne, as theirs were, but easy and light.",
+            "The commands of Christ, and the ordinances of the Gospel, are so in comparison of the law of Moses; which required perfect obedience, but gave no strength to perform, and threatened with condemnation and death, in case of the least failure."
+        ],
+        "John Wesley": [
+            "For my yoke is easy \u2014 Or rather gracious, sweet, benign, delightful: and my burden - Contrary to those of men, is ease, liberty, and honour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rest that Christ gives to believers can be seen from two perspectives. On one hand, it is a yoke and a burden, as our corrupt nature and the conflict with evil cause us to face sorrow and struggles. However, this yoke is light, providing inner rest to the soul and a peace beyond understanding. The paradox of Christ's yoke lies in its threefold meaning: it is wholesome, serviceable, and kindly. Though it may not be easy in the ordinary sense, it is a gracious and beneficial yoke. By taking on Christ's yoke and finding rest in Him, all other burdens become light and easy to bear.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.9848402325974837,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                34.22,
+                29.41,
+                36.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rest that Christ provides is both a yoke and a burden, seen as the painful side of conflict and sorrow due to our corrupt nature. However, this yoke is light and brings inner rest to the soul, offering a peace that surpasses understanding. Christ's yoke is described as wholesome, serviceable, and kindly, encompassing all of these meanings. While it may not be easy in the conventional sense, it is a gracious and beneficial yoke that makes all other burdens light and easy to bear.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.151790626686135,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+            "commentatorTierSimilarities": [
+                34.69,
+                28.06,
+                37.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's rest can be viewed as both a yoke and a burden, representing the conflict and sorrow that arise from our sinful nature. Yet, this yoke is light, bringing a peace that surpasses understanding to the soul. Christ's yoke is described as wholesome, serviceable, and kindly, encompassing all of these meanings. Although it may not be easy in the ordinary sense, it is a gracious and beneficial yoke that makes all other burdens light and easy to bear.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1669608368360738,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                34.3,
+                28.44,
+                37.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rest that Christ gives can be seen as a yoke and a burden, representing the conflict and sorrow that comes from our corrupt nature. However, this yoke is light and brings an inner rest that provides a peace beyond understanding. Christ's yoke is described as wholesome, serviceable, and kindly. Though it may not be easy in the usual sense, it is a gracious and beneficial yoke that makes all other burdens light and easy to bear.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.159601297907196,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                33.74,
+                27.58,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rest that Christ offers can be seen as both a yoke and a burden, representing the struggle and sorrow that come from our sinful nature. However, this yoke is light, providing a peace that surpasses understanding and upholds the soul. Christ's yoke is described as wholesome, serviceable, and kindly, encompassing all of these meanings. While it may not be easy in the ordinary sense, it is a gracious and beneficial yoke that makes all other burdens light and easy to bear.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.175578082554625,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                33.29,
+                29.16,
+                37.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

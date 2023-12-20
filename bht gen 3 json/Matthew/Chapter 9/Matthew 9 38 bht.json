@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:54",
+    "verseRef": "Matthew 9:38",
+    "bestBHT": {
+        "bht": "Pray to the Lord of the harvest that He will send laborers into His harvest, thrusting them out with urgency. Prayer is the remedy Jesus offers in this crisis for a larger ministerial supply. Sometimes God has to push or force a person into ministry when they resist their known duty. Efficient laborers who are good pastors are needed in the harvest that includes the Gentile nations. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.9169495828596728,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+        "commentatorTierSimilarities": [
+            30.39,
+            38.82,
+            30.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Pray ye therefore the Lord of the harvest\u2014the great Lord and Proprietor of all.",
+            "That he will send forth labourers into his harvest.",
+            "The word properly means 'thrust forth'; but this emphatic sense disappears in some places."
+        ],
+        "Marvin Vincent": [
+            "Send forth [\u03b5\u03ba\u03b2\u03b1\u03bb\u03b7] . So A. V. and Rev. But the word is stronger : thrust out, force them out, as from urgent necessity. "
+        ],
+        "John Calvin": [
+            "As no man will of himself become a sincere and faithful minister of the gospel...",
+            "...none discharge in a proper manner the office of teacher but those whom the Lord raises up and endows with the gifts of his Spirit...",
+            "There never was greater necessity for offering this prayer than during the fearful desolation of the church which we now see every where around us."
+        ],
+        "Philip Schaff": [
+            "The harvest included the Gentile nations, for the laborers sent forth at this time afterwards preached to them also.",
+            "Real laborers are needed, but only such as God sends forth.",
+            "The mention of a \u2018shepherd\u2019 suggests that the prayer should be for efficient laborers who are good pastors."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus turns from the figure of the shepherdless sheep to the harvest field ripe and ready for the reapers.\" ",
+            "Prayer is the remedy offered by Jesus in this crisis for a larger ministerial supply.\" ",
+            "Sometimes God literally has to push or force a man into the ministry who resists his known duty."
+        ],
+        "John Gill": [
+            "By 'the Lord of the harvest' is either meant God the Father...who has a hearty concern for them, and will have them all gathered in...",
+            "He only is able to furnish with ministerial gifts, to work upon, and powerfully incline the hearts of men to this service, to call and send them forth into it, and to assist and succeed them in it.",
+            "The request the disciples are directed to make, concerning these persons for this work, is, that the Lord of the harvest would 'send', or 'thrust' them 'forth'; implying power and efficacy, and authority, on the part of the sender."
+        ],
+        "John Wesley": [
+            "The Lord of the harvest \u2014 Whose peculiar work and office it is, and who alone is able to do it.\" ",
+            "It is an employ not pleasing to flesh and blood; so full of reproach, labour, danger, temptation of every kind, that nature may well be averse to it.\" ",
+            "He sends them forth, when he calls them by his Spirit, furnishes them with grace and gifts for the work, and makes a way for them to be employed therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pray to the Lord of the harvest, the great Lord and Proprietor of all, that He will send forth laborers into His harvest, thrusting them out with urgency and necessity. In this crisis for a larger ministerial supply, Jesus offers prayer as the remedy. Sometimes, God has to push or force a person into the ministry when they resist their known duty. The harvest includes the Gentile nations, and efficient laborers who are good pastors are needed. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher. Offer this prayer during the fearful desolation of the church we see around us, as only the Lord of the harvest, with His power, efficacy, and authority, can furnish with ministerial gifts and call and send forth workers into His service.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.57,
+            "qualityScore": 1.8988077690169307,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                29.07,
+                36.09,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pray to the Lord of the harvest, that He will send forth laborers into His harvest, thrusting them out with urgency. In this crisis for a larger ministerial supply, Jesus offers prayer as the remedy. Sometimes, God has to push or force a person into the ministry when they resist duty. The harvest includes the Gentile nations, and efficient laborers who are good pastors are needed. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.907544377102143,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.77,
+            "commentatorTierSimilarities": [
+                30.16,
+                38.68,
+                31.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pray to the Lord of the harvest that He will send laborers into His harvest, thrusting them out with urgency. Prayer is the remedy Jesus offers in this crisis for a larger ministerial supply. Sometimes God has to push or force a person into ministry when they resist their known duty. Efficient laborers who are good pastors are needed in the harvest that includes the Gentile nations. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.9169495828596728,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                30.39,
+                38.82,
+                30.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pray to the Lord of the harvest to send forth laborers into His harvest with urgency. Jesus offers prayer as the remedy for a larger ministerial supply. Sometimes God has to force a person into ministry when they resist their duty. Efficient laborers who are good pastors are needed in the harvest, including the Gentile nations. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8742565116826166,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                28.84,
+                40.25,
+                30.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pray to the Lord of the harvest, the great Lord and Proprietor, to send forth laborers into His harvest with urgency and necessity. In this crisis for a larger ministerial supply, Jesus urges prayer as the remedy. Sometimes God has to force a person into ministry when they resist their duty. Efficient laborers who are good pastors are needed in the harvest, including the Gentile nations. Only those whom the Lord raises up and endows with His Spirit can properly discharge the office of teacher.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.910909033329688,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                29.5,
+                39.07,
+                31.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:54:09",
+    "verseRef": "Matthew 27:3",
+    "bestBHT": {
+        "bht": "Judas, struck with horror and remorse, might have anticipated an even deeper sense of sorrow for his actions. His awakened conscience serves as a powerful illustration of the consequences of sin. However, the question of Christ's innocence is brushed aside, focusing solely on Judas's personal responsibility. Judas's sorrow, akin to repentance in its sense of being sorry afterwards, lacks true transformative power. His primary motive of avarice becomes evident, leading him away from the Savior and towards a tragic end.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.9617760862341571,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+        "commentatorTierSimilarities": [
+            27.28,
+            37.05,
+            35.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The condemnation... might well fill him with horror.",
+            "But perhaps this unhappy man expected, that... his remorse would come upon him with all the greater keenness.",
+            "A remarkable illustration of the power of an awakened conscience."
+        ],
+        "Albert Barnes": [
+            "This shows that Judas did not suppose that the affair would have resulted in this calamitous manner. He probably expected that Jesus would work a miracle to deliver himself.",
+            "When he saw him taken, bound, tried, and condemned - when he saw that all probability that he would deliver himself was taken away - he was overwhelmed with disappointment, sorrow, and remorse.",
+            "True repentance leads the sinner to the Saviour. This led away from the Saviour to the gallows."
+        ],
+        "Marvin Vincent": [
+            "What is that to us? They ignore the question of Christ's innocence.",
+            "As to Judas' sin or conscience, that is his matter.",
+            "Thou wilt see to that."
+        ],
+        "John Calvin": [
+            "Judas conceived disgust and horror, not so as to turn to God, but rather that, being overwhelmed with despair, he might serve as an example of a man entirely shut out from the grace of God.",
+            "Wicked men are far from such a feeling; for they would desire to sin without intermission, and even, as far as lies in their power, they endeavor to deceive both God and their own conscience.",
+            "If Judas had listened to the warning of Christ, there would still have been place for repentance; but since he despised so gracious an offer of salvation, he is given up to the dominion of Satan, that he may throw him into despair."
+        ],
+        "Philip Schaff": [
+            "That Judas did not expect this issue, seems contrary to the words of his confession (Matthew 27:4). This circumstance shows that his object was not to induce Jesus to display His glory; in that case his repentance would have led him to Christ and not to suicide.",
+            "Remorse is caused by the consequences of sin; repentance is only occasioned by them; in remorse the sorrow is for the consequences, in repentance for the cause, and the sin itself.",
+            "The bringing back of the money really supports the view that his one great motive was avarice. Remorse, calling for rectification before men, would point to the moving cause of his crime."
+        ],
+        "Archibald T. Robertson": [
+            "This verb (first aorist passive participle of \u03bc\u03b5\u03c4\u03b1\u03bc\u03b5\u03bb\u03bf\u03bc\u03b1) really means to be sorry afterwards like the English word repent from the Latin repoenitet, to have pain again or afterwards.",
+            "The word does not have an evil sense in itself.",
+            "But mere sorrow avails nothing unless it leads to change of mind and life (\u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b9\u03b1), the sorrow according to God."
+        ],
+        "John Gill": [
+            "It was not such a repentance by which he became wiser and better; but an excruciating, tormenting pain in his mind, by which he became worse.",
+            "Judas's repentance was without hope of forgiveness, and was nothing else but horror and black despair, like that of Cain's, like the trembling of devils, and the anguish of damned souls.",
+            "He being filled with remorse of conscience for what he had done, feels no quietness in his mind; nor could he save of what he had desired, but is obliged to return it; not from an honest principle, as in the case of true repentance, but on account of a racking and torturing conscience."
+        ],
+        "John Wesley": [
+            "Then Judas seeing that he was condemned \u2014 Which probably he thought Christ would have prevented by a miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, filled with horror at the condemnation he had brought upon himself, perhaps expected that his remorse would intensify. His awakened conscience served as a powerful example, demonstrating the importance of true repentance. However, those around him refused to acknowledge the question of Christ's innocence, proclaiming that Judas's sin and conscience were his own responsibility. While he returned the money out of a sense of remorse, true repentance requires a change of heart and life. Judas's actions revealed that his motives were rooted in avarice, not a genuine desire for Christ's glory. Instead of leading him to the Savior, his sorrow led him to the gallows. This lack of expectation for such a calamitous outcome suggests that Judas did not anticipate the full consequences of his actions. The remorse he experienced was focused on the consequences, rather than the sin itself, highlighting the key difference between remorse and repentance.",
+            "wordCount": 153,
+            "quoteTokenProportion": 38.54,
+            "qualityScore": 2.073060141726146,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                23.46,
+                39.98,
+                36.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, filled with horror and remorse at the condemnation he had brought upon himself, serves as a striking example of the power of an awakened conscience. While those around him dismiss Christ's innocence, Judas's sin and conscience become his own matter. His sorrow, though akin to repentance in the sense of being sorry afterwards, lacks the element of true change of mind and life, rendering it ineffective. Judas's motivations, primarily driven by avarice, lead him away from the Savior rather than towards salvation. The consequences of his actions overwhelm him, driving him to despair and ultimately to his tragic end.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.0277573667679456,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                25.0,
+                37.3,
+                37.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas, consumed by horror and remorse, expected his anguish to intensify after the condemnation he had brought upon himself. His awakened conscience serves as a vivid display of the power of an awakened conscience. However, the question of Christ's innocence is dismissed, neglecting the true gravity of Judas's sin. Merely being sorry afterwards, without the necessary change of mind and life, holds no value. Judas's actions reveal his true motives of avarice, leading him down a path of further despair and ultimately tragic consequences.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.833062142192904,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                27.7,
+                36.53,
+                35.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, struck with horror and remorse, might have anticipated an even deeper sense of sorrow for his actions. His awakened conscience serves as a powerful illustration of the consequences of sin. However, the question of Christ's innocence is brushed aside, focusing solely on Judas's personal responsibility. Judas's sorrow, akin to repentance in its sense of being sorry afterwards, lacks true transformative power. His primary motive of avarice becomes evident, leading him away from the Savior and towards a tragic end.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9617760862341571,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                27.28,
+                37.05,
+                35.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, overwhelmed by horror and remorse from his own condemnation, may have anticipated an even greater intensity of sorrow. His awakened conscience serves as a remarkable example of the power it possesses. Nevertheless, the question of Christ's innocence is disregarded, emphasizing Judas's own guilt. Judas's sorrow, resembling repentance as it is a later regret, lacks the transformative element of genuine change in mind and life. His underlying motivation of avarice becomes clear, leading him further away from the Savior and ultimately to his tragic fate.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9319958049496597,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                27.81,
+                36.94,
+                35.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

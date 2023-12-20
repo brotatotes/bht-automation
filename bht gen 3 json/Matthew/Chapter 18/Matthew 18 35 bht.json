@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:50:01",
+    "verseRef": "Matthew 18:35",
+    "bestBHT": {
+        "bht": "It is not fitting for someone so wicked and malicious to claim God as their Father, as Chrysostom solemnly points out. Jesus emphasizes that if we do not forgive, our heavenly Father will treat us similarly. This parable of the unmerciful servant serves as a reminder of the need for genuine forgiveness, not just empty words.",
+        "wordCount": 56,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.863960669721914,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+        "commentatorTierSimilarities": [
+            26.04,
+            33.52,
+            40.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is more solemn and denunciatory, 'for it is not seemly that God should be called the Father of such an one, so wicked and malicious.'\" ",
+            "- Chrysostom",
+            "It is not seemly that God should be called the Father of such an one.",
+            "- Chrysostom",
+            "So wicked and malicious.",
+            "- Chrysostom"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So likewise\u2014in this spirit, or on this principle.",
+            "Shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+        ],
+        "Albert Barnes": [
+            "Humility is indispensable to religion.\" ",
+            "The most humble man is the most eminent Christian.\" ",
+            "No man ever did or ever can enjoy religion who did not from his heart forgive his brother his trespasses."
+        ],
+        "Philip Schaff": [
+            "It is an overstraining of the parable to infer that God revokes His pardon.",
+            "The character of the servant is not that of one actually forgiven, since with pardon from God power from God is inseparably joined.",
+            "Where the moral conditions of a Christian life fail, the man who fancies he has been pardoned is actually more guilty than before."
+        ],
+        "Archibald T. Robertson": [
+            "No sham or lip pardon, and as often as needed.",
+            "This is Christ's full reply to Peter's question.",
+            "This parable of the unmerciful servant is surely needed today."
+        ],
+        "John Gill": [
+            "God, who is Christ's Father, that is in heaven, will act in like manner towards all such persons, who are cruel and hard hearted to their brethren, and are of merciless and unforgiving spirits.\" ",
+            "These should be forgiven fully, freely, and from the heart, forgetting, as well as forgiving, not upbraiding with them, or with former offences, and aggravating them.",
+            "It is certainly the will of God, that we should forgive one another all trespasses and offences."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is not fitting for someone so wicked and malicious to claim God as their Father, as Chrysostom solemnly points out. Jesus emphasizes the importance of forgiving others from the heart, warning that if we do not forgive, our heavenly Father will treat us similarly. This parable of the unmerciful servant serves as a reminder of the need for genuine forgiveness, not just empty words. It is a call to truly forgive and forget, just as God forgives us.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.9191864446065532,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                23.17,
+                32.75,
+                44.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is not fitting for someone so wicked and malicious to claim God as their Father, as Chrysostom solemnly points out. Jesus emphasizes that if we do not forgive, our heavenly Father will treat us similarly. This parable of the unmerciful servant serves as a reminder of the need for genuine forgiveness, not just empty words.",
+            "wordCount": 56,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.863960669721914,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                26.04,
+                33.52,
+                40.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is not fitting for God to be called the Father of someone who is wicked and malicious. In the same way, if we do not forgive others from our hearts, our heavenly Father will treat us in the same way. It is not enough to offer superficial forgiveness, but we must truly forgive others as many times as needed. This parable of the unmerciful servant reminds us of the importance of forgiveness in our lives today. Humility is essential to our faith, and a humble person is truly a great Christian. Without forgiveness, true enjoyment of religion is impossible. God, our heavenly Father, will act similarly towards those who are merciless and unforgiving, just as Christ's Father in heaven would. Therefore, it is God's will that we forgive one another completely, freely, and from our hearts, letting go of past offenses and not holding them against others.",
+            "wordCount": 150,
+            "quoteTokenProportion": 46.07,
+            "qualityScore": 1.8299848999719508,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                21.6,
+                34.19,
+                44.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If we are wicked and malicious, it is not fitting for God to be called our Father. Similarly, if we do not forgive others from our hearts, our heavenly Father will treat us the same way. Lip service to forgiveness is not enough; we must truly forgive others, just as God forgives us. The parable of the unmerciful servant teaches us the importance of forgiveness in our lives today. Humility is vital to our faith, and a humble person is a great Christian. God will act in a similar way towards those who are merciless and unforgiving. Therefore, it is God's will that we fully and freely forgive one another, from the heart, letting go of past offenses.",
+            "wordCount": 119,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.8568687954339298,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                20.84,
+                34.19,
+                44.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who are wicked and malicious cannot be called children of God, just as God will treat those who do not forgive with the same severity. Superficial forgiveness is not enough; true forgiveness requires a genuine heart change. The parable of the unmerciful servant serves as a reminder of the importance of forgiveness in our present times. Humility is essential to our faith, and the most humble individuals are the most exemplary Christians. God will respond in a similar manner to those who lack mercy and forgiveness. Hence, it is God's desire for us to extend complete and heartfelt forgiveness to one another, letting go of past offenses.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.8247795883370674,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                19.39,
+                35.72,
+                44.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

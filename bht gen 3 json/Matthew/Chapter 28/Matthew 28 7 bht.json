@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:55:03",
+    "verseRef": "Matthew 28:7",
+    "bestBHT": {
+        "bht": "After rising from the dead, Jesus sent a message to his disciples through the women who witnessed the resurrection. He instructed them to go quickly and inform the disciples that he would go before them into Galilee, emphasizing the accuracy and solemnity of his words. Galilee held significance as the place where Jesus had initially preached and had a large following. The gathering in Galilee would serve as a special occasion for the disciples to see Jesus together, solidifying the truth of his resurrection.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.163486455246624,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+        "commentatorTierSimilarities": [
+            33.72,
+            33.2,
+            33.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It appears strange that this should be the entire testimony of St. Matthew: for it seems hardly likely that he would omit those important appearances in Jerusalem when the Apostles were assembled, John xx. 19, 26, or that one which was closed by the Ascension.",
+            "The goeth before here is not to be understood as implying the journeying on the part of our Lord Himself. It is cited from His own words, ch. xxvi. 32, and there, as here, merely implies that He would be there when they arrived.",
+            "lo, I have told you is to give solemnity to the command. These words are peculiar to Matthew, and are a mark of accuracy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And go quickly, and tell his disciples... that he is risen from the dead\" - ",
+            "he goeth before you into Galilee... there shall ye see him\" - ",
+            "Behold, ye have this word from the world of light!"
+        ],
+        "Albert Barnes": [
+            "Tell Peter.\" This was a kind message to Peter, who had so recently denied his Lord. It would serve to cheer him in his despondency, and to assure him that his sin had been forgiven.",
+            "It shows the tender love and remembrance of Jesus, even for his unfaithful friends."
+        ],
+        "Marvin Vincent": [
+            "He goeth before you [\u03c0\u03c1\u03bf\u03b1\u03b3\u03b5\u03b9] . He is in the act of going. See on Matthew 26:32."
+        ],
+        "John Calvin": [
+            "Here God, by the angel, confers extraordinary honor on the women, by enjoining them to proclaim to the apostles themselves the chief point of our salvation.",
+            "He did so, I think, in order that Christ might make himself known to a great number of persons; for we know that he had lived a long time in Galilee.",
+            "By this manner of speaking the angel earnestly assures them that what is said is true."
+        ],
+        "Philip Schaff": [
+            "Women bore the first glad tidings from beyond the grave.",
+            "The gathering of the flock in Galilee was a measure of prudence, to prevent persecution, and to dissociate them from the old temple.",
+            "Lo, I have told you. These words, adding solemnity to the important announcement, are peculiar to Matthew, and a mark of accuracy."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus did appear to the disciples in Galilee on two notable occasions.",
+            "Jesus did not say that he would not see any of them in Jerusalem. He merely made a definite appointment in Galilee which he kept.",
+            "He goeth before you into Galilee."
+        ],
+        "John Gill": [
+            "This news was first brought to the apostles by women, who were greatly honoured hereby; that as the woman was first in the transgression, and the cause of death, so the first news of the resurrection of Christ to life, and of life and immortality being by him, who was first showed the path of life, were brought by women.",
+            "And behold he goeth before you into Galilee...though it was also true, that he should go before these women into Galilee, and who also should see him there.",
+            "The reasons why this place was pitched upon for Christ and his apostles to meet in, were, because here he first preached, and chiefly conversed, and had the largest number of disciples there, to whom he meant to show himself."
+        ],
+        "John Wesley": [
+            "There shall ye see him \u2014 In his solemn appearance to them all together.",
+            "But their gracious Lord would not be absent so long: he appeared to them several times before then.",
+            "Lo, I have told you \u2014 A solemn confirmation of what he had said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, who had risen from the dead, sent a message to his disciples through the women who were the first to witness his resurrection. He instructed them to go quickly and tell his disciples that he would be going before them into Galilee, where they would have the opportunity to see him. This announcement was made with great solemnity to emphasize its importance. Jesus wanted to gather his followers in Galilee as a measure of prudence and to dissociate them from the old temple. The mention of Galilee was significant because it was the place where Jesus had initially preached and had the largest number of disciples. He had already appeared to the disciples multiple times, but the meeting in Galilee would be a special and solemn occasion where they would all see him together, reaffirming the truth of his resurrection.",
+            "wordCount": 141,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 2.074556761821711,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                31.99,
+                33.44,
+                34.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, having risen from the dead, sent a message through the women, instructing them to tell the disciples that he would go before them into Galilee. This announcement was given with solemnity, ensuring its accuracy. Gathering in Galilee served as a prudent measure to avoid persecution and separate from the old temple. Galilee was significant because it was where Jesus had initially preached and had many disciples. The disciples had already seen Jesus, but the meeting in Galilee would be a special occasion where they would all see him together, confirming the truth of his resurrection.",
+            "wordCount": 96,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.00909249238427,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                32.54,
+                34.87,
+                32.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After his resurrection, Jesus sent a message through the women to his disciples, assuring them that he would go before them into Galilee. The mention of Galilee was intentional, as it held significance as the place where Jesus had initially preached and where he had a large following. This meeting in Galilee would serve as a special occasion for the disciples to see Jesus together, reaffirming the truth of his resurrection. The message was delivered with solemnity and accuracy, emphasizing its importance and authenticity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9914785368480548,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                29.83,
+                36.37,
+                33.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After rising from the dead, Jesus sent a message to his disciples through the women who witnessed the resurrection. He instructed them to go quickly and inform the disciples that he would go before them into Galilee, emphasizing the accuracy and solemnity of his words. Galilee held significance as the place where Jesus had initially preached and had a large following. The gathering in Galilee would serve as a special occasion for the disciples to see Jesus together, solidifying the truth of his resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.163486455246624,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                33.72,
+                33.2,
+                33.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, having risen from the dead, sent a message through the women to his disciples, instructing them that he would go before them into Galilee. This announcement was given with solemnity and accuracy, emphasizing its importance. Gathering in Galilee served as a measure of prudence, away from persecution and the old temple. Galilee was significant because it was where Jesus first preached and had many disciples. The meeting in Galilee would be a special occasion, confirming the truth of his resurrection as they all saw him together.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9869270159637127,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                31.02,
+                36.58,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

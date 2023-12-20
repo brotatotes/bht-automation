@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:46:02",
+    "verseRef": "Matthew 10:33",
+    "bestBHT": {
+        "bht": "Those who deny Jesus before others will be denied by Him before God, receiving the same treatment in return. This denial is not a trivial matter, but a serious breach, reflecting a complete and final rejection of Christ. Choosing to deny Him is to go against His will and act in opposition to His teachings. Even the failure to openly confess Him due to fear is seen by Jesus as a denial. As a result, He will disown those who deny Him, refusing any recognition or association with them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.263196772802877,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+        "commentatorTierSimilarities": [
+            24.86,
+            0.0,
+            75.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven\u2014before that same assembly.\" ",
+            "He shall have from Me his own treatment of Me on the earth.\" ",
+            "But see on :-)."
+        ],
+        "Archibald T. Robertson": [
+            "This is a solemn law, not a mere social breach, this cleavage by Christ of the man who repudiates him, public and final.",
+            "Aorist subjunctive here with \u03bf\u03c3\u03c4\u03b9\u03c2, though future indicative \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5 above.",
+            "Note accusative here (case of extension), saying 'no' to Christ, complete breach."
+        ],
+        "John Gill": [
+            "But whosoever shall deny me before men... act contrary to him, deliver things repugnant to his mind and will.\" ",
+            "...even not to confess him, through fear of men, is interpreted, by Christ, a denial of him.\" ",
+            "He will deny them to be disciples, or that they belong to him; he will deny that he ever knew them, loved or approved of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever denies Jesus before others will also be denied by Jesus before God, ensuring they receive the same treatment as they gave Him on earth. This isn't merely a social breach, but a grave offense with lasting consequences. It is a complete and final rupture, a clear rejection of Christ. To deny Him is to act against His will, to deliver things that are contrary to His nature. Even failing to confess Him out of fear of men is seen by Christ as a denial of Him. In response, He will deny any relation or acknowledgement of those who deny Him, disowning them as His disciples.",
+            "wordCount": 107,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 1.1928123273453306,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.0,
+            "commentatorTierSimilarities": [
+                27.24,
+                0.0,
+                72.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who deny Jesus before others will be denied by Him before God, receiving the same treatment in return. This denial is not a trivial matter, but a serious breach, reflecting a complete and final rejection of Christ. Choosing to deny Him is to go against His will and act in opposition to His teachings. Even the failure to openly confess Him due to fear is seen by Jesus as a denial. As a result, He will disown those who deny Him, refusing any recognition or association with them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.263196772802877,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+            "commentatorTierSimilarities": [
+                24.86,
+                0.0,
+                75.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To deny Jesus before others is to be denied by Him before God. This denial is not a casual offense, but a serious breach that severs the relationship with Christ. It is a deliberate rejection of Him and His teachings. Even the failure to openly acknowledge Jesus due to fear is considered a form of denial. In response to this denial, Jesus will disown those who have denied Him, denying any knowledge or association with them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.138497782966679,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.2,
+            "commentatorTierSimilarities": [
+                25.53,
+                0.0,
+                74.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who choose to deny Jesus before others will be denied by Him before His Father in heaven, specifically in the assembly of believers. This denial is not a simple social breach, but a solemn law with eternal consequences. It is a complete and public repudiation of Christ, which results in Him treating the denier in the same manner they treated Him on earth. To deny Jesus is to act contrary to His mind and will, and even a failure to confess Him out of fear is regarded by Christ as a denial. In such instances, He will disown those individuals, declaring that He never knew, loved, or approved of them as His disciples.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.275979269762642,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.77,
+            "commentatorTierSimilarities": [
+                29.45,
+                0.0,
+                70.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who choose to deny Jesus in the presence of others will face His denial before His Father in heaven, within the assembly of believers. This is not a mere social breach, but a significant law with lasting consequences. It is a complete and public rejection of Christ, resulting in Him treating the denier accordingly. Denying Jesus involves acting contrary to His will and even failing to acknowledge Him due to fear is considered a denial. In such cases, Jesus will disassociate Himself from those individuals, proclaiming that He never knew, loved, or approved of them as His disciples.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.1294201536508408,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.9,
+            "commentatorTierSimilarities": [
+                30.79,
+                0.0,
+                69.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

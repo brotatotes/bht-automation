@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:49:04",
+    "verseRef": "Matthew 17:8",
+    "bestBHT": {
+        "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud, leaving Jesus alone. This signifies the sufficiency of His authority, as the voice from the cloud was only concerning Him. We must not stop at Moses but be led by his hand to Christ, not confusing Jesus with prophets or saints, but seeing Him as the only Mediator and Redeemer.",
+        "wordCount": 70,
+        "quoteTokenProportion": 48.0,
+        "qualityScore": 1.7842892690942391,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+        "commentatorTierSimilarities": [
+            42.16,
+            29.04,
+            28.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "If we would properly avail ourselves of the aid of Moses, we must not stop with him, but must endeavor to be conducted by his hand to Christ.\" ",
+            "This passage may also be applied to condemn the superstitions of those who confound Christ not only with prophets and apostles, but with saints of the lowest rank, in such a manner as to make him nothing more than one of their number.",
+            "If we are made to experience that consolation by which Christ relieves us of our fears, all those foolish affections, which distract us on every hand, will vanish away."
+        ],
+        "Philip Schaff": [
+            "Save Jesus only. Without Moses and Elijah.",
+            "The hour of glory was over, and the Lord now in His usual lowliness, resumed His intercourse with them.",
+            "The sufficiency of His authority is implied, in view of the command of Matthew 17:5."
+        ],
+        "Archibald T. Robertson": [
+            "After the reassuring touch of Jesus and his words of cheer.",
+            "Moses and Elijah were gone in the bright cloud."
+        ],
+        "John Gill": [
+            "Signifying, that though the law and the prophets were till this time, they were now finished and completed, and the Mosaic economy was to be no more.",
+            "Christ is the only Mediator, Saviour, and Redeemer; the only Prophet, Priest, and King; and who only is to be, and can be beheld as such.",
+            "Jesus was found alone\"; which was so ordered, that it might be a clear case, that this voice was only concerning Christ, and not either Moses or Elias."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud. Without them, Jesus alone remained, resuming His usual lowliness and showing the sufficiency of His authority. We should not stop at Moses but be led by his hand to Christ. Let us not confuse Jesus with prophets, apostles, or even saints, but recognize Him as the only Mediator, Savior, and Redeemer. Christ is the one to be beheld as such, as made clear when Jesus was found alone, the voice from the cloud only concerning Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.7276255358909558,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "commentatorTierSimilarities": [
+                36.61,
+                30.94,
+                32.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud. Without them, Jesus alone remained, resuming His usual lowliness and showing the sufficiency of His authority. We should not stop at Moses but be led by his hand to Christ. Let us not confuse Jesus with prophets, apostles, or even saints, but recognize Him as the only Mediator, Savior, and Redeemer. Christ is the one to be beheld as such.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.6400234728329979,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                35.15,
+                31.67,
+                33.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud. Without them, Jesus alone remained, resuming His usual lowliness. The sufficiency of His authority is implied, as Jesus was found alone, making it clear that the voice from the cloud was only concerning Him. We should not stop with Moses but strive to be guided by his hand to Christ. Let us not confuse Jesus with prophets, apostles, or even saints, but recognize Him as the only Mediator, Savior, and Redeemer.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.680606679859794,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                38.17,
+                31.74,
+                30.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud. Without them, Jesus alone remained, resuming His usual lowliness. The sufficiency of His authority is implied, as Jesus was found alone, making it clear that the voice from the cloud was only concerning Him. We should not stop with Moses but strive to be guided by his hand to Christ. Let us not confuse Jesus with prophets or saints, but recognize Him as the only Mediator and Redeemer.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.6878098917247626,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                38.33,
+                31.65,
+                30.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the reassuring touch of Jesus and his words of cheer, Moses and Elijah were gone in the bright cloud, leaving Jesus alone. This signifies the sufficiency of His authority, as the voice from the cloud was only concerning Him. We must not stop at Moses but be led by his hand to Christ, not confusing Jesus with prophets or saints, but seeing Him as the only Mediator and Redeemer.",
+            "wordCount": 70,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.7842892690942391,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                42.16,
+                29.04,
+                28.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:45:20",
+    "verseRef": "Matthew 9:4",
+    "bestBHT": {
+        "bht": "Jesus, perceiving their evil thoughts, demonstrates his divine knowledge and authority. His ability to search the heart and know their thoughts proves his omniscience and his claim to be the Son of God. By forgiving sins directly, Jesus challenges the opposition of the Pharisees who demand priestly intervention. This instance serves as a powerful demonstration of his deity and exposes the wickedness of those who reject the openly manifested God.",
+        "wordCount": 70,
+        "quoteTokenProportion": 26.53,
+        "qualityScore": 1.4471889162750833,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.46,
+        "commentatorTierSimilarities": [
+            19.54,
+            40.29,
+            40.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No other interpretation of such passages is admissible.",
+            "St. Mark\u2019s expression, 'perceived in his spirit,' is more precise and conclusive.",
+            "From wherefore to thine house is common (nearly verbatim) to the three Evangelists."
+        ],
+        "Albert Barnes": [
+            "The power of searching the heart, and of knowing the thoughts of people, belongs only to God.",
+            "In claiming this, as Jesus did here, and often elsewhere, he gave clear proofs of his omniscience.",
+            "Jesus, knowing their thoughts - Mark says, 'Jesus perceived 'in his spirit' that they so reasoned.'"
+        ],
+        "John Calvin": [
+            "He now gives a proof of his Divinity in bringing to light their secret thoughts.\" ",
+            "Christ by his Divine Spirit knew it thoroughly.\" ",
+            "They proudly and wickedly rejected God, who was openly manifested to them."
+        ],
+        "Philip Schaff": [
+            "Our Lord thus claims much for His Person.",
+            "It assumes that opposition to Christ's power to forgive sins is in itself wicked.",
+            "Pharisaism has often opposed such direct absolution, calling for priestly intervention."
+        ],
+        "John Gill": [
+            "Which was a clear evidence, and full demonstration of his deity; for none knows the thoughts of the heart but God...",
+            "...it could be no blasphemy in him to take that to himself which belonged to God, even to forgive sins.",
+            "...this instance is a glaring proof: hence he said, wherefore think ye evil in your hearts?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, perceiving the evil thoughts of those around him, reveals his divine knowledge and authority by addressing their unspoken doubts. His ability to search the heart and know their thoughts is a clear proof of his omniscience and his claim to be the Son of God. By forgiving sins directly, Jesus challenges the opposition of the Pharisees who demand priestly intervention. This instance serves as a powerful demonstration of his deity and the wickedness of those who reject the open manifestation of God. Jesus' question, Wherefore think ye evil in your hearts? exposes their pride and refusal to acknowledge him as God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.387013706760871,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
+            "commentatorTierSimilarities": [
+                20.91,
+                38.33,
+                40.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, perceiving their evil thoughts, demonstrates his divine knowledge and authority. His ability to search the heart and know their thoughts proves his omniscience and affirms his claim of being the Son of God. By directly forgiving sins, Jesus challenges the opposition of the Pharisees who insist on priestly intervention. This instance serves as a powerful demonstration of his deity and reveals the wickedness of those who reject the openly manifested God. Jesus' question, Wherefore think ye evil in your hearts? exposes their proud refusal to acknowledge him as God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.4153377540847436,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.4,
+            "commentatorTierSimilarities": [
+                21.08,
+                38.11,
+                40.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, perceiving their evil thoughts, displays his divine knowledge and authority. His ability to search the heart and know their thoughts gives evidence of his omniscience and affirms his claim to be the Son of God. By forgiving sins directly, Jesus challenges the opposition of the Pharisees who require priestly intervention. This instance serves as a compelling demonstration of his deity and exposes the wickedness of those who reject the openly manifested God. Jesus prompts with the question, Wherefore think ye evil in your hearts? revealing their prideful denial of his divinity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.415535587455069,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                21.77,
+                37.69,
+                40.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, perceiving their evil thoughts, proves his divine knowledge and authority. By searching the heart and knowing their thoughts, he demonstrates his omniscience and claims to be the Son of God. When he forgives sins directly, he challenges the Pharisees who insist on priestly intervention. This moment provides a powerful illustration of his deity, exposing the wickedness of those who reject the visible manifestation of God. Jesus questions their motives, asking, Wherefore think ye evil in your hearts? revealing their refusal to recognize his divine identity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.391388124952098,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                20.59,
+                38.24,
+                41.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, perceiving their evil thoughts, demonstrates his divine knowledge and authority. His ability to search the heart and know their thoughts proves his omniscience and his claim to be the Son of God. By forgiving sins directly, Jesus challenges the opposition of the Pharisees who demand priestly intervention. This instance serves as a powerful demonstration of his deity and exposes the wickedness of those who reject the openly manifested God.",
+            "wordCount": 70,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.4471889162750833,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.46,
+            "commentatorTierSimilarities": [
+                19.54,
+                40.29,
+                40.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

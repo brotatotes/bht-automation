@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:52:34",
+    "verseRef": "Matthew 24:42",
+    "bestBHT": {
+        "bht": "Jesus exhorts his disciples to be watchful and alert, emphasizing the uncertainty of the time of his second coming. They are urged to keep their minds in full activity, passing through the world as pilgrims. The suddenness and unexpectedness of his coming call for a state of readiness, without seeking to know what cannot be known. God intends for the timing of Christ's coming to remain hidden, compelling believers to maintain diligent watchfulness.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7818849291317553,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+        "commentatorTierSimilarities": [
+            23.34,
+            40.68,
+            35.97
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord here resumes the tone of direct exhortation with which He commenced."
+        ],
+        "Albert Barnes": [
+            "Watch - Be looking for his coming. Be expecting it as near; as a great event; as coming in an unexpected manner. Watch the signs of his coming, and be ready."
+        ],
+        "Marvin Vincent": [
+            "What hour. Later texts, however, read hJmera, day. poia hJmera, in what kind of day, whether a near or a remote one.",
+            "Similarly ver 43 ejn poia fulakh, in what kind of a watch, whether a night or a morning watch."
+        ],
+        "John Calvin": [
+            "The single word watch \u2014 which we find in Matthew \u2014 denotes that uninterrupted attention which keeps our minds in full activity, and makes us pass through the world like pilgrims.",
+            "The uncertainty as to the time of Christ\u2019s coming...ought to be felt by us to be an excitement to attention and watchfulness.",
+            "God intended that it should be hidden from us, for the express purpose that we may keep diligent watch without the relaxation of a single hour."
+        ],
+        "Philip Schaff": [
+            "In view of the suddenness and unexpectedness of this coming, 'watch.'",
+            "Not, be always expecting what will come unexpectedly, nor be seeking to know what cannot be known, but be always in the state of readiness, because of the uncertainty.",
+            "Be always in the state of readiness, because of the uncertainty."
+        ],
+        "Archibald T. Robertson": [
+            "Watch therefore... Keep awake, be on the watch 'therefore' because of the uncertainty of the time of the second coming.",
+            "Jesus gives a half dozen parables to enforce the point of this exhortation.",
+            "Matthew does not give the Parable of the Porter."
+        ],
+        "John Gill": [
+            "Watch therefore,.... Since the time of this desolation is so uncertain, and since it will come upon the Jews unawares...\" (25 words)",
+            "for ye know not what hour your Lord doth come; to avenge himself of the unbelieving Jews, and fulfil what he in person, and by his apostles, had predicted and warned them of...\" (34 words)",
+            "though I will not deny, but that what follows may be much better accommodated and applied to the second coming of Christ, and the last judgment...\" (32 words)"
+        ],
+        "John Wesley": [
+            "Ye know not what hour your Lord cometh \u2014 Either to require your soul of you, or to avenge himself of this nation. Mark 13:33; Luke 12:35; 21:34."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus exhorts his disciples to be watchful and alert, emphasizing the uncertainty of the time of his second coming. They are urged to keep their minds in full activity, passing through the world as pilgrims. The suddenness and unexpectedness of his coming call for a state of readiness, without seeking to know what cannot be known. God intends for the timing of Christ's coming to remain hidden, compelling believers to maintain diligent watchfulness.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7818849291317553,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                23.34,
+                40.68,
+                35.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus urges his disciples to watch therefore and be on the lookout for his second coming, emphasizing the uncertainty of the timing. They are encouraged to keep their minds active and vigilant, journeying through the world as pilgrims. The suddenness and unexpected nature of this event highlight the need for constant readiness without seeking to know the unknowable. God intentionally conceals the timing of Christ's coming as a means to compel believers to remain attentively watchful.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7701717015820404,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                22.29,
+                43.14,
+                34.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus directly exhorts his followers to watch therefore due to the uncertainty of the time of his second coming. This call to be alert and attentive is emphasized through the use of parables, highlighting the need for continuous readiness. Believers are encouraged to remain in a state of constant vigilance, as the specific hour of the Lord's coming is unknown. The hiddenness of this event serves as a motivation to maintain unwavering watchfulness, navigating the world as spiritual pilgrims.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.771411794405502,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                26.62,
+                36.25,
+                37.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus implores his disciples to watch therefore in light of the uncertain timing of his second coming. This exhortation emphasizes the need for unwavering vigilance and attentiveness. Believers are urged to actively engage their minds, journeying through the world as pilgrims, always prepared for the unexpected. The hiddenness of the hour encourages believers to remain in a constant state of readiness, diligently watching without the relaxation of a single hour. The unpredictability of Christ's coming serves as a reminder to stay alert, as the exact moment remains concealed from mankind.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.737168900429801,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                25.34,
+                38.9,
+                35.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus urges his disciples to watch therefore and be on the lookout for his second coming, emphasizing the uncertainty of the timing. They are encouraged to keep their minds active and vigilant, journeying through the world as pilgrims. Believers are reminded to remain in a constant state of readiness, diligently watching without the relaxation of a single hour. The unpredictability of Christ's coming serves as a reminder to stay alert, as the exact moment remains concealed from mankind.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.751829046653794,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                22.92,
+                38.34,
+                38.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:52:12",
+    "verseRef": "Matthew 23:16",
+    "bestBHT": {
+        "bht": "Jesus reproached the Pharisees for their deceptive practices in regard to oaths. They regarded oaths made by the temple as trivial, while considering oaths made by the gold of the temple as binding. Their flawed reasoning prioritized material possessions over the true sanctity of the temple. Jesus denounces them as blind guides, stating that failing to honor an oath made by the gold of the temple results in guilt and perjury. This condemnation exposes their hypocritical teachings and highlights the dangers of valuing external shows over genuine devotion.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.9602221695527764,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+        "commentatorTierSimilarities": [
+            30.81,
+            35.81,
+            33.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord forbade all swearing to His own disciples, ch. v. 34; and by the very same reasoning\u2014because every oath is really and eventually an oath by God\u2014shews these Pharisees the validity and solemnity of every oath.",
+            "This subterfuge became notorious at Rome.",
+            "See citation in my Gr. Test."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Woe unto you, ye blind guides.\" - Striking expression this of the ruinous effects of erroneous teaching.",
+            "Our Lord, here and in some following verses, condemns the subtle distinctions they made as to the sanctity of oaths\u2014distinctions invented only to promote their own avaricious purposes.",
+            "It should have been rendered, 'he is a debtor,' as in Matthew 23:1."
+        ],
+        "Albert Barnes": [
+            "It is nothing - It amounts to nothing - it is not binding.",
+            "The gold of the temple - Either the golden vessels in the temple - the candlestick, etc.; or the gold with which the doors and other parts of the temple were covered; or the gold in the treasury. This, it seems, they considered far more sacred than any other part of the temple, but it is not known why.",
+            "He is a debtor - He is bound to keep his oath. He is guilty if he violates it."
+        ],
+        "John Calvin": [
+            "As ambition is almost always connected with hypocrisy, so the superstitions of the people are usually encouraged by the covetousness and rapacity of pastors.",
+            "There is nothing to which men are more prone than to fall away from the pure worship of God: and therefore, under the covering of this veil, it was easy for Satan to withdraw from the contemplation of God those who were too strongly inclined to foolish imaginations.",
+            "And yet the Papists were not ashamed to prostitute the sacred name of God to a mockery still more detestable; for they reckon it of more importance to touch a morsel of a stinking carcass, than to peruse the sacred volume of the Old and New Testaments, or even to raise their hands towards heaven."
+        ],
+        "Philip Schaff": [
+            "Ye blind guides. Wilfully blind, self-deluded (\u2018fools and blind,\u2019 Matthew 23:17), they persisted in leading others astray.",
+            "By the temple. A common oath, comp. chap. Matthew 5:34-37, where kindred oaths are referred to, and all swearing forbidden.",
+            "This they regarded as a binding oath. Whatever their reason may have been, the Pharisees thus put the gold above the temple. A sign of covetousness, and of a tendency to exalt church ornaments above the house of God itself."
+        ],
+        "Archibald T. Robertson": [
+            "Ye blind guides (\u03bf\u03b4\u03b7\u03b3\u03bf \u03c4\u03c5\u03c6\u03bb\u03bf). Note omission of 'Scribes and Pharisees, hypocrites' with this third woe.\" ",
+            "They split hairs about oaths, as Jesus had explained in Matthew 5:33-37, between the temple and the gold of the temple.",
+            "He owes his oath, is bound by his oath. A.V., is guilty , is old English, obsolete sense of guilt as fine or payment."
+        ],
+        "John Gill": [
+            "Woe unto you, you blind guides,.... Meaning the same persons, the Scribes and Pharisees, as before, though not named, who pretended to be 'guides of the blind', Romans 2:19 but were themselves blind, and so very unfit to be guides of others.",
+            "which say, whosoever shall swear by the temple, it is nothing; meaning either that it was no sin to use such an oath, or it was not binding upon a man: he might choose whether he would abide by what he swore by the temple he would do; and thus they ignorantly, and wickedly encouraged vain swearing and perjury.",
+            "But whosoever shall swear by the gold of the temple, he is guilty; or is bound, or is a debtor, to make good his oath; he cannot be excused, but must be obliged to fulfill it; or if he does not, he is guilty of perjury."
+        ],
+        "John Wesley": [
+            "Wo to you, ye blind guides \u2014 Before he had styled them hypocrites, from their personal character: now he gives them another title, respecting their influence upon others.\" ",
+            "Both these appellations are severely put together in the23d and Matthew 23:23,2525th verses; and this severity rises to the height in the33d verse.\" ",
+            "He is bound \u2014 To keep his oath."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights how Jesus condemned the Pharisees for their elaborate and deceitful distinctions regarding oaths. They made it seem as if oaths made by the temple were insignificant, but when it came to oaths made by the gold of the temple, they considered them to be binding and obligatory. This misplaced prioritization revealed their avaricious motives and their inclination to elevate material possessions over the true sacredness of the temple. Jesus calls them blind guides because their erroneous teachings caused ruinous effects. He emphasizes the seriousness of keeping one's oath by stating that failing to fulfill it would make the person guilty of perjury. Jesus's condemnation exposes the Pharisees' hypocrisy and warns against the dangers of placing importance on outward displays rather than true devotion.",
+            "wordCount": 128,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9132729466105423,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                31.08,
+                33.44,
+                35.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reproached the Pharisees for their deceptive practices in regard to oaths. They regarded oaths made by the temple as trivial, while considering oaths made by the gold of the temple as binding. Their flawed reasoning prioritized material possessions over the true sanctity of the temple. Jesus denounces them as blind guides, stating that failing to honor an oath made by the gold of the temple results in guilt and perjury. This condemnation exposes their hypocritical teachings and highlights the dangers of valuing external shows over genuine devotion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.9602221695527764,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                30.81,
+                35.81,
+                33.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus rebuked the Pharisees for their cunning methods regarding oaths. While they considered oaths made by the temple to be inconsequential, they deemed oaths made by the gold of the temple as binding. This distorted mindset reflected their greed and their propensity to elevate material possessions above the holy temple itself. Jesus condemned them as blind guides, exposing the detrimental impact of their false teachings. He emphasized the gravity of oath-keeping, stating that failing to fulfill an oath made by the gold of the temple equates to guilt and perjury. This critique underscores the danger of prioritizing external displays over genuine devotion.",
+            "wordCount": 103,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.8320189367527555,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                29.9,
+                35.4,
+                34.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus criticized the Pharisees for their deceptive practices regarding oaths. They considered oaths sworn by the temple to be insignificant, while regarding oaths sworn by the gold of the temple as binding. This flawed distinction highlighted their avaricious motives and their tendency to prioritize material possessions over true devotion. Jesus condemned them as blind guides, exposing the harmful consequences of their misleading teachings. He emphasized the seriousness of oath-keeping, stating that failing to fulfill an oath made by the gold of the temple would result in guilt and perjury.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.9217504825146263,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                30.26,
+                35.14,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus condemned the Pharisees for their deceitful handling of oaths. They dismissed the significance of oaths made by the temple but upheld the binding nature of oaths made by the gold of the temple. This skewed perspective revealed their avaricious motives and their tendency to prioritize material possessions above true piety. Jesus denounced them as blind guides, exposing the destructive consequences of their false teachings. He stressed the gravity of keeping one's oath, stating that failing to fulfill an oath made by the gold of the temple would result in guilt and perjury.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.9253963028811931,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                30.36,
+                35.13,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

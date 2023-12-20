@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:52:39",
+    "verseRef": "Matthew 25:4",
+    "bestBHT": {
+        "bht": "The lamps, representing the hearts of believers, are lit with the flame of heavenly love and patience, as they are supplied with the oil of the Spirit. The wise ones diligently seek more and more of God's Holy Spirit through the appointed means of grace. This supply of oil denotes the inward reality of grace, the source of the new spiritual life. The extra supply of oil in their vessels symbolizes the love in their hearts and their continuous pursuit of spiritual strength until their faith is made perfect.",
+        "wordCount": 90,
+        "quoteTokenProportion": 28.3,
+        "qualityScore": 2.24783499085796,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+        "commentatorTierSimilarities": [
+            45.09,
+            0.0,
+            54.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The lamps being the hearts lit with the flame of heavenly love and patience, supplied with the oil of the Spirit.",
+            "The wise ones gave all diligence to make their calling and election sure, making their bodies, souls, and spirits a means of supplying spiritual food for the light within.",
+            "by seeking, in the appointed means of grace, more and more of God\u2019s Holy Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But since the foolish as well as the wise took their lamps and went forth with them to meet the Bridegroom, these lighted lamps and this advance a certain way in company with the wise, must denote that Christian profession which is common to all who bear the Christian name.",
+            "Then, since the wisdom of 'the wise' consisted in their taking with their lamps a supply of oil in their vessels, keeping their lamps burning till the Bridegroom came, and so fitting them to go in with Him to the marriage, this supply of oil must mean that inward reality of grace which alone will stand when He appears whose eyes are as a flame of fire.",
+            "This supply of oil, then, representing that inward grace which distinguishes the wise, must denote, more particularly, that 'supply of the Spirit of Jesus Christ,' which, as it is the source of the new spiritual life at the first, is the secret of its enduring character."
+        ],
+        "Archibald T. Robertson": [
+            "In their vessels...Extra supply in these receptacles besides the oil in the dish on top of the staff.\" "
+        ],
+        "John Gill": [
+            "They were concerned for the true grace of God, being enlightened by the Spirit of God; they saw their need of the grace of God, and being directed by him where it was to be had, went to Christ for it.",
+            "Here, in these vessels, sanctified by the Spirit of God, the wise virgins had the oil of grace, which is an internal thing: it is nothing in the head, in the tongue, or in the hand, but something in the heart.",
+            "All grace was put into Christ's hands for them; the Spirit of God was sent down to apply it to them, and work it in them; Which is generally done by means, which they made use of by his direction and assistance, and so may be said to take it."
+        ],
+        "John Wesley": [
+            "The wise took oil in their vessels \u2014 Love in their hearts. And they daily sought a fresh supply of spiritual strength, till their faith was made perfect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The lamps represent the hearts of believers, filled with heavenly love and patience, sustained by the oil of the Spirit. The wise virgins diligently sought the fullness of God's Spirit, making their whole being a vessel to supply spiritual nourishment for their inner light. This supply of oil signifies the inward reality of grace, the enduring character of the new spiritual life. It is by constantly seeking the Holy Spirit through the means of grace that they were able to be fully prepared to meet the Bridegroom. The extra supply of oil in their vessels symbolizes the love in their hearts and their continuous pursuit of spiritual strength until their faith was made perfect.",
+            "wordCount": 115,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 2.200859099028797,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                42.54,
+                0.0,
+                57.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The lamps represent the hearts of believers, lit with the flame of heavenly love and patience, supplied with the oil of the Spirit. The wise ones diligently sought to make their calling and election sure, making their whole being a means of supplying spiritual food for the light within, by seeking more and more of God's Holy Spirit. This supply of oil represents the inward grace that distinguishes the wise and signifies the enduring character of the new spiritual life. The extra supply in their vessels symbolizes the love in their hearts and their continuous pursuit of spiritual strength until their faith was made perfect.",
+            "wordCount": 106,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 2.2159446756003343,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                43.02,
+                0.0,
+                56.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lamps, symbolizing the hearts of believers, are filled with the oil of the Spirit, representing the inward grace that distinguishes the wise virgins. These wise ones diligently sought the Holy Spirit through the means of grace, continuously pursuing spiritual strength until their faith was made perfect. By making their bodies, souls, and spirits a means of supplying spiritual nourishment, they were prepared to meet the Bridegroom. The extra supply of oil in their vessels indicates the love in their hearts and their unwavering commitment to seeking a fresh supply of spiritual strength.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.220380492299058,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                42.69,
+                0.0,
+                57.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lamps, symbolizing the hearts of believers, are filled with the oil of the Spirit, representing the inward grace that distinguishes the wise virgins. These wise ones diligently sought the Holy Spirit through the means of grace, continuously pursuing spiritual strength until their faith was made perfect. The extra supply of oil in their vessels indicates the love in their hearts and their unwavering commitment to seeking a fresh supply of spiritual strength. Their daily pursuit of the Spirit's presence demonstrates their dedication to preparing themselves to meet the Bridegroom.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.114036580596446,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                42.34,
+                0.0,
+                57.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lamps, representing the hearts of believers, are lit with the flame of heavenly love and patience, as they are supplied with the oil of the Spirit. The wise ones diligently seek more and more of God's Holy Spirit through the appointed means of grace. This supply of oil denotes the inward reality of grace, the source of the new spiritual life. The extra supply of oil in their vessels symbolizes the love in their hearts and their continuous pursuit of spiritual strength until their faith is made perfect.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.24783499085796,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                45.09,
+                0.0,
+                54.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

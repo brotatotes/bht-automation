@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:53:59",
+    "verseRef": "Matthew 27:16",
+    "bestBHT": {
+        "bht": "Barabbas, a leader in an insurrection and guilty of murder, was a notable prisoner. Some believe he was a false messiah or a leader among the Zealots, while others see him as a thief and a robber. His name, which means the son of his father, alludes to his ruined state and identity as a child of the devil. Barabbas was infamous for his crimes and actions, making him a well-known figure among the people of that time.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.1610709709615645,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+        "commentatorTierSimilarities": [
+            0.0,
+            53.6,
+            46.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "A notable prisoner. A leader in an insurrection in which he had committed murder (Mark and Luke). John calls him \u2018a robber.\u2019 Probably one of the Zealots, of whom Josephus speaks. His crime was really political.",
+            "Barabbas, \u2018Barabbas,\u2019 i.e., \u2018the son of his father;\u2019 although other meanings have been discovered in it. Some minor authorities call him, \u2018Jesus Barabbas,\u2019 and many think he was a false Messiah; but this is a mere conjecture."
+        ],
+        "John Gill": [
+            "This prisoner is called a 'notable' one; that is, a famous, or rather an infamous one.",
+            "He was a thief, and a robber, and had been guilty of sedition; had made, or joined with others in an insurrection, and had committed murder in it.",
+            "A father's child that was spoiled and ruined, and a child of his father the devil."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse tells us about Barabbas, a notable prisoner, who had committed murder and was involved in an insurrection. Some sources suggest that Barabbas may have been a false messiah or a leader of the Zealots. He was infamous for his crimes and known as a thief and a robber. Barabbas, the son of his father, represents someone who is spoiled and ruined, ultimately being a child of the devil.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.1168995311245125,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.74,
+                46.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barabbas, a notorious prisoner, was distinguished for his infamous acts of sedition and murder. Some speculate that he may have been a false messiah or a leader among the Zealots. He was widely regarded as a thief and a robber. The name Barabbas itself is said to mean 'the son of his father,' suggesting a characterization of being spoiled and ruined, revealing his true identity as a child of the devil.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.992655139258865,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.48,
+                46.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barabbas, a leader in an insurrection and guilty of murder, was a notable prisoner. Some believe he was a false messiah or a leader among the Zealots, while others see him as a thief and a robber. His name, which means the son of his father, alludes to his ruined state and identity as a child of the devil. Barabbas was infamous for his crimes and actions, making him a well-known figure among the people of that time.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.1610709709615645,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.6,
+                46.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barabbas, a notable prisoner, was no stranger to infamy. He was involved in an insurrection, committing murder and engaging in seditious acts. Some suggest that he might have been a false messiah or a leader among the Zealots, though this remains a conjecture. Nonetheless, Barabbas was widely regarded as a thief and a robber, notorious for his criminal activities. His very name, meaning the son of his father, seems to allude to his ruined state and his association with the devil.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7951786546295965,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                54.68,
+                45.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barabbas, a notable prisoner, was infamous for his involvement in an insurrection and his commitment of murder. Speculations arise about him being a false messiah or a leader among the Zealots. However, his reputation as a thief and a robber is widely accepted. The name Barabbas reflects his ruined state as the son of his father, implying a connection with the devil. The people of that time were well aware of Barabbas and his notorious deeds.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6578224113539732,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.48,
+                44.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

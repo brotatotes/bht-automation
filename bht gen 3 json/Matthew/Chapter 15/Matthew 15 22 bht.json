@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:48:43",
+    "verseRef": "Matthew 15:22",
+    "bestBHT": {
+        "bht": "The Canaanite woman, hailing from the borders between Phoenicia and Galilee, displayed her familiarity with Jewish expressions and expectations by referring to Jesus as the Son of David. Despite not belonging to the Lord's flock, she boldly cried out, urging him to have pity on her daughter who was badly demonized. Her faith in Jesus's power and dominion was evident in her belief that he could remove her daughter's affliction by a mere word.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.697495454833871,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+        "commentatorTierSimilarities": [
+            34.85,
+            24.66,
+            40.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression 'Son of David' shews her acquaintance with Jewish expressions and expectations.",
+            "It was not this woman\u2019s dwelling-place, but her descent, which placed the bar between her and our Lord\u2019s ministrations.",
+            "The whole narrative is against the supposition, that she may have been a proselyte of the gate."
+        ],
+        "Marvin Vincent": [
+            "Grievously vexed with a devil [\u03ba\u03b1\u03ba\u03c9\u03c2 \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03b6\u03b5\u03c4\u03b1\u03b9] . Lit., is badly demonized.\" ",
+            "Cried [\u03b5\u03ba\u03c1\u03b1\u03c5\u03b3\u03b1\u03c3\u03b5\u03bd] . With a loud, importunate cry : from behind. Compare after, ver. 23. Making her daughter 's misery her own.",
+            "Out of the same coasts [\u03b1\u03c0\u03bf \u03c4\u03c9\u03bd \u03bf\u03c1\u03b9\u03c9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03c9\u03bd] . Lit., as Rev., from those borders; i e., she crossed from Phoenicia into Galilee."
+        ],
+        "John Calvin": [
+            "Though this woman was an alien, and did not belong to the Lord\u2019s flock, yet she had acquired some taste of piety.",
+            "As the restoration of the Church depended on the reign of David, whenever they spoke of the Messiah, it was customary for them to employ the name, Son of David.",
+            "It was therefore not less absurd than wicked in that dog, Servetus, to abuse this example for the purpose of proving that faith may exist without promises."
+        ],
+        "Philip Schaff": [
+            "Her race, not her country, is thus noted.",
+            "Her request; Have mercy on me, exhibits her faith, far more than the title she used.",
+            "Such possessions were therefore not confined to the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "A Canaanitish woman (\u03b3\u03c5\u03bd\u03b7 \u03a7\u03b1\u03bd\u03b1\u03bd\u03b1\u03b9\u03b1). The Phoenicians were descended from the Canaanites, the original inhabitants of Palestine.",
+            "They were of Semitic race, therefore, though pagan.",
+            "Have pity on me (\u03b5\u03bb\u03b5\u03b7\u03c3\u03bf\u03bd \u03bc\u03b5). She made her daughter's case her own, 'badly demonized.'"
+        ],
+        "John Gill": [
+            "This shows that Christ did not go into these places, but only to the borders of them, since she is said to come out of them to him.",
+            "The first of these characters expresses her faith in his power, dominion, and government, that all persons and things, and so all diseases were at his command, and control; and that being Lord of all, he could remove them at his pleasure.",
+            "And her request to him was, that he would cast him out of her: believing he had power so to do, without seeing or touching her, only by a word speaking: her faith was like that of the centurion's."
+        ],
+        "John Wesley": [
+            "Canaan was also called Syrophenicia, as lying between Syria properly so called, and Phenicia, by the sea side.",
+            "Cried to him \u2014 From afar",
+            "Thou Son of David - So she had some knowledge of the promised Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Canaanite woman in Matthew 15:22, by referring to Jesus as the Son of David, demonstrated her familiarity with Jewish expressions and expectations. While her descent separated her from the Lord's ministrations, she boldly cried out to him, making her daughter's affliction her own. Crossing from Phoenicia into Galilee, she appealed to Jesus to have pity on her, identifying her daughter as badly demonized. Though not a part of the Lord's flock, she had acquired a taste for piety and understood that he had the power to heal her daughter with just a word.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6252734696835154,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                36.83,
+                22.32,
+                40.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Canaanite woman, a descendant of the Canaanites who were the original inhabitants of Palestine, acknowledged Jesus as the Son of David, indicating her knowledge of the promised Messiah. Crossing into Galilee, she desperately cried out to Jesus, imploring him to have mercy and heal her daughter who was grievously demonized. Though she was not part of the Lord's flock, her faith in his power and dominion drove her to seek his intervention with the confidence that he could remove her daughter's affliction by a simple word.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6022382205813703,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                34.1,
+                21.71,
+                44.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Canaanite woman, hailing from the borders between Phoenicia and Galilee, displayed her familiarity with Jewish expressions and expectations by referring to Jesus as the Son of David. Despite not belonging to the Lord's flock, she boldly cried out, urging him to have pity on her daughter who was badly demonized. Her faith in Jesus's power and dominion was evident in her belief that he could remove her daughter's affliction by a mere word.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.697495454833871,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                34.85,
+                24.66,
+                40.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Canaanite woman, who hailed from the borders between Phoenicia and Galilee, demonstrated her familiarity with Jewish expressions and expectations by acknowledging Jesus as the Son of David. Grievously vexed with a demon, she cried out loudly, pleading for his mercy and intervention. Despite not belonging to the Lord's flock, her persistent faith in Jesus's power led her to seek his help, believing that he could heal her daughter with a single word.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5581858003837388,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.15,
+            "commentatorTierSimilarities": [
+                35.31,
+                24.32,
+                40.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Canaanite woman, a descendant of the Canaanites who were the original inhabitants of Palestine, recognized Jesus as the Son of David, reflecting her knowledge of the promised Messiah. Though not a part of the Lord's flock, she boldly cried out to Him, making her daughter's suffering her own. Crossing from Phoenicia into Galilee, she implored Jesus to have pity on her, acknowledging her daughter's severe affliction. Her faith in Jesus' power compelled her to seek healing, firmly believing that He had the authority to cast out the demon with a simple word.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6074947868258838,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+            "commentatorTierSimilarities": [
+                35.16,
+                23.97,
+                40.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

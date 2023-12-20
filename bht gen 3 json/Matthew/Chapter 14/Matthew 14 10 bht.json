@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:48:12",
+    "verseRef": "Matthew 14:10",
+    "bestBHT": {
+        "bht": "The beheading of John the Baptist occurred during King Herod Antipas's feast, possibly at Machaerus or nearby. The girl's request, Give me here, suggests that the prison was in close proximity. The speculator, an executioner mentioned in Mark 6:27, likely played a role in beheading John. It is a mysterious and providential act that allowed a holy man to be at the mercy of an infamous harlot, a vain girl, and a drunken prince. Despite the injustice, belief in divine retribution remains, as God rewards His faithful servants in the hereafter for their earthly sufferings.",
+        "wordCount": 96,
+        "quoteTokenProportion": 31.94,
+        "qualityScore": 1.4618592280803941,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "commentatorTierSimilarities": [
+            33.23,
+            31.75,
+            35.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It appears from the damsel's expression give me here, and this verse, that the feast was held either at Mach\u00e6erus or at no great distance from it.",
+            "Antipas had a palace near; but he was not there on account of the war with Aretas.",
+            "see above."
+        ],
+        "Philip Schaff": [
+            "If the feast took place in Machaerus, the head was brought in before the feast closed.",
+            "Some however infer from Mark\u2019s account that the messengers went some distance, and hence that the feast was given in a royal palace at Livias (not far from Machaerus).",
+            "The words \u2018give me here\u2019 indicate that the prison was not far off."
+        ],
+        "Archibald T. Robertson": [
+            "Beheaded John (\u03b1\u03c0\u03b5\u03ba\u03b5\u03c6\u03b1\u03bb\u03b9\u03c3\u03b5\u03bd \u0399\u03c9\u03b1\u03bd\u03b7\u03bd). That is, he had John beheaded, a causative active tense of a late verb \u03b1\u03c0\u03bf\u03ba\u03b5\u03c6\u03b1\u03bb\u03b9\u03b6\u03c9. Took his head off. "
+        ],
+        "John Gill": [
+            "An executioner\", as in Mark 6:27 where the Latin word \"speculator\", or as it is sometimes written \"spiculator\", is used; and is the name of an officer concerned in executions, and particularly in beheading of persons.",
+            "In a civil war (says x Seneca), a servant hid his master that was proscribed; and when he had fitted his rings for himself, and put on his clothes, he met \"speculatoribus\", the \"speculators\"; he told them he desired nothing, but that they would perform their orders, and immediately stretched out his neck.",
+            "And as this word is often used by them a for an executioner, so \u05e1\u05e4\u05e7\u05d5\u05dc\u05d0, \"specula\" is often made mention of by them b, as a sort of punishment by death."
+        ],
+        "John Wesley": [
+            "How mysterious is the providence, which left the life of so holy a man in such infamous hands!",
+            "which permitted it to be sacrificed to the malice of an abandoned harlot, the petulancy of a vain girl, and the rashness of a foolish, perhaps drunken prince.",
+            "the Almighty will repay his servants in another world for whatever they suffer in this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The beheading of John the Baptist was a result of King Herod Antipas's feast, which either took place at Machaerus or near it. Herod, who had a palace nearby, was absent due to the ongoing war. The request of the girl, Give me here, indicates that the prison was not far from the feast location. The executioner, referred to as speculator, played a role in ending John's life, a punishment that involved beheading. It is a mysterious and providential act that allowed such a holy man to be in the hands of an infamous harlot, a vain girl, and a drunken prince. Nevertheless, the conviction remains that God will repay his faithful servants in the afterlife for the sufferings they endure in this world.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.5445408249148946,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+            "commentatorTierSimilarities": [
+                34.46,
+                33.31,
+                32.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The beheading of John the Baptist occurred during King Herod Antipas's feast, possibly at Machaerus or nearby. The girl's request, Give me here, suggests that the prison was in close proximity. The speculator, an executioner mentioned in Mark 6:27, likely played a role in beheading John. It is a mysterious and providential act that allowed a holy man to be at the mercy of an infamous harlot, a vain girl, and a drunken prince. Despite the injustice, belief in divine retribution remains, as God rewards His faithful servants in the hereafter for their earthly sufferings.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.4618592280803941,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                33.23,
+                31.75,
+                35.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During King Herod Antipas's feast, John the Baptist was beheaded, possibly at Machaerus or near it. The girl's request, Give me here, reveals the proximity of the prison. The executioner, known as speculator, played a role in John's beheading. It is a mysterious and providential act that allowed such a holy man to fall into the hands of an infamous harlot, a vain girl, and a foolish, perhaps drunken prince. Despite the injustice, believers anticipate God's future repayment for the sufferings endured in this world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3024286622747836,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.65,
+            "commentatorTierSimilarities": [
+                32.53,
+                29.11,
+                38.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist was beheaded during King Herod Antipas's feast, which likely took place either at Machaerus or nearby. The girl's request, Give me here, suggests that the prison was in close proximity. The executioner, referred to as speculator, played a role in beheading John. It is a providential and mysterious event that allowed a holy man to be at the mercy of an infamous harlot, a vain girl, and a foolish, possibly drunken prince. However, believers find solace in the assurance that God will repay His faithful servants in the afterlife for the suffering they endure in this world.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.406019593533639,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                33.31,
+                30.49,
+                36.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist was beheaded during King Herod Antipas's feast, possibly at Machaerus or nearby. The girl's request, Give me here, indicates the prison's proximity. The executioner, called speculator, played a role in beheading John. It is a mysterious providence that allowed a holy man to be in the hands of an infamous harlot, a vain girl, and a drunken prince. Yet, the faithful trust in God's promise of repayment in the afterlife for the sufferings endured in this world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2932600592280803,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.34,
+            "commentatorTierSimilarities": [
+                33.17,
+                28.8,
+                38.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

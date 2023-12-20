@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:51:23",
+    "verseRef": "Matthew 22:34",
+    "bestBHT": {
+        "bht": "The Pharisees, filled with grim humor, had just muzzled the Sadducees and gathered together with renewed enmity towards Jesus. They sought to tempt Him by posing a deceitful question about the chief commandment in the Law, hoping to condemn Him as an apostate. However, amidst their scheming, one scribe showed a teachable and gentle spirit, drawing closer to the kingdom of God. Jesus's wisdom prevailed, impressing the crowd and bolstering His credibility.",
+        "wordCount": 73,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.4790883047661234,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+        "commentatorTierSimilarities": [
+            40.08,
+            30.65,
+            29.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Put to silence [\u03b5\u03c6\u03b9\u03bc\u03c9\u03c3\u03b5\u03bd] . There is a kind of grim humor in the use of this word : he had muzzled the Sadducees. Compare ver. 12."
+        ],
+        "John Calvin": [
+            "They all agree in this, that the scribe put a question for the sake of tempting Christ; but he who is described by Matthew and Mark goes away with no bad disposition; for he acquiesces in Christ\u2019s reply, and shows a sign of a teachable and gentle mind: to which must be added, that Christ, on the other hand, declares that he is not far from the kingdom of God.",
+            "Let us now see what was the occasion that led this scribe to put a question to Christ. It is because, being an expounder of the Law, he is offended at the doctrine of the gospel, by which he supposes the authority of Moses to be diminished. At the same time, he is not so much influenced by zeal for the Law, as by displeasure at losing some part of the honor of his teaching.",
+            "In the form of the question, too, Luke differs somewhat from Matthew and Mark; for, according to him, the scribe inquires what men must do to obtain eternal life, but according to the other two Evangelists, he inquires what is the chief commandment in the law. But the design is the same, for he makes a deceitful attack on Christ, that, if he can draw any thing from his lips that is at variance with the law, he may exclaim against him as an apostate and a promoter of ungodly revolt."
+        ],
+        "Philip Schaff": [
+            "Matthew 22:34. But the Pharisees hearing. Even their gratification at the defeat of their usual opponents, the Sadducees (Mark 12:28; Luke 20:0, did not diminish their enmity. Hence a renewal of the assault.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He had put the Sadducees to silence (\u03b5\u03c6\u03b9\u03bc\u03c9\u03c3\u03b5\u03bd \u03c4\u03bf\u03c5\u03c2 \u03a3\u03b1\u03b4\u03b4\u03bf\u03c5\u03ba\u03b1\u03b9\u03bf\u03c5\u03c2). Muzzled the Sadducees.",
+            "The Pharisees could not restrain their glee though they were joining with the Sadducees in trying to entrap Jesus.",
+            "Gathered themselves together (\u03c3\u03c5\u03bd\u03b7\u03c7\u03b8\u03b7\u03c3\u03b1\u03bd \u03b5\u03c0 \u03c4\u03bf \u03b1\u03c5\u03c4\u03bf). First aorist passive, were gathered together."
+        ],
+        "John Gill": [
+            "His credit with the people would increase yet more and more.",
+            "They gathered together at some certain house, where they consulted what to do.",
+            "They seemed to have fixed on this method, that one among them...should put a question to him relating to the law, which was then agitated among them, the solution of which was very difficult."
+        ],
+        "John Wesley": [
+            "Mark 12:28; Luke 10:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, filled with grim humor and joined by the Sadducees they had just muzzled, gathered together with a renewed enmity towards Jesus. They devised a cunning plan to tempt Him and discredit His authority by posing a deceitful question about the chief commandment in the Law. However, one scribe among them showed a sign of a teachable and gentle mind, being not far from the kingdom of God. The Pharisees, driven by displeasure at losing honor, sought to test Jesus with a difficult question, hoping to condemn Him as an apostate. Yet, in this encounter, Jesus's wisdom prevailed, impressing the crowd and further increasing His credibility. (Matthew 22:34; Mark 12:28; Luke 10:25)",
+            "wordCount": 111,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.5125001163421832,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                30.05,
+                35.56,
+                34.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, filled with grim humor, had just muzzled the Sadducees and gathered together with renewed enmity towards Jesus. They sought to tempt Him by posing a deceitful question about the chief commandment in the Law, hoping to condemn Him as an apostate. However, amidst their scheming, one scribe showed a teachable and gentle spirit, drawing closer to the kingdom of God. Jesus's wisdom prevailed, impressing the crowd and bolstering His credibility.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4790883047661234,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                40.08,
+                30.65,
+                29.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, after muzzling the Sadducees, gathered together with a renewed enmity towards Jesus. They aimed to tempt Him by deceitfully posing a question about the chief commandment in the Law, hoping to condemn Him as an apostate. However, amidst their plotting, one scribe displayed a teachable and gentle spirit, drawing nearer to the kingdom of God. Jesus's wisdom prevailed, impressing the crowd and solidifying His credibility.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3838165206114148,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.35,
+            "commentatorTierSimilarities": [
+                34.86,
+                32.77,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scribes and Pharisees, having just muzzled the Sadducees, gathered together with renewed hostility towards Jesus. They sought to test Him by posing a deceitful question about the chief commandment in the Law, hoping to accuse Him as an apostate. However, amidst their scheming, one scribe demonstrated a teachable and gentle spirit, showing a proximity to the kingdom of God. Jesus's wisdom prevailed, leaving the crowd impressed and strengthening His credibility.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.435854956130505,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
+            "commentatorTierSimilarities": [
+                37.03,
+                31.04,
+                31.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After silencing the Sadducees, the Pharisees, filled with grim humor, came together with a renewed enmity towards Jesus. Their plan was to tempt Him by posing a deceitful question about the chief commandment in the Law, in hopes of discrediting Him as an apostate. In this plot, one scribe demonstrated a teachable and gentle disposition, bringing himself closer to the kingdom of God. Jesus's wisdom triumphed, impressing the crowd and further bolstering His credibility.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4435327107565588,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "commentatorTierSimilarities": [
+                37.47,
+                31.79,
+                30.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

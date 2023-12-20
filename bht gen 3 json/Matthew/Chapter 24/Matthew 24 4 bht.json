@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:51:57",
+    "verseRef": "Matthew 24:4",
+    "bestBHT": {
+        "bht": "Take heed that no man deceive you, for our Lord does not answer the when, but by admonitions not to be deceived. Christians are warned to be cautious about specific teachings regarding unfulfilled predictions. We must patiently wait for the time of reaping, knowing that the means of defense will not be lacking as long as we are not lacking in ourselves. The rise of false prophets is the first sign of His coming, and we must be on guard against those who pretend to have a new revelation from God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 51.47,
+        "qualityScore": 1.839881710712615,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+        "commentatorTierSimilarities": [
+            23.69,
+            36.76,
+            39.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord does not answer the when, but by admonitions not to be deceived. See a question similarly answered, Luke xiii. 23,"
+        ],
+        "Marvin Vincent": [
+            "Deceive [\u03c0\u03bb\u03b1\u03bd\u03b7\u03c3\u03b7] . Lit., lead astray, as Rev."
+        ],
+        "John Calvin": [
+            "You wish to seize the prize at the very outset, but you must first finish the course.",
+            "The preaching of the Gospel is like sowing the seed, and therefore we ought to wait patiently for the time of reaping.",
+            "...let us know that the means of defense will not be wanting, provided that they are not wanting to themselves."
+        ],
+        "Philip Schaff": [
+            "See that no man deceive you.\" ",
+            "The admonition is prophetic, intimating the perplexity of the whole subject.",
+            "A caution to Christians regarding specific teaching about these unfulfilled predictions."
+        ],
+        "Archibald T. Robertson": [
+            "It is amazing how successful deceivers have been through the ages with their eschatological programs.",
+            "The word in the passive appears in Matthew 18:12 when the one sheep wanders astray.",
+            "Here it is the active voice with the causative sense to lead astray."
+        ],
+        "John Gill": [
+            "Take heed that no man deceive you: by pretending to come from God with a new revelation..."
+        ],
+        "John Wesley": [
+            "Take heed that no man deceive you.\" ",
+            "The first sign of my coming is, the rise of false prophets.\" ",
+            "But it is highly probable, many of these things refer to more important events, which are yet to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Take heed that no man deceive you, for our Lord does not answer the when but instead gives admonitions to avoid being led astray. This caution is prophetic, hinting at the perplexity of the whole subject of the end times. It is a warning to Christians about being deceived by specific teachings about unfulfilled predictions. We must patiently wait for the time of reaping, knowing that the means of defense will not be lacking as long as we are not lacking in ourselves. The first sign of His coming is the rise of false prophets, so we must be on guard against those who come pretending to have a new revelation from God. While some of these events may refer to future important events, they are a reminder to not be swayed by those seeking to deceive us with their eschatological programs.",
+            "wordCount": 142,
+            "quoteTokenProportion": 46.53,
+            "qualityScore": 1.7736071815717542,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                22.61,
+                38.94,
+                38.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Take heed that no man deceive you, for our Lord does not answer the when, but by admonitions not to be deceived. This caution is prophetic, intimating the perplexity of the whole subject. Christians are warned to be cautious about specific teachings regarding unfulfilled predictions. We must patiently wait for the time of reaping, knowing that the means of defense will not be lacking as long as we are not lacking in ourselves. The rise of false prophets is the first sign of His coming, and we must be on guard against those who pretend to have a new revelation from God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 1.8717408207815063,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                22.6,
+                42.0,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Take heed that no man deceive you, for our Lord does not answer the when, but by admonitions not to be deceived. Christians are warned to be cautious about specific teachings regarding unfulfilled predictions. We must patiently wait for the time of reaping, knowing that the means of defense will not be lacking as long as we are not lacking in ourselves. The rise of false prophets is the first sign of His coming, and we must be on guard against those who pretend to have a new revelation from God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.839881710712615,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                23.69,
+                36.76,
+                39.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Take heed that no man deceive you, our Lord warns. Instead of answering the timing of future events, He gives us cautionary instructions to avoid being led astray. This is especially important when it comes to unfulfilled predictions and teachings regarding the end times. We are to patiently wait, knowing that the means of defense will be provided if we remain steadfast. False prophets will arise, so we must be vigilant against those who claim to have new revelations from God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.6400052077892366,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                23.01,
+                36.28,
+                40.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heed that no man deceive you, our Lord warns. He does not answer when, but cautions against being led astray. We must be cautious about teachings regarding unfulfilled predictions, patiently waiting for the time of reaping. Defense will not be lacking if we remain steadfast. False prophets mark the first sign of His coming, so we must be on guard against those who claim new revelations. Though some events may refer to future important events, we ought to avoid being swayed by deceivers and their eschatological programs.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.631138305498845,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "commentatorTierSimilarities": [
+                25.13,
+                37.68,
+                37.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

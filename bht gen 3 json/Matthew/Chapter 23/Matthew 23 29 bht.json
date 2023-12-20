@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:52:04",
+    "verseRef": "Matthew 23:29",
+    "bestBHT": {
+        "bht": "The Pharisees' hypocrisy is exposed as they construct grand tombs for the prophets, yet their actions reveal their guilty conscience. Jesus rebukes them for their deceit and points out that by glorifying the tombs, they ignore the true essence of the prophets' teachings. These extravagant burial sites near the Mount of Olives serve as a cover for their murderous intent towards Jesus, showing that their outward displays of piety do not reflect their true nature. Jesus calls for genuine respect and adherence to the words of the prophets, rather than empty gestures.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9395688664771855,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+        "commentatorTierSimilarities": [
+            29.74,
+            29.94,
+            40.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "This is often done at the East at the present day, and indeed elsewhere.",
+            "By doing this, they profess respect for his character and veneration for his memory.",
+            "The original word means, also, to show any proper honor to the memory of the dead, as by speaking well of them, praying near them, or rearing synagogues near them in honor of their memory."
+        ],
+        "Marvin Vincent": [
+            "Tombs of the prophets. By this name are called four monuments at the base of the Mount of Olives, in the valley of Jehosaphat; called at present the tombs of Zechariah, Absalom, Jehosaphat, and St. James.",
+            "They appear,\" says Dr. Thomson, \"to be quite extensive, consisting of winding or semicircular galleries, passing under the mountain more than a hundred feet from east to west, and terminating in a rotunda about eighty feet from the entrance.",
+            "The reference would be all the more telling, if, as has been conjectured, the Pharisees were engaged in constructing the tombs of Zechariah and Absalom at the time that the Lord addressed them, and that the chambered sepulchres of James and Jehosaphat, lying between those two, were the sepulchres which they were garnishing at their entrances."
+        ],
+        "John Calvin": [
+            "It is customary, indeed, with hypocrites thus to honor, after their death, good teachers and holy ministers of God, whom they cannot endure while they are alive.",
+            "It is a hypocrisy which costs little to profess warm regard for those who are now silent.",
+            "Our Lord, perceiving that the scribes and priests of his age were eager to obtain the applause of the people, on the ground of their being devout worshippers of the prophets, reproves them for deceit and mockery, because they not only reject, but even cruelly persecute, the prophets that are now present."
+        ],
+        "Philip Schaff": [
+            "For ye build the sepulchres of the prophets.",
+            "The prophets are represented as lying for a long time in unknown, perhaps dishonored, graves.",
+            "The so-called 'tombs of the prophets' are still pointed out near the Mount of Olives on the road from Jerusalem to Bethany."
+        ],
+        "Archibald T. Robertson": [
+            "These men who professed to be so distressed at the murdering of the Prophets, were themselves compassing the death of Him who was far greater than any Prophet.",
+            "In this seventh and last woe Jesus addresses the Jewish nation and not merely the Pharisees.",
+            "They were bearing witness against themselves to 'the murder-taint in your blood'."
+        ],
+        "John Gill": [
+            "But because they did all this, that they might be thought to be very innocent and holy men, and far from being guilty of the crimes their forefathers were; when they were of the very selfsame blood thirsty, persecuting spirit; and did, and would do the same things to the prophets and apostles of the New Testament, their fathers had done to the prophets of the Old.",
+            "They have a saying, that 'they do not erect monuments for the righteous'; for their words are their memorial.",
+            "Hence Dr. Lightfoot thinks that our Lord reproves them out of their own mouths, for despising the words of the prophets; imagining they performed piety enough by bestowing cost in adorning their sepulchres; when they themselves own, their sayings are the best remembrances of them, and therefore ought to be regarded more than their tombs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the hypocrisy of the Pharisees who claimed to honor the prophets yet disregarded and even plotted the death of Jesus, who was greater than any prophet. Jesus calls out their deceit in constructing lavish tombs for the prophets, while being guilty of the same murderous spirit as their ancestors. The tombs mentioned are thought to be the ones located near the Mount of Olives. By this rebuke, Jesus exposes their self-righteousness and emphasizes that true honor for the dead lies in heeding the words of the prophets rather than in extravagant burial sites. The Pharisees' actions serve as a solemn reminder to prioritize sincerity and righteousness over empty displays of devotion.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.8614576235710414,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+            "commentatorTierSimilarities": [
+                32.25,
+                30.21,
+                37.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees' hypocrisy is exposed as they build elaborate tombs for the prophets but reject and conspire against Jesus, who surpassed them all. These costly tombs near the Mount of Olives were a fa\u00e7ade for their true character, as they remained complicit in the persecution of prophets and apostles. Jesus confronts their self-righteousness, highlighting that true honor lies not in extravagant burials but in heeding the words of the prophets. Their actions serve as a warning to prioritize sincerity and righteousness over empty displays of devotion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.819087748443379,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                31.21,
+                29.1,
+                39.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees' hypocrisy is exposed as they construct grand tombs for the prophets, yet their actions reveal their guilty conscience. Jesus rebukes them for their deceit and points out that by glorifying the tombs, they ignore the true essence of the prophets' teachings. These extravagant burial sites near the Mount of Olives serve as a cover for their murderous intent towards Jesus, showing that their outward displays of piety do not reflect their true nature. Jesus calls for genuine respect and adherence to the words of the prophets, rather than empty gestures.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9395688664771855,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                29.74,
+                29.94,
+                40.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees' hypocrisy is exposed as they construct elaborate tombs for the prophets, while disregarding and even conspiring against Jesus, who possessed a higher authority. These ornate tombs near the Mount of Olives serve as a mask for their true intentions. Jesus confronts them for their deceit, emphasizing that true honor should be shown by heeding the prophets' words rather than focusing on extravagant burials. Their false piety stands as a warning against hypocrisy and the importance of genuine devotion to the teachings of the prophets.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8306321797380338,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                30.19,
+                30.51,
+                39.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees' hypocrisy is revealed as they go to great lengths to construct impressive tombs for the prophets, while rejecting and plotting against Jesus. Jesus rebukes them for their deceit and highlights that their actions expose their murderous spirit. The lavish tombs near the Mount of Olives were meant to showcase their supposed reverence, but Jesus exposes the shallowness of their piety. True honor for the prophets lies not in elaborate burial sites, but in heeding their timeless teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8341037588962261,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                31.24,
+                29.73,
+                39.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:51:26",
+    "verseRef": "Matthew 21:44",
+    "bestBHT": {
+        "bht": "This stone represents the Messiah's kingdom and power, which is summed up in Himself. Those who take offense and stumble over it will be broken. As prophesied, the stone will come in vengeance and dash its enemies in pieces. It serves as the keystone of the Kingdom of God, causing the builders to fall and be broken. Rejecting this stone results in great spiritual harm, and ultimately, the stone will grind the unbelievers to powder. Repentance may avert this fate.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.0400018615865143,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+        "commentatorTierSimilarities": [
+            34.36,
+            32.39,
+            33.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The stone is the whole kingdom and power of the Messiah summed up in Himself.",
+            "He that takes offence, that makes it a stone of stumbling, shall be broken.",
+            "But on whomsoever, as its enemy, it shall come in vengeance, as prophesied in Daniel, it shall dash him in pieces."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Kingdom of God is here a Temple, in the erection of which a certain stone, rejected as unsuitable by the spiritual builders, is, by the great Lord of the House, made the keystone of the whole.",
+            "On that Stone the builders were now 'falling' and being 'broken.' They were sustaining great spiritual hurt.",
+            "Soon that Stone should 'fall upon them' and 'grind them to powder'\u2014in their corporate capacity, in the tremendous destruction of Jerusalem, but personally, as unbelievers, in a more awful sense still."
+        ],
+        "Marvin Vincent": [
+            "Shall be broken...broken to pieces; so Rev.",
+            "Grind him to powder...will winnow him. Rev., scatter him as dust."
+        ],
+        "John Calvin": [
+            "He suffers no loss or diminution when he is rejected by the wicked.",
+            "He will be the more highly glorified in their destruction.",
+            "Christ tells them that all that they will gain by it is, that by the very conflict they will be broken."
+        ],
+        "Philip Schaff": [
+            "He that falleth on this stone...will be broken.\" ",
+            "And whomsoever it shall fall, it will scatter him as chaff.",
+            "Repentance may intervene and avert this final result."
+        ],
+        "Archibald T. Robertson": [
+            "Shall be broken to pieces (\u03c3\u03c5\u03bd\u03b8\u03bb\u03b1\u03c3\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). Some ancient manuscripts do not have this verse. But it graphically pictures the fate of the man who rejects Christ.",
+            "We are familiar with an automobile that dashes against a stone wall, a tree, or a train and the ruin that follows.",
+            "Will scatter him as dust (\u03bb\u03b9\u03ba\u03bc\u03b7\u03c3\u03b5). The verb was used of winnowing out the chaff and then of grinding to powder. This is the fate of him on whom this Rejected Stone falls."
+        ],
+        "John Gill": [
+            "And whosoever shall fall on this stone...shall be broken.\" ",
+            "...such may be recovered from their impenitence and unbelief.",
+            "But on whomsoever it shall fall, it will grind him to powder."
+        ],
+        "John Wesley": [
+            "Whosoever shall fall on this stone shall be broken \u2014 Stumblers at Christ shall even then receive much hurt.",
+            "He is said to fall on this stone, who hears the Gospel and does not believe.",
+            "But on whomsoever it shall fall \u2014 In vengeance, it will utterly destroy him. It will fall on every unbeliever, when Christ cometh in the clouds of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The stone referred to in this verse represents the whole kingdom and power of the Messiah. Those who take offense and stumble over this stone will experience spiritual brokenness. However, those who oppose it will face the stone's vengeance, being dashed to pieces. The rejection of this stone, symbolizing Christ, serves as the keystone of the Kingdom of God, causing the builders to fall and be broken. Soon, this stone will fall upon them and grind them to powder, both in the destruction of Jerusalem and in a more dreadful sense as unbelievers. Rejecting Christ leads to ultimate ruin, as seen in the parallel of an automobile crashing into an immovable object. This Rejected Stone brings about the fate of the one who rejects Him, breaking them to pieces or scattering them as dust. Nonetheless, repentance can intervene and avert this final outcome.",
+            "wordCount": 144,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 1.9869886360038644,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                36.24,
+                29.75,
+                34.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stone mentioned here encompasses the Messiah's Kingdom and power, summing up His entire being. Those who stumble over it shall be broken, while those who oppose it will face vengeance and be dashed to pieces. The Kingdom of God is likened to a Temple, where this stone is the crucial keystone rejected by spiritual builders but is elevated by the Lord Himself. The builders are currently falling and breaking, experiencing great spiritual harm, but soon the stone will fall upon them, resulting in their total destruction.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.964416435707308,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                40.44,
+                24.91,
+                34.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This stone represents the Messiah's kingdom and power, which is summed up in Himself. Those who take offense and stumble over it will be broken. As prophesied, the stone will come in vengeance and dash its enemies in pieces. It serves as the keystone of the Kingdom of God, causing the builders to fall and be broken. Rejecting this stone results in great spiritual harm, and ultimately, the stone will grind the unbelievers to powder. Repentance may avert this fate.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0400018615865143,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                34.36,
+                32.39,
+                33.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The stone in this passage symbolizes the kingdom and power of the Messiah, encompassing His entire identity. Those who stumble over this stone will experience spiritual brokenness. The stone represents the rejected cornerstone of the Kingdom of God, causing the builders to fall and be broken. The stone's vengeance will overthrow its enemies, shattering them to pieces. Rejecting this stone leads to significant spiritual harm, while its falling upon the unbelievers grinds them to powder. Repentance may intervene to prevent this ultimate outcome.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9549181615783633,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                36.08,
+                30.45,
+                33.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The stone symbolizes the Messiah's kingdom and power. Stumbling over it leads to spiritual brokenness, while opposition brings about vengeance and being dashed in pieces. This stone is the rejected cornerstone of God's Kingdom, causing the builders to fall and experience great harm. Soon, the stone will fall upon them, resulting in their complete destruction. Rejecting this stone leads to ruin, comparable to an automobile crashing into an immovable object. However, repentance can potentially prevent this dire outcome.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.896827401357069,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                35.11,
+                29.78,
+                35.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

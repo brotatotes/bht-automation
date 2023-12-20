@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:50",
+    "verseRef": "Matthew 27:55",
+    "bestBHT": {
+        "bht": "These faithful women, who had followed Jesus from Galilee to Jerusalem, remained by His side at the cross, beholding His sufferings from afar. While Matthew doesn't describe their anguish, it is evident that their presence rebuked the disciples who had fled. They witnessed their bleeding, dying Lord, and their affection and love for Him were stirred, along with sorrow for sin and yet joy and peace in believing. These women were constant companions to Jesus, from His triumphant entry to His burial.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.074168749321413,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+        "commentatorTierSimilarities": [
+            34.06,
+            30.13,
+            35.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Which had followed Jesus.",
+            "As these dear women had ministered to Him during His glorious missionary tours in Galilee, so from this statement it should seem that they accompanied him and ministered to His wants from Galilee on His final journey to Jerusalem.",
+            "They accompanied him and ministered to His wants from Galilee on His final journey to Jerusalem."
+        ],
+        "Albert Barnes": [
+            "Beholding afar off - These women were probably not suffered to come near the cross because it was surrounded by soldiers.",
+            "They witnessed with intense feelings his sufferings from some convenient place as near as they could approach.",
+            "Never did female constancy shine more brightly, and never was a happier example set for all who should afterward believe on him!"
+        ],
+        "Marvin Vincent": [
+            "Which had followed [\u03b1\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . Denoting a class : who were of the body of women that had followed him."
+        ],
+        "John Calvin": [
+            "While the disciples had fled and were scattered in every direction, still some of their company were retained by the Lord as witnesses.",
+            "The women deserved the preference above the men.",
+            "The testimony of the women does not possess equal authority, but it rests on God, who is the real Author of their testimony."
+        ],
+        "Philip Schaff": [
+            "Many women. Luke (Luke 23:49) speaks of \u2018all His acquaintance\u2019 before these women. John was certainly present, probably some of the other disciples.",
+            "Beholding from afar. At one time a few ventured near the cross (John 19:25-27), but not \u2018many.\u2019",
+            "Ministering unto him, i.e., while they followed Him. Comp, on this ministry, Luke 8:2. Others, who had followed Him to Jerusalem, are distinguished from these (Mark 15:41), but it is not necessary to suppose there were two separate groups of women."
+        ],
+        "Archibald T. Robertson": [
+            "Many women (\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b5\u03c2 \u03c0\u03bf\u03bb\u03bb\u03b1)\u2026 We have come to expect the women from Galilee to be faithful, last at the Cross and first at the tomb.",
+            "These noble and faithful women were 'beholding from afar' (\u03b1\u03c0\u03bf \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03b5\u03bd \u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03c3\u03b1).",
+            "Matthew does not try to picture the anguish of heart of these noble women nor does he say as Luke (Luke 23:48) does that 'they returned smiting their breasts.' He drops the curtain on that saddest of all tragedies."
+        ],
+        "John Gill": [
+            "- \"None were present excepting John, as can be learnt from the evangelists; but many women, those of the weaker sex, were there, which was a rebuke of the former vanity and confidence of the disciples, and of their present pusillanimity and cowardice.",
+            "- \"they beheld with an eye of faith, their bleeding, dying Lord, as crucified for them, and as bearing and taking away their sins: a sight which at once stirred up their affection and love to Christ, their concern for him, and sorrow for sin; and yet joy and peace, in believing in him.",
+            "- \"they attended him in his triumphant entry into Jerusalem, and now at his cross; nor did they leave him when dead, and in his grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These dear women, who had followed Jesus and ministered to His wants from Galilee on His final journey to Jerusalem, faithfully stayed by His side even in His darkest hour. Though they could only behold from afar, their constancy shone brightly as they witnessed His sufferings with intense feelings. Matthew does not go into detail about their anguish, but drops the curtain on this saddest of all tragedies. These women, along with a few disciples, were the ones who remained as witnesses when the other disciples had fled and scattered. Their presence at the cross, despite the danger, rebuked the vanity and cowardice of the men. They beheld their bleeding, dying Lord, bearing and taking away their sins, with an eye of faith that stirred up both sorrow and joy within them. These women had traveled with Jesus, attended His triumphant entry into Jerusalem, and now they refused to leave Him even in death.",
+            "wordCount": 154,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.880251981411209,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                32.35,
+                31.53,
+                36.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These noble women, who had followed Jesus and ministered to His wants from Galilee to Jerusalem, faithfully stayed by His side, witnessing His sufferings from a distance. Though Matthew does not delve into their anguish, their presence at the cross rebuked the vanity and cowardice of the disciples who had fled. With an eye of faith, they beheld their bleeding, dying Lord, stirring up both sorrow and joy within them. These women had traveled with Him, attended His triumphant entry into Jerusalem, and refused to leave Him even in death.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.0174206796379854,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                32.79,
+                30.13,
+                37.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These dear women, who had followed Jesus and ministered to Him from Galilee to Jerusalem, faithfully stayed by His side and beheld His sufferings from afar. Matthew doesn't go into detail about their anguish, but their presence at the cross rebuked the vanity and cowardice of the disciples who had fled. They witnessed their bleeding, dying Lord and felt both sorrow and joy in believing in Him. These women had accompanied Him throughout His journey, from triumphant entry to the grave, proving their unwavering devotion.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0481678327140225,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                34.03,
+                29.94,
+                36.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These faithful women, who had followed Jesus from Galilee to Jerusalem, remained by His side at the cross, beholding His sufferings from afar. While Matthew doesn't describe their anguish, it is evident that their presence rebuked the disciples who had fled. They witnessed their bleeding, dying Lord, and their affection and love for Him were stirred, along with sorrow for sin and yet joy and peace in believing. These women were constant companions to Jesus, from His triumphant entry to His burial.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.074168749321413,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                34.06,
+                30.13,
+                35.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These noble women faithfully followed Jesus from Galilee to Jerusalem, ministering to His needs along the way. At the cross, they watched from a distance, witnessing His suffering with intense feelings. Matthew chooses not to portray their inner anguish, but instead drops the curtain on this tragic scene. Their presence at the cross rebuked the vanity and cowardice of the disciples who fled. Their unwavering devotion to Jesus, from His triumphant entry to His burial, serves as an inspiring example for all believers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.843827427385826,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                34.29,
+                32.16,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

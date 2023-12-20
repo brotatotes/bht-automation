@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:48:37",
+    "verseRef": "Matthew 15:24",
+    "bestBHT": {
+        "bht": "The purpose of Jesus's personal ministry was primarily to the lost sheep of the house of Israel, but occasionally there were incidents that broke through this focus. Jesus's response to the woman's plea can be seen as a test case, representing the problem of the Gentile world. While he refers to the Jews as the lost sheep of the house of Israel, this does not diminish the conduct of the Pharisees. Ultimately, Jesus's mission was to educate faith and train the disciples for their future world-wide mission.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.6863637400791696,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+        "commentatorTierSimilarities": [
+            23.75,
+            51.41,
+            24.84
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such was the purpose of our Lord\u2019s personal ministry; yet even that was occasionally broken by such incidents as this.",
+            "The \u2018fountain sealed\u2019 sometimes broke its banks, in token of the rich flood of grace which should follow.",
+            "See Rom. xv. 8."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. But he answered and said, I am",
+            "\tnot sent but to the lost sheep of the house of Israel\u2014(Also see",
+            "\ton :-.)"
+        ],
+        "John Calvin": [
+            "He argues from the call and the command of the Father, that he must not yield any assistance to strangers...",
+            "For as I have said in expounding Matthew 10:5, the middle wall of partition was not thrown down till after Christ's resurrection...",
+            "It is worthy of observation, that he declares himself to have been sent to LOST sheep, as he assures us in another passage that he came to save that which was lost..."
+        ],
+        "Philip Schaff": [
+            "His personal mission was only to the Jews, as their previous mission had been.",
+            "The exceptions all pointed to the future spiritual significance of the phrase: house of Israel.",
+            "It was not a refusal, but a postponement, to educate her faith and train the disciples for their world-wide mission."
+        ],
+        "Archibald T. Robertson": [
+            "He makes a test case of her request.",
+            "In a way she represented the problem of the Gentile world.",
+            "He calls the Jews 'the lost sheep of the house of Israel' in spite of the conduct of the Pharisees."
+        ],
+        "John Gill": [
+            "I am not sent, but to the lost sheep of the house of Israel.\" ",
+            "By 'the house of Israel', is meant the whole body of the Jewish nation, so called from Israel, the name of Jacob their father, from whom they sprung.",
+            "The elect of God are only 'sheep': they are the sheep of Christ, of his pasture, and of his hand, whom he has the particular care and charge of."
+        ],
+        "John Wesley": [
+            "I am not sent \u2014 Not primarily; not yet."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of Jesus's personal ministry was primarily to the lost sheep of the house of Israel, but occasionally there were incidents that broke through this focus. Jesus's response to the woman's plea can be seen as a test case, representing the problem of the Gentile world. While he refers to the Jews as the lost sheep of the house of Israel, this does not diminish the conduct of the Pharisees. Ultimately, Jesus's mission was to educate faith and train the disciples for their future world-wide mission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6863637400791696,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "commentatorTierSimilarities": [
+                23.75,
+                51.41,
+                24.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of Jesus's personal ministry was primarily to the lost sheep of the house of Israel, but occasionally there were incidents that broke through this focus. Jesus's response to the woman's plea can be seen as a test case, representing the problem of the Gentile world. While he refers to the Jews as the lost sheep of the house of Israel, this does not diminish the conduct of the Pharisees. Ultimately, Jesus's mission was to educate faith and train the disciples for their future world-wide mission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6863637400791696,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "commentatorTierSimilarities": [
+                23.75,
+                51.41,
+                24.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's personal ministry was primarily intended for the lost sheep of the house of Israel, yet there were occasions where this purpose was disrupted. The woman's plea served as a pivotal moment, highlighting the predicament of the Gentile world. By referring to the Jews as the lost sheep of the house of Israel, Jesus emphasized their need for salvation despite the actions of the Pharisees. His aim was to cultivate faith and prepare the disciples for their eventual global mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.636787094297971,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                24.13,
+                50.82,
+                25.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's personal ministry had a primary focus on the lost sheep of the house of Israel, although there were instances when this purpose was interrupted. The woman's plea served as a significant test case, representing the dilemma faced by the Gentile world. Jesus acknowledged the Jews as the lost sheep of the house of Israel, unaffected by the behavior of the Pharisees. His ultimate mission was to nurture faith and equip the disciples for their forthcoming mission to the entire world.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.5833376110531023,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                24.39,
+                51.56,
+                24.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's mission was primarily directed towards the lost sheep of the house of Israel, although there were occasions where this focus was disrupted. The woman's plea acted as a test case, symbolizing the challenges faced by the Gentile world. Despite the actions of the Pharisees, Jesus still referred to the Jews as the lost sheep of the house of Israel. Ultimately, Jesus aimed to strengthen faith and prepare his disciples for their future global mission.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5857376822168936,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                22.9,
+                51.94,
+                25.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

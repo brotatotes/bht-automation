@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:52:51",
+    "verseRef": "Matthew 25:13",
+    "bestBHT": {
+        "bht": "Watch therefore, because we do not know the hour of the Son of Man's coming. Lack of foresight is inexcusable. Ignorance of the time of the second coming is not an excuse for neglect, but a reason for readiness. Preachers often encounter the tendency to delay important tasks, but it is crucial to remember that the door of salvation may be shut when we least expect it. Therefore, we must diligently maintain the oil of the Spirit in our lives, so that we may be prepared for the sudden and unexpected coming of the Lord.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.6500566728167958,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+        "commentatorTierSimilarities": [
+            47.59,
+            36.3,
+            16.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Watch therefore; for ye know neither the day nor the hour wherein the Son of man cometh\u2014This, the moral or practical lesson of the whole parable, needs no comment.",
+            "The virgins were represented as waiting for their Lord, we have the servants working for Him; there the inward spiritual life of the faithful was described; here his external activity.",
+            "It is not, therefore, without good reason that they appear in their actual order\u2014that of the Virgins first, and of the Talents following\u2014since it is the sole condition of a profitable outward activity for the kingdom of God, that the life of God be diligently maintained within the heart."
+        ],
+        "Albert Barnes": [
+            "Like the virgins, many are professedly going to meet the Bridegroom - the Lord Jesus Christ.",
+            "They will only profess to know him, but in works they will deny him. So death will come.",
+            "The 'coming' of the Saviour is certain. The precise time 'when' he will come is not certain. As the virgins should all have watched and been ready, so should we."
+        ],
+        "Philip Schaff": [
+            "Watch therefore...the coming of our Lord, in so far as individuals are concerned, is the day of death.",
+            "Then the door, is shut: the door of repentance, of hope, of salvation, shut by Him that shutteth and none can open.",
+            "Watch therefore, that the Christian profession is supplied by the oil of the Spirit, so that His sudden unexpected coming may not find us without oil for our lamps."
+        ],
+        "Archibald T. Robertson": [
+            "Lack of foresight is inexcusable.",
+            "Ignorance of the time of the second coming is not an excuse for neglect, but a reason for readiness.",
+            "Every preacher goes up against this trait in human nature, putting off till another time what should be done today."
+        ],
+        "John Gill": [
+            "Watch therefore,.... In ordinances, in prayer, public and private, in hearing the word, at the Lord's supper, and in every religious exercise; over the heart, the thoughts and affections of it; over words, actions, life, and conversation; and against all sin and unbelief, Satan's temptations, the world, and its charms and snares, false teachers, and their doctrines, and for the bridegroom's coming.",
+            "This is the use and application of the whole parable, and shows the general design of it; the reason to enforce watchfulness follows.",
+            "But is in most Greek copies, and in Munster's Hebrew Gospel, and seems to be necessary."
+        ],
+        "John Wesley": [
+            "He that watches has not only a burning lamp, but likewise oil in his vessel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Watch therefore, because we do not know the hour of the Son of Man's coming. This parable emphasizes the need for both inward spiritual life and external activity in serving the kingdom of God. Lack of foresight is inexcusable and ignorance of the time of the second coming should not be an excuse for neglect, but a reason for readiness. Preachers often encounter the tendency to delay important tasks for a later time, but it is crucial to remember that the door of repentance and salvation may be shut when we least expect it. Therefore, we must diligently maintain the oil of the Spirit in our lives, so that we may be prepared for the sudden and unexpected coming of the Lord.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.6702742925139633,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                43.44,
+                35.94,
+                20.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Watch therefore, because we do not know the hour of the Son of Man's coming. Lack of foresight is inexcusable. Ignorance of the time of the second coming is not an excuse for neglect, but a reason for readiness. Preachers often encounter the tendency to delay important tasks, but it is crucial to remember that the door of salvation may be shut when we least expect it. Therefore, we must diligently maintain the oil of the Spirit in our lives, so that we may be prepared for the sudden and unexpected coming of the Lord.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6500566728167958,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                47.59,
+                36.3,
+                16.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Watch therefore, because we do not know the hour of the Son of Man's coming. The parable teaches the importance of both inward spiritual life and external activity for the kingdom of God. Lack of foresight is inexcusable and ignorance of the second coming is not an excuse for neglect, but a reason for readiness. The door of repentance and salvation may be shut when we least expect it. Therefore, we must maintain the oil of the Spirit in our lives to be prepared for the sudden coming of the Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.63808515942114,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                41.05,
+                38.42,
+                20.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Watch therefore, because we do not know the hour of the Son of Man's coming. Lack of foresight is inexcusable. Ignorance of the time of the second coming is not an excuse for neglect, but a reason for readiness. The door of salvation may be shut when we least expect it. Therefore, we must diligently maintain the oil of the Spirit in our lives, so that we may be prepared for the sudden and unexpected coming of the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.6116871788379588,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                45.52,
+                38.83,
+                15.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Watch therefore, because we do not know the day or hour of the Son of Man's coming. The parable teaches the importance of both inward spiritual life and external activity for the kingdom of God. Lack of foresight is inexcusable, and ignorance of the second coming is not an excuse, but a reason for readiness. The door of repentance and salvation may be shut when we least expect it. Therefore, we must diligently maintain the oil of the Spirit in our lives to be prepared for the sudden and unexpected coming of the Lord.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6470549173315765,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                40.66,
+                38.23,
+                21.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:42:55",
+    "verseRef": "Matthew 2:23",
+    "bestBHT": {
+        "bht": "Referring to the divine purpose, not Joseph's intention, the word Nazarene denotes an inhabitant of the insignificant town of Nazareth, highlighting Jesus' local humiliation and alluding to His lowly upspringing. The term Nazarene was a contemptuous label, suggesting insignificance and making Jesus despised. Matthew's parallels between Israel's history and Jesus' birth exemplify God's Providence. Despite the lowliness of Nazareth, Jesus as the Nazarene fulfills prophetic predictions and embodies our glory in following the humble Savior.",
+        "wordCount": 79,
+        "quoteTokenProportion": 22.41,
+        "qualityScore": 2.2636395114602954,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.61,
+        "commentatorTierSimilarities": [
+            38.73,
+            28.02,
+            33.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words refer to the divine purpose in the event, not to that of Joseph in bringing it about.\" ",
+            "The word here is not Nazarite, but Nazarene, denoting an inhabitant of Nazareth.",
+            "I leave it, therefore, as an unsolved difficulty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The little town of Nazareth, mentioned neither in the Old Testament nor in JOSEPHUS, was probably so called from its insignificance: a weak twig in contrast to a stately tree.",
+            "Thus, in the providential arrangement by which our Lord was brought up at the insignificant and opprobrious town called Nazareth, there was involved, first, a local humiliation; next, an allusion to Isaiah's prediction of His lowly, twig-like upspringing from the branchless, dried-up stump of Jesse.",
+            "...yet further, a standing memorial of that humiliation which 'the prophets,' in a number of the most striking predictions, had attached to the Messiah."
+        ],
+        "Albert Barnes": [
+            "The Lord Jesus, in fact, resided there until he entered on the work of his ministry until he was about 30 years of age.",
+            "Nazareth is situated on the side, and extends nearly to the foot, of a hill, which, though not very high, is rather steep and overhanging.",
+            "The character of the people of Nazareth was such that they were proverbially despised and contemned... This was what had been predicted by all the prophets."
+        ],
+        "Marvin Vincent": [
+            "The prophets. Note the plural, as indicating not any one prediction in particular, but a summary of the import of several prophetic statements.",
+            "A Nazarene. A term of contempt...The very name of Nazareth suggested insignificance...The fact that Jesus grew up at Nazareth was sufficient reason for his being despised.",
+            "He was not a lofty branch on the summit of a stately tree; not a recognized and honored son of the royal house of David, now fallen, but an insignificant sprout from the roots of Jesse; a Nazarene, of an upstart sprout - town."
+        ],
+        "John Calvin": [
+            "The meaning is: though it was by fear that Joseph was driven into a corner of Galilee, yet God had a higher design, and appointed the city of Nazareth as the place of Christ\u2019s residence, that he might justly be called a Nazarite.",
+            "But if all the books of Scripture which were extant in the time of Matthew, remain entire to the present day, we must find somewhere the passage quoted from the prophets.",
+            "Joseph, who was a temporal Savior of the Church, and was, in many respects, a figure, or rather a lively image of Christ, is called a Nazarite of his brethren."
+        ],
+        "Philip Schaff": [
+            "Each mentions those facts most important for his special purpose.",
+            "'He naturally supposed that He who was of the tribe of Judah should dwell in the land of Judah... Only through a special command of God, was he led to return with Jesus to Galilee.",
+            "'The various allusions to the despised and humble appearance of the Messiah are, so to speak, concentrated in that of Nezer."
+        ],
+        "Archibald T. Robertson": [
+            "Surely Matthew is not beyond the bounds of reason or of fact in illustrating in his own way the birth and infancy of Jesus by the Providence of God in the history of Israel.",
+            "The lowly Nazarene he was at first, but it is our glory to be the followers of the Nazarene.",
+            "The parallels drawn by Matthew between the history of Israel and the birth and infancy of Jesus are not mere fancy."
+        ],
+        "John Gill": [
+            "This affair of going into Galilee, and settling at Nazareth, was brought about with this view, to accomplish what had been foretold by the prophets.",
+            "...respects that prophecy of [Isaiah] in Isaiah 11:1 'and there shall come forth a rod out of the stem of Jesse, and \u05e0\u05e6\u05e8, 'a branch shall grow out of his roots'; a prophecy owned by the Jews themselves to belong to the Messiah, and which was now fulfilled in Jesus.",
+            "...he would appear to be, and would be 'called a Nazarene, or Netzer, the branch'; being an inhabitant of Natzareth, or Netzer, so called from the multitude of plants and trees that grew there."
+        ],
+        "John Wesley": [
+            "He came and dwelt in Nazareth... a place contemptible to a proverb.\" ",
+            "So that hereby was fulfilled what has been spoken in effect by several of the prophets... He shall be called a Nazarene.\" ",
+            "He shall be despised and rejected, shall be a mark of public contempt and reproach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse refers to the divine purpose in the event, not to Joseph's intention. The word Nazarene denotes an inhabitant of Nazareth, an insignificant town, which emphasizes Jesus' local humiliation and alludes to Isaiah's prediction of His lowly upspringing from the dried-up stump of Jesse. The term Nazarene was a term of contempt and suggested insignificance, making Jesus despised. Matthew's parallels between Israel's history and Jesus' birth and infancy are not mere fancy, but intentional. Despite the lowliness of Nazareth, Jesus was the Nazarene, which fulfilled prophetic predictions and exemplified our glory as followers of the humble Nazarene.",
+            "wordCount": 103,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 2.2589699926223004,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.45,
+            "commentatorTierSimilarities": [
+                39.18,
+                28.12,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Referring to the divine purpose, not Joseph's intention, the word Nazarene denotes an inhabitant of the insignificant town of Nazareth, highlighting Jesus' local humiliation and alluding to His lowly upspringing. The term Nazarene was a contemptuous label, suggesting insignificance and making Jesus despised. Matthew's parallels between Israel's history and Jesus' birth exemplify God's Providence. Despite the lowliness of Nazareth, Jesus as the Nazarene fulfills prophetic predictions and embodies our glory in following the humble Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 2.2636395114602954,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.61,
+            "commentatorTierSimilarities": [
+                38.73,
+                28.02,
+                33.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Referring to the divine purpose, not Joseph's intention, the word Nazarene denotes an inhabitant of the insignificant town of Nazareth. Jesus' local humiliation is emphasized, alluding to His lowly upspringing from the dried-up stump of Jesse. The term Nazarene was a term of contempt, suggesting insignificance and making Jesus despised. Matthew's parallels between Israel's history and Jesus' birth are intentional and not mere fancy. Despite the lowliness of Nazareth, Jesus fulfills prophetic predictions as the Nazarene, embodying our glory in following the humble Savior.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.1979120761896227,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+            "commentatorTierSimilarities": [
+                39.42,
+                27.25,
+                33.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Referring to the divine purpose, the word Nazarene denotes an inhabitant of the insignificant town of Nazareth. Jesus' local humiliation is emphasized, alluding to His lowly upspringing from the dried-up stump of Jesse. The term Nazarene was a contemptuous label, suggesting insignificance and making Jesus despised. Matthew's parallels between Israel's history and Jesus' birth are intentional. Despite the lowliness of Nazareth, Jesus fulfills prophetic predictions as the Nazarene, embodying our glory in following the humble Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.163073530253113,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                39.4,
+                27.3,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Referring to the divine purpose, the word Nazarene denotes an inhabitant of the insignificant and despised town of Nazareth, emphasizing Jesus' local humiliation and fulfilling multiple prophetic predictions. Matthew intentionally draws parallels between Israel's history and Jesus' birth, portraying the humble upspringing of Jesus from the dried-up stump of Jesse. Despite the contemptuous label of being a Nazarene, Jesus embodies our glory and offers us the opportunity to follow the humble Savior.",
+            "wordCount": 74,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 2.1778370063907344,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+            "commentatorTierSimilarities": [
+                38.19,
+                27.73,
+                34.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

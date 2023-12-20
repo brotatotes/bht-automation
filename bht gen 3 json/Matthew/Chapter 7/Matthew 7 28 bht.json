@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:44:54",
+    "verseRef": "Matthew 7:28",
+    "bestBHT": {
+        "bht": "When Jesus had finished speaking, the people were astonished at His doctrine. They were struck with remarkable and new teachings that left them spell-bound and amazed. His words drove them from their customary state of mind, awakening a buzz of astonishment. Jesus' teachings carried an indescribable and unwonted majesty that drew their minds towards Him. With authority and power, His doctrine set Him apart from the scribes, compelling the people to acknowledge the truth in His words.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.8156696855288854,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "commentatorTierSimilarities": [
+            33.55,
+            29.07,
+            37.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine."
+        ],
+        "Marvin Vincent": [
+            "They were astounded.\" ",
+            "They were struck with this or that remarkable thing."
+        ],
+        "John Calvin": [
+            "By these sayings I understand not only the discourse which he delivered when he came down from the mountain, but the rest of the doctrine, which had already been made known to the people.",
+            "Where he had given the people, on all sides, a taste of his doctrine, all were seized with astonishment, because a strange, indescribable, and unwonted majesty drew to him the minds of men.",
+            "What is meant by his teaching them as having authority, and not as the scribes, I have already explained."
+        ],
+        "Philip Schaff": [
+            "A summary of our Lord\u2019s sayings would not be thus referred to.",
+            "A strong word; \u2018driven from their customary state of mind by something new and strange.\u2019",
+            "Teaching, rather than \u2018doctrine;\u2019 the former includes the manner as well as the matter of His instruction, both of which awakened astonishment."
+        ],
+        "Archibald T. Robertson": [
+            "The multitudes were astonished... They listened spell-bound to the end and were left amazed.\" ",
+            "Note the imperfect tense, a buzz of astonishment.\" ",
+            "The verb means literally 'were struck out of themselves.'"
+        ],
+        "John Gill": [
+            "Delivered in this, and the two foregoing chapters, concerning true happiness; the duty and usefulness of Gospel ministers; the true sense and meaning of several commandments in the law; concerning alms, prayer, and fasting; concerning the care of worldly things, rash judging, rigid censures, and reproofs; the straitness and narrowness of the way to eternal life, and the largeness and breadth of the way to destruction; concerning false prophets, and the right hearing of the word.\" (Commentary)",
+            "The people were astonished at his doctrine; it being something new, and unheard of, what they had not been used to; and coming in the demonstration of the Spirit, and of power, it carried its own evidence along with it, wrought conviction in their minds, and obliged them to acknowledge the truth of it.\" (Commentary)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus finished speaking, the people were left astounded by His teaching. They were struck with what they heard, as if a new and remarkable thing had happened. This astonishment was not a fleeting moment, but rather a sustained sense of awe and wonder. His teachings carried a sense of authority and power that set them apart from the scribes. The people were captivated by Jesus' doctrine, which encompassed a wide range of topics: true happiness, the role of Gospel ministers, the interpretation of the commandments, and more. His words were accompanied by undeniable evidence and conviction, leaving no doubt in the minds of those who heard them.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5868553189703605,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                33.71,
+                27.08,
+                39.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus concluded His teachings, the crowd was astounded by His doctrine. They were struck by something new and unfamiliar, experiencing a sense of awe and wonder. His teachings carried a weight of authority that distinguished Him from the scribes. His words encompassed various subjects like true happiness, the role of Gospel ministers, and the interpretation of the commandments. The people acknowledged the truth of His teachings, convinced by the evidence and power they witnessed in His words.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.5623553651520707,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                29.51,
+                27.44,
+                43.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus finished speaking, the people were struck with this or that remarkable thing, left spell-bound and amazed by His teachings. The crowd experienced a buzz of astonishment, as they were driven from their customary state of mind by something new and strange. Jesus' doctrine carried an indescribable and unwonted majesty that captivated their minds. His teachings were delivered with authority and power, setting Him apart from the scribes. The people were convinced and compelled to acknowledge the truth of His words.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7288771991995908,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                31.28,
+                28.35,
+                40.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus had finished speaking, the people were astonished at His doctrine. They were struck with remarkable and new teachings that left them spell-bound and amazed. His words drove them from their customary state of mind, awakening a buzz of astonishment. Jesus' teachings carried an indescribable and unwonted majesty that drew their minds towards Him. With authority and power, His doctrine set Him apart from the scribes, compelling the people to acknowledge the truth in His words.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8156696855288854,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                33.55,
+                29.07,
+                37.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The conclusion of Jesus' discourse left the people astounded. They were struck with his remarkable and new teachings, experiencing a sense of awe and wonder. The impact of his words drove them out of their usual state of mind, leaving them spell-bound and amazed. There was an indescribable and unprecedented majesty in Jesus' teaching that captivated their attention. His authority and power distinguished them from the teachings of the scribes, leaving the people convinced and acknowledging the truth of his doctrine.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.703351382831681,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                33.56,
+                27.22,
+                39.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:51:59",
+    "verseRef": "Matthew 23:32",
+    "bestBHT": {
+        "bht": "You are following in the footsteps of your fathers in fulfilling the measure of their iniquity. This is a reminder of the unchanging state of these individuals who have resisted even the preaching of repentance. By killing the prophet God has sent, they will crown the misdeeds of their ancestors. Fill up, then, the measure of your fathers, for the measure of their guilt is not yet complete.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1167462219510167,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+        "commentatorTierSimilarities": [
+            36.01,
+            36.24,
+            27.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Fill ye up also (as well as they) the measure (of iniquity) of your fathers.\" ",
+            "Ver. 33 repeats almost verbatim the first denunciation of the Baptist\u2014in this, the last discourse of the Lord: thus denoting the unchanged state of these men, on whom the whole preaching of repentance had now been expended.",
+            "Then it was, 'who hath warned you to flee?' the wonder was, how they believed thought themselves of escaping\u2014now, how shall ye escape?"
+        ],
+        "Albert Barnes": [
+            "Fill ye up, then ... - This is a prediction of what they were about to do. He would have them act out their true spirit, and show what they were, and evince to all that they had the spirit of their fathers.\" ",
+            "By your slaying me, fill up what is lacking of the iniquity of your fathers until the measure is full; until the national iniquity is complete; until as much has been committed as God can possibly bear.",
+            "Then shall come upon you all this blood, and you shall be destroyed."
+        ],
+        "John Calvin": [
+            "It is not now that your nation begins to treat with cruelty the prophets of God; for this is the ancient discipline, this is the custom handed down from the fathers...",
+            "They have a hereditary right to rise against the servants of God, and they must be permitted to oppose religion...",
+            "[Jesus] warns simple people that there is no reason to wonder, if the prophets of God are ill-treated by the children of murderers."
+        ],
+        "Philip Schaff": [
+            "Fill ye up then... To leave them now to show their true spirit was an act of mercy to others.",
+            "The measure of your fathers... The measure of their guilt."
+        ],
+        "Archibald T. Robertson": [
+            "Fill up the measure of your fathers; crown their misdeeds by killing the prophet God has sent to you.\" ",
+            "Do at last what has long been in your hearts. The hour is come.",
+            "Fill ye up the measure of your fathers."
+        ],
+        "John Gill": [
+            "Fill ye up then the measure of your fathers. [...] their fathers had gone great lengths in sin, but their iniquity was not yet full.\" ",
+            "They had shed the blood of many of the prophets; and indeed there were none of them but they had persecuted and abused, in one shape or another.\" ",
+            "The Jews well enough understood these words, which were spoken to them in an ironical way, and expressing what they were about, and what they would hereafter do, and what would be the issue and consequence of it."
+        ],
+        "John Wesley": [
+            "Fill ye up \u2014 A word of permission, not of command: as if he had said, I contend with you no longer: I leave you to yourselves: you have conquered: now ye may follow the devices of your own hearts.",
+            "The measure of your fathers \u2014 Wickedness: ye may now be as wicked as they."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You are following in the footsteps of your fathers in fulfilling the measure of their iniquity. This is a reminder of the unchanging state of these individuals who have resisted even the preaching of repentance. Just as the Baptist wondered how they believed they could escape, now the question is how they will escape. By killing the prophet God has sent, they will crown the misdeeds of their ancestors. This is the hour when they can finally do what they have long desired. Fill up, then, the measure of your fathers, for the measure of their guilt is not yet complete.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8690699842650558,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                36.03,
+                36.16,
+                27.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You are following in the footsteps of your fathers in fulfilling the measure of their iniquity. This is a reminder of the unchanging state of these individuals who have resisted even the preaching of repentance. By killing the prophet God has sent, they will crown the misdeeds of their ancestors. Fill up, then, the measure of your fathers, for the measure of their guilt is not yet complete.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1167462219510167,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                36.01,
+                36.24,
+                27.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fill ye up also the measure of your fathers, Jesus uttered these words, revealing the unchanging state of the religious leaders who rejected Him, despite the preaching of repentance. He warned them that in fulfilling their desire to kill the prophet sent by God, they would be fulfilling the wickedness of their forefathers and crowning their misdeeds. The hour had come for them to carry out what they had long desired in their hearts, but in doing so, they would bring upon themselves the guilt and judgment for all the blood that had been shed. Jesus, in His mercy, granted them permission to act out their true spirit and showed the depths of their wickedness for all to see.",
+            "wordCount": 119,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.8724615344313578,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                31.14,
+                36.75,
+                32.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke these words to the religious leaders, urging them to fulfill the measure of their fathers by killing the prophet God had sent to them. In doing so, they would be crowning their predecessors' misdeeds and taking part in the unchanging legacy of mistreating God's messengers. This would bring the full weight of guilt upon them, as they would be responsible for all the bloodshed. Jesus permitted them to demonstrate their true nature, revealing the depth of their wickedness to all who witnessed their actions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7428764901170979,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                31.26,
+                35.38,
+                33.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus encouraged the religious leaders to fill up the measure of their fathers, fulfilling their desired action of killing the prophet sent by God. By carrying out this act, they would be completing the wickedness of their ancestors and achieving the depths of their own iniquity. Jesus granted them permission to demonstrate their true spirit, exposing the unchanged state of their hearts and the reality of their opposition to God's messengers. Their actions would bring upon them the consequences and judgment that awaited them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6176290690558153,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                30.86,
+                37.2,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

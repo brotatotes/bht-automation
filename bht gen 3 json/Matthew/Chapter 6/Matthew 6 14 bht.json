@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:19",
+    "verseRef": "Matthew 6:14",
+    "bestBHT": {
+        "bht": "Our Lord emphasizes the importance of forgiveness in the context of the new law of love by urging us to forgive others their trespasses. The term trespasses here refers to intentional violations of right, conscious sins that affect the sinner. Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. As we extend forgiveness to others, we can expect our heavenly Father to forgive us, highlighting the essential role of forgiveness in the Christian life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8275431103531028,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+        "commentatorTierSimilarities": [
+            44.47,
+            0.0,
+            55.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord returns (for) to explain the only part of the prayer which peculiarly belonged to the new law of Jove, and enforces it by a solemn assurance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14. For if ye forgive men,",
+            "\t&amp;c.\u2014See on Matthew 6:12."
+        ],
+        "Marvin Vincent": [
+            "Trespasses [\u03c0\u03b1\u03c1\u03b1\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b1] ... indicates reckless and wilful sin.",
+            "It is a conscious violation of right, involving guilt.",
+            "Unlike parabasiv (transgression), which contemplates merely the objective violation of law, it carries the thought of sin as affecting the sinner."
+        ],
+        "John Calvin": [
+            "If we are not harder than iron, this exhortation ought to soften us, and render us disposed to forgive offenses.\" (445) ",
+            "Unless God pardon us every day many sins, we know that we are ruined in innumerable ways: and on no other condition does he admit us to pardon, but that we pardon our brethren whatever offenses they have committed against us.\" (446)",
+            "Those who refuse to forget the injuries which have been done to them, devote themselves willingly and deliberately to destruction, and knowingly prevent God from forgiving them.\" (446)"
+        ],
+        "Archibald T. Robertson": [
+            "Trespasses (\u03c0\u03b1\u03c1\u03b1\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b1). This is no part of the Model Prayer.",
+            "The word 'trespass' is literally 'falling to one side,' a lapse or deviation from truth or uprightness.",
+            "The ancients sometimes used it of intentional falling or attack upon one's enemy, but 'slip' or 'fault' (Galatians 6:1) is the common New Testament idea."
+        ],
+        "John Gill": [
+            "Christ presses it upon them closely to 'forgive men their trespasses'; all sorts of injuries done them, or offences given them, whether by word or deed; and that fully, freely, from the heart; forgetting, as well as forgiving; not upbraiding them with former offences; and even without asking pardon, and though there might be no appearance of repentance.",
+            "Now to this he encourages by saying, your heavenly Father will also forgive you; will hear your prayers, and manifest his forgiving love to you.",
+            "Not that the forgiveness of others is the procuring cause of forgiveness with God, which is the blood of Christ; or of the manifestation and application of it, that is, the advocacy of Christ; nor the moving cause of it, that is, the free grace of God: but this enters into the character, and is descriptive of the persons, to whom God is pleased to make a comfortable discovery, and give a delightful sense of his pardoning grace; such persons, so disposed and assisted by his grace, may expect it of him."
+        ],
+        "John Wesley": [
+            "Mark 11:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord emphasizes the importance of forgiveness in Matthew 6:14, especially in the context of the new law of love. The term trespasses used here refers to intentional violations of right, conscious sins that affect the sinner. It conveys the idea of deviating from truth or uprightness. By urging us to forgive others their trespasses, Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. As we extend forgiveness to others, we can expect our heavenly Father to forgive us. This encouragement reminds us that forgiveness is a fundamental aspect of the Christian life, reflecting the grace we receive from God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.697111554775372,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                47.19,
+                0.0,
+                52.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord stresses the significance of forgiveness, particularly in relation to the new law of love. The word trespasses refers to intentional violations of right, conscious sins that affect the sinner. It conveys the idea of deviating from truth or uprightness. By urging us to forgive others their trespasses, Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. As we extend forgiveness to others, we can expect our heavenly Father to forgive us, highlighting the essential role of forgiveness in the Christian life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6918865190369423,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                48.07,
+                0.0,
+                51.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord emphasizes the importance of forgiveness in the context of the new law of love. By urging us to forgive others their trespasses, Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. The term trespasses used here refers to intentional violations of right, conscious sins that affect the sinner. It conveys the idea of deviating from truth or uprightness. As we extend forgiveness to others, we can expect our heavenly Father to forgive us, underscoring the fundamental role of forgiveness in the Christian life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6700351787496788,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                48.14,
+                0.0,
+                51.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord emphasizes the importance of forgiveness in the context of the new law of love by urging us to forgive others their trespasses. The term trespasses here refers to intentional violations of right, conscious sins that affect the sinner. Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. As we extend forgiveness to others, we can expect our heavenly Father to forgive us, highlighting the essential role of forgiveness in the Christian life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8275431103531028,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                44.47,
+                0.0,
+                55.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord stresses the importance of forgiveness, particularly in the context of the new law of love. By urging us to forgive others their trespasses, Christ calls for a complete and sincere forgiveness, without keeping a record of wrongs or seeking retribution. Trespasses in this verse refers to intentional violations of right, conscious sins that affect the sinner. As we extend forgiveness to others, we can expect our heavenly Father to forgive us, emphasizing the essential role of forgiveness in the Christian life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8399578162677388,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                45.71,
+                0.0,
+                54.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

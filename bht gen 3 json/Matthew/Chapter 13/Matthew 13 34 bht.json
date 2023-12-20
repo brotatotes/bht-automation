@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:47:33",
+    "verseRef": "Matthew 13:34",
+    "bestBHT": {
+        "bht": "Jesus spoke to the multitude in parables, refraining from interpretation and naked discourse. By using parables, he kept their attention until a more suitable time for revealing the fullness of his message. In that sermon, he exclusively used parables, explaining their meaning to his disciples upon their request. Without a parable, he did not speak to them, but used other methods of speaking at different times.",
+        "wordCount": 66,
+        "quoteTokenProportion": 48.08,
+        "qualityScore": 2.2086547542132746,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.78,
+        "commentatorTierSimilarities": [
+            40.83,
+            21.56,
+            37.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All these things spake Jesus unto the multitude in parables.",
+            "Without a parable spake he not unto them.",
+            "Refraining not only from all naked discourse, but even from all interpretation of these parables to the mixed multitude."
+        ],
+        "John Calvin": [
+            "Though Mark expressly says, that Christ spoke the word to them as they were able to bear it, yet I think it probable that he continued to employ parables, not so much for the purpose of instruction, as to keep the attention of his hearers awake till a more convenient time.",
+            "For why did he explain them familiarly to his disciples when they were apart? Was it because they were more slow of apprehension than the great body of the people? No; but because he wished to convey to them privately a knowledge of his meaning, and to allow others to remain in a state of suspense, till a fitter opportunity should arrive.",
+            "These were only a sort of introduction to the Gospel, the full brightness and publication of which was delayed till the proper time."
+        ],
+        "Philip Schaff": [
+            "Matthew 13:34. And without a parable spake he nothing unto them. On that occasion; probably true also of the subject of discourse, the kingdom of heaven.",
+            "\t"
+        ],
+        "John Gill": [
+            "All these things spake Jesus unto the multitude... in parables; and without a parable spake he not unto them.",
+            "Not that he never had preached but in a parabolical way unto them, or that he never did afterwards use any other way of speaking... but in that sermon, and at that time, he thought fit to make use of no other method.",
+            "He explained the meaning of some of them to his disciples, at their request, yet he dismissed the multitude without any explication of them."
+        ],
+        "John Wesley": [
+            "Without a parable spake he not unto them \u2014 That is, not at that time; at other times he did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:34, Jesus speaks to the multitude in parables, refraining from any naked discourse or interpretation of the parables to them. Though he could have spoken plainly, he chooses to speak in parables to keep the attention of his hearers awake until a more convenient time for revealing the fullness of his message. At this particular time, in that sermon, he thought it fitting to exclusively use parables, explaining their meaning only to his disciples at their request. Without a parable, he did not speak to them, but he did use other methods of speaking at different times.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.191067136760908,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                38.06,
+                22.46,
+                39.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus spoke to the multitude in parables, refraining from interpretation and naked discourse. By using parables, he kept their attention until a more suitable time for revealing the fullness of his message. In that sermon, he exclusively used parables, explaining their meaning to his disciples upon their request. Without a parable, he did not speak to them, but used other methods of speaking at different times.",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.2086547542132746,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.78,
+            "commentatorTierSimilarities": [
+                40.83,
+                21.56,
+                37.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus chose to speak to the multitude in parables, keeping them engaged and withholding interpretation. He used parables exclusively in that sermon, while explaining their significance only to his disciples upon their request. This approach allowed others to remain in suspense until a more opportune time for further understanding. Though he spoke plainly on other occasions, at that particular time, he desired to convey his meaning through parables.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.7454163790783979,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                36.89,
+                21.78,
+                41.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke to the multitude in parables, refraining from interpretation and naked discourse. By using parables, he kept their attention until a more suitable time for revealing the fullness of his message. In that sermon, he exclusively used parables, explaining their meaning to his disciples upon their request. Without a parable, he did not speak to them, but used other methods of speaking at different times.",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.2086547542132746,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.78,
+            "commentatorTierSimilarities": [
+                40.83,
+                21.56,
+                37.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus deliberately chose to speak to the multitude in parables, refraining from interpretation and direct discourse. His use of parables served to captivate their attention and maintain their suspense until a later time when he would reveal the fullness of his message. While Jesus did explain the meaning of some parables to his disciples, he dismissed the multitude without explication. This sermon was a sort of introduction to the Gospel, as the complete clarity and publication of his message would be delayed until the appropriate moment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9338303601243898,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                39.76,
+                21.62,
+                38.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

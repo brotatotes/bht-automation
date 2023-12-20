@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 23:50:45",
+    "verseRef": "Matthew 21:36",
+    "bestBHT": {
+        "bht": "God's boundless patience is exemplified by His continuous dispatch of messengers, surpassing their predecessors in number, in His relentless pursuit to reach the husbandmen. The servants faced unimaginable atrocities, enduring beatings, stonings, and even death at their hands. The variations between accounts highlight the harsh reality of their sufferings and the unwelcome reception they received from those they were sent to, mirroring the trials experienced by the faithful mentioned in Hebrews 11:36.",
+        "wordCount": 72,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.0497891092714906,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.25,
+        "commentatorTierSimilarities": [
+            25.4,
+            41.17,
+            33.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "36. Again, he sent other servants",
+            "\tmore than the first; and they did unto them likewise\u2014see",
+            "\t2 Kings 17:13; 2 Chronicles 36:16;",
+            "\t2 Chronicles 36:18; Nehemiah 9:26."
+        ],
+        "Philip Schaff": [
+            "The second sending probably does not refer to any definite time, but sets forth God\u2019s long-suffering.",
+            "In Mark\u2019s account the climax is the killing of a servant, here the stoning.",
+            "The former respects the actual suffering of the servants, the latter the hostility of the husbandmen."
+        ],
+        "John Gill": [
+            "Again he sent other servants.",
+            "They beat them with rods, they killed them with the sword, and stoned them.",
+            "Hebrews 11:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's patience is demonstrated through His repeated sending of servants to reach the husbandmen, even surpassing the number of previous messengers. The account in this verse emphasizes the severity of the treatment these servants faced, with beatings, stonings, and even killings. The varying nuances between accounts highlights the servants' actual suffering and the hostile nature of those they were sent to. This echoes the experiences recounted in Hebrews 11:36.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.1254676100961234,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.77,
+            "commentatorTierSimilarities": [
+                22.72,
+                44.11,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's boundless patience is exemplified by His continuous dispatch of messengers, surpassing their predecessors in number, in His relentless pursuit to reach the husbandmen. The servants faced unimaginable atrocities, enduring beatings, stonings, and even death at their hands. The variations between accounts highlight the harsh reality of their sufferings and the unwelcome reception they received from those they were sent to, mirroring the trials experienced by the faithful mentioned in Hebrews 11:36.",
+            "wordCount": 72,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.0497891092714906,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.25,
+            "commentatorTierSimilarities": [
+                25.4,
+                41.17,
+                33.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's unwavering perseverance is evident in His repeated sending of messengers, exceeding the number of previous servants, as a testament to His infinite patience. The severity of the treatment these messengers endured, being beaten, stoned, and even killed, emphasizes the hostility they faced. This recalls the experiences of the faithful described in Hebrews 11:36.",
+            "wordCount": 54,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 0.9726684689537917,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.69,
+            "commentatorTierSimilarities": [
+                22.98,
+                38.5,
+                38.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the continual dispatching of messengers, God demonstrates His unwavering perseverance, surpassing the previous number of servants sent and exemplifying His boundless patience. The severe treatment endured by these messengers - beatings, stonings, and killings - highlights the hostile nature they encountered. The suffering of these messengers and the animosity of the husbandmen reminds us of the trials faced by the faithful, as described in Hebrews 11:36.",
+            "wordCount": 64,
+            "quoteTokenProportion": 24.44,
+            "qualityScore": 1.0030600667947773,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.7,
+            "commentatorTierSimilarities": [
+                23.07,
+                43.35,
+                33.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's unwavering perseverance is evident in His repeated sending of messengers, surpassing the number of previous servants, as a testament to His infinite patience. These messengers faced severe treatment, enduring beatings, stonings, and even death. The hostility shown towards them echoes the experiences of the faithful, as portrayed in Hebrews 11:36.",
+            "wordCount": 51,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.012826863199007,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.02,
+            "commentatorTierSimilarities": [
+                25.54,
+                38.58,
+                35.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

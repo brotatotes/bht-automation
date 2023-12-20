@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:39",
+    "verseRef": "Matthew 23:11",
+    "bestBHT": {
+        "bht": "The precept in question reminds us that the true observance of a teaching requires more than superficial compliance. Additionally, the one who claims to be the servant of the servants of God has actually violated this principle. It is worth noting that the term servant here refers specifically to a minister rather than a general servant. Thus, those who hold prominent positions among believers are called to demonstrate their status through humble acts of service. In the Church, the highest honor is not attained through authority, but through selfless service to others.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.5299062476031864,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+        "commentatorTierSimilarities": [
+            35.51,
+            36.62,
+            27.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It may serve to shew us how little the letter of a precept has to do with its true observance...",
+            "...he who of all the Heads of sects has most notably violated this whole command, and caused others to do so, calls himself \u2018servus servorum Dei\u2019 ( 'servant of the servants of God').\" ",
+            "It must be noted (see margin) that the word here rendered 'servant' in the A.V., is not that usually so translated... but diaconos, which is in the same version rendered minister in chap. xx. 26."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. But he that is greatest among",
+            "\tyou shall be your servant\u2014This plainly means, \"shall show",
+            "\tthat he is so by becoming your servant\"; as in :-, compared with Mark 10:44."
+        ],
+        "John Calvin": [
+            "The highest honor in the Church is not government, but service.",
+            "Whoever keeps himself within this limit, whatever may be the title which he bears, takes nothing away either from God or from Christ.",
+            "He strictly forbids his followers to aspire or desire to rise any higher than to enjoy brotherly intercourse on an equal footing under the heavenly Father."
+        ],
+        "Philip Schaff": [
+            "The greater among you shall be your servant.\" - Not, 'shall be called.' The Pope, whose usual title is a violation of Matthew 23:9, is called: 'Servant of servants.'",
+            "The greater among you,\" implies a difference among Christians, but not that one is the 'greatest.' ",
+            "The greater have always been those who ministered."
+        ],
+        "John Gill": [
+            "Service is the way to honor; he that would be most esteemed ought to do the most work.\" ",
+            "The man that has the most grace, and the greatest gifts, ought to employ them for the use and benefit of others.\" ",
+            "Christ here seems to have regard to that vain spirit, which appeared among them; and his view is, to check and restrain it."
+        ],
+        "John Wesley": [
+            "Matthew 20:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that the true observance of a precept goes beyond its literal wording. The one who has violated this command by calling himself the servant of the servants of God is far from demonstrating true service. It is important to note that the term servant used here is not the usual translation, but rather refers to a minister. The greater among believers must show their status through acts of service and humility. It is not about being called the greatest, but about serving others. The highest honor in the Church is not found in positions of authority, but in serving others.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.6186058834890107,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                33.11,
+                38.89,
+                28.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The true observance of a precept goes beyond its literal meaning. The one who calls himself servant of the servants of God but violates this command does not demonstrate true service. The greater among believers must show their status through acts of service and humility. The term servant used here refers to a minister. The highest honor in the Church lies in serving others, not in positions of authority.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.5197950335608899,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                34.68,
+                38.02,
+                27.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse encourages us to understand that the letter of a precept is not sufficient for its true observance. One commentator points out that the one who violated this command by calling himself the servant of the servants of God does not exemplify true service. It is important to note that the term servant used in this verse refers to a minister. The greater among believers are called to demonstrate their status through acts of service and humility. The highest honor in the Church is not in positions of authority, but in serving others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5603581830650795,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                34.9,
+                35.24,
+                29.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The precept in question reminds us that the true observance of a teaching requires more than superficial compliance. Additionally, the one who claims to be the servant of the servants of God has actually violated this principle. It is worth noting that the term servant here refers specifically to a minister rather than a general servant. Thus, those who hold prominent positions among believers are called to demonstrate their status through humble acts of service. In the Church, the highest honor is not attained through authority, but through selfless service to others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.5299062476031864,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+            "commentatorTierSimilarities": [
+                35.51,
+                36.62,
+                27.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The precept emphasizes that true observance goes beyond the letter. Calling oneself the servant of the servants of God violates this command. Notably, the term servant here refers to a minister, highlighting that the greater among believers are to display their status through humble service. In the Church, the highest honor resides in serving others, rather than holding positions of authority. This teaching aims to discourage a spirit of vain ambition that may arise among believers, emphasizing the importance of humility and genuine service.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4734795476123623,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.34,
+            "commentatorTierSimilarities": [
+                36.12,
+                33.54,
+                30.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

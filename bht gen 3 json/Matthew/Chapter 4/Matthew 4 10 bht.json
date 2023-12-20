@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:43:24",
+    "verseRef": "Matthew 4:10",
+    "bestBHT": {
+        "bht": "Our Lord openly repels Satan, using Scripture as a shield. From this time, our Lord casts out devils with a word. The devil constantly tries to win men to the service of the world and God, but Christ's response is clear: Him alone thou shalt serve. This is a cautionary reminder to direct our reverence, both inward and outward, solely to God.",
+        "wordCount": 63,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 1.9879550849293184,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+        "commentatorTierSimilarities": [
+            39.69,
+            28.62,
+            31.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord at once repels him openly; not that He did not know him before,\u2014but because he had thus openly tempted Him.\" ",
+            "...not even this of His own power or will; He adds, for it is written,\u2014again, as Man, appealing to the word of God.\" ",
+            "From this time, our Lord is known by the devils, and casts them out by a word."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the final and conclusive evidence, as we think, that Matthew's must be the right order of the temptations.",
+            "Thus does our Lord part with Satan on the rock of Scripture.",
+            "Once more the word 'only,' in the second clause\u2014not expressed in the Hebrew and the Septuagint\u2014is here added to bring out emphatically the negative and prohibitory feature of the command."
+        ],
+        "Albert Barnes": [
+            "Here was a higher attempt, a more decided and deadly thrust at the piety of the Saviour.",
+            "It was a proposition that the Son of God should worship the devil, instead of honoring and adoring Him who made heaven and earth.",
+            "Satan asked him to worship him. This was expressly forbidden, and Jesus therefore drove him from his presence."
+        ],
+        "John Calvin": [
+            "Christ simply bids him go away; and now proceeds with the same kind of defense as before, employing Scripture as a shield, not of reeds, but of brass.",
+            "Christ rejects this frivolous distinction, and claims for God alone \u03c0\u03c1\u03bf\u03c3\u03ba\u1f7b\u03bd\u03b7\u03c3\u03b9\u03c2, worship; by which he warns us to attend more to the matter than to expressions, when we have to do with the worship of God.",
+            "Now, as religion is strictly spiritual, and the outward acknowledgment of it relates to the body, so not only the inward worship, but also the outward manifestation of it, is due to God alone."
+        ],
+        "Philip Schaff": [
+            "Get thee hence. A single word, \u2018begone,\u2019 \u2018avaunt,\u2019 expressing abhorrence of both person and proposal.",
+            "Satan. Addressed by name, having spoken in his true character as \u2018adversary.\u2019",
+            "Thou shalt worship, etc. The two clauses taken together forbid every kind of religious homage to any other than Jehovah God."
+        ],
+        "Archibald T. Robertson": [
+            "Begone\" Christ says to Satan.",
+            "The devil as the lord of the evil world constantly tries to win men to the service of the world and God.",
+            "Him alone thou shalt serve\" need be recalled today."
+        ],
+        "John Gill": [
+            "He had borne his insults and temptations with great patience; he had answered him with mildness and gentleness; but now his behaviour to him was intolerable, which obliged him to show his resentment, exert his power and authority, and rid himself at once of so vile a creature; giving this reason for it.\" ",
+            "Worship includes both an internal and external reverence of God: the word 'only' is not in the original text, but is added by our Lord; and that very justly; partly to express the emphasis which is on the word 'him'; and in perfect agreement with the context, which requires it.",
+            "The meaning of our Lord in citing it is; that since the Lord God is the alone object of worship, it was horrid blasphemy in Satan to desire it might be given to him, and which could not be done without the greatest impiety."
+        ],
+        "John Wesley": [
+            "Get thee hence, Satan \u2014 Not, get thee behind me, that is, into thy proper place.",
+            "As he said on a quite different occasion to Peter, speaking what was not expedient.",
+            "Deuteronomy 6:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord openly repels Satan, appealing to the word of God to cast him out. From this time, our Lord is known by the devils and casts them out by a word, firmly standing on the rock of Scripture. The devil, as the lord of the evil world, constantly tries to win men to serve both the world and God, but Christ's response is clear: Him alone thou shalt serve. This is a warning for us to attend more to the matter than to expressions when it comes to worshiping God, for both inward and outward reverence should be directed to Him alone.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.107223367244754,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                37.84,
+                29.6,
+                32.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord openly repels Satan, appealing to the word of God to cast him out. From this time, our Lord is known by the devils and casts them out by a word, firmly standing on the rock of Scripture. The devil, as the lord of the evil world, constantly tries to win men to serve both the world and God, but Christ's response is clear: Him alone thou shalt serve. This is a warning for us to attend more to the matter than to expressions when it comes to worshiping God, for both inward and outward reverence should be directed to Him alone.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.107223367244754,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                37.84,
+                29.6,
+                32.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to Satan's attempt to tempt Him, our Lord immediately rebukes him, relying on the power of Scripture. He proclaims that only God is worthy of worship, rejecting any other form of homage. This is a decisive moment, illustrating Christ's authority over the devil and his commitment to honoring God alone. The devil, as the ruler of this fallen world, persistently tries to entice people into serving worldly desires alongside God. However, the message remains clear: our utmost allegiance should be to God alone.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8930469878631209,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                33.66,
+                32.55,
+                33.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to Satan's open temptation, our Lord firmly repels him using the power of Scripture, affirming that only God is deserving of worship. This encounter serves as a conclusive evidence that Matthew's order of the temptations is correct. The devil, as the ruler of the evil world, persistently tries to lure individuals into serving both the world and God. However, Christ's resolute statement\u2014Him alone thou shalt serve\u2014remains a timeless reminder of the need to dedicate ourselves solely to God in our worship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8687413131088344,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                35.01,
+                31.83,
+                33.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord openly repels Satan, using Scripture as a shield. From this time, our Lord casts out devils with a word. The devil constantly tries to win men to the service of the world and God, but Christ's response is clear: Him alone thou shalt serve. This is a cautionary reminder to direct our reverence, both inward and outward, solely to God.",
+            "wordCount": 63,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.9879550849293184,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                39.69,
+                28.62,
+                31.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

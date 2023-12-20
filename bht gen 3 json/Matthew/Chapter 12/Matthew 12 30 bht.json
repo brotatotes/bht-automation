@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:11",
+    "verseRef": "Matthew 12:30",
+    "bestBHT": {
+        "bht": "The world offers no middle ground; those who are not with Christ, who do not gather with Him, are against Him and undo His work. Denying the power of the Holy Spirit is a grave sin, and Jesus emphasizes the impossibility of remaining neutral in this endeavor. He draws a clear line between Himself and His enemies, those who hate Him and all that is noble. Christ is the magnet of the ages, attracting or repelling, and there are no neuters in this war.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.795844470039715,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+        "commentatorTierSimilarities": [
+            31.87,
+            34.7,
+            33.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is and can be in the world no middle party: they who are not with Christ, who do not gather with Him,\u2014are against Him and his work, and as far as in them lies are undoing it.",
+            "The sin of an open belying of the present power of the Holy Spirit of God working in and for His Kingdom assumes a character surpassingly awful.",
+            "He informed them (and informs us also) of the impossibility of such an endeavour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. He that is not with me is",
+            "\tagainst me; and he that gathereth not with me scattereth abroad\u2014On",
+            "\tthis important parable, in connection with the corresponding one ( :-), see on :-."
+        ],
+        "John Calvin": [
+            "It was your duty to assist me, and to give me your hand in establishing the kingdom of God; for whoever does not assist is, in some measure, opposed to me, or, at least, deserves to be reckoned among enemies.",
+            "This doctrine has a still more extensive bearing, and implies that they are unworthy to be considered as belonging to the flock of Christ, who do not apply to it all the means that are in their power; because their indolence tends to retard and ruin the kingdom of God, which all of us are called to advance.",
+            "The truth of this is abundantly manifest from what has been already said; for so strong is our propensity to evil, that the justice of God can have no place but in those who apply to it in good earnest."
+        ],
+        "Philip Schaff": [
+            "The opposition between the kingdom of Christ and the kingdom of Satan is absolute; it is impossible to be neutral.",
+            "'Neutrality' is often the worst 'hostility.'",
+            "Sentimental admirers of Christ are simply inconsistent enemies."
+        ],
+        "Archibald T. Robertson": [
+            "He that is not with me... Jesus draws the line of cleavage between himself and his enemies then and now.\" ",
+            "Jesus still has his enemies who hate him and all noble words and deeds because they sting what conscience they have into fury.",
+            "Christ is the magnet of the ages. He draws or drives away. 'Satan is the arch-waster, Christ the collector, Saviour' (Bruce)."
+        ],
+        "John Gill": [
+            "He that is not with me, is against me...",
+            "...one cannot be thought to lend assistance to the other.",
+            "...whoever is not on the side of Christ, is reckoned as an enemy."
+        ],
+        "John Wesley": [
+            "He that is not with me is against me \u2014 For there are no neuters in this war.",
+            "Every one must be either with Christ or against him; either a loyal subject or a rebel.",
+            "For he that does not gather souls to God, scatters them from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are not with Christ, who do not gather with Him, are against Him and His work, undoing it. It is an awful sin to deny the present power of the Holy Spirit and His work for the Kingdom. Jesus informs us that there is no middle ground; it is impossible to be neutral in this endeavor. Christ draws a clear line between Himself and His enemies, and still has those who hate Him and all noble things. He is the magnet of the ages, attracting or driving away. It is our duty to assist in establishing the Kingdom of God, and those who do not are in opposition or deserve to be considered enemies. There are no neuters in this war; everyone must be with Christ or against Him, either a loyal subject or a rebel.",
+            "wordCount": 138,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.7813401084612663,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.57,
+            "commentatorTierSimilarities": [
+                29.75,
+                34.48,
+                35.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who do not gather with Christ are against Him, undoing His work. Denying the present power of the Holy Spirit is an awful sin. Jesus reveals the impossibility of neutrality in this endeavor. He draws a clear line between Himself and His enemies, still facing hatred from them. He is the magnet, attracting or driving away. It is our duty to assist in establishing the Kingdom, and those who do not are in opposition or considered enemies. There are no neuters, only those with Christ or against Him, loyal subjects or rebels.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7247904617632517,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                28.36,
+                39.08,
+                32.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The world offers no middle ground; those who are not with Christ, who do not gather with Him, are against Him and undo His work. Denying the power of the Holy Spirit is a grave sin, and Jesus emphasizes the impossibility of remaining neutral in this endeavor. He draws a clear line between Himself and His enemies, those who hate Him and all that is noble. Christ is the magnet of the ages, attracting or repelling, and there are no neuters in this war.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.795844470039715,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                31.87,
+                34.7,
+                33.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 12:30, Jesus warns that there is no middle party when it comes to Him. Those who are not with Him and do not gather with Him are against Him. It is an awful sin to deny the present power of the Holy Spirit in His work for the Kingdom. Neutrality is not an option; Jesus draws a clear line of cleavage between Himself and His enemies, both in His time and now. Christ is a magnet, attracting or driving away, and every individual must choose to either assist in establishing the Kingdom of God or be counted among His enemies.",
+            "wordCount": 101,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.77041447055064,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                32.62,
+                32.77,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There is no middle party with Christ; those who do not gather with Him are against Him, undoing His work. Denying the power of the Holy Spirit is a terrible sin, and Jesus makes it clear that neutrality is impossible in this endeavor. He draws a line between Himself and His enemies, who hate Him and all that is noble. Christ is the magnet of the ages, attracting or driving away. One must choose to assist in establishing the Kingdom or be counted among His enemies.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7857892615935955,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                30.84,
+                36.5,
+                32.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

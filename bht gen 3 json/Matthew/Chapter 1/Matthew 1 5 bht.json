@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:42:27",
+    "verseRef": "Matthew 1:5",
+    "bestBHT": {
+        "bht": "Rahab, the woman of Jericho, overcame her degradation through heroic faith, marrying Salmon to become part of the lineage leading to David. Despite the interval between Rahab and David, her inclusion in Christ's genealogy showcases God's grace beyond Israel. This highlights His providence and the fulfillment of His plan, as the Messiah, descended from Rahab, emerged. Rahab's story demonstrates an extraordinary intervention, emphasizing God's ability to work outside the confines of Israel and incorporating Gentiles into the genealogy of Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.5689157421870035,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+        "commentatorTierSimilarities": [
+            26.98,
+            42.99,
+            30.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Salmon would be of mature age at or soon after that event; at which time Rahab was probably young, as her father and mother were living.",
+            "The difficulty of the interval of 366 years between Rahab and David does not to this passage only, but equally to Ruth iv. 21, 22; and is by no means insuperable.",
+            "The house would hardly be called the house Of Rahab except on account of the character commonly assigned to her."
+        ],
+        "Philip Schaff": [
+            "Undoubtedly the woman of Jericho... by heroic faith she rose above her degradation.",
+            "The book [of Ruth] which tells her story is a charming episode of domestic virtue and happiness... a recognition of the working of God\u2019s grace outside of Israel.",
+            "The long interval between the taking of Jericho and the birth of David... Rahab was probably young at the time Jericho was taken, Boaz old at the time of his marriage, and David was the youngest son of an old man."
+        ],
+        "John Gill": [
+            "The truth of the matter is, she became the wife of Salmon, or Salma, as he is called.\" ",
+            "And from Rahab sprung the Messiah, another instance of a Gentile in the genealogy of Christ.",
+            "Jesse is rightly put among the progenitors of Christ, since the Messiah was to be a rod of his stem, and the branch of his roots, and is called the root of Jesse."
+        ],
+        "John Wesley": [
+            "The providence of God was peculiarly shown in this",
+            "Salmon, Boaz, and Obed, must each of them have been near a hundred years old",
+            "At the birth of his son here recorded"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rahab, the woman of Jericho, is mentioned in the genealogy of Jesus Christ. She married Salmon, and their son Boaz married Ruth. The interval of time between Rahab and David is a challenge, but not impossible. Rahab was likely young when Jericho was taken, Boaz was old when he married Ruth, and David was the youngest son of an old man. Despite Rahab's past, she rose above her degradation by her heroic faith. The inclusion of Rahab's story in the genealogy of Christ serves as a recognition of God's grace working outside of Israel. In this way, we see God's providence and the fulfillment of His plan for salvation.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.557446913712271,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                28.91,
+                44.6,
+                26.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rahab, the woman of Jericho, is mentioned in Jesus Christ's genealogy. Despite the challenge posed by the interval of time between Rahab and David, her inclusion is a recognition of God's grace working outside of Israel. Rahab, who married Salmon, exemplified heroic faith and rose above her past degradation. Such providence highlights the fulfillment of God's plan, as the Messiah sprang from Rahab's lineage. This demonstrates another instance of a Gentile's connection to the genealogy of Christ and reveals God's extraordinary intervention.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.5182095788936871,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                27.25,
+                42.29,
+                30.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rahab, the woman of Jericho, is mentioned in the genealogy of Jesus Christ. Despite the challenge of the interval of time between Rahab and David, her inclusion reveals God's grace beyond Israel. Rahab's heroic faith allowed her to rise above her past degradation, and her marriage to Salmon played a significant role. This connection shows God's providence and highlights how the Messiah, descended from Rahab, is an example of a Gentile within Christ's lineage. It showcases the extraordinary intervention of God and the fulfillment of His plan for salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.502755380948586,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                27.97,
+                43.35,
+                28.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rahab, the woman of Jericho, rose above her degradation through heroic faith. Her marriage to Salmon contributed to the interval between her and David. Despite the challenge, her inclusion in Jesus Christ's genealogy reflects God's grace extended to Gentiles. It highlights the providence and fulfillment of God's plan, as the Messiah, descended from Rahab, brings salvation. Rahab's story serves as a powerful example of God's extraordinary intervention, demonstrating His ability to work outside of the boundaries of Israel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.4454385961797298,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.4,
+            "commentatorTierSimilarities": [
+                25.17,
+                46.96,
+                27.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rahab, the woman of Jericho, overcame her degradation through heroic faith, marrying Salmon to become part of the lineage leading to David. Despite the interval between Rahab and David, her inclusion in Christ's genealogy showcases God's grace beyond Israel. This highlights His providence and the fulfillment of His plan, as the Messiah, descended from Rahab, emerged. Rahab's story demonstrates an extraordinary intervention, emphasizing God's ability to work outside the confines of Israel and incorporating Gentiles into the genealogy of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5689157421870035,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                26.98,
+                42.99,
+                30.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

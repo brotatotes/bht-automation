@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 23:51:58",
+    "verseRef": "Matthew 24:19",
+    "bestBHT": {
+        "bht": "These words express pity and concern for the miserable circumstances that women with child and those who are nursing babies would find themselves in during the tribulation. Their tender affection for their infants would not allow them to leave them behind, yet their weakness would hinder their speedy flight. The Jewish writings even mention that women in this state were excused from certain fasts but still obligated to others. Thus, Jesus pronounces woe on them because they cannot easily escape the impending destruction.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.2284586951040413,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+        "commentatorTierSimilarities": [
+            0.0,
+            34.22,
+            65.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 24:19. Woe unto them, etc. Natural affection is not forbidden, and this verse expresses compassion for mothers who were thus delayed.",
+            "\t"
+        ],
+        "John Gill": [
+            "this expresses the miserable circumstances such would be in... or would be obliged to stay at home, and endure all the miseries of the siege: so that these words...of pity and concern for their misery and distress.",
+            "whose tender affection to their infants will not suffer them to leave them behind them; and yet such their weakness, that they will not be able to carry them with them; at least, they must be great hindrances to their speedy flight.",
+            "women with child, and that give suck; are mentioned together in the Jewish writings, as such as were excused from certain fasts, though obliged to others."
+        ],
+        "John Wesley": [
+            "Wo to them that are with child, and to them that give suck \u2014 Because they cannot so readily make their escape."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These words express pity and concern for the miserable circumstances that women with child and those who are nursing babies would find themselves in during the tribulation. Their tender affection for their infants would not allow them to leave them behind, yet their weakness would hinder their speedy flight. The Jewish writings even mention that women in this state were excused from certain fasts but still obligated to others. Thus, Jesus pronounces woe on them because they cannot easily escape the impending destruction.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.2284586951040413,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.22,
+                65.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These words express pity for the miserable circumstances of women with child and nursing infants during the tribulation. Their tender affection prevents them from leaving their infants behind, yet their weakness hinders their speedy flight. Jewish writings note that such women were excused from certain fasts but not from others. Jesus pronounces woe on them as they cannot easily escape the impending destruction.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.1535111057387457,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.34,
+                64.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These words express pity and concern for the miserable circumstances that women with child and those who are nursing babies would find themselves in during the tribulation. Their tender affection for their infants would not allow them to leave them behind, yet their weakness would hinder their speedy flight. The Jewish writings even mention that women in this state were excused from certain fasts but still obligated to others. Thus, Jesus pronounces woe on them because they cannot easily escape the impending destruction.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.2284586951040413,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.22,
+                65.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the tribulation, Jesus expresses pity and concern for women with child and nursing infants. He acknowledges their tender affection for their infants, making it difficult for them to leave them behind. These women would be hindered by their weakness, causing delays in their escape. In the Jewish writings, it is noted that such women were exempt from certain fasts but remained obligated to others. Jesus pronounces woe on them, recognizing their challenges in fleeing from the impending destruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.0683588563301858,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.67,
+                62.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus expresses compassion for women with child and nursing infants during the tribulation. Their tender affection makes it difficult for them to leave their infants behind, and their weakness would hinder their quick escape. Jewish writings note that such women were exempt from certain fasts but still obliged to others. The verse emphasizes the unfortunate circumstances these women would face, unable to easily escape the impending destruction.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.1930142075043144,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.82,
+                60.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

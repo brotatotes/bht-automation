@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:42:56",
+    "verseRef": "Matthew 3:8",
+    "bestBHT": {
+        "bht": "If you are truly minded to flee from the wrath to come, bring forth fruits that are a true reflection of genuine repentance. Show through your actions that your coming to be baptized is not an act of dissimulation, but a sincere desire to forsake sin. The fruit, or acts, worthy of repentance, are the outward manifestation of an inward renewal that transforms your life. These good works serve as proof of the sincerity of your repentance, confirming the need for genuine change and a turning away from sin.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.3117192742519785,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+        "commentatorTierSimilarities": [
+            23.15,
+            37.49,
+            39.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] therefore expresses an inference from their apparent intention of fleeing from the wrath to come: q.d. \u2018if you are really so minded,\u2019..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Bring forth therefore fruits\u2014the true reading clearly is 'fruit'",
+            "such fruit as befits a true penitent",
+            "directs them how to evidence and carry out their repentance"
+        ],
+        "Albert Barnes": [
+            "Do not bring your cunning and dissimulation to this work; do not carry your hypocrisy into your professed repentance.\" ",
+            "Evince your sincerity by forsaking sin, and thus give evidence that this coming to Jordan to be baptized is not an act of dissimulation.",
+            "Fruits - Conduct. See Matthew 7:16-19."
+        ],
+        "John Calvin": [
+            "He confirms what I have already said, that the repentance, which is attested by words, is of no value, unless it be proved by the conduct.",
+            "Good works are here called fruits of repentance: for repentance is an inward matter, which has its seat in the heart and soul, but afterwards yields its fruits in a change of life.",
+            "Repentance is an inward renewal of the man, which manifests itself in the outward life, as a tree produces its fruit."
+        ],
+        "Philip Schaff": [
+            "Bring forth therefore... fruit worthy of repentance.\" ",
+            "The fruit or result, worthy of repentance, implies a good tree to produce the fruit.\" ",
+            "The germ of the great gospel truth: 'Ye must be born again,' since natural birth, or descent from Abraham, did not insure the worthy fruit."
+        ],
+        "Archibald T. Robertson": [
+            "The fruit is not the change of heart, but the acts which result from it\" (McNeile).",
+            "Any one can do acts externally good but only a good man can grow a crop of right acts and habits\" (Bruce).",
+            "John demands proof from these men of the new life before he administers baptism to them."
+        ],
+        "John Gill": [
+            "Fruits meet for repentance are the same as 'works meet for repentance', Acts 26:20 and as a tree is known by its fruit, so repentance is known by good works.\" ",
+            "These [good works] are the fruits and effects of repentance, and which are proofs with men of the sincerity of it.",
+            "None but truly repenting sinners, and such who have given proofs that they are so, are to be admitted to this ordinance [baptism]."
+        ],
+        "John Wesley": [
+            "Repentance is of two sorts; that which is termed legal, and that which is styled evangelical repentance.",
+            "The former (which is the same that is spoken of here) is a thorough conviction of sin.",
+            "The latter is a change of heart (and consequently of life) from all sin to all holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you truly intend to flee from the coming wrath, then demonstrate your sincerity through the fruits of your repentance. It is not enough to have a change of heart; you must also manifest this change through your actions. Anyone can perform external acts of goodness, but true repentance goes beyond surface-level actions. The proof of your new life lies in the crop of right acts and habits that you cultivate. John demands evidence of a transformed life before administering baptism, for repentance is not just an inward matter but one that is proven by the outward manifestation in good works.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.9616713824119556,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                27.44,
+                32.74,
+                39.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you truly intend to flee from the coming wrath, then demonstrate your sincerity through the fruits of your repentance. It is not enough to have a change of heart; you must also manifest this change through your actions. The proof of your new life lies in the crop of right acts and habits that you cultivate. Repentance is not just an inward matter but one that is proven by the outward manifestation in good works. John demands evidence of a transformed life before administering baptism.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.923053118054266,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                28.03,
+                33.15,
+                38.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 3:8, John the Baptist exhorts the people to bring forth fruits that align with true repentance. He directs them to evidence and carry out their repentance through their actions, emphasizing that the fruit is not simply a change of heart but the acts that result from it. John insists on proof of a new life before administering baptism, highlighting the importance of genuine, transformed lives and good works as evidence of sincere repentance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.2423481185333465,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                26.81,
+                35.55,
+                37.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you are truly minded to flee from the wrath to come, bring forth fruits that are a true reflection of genuine repentance. Show through your actions that your coming to be baptized is not an act of dissimulation, but a sincere desire to forsake sin. The fruit, or acts, worthy of repentance, are the outward manifestation of an inward renewal that transforms your life. These good works serve as proof of the sincerity of your repentance, confirming the need for genuine change and a turning away from sin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.3117192742519785,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+            "commentatorTierSimilarities": [
+                23.15,
+                37.49,
+                39.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you truly intend to flee from the coming wrath, then demonstrate your sincerity through the fruits of your repentance. It is not enough to have a change of heart; you must also manifest this change through your actions. The fruit, or acts, worthy of repentance, are the outward evidence of an inward renewal that transforms your life. These good works serve as proof of the sincerity of your repentance and the need for a genuine change from sin to holiness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.157797760080757,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                23.94,
+                35.83,
+                40.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

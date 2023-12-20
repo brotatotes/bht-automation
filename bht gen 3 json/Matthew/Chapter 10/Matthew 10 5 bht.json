@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:46:11",
+    "verseRef": "Matthew 10:5",
+    "bestBHT": {
+        "bht": "The Apostles were sent on a mission to prepare for Jesus, but their instructions also apply to missionaries and ministers. The prohibition against going to the Gentiles and the Samaritans was to give the Jews the first opportunity to hear the Gospel without prejudice. It was important to prioritize reaching the Jewish people first, as the full time for preaching to Gentiles had not yet come. The Samaritans, being descendants of those transported and partially instructed in the Jewish religion, occupied an intermediate position between the Jews and Gentiles.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.5000540607106796,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.47,
+        "commentatorTierSimilarities": [
+            28.77,
+            39.96,
+            31.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Its primary reference is to the then mission of the Apostles to prepare His way; but it includes, in the germ instructions prophetically delivered for the ministers and missionaries of the Gospel to the end of time.\" ",
+            "Still the direct reference is to the Apostles and their mission, and the other only by inference.",
+            "In these first verses, 5, 6,\u2014we have the location; in 7, 8, the purpose; in 9, 10, the fitting out; and in 11\u201314, the manner of proceeding,\u2014of their mission."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Samaritans were Gentiles by blood; but being the descendants of those whom the king of Assyria had transported from the East to supply the place of the ten tribes carried captive, they had adopted the religion of the Jews, though with admixtures of their own.",
+            "As the nearest neighbors of the Jews, they occupied a place intermediate between them and the Gentiles.",
+            "When this prohibition was to be taken off, on the effusion of the Spirit at Pentecost, the apostles were told that they should be Christ's witnesses first 'in Jerusalem, and in all Judea,' then 'in Samaria,' and lastly, 'unto the uttermost part of the earth'."
+        ],
+        "Albert Barnes": [
+            "The full time for preaching the gospel to the Gentiles was not come.",
+            "When the ten tribes were carried away into captivity to Babylon, the King of Assyria sent people from Cutha, Ava, Hamath, and Sepharvaim to inhabit their country.",
+            "The grounds of difference between the two nations were the following: The Jews, after their return from Babylon, set about rebuilding their temple. The Samaritans offered to aid them. The Jews, however, perceiving that it was not from a love of true religion, but that they might obtain a part of the favors granted to the Jews by Cyrus, rejected their offer."
+        ],
+        "Marvin Vincent": [
+            "Judas Iscariot [\u03bf \u03b9\u03c3\u03ba\u03b1\u03c1\u03b9\u03c9\u03c4\u03b7\u03c2]...with reference to his native town, which is given in Joshua (xv. 25) as one of the uttermost cities of Judah toward the coast of Edom southward.",
+            "Simon Peter always stands first...Peter is the leader of the first four, Philip of the second, and James, son of Alphaeus, of the third.",
+            "Matthew names them in pairs...Mark 6:7, 'sent them forth two and two.'"
+        ],
+        "John Calvin": [
+            "The office, which was then bestowed on the apostles, had no other object than to awaken in the Jews the hope of an approaching salvation, and thus to render them more attentive to hear Christ.",
+            "Christ acted properly in confining the grace of God, at the outset, to the chosen people, till the time for publishing it were fully come.",
+            "If any one imagine that this prohibition is unkind, because Christ does not admit the Gentiles to the enjoyment of the gospel, let him contend with God, who, to the exclusion of the rest of the world, established with the seed of Abraham alone his covenant, on which the command of Christ is founded."
+        ],
+        "Philip Schaff": [
+            "The way of the Gentiles would lead northward, they were to go toward Jerusalem, as we infer from the rest of the verse.",
+            "To have taken the way of the Gentiles at this time would have closed the way to the hearts of the Jews, who must form the basis of the Christian Church.",
+            "The Samaritans were half-heathen, the descendants of Gentiles who had been partially instructed in the Jewish religion, when they first occupied the territory of the ten tribes."
+        ],
+        "Archibald T. Robertson": [
+            "The word 'sent forth' (\u03b1\u03c0\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5\u03bd) is the same root as 'apostles.'",
+            "This prohibition against going among the Gentiles and the Samaritans was for this special tour.",
+            "They were to give the Jews the first opportunity and not to prejudice the cause at this stage."
+        ],
+        "John Gill": [
+            "but before he sent them forth from his presence, he gave them some directions where they should go, and to whom they should minister, and where not\" ",
+            "that it was the will of God, that the Gospel should be first preached to the Jews, to take off all excuse from them, and that their obstinacy and perverseness in rejecting Jesus as the Messiah, might manifestly appear",
+            "The Samaritans, though they boasted of their descent from Jacob, were a mongrel sort of people, partly Jews, and partly Gentiles, a mixture of both; and therefore are distinguished from both and though they had, and held the law, and five books of Moses, yet corrupted them in many places, to serve their purpose, and countenance their religion"
+        ],
+        "John Wesley": [
+            "Herein exercising his supreme authority, as God over all. None but God can give men authority to preach his word.",
+            "Their commission was thus confined now, because the calling of the Gentiles was deferred till after the more plentiful effusion of the Holy Ghost on the day of pentecost.",
+            "Not to preach; but they might to buy what they wanted, John 4:9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The primary reference of this verse is to the mission of the Apostles, who were sent to prepare the way for Jesus. However, these instructions also prophetically apply to all ministers and missionaries of the Gospel throughout history. The location and purpose of their mission are outlined in the first few verses, with further details on how they were to proceed. The Apostles were initially prohibited from going to the Gentiles and the Samaritans, who occupied an intermediate position between the Jews and Gentiles. This prohibition was lifted later on, and the Apostles were instructed to be witnesses first in Jerusalem, then in Judea, Samaria, and eventually to the uttermost parts of the earth. The pairing of the Apostles and the use of the word sent forth reflect their role as ambassadors or messengers. The prohibition against going among the Gentiles and Samaritans during this initial mission was to give the Jews the first opportunity to hear the Gospel without prejudice. Ultimately, the full time for preaching the Gospel to the Gentiles had not yet come, and it was important to prioritize reaching the Jewish people first, who would form the basis of the Christian Church.",
+            "wordCount": 196,
+            "quoteTokenProportion": 38.74,
+            "qualityScore": 2.3562869923805154,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.69,
+            "commentatorTierSimilarities": [
+                32.17,
+                36.24,
+                31.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The primary reference of this passage is to the Apostles' mission to prepare the way for Jesus, but it also includes instructions for all Gospel ministers and missionaries. The Samaritans, being descendants of those transported to the region of the ten tribes and adopting elements of Judaism, were a group occupying an intermediate position between Jews and Gentiles. While the Apostles were initially prohibited from going to the Gentiles and Samaritans, this was only for their first mission, giving the Jews the first opportunity to hear the Gospel. The full time to preach to Gentiles had not yet arrived.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.4704724216631195,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.48,
+            "commentatorTierSimilarities": [
+                29.7,
+                39.49,
+                30.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostles were initially sent on a mission to prepare for Jesus, but their instructions also apply to missionaries and ministers throughout history. The Samaritans, descendants of those transported from the East, adopted Jewish practices but with their own mixtures. The prohibition against going to the Gentiles and Samaritans was to give the Jews the first opportunity to hear the Gospel without prejudice. It was important to prioritize reaching the Jewish people first, as the time for preaching to Gentiles had not yet come.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.3693233942724063,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+            "commentatorTierSimilarities": [
+                28.95,
+                39.54,
+                31.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse primarily refers to the mission of the Apostles in preparing the way for Jesus, but it also includes instructions that prophetically apply to ministers and missionaries of the Gospel. Initially, the Apostles were prohibited from going to the Gentiles and the Samaritans, who occupied an intermediate position between Jews and Gentiles. This prohibition aimed to give the Jews the first opportunity to hear the Gospel without prejudice. It was important to prioritize reaching the Jewish people first before preaching to the Gentiles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.437091891533754,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                30.04,
+                37.55,
+                32.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostles were sent on a mission to prepare for Jesus, but their instructions also apply to missionaries and ministers. The prohibition against going to the Gentiles and the Samaritans was to give the Jews the first opportunity to hear the Gospel without prejudice. It was important to prioritize reaching the Jewish people first, as the full time for preaching to Gentiles had not yet come. The Samaritans, being descendants of those transported and partially instructed in the Jewish religion, occupied an intermediate position between the Jews and Gentiles.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.5000540607106796,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.47,
+            "commentatorTierSimilarities": [
+                28.77,
+                39.96,
+                31.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

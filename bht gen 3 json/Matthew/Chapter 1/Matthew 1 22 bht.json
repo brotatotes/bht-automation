@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:47",
+    "verseRef": "Matthew 1:22",
+    "bestBHT": {
+        "bht": "The birth, life, and death of Jesus throw a flood of light on the Old Testament narrative and prophecies, as they were divinely ordered for the express purpose of fulfilling the Old Testament. The prophecy spoken by the Lord through the prophet Isaiah, about a virgin giving birth, was fulfilled by the birth of Jesus, who was conceived by the Holy Spirit in an extraordinary manner. This fulfillment not only proves the faithfulness and veracity of God's word, but also emphasizes the divine purpose behind the events of Christ's life, which revealed the will and determination of God.",
+        "wordCount": 100,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.1407433166006062,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+        "commentatorTierSimilarities": [
+            29.06,
+            30.61,
+            40.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The accomplishment of a promise formally made is often alleged as the cause of an action extending wider than the promise, and purposed long before its utterance.",
+            "If such meaning involve us in difficulty regarding the prophecy itself, far better leave such difficulty, in so doubtful a matter as the interpretation of prophecy, unsolved.",
+            "...no indifferent person could doubt."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. Now all this was done, that it",
+            "\tmight be fulfilled which was spoken of the Lord by the prophet\u2014",
+            "\t(Isaiah 7:14). ",
+            "\t",
+            "saying\u2014as follows."
+        ],
+        "Albert Barnes": [
+            "The prophecy was delivered about 740 years before Christ, in the reign of Ahaz, king of Judah.",
+            "The sign was, that a virgin should have a son, and that before that son would arrive to years of discretion, the land would be forsaken by these hostile kings.",
+            "The language is so full and rich, and the promises are so grand, that they may appropriately express all these deliverances."
+        ],
+        "Marvin Vincent": [
+            "Through the prophet [\u03b4\u03b9\u03b1] . So the Rev. rightly, instead of by. In quotations from the Old Testament, the writers habitually use the preposition dia (through to denote the instrumentality through which God works or speaks, while they reserve uJpo (by) to express the primary agency of God himself."
+        ],
+        "John Calvin": [
+            "To such a pitch of impudence have many of their Rabbins proceeded, as to explain it in reference to King Hezekiah, who was then about fifteen years of age. And what, I ask, must be their rage for lying, when, in order to prevent the admission of clear light, they invert the order of nature, and shut up a youth in his mother\u2019s womb, that he may be born sixteen years old?",
+            "The reason for delivering the city was, that it was the sanctuary of God, and out of it the Redeemer would come. But for this, Jerusalem would a hundred times have perished.",
+            "Let this, therefore, be regarded as an established truth, that the prophet here refers to a remarkable miracle of God, and recommends it to the attentive and devout consideration of all the godly \u2014 a miracle which is basely profaned by the Jews, who apply to the ordinary method of conception what is said in reference to the secret power of the Spirit."
+        ],
+        "Philip Schaff": [
+            "An explanation of the Evangelist, who everywhere points to the fulfilment of prophecy.",
+            "That, i.e., \u2018in order that.\u2019 The event fulfilled God\u2019s purpose as predicted, and therefore took place.",
+            "Fulfilled. This word has its usual sense here as applied to prophecy."
+        ],
+        "Archibald T. Robertson": [
+            "All this has happened\" (\u03c4\u03bf\u03c5\u03c4\u03bf \u03b4\u03b5 \u03bf\u03bb\u03bf\u03bd \u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd, present perfect indicative), stands on record as historical fact.",
+            "The birth, life, and death of Jesus throw a flood of light on the Old Testament narrative and prophecies for the early Christians.",
+            "In Matthew and John in particular we often see 'that the events of Christ's life were divinely ordered for the express purpose of fulfilling the Old Testament' (McNeile)."
+        ],
+        "John Gill": [
+            "Mary's being with child of the Holy Ghost, and her conception in such an extraordinary manner, whilst a pure virgin, before she and Joseph came together, who though espoused to him, was untouched by him, were all brought about in this way, and with such circumstances\" ",
+            "The passage referred to is in Isaiah 7:14 what is there spoken was by divine inspiration...what they said is to be looked upon as the word of God\" ",
+            "Now between the prophecy of Isaiah referred to, and the fact here recorded by the Evangelist, is an entire agreement: the prophecy shows the will, counsel, and determination of God about this matter; the accomplishment of it, the faithfulness and veracity of God in his word; the prediction declares that the thing would be, and the thing itself was done, that what was spoken might be fulfilled"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The birth, life, and death of Jesus throw a flood of light on the Old Testament narrative and prophecies, as they were divinely ordered for the express purpose of fulfilling the Old Testament. The prophecy spoken by the Lord through the prophet Isaiah, about a virgin giving birth, was fulfilled by the birth of Jesus, who was conceived by the Holy Spirit in an extraordinary manner. This fulfillment not only proves the faithfulness and veracity of God's word, but also emphasizes the divine purpose behind the events of Christ's life, which revealed the will and determination of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.1407433166006062,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                29.06,
+                30.61,
+                40.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The birth of Jesus fulfilled the prophecy spoken by the Lord through Isaiah, which revealed the divine purpose and faithfulness of God's word. Jesus' birth, life, and death shed light on the Old Testament narrative and prophecies, demonstrating that these events were divinely ordered to fulfill the Scriptures. Through the miraculous conception of Jesus by the Holy Spirit, a virgin gave birth, highlighting the extraordinary nature of His arrival. This fulfillment serves as a testament to the will and determination of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.9884148558645172,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                26.97,
+                31.85,
+                41.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The birth, life, and death of Jesus shed light on the Old Testament narrative and prophecies, as they were divinely ordered for the purpose of fulfilling Scripture. The prophecy delivered by Isaiah about a virgin giving birth was fulfilled through the miraculous conception of Jesus by the Holy Spirit. This fulfillment not only demonstrates the faithfulness and veracity of God's word, but also reveals the divine purpose behind the events of Christ's life. Through these fulfilled prophecies, the early Christians gained a deeper understanding of the Old Testament.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.098497559070911,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.12,
+            "commentatorTierSimilarities": [
+                28.49,
+                33.46,
+                38.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The birth, life, and death of Jesus fulfill the prophecy of a virgin giving birth spoken by the Lord through Isaiah. Through the miraculous conception by the Holy Spirit, Jesus' arrival highlights the divine purpose and faithfulness of God's word. These events not only shed light on the Old Testament narrative and prophecies, but also serve as a testament to the will and determination of God. It is through the fulfillment of these prophecies that the early Christians gained a deeper understanding of the Old Testament.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0286774311866695,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                28.04,
+                32.77,
+                39.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The birth, life, and death of Jesus throw a flood of light on the Old Testament narrative and prophecies, as they were divinely ordered for the express purpose of fulfilling the Old Testament. The prophecy spoken by the Lord through the prophet Isaiah, about a virgin giving birth, was fulfilled by the birth of Jesus, who was conceived by the Holy Spirit in an extraordinary manner. This fulfillment not only proves the faithfulness and veracity of God's word but also emphasizes the divine purpose behind the events of Christ's life, which revealed the will and determination of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.1407433166006062,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                29.06,
+                30.61,
+                40.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

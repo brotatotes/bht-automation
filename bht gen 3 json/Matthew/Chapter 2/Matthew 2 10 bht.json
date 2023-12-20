@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:42:16",
+    "verseRef": "Matthew 2:10",
+    "bestBHT": {
+        "bht": "When the magi saw the star, they rejoiced with exceeding great joy, their joy stemming from the success of their search and the truth of their calculations. The reappearance of the star indicated their achievement, and their rapture and excess of joy were evident upon this sight. Despite discouraging circumstances encountered in their journey, the sight of the star revived their spirits, bringing cheerfulness and inexpressible delight as they continued their pursuit until reaching the place where the child was.",
+        "wordCount": 80,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.881144081666295,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+        "commentatorTierSimilarities": [
+            27.02,
+            34.98,
+            38.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "10. When they saw the star, they",
+            "\trejoiced with exceeding great joy\u2014The language is very strong,",
+            "\texpressing exuberant transport."
+        ],
+        "Philip Schaff": [
+            "This shows that for some time, at least, they had not seen it.",
+            "The reappearance of the star indicated to them their success and the truth of their calculations.",
+            "The joy, however, was not at the standing of the star, but at its appearing again, hence miraculous guidance is not necessarily implied."
+        ],
+        "Archibald T. Robertson": [
+            "They rejoiced with exceeding great joy (\u03b5\u03c7\u03b1\u03c1\u03b7\u03c3\u03b1\u03bd \u03c7\u03b1\u03c1\u03b1\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7\u03bd \u03c3\u03c6\u03bf\u03b4\u03c1\u03b1). Second aorist passive indicative with cognate accusative. Their joy was due to the success of the search. "
+        ],
+        "John Gill": [
+            "they rejoiced with exceeding great joy; a 'pleonasm' or a redundancy of expression frequently used by the Hebrews\" ",
+            "setting forth the rapture, the excess of joy they were in upon the sight of the star.\" ",
+            "They had been at Jerusalem, where they expected to have found him that was born king of the Jews; they had been at court, and conversed with men of the greatest figure and intelligence, and could get no tidings of him; people of all ranks and degrees seemed to be troubled at the account they brought; no body cared to go along with them to Bethlehem: all these circumstances no doubt were discouraging to them; but as soon as they saw the star their spirits revived, joy filled their hearts, cheerfulness appeared in their countenances; and they pursued their journey with inexpressible delight, till they came to the place where the illustrious person was they were seeking after."
+        ],
+        "John Wesley": [
+            "Seeing the star \u2014 Standing over where the child was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon seeing the star, the magi experienced an overwhelming joy that cannot be adequately described. This joy was a result of their successful search, as the reappearance of the star affirmed their calculations. However, this joy was not merely about the star's presence, but rather its reappearance, indicating miraculous guidance. Their excessive joy reflects their rapture and the immense delight they felt upon seeing the star. Despite the discouraging circumstances they encountered in Jerusalem, such as the lack of support and the troubled reactions, their spirits were revived and they continued their journey with indescribable delight until they reached the place where the child was.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.7750908967439103,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+            "commentatorTierSimilarities": [
+                25.8,
+                36.29,
+                37.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon seeing the star, the magi rejoiced with exceeding great joy, expressing exuberant transport. This joy was a result of their successful search, as the reappearance of the star indicated their calculations were true. This joy, however, was not solely due to the star's presence, but rather its reappearance, suggesting miraculous guidance. Their spirits were revived, and they continued their journey with indescribable delight until they reached the place where the child was.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.843421217634773,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                29.0,
+                35.67,
+                35.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the magi saw the star, they rejoiced with exceeding great joy, their joy stemming from the success of their search. The reappearance of the star affirmed the validity of their calculations, prompting their delight. Despite discouraging circumstances encountered in their journey, the sight of the star revived their spirits and filled their hearts with joy and cheerfulness. Their pursuit continued with indescribable delight until they reached the place where the child was.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.784742265300189,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                29.33,
+                32.92,
+                37.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The magi experienced an overwhelming joy upon seeing the star, expressing exuberant transport. Their joy was a result of their successful search and the reappearance of the star, indicating the truth of their calculations. This joy was not merely about the star's presence, but rather its reappearance, signifying miraculous guidance. Despite discouraging circumstances, their spirits were revived, and they continued their journey with indescribable delight until they reached the place where the child was.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8216867040066504,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.91,
+            "commentatorTierSimilarities": [
+                26.8,
+                37.21,
+                35.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the magi saw the star, they rejoiced with exceeding great joy, their joy stemming from the success of their search and the truth of their calculations. The reappearance of the star indicated their achievement, and their rapture and excess of joy were evident upon this sight. Despite discouraging circumstances encountered in their journey, the sight of the star revived their spirits, bringing cheerfulness and inexpressible delight as they continued their pursuit until reaching the place where the child was.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.881144081666295,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                27.02,
+                34.98,
+                38.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

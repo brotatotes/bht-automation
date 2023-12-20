@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:45:05",
+    "verseRef": "Matthew 8:8",
+    "bestBHT": {
+        "bht": "The centurion, a heathen, felt himself unworthy of receiving the Redeemer of Israel under his roof. His humility stemmed from his consciousness of his own vileness and unworthiness. Understanding the power of God manifested in Jesus, he believed Him to be a minister of God. The centurion's expression of humility and his declaration that a single word from Jesus would heal his servant demonstrate the inseparable connection between humility and faith.",
+        "wordCount": 72,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.7630260786305278,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+        "commentatorTierSimilarities": [
+            35.12,
+            31.01,
+            33.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The centurion heard that the Lord was coming, Luke vii. 6.",
+            "He knew and felt himself, as a heathen, to be one out of the fold of God.",
+            "Therefore unworthy to receive under his roof the Redeemer of Israel."
+        ],
+        "Albert Barnes": [
+            "I am not worthy ... - This was an expression of great humility.",
+            "It refers, doubtless, to his view of his 'personal' unworthiness, and not merely to the fact that he was a 'Gentile.'",
+            "So every truly penitent sinner feels - a feeling which is appropriate when he comes to Christ."
+        ],
+        "John Calvin": [
+            "There was astonishing humility in exalting so highly above himself a man who belonged to a conquered and enslaved nation.",
+            "Something, too, he had undoubtedly heard about the promised Redeemer. Though he does not distinctly understand that Christ is God manifested in the flesh, yet he is convinced that the power of God is manifested in him.",
+            "He ascribed this power to the word, not of a mortal man, but of God, whose minister he fully believed Christ to be: on that point he entertained no doubt."
+        ],
+        "Philip Schaff": [
+            "Lord, I am not worthy, etc. This humility sprang out of his consciousness that he was a heathen, as well as his esteem of our Lord.",
+            "But only say in a word. This means one word of command, as Matthew 8:9 shows.",
+            "Humility and faith always go hand in hand."
+        ],
+        "John Gill": [
+            "Lord, I am not worthy that thou shouldst come under my roof. This is not said as rejecting and despising the presence and company of Christ; but is expressive of his great modesty and humility, and of his consciousness of his own vileness, and unworthiness of having so great a person in his house.",
+            "And if such a man was unworthy, having been an idolater, and lived a profane course of life, that Christ should come into his house, and be, though but for a short time, under his roof; how much more unworthy are poor sinful creatures (and sensible sinners see themselves to be so unworthy), that Christ should come into their hearts, and dwell there by faith, as he does, in all true believers, however vile and sinful they have been?",
+            "But speak the word only, and my servant shall be healed... he signifies that if he would but speak a word, the least word whatever; or, as Luke has it, 'say in a word'; let but a word come out of thy mouth, and it will be done."
+        ],
+        "John Wesley": [
+            "The centurion answered \u2014 By his second messengers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The centurion, knowing himself to be a heathen and therefore unworthy of receiving the Redeemer, approached Jesus with great humility, acknowledging his personal unworthiness. He recognized the power of God manifested in Jesus and believed that Christ was a minister of God. It was his modesty and consciousness of his own vileness and unworthiness that led the centurion to say that he was not worthy for Jesus to come under his roof. He understood that if Jesus would only speak a word, his servant would be healed. This centurion's humility and faith serve as a reminder that they always go hand in hand.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.774051872208216,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                30.84,
+                33.93,
+                35.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The centurion, knowing himself as a heathen and unworthy to receive the Redeemer, approached Jesus with great humility. He acknowledged his personal unworthiness and recognized the power of God in Him. The centurion believed that Christ was a minister of God and expressed his modesty by saying he was not worthy of having Jesus in his house. He understood that even a single word from Jesus could heal his servant. This centurion's humility and faith reflect the inseparable connection between the two.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.732320550339804,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                32.71,
+                32.94,
+                34.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The centurion, a heathen aware of his unworthiness, humbly approached Jesus, acknowledging that he was not worthy of having Jesus under his roof. He believed in the power of God manifested in Jesus, recognizing Him as a minister of God. The centurion's humility and consciousness of his vileness led him to express his unworthiness, while his faith allowed him to confidently declare that a single word from Jesus would heal his servant. This centurion's humility and faith exemplify their intertwined nature.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6687269399454632,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+            "commentatorTierSimilarities": [
+                30.84,
+                33.98,
+                35.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The centurion, a heathen, felt himself unworthy of receiving the Redeemer of Israel under his roof. His humility stemmed from his consciousness of his own vileness and unworthiness. Understanding the power of God manifested in Jesus, he believed Him to be a minister of God. The centurion's expression of humility and his declaration that a single word from Jesus would heal his servant demonstrate the inseparable connection between humility and faith.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.7630260786305278,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                35.12,
+                31.01,
+                33.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The centurion, a heathen, recognized his unworthiness to receive the Redeemer under his roof. His humility arose from his consciousness of his own vileness and unworthiness. He believed Jesus to be a minister of God, manifesting the power of God. The centurion's humility and faith were intertwined, as he expressed his unworthiness but also declared that a single word from Jesus could heal his servant. His example reminds us of the inseparable connection between humility and faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.6942143722847356,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.67,
+            "commentatorTierSimilarities": [
+                33.73,
+                32.82,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

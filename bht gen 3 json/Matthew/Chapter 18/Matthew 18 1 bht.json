@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:49:20",
+    "verseRef": "Matthew 18:1",
+    "bestBHT": {
+        "bht": "The dispute among the disciples arose from their misunderstanding of the Kingdom of God, as they vied for positions of power and honor. Peter, in particular, felt a fresh sense of leadership after Jesus had spoken to him, leading him to even rebuke Jesus. The tax-collectors had identified Peter as the representative of the group, suggesting that Peter's authority was not yet accepted by the others. Jesus, aware of their misguided ambitions, sought to correct their perspective and teach them about the spiritual nature of his kingdom.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.4554880083156898,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+        "commentatorTierSimilarities": [
+            47.81,
+            13.11,
+            39.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The dispute had taken place before, on the way to Capernaum. It had probably been caused by the mention of the Kingdom of God as at hand... and the preference given by the Lord to the Three.\" ",
+            "In Mark it is our Lord who asks them what they were disputing about, and they are silent.\" ",
+            "At that same time need not necessarily refer to the incident last related. It may equally well be understood as indicating the presence in the mind of the querist of something that had Passed in the preceding dispute."
+        ],
+        "Marvin Vincent": [
+            "Since one of our number has been doubly honored in being called 'the rock,' and in being appointed to take part in a special miracle, who then is greatest?"
+        ],
+        "John Calvin": [
+            "We must also attend to the time at which this occurred...forgetful of their present state of warfare, they continually rush forward, under the delusive influence of a false imagination, to obtain a triumph?",
+            "And if the apostles so soon forgot a discourse which they had lately heard, what will become of us if, dismissing for a long period meditation on the cross, we give ourselves up to indifference and sloth, or to idle speculations?",
+            "To the first of these faults is closely allied the vain curiosity of those persons in the present day, who, leaving the proper duties of their calling, eagerly attempt to fly above the clouds."
+        ],
+        "Philip Schaff": [
+            "An indication of the moral power of His Person.",
+            "'Then' hints at a previous discussion.",
+            "Priority, not primacy. This gives room for a more general discussion."
+        ],
+        "Archibald T. Robertson": [
+            "The wonderful words of Jesus to Peter on Mount Hermon had evidently made Peter feel a fresh sense of leadership on the basis of which he had dared even to rebuke Jesus for speaking of his death.",
+            "And just now the tax-collectors had singled out Peter as the one who seemed to represent the group.",
+            "Plainly the primacy of Peter was not yet admitted by the others."
+        ],
+        "John Gill": [
+            "Now, what they wanted to be satisfied in was, who should be advanced to the post highest in that kingdom next to the Messiah; and, as they doubted not but it would fall on one of them, to have the most honourable post, and the place of the greatest trust, they were desirous of knowing who it should be.",
+            "And, by the kingdom of heaven, they meant, not the kingdom of glory in another world, but the kingdom of the Messiah in this; and which they looked upon to be a temporal one.",
+            "The occasion of this could not be the respect shown to Peter, in paying the half shekel for him for this conversation was begun in the way, and before this was done, or, at least, before they knew it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were once again caught up in a dispute, likely sparked by the mention of the Kingdom of God and the favor shown to the Three. Jesus, aware of their discussion, questioned them about its subject, but they remained silent. It seems that the words spoken by Jesus to Peter on Mount Hermon had inflated his sense of leadership, leading him to even rebuke Jesus. Furthermore, the tax-collectors had singled out Peter as representing the group, indicating that the primacy of Peter was not yet acknowledged by the others. This conversation about rank and status reflects their misunderstanding of the Kingdom of God as a temporal one instead of a spiritual one. Jesus undoubtedly saw a need to address their misplaced ambitions and remind them of the true nature of his kingdom.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.08,
+            "qualityScore": 1.5293277337723687,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                44.12,
+                17.35,
+                38.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dispute among the disciples arose from their misunderstanding of the Kingdom of God, as they vied for positions of power and honor. Peter, in particular, felt a fresh sense of leadership after Jesus had spoken to him, leading him to even rebuke Jesus. The tax-collectors had identified Peter as the representative of the group, suggesting that Peter's authority was not yet accepted by the others. Jesus, aware of their misguided ambitions, sought to correct their perspective and teach them about the spiritual nature of his kingdom.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4554880083156898,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                47.81,
+                13.11,
+                39.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples found themselves in yet another dispute, driven by a misunderstanding of the Kingdom of God and a desire for greatness. Peter, emboldened by Jesus' words to him on Mount Hermon, felt a newfound sense of leadership, even daring to rebuke Jesus. The tax collectors singled out Peter as the group's representative, but the others remained unconvinced of his primacy. Jesus recognized their misguided ambitions and sought to redirect their focus, emphasizing the spiritual nature of his kingdom over worldly power and status.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4114039862347774,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.27,
+            "commentatorTierSimilarities": [
+                44.39,
+                14.36,
+                41.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' dispute stemmed from a misunderstanding about the Kingdom of God, with a focus on positions of power and honor. Peter, influenced by Jesus' words to him on Mount Hermon, embraced a sense of leadership, even rebuking Jesus. The tax collectors singled out Peter as their representative, yet the others did not fully accept his authority. Jesus recognized their misplaced ambitions and sought to correct their understanding by emphasizing the spiritual nature of his kingdom. He aimed to redirect their focus from worldly status to genuine humility and service.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3424919824606667,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "commentatorTierSimilarities": [
+                44.22,
+                15.32,
+                40.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' dispute originated from a misconception of the Kingdom of God, driven by a desire for prominence and recognition. Peter, emboldened by Jesus' words to him on Mount Hermon, assumed a leadership role, even rebuking Jesus. The tax collectors singled out Peter as their representative, indicating that the others had not fully accepted his authority. Jesus, aware of their misguided aspirations, aimed to correct their understanding by asserting the spiritual nature of his kingdom, emphasizing humility and service over worldly status.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.3944118027030803,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.71,
+            "commentatorTierSimilarities": [
+                45.94,
+                15.72,
+                38.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

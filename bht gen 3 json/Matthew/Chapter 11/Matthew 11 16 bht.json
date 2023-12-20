@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:46:21",
+    "verseRef": "Matthew 11:16",
+    "bestBHT": {
+        "bht": "The people of this generation resemble stubborn children who refuse to listen, understand, or be pleased. Like children idling in public places, they exhibit arbitrary and childish behavior, unaware of their own minds. Jesus depicts Himself and John the Baptist as children among children, using playful language to convey the humble nature of their preaching. This generation, characterized by their closed-mindedness, rejects the truth and refuses to be satisfied, much like the froward children complained about by their peers.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.540164897665294,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+        "commentatorTierSimilarities": [
+            30.01,
+            20.37,
+            49.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the men of this generation have ears, and hear not; will not receive this saying: are arbitrary, childish, and prejudiced, not knowing their own mind.",
+            "so these in the great realities now before them shew all the waywardness of children.",
+            "the great condescension of the preaching of the Gospel is shewn forth in this parable, where the man sent from God, and the eternal Word Himself, are represented as children among children, speaking the language of their sports."
+        ],
+        "Marvin Vincent": [
+            "He pictured a group of little children playing at make - believe marriages and funerals.",
+            "If you don't want to dance, why don't you mourn?... It is plain that you are in bad humor, and determined not to be pleased.",
+            "The primary conception in the Greek word has nothing to do with buying and selling. Agora is an assembly; then the place of assembly."
+        ],
+        "Philip Schaff": [
+            "Matthew 11:16. This generation, i.e., the people then living in Judea.",
+            "\t",
+            " Children, etc. These children are represented as idling in public places, sitting in the market-places.",
+            "\t"
+        ],
+        "John Gill": [
+            "The men of that generation, are not the good-natured children, that called to their fellows, and were willing to join in innocent diversions and exercises.\" ",
+            "John the Baptist, Christ and his disciples, who may be compared to 'children', for their harmlessness and simplicity.\" ",
+            "They made use of [places of concourse] to publish their doctrines in, to preach to, and exhort the people."
+        ],
+        "John Wesley": [
+            "This generation \u2014 That is, the men of this age. They are like those froward children of whom their fellows complain, that they will be pleased no way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of this generation are closed-minded and stubborn, like children who refuse to listen or understand. In Jesus' parable, He reveals the humility of His preaching, as He portrays Himself and John the Baptist as children among children, speaking the language of their games. He paints a picture of children playing at make-believe marriages and funerals, asking why they won't participate. It is clear that they are in a bad mood and determined not to be pleased. This generation is like the froward children complained about by their peers, who refuse to be satisfied no matter what.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.4159315933563388,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.42,
+            "commentatorTierSimilarities": [
+                35.55,
+                15.77,
+                48.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of this generation resemble stubborn children who refuse to listen, understand, or be pleased. Like children idling in public places, they exhibit arbitrary and childish behavior, unaware of their own minds. Jesus depicts Himself and John the Baptist as children among children, using playful language to convey the humble nature of their preaching. This generation, characterized by their closed-mindedness, rejects the truth and refuses to be satisfied, much like the froward children complained about by their peers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.540164897665294,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                30.01,
+                20.37,
+                49.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of this generation are like stubborn children who refuse to listen and understand. They exhibit arbitrary and childish behavior, unaware of their own minds. Jesus portrays Himself and John the Baptist as children among children, using language of playful games to emphasize the humility of their preaching. Just as children playing pretend weddings and funerals, Jesus questions why this generation won't participate. Their closed-mindedness and determination to not be pleased align with the complained-about froward children who refuse to find satisfaction.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4195930913344066,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.54,
+            "commentatorTierSimilarities": [
+                34.54,
+                16.55,
+                48.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of this generation resemble stubborn children who refuse to listen, understand, or be pleased. Like children idling in public places, they exhibit arbitrary and childish behavior, unaware of their own minds. Jesus depicts Himself and John the Baptist as children among children, using playful language to convey the humble nature of their preaching. This generation, characterized by their closed-mindedness, rejects the truth and refuses to be satisfied, much like the froward children complained about by their peers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.540164897665294,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                30.01,
+                20.37,
+                49.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The men of this generation, described as arbitrary, childish, and prejudiced, resemble wayward children who refuse to receive the saying. They are like those froward children complained about, determined not to be pleased in any way. Jesus, through His parable, reveals the great condescension of His preaching as He and John the Baptist are depicted as children among children, speaking their language. This generation, characterized by their closed-mindedness, rejects the truth and remains in a state of bad humor, unwilling to participate.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5167034313848238,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                34.16,
+                15.68,
+                50.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

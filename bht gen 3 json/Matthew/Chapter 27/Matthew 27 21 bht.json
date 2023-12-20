@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:54:01",
+    "verseRef": "Matthew 27:21",
+    "bestBHT": {
+        "bht": "Pilate, responding to the prevalent confusion and indecision, answered not only to the Sanhedrists' incitements but also to his own predicament. However, his cunning plan ended up committing him against Jesus. Entrusting matters of justice to a mob often results in the suffering of the innocent. Christ, though innocent, was accounted worse than even the worst transgressors\u2014a seditious person, a robber, and a murderer. This unjust preference for the guilty before the innocent highlights the depths of human brokenness while emphasizing the immense sacrifice made by Christ.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.4504419442973115,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.57,
+        "commentatorTierSimilarities": [
+            25.61,
+            34.61,
+            39.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] answered, not necessarily to the incitements of the Sanhedrists which he overheard, but rather to the state of confusion and indecision which prevailed."
+        ],
+        "Philip Schaff": [
+            "Pilate\u2019s cunning recoiled on himself. From this point he was committed against Jesus.",
+            "When questions of justice are entrusted to a mob, the innocent usually suffer.",
+            "The innocent usually suffer."
+        ],
+        "John Gill": [
+            "Christ was not only numbered among, and reckoned with transgressors, but he was accounted worse than the worst of them.",
+            "A seditious person, a robber, and a murderer was preferred before him.",
+            "Christ was accounted worse than the worst of them; a seditious person, a robber, and a murderer was preferred before him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amidst the confusion and indecision, Pilate's cunning plan backfired as he became committed against Jesus. When justice is left in the hands of a mob, it is often the innocent who suffer. In this case, Jesus, who was not only reckoned among transgressors but considered worse than the worst of them, was surpassed by a seditious person, a robber, and a murderer. Such injustice reveals the depths of humanity's brokenness and the magnitude of Christ's sacrifice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.366874521847552,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.79,
+            "commentatorTierSimilarities": [
+                20.7,
+                36.62,
+                42.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, responding to the prevalent confusion and indecision, answered not only to the Sanhedrists' incitements but also to his own predicament. However, his cunning plan ended up committing him against Jesus. Entrusting matters of justice to a mob often results in the suffering of the innocent. Christ, though innocent, was accounted worse than even the worst transgressors\u2014a seditious person, a robber, and a murderer. This unjust preference for the guilty before the innocent highlights the depths of human brokenness while emphasizing the immense sacrifice made by Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.4504419442973115,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.57,
+            "commentatorTierSimilarities": [
+                25.61,
+                34.61,
+                39.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Responding to the prevailing confusion and indecision, Pilate answered not just to the Sanhedrists' incitements but also to the overall state of uncertainty. Ironically, his cunning ploy resulted in his commitment against Jesus. Entrusting matters of justice to a mob often leads to the suffering of the innocent. Christ, though innocent, was considered worse than the worst transgressors\u2014a seditious person, a robber, and a murderer. This glaring injustice illuminates the depths of human brokenness and underscores the immense sacrifice made by Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.413269100576366,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.33,
+            "commentatorTierSimilarities": [
+                28.99,
+                32.65,
+                38.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of confusion and indecision, Pilate's response was not just to the Sanhedrists but to the prevailing state of uncertainty. However, his cunning plan backfired, committing him against Jesus. Trusting justice in the hands of a mob often leads to the suffering of the innocent. Christ, though innocent himself, was considered worse than the worst transgressors\u2014someone seditious, a robber, even a murderer. Such injustice exposes the depths of human brokenness, highlighting the magnitude of Christ's sacrifice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.312495442655938,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.98,
+            "commentatorTierSimilarities": [
+                23.94,
+                36.1,
+                39.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the confusion and indecision, Pilate's cunning plan had unintended consequences, committing him against Jesus. Entrusting justice to a mob often results in the suffering of the innocent. Christ, who was innocent himself, was considered worse than the worst transgressors\u2014a seditious person, a robber, even a murderer. This injustice reveals the depths of human brokenness and emphasizes the magnitude of Christ's sacrificial act.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.2781778703654045,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.84,
+            "commentatorTierSimilarities": [
+                19.12,
+                38.29,
+                42.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

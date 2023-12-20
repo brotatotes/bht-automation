@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 23:49:55",
+    "verseRef": "Matthew 20:5",
+    "bestBHT": {
+        "bht": "The master of the vineyard went out again around noon and three o'clock in the afternoon, hiring and sending fresh laborers into his vineyard each time. These specific times, about twelve o'clock and three o'clock, were significant as they were the hours of prayer. The master called and sent these laborers, promising them the same reward as those who had already been working in the vineyard.",
+        "wordCount": 69,
+        "quoteTokenProportion": 52.17,
+        "qualityScore": 1.8141930979410623,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.66,
+        "commentatorTierSimilarities": [
+            38.98,
+            31.28,
+            29.74
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Again he went out about the sixth and ninth hour\u2014about noon, and about three o'clock in the afternoon.",
+            "and did likewise\u2014hiring and sending into his vineyard fresh laborers each time."
+        ],
+        "Albert Barnes": [
+            "The sixth and ninth hour - That is, about twelve o\u2019clock and three o\u2019clock."
+        ],
+        "John Gill": [
+            "About twelve o'clock, or at noon, and three o'clock in the afternoon.",
+            "These three last mentioned seasons of the day, were the hours of prayer.",
+            "He called them, and sent them into his vineyard, to labour there, giving them the same promise he did to others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The master of the vineyard went out again around noon and three o'clock in the afternoon, hiring and sending fresh laborers into his vineyard each time. These specific times, about twelve o'clock and three o'clock, were significant as they were the hours of prayer. The master called and sent these laborers, promising them the same reward as those who had already been working in the vineyard.",
+            "wordCount": 69,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.8141930979410623,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.66,
+            "commentatorTierSimilarities": [
+                38.98,
+                31.28,
+                29.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The master of the vineyard went out again at noon and three in the afternoon, hiring and sending fresh laborers into his vineyard each time. These three specific times were important because they marked the hours of prayer. The master called and sent these laborers into his vineyard, promising them the same reward as the others.",
+            "wordCount": 56,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 1.5621409300748246,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                40.8,
+                25.92,
+                33.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The master of the vineyard went out again at noon and three in the afternoon, hiring and sending fresh laborers into his vineyard each time. These three specific times were the hours of prayer. The master called and sent them into his vineyard, giving them the same promise as the others.",
+            "wordCount": 51,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.6557854348764725,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                38.0,
+                26.16,
+                35.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At noon and three in the afternoon, the master of the vineyard hired and sent fresh laborers into his vineyard, just as he had done before. These three appointed times corresponded to the hours of prayer. Similarly, the master called and sent them into his vineyard, promising them the same reward as the others.",
+            "wordCount": 54,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 1.4453348088650806,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.4,
+            "commentatorTierSimilarities": [
+                40.28,
+                20.95,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At noon and three o'clock in the afternoon, the master of the vineyard went out and hired fresh laborers, just as he had done before. These specific hours hold significance, as they were times of prayer. The master called these workers, promising them the same reward as the other laborers, and sent them into his vineyard to work.",
+            "wordCount": 59,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4388384164313286,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.18,
+            "commentatorTierSimilarities": [
+                40.06,
+                25.14,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

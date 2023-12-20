@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:51:24",
+    "verseRef": "Matthew 22:41",
+    "bestBHT": {
+        "bht": "While the Pharisees were gathered, Jesus asked them a question that would lead to their great shame and confusion. By directing his discourse to all the Pharisees, Jesus challenged their belief that salvation came through the law and its works, instead pointing to the promised Messiah as the true source of salvation. This exchange highlighted the Pharisees' flawed understanding and ultimately exposed the need for the grace and redemption offered by Christ.",
+        "wordCount": 72,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.8700544852097452,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+        "commentatorTierSimilarities": [
+            0.0,
+            43.2,
+            56.8
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Now while the Pharisees were gathered together. Probably as they gathered after the last attack.",
+            "Jesus asked them. Fuller and more exact than Mark and Luke, who seem to imply that the question was put concerning the scribes.",
+            "This probably took place while His audience was changing: the Pharisees were about to withdraw, no longer daring to question Him; and 'the multitude' (Mark 12:37) beginning to take the vacated places."
+        ],
+        "John Gill": [
+            "Salvation was not by the law, and the works of it, which they set up for doctors and interpreters of, and advocates for, but by the Messiah, who was promised to their fathers, and they expected.",
+            "Christ directs his discourse not to him individually, but to all the Pharisees before he parted with them, and puts a question to them, in his turn; and which would lead on to another they could not answer, and they must therefore leave him once more with great shame and confusion.",
+            "Suggesting by it, that salvation was not by the law, and the works of it, which they set up for doctors and interpreters of, and advocates for, but by the Messiah, who was promised to their fathers, and they expected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While the Pharisees were gathered, Jesus asked them a question that would lead to their great shame and confusion. By directing his discourse to all the Pharisees, Jesus challenged their belief that salvation came through the law and its works, instead pointing to the promised Messiah as the true source of salvation. This exchange highlighted the Pharisees' flawed understanding and ultimately exposed the need for the grace and redemption offered by Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8700544852097452,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.2,
+                56.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus confronted the Pharisees with a question that left them ashamed and confused. By targeting all the Pharisees, Jesus challenged their conviction in the law's ability to bring salvation. Instead, he emphasized that salvation comes through the promised Messiah, contradicting the Pharisees' belief in the necessity of law and works. This encounter exposed their flawed understanding and emphasized the need for the grace and redemption offered solely through Christ.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.5932823111026682,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.33,
+                57.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus posed a question to the Pharisees, causing their shame and confusion. He challenged their belief in the law's ability to bring salvation and redirected their attention to the Messiah, who was promised to their fathers. By highlighting this distinction, Jesus exposed the Pharisees' misunderstanding and emphasized that salvation was not achieved through the law and works, but rather through the long-awaited Messiah.",
+            "wordCount": 65,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8359603650584786,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.93,
+                62.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus addressed the Pharisees, directing a question to challenge their understanding of salvation. By questioning them about the Messiah, Jesus contrasted their reliance on the law and works with the promise of salvation through the Messiah. This interaction exposed their flawed beliefs and emphasized that salvation was not attained through the law, but rather through the long-awaited Messiah.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.681588768381076,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.24,
+                64.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus posed a question to the Pharisees, redirecting their attention from their belief in salvation through the law and works to the promised Messiah. This question exposed their misunderstanding, as Jesus emphasized that salvation was not achieved through adherence to the law, but through the Messiah, as promised to their forefathers. Jesus challenged their flawed beliefs, leaving them ashamed and confused, and highlighting the need for the grace and redemption offered solely through the Messiah.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8166258086296396,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.47,
+                65.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

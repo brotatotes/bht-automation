@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:42:20",
+    "verseRef": "Matthew 1:13",
+    "bestBHT": {
+        "bht": "The names listed here, not found in the Old Testament, were taken from public or family registers and were unquestionably accurate. The genealogy ultimately leads to the humble carpenter from Nazareth, fulfilling the prophecy of the promised Savior as a root out of dry ground. The practice of having multiple names during the Babylonian captivity could explain the possible alias. These genealogical records serve as undeniable evidence that the Messiah was expected to come long ago, aligning with the Jews' anticipation.",
+        "wordCount": 81,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.4109547173532477,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+        "commentatorTierSimilarities": [
+            31.46,
+            32.35,
+            36.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "None of these names are found in the Old Testament but they were doubtless taken from the public or family registers.",
+            "Their accuracy was never challenged."
+        ],
+        "Philip Schaff": [
+            "The downward course reaches its lowest point in the humble carpenter of Nazareth.",
+            "The promised Saviour was to be 'a root out of a dry ground' (Isaiah 53:2).",
+            "The promised Saviour was to be 'a root out of a dry ground' (Isaiah 53:2)."
+        ],
+        "John Gill": [
+            "He seems to be the same with Meshullam the eldest son, who might have two names; nor is this unlikely, since it was usual, especially about the time of the Babylonish captivity, for men to have more names than one.",
+            "That there were genealogical books or tables kept by the Jews is certain.",
+            "This is a full proof, that, according to the Jews own account, and expectation, the Messiah must be come many years and ages ago."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The names listed in this verse may not be found in the Old Testament, but they were taken from public or family registers, making them accurate and reliable. As the genealogy descends to the humble carpenter of Nazareth, it fulfills the prophecy that the promised Savior would come from a dry ground. It is also worth noting that having multiple names was common during the time of the Babylonian captivity. These genealogical records testify to the fulfillment of the Jews' expectation that the Messiah would have come many years ago.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.475067011922477,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+            "commentatorTierSimilarities": [
+                31.55,
+                29.58,
+                38.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The names in this passage, though not found in the Old Testament, were taken from public or family records and were unquestionably accurate. As the genealogy reaches its lowest point with the humble carpenter from Nazareth, it fulfills the prophecy of the promised Savior as a root out of dry ground. The custom of having multiple names during the Babylonian captivity might explain the possible alias. These genealogical records provide undeniable evidence that the Messiah was expected to come long ago, aligning with the Jews' anticipation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.3559201930503773,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.43,
+            "commentatorTierSimilarities": [
+                29.24,
+                33.57,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The names listed here, not found in the Old Testament, were taken from public or family registers and were unquestionably accurate. The genealogy ultimately leads to the humble carpenter from Nazareth, fulfilling the prophecy of the promised Savior as a root out of dry ground. The practice of having multiple names during the Babylonian captivity could explain the possible alias. These genealogical records serve as undeniable evidence that the Messiah was expected to come long ago, aligning with the Jews' anticipation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.4109547173532477,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "commentatorTierSimilarities": [
+                31.46,
+                32.35,
+                36.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The names in this verse, though absent from the Old Testament, were undoubtedly derived from accurate public or family registers. As the genealogy reaches its lowest point with the humble carpenter from Nazareth, it fulfills the prophecy of the promised Savior emerging like a root from dry ground. The use of multiple names, especially during the Babylonian captivity, could explain the possible alias. These genealogical records powerfully testify to the Messiah's arrival in accordance with the duration of Jewish anticipation and expectation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.284965420121313,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.07,
+            "commentatorTierSimilarities": [
+                30.55,
+                32.63,
+                36.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The names mentioned in this genealogy may not be found in the Old Testament, but they were undoubtedly taken from accurate public or family registers. As the lineage descends to the humble carpenter from Nazareth, it fulfills the prophecy of the promised Savior being like a root from dry ground. The use of multiple names was common in the time of the Babylonian captivity, possibly explaining the inclusion of an alias. These genealogical records offer compelling evidence that the Messiah was expected to have come long ago, aligning with the anticipation of the Jewish people.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.39709387951876,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                31.11,
+                31.5,
+                37.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

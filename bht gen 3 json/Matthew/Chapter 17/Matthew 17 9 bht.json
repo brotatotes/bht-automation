@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:49:19",
+    "verseRef": "Matthew 17:9",
+    "bestBHT": {
+        "bht": "The disciples were told to keep the vision of Moses and Elijah on the mountain to themselves, not because it was a mere illusion, but because Jesus intended for it to serve as a confirmation of his glory after his resurrection. Their understanding of Jesus' upcoming death and resurrection was limited, so the vision provided them with a powerful testimony of his divinity. Until the Son of Man had risen from the dead, it was not yet time to reveal the full significance of the vision to others who might not comprehend or accept it.",
+        "wordCount": 95,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1673947715419706,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.41,
+        "commentatorTierSimilarities": [
+            24.92,
+            37.6,
+            37.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No unreality is implied in the word vision\" ",
+            "St. Luke... remarkably confirms it\" ",
+            "they told no man in those days"
+        ],
+        "Albert Barnes": [
+            "While he was with them it was unnecessary that they should relate what they had seen. When he was crucified they would need this evidence that he was the Christ.\" ",
+            "The sole design of this transfiguration was to convince them that he was the Christ; that he was greater than the greatest of the prophets; that he was the Son of God.\" ",
+            "The Pharisees believed that the dead would rise, and there is no doubt that the disciples believed it; but their views were not clear... they did not understand what he meant by his rising from the dead."
+        ],
+        "Marvin Vincent": [
+            "Vision [\u03bf\u03c1\u03b1\u03bc\u03b1] . The spectacle."
+        ],
+        "John Calvin": [
+            "The disciples would not have believed it if Christ had not given a more striking proof of his glory in his resurrection.",
+            "That temporary exhibition of his glory began to be admitted, so as to make it fully evident that, even during the time that he emptied himself, he continued to retain his divinity entire.",
+            "There are good reasons, therefore, why he enjoins his disciples to keep silence, till he be risen from the dead."
+        ],
+        "Philip Schaff": [
+            "As they were coming down. This would require some time.",
+            "Tell the vision to no one. 'Vision' does not imply that the occurrence was a kind of dream, or like the visions seen by the prophets.",
+            "Until the Son of man be risen from the dead. It was too soon to tell of it; even the three understood very little."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus evidently hopes that this vision of Moses and Elijah and his own glory might stand them in good stead at his death.",
+            "Until (\u03b5\u03c9\u03c2 \u03bf\u03c5). This conjunction is common with the subjunctive for a future event as his Resurrection (\u03b5\u03b3\u03b5\u03c1\u03b8\u03b7) was.",
+            "Again (Mark 9:10) they were puzzled over his meaning."
+        ],
+        "John Gill": [
+            "Tell the vision to no man.\" ",
+            "Until the Son of Man be risen again from the dead.\" ",
+            "For they were not yet reconciled to the Messiah's dying, which was contrary to their expectation of a temporal kingdom; and therefore could not tell what to make of his rising again, whether this had not some secret, mystical meaning."
+        ],
+        "John Wesley": [
+            "Tell the vision to no man.",
+            "Not to the rest of the disciples, lest they should be grieved and discouraged because they were not admitted to the sight.",
+            "Nor to any other persons, lest it should enrage some the more, and his approaching sufferings shall make others disbelieve it; till the Son of man be risen again - Till the resurrection should make it credible, and confirm their testimony about it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were instructed to keep silent about the vision of Moses and Elijah on the mountain, not because it was an unreal or dreamlike occurrence, but because Jesus wanted it to serve as a powerful proof of his glory after his resurrection. The disciples did not fully grasp the meaning of Jesus' impending death and resurrection, so it was important for them to have this extraordinary vision as evidence of his divinity and to strengthen their faith in him as the Messiah. Until the Son of Man was risen from the dead, it was too soon to share the vision's significance with others, as they were not yet prepared to understand or accept it.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1631843309897825,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+            "commentatorTierSimilarities": [
+                22.59,
+                39.72,
+                37.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were told to keep the vision of Moses and Elijah on the mountain to themselves, not because it was a mere illusion, but because Jesus intended for it to serve as a confirmation of his glory after his resurrection. Their understanding of Jesus' upcoming death and resurrection was limited, so the vision provided them with a powerful testimony of his divinity. Until the Son of Man had risen from the dead, it was not yet time to reveal the full significance of the vision to others who might not comprehend or accept it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1673947715419706,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.41,
+            "commentatorTierSimilarities": [
+                24.92,
+                37.6,
+                37.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were instructed to keep the vision to themselves, not because it was unreal, but because Jesus wanted it to serve as a powerful proof of his glory after his resurrection. The vision was meant to show that Jesus was greater than the prophets and the Son of God. The disciples did not fully grasp the meaning of his impending death and resurrection, so it was essential for them to have this extraordinary evidence to strengthen their faith. Until the resurrection, it was too soon to share the vision's significance with others who might not understand or believe it.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.1051716588978273,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                23.79,
+                40.08,
+                36.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were told to keep the vision of Moses and Elijah on the mountain to themselves, not because it was a mere illusion, but to serve as a confirmation of Jesus' glory after his resurrection. The vision provided powerful evidence that Jesus was the Christ, greater than the prophets and the Son of God. Until his resurrection, it was too soon to reveal the true significance of the vision to others who might not fully comprehend or accept it.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.1183247306866893,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                26.69,
+                38.39,
+                34.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were instructed to keep the vision to themselves, not because it was unreal, but because Jesus desired it to be a compelling proof of his glory after his resurrection. The vision was intended to reveal that Jesus was the Christ, surpassing even the prophets as the Son of God. As the disciples did not fully grasp the implications of Jesus' death and resurrection, it was crucial for them to possess this extraordinary evidence to strengthen their faith. It was not yet time to share the full significance of the vision with others who might be unable to understand or believe it until after Jesus had risen from the dead.",
+            "wordCount": 111,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.0967086542092845,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                22.68,
+                40.39,
+                36.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:47:54",
+    "verseRef": "Matthew 13:43",
+    "bestBHT": {
+        "bht": "In the future kingdom of their Father, the righteous shall shine forth as the sun, their light enfeebled and obscured in the present association with ungodly pretenders. But just as the sun emerges from behind a cloud, their true glory will be unveiled. This assurance assures believers that their righteousness has priceless value and reminds them to seek and find the blessings of the kingdom. Amidst the mixture of evil in the world, the righteous will shine brilliantly, revealing their character and claiming their privileges in the kingdom of their Father.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.1384772716869387,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+        "commentatorTierSimilarities": [
+            30.76,
+            33.53,
+            35.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They shall shine, literally, shine out (their light here being enfeebled and obscured), as the sun from a cloud.",
+            "Of their Father, answering to the sons, ver. 38.",
+            "This sublime announcement is over and above the interpretation of the parable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then shall the righteous shine forth as the sun in the kingdom of their Father\u2014as if they had been under a cloud during the present association with ungodly pretenders to their character, and claimants of their privileges, and obstructors of their course.",
+            "Who hath ears to hear, let him hear.",
+            "The subject of this last pair, as of the two former, is the same, but also under a slight diversity of aspect: namely\u2014THE PRICELESS VALUE OF THE BLESSINGS OF THE KINGDOM. And while the one parable represents the Kingdom as 'found without seeking,' the other holds forth the Kingdom as 'sought and found.'"
+        ],
+        "Marvin Vincent": [
+            "Shine forth as the sun from behind a cloud.",
+            "The mixture of evil with good in the world obscures the good.",
+            "Veils the true glory of righteous character."
+        ],
+        "John Calvin": [
+            "Then will the righteous shine. What a remarkable consolation!",
+            "Though many wicked men now hold a high rank in the Church, yet that blessed day is assuredly to be expected, when the Son of God shall raise his followers on high, and remove every thing that now tends to dim or conceal their brightness.",
+            "The kingdom of the Father, as the inheritance of the godly, is contrasted with the earth, to remind them that here they are pilgrims, and therefore ought to look upwards towards heaven."
+        ],
+        "Philip Schaff": [
+            "Then shall the righteous shine forth. The gospel tells how men become \u2018righteous.\u2019 As such they have a glory, a light which is here obscured, but shall then burst forth, as Christ\u2019s glory shall appear.",
+            "In the kingdom of their Father. The righteous being God\u2019s adopted sons, He is \u2018their Father.\u2019 This kingdom of final glory seems to be distinguished from the mediatorial kingdom of Christ spoken of throughout the chapter; comp. 1 Corinthians 15:24.",
+            "He that hath ears, etc. This conclusion befits the importance of the parable. The prophecy respecting the destiny of all men deserves the attention of all men. Yet even on this point many have no ears to hear."
+        ],
+        "Archibald T. Robertson": [
+            "Shine forth (\u03b5\u03ba\u03bb\u03b1\u03bc\u03c8\u03bf\u03c5\u03c3\u03b9\u03bd). Shine out as the sun comes from behind a cloud (Vincent) and drive away the darkness after the separation has come (cf. Daniel 12:3). "
+        ],
+        "John Gill": [
+            "Then shall the righteous shine forth as the sun...in perfect holiness of nature, in all felicity and prosperity of soul; and in the shining dazzling robes of glory, incorruption, and immortality, on their bodies.\" ",
+            "The ultimate glory may...be styled the kingdom of the Father; of God, who is the Father of Christ and of his people; and which is observed, to assure the saints of their interest in it, right unto it, and certain enjoyment of it.\" ",
+            "Who hath ears to hear, let him hear; and seriously consider of the several things said in this parable, concerning the wheat and tares, the righteous and the wicked, as being matters of the greatest moment and importance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:43, Jesus says that in the kingdom of their Father, the righteous will shine forth like the sun. This is a profound declaration that goes beyond the interpretation of the parable. Currently, the righteousness of believers may be obscured and overshadowed by the mixture of evil in the world, but in the future, their true glory will be revealed. Just as the sun emerges from behind a cloud, the righteous will shine brightly, dispelling all darkness. This assurance brings comfort and hope to those who may feel surrounded by ungodliness now. It is a reminder that though they are pilgrims on earth, their true inheritance lies in the kingdom of their Father.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.8605927520652508,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                28.98,
+                36.41,
+                34.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future kingdom of their Father, the righteous will shine forth like the sun, dispelling the darkness that currently obscures their true glory. Despite being associated with the ungodly in the present, this declaration assures believers that their light will eventually emerge from behind the clouds. It brings consolation and reminds them to look upwards towards their heavenly inheritance. Though the world may temporarily veil their righteousness, the righteous will shine brilliantly, displaying their true holiness and prosperity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.0494507382520766,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                29.91,
+                32.44,
+                37.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future kingdom of their Father, the righteous shall shine forth as the sun. Currently, their light may be enfeebled and obscured by the mixture of evil in the world, but this declaration assures believers that their true glory will eventually be revealed. Just as the sun emerges from behind a cloud, the righteous will shine forth, driving away the darkness. This realization brings comfort and hope, reminding us to keep our focus on the heavenly inheritance and the priceless blessings of the kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.127259157543903,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                32.95,
+                32.85,
+                34.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future kingdom of their Father, the righteous shall shine forth as the sun, dispelling the darkness that veils their true glory. Their light, which may currently be obscured by the mixture of evil in the world, will burst forth like the sun emerging from behind a cloud. This assuring declaration brings hope and consolation, reminding believers that their heavenly inheritance awaits and that the blessings of the kingdom hold immeasurable value.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.0924241178572585,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.91,
+            "commentatorTierSimilarities": [
+                33.68,
+                32.54,
+                33.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future kingdom of their Father, the righteous shall shine forth as the sun, their light enfeebled and obscured in the present association with ungodly pretenders. But just as the sun emerges from behind a cloud, their true glory will be unveiled. This assurance assures believers that their righteousness has priceless value and reminds them to seek and find the blessings of the kingdom. Amidst the mixture of evil in the world, the righteous will shine brilliantly, revealing their character and claiming their privileges in the kingdom of their Father.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.1384772716869387,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                30.76,
+                33.53,
+                35.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

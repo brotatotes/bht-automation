@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:53:03",
+    "verseRef": "Matthew 25:45",
+    "bestBHT": {
+        "bht": "The sublimity of this description surpasses all imagination as it reveals Christ as the center and end of all human love. Those who neglect to do good to the followers of Christ show their lack of love for Him. Christ Himself regards their omission of good deeds towards His people as an affront to Him personally. This passage serves as a reminder that judgment will justly proceed not only for sins of commission, but also for sins of omission.",
+        "wordCount": 79,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 1.5199133624272032,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+        "commentatorTierSimilarities": [
+            30.8,
+            41.53,
+            27.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sublimity of this description surpasses all imagination.",
+            "Christ, as the Son of Man, the Shepherd, the King, the Judge\u2014as the centre and end of all human love.",
+            "Causing, even from out of the iniquities of a rebellious world, his sovereign mercy to rejoice against judgment."
+        ],
+        "Albert Barnes": [
+            "By not doing good to the 'followers' of Christ, they showed that they had no real love to Him.",
+            "Their neglect of doing good to him and his people may be the 'public' reason of condemning them.",
+            "They are not condemned for not believing in Christ, but for a wrong spirit, neglect of duty, open crime; for being unlike Christ, and therefore unfit for heaven."
+        ],
+        "John Gill": [
+            "inasmuch as ye did it not to one of the least of these, ye did it not unto me",
+            "he reckoned this neglect of them, and want of compassion to them, all one as if he himself in person had been so treated",
+            "if then judgment will righteously proceed against men for sins of omission, much more for sins of commission"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The description of Matthew 25:45 surpasses all imagination as it portrays Christ, the Son of Man, Shepherd, King, and Judge, as the center and end of all human love. Those who neglect to do good to the followers of Christ reveal their lack of love for Him. Their failure to extend kindness and compassion becomes the public reason for their condemnation. Christ Himself regards their omission of good deeds towards the least of His people as an affront to Him personally. This passage emphasizes that judgment will justly proceed not only for sins of commission but also for sins of omission.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4721991297128652,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                27.89,
+                45.14,
+                26.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The description of this verse goes beyond imagination as it portrays Christ, the Son of Man, Shepherd, King, and Judge, as the center and end of all human love. Those who neglect to do good to the followers of Christ reveal their lack of love for Him. Their failure becomes the reason for their condemnation. Christ Himself regards their omission of good deeds towards His people as an affront to Him personally. This emphasizes that judgment will justly proceed for both actions and inactions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.3429388440290473,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.0,
+            "commentatorTierSimilarities": [
+                30.51,
+                46.15,
+                23.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sublimity of this description surpasses all imagination as it reveals Christ as the center and end of all human love. Those who neglect to do good to the followers of Christ show their lack of love for Him. Christ Himself regards their omission of good deeds towards His people as an affront to Him personally. This passage serves as a reminder that judgment will justly proceed not only for sins of commission, but also for sins of omission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.5199133624272032,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                30.8,
+                41.53,
+                27.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The description of this verse surpasses all imagination, portraying Christ as the center and end of all human love. Those who neglect to do good to the followers of Christ reveal their lack of love for Him. Christ Himself regards their omission of good deeds towards His people as an affront to Him personally. This emphasizes that judgment will proceed for both actions and inactions, highlighting the significance of our choices and the consequences that follow.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.357160548492888,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.47,
+            "commentatorTierSimilarities": [
+                31.11,
+                44.67,
+                24.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sublimity of this description surpasses all imagination as it portrays Christ as the center and end of all human love. Those who neglect to do good to the followers of Christ reveal their lack of love for Him. Christ Himself regards their omission of good deeds towards His people as an affront to Him personally. This passage serves as a reminder that judgment will justly proceed not only for sins of commission but also for sins of omission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5019549294420376,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                30.81,
+                41.53,
+                27.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

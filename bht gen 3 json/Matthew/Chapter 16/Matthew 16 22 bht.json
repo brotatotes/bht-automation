@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:49:17",
+    "verseRef": "Matthew 16:22",
+    "bestBHT": {
+        "bht": "Peter's immediate rebuke of Jesus, after his exalted confession, exposes a moment of spiritual faith preceding the betrayal of carnal weakness. Despite his affectionate intentions, Peter's action is sharply rebuked as he presumptuously takes Jesus aside and confidently rejects God's plan. The forceful declaration, This shall never be to You, reveals Peter's pride and opposition to God's will. This serves as a reminder to rely on the word of God for wisdom, rather than our own judgments or good intentions.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.987300316465088,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+        "commentatorTierSimilarities": [
+            30.46,
+            42.37,
+            27.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression of spiritual faith may, and frequently does, precede the betraying of carnal weakness.",
+            "Never is this more probable than when the mind has just been uplifted, as Peter's was, by commendation and lofty promise.",
+            "It is this spirit of confident rejection of God\u2019s revealed purpose which the Lord so sharply rebukes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then Peter took him\u2014aside, apart from the rest; presuming on the distinction just conferred on him; showing how unexpected and distasteful to them all was the announcement.",
+            "and began to rebuke him\u2014affectionately, yet with a certain generous indignation, to chide Him.",
+            "saying, Be it far from thee: this shall not be unto thee\u2014that is, 'If I can help it': the same spirit that prompted him in the garden to draw the sword in His behalf."
+        ],
+        "Marvin Vincent": [
+            "Took him apart to speak with him privately. Meyer renders, correctly, after he had taken him to himself. 'As if,' says Bengel, 'by a right of his own. He acted with greater familiarity after the token of acknowledgment had been given. Jesus, however, reduces him to his level.'\" ",
+            "Be it far from thee [\u03b9\u03bb\u03b5\u03c9\u03c2 \u03c3\u03bf\u03b9] . Rev., in margin, God have mercy on thee. In classical usage, of the gods as propitious, gracious toward men, in consideration of their prayers and sacrifices. The meaning here is, may God be gracious to thee.",
+            "Shall not be [\u03bf\u03c5 \u03bc\u03b7 \u03b5\u03c3\u03c4\u03b1\u03b9] . The double negative is very forcible : 'Shall in no case be.' Rev. renders it by never."
+        ],
+        "John Calvin": [
+            "But so completely are men hurried on and driven headlong by inconsiderate zeal, that they do not hesitate to pass judgment on God himself, according to their own fancy.",
+            "And here we learn what estimation in the sight of God belongs to what are called good intentions.",
+            "It is on this account that Christ reproves it so sharply, and bruises it, as it were, with an iron hammer, to teach us that it is only from the word of God that we ought to be wise."
+        ],
+        "Philip Schaff": [
+            "Be it far from thee, Lord, lit, \u2018propitious to thee,\u2019 equivalent either to, God be favorable to thee, or spare thyself.",
+            "This shall never be to thee. An over-confident declaration, betraying pride as well as opposition to the purpose of God (\u2018must go,\u2019 Matthew 16:21) revealed by our Lord.",
+            "Peter was bold as confessor and as opposer, was impulsive, perhaps vain and ambitious. Moreover Satan is most busy in seducing us when we have been most highly exalted and favored by Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Peter took him (\u03c0\u03c1\u03bf\u03c3\u03bb\u03b1\u03b2\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03bd \u03bf \u03a0\u03b5\u03c4\u03c1\u03bf\u03c2). Middle voice, 'taking to himself,' aside and apart, 'as if by a right of his own. He acted with greater familiarity after the token of acknowledgment had been given.\" ",
+            "Peter here appears in a new character; a minute ago speaking under inspiration from heaven, now under inspiration from the opposite quarter.",
+            "This shall never be (\u03bf\u03c5 \u03bc\u03b7 \u03b5\u03c3\u03c4\u03b1 \u03c3\u03bf \u03c4\u03bf\u03c5\u03c4\u03bf). Strongest kind of negation, as if Peter would not let it happen. Peter had perfect assurance."
+        ],
+        "John Gill": [
+            "Peter took him, took him aside, by himself... to expostulate with him, and dissuade him from thinking and talking of any such things.",
+            "He did it not out of passion and ill will, but out of tenderness and respect.",
+            "He could not see how such an innocent person could be so used by the chief men of the nation; and that the Messiah... could be treated in such a manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After his exalted confession of faith, Peter's carnal weakness is immediately revealed as he rebukes Jesus for speaking about his impending suffering and death. Peter's presumptuousness in taking Jesus aside and confidently rejecting God's plan is sharply rebuked by the Lord. Despite his affectionate intentions, Peter's action is likened to drawing the sword in the garden and displays a lack of submission to God's revealed purpose. The force of Peter's declaration, This shall never be to you, reveals his pride and opposition to God's will. The Lord's rebuke serves as a reminder that true wisdom comes from the word of God alone and not from human judgment or good intentions.",
+            "wordCount": 118,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 2.0163498090350203,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                30.82,
+                41.18,
+                28.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's carnal weakness is exposed when, after his exalted confession, he takes Jesus aside and confidently rejects God's plan, prompting a sharp rebuke. In his rebuke, Peter displays a lack of submission to God's purpose and opposes His will. The force of Peter's declaration reveals his pride and opposition. The Lord's response reminds us that true wisdom comes from the word of God alone, teaching us not to judge God according to our own fancy or rely on good intentions alone.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.9534163848724966,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                31.51,
+                41.69,
+                26.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's presumption is swiftly exposed as he takes Jesus aside, rebuking Him and rejecting God's plan. This impulsive action, arising from pride and confident opposition to the revealed purpose of God, draws a sharp rebuke from the Lord. Peter's declaration, This shall never be to You, illustrates his lack of submission and reliance on his own judgment. The Lord's response emphasizes the importance of wisdom derived solely from the word of God, cautioning against judging God based on our own notions or good intentions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9618508425793448,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                30.25,
+                42.12,
+                27.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's immediate rebuke of Jesus, after his exalted confession, exposes a moment of spiritual faith preceding the betrayal of carnal weakness. Despite his affectionate intentions, Peter's action is sharply rebuked as he presumptuously takes Jesus aside and confidently rejects God's plan. The forceful declaration, This shall never be to You, reveals Peter's pride and opposition to God's will. This serves as a reminder to rely on the word of God for wisdom, rather than our own judgments or good intentions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.987300316465088,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                30.46,
+                42.37,
+                27.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's immediate response of rebuking Jesus reveals a potential clash between spiritual faith and carnal weakness. Despite his recent commendation, Peter presumptuously takes Jesus aside to express his opposition to God's revealed purpose. The forceful declaration, This shall never be to You, reflects Peter's pride and reluctance to accept the path of suffering and death for Jesus. This encounter teaches us the importance of seeking wisdom from the word of God alone, rather than relying on human judgment or good intentions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.9452347898715892,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                31.26,
+                40.23,
+                28.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

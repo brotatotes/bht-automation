@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:42:52",
+    "verseRef": "Matthew 2:2",
+    "bestBHT": {
+        "bht": "The Magi, through their study of astrology, were led by a bright star to Bethlehem in search of the newborn King of the Jews. Though not Jews themselves, they recognized the significance of this celestial sign, believing it to be connected to the awaited Messiah. Their journey to honor him reflects the expectation of the whole world, and their homage signifies the reverence due to the exalted rank of the newborn King. As we contemplate their earnest pursuit, we are challenged to overcome our indifference and actively seek Christ, bowing before him in homage.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.8537165438251884,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.98,
+        "commentatorTierSimilarities": [
+            23.53,
+            32.27,
+            44.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The principle on which this commentary is conducted is that of honestly endeavoring to ascertain the sense of the sacred text, without regard to any preconceived systems, and fearless of any possible consequences.",
+            "If this subservience of the superstitions of astrology to the Divine purposes be objected to, we may answer with Wetstein, 'We must infer therefore that these men came to their conclusion from the rules of their art: which though beyond all doubt futile, vain, and delusive, might yet be sometimes permitted to hit on a right result.'",
+            "The two bright planets seen in the east\u2014the two bright planets standing over Bethlehem\u2014these would on each occasion have arrested the attention of the magi; and this appearance would have been denominated by them his star."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From this it would seem they were not themselves Jews.",
+            "Perhaps safest to regard it as simply a luminous meteor, which appeared under special laws and for a special purpose.",
+            "That not civil but religious homage is meant here is plain from the whole strain of the narrative."
+        ],
+        "Albert Barnes": [
+            "By computing the time mentioned by Daniel, they knew that the period was approaching when he would appear.",
+            "Among the ancients the appearance of a new star or comet was regarded as an omen of some remarkable event.",
+            "They came to honor him as a Prince, or a king, not as God. The original word implies no more than this."
+        ],
+        "Marvin Vincent": [
+            "The east [\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b7] . Literally, the rising.",
+            "Some commentators prefer to render at its rising, or when it rose.",
+            "In Luke 1:78, the word is translated dayspring, or dawn."
+        ],
+        "John Calvin": [
+            "But if the sight of a star had so powerful an effect on the Magi, woe to our insensibility, who, now that Christ the King has been revealed to us, are so cold in our inquiries after him!",
+            "The reason why the star had been exhibited was, to draw the Magi into Judea, that they might be witnesses and heralds of the new King.",
+            "For their views, with regard to him, probably went no farther, than that his power and exalted rank would be so extraordinary as to impress all nations with just admiration and reverence."
+        ],
+        "Philip Schaff": [
+            "A born King of the Jews is the hope of the Gentiles also, according to the promise now so widely fulfilled.",
+            "The lesson that the expectant study of nature leads to the discovery of the supernatural.",
+            "God can use the imperfect researches of men, and blesses investigations which fail of obtaining the whole truth; otherwise modem science would be unblessed no less than astrology."
+        ],
+        "Archibald T. Robertson": [
+            "These men may have been Jewish proselytes and may have known of the Messianic hope, for even Vergil had caught a vision of it.\" ",
+            "The whole world was on tiptoe of expectancy for something.\" ",
+            "Even the methods of astrologers need not disturb those who are sure of this fact."
+        ],
+        "John Gill": [
+            "The reason of their asking this question is, for we have seen his star in the east.",
+            "This they saw 'in the east'; not in the eastern part of the heavens, but they saw it when they were in the east, that is, in their own country.",
+            "Now this expectation of the appearing of such a star at the coming of the Messiah takes its rise from and is founded upon the above mentioned prophecy."
+        ],
+        "John Wesley": [
+            "To do him homage \u2014 To pay him that honour, by bowing to the earth before him, which the eastern nations used to pay to their monarchs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Magi, guided by the appearance of a star, set out on a journey to honor the newborn King of the Jews. Some believe that the star was a luminous meteor, while others view it as a supernatural phenomenon. Regardless of its nature, the Magi recognized its significance and followed it, knowing that it was connected to the long-awaited Messiah. They came not as Jews themselves, but as Gentiles who had caught a glimpse of the Messianic hope. Their arrival in Judea served to confirm the fulfillment of the promise of a King who would be revered by all nations. The Magi's earnest search for the newborn King challenges our own indifference and calls us to actively seek Christ and bow before him in homage.",
+            "wordCount": 127,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8425230264745323,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                24.16,
+                34.41,
+                41.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Magi, through their study of astrology, were led by a bright star to Bethlehem in search of the newborn King of the Jews. Though not Jews themselves, they recognized the significance of this celestial sign, believing it to be connected to the awaited Messiah. Their journey to honor him reflects the expectation of the whole world, and their homage signifies the reverence due to the exalted rank of the newborn King. As we contemplate their earnest pursuit, we are challenged to overcome our indifference and actively seek Christ, bowing before him in homage.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8537165438251884,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.98,
+            "commentatorTierSimilarities": [
+                23.53,
+                32.27,
+                44.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Magi, guided by a luminous meteor or possibly a supernatural phenomenon, embarked on a journey to find and pay homage to the newborn King of the Jews. Their understanding of the Messianic hope and their recognition of the celestial sign demonstrates their anticipation and expectation for something significant. As Gentiles, their arrival in Judea proclaimed the fulfillment of the promise that the King would be revered by all nations. Their diligent search and humble homage should inspire us to actively seek Christ with reverence and awe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7464688088167875,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                23.39,
+                34.03,
+                42.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Magi, skilled in astrology, followed a bright star they believed was connected to the arrival of the Messiah. Their willingness to travel and pay homage to the newborn King of the Jews demonstrates their recognition of the extraordinary power and exalted rank he would hold. As Gentiles, their journey to Judea affirmed the widespread anticipation and hope for the coming of the King. Their example challenges us to overcome indifference and actively seek Christ, acknowledging his rightful place as our King.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.7423069852881103,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                21.64,
+                32.89,
+                45.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Magi, guided by the appearance of a star in the east, embarked on a journey to worship the newborn King of the Jews. Their study of astrology and recognition of the significance of the star demonstrate an expectation for something remarkable. As Gentiles, their arrival served as a witness and heralding of the fulfillment of the promise that the King would be revered by all nations. Their diligent pursuit challenges us to actively seek Christ with reverence and homage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.738936366772224,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                20.98,
+                33.52,
+                45.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:51:12",
+    "verseRef": "Matthew 22:26",
+    "bestBHT": {
+        "bht": "Throughout this narrative, a series of brothers married the same woman, with each subsequent brother marrying her after the previous one had passed away without leaving any children behind. The cycle continued until the seventh brother, but tragically, none of them were able to have children with her. This account emphasizes the recurring pattern of death and the absence of offspring that characterized this specific situation.",
+        "wordCount": 66,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.0017462920297078,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.65,
+        "commentatorTierSimilarities": [
+            0.0,
+            21.34,
+            78.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 22:26. Unto the seventh, lit., \u2018the seven.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "The eldest of the surviving brethren, having married his brother's wife, after sometime died also without children, and left her to his next brother to marry her; and the third brother accordingly did marry her, and in process of time died likewise, leaving no issue behind him.\" ",
+            "Thus they went on in course, unto the seventh: the fourth, fifth, and sixth, married her in turn, and so did the seventh; and all died in the same circumstances, having no children by her.",
+            "And all died in the same circumstances, having no children by her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 22:26, the Bible mentions the seventh in reference to a series of brothers marrying the same woman. It is suggested that this woman's first husband died without children, so his brother married her, and this pattern continued through the seventh brother, with none of them having children with her. This commentary highlights the unfortunate cycle of death and the absence of offspring that followed in this particular situation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.1131140696499104,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.35,
+            "commentatorTierSimilarities": [
+                0.0,
+                28.66,
+                71.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the eldest brother married his deceased brother's wife, but later died without any children. This led to a succession of six more brothers who also married her, and sadly, all of them faced the same fate - no offspring were produced. The verse emphasizes the tragic pattern of death and the absence of children in this particular context.",
+            "wordCount": 61,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 0.9929118214111421,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.36,
+            "commentatorTierSimilarities": [
+                0.0,
+                16.21,
+                83.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, the first brother passed away without leaving any children behind. Subsequently, the second brother took his place in marrying the woman, followed by the third brother, and so on, until the seventh brother. Each of these men, in turn, married her but met a similar fate - none of them had children with her. This narrative highlights the recurring theme of death and the absence of offspring throughout this story.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 0.8733275839942385,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.38,
+            "commentatorTierSimilarities": [
+                0.0,
+                16.7,
+                83.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 22:26, a series of brothers took turns marrying the same woman. The eldest brother died without children, prompting the second, third, fourth, fifth, sixth, and seventh brothers to follow suit. Tragically, each brother faced the same outcome - none of them had children with the woman. This sobering account sheds light on the repeated cycle of death and the absence of offspring that persisted within this particular context.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.0027936761187664,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.69,
+            "commentatorTierSimilarities": [
+                0.0,
+                22.88,
+                77.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Throughout this narrative, a series of brothers married the same woman, with each subsequent brother marrying her after the previous one had passed away without leaving any children behind. The cycle continued until the seventh brother, but tragically, none of them were able to have children with her. This account emphasizes the recurring pattern of death and the absence of offspring that characterized this specific situation.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.0017462920297078,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                21.34,
+                78.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

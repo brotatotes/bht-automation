@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:48:33",
+    "verseRef": "Matthew 15:7",
+    "bestBHT": {
+        "bht": "Admirably did Isaiah prophesy of you, ye hypocrites. There is sarcasm in this pointed application of Isaiah's words. The portrait was to the very life, teaching as their doctrines the commandments of men. They were indeed far from God if they imagined that God would be pleased with such gifts at the expense of duty to one's parents.",
+        "wordCount": 60,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 1.7642680583861297,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.0,
+        "commentatorTierSimilarities": [
+            32.12,
+            35.08,
+            32.79
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. Ye hypocrites, well did Esaias",
+            "\tprophesy of you, saying\u2014 ( :-)."
+        ],
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . Admirably."
+        ],
+        "John Calvin": [
+            "The worship of God is spiritual, and does not consist in the sprinkling of water, or in any other ceremony.",
+            "There is no reasonable worship of God but what is directed by the rule of his word.",
+            "Since the worship of God is spiritual, and as nothing pleases him that is not accompanied by the inward sincerity of the heart, they who make holiness to consist in outward display are hypocrites."
+        ],
+        "Philip Schaff": [
+            "Ye hypocrites. This word had not quite so strong a sense then as now. It includes those self-deceived.",
+            "Well did Isaiah prophesy of you. (Isaiah 29:13.) \u2018Well,\u2019 i.e., aptly.",
+            "Our Lord assumes that the prophecy properly referred to the Jewish people then, while He does not imply that this was its exclusive or even original application."
+        ],
+        "Archibald T. Robertson": [
+            "Well did Isaiah prophesy of you... There is sarcasm in this pointed application of Isaiah's words.\" ",
+            "The portrait was to the very life, 'teaching as their doctrines the commandments of men.'",
+            "They were indeed far from God if they imagined that God would be pleased with such gifts at the expense of duty to one's parents."
+        ],
+        "John Gill": [
+            "Ye hypocrites... who pretended to so much religion and holiness, and yet scrupled not, upon occasion, to set aside a divine command.",
+            "They sought the praise and applause of men, and not the honour which comes from God; and their religion lay in mere rituals and externals, and not in the spiritual worship and service of God.",
+            "Well did Esaias prophesy of you, saying... had a further view to the Jews in after times."
+        ],
+        "John Wesley": [
+            "The description which Isaiah gave of your fathers is exactly applicable to you.",
+            "The words therefore which were a description of them, are a prophecy with regard to you.",
+            "Well did Isaiah prophesy of you, saying."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Admirably did Isaiah prophesy of you, ye hypocrites. There is sarcasm in this pointed application of Isaiah's words. The portrait was to the very life, teaching as their doctrines the commandments of men. They were indeed far from God if they imagined that God would be pleased with such gifts at the expense of duty to one's parents.",
+            "wordCount": 60,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 1.7642680583861297,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.0,
+            "commentatorTierSimilarities": [
+                32.12,
+                35.08,
+                32.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You hypocrites! Well did Isaiah prophesy of you, saying... This pointed application of Isaiah's words perfectly fits the Jewish people of that time. They were far from God, teaching as doctrines the commandments of men. Their worship consisted of mere rituals and externals, seeking the praise and applause of men rather than the honor that comes from God. They lacked the inward sincerity of the heart that pleases God, making their holiness hypocritical. The prophecy from Isaiah accurately depicted both their ancestors and them, as it was a description and a prophecy. Their worship, devoid of spiritual connection, could not please God.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.6409697111107087,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                23.26,
+                37.27,
+                39.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You hypocrites! Well did Isaiah prophesy of you, saying... This pointed application of Isaiah's words perfectly fits the Jewish people of that time. They were far from God, teaching as doctrines the commandments of men. Their worship consisted of mere rituals and externals, seeking the praise and applause of men rather than the honor that comes from God. They lacked the inward sincerity of the heart that pleases God, making their holiness hypocritical.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.6805040626893808,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                26.54,
+                36.12,
+                37.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Well did Isaiah prophesy of you, saying... This pointed application of Isaiah's words perfectly fits the Jewish people of that time. They were far from God, teaching as doctrines the commandments of men. Their worship consisted of mere rituals and externals, seeking the praise and applause of men rather than the honor that comes from God. They lacked the inward sincerity of the heart that pleases God, making their holiness hypocritical.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.7039771628847378,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                24.32,
+                36.11,
+                39.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You hypocrites! Well did Isaiah prophesy of you, saying... This pointed application of Isaiah's words perfectly fits the Jewish people of that time. They were far from God, teaching as doctrines the commandments of men. Their worship consisted of mere rituals and externals, seeking the praise and applause of men rather than the honor that comes from God. They lacked the inward sincerity of the heart that pleases God, making their holiness hypocritical. The prophecy from Isaiah accurately depicted both their ancestors and them, as it was a description and a prophecy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6750775647339307,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                23.74,
+                38.51,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

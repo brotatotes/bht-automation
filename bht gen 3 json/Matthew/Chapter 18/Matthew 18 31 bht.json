@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:15",
+    "verseRef": "Matthew 18:31",
+    "bestBHT": {
+        "bht": "Sorrow, not anger, is the proper response to sin, recognizing that all are sinners. The fellow-servants symbolize the praying people of God, who plead against oppression and tyranny in the world. The parable's circumstances serve to clarify the story. The fellow-servants' reaction is not anger, but deep sorrow. Their lament reflects the grief of believers in a world filled with persecution and oppression. It reminds us that there are limits to what people will tolerate and the importance of seeking divine intervention when forgiveness is withheld.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.55771058162901,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+        "commentatorTierSimilarities": [
+            27.83,
+            41.71,
+            30.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Anger is not man's proper mood towards sin, but sorrow...because all men are sinners.",
+            "These fellow-servants are the praying people of God, who plead with Him against the oppression and tyranny in the world.",
+            "The praying people of God...plead with Him against the oppression and tyranny in the world."
+        ],
+        "Albert Barnes": [
+            "It cannot be intended to teach that other Christians should go and tell God what a brother has done.",
+            "It is abusing the Bible, and departing from the design of parables, to press every circumstance, and to endeavor to extract from it some spiritual meaning.",
+            "The circumstances of the parable are intended only to make the story consistent with itself, and thus to impress the general truth more fully on the mind."
+        ],
+        "Marvin Vincent": [
+            "Told [\u03b4\u03b9\u03b5\u03c3\u03b1\u03c6\u03b7\u03c3\u03b1\u03bd]. More than merely narrated.",
+            "The verb is from dia, throughout, and safe w, to explain. They explained the circumstances throughout.",
+            "Their Lord [\u03c4\u03c9 \u03ba\u03c5\u03c1\u03b9\u03c9 \u03b5\u03b1\u03c5\u03c4\u03c9\u03bd]. Lit., 'their own Lord;' as befitted their position, and as a mark of their confidence in him."
+        ],
+        "John Calvin": [
+            "We ought to know that the men who live among us will be so many witnesses against us before God.",
+            "Cruelty shall excite in them displeasure and hatred.",
+            "Severe creditors, from whom no forgiveness can be obtained, are unworthy of enjoying it."
+        ],
+        "Philip Schaff": [
+            "Not a warrant for complaints to God against the unforgiving.",
+            "The fellow-servants were exceeding sorry, not 'angry.'",
+            "The sorrowful cries of God's people in a world of persecution and oppression are heard."
+        ],
+        "Archibald T. Robertson": [
+            "Told (\u03b4\u03b9\u03b5\u03c3\u03b1\u03c6\u03b7\u03c3\u03b1\u03bd). Made wholly clear to their own lord.",
+            "That is the usual result in the long run.",
+            "There is a limit to what people will put up with."
+        ],
+        "John Gill": [
+            "They were greatly grieved and troubled at the cruelty of the one, and the unhappiness of the other; being more tenderhearted, and of a more forgiving spirit than he.",
+            "This may be expressive of the concern of some members of churches at such conduct: who, though they may not have strength and number sufficient to oppose such measures, yet being secretly grieved at such cruel methods.",
+            "Go to the throne of grace, and spread the case before the Lord, tell him all that is done by way of complaint; which is no impeachment of his omniscience, only shows their trouble for such malpractices, and the sense they have, by whom only such grievances can be redressed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see that anger is not the proper response to sin, but rather sorrow, because all people are sinners. The fellow-servants mentioned in the verse represent the praying people of God who intercede against oppression and tyranny. It is important to note that the circumstances of the parable serve to emphasize the general truth being conveyed. The reaction of the fellow-servants is not anger, but deep sorrow. Their sorrowful cries, reflecting the concern of members of churches, are heard by God in a world filled with persecution and oppression. Ultimately, this verse reminds us that there is a limit to what people will tolerate, and that it is crucial to seek God's intervention in situations where forgiveness is withheld.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.5643977009989685,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                27.16,
+                42.4,
+                30.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Anger is not the proper response to sin; instead, sorrow should be our sentiment, recognizing that we are all sinners. The fellow-servants in this story symbolize the praying people of God, who beseech Him against oppression and tyranny. The parable's circumstances are not meant to be pressed for spiritual meanings but rather to convey the overarching truth. The fellow-servants' reaction is not anger but profound sorrow, echoing the grief of believers in a world marked by persecution. This serves as a reminder that there are limits to what people can endure, underscoring the importance of seeking divine intervention in situations where forgiveness is withheld.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5473237099637156,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.79,
+            "commentatorTierSimilarities": [
+                24.36,
+                44.76,
+                30.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sorrow, not anger, is the appropriate response to sin, as all are sinners. The fellow-servants represent God's praying people, who intercede against oppression. The parable's circumstances exist to emphasize the story, not extract spiritual meaning. The fellow-servants' reaction is not anger but deep sorrow. Their lament echoes the grief of believers in a world of persecution, showing the limit to people's endurance. It is essential to seek God's intervention in situations where forgiveness is denied, for His grace is the remedy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5224444530997556,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.96,
+            "commentatorTierSimilarities": [
+                25.88,
+                43.72,
+                30.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sorrow, not anger, is the proper response to sin, recognizing that all are sinners. The fellow-servants symbolize the praying people of God, who plead against oppression and tyranny in the world. The parable's circumstances serve to clarify the story. The fellow-servants' reaction is not anger, but deep sorrow. Their lament reflects the grief of believers in a world filled with persecution and oppression. It reminds us that there are limits to what people will tolerate and the importance of seeking divine intervention when forgiveness is withheld.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.55771058162901,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                27.83,
+                41.71,
+                30.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sorrow, not anger, is the appropriate response to sin, as all are sinners. The fellow-servants symbolize the praying people of God who intercede against oppression and tyranny. The parable's circumstances clarify the story rather than extracting spiritual meaning. The fellow-servants are not angry, but deeply sorrowful. Their grief mirrors the distress of believers in a world marked by persecution and oppression. This serves as a reminder that there are limits to what people will tolerate, underlining the significance of seeking divine intervention when forgiveness is refused.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.542361644285855,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                25.83,
+                42.77,
+                31.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

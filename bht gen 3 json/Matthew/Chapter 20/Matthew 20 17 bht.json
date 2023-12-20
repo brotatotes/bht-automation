@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:50:23",
+    "verseRef": "Matthew 20:17",
+    "bestBHT": {
+        "bht": "Jesus, aware of his impending sacrifice, takes a moment alone with his disciples. Seeing their fear and alarm, he desires to prepare them and fortify their faith. By foretelling what will occur, Jesus not only provides them with reassurance and confirmation but also highlights the fulfillment of prophecies that point to him as the Savior. Although they may not fully comprehend his words at the time, they will remember them when the events unfold, strengthening their faith in him as the true Messiah.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.2667517815144778,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.46,
+        "commentatorTierSimilarities": [
+            30.99,
+            26.2,
+            42.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "He sees that the day of his death is at hand; nay more, he is already in a state of readiness to offer himself to be sacrificed; and, on the other hand, he sees the disciples not only afraid, but overwhelmed by blind alarm.",
+            "By foretelling what would happen, he not only fortifies them, that they may not give way, when a calamity, which has arisen suddenly and contrary to expectation, takes them by surprise, but meets the offense of the cross by a proof of his Divinity, that they may not lose courage at beholding his short abasement.",
+            "It was an excellent remedy for overcoming temptation, to perceive in the very ignominy of the cross the marks by which the Prophets had pointed out the promised Author of salvation."
+        ],
+        "Philip Schaff": [
+            "He hastened before them, arousing their amazement and fear.",
+            "Referred, incorrectly, by some to the retirement to Ephraim."
+        ],
+        "Archibald T. Robertson": [
+            "Aside by themselves\" (Moffatt).",
+            "Jesus is having his inward struggle (Mark 10:32) and makes one more effort to get the Twelve to understand him."
+        ],
+        "John Gill": [
+            "Whither he came either from the coasts of Judea, from beyond Jordan, Matthew 19:1 where he had been some time healing diseases, disputing with the Pharisees, discoursing with the young ruler, and instructing his disciples; or from a country near to the wilderness, from a city called Ephraim, John 11:54 where he continued some time with his disciples, after the sanhedrim had took counsel to put him to death; for this was his last journey to Jerusalem.",
+            "Took the twelve disciples apart in the way: into some private place, which lay near the road; for it seems that there were others that followed him, besides the twelve; when he was not willing they should hear what he had to say to them, concerning the issue of this, journey; lest either they should be discouraged and desert him, or it should be made public, and methods be used to prevent it.",
+            "and said unto them; the disciples, whom he thought fit once more to remind of his sufferings and death, and to prepare them for the same; and though they would not so thoroughly understand all that he should say, yet when it was come to pass, they would remember it, and which would be of service to confirm their faith in him, as the true Messiah."
+        ],
+        "John Wesley": [
+            "Mark 10:32; Luke 18:31."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, on his way to Jerusalem, takes his twelve disciples aside, away from the crowds, in order to have a private moment with them. He is aware that his time of suffering and sacrifice is imminent, and he wants to make one final attempt to help them understand his purpose. He sees their fear and alarm, and he wants to prepare them for what is to come. By foretelling his death and the events that will transpire, Jesus offers them reassurance and strengthens their faith. He knows that the crucifixion may appear as a stumbling block, but he wants them to see it as a fulfillment of the prophetic scriptures and a testament to his divine nature. Though they might not fully comprehend his words at the moment, he believes that they will serve as a source of confirmation and encouragement when they witness the fulfillment of his predictions.",
+            "wordCount": 149,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.1556786063680438,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.77,
+            "commentatorTierSimilarities": [
+                28.24,
+                27.18,
+                44.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, preparing for his imminent suffering and death, takes his disciples aside to have a private moment with them. He perceives their fear and panic, and he wants to fortify them so that they do not lose heart when faced with the unexpected calamity of the cross. By foretelling what will happen, Jesus not only strengthens their resolve but also reveals his divinity, reminding them of the prophetic signs that point to him as the promised Savior. While they may not grasp the full meaning at the time, his words will serve as a reminder and confirmation when the events unfold.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2175316549524569,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.83,
+            "commentatorTierSimilarities": [
+                30.03,
+                25.9,
+                44.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, aware of his impending death, takes his disciples aside to prepare them for the journey ahead. He sees their fear and panic, and he wants to strengthen their faith and resolve. By foretelling the events to come, Jesus not only assures them of his divinity but also fulfills the prophecies that foretold his sacrifice. Despite their limited understanding in the moment, his words will serve as a confirmation when they witness the fulfillment of his predictions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.1525696400721932,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.67,
+            "commentatorTierSimilarities": [
+                26.15,
+                29.63,
+                44.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in anticipation of his approaching crucifixion, seeks a moment alone with his disciples. He observes their fear and apprehension and desires to impart understanding and fortitude. By foretelling the future events, Jesus not only strengthens their faith but also reveals the marks of the promised Messiah in the ignominy of the cross. Although they may not fully grasp his words in the present, they will remember and find solace when these prophecies come to pass.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.163809792262978,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.04,
+            "commentatorTierSimilarities": [
+                27.69,
+                26.67,
+                45.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, aware of his impending sacrifice, takes a moment alone with his disciples. Seeing their fear and alarm, he desires to prepare them and fortify their faith. By foretelling what will occur, Jesus not only provides them with reassurance and confirmation but also highlights the fulfillment of prophecies that point to him as the Savior. Although they may not fully comprehend his words at the time, they will remember them when the events unfold, strengthening their faith in him as the true Messiah.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.2667517815144778,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.46,
+            "commentatorTierSimilarities": [
+                30.99,
+                26.2,
+                42.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

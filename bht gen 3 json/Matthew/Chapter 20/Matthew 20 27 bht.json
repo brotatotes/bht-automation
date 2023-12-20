@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:50:21",
+    "verseRef": "Matthew 20:27",
+    "bestBHT": {
+        "bht": "In this teaching, Jesus instructs his followers to not only serve as ministers, but also as servants to all. The life of the Apostle Paul perfectly exemplifies this calling, as he humbly became a servant to every individual to bring them closer to Christ. By willingly embracing the role of a servant, we not only serve others in this world, but also experience the promise of freedom in the world to come.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 1.9821788349235143,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Let him be your servant; or, as in Mark, shall be servant of all: not only a minister, but a servant; not a servant of some only, but of all.",
+            "This was verified in the Apostle Paul, who became a servant to all men, though he was free, that he might gain some to Christ; and by so doing was the chief.",
+            "everyone that makes himself \u05db\u05e2\u05d1\u05d3, as a servant, for the words of the law in this world, shall be made free in the world to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 20:27, Jesus teaches a powerful lesson about servanthood. He instructs his followers to not only be ministers, but servants to all. This concept is exemplified in the life of the Apostle Paul, who became a servant to everyone in order to bring them closer to Christ. By willingly embracing the role of a servant, we not only serve others in this world, but also gain freedom in the world to come.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.7735486146654411,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus emphasizes the importance of servanthood, calling his followers to be servants to all. The Apostle Paul serves as an example of this selfless attitude, as he became a servant to all in order to bring them to Christ. By adopting the role of a servant, not only do we serve others in this world, but we also gain freedom in the world to come.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.973041926570614,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's message in Matthew 20:27 is clear: believers should not only be ministers, but servants to all. The Apostle Paul provides a powerful example of this concept, willingly becoming a servant to every person he encountered to lead them to Christ. By embracing the role of a servant, we not only serve others in this world, but also experience the freedom that awaits us in the life to come.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9044087681042632,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this teaching, Jesus instructs his followers to not only serve as ministers, but also as servants to all. The life of the Apostle Paul perfectly exemplifies this calling, as he humbly became a servant to every individual to bring them closer to Christ. By willingly embracing the role of a servant, we not only serve others in this world, but also experience the promise of freedom in the world to come.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.9821788349235143,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 20:27, Jesus urges his disciples to go beyond just being ministers and embrace the role of servants to all. The example set by the Apostle Paul reflects this teaching, as he willingly became a servant to everyone he encountered, aiming to lead them to Christ. This mindset of servanthood not only enables us to serve others in this present world but also promises us freedom and fulfillment in the world to come.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6195371363725446,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:08",
+    "verseRef": "Matthew 12:27",
+    "bestBHT": {
+        "bht": "It is necessary to investigate the reality of the Pharisees' exorcisms so as not to give the impression that Jesus is comparing his own miracles to their false practices. This is confirmed by the reaction of the multitudes when the disciples of the Pharisees cast out demons\u2014they exclaimed that they had never witnessed such a complete healing before. Miracles, in themselves, are not a test of truth, as false religions and teachers have also performed them. However, Jesus acknowledges that the Pharisees' children do indeed cast out demons. Their condemnation of Jesus while praising the same works in their own children reveals their hypocrisy and self-love.",
+        "wordCount": 108,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7312859845773332,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+        "commentatorTierSimilarities": [
+            42.64,
+            24.97,
+            32.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is highly necessary to institute this enquiry as to the reality of their exorcisms: for it would leave an unworthy impression on the reader, and one very open to the cavils of unbelief, were we to sanction the idea that our Lord would have solemnly compared with his own miracles, and drawn inferences from, a system of imposture...",
+            "I infer then that the sons of the Pharisees did really cast out devils, and I think this view is confirmed by what the multitudes said in ch. ix. 33, where upon the dumb speaking after the devil was cast out they exclaimed, 'It never was so seen in Israel': meaning that this was a more complete healing than they had ever seen before.",
+            "Miracles, as such, are no test of truth, but have been permitted to, and prophesied of, false religions and teachers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And if I by Beelzebub cast out devils, by whom do your children...",
+            "Our Lord here seems to admit that such works were wrought by them...",
+            "the Pharisees stood self-condemned, as expressed in Luke..."
+        ],
+        "John Calvin": [
+            "Their prevailing motive was not a regard to what is just and right, but blind love or hatred; and that it was even an evidence of wicked self-love and envy, to condemn in Christ what they praised in their own children.",
+            "These words are not to be taken literally, but the meaning is: 'We need not go far to seek your condemnation. You attribute to Beelzebub the miracles which I have performed, and you praise the same things in your own children. You have at home what is sufficient to condemn you.'",
+            "Though they were greatly degenerated, yet the Lord was pleased not to leave them altogether without evidences of his power, that there might be some testimony to authorize the priesthood in general, and the service of the temple; for it was of the highest importance that there should be evident marks to distinguish them from the superstitions of the Gentiles."
+        ],
+        "Philip Schaff": [
+            "If casting out devils is an evidence of a league with Satan, then this holds good against your scholars who profess to do it also.",
+            "They shall convict you of partiality.",
+            "The existence of \u2018demoniacs\u2019 in those days, is proof that supernatural power, of itself is no test of truth."
+        ],
+        "John Gill": [
+            "But rather, he means, some among themselves, who pretended to have a power of exorcising and ejecting of devils, either in the name of Jesus, as some of them did, or in the name of their kings, righteous men, prophets and patriarchs.",
+            "Why should their ejection of devils be ascribed to God, and his to Beelzebub?",
+            "Their children cast out devils, or pretended to do so, and it was by the help of Satan; and yet they ascribed it to a divine power, even though they made use of the name of Satan, under that of Beelzebub."
+        ],
+        "John Wesley": [
+            "By whom do your children \u2014 That is, disciples, cast them out.",
+            "Therefore shall they be your judge.",
+            "The kingdom of God is come upon you - Unawares; before you expected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is necessary to investigate the reality of the Pharisees' exorcisms so as not to give the impression that Jesus is comparing his own miracles to their false practices. This is confirmed by the reaction of the multitudes when the disciples of the Pharisees cast out demons\u2014they exclaimed that they had never witnessed such a complete healing before. Miracles, in themselves, are not a test of truth, as false religions and teachers have also performed them. However, Jesus acknowledges that the Pharisees' children do indeed cast out demons. Their condemnation of Jesus while praising the same works in their own children reveals their hypocrisy and self-love. Through their own words and actions, the Pharisees stand condemned.",
+            "wordCount": 118,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6926739296211109,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                42.01,
+                24.91,
+                33.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is necessary to investigate the reality of the Pharisees' exorcisms so as not to give the impression that Jesus is comparing his own miracles to their false practices. This is confirmed by the reaction of the multitudes when the disciples of the Pharisees cast out demons\u2014they exclaimed that they had never witnessed such a complete healing before. Miracles, in themselves, are not a test of truth, as false religions and teachers have also performed them. However, Jesus acknowledges that the Pharisees' children do indeed cast out demons. Their condemnation of Jesus while praising the same works in their own children reveals their hypocrisy and self-love.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7312859845773332,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                42.64,
+                24.97,
+                32.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is important to examine the reality of the Pharisees' exorcisms so as not to suggest that Jesus is comparing his own miracles to their fraudulent actions. The reaction of the multitudes when the Pharisees' disciples cast out demons implies that this was a more remarkable healing than they had seen before. While miracles are not an absolute proof of truth, as false teachers have also performed them, Jesus does acknowledge that the children of the Pharisees were able to cast out demons. This exposes their hypocrisy and self-interest in condemning Jesus while praising the same works in their own children.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.7375196871403824,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                42.04,
+                24.73,
+                33.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid presenting the false idea that Jesus is comparing his miracles to the deceptive practices of the Pharisees, it is necessary to examine the reality of their exorcisms. The reaction of the crowds when the disciples of the Pharisees cast out demons suggests that this was a more complete healing than they had witnessed before. While miracles are not a definitive proof of truth, as even false religions and teachers have performed them, Jesus does acknowledge that the children of the Pharisees were capable of casting out demons. This exposes their hypocrisy in condemning Jesus while praising the same works in their own children.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.7586100626733256,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                41.53,
+                26.31,
+                32.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To avoid misleading readers into thinking that Jesus is comparing his miracles to the deceptive practices of the Pharisees, it is necessary to investigate the reality of their exorcisms. The reaction of the crowds when the disciples of the Pharisees cast out demons indicates that this was a more remarkable healing than they had ever witnessed before. While miracles alone are not a foolproof measure of truth, as false religions and teachers have also performed them, Jesus acknowledges that the children of the Pharisees genuinely possess the ability to cast out demons. This exposes the Pharisees' hypocrisy in condemning Jesus while praising the same works in their own children.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7707896332962048,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                41.72,
+                25.46,
+                32.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

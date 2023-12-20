@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:48:08",
+    "verseRef": "Matthew 14:27",
+    "bestBHT": {
+        "bht": "In the midst of their overwhelming fear, Jesus speaks words of assurance to his disciples, saying, Be not afraid, it is I. His presence brings comfort and dispels their terror. Though fear may still linger, the disciples find solace in knowing that Jesus is near, as he calms their fears and instills confidence. Even in times when deliverance may seem delayed, the presence of Christ brings inner peace and unwavering faith, eradicating dread and increasing trust in him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.5870547939606134,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+        "commentatorTierSimilarities": [
+            0.0,
+            46.88,
+            53.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "But as terror had already overpowered their minds, he corrects that terror, lest it should hinder or abate their confidence: not that they could all at once lay aside fear and experience unmingled joy, but because it was necessary that the fear which had seized them should be allayed, that it might not destroy their confidence.",
+            "...the effect which they produce on believers is here described to us as widely different. They cause inward peace and strong confidence to hold the sway over our hearts, that we may not yield to carnal fears.",
+            "There are good reasons why the Lord frequently delays to bestow that deliverance which he has ready at hand."
+        ],
+        "Philip Schaff": [
+            "It is I. An assurance, through a living voice, of His bodily presence.",
+            "Be not afraid. The presence of Christ always brings with it this cheering injunction."
+        ],
+        "John Gill": [
+            "Be of good cheer, it is I, be not afraid: take heart, be of good courage, do not be affrighted at my appearance, from whom you have nothing to fear.",
+            "Christ may be sometimes near his people, and they not know him;...persons have wrong apprehensions of him, and are filled with dread and fears, concluding they have no interest in him.",
+            "When Christ makes himself known unto them, as the able and willing Saviour, and their Saviour and Redeemer, then, instead of dreading him as a judge, their fears vanish, their faith increases."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of fear and terror, Jesus reassures his disciples with a comforting voice, Be not afraid, it is I. This declaration of his bodily presence brings forth a sense of peace and confidence, replacing their initial terror. Though they may not immediately cast aside all fear, the presence of Christ allays their terror, allowing their confidence to grow. Even when deliverance seems delayed, Christ's presence brings inward peace to our hearts, inspiring strong courage and an unshakable faith. Knowing Jesus as our able and willing Savior dispels dread and fear, increasing our faith and trust in him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.5618719358358129,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.66,
+                54.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of their overwhelming fear, Jesus speaks words of assurance to his disciples, saying, Be not afraid, it is I. His presence brings comfort and dispels their terror. Though fear may still linger, the disciples find solace in knowing that Jesus is near, as he calms their fears and instills confidence. Even in times when deliverance may seem delayed, the presence of Christ brings inner peace and unwavering faith, eradicating dread and increasing trust in him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5870547939606134,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.88,
+                53.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of fear and dread, Jesus tenderly reassures his disciples, saying, Be not afraid, it is I. His presence quells their terror and replaces it with a renewed sense of courage and confidence. While their fear may not immediately dissipate, Jesus' words serve to allay their fears and cultivate a deepening trust in Him. Even when deliverance appears delayed, the nearness of Christ brings an inner calm and a strengthened faith that dispels apprehension and increases assurance in Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.4862233152639428,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.11,
+                57.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of their overwhelming fear, Jesus comforts his disciples, saying, Be not afraid, it is I. This assurance of his bodily presence dispels their terror and fosters a growing confidence within them. Even though their fear may persist, Jesus calms it in order to preserve their trust. Despite delays in deliverance, the nearness of Christ brings inward peace and a deepening faith, replacing dread with hope and increasing their reliance on him as their Savior.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4661424503293508,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.34,
+                60.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of fear and dread, Jesus speaks words of reassurance to his disciples, saying, Be not afraid, it is I. His presence dispels their terror and brings about a sense of peace and courage. Even though their fear may not immediately subside, Jesus allays their apprehension and instills in them a growing confidence. While deliverance may be delayed at times, the nearness of Christ brings inner tranquility and a deepening faith, dispelling fear and fostering trust in Him as their Savior.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.435119777749163,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.26,
+                59.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

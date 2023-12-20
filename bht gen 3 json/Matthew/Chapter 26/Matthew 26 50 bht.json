@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:54",
+    "verseRef": "Matthew 26:50",
+    "bestBHT": {
+        "bht": "Jesus refers to Judas as Friend, confronting the hypocrisy of his feigned affection and urging him to carry out his intended purpose. Rejecting the traitorous kiss, Jesus demonstrates his awareness of Judas's betrayal and maintains composure, exemplifying his superiority over his enemies. His meekness and gentleness in the face of provocation stand in contrast to the deceitful nature of Judas's friendship. In this encounter, Jesus exposes the pretense of Judas's affection, showcasing his heroic demeanor amidst suffering and ultimately revealing the true intentions of those who come into His presence.",
+        "wordCount": 93,
+        "quoteTokenProportion": 22.95,
+        "qualityScore": 1.607729498363081,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.8,
+        "commentatorTierSimilarities": [
+            22.87,
+            34.85,
+            42.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Friend\u2014see ch. xxii. 12 and note. It is more than doubtful whether the words that follow can properly be rendered as a question.",
+            "Friend, there needs not this shew of attachment: I know thine errand,\u2014do thy purpose.",
+            "On any understanding of the words, it is an appeal to the conscience and heart of Judas."
+        ],
+        "Marvin Vincent": [
+            "Literally it is, that for which thou art here; and the mind is to supply do or be about.\" ",
+            "The Lord spurns the traitor's embrace, and says, in effect, 'Enough of this hypocritical fawning. Do what you are here to do.'",
+            "So Rev., Do that for which thou art come."
+        ],
+        "John Calvin": [
+            "For Christ does not employ an ironical address when he calls him friend, but charges him with ingratitude, that, from being an intimate friend, who sat at his table, he had become a traitor.",
+            "This shows clearly\u2014what I hinted a little ago\u2014that, whatever may be the artifices by which hypocrites conceal themselves, and whatever may be the pretenses which they hold out, when they come into the presence of the Lord, their crimes become manifest.",
+            "We are all commanded to kiss the Son of God, and we ought, therefore, to see that no one give him a traitor\u2019s kiss, otherwise it will cost us dear to have been elevated to so great an honor."
+        ],
+        "Philip Schaff": [
+            "Our Lord did not turn away, in holy indignation, from this Judas kiss. His meekness and gentleness under the greatest provocation, surpasses even the standard which He holds up for His disciples.\" ",
+            "Do that for which thou art come! A slight change of reading makes the common translation incorrect. The expression is elliptical, and may be either an exclamation or a question: 'Is it this for which thou art come?' The former accords much better with the emotion natural at such a time.",
+            "Laid their hands, etc. This does not imply undue violence. He was probably not bound until afterwards."
+        ],
+        "Archibald T. Robertson": [
+            "Do that for which thou art come (\u03b5\u03c6' \u03bf \u03c0\u03b1\u03c1\u03b5). Moffatt and Goodspeed take it: 'Do your errand.'\" ",
+            "Deissmann (Light from the Ancient East, pp. 125 to 131) has proven conclusively that it is a question... The use of \u03b5\u03c6' \u03bf for 'why here' occurs on a Syrian tablet of the first century A.D.",
+            "Jesus exposes the pretence of Judas and shows that he does not believe in his paraded affection."
+        ],
+        "John Gill": [
+            "Not in an ironical and sarcastic way, but because he pretended to be his friend.",
+            "That is, the multitude, the Roman band, the captains and officers of the Jews.",
+            "The seizing and apprehending him is related by Luke and John as after the following circumstance."
+        ],
+        "John Wesley": [
+            "The heroic behaviour of the blessed Jesus, in the whole period of his sufferings, will be observed by every attentive eye, and felt by every pious heart.",
+            "With what composure does he go forth to meet the traitor! With what calmness receive that malignant kiss!",
+            "With what dignity does he deliver himself into the hands of his enemies! Yet plainly showing his superiority over them, and even then leading as it were captivity captive!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus addressed Judas as Friend, exposing the hypocritical nature of his affection. He challenged Judas to do what he came there to do, rejecting the traitorous kiss and asserting that he knows Judas's true intentions. This conveys Jesus's deep understanding of Judas's betrayal, even in the midst of his betrayal, which is seen in his calm composure and dignified surrender to his enemies. Jesus's meekness and gentleness in the face of great provocation contrast with Judas's deceptive friendship and ultimate act of betrayal. Through this interaction, Jesus reveals the pretense of Judas's affection and exposes the true nature of hypocrites when they come into the presence of the Lord.",
+            "wordCount": 115,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.5872001451789557,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                26.13,
+                34.35,
+                39.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus addressed Judas as Friend, exposing the hypocritical nature of his affection. He challenged Judas to do what he came there to do, rejecting the traitorous kiss and asserting that he knows Judas's true intentions. This conveys Jesus's deep understanding of Judas's betrayal, even in the midst of his betrayal. His calm composure and dignified surrender to his enemies demonstrate his superiority over them, despite the impending captivity. Through this interaction, Jesus reveals the pretense of Judas's affection and displays his meekness and gentleness in the face of provocation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5387098987151582,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.5,
+            "commentatorTierSimilarities": [
+                25.17,
+                34.36,
+                40.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, addressing Judas as Friend, exposes the hypocrisy of his affection and challenges him to fulfill his intended purpose. Rejecting the traitorous kiss, Jesus reveals his understanding of Judas's betrayal. In this moment, Jesus maintains composure and dignity, displaying his superiority over his enemies. His meekness and gentleness in the face of provocation stand in stark contrast to Judas's deceptive friendship. Through this encounter, Jesus exposes the pretense of Judas's affection and showcases his heroic behavior in the face of suffering.",
+            "wordCount": 84,
+            "quoteTokenProportion": 21.57,
+            "qualityScore": 1.5136692762545825,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                23.61,
+                33.53,
+                42.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Addressing Judas as Friend, Jesus exposes the hypocrisy of his affection and challenges him to fulfill his purpose. Rejecting the traitorous kiss, Jesus reveals his understanding of Judas's betrayal and maintains composure, displaying superiority over his enemies. His meekness and gentleness in the face of provocation contrast with Judas's deceptive friendship. In this moment, Jesus exposes the pretense of Judas's affection, showcasing his heroic behavior. Through this encounter, Jesus displays his deep understanding of human nature and the inevitable exposure of hypocrites in His presence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 21.82,
+            "qualityScore": 1.501443410437377,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                24.63,
+                32.5,
+                42.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus refers to Judas as Friend, confronting the hypocrisy of his feigned affection and urging him to carry out his intended purpose. Rejecting the traitorous kiss, Jesus demonstrates his awareness of Judas's betrayal and maintains composure, exemplifying his superiority over his enemies. His meekness and gentleness in the face of provocation stand in contrast to the deceitful nature of Judas's friendship. In this encounter, Jesus exposes the pretense of Judas's affection, showcasing his heroic demeanor amidst suffering and ultimately revealing the true intentions of those who come into His presence.",
+            "wordCount": 93,
+            "quoteTokenProportion": 22.95,
+            "qualityScore": 1.607729498363081,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.8,
+            "commentatorTierSimilarities": [
+                22.87,
+                34.85,
+                42.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

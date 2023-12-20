@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:46:44",
+    "verseRef": "Matthew 12:15",
+    "bestBHT": {
+        "bht": "A multitude from Galilee, Judea, Jerusalem, and beyond came to Jesus, seeking healing. He withdrew, perceiving their thoughts, not out of fear but to continue His ministry without interruption from those plotting against Him. Despite facing opposition, Jesus was not forsaken by the common people, and great multitudes continued to follow Him. He healed all who needed it, demonstrating that it was lawful to do good and provide physical as well as spiritual healing on the Sabbath.",
+        "wordCount": 77,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.798944392563432,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+        "commentatorTierSimilarities": [
+            24.08,
+            35.66,
+            40.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] them all: see similar expressions, ch. xix. 2: Luke vi. 19;\u2014i. e. \u2018all who wanted healing,\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A great multitude from Galilee followed Him, and from Judea and from Jerusalem, and from Idumea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things He did, came unto Him.\" (Mark 3:7-8)",
+            "And unclean spirits, when they saw Him, fell down before Him, and cried, saying, Thou art the Son of God.\" (Mark 3:11)",
+            "How glorious this extorted homage to the Son of God! But as this was not the time, so neither were they the fitting preachers, as BENGEL says."
+        ],
+        "Philip Schaff": [
+            "Withdrew. Not from fear, but to carry out His ministry without interruption from these plotters.",
+            "Many. 'Multitudes' is to be omitted. It is evident that our Lord did not wish to avoid the people.",
+            "He healed them all, i.e., all who needed healing, possibly, including spiritual healing also."
+        ],
+        "Archibald T. Robertson": [
+            "Perceiving (\u03b3\u03bd\u03bf\u03c5\u03c2). Second aorist active participle of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9. Jesus read their very thoughts. They were now plain to any one who saw their angry countenances. "
+        ],
+        "John Gill": [
+            "But when Jesus knew it...he withdrew himself...not through fear, but because his time was not yet come, that he must suffer and die for his people.\" ",
+            "And great multitudes followed him...so that his departure was not so very private; nor was he forsaken by the common people, though the Pharisees were so offended with him.\" ",
+            "And he healed them all...practising agreeably to his doctrine, that it was lawful to do good on the sabbath day, and to heal the bodies as well as the souls of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A great multitude from Galilee, Judea, Jerusalem, Idumea, Tyre, Sidon, and beyond Jordan followed Jesus, seeking healing. Unclean spirits fell down before Him, proclaiming Him as the Son of God. Although this homage was glorious, it wasn't the right time for it, as Jesus knew their angry thoughts. He withdrew, not out of fear, but to continue His ministry without interruption from those plotting against Him. Despite these adversaries, Jesus was not forsaken by the common people; great multitudes still followed Him. He healed all who needed healing, demonstrating His teaching that it was lawful to do good on the Sabbath and to bring healing to both bodies and souls.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.7296090761593073,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                27.58,
+                32.35,
+                40.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A great multitude from various regions followed Jesus, seeking healing. Unclean spirits acknowledged His divinity, but it was not the appropriate time for such declarations. Jesus withdrew, not out of fear, but to continue His ministry unimpeded. Despite opposition, He was not abandoned by the common people. He healed all who needed it, emphasizing His teaching that doing good and restoring both bodies and souls was permissible on the Sabbath.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6298782099621127,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                22.09,
+                36.19,
+                41.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A great multitude, including people from Galilee, Judea, Jerusalem, and beyond, followed Jesus, desiring healing. Unclean spirits recognized Him as the Son of God. Jesus, perceiving their thoughts and the anger of His adversaries, withdrew from the situation. However, He was not abandoned by the common people and continued His ministry, healing all who sought healing. His actions aligned with His teaching that it was permissible to do good and bring healing on the Sabbath, both to the physical and spiritual needs of people.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6464819753642366,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "commentatorTierSimilarities": [
+                27.74,
+                31.63,
+                40.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A multitude from Galilee, Judea, Jerusalem, and beyond came to Jesus, seeking healing. He withdrew, perceiving their thoughts, not out of fear but to continue His ministry without interruption from those plotting against Him. Despite facing opposition, Jesus was not forsaken by the common people, and great multitudes continued to follow Him. He healed all who needed it, demonstrating that it was lawful to do good and provide physical as well as spiritual healing on the Sabbath.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.798944392563432,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                24.08,
+                35.66,
+                40.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A multitude from various regions followed Jesus, seeking healing. Unclean spirits acknowledged Him as the Son of God. Jesus withdrew, perceiving their thoughts and the anger of His adversaries. He was not abandoned by the common people, continuing His ministry by healing all who sought it. This demonstrated the permissibility of doing good and providing healing for both the physical and spiritual needs of individuals on the Sabbath.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.6308804323549877,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                28.3,
+                34.72,
+                36.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

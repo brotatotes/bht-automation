@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:44:28",
+    "verseRef": "Matthew 6:32",
+    "bestBHT": {
+        "bht": "Your heavenly Father knows that you need all these things. Unlike the heathen who only seek present objects as their sole good, we, as God's children, can find comfort in the knowledge that our Father knows our every need. We are called to have unwavering devotion to our Father and place our trust in Him above all else. Let us not allow the pursuit of material wealth to overshadow our spiritual affections and desires, for it is unbecoming and against the teachings of God's providence and the promise of a future after this life.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.71,
+        "qualityScore": 1.6554304729474842,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+        "commentatorTierSimilarities": [
+            35.42,
+            37.75,
+            26.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32. for your heavenly Father knoweth] This second \u201cfor\u201d brings in an additional reason."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Knowing nothing definitely beyond the present life to kindle their aspirations and engage their supreme attention, the heathen naturally pursue present objects as their chief, their only good.",
+            "Food and raiment are pronounced needful to God's children; and He who could say, 'No man knoweth the Father but the Son, and he to whomsoever the Son will reveal Him,' says with an authority which none but Himself could claim, 'Your heavenly Father knoweth that ye have need of all these things.'",
+            "Will not that suffice you, O ye needy ones of the household of faith?"
+        ],
+        "John Calvin": [
+            "For all those things the Gentiles seek...they have made little proficiency, and have not yet learned the first lessons of godliness.\" ",
+            "By this comparison he intimates, that they...expect their food with quietness and composure.\" ",
+            "All those persons who are so anxious about food, give no more honor, than unbelievers do, to the fatherly goodness and secret providence of God."
+        ],
+        "Philip Schaff": [
+            "The first object is supreme. This positive command is needed, for we can avoid such anxious thought, only when we have some better object.",
+            "Supreme dedication to a Personal Object of trust and desire, who is our Father for Christ\u2019s sake, is here commanded.",
+            "To ask for them unconditionally, or to allow them to crowd out spiritual desires and affections, is certainly forbidden."
+        ],
+        "John Gill": [
+            "The greater part of them thought, that the soul perished with the body; few of them thought, that anything remained after death; and they that did, spoke very doubtfully of it.",
+            "For the Jews, and so Christians, who have a divine revelation, the knowledge of God, and his providence, and of a future state after this life, to act the same part the Heathens do, is exceedingly unbecoming, absurd, and wicked.",
+            "He is a 'father', and will take care of his children; 'their father'; they have interest in him, being related to him, and need not doubt of his paternal care, and affectionate regard to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For your heavenly Father knows that you need all these things. This verse reminds us that the heathen pursue present objects as their chief and only good, lacking knowledge of anything beyond the present life. However, as God's children, we can trust that our heavenly Father knows our every need. We are commanded to have supreme dedication to a Personal Object of trust and desire, who is our Father for Christ's sake. Let us not allow our pursuit of worldly desires to crowd out our spiritual desires and affections, for that is not fitting for those who have the knowledge of God's providence and a future state after this life. Our Father is a loving and caring parent, and we can have full confidence in His fatherly care and affectionate regard for us.",
+            "wordCount": 136,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.6590198993195484,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                33.18,
+                42.19,
+                24.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For your heavenly Father knows that you need all these things. The heathen pursue present objects as their chief and only good, lacking knowledge beyond the present life. However, as God's children, we can trust that our heavenly Father knows our every need. We are commanded to have supreme dedication to a Personal Object of trust and desire, our Father for Christ's sake. Let us not allow our pursuit of worldly desires to crowd out our spiritual desires and affections, for that is not fitting for those who have the knowledge of God's providence and a future state after this life.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.6951984417649921,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.71,
+            "commentatorTierSimilarities": [
+                34.76,
+                41.77,
+                23.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Your heavenly Father knows that you need all these things. Unlike the heathen who only seek present objects as their sole good, we, as God's children, can find comfort in the knowledge that our Father knows our every need. We are called to have unwavering devotion to our Father and place our trust in Him above all else. Let us not allow the pursuit of material wealth to overshadow our spiritual affections and desires, for it is unbecoming and against the teachings of God's providence and the promise of a future after this life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.6554304729474842,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                35.42,
+                37.75,
+                26.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For your heavenly Father knows that you need all these things. The heathen seek present objects as their sole good, ignorant of anything beyond this life. Yet, as God's children, we can find peace in knowing that our Father is fully aware of our needs. Our devotion should be unwavering, placing our trust in our Father above all else. We should not allow worldly pursuits to overshadow our spiritual desires and affections, for it is unfitting for those who possess the knowledge of God's providence and the promise of a future beyond this life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.558665594243859,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                35.33,
+                39.28,
+                25.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For your heavenly Father knows that you need all these things. The heathen pursue present objects as their sole good, having no knowledge of anything beyond this life. However, as God's children, we can take comfort in the assurance that our Father is fully aware of our needs. We are called to have unwavering devotion to our Father and place our trust in Him above all else. Let us not be consumed by worldly desires, neglecting our spiritual pursuits, for such behavior is unbecoming for those who have knowledge of God's providence and the promise of a future after this life.",
+            "wordCount": 103,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 1.5885059032949789,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+            "commentatorTierSimilarities": [
+                36.41,
+                36.91,
+                26.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:51:42",
+    "verseRef": "Matthew 23:26",
+    "bestBHT": {
+        "bht": "In this passage, Jesus confronts the Pharisees, urging them to prioritize inner purity over external appearances. He instructs them to cleanse the inner part of the cup and platter first, so that the outside may also be clean. This emphasizes the importance of the inner self being subject to Christ. While outward morality is crucial, it naturally follows from a purified heart. External displays of holiness without internal grace hold no value in God's eyes. True cleanliness begins with a focus on inward purity.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.6058145936504606,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+        "commentatorTierSimilarities": [
+            35.16,
+            36.88,
+            27.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.\" ",
+            "He to whom belongs the outer life, and of right demands its subjection to Himself, is the inner man less His?\" ",
+            "Rather give alms of such things as ye have, and behold, all things are clean unto you."
+        ],
+        "Albert Barnes": [
+            "Cleanse first that which is within the cup and the platter - Let them be filled with the fruits of honest industry, and then the outside and the inside will be really 'clean.'",
+            "By this allusion to the cup and platter he taught them that it was necessary to cleanse the heart first, that the external conduct might be really pure and holy."
+        ],
+        "Philip Schaff": [
+            "\u2018Blind,\u2019 failing to see that the great matter should come first.",
+            "Begin with inward purity.",
+            "Outward morality is very important, but it naturally follows purity of heart."
+        ],
+        "John Gill": [
+            "Cleanse first that which is within the cup and platter, that the outside of them may be clean also.",
+            "The great concern of all men should be, inward purity.",
+            "An external reformation, or an outward show of holiness, and bare pretensions to it, without internal grace, will never be of any avail in the sight of God."
+        ],
+        "John Wesley": [
+            "Ye build the tombs of the prophets \u2014 And that is all, for ye neither observe their sayings, nor imitate their actions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 23:26, Jesus rebukes the Pharisees, saying, Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also. This statement emphasizes the importance of inner purity over outer appearances. True cleanliness begins with the heart, for the inner man should be subject to Christ just as the outer life is. Outward morality is significant, but it naturally follows the purity of the heart. In order to truly be clean, one must first focus on inward purity, as an external display of holiness without internal grace deceives no one, especially God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.877486869467085,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                36.02,
+                35.6,
+                28.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus admonishes the Pharisees, urging them to prioritize cleansing the inner self over outward appearances. He emphasizes that the inner man should be subject to Christ, just as the outer life is. While external morality is important, it follows the purity of the heart. Inward purity should be the primary concern, as external displays of holiness without internal grace hold no weight in God's sight. The focus should be on true cleanliness, beginning from within.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5677375689107738,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                36.54,
+                35.46,
+                28.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' rebuke to the Pharisees in Matthew 23:26 highlights the importance of inner purity over external appearances. He instructs them to cleanse the inner part of the cup and platter first, so that the outside may also be clean. This illustrates how the inner man should be submitted to Christ. While outward morality is significant, it naturally follows from a purified heart. External displays of holiness without internal grace hold no value in God's eyes. True cleanliness begins with an emphasis on inward purity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.570667954461857,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                34.88,
+                36.31,
+                28.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Jesus confronts the Pharisees, urging them to prioritize inner purity over external appearances. He instructs them to cleanse the inner part of the cup and platter first, so that the outside may also be clean. This emphasizes the importance of the inner self being subject to Christ. While outward morality is crucial, it naturally follows from a purified heart. External displays of holiness without internal grace hold no value in God's eyes. True cleanliness begins with a focus on inward purity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.6058145936504606,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                35.16,
+                36.88,
+                27.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 23:26, Jesus' rebuke to the Pharisees highlights the need for inner purity over external appearances. He urges them to cleanse the inner part of the cup and platter first, so that the outside may also be clean. This emphasizes the importance of the inner self being subject to Christ. While outward morality is significant, it naturally follows from a purified heart. External displays of holiness without internal grace hold no value in God's eyes. True cleanliness begins with focusing on inward purity as a priority.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.561371244123559,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.26,
+            "commentatorTierSimilarities": [
+                35.28,
+                36.76,
+                27.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

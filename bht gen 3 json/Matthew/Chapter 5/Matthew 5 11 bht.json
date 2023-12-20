@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:43:41",
+    "verseRef": "Matthew 5:11",
+    "bestBHT": {
+        "bht": "Jesus addresses his disciples in specific, identifying himself with righteousness. He assures them that they are blessed when falsely reviled and persecuted for his sake. The slander they endure will be untrue, and they should bear it patiently, imitating Jesus' example. Although the world's contempt is not desirable, it is a blessing for Christians to endure it, displaying their strength through the consciousness of innocence.",
+        "wordCount": 66,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.867575939488871,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+        "commentatorTierSimilarities": [
+            34.03,
+            36.54,
+            29.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With the preceding verse the beatitudes end, in their general reference.",
+            "In this our Lord addresses His disciples particularly.",
+            "The actions described in this verse are the expansion of persecuted in the last."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Blessed are ye when men shall revile you... and persecute you... falsely, for my sake\u2014Observe this. He had before said, 'for righteousness' sake.' Here He identifies Himself and His cause with that of righteousness, binding up the cause of righteousness in the world with the reception of Himself.",
+            "Would Moses, or David, or Isaiah, or Paul have so expressed themselves? Never. Doubtless they suffered for righteousness' sake. But to have called this 'their sake,' would... have been very unbecoming.",
+            "He that speaks, being Righteousness incarnate... when He so speaks, speaks only like Himself."
+        ],
+        "Albert Barnes": [
+            "But, being reviled, he reviled not again... and thus, though the contempt of the world is not in itself desirable, yet it is blessed to tread in the footsteps of Jesus, to imitate his example, and even to suffer for his sake.\" ",
+            "It is not blessed to have evil spoken of us if we deserve it; but if we deserve it not, then we should not consider it as a calamity. We should take it patiently, and show how much the Christian, under the consciousness of innocence, can bear.",
+            "When thus reviled or persecuted, we are to be meek, patient, humble; not angry; not reviling again; but endeavoring to do good to our persecutors and slanderers."
+        ],
+        "John Calvin": [
+            "By these words Christ intended to comfort those who believe in him; that they may not lose courage, even though they see themselves to be detestable in the eyes of the world.",
+            "It was therefore his will to furnish them with a sure defense, that they might not give way, though an immense mass of reproaches were ready to overwhelm them.",
+            "And hence it appears, how little reason there is to dread the excommunication of the Pope, when those tyrants banish us from their synagogues, because we are unwilling to renounce Christ."
+        ],
+        "Philip Schaff": [
+            "The first revilers and persecutors were the unbelieving Jews, here referred to indefinitely.",
+            "Falsely, literally, \u2018lying\u2019(agreeing with \u2018men\u2019).",
+            "The promised trouble for Christ\u2019s sake comes as a part of the promised blessing for Christ\u2019s sake."
+        ],
+        "Archibald T. Robertson": [
+            "The bad things said of Christ's followers shall be untrue and that they are slandered for Christ's sake.",
+            "Both things must be true before one can wear a martyr's crown and receive the great reward in heaven.",
+            "No prize awaits one there who deserves all the evil said of him and done to him here."
+        ],
+        "John Gill": [
+            "Men should 'revile' them, speak very reproachfully of them, brand them with infamy, and load them with disgrace.",
+            "There was not a word of truth in them; wherefore their own hearts would not reproach them; but all were the malicious lies of men, invented on purpose to bring them and Christianity into disgrace.",
+            "The treatment they meet with is on his account, and the same that he himself met with; the like reproaches fell on him, which will be all wiped off from him and them another day; when they will appear to be the blessed persons, and their revilers and persecutors the unhappy ones."
+        ],
+        "John Wesley": [
+            "Revile \u2014 When present: say all evil - When you are absent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus says, Blessed are you when people revile you and persecute you falsely for my sake, he is not only speaking generally, but specifically addressing his disciples. He identifies himself and his cause with righteousness, emphasizing the connection between his followers' reception and himself. The things said against them will be untrue and slanderous, and both conditions must be met in order to receive the reward in heaven. Therefore, even though being reviled is not desirable, it is blessed to imitate Jesus' patient and meek response, bearing the reproaches and showing the world the strength of a Christian under the consciousness of innocence.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8817983952632529,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                37.48,
+                33.38,
+                29.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus addresses his disciples in Matthew 5:11, identifying himself and his cause with righteousness. He emphasizes that his followers will be blessed when people revile and persecute them falsely for his sake. The treatment they receive will be slanderous and untrue, but they are to bear it patiently and meekly, imitating Jesus' example. While the world's contempt is not desirable, it is a blessing to endure it for the sake of Christ. Through the consciousness of innocence, Christians can show the world their strength.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8474509689033105,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                34.61,
+                36.07,
+                29.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus addresses his disciples in specific, identifying himself with righteousness. He assures them that they are blessed when falsely reviled and persecuted for his sake. The slander they endure will be untrue, and they should bear it patiently, imitating Jesus' example. Although the world's contempt is not desirable, it is a blessing for Christians to endure it, displaying their strength through the consciousness of innocence.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.867575939488871,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                34.03,
+                36.54,
+                29.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus assures his disciples that they are blessed when they are reviled and persecuted falsely for his sake. He identifies himself and his cause with righteousness, emphasizing the connection between their reception and himself. The slander they endure will be untrue, invented solely to bring them and Christianity into disgrace. Although the world's contempt is not desirable, it is a blessing for Christians to endure it, displaying their strength through the consciousness of innocence.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.8588134324466978,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                33.26,
+                34.7,
+                32.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus assures his disciples that they are blessed when they are reviled and persecuted falsely for his sake. He identifies himself with righteousness, binding up its cause with the reception of himself. The slander they endure will be untrue, invented to bring them and Christianity into disgrace. It is a blessing to endure the contempt of the world, imitating Jesus' example of meekness and patience. Through their consciousness of innocence, Christians can show the world their strength and bear the reproaches with grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8400418477172118,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                34.4,
+                35.2,
+                30.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

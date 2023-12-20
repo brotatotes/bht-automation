@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:47:23",
+    "verseRef": "Matthew 13:9",
+    "bestBHT": {
+        "bht": "He that hath ears let him hear... Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. He makes a distinction among hearers, pronouncing some to have ears and others to be deaf. Scripture testifies that it is the Lord who pierces the ears, not by one's own industry. Let those who have ears provided to hear, seriously consider the use and importance of this parable and desire to understand what is said.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.8081519627950184,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+        "commentatorTierSimilarities": [
+            36.7,
+            22.63,
+            40.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] is common to all three Evangelists (Mark and Luke insert \u201cto hear\u201d)."
+        ],
+        "John Calvin": [
+            "He that hath ears to hear, let him hear.\" ",
+            "Indeed, he makes a distinction among the hearers, by pronouncing some to have ears, and others to be deaf.",
+            "Scripture testifies in other passages, that it is the Lord who pierces the ears, (Psalms 40:7,)and that no man obtains or accomplishes this by his own industry."
+        ],
+        "Philip Schaff": [
+            "He that hath, etc. Comp. chap. Matthew 11:15. A peculiarly appropriate ending to a parable.",
+            "It here refers to the understanding of the parable; the parable itself, as our Lord shows, signified the outward hearing.",
+            "The former would in this case imply the latter."
+        ],
+        "Archibald T. Robertson": [
+            "He that hath ears let him hear... It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and to understand his sayings.",
+            "They will bear the closest thought and are often enigmatical.",
+            "It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and to understand his sayings, especially his parables."
+        ],
+        "John Gill": [
+            "He that has ears given him to hear, so as to understand, let him make use of them, and seriously consider of, and diligently attend to the use and importance of this parable.",
+            "It is a way of speaking used by Christ, when anything of moment was delivered, and not so easy to be understood, on purpose to quicken the attention of his auditors, and stir up in them a desire of understanding what was said.",
+            "Which effect this had upon his disciples; see Mark 4:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He that hath ears let him hear... It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. Indeed, he makes a distinction among the hearers, by pronouncing some to have ears and others to be deaf. Scripture testifies in other passages, that it is the Lord who pierces the ears and that no man obtains or accomplishes this by his own industry. He that has ears given him to hear, so as to understand, let him make use of them and seriously consider the use and importance of this parable. It is a way of speaking used by Christ when anything of moment was delivered, and not so easy to be understood, on purpose to quicken the attention of his auditors and stir up in them a desire to understand what was said.",
+            "wordCount": 158,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.828740427622396,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                36.07,
+                22.43,
+                41.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He that hath ears let him hear... It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. Indeed, he makes a distinction among the hearers, by pronouncing some to have ears and others to be deaf. Scripture testifies in other passages, that it is the Lord who pierces the ears and that no man obtains or accomplishes this by his own industry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.7895394918209102,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                38.03,
+                21.3,
+                40.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He that hath ears let him hear... It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. Indeed, he makes a distinction among the hearers, by pronouncing some to have ears and others to be deaf. Scripture testifies in other passages, that it is the Lord who pierces the ears and that no man obtains or accomplishes this by his own industry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.7895394918209102,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                38.03,
+                21.3,
+                40.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He that hath ears let him hear... It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. Indeed, he makes a distinction among the hearers, by pronouncing some to have ears and others to be deaf. Scripture testifies in other passages, that it is the Lord who pierces the ears and that no man obtains or accomplishes this by his own industry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.7895394918209102,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                38.03,
+                21.3,
+                40.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He that hath ears let him hear... Jesus had to exhort people to listen and understand his sayings, especially his parables. They will bear the closest thought and are often enigmatical. He makes a distinction among hearers, pronouncing some to have ears and others to be deaf. Scripture testifies that it is the Lord who pierces the ears, not by one's own industry. Let those who have ears provided to hear, seriously consider the use and importance of this parable and desire to understand what is said.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8081519627950184,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                36.7,
+                22.63,
+                40.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

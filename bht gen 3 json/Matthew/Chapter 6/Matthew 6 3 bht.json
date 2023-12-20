@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:08",
+    "verseRef": "Matthew 6:3",
+    "bestBHT": {
+        "bht": "When giving alms, it is important not to seek recognition or to boast about our actions. The emphasis is on secrecy, with even the left hand being unaware of the right hand's deeds. This encourages humility and discourages spiritual pride. By being satisfied with God as our sole witness and serving Him with a pure conscience, we can avoid being distracted by vain thoughts and seeking the approval of others. Keeping our acts of generosity private allows us to genuinely please God without any ulterior motives.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.3825029589055067,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+        "commentatorTierSimilarities": [
+            35.04,
+            28.45,
+            36.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is another popular saying, not to be pressed so as to require a literal interpretation of it.",
+            "Equally out of place are all attempts to explain the right and left hand symbolically.",
+            "After all your endeavour to avoid worldly cares, you will find quite enough and more of them when tomorrow comes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But when thou doest alms, let not thy left hand know what thy right hand doeth\u2014So far from making a display of it...\" ",
+            "dwell not on it even in thine own thoughts, lest it minister to spiritual pride.",
+            "...lest it minister to spiritual pride."
+        ],
+        "John Calvin": [
+            "We ought to be satisfied with having God for our only witness...",
+            "To be so earnestly desirous to obey him, that we shall not be carried away by any vanity.",
+            "That we should not be distracted by indirect thoughts, but go straight to this object, that we may serve God with a pure conscience."
+        ],
+        "Philip Schaff": [
+            "The verse is a figurative command to \u2018complete modesty, secret, noiseless giving\u2019.\" ",
+            "It is not necessary to find symbolical meanings in the expressions: left hand right hand.\" ",
+            "Chrysostom."
+        ],
+        "John Gill": [
+            "Do it so privately, and with so much secrecy, that, if it was possible, thou mightest not know it thyself, much less make it known to others.",
+            "Let not thy left hand know what thy right hand doth; acquaint not thy nearest and dearest friend with it; let not one that sits at thy left hand know what thou art doing with thy right hand.",
+            "It is a Jewish canon that 'he that gives a gift to his friend out of love, may make it known, but not if it be by way of alms'."
+        ],
+        "John Wesley": [
+            "Let not thy left hand know what thy right hand doth \u2014 A proverbial expression for doing a thing secretly.",
+            "Do it as secretly as is consistent, with the doing it at all.",
+            "Do it as secretly as is consistent, with the doing it in the most effectual manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When giving alms, it is important not to seek recognition or to boast about our actions. The verse instructs us to give so discreetly that even our left hand should be unaware of the actions of our right hand. This emphasis on secrecy serves as a reminder to be humble in our giving and to avoid spiritual pride. We should be satisfied with God as our only witness and strive to serve Him with a pure conscience. By keeping our acts of generosity private, we can cultivate a genuine desire to please God without being distracted by vain thoughts or seeking the approval of others.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.452041404567587,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.62,
+            "commentatorTierSimilarities": [
+                34.15,
+                27.78,
+                38.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When giving alms, it is important not to seek recognition or to boast about our actions. The emphasis is on secrecy, with even the left hand being unaware of the right hand's deeds. This encourages humility and discourages spiritual pride. By being satisfied with God as our sole witness and serving Him with a pure conscience, we can avoid being distracted by vain thoughts and seeking the approval of others. Keeping our acts of generosity private allows us to genuinely please God without any ulterior motives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.3825029589055067,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+            "commentatorTierSimilarities": [
+                35.04,
+                28.45,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When giving alms, it is crucial not to seek recognition or boast about our actions. The focus here is on secrecy, ensuring even our left hand remains unaware of our right hand's deeds. This instruction serves as a lesson in humility, cautioning against spiritual pride. By finding contentment in God as our only witness and serving Him with a pure conscience, we can avoid distractions and the desire for approval from others. Keeping our acts of generosity private helps us genuinely please God without any ulterior motives.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.3407818535304283,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "commentatorTierSimilarities": [
+                35.76,
+                28.33,
+                35.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When giving alms, it is important not to seek recognition or boast about our actions. The focus is on secrecy, not even letting our left hand know what our right hand does. This teaches us to be humble and avoid spiritual pride. We should be satisfied with God as our only witness and serve Him with a pure conscience, without seeking approval from others. By keeping our acts of generosity private, we can genuinely please God without any hidden motives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.3595515255279134,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.55,
+            "commentatorTierSimilarities": [
+                34.46,
+                26.42,
+                39.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When giving alms, it is crucial not to seek recognition or boast about our actions. The focus is on secrecy, not even letting our left hand know what our right hand does. This teaches us to be humble and avoid spiritual pride. We should be satisfied with God as our only witness and serve Him with a pure conscience, without seeking approval from others. By keeping our acts of generosity private, we can genuinely please God without any hidden motives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.3545653342062094,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
+            "commentatorTierSimilarities": [
+                34.6,
+                26.52,
+                38.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

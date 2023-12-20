@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:42:46",
+    "verseRef": "Matthew 2:13",
+    "bestBHT": {
+        "bht": "Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King. The very land that was once a place of bondage for the Jews has now become their land of safety, an unexpected work of God that surpasses all worldly wisdom. Joseph's faith in God's protection allowed him to remain calm during his time in Egypt, knowing that God was his guardian. This emphasizes the divine nature and purpose of Jesus, who was not yet ready to fulfill his ultimate mission.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.7730645252688637,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+        "commentatorTierSimilarities": [
+            32.94,
+            27.78,
+            39.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The command was immediate; and Joseph made no delay.",
+            "Egypt, as near, as a Roman province and independent of Herod, and much inhabited by Jews, was an easy and convenient refuge.",
+            "Egypt, as near, as a Roman province and independent of Herod, and much inhabited by Jews, was an easy and convenient refuge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Observe this form of expression, repeated in [...] another indirect hint that Joseph was no more than the Child's guardian.",
+            "Ah! blessed Saviour, on what a checkered career hast Thou entered here below! At Thy birth there was no room for Thee in the inn; and now all Judea is too hot for Thee.",
+            "But Egypt was a house of refuge before it was a house of bondage, and now it has but returned to its first use."
+        ],
+        "Albert Barnes": [
+            "Egypt is situated to the southwest of Judea, and is distant from Bethlehem perhaps about 60 miles.",
+            "For a description of Egypt, see the notes at Isaiah 19:0.",
+            "The very land which was the land of bondage and groaning for the Jews, became now the land of refuge and safety for the new-born King of Judea."
+        ],
+        "John Calvin": [
+            "We are here taught, that God has more than one way of preserving his own people... let us permit him to advance our salvation by a diversity of methods; and let us not refuse to be humbled, that he may more abundantly display his glory.",
+            "This flight is a part of the foolishness of the cross, but it surpasses all the wisdom of the world. That he may appear at his own time as the Savior of Judea, he is compelled to flee from it, and is nourished by Egypt, from which nothing but what was destructive to the Church of God had ever proceeded. Who would not have regarded with amazement such an unexpected work of God?",
+            "Joseph needed to be thus strengthened, so as to conclude with certainty, that God would not only conduct him in the journey, but that, during his banishment, God would be his constant protector... [so] he enjoyed serenity of mind during his sojourn in Egypt."
+        ],
+        "Philip Schaff": [
+            "The Magi may have communicated their suspicions or revelation (Matthew 2:12) to Joseph, to whom as the head of the family the present revelation is made, in a dream, again.",
+            "Egypt, \u2018as near, as a Roman province and independent of Herod, and much inhabited by Jews, was an easy and convenient refuge\u2019 (Alford). In Alexandria, its chief city, the Old Testament had been translated into Greek, and there the Jewish and Greek religions and systems of thought were brought into contact, resulting in the philosophy of Philo and his followers.",
+            "Until I tell thee, or, say to thee (what thou shalt do) / Will seek, more exactly, \u2018is about to seek.'"
+        ],
+        "John Gill": [
+            "The child is also mentioned before the mother, not only because of his divine nature and office, in respect to which he was her God and Saviour; but because it was the preservation of the child that was chiefly regarded, and for which the providence of God was particularly concerned.\" ",
+            "Hence it appears to be lawful to flee from danger, from tyrants and persecutors, when the providence of God opens a way for escape.",
+            "For though he was born to die for the sins of his people, his time was not yet come; he was to grow up to years of maturity, he was to be a preacher of the Gospel, to do many miracles and at last to lay down his life of himself, voluntarily, and not to be taken away from him without his knowledge and will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After hearing the command, Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King. It is remarkable how the very land that was once a place of bondage for the Jews has now become their land of safety. This unexpected work of God, in which the Savior of Judea is compelled to flee from it, surpasses all worldly wisdom. Joseph's faith in God's constant protection allowed him to remain calm during his time in Egypt, knowing that God was his guardian. This demonstrates that sometimes God preserves His people in ways we cannot anticipate or understand. Moreover, the emphasis on the child's preservation highlights the divine nature and purpose of Jesus, who was not yet ready to fulfill his ultimate mission. Hence, it is lawful to flee from danger and seek refuge when God opens a way for escape.",
+            "wordCount": 151,
+            "quoteTokenProportion": 37.62,
+            "qualityScore": 1.593217754962509,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                29.62,
+                25.95,
+                44.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King. The very land that was once a place of bondage for the Jews has now become their land of safety, an unexpected work of God that surpasses all worldly wisdom. Joseph's faith in God's protection allowed him to remain calm during his time in Egypt, knowing that God was his guardian. This emphasizes the divine nature and purpose of Jesus, who was not yet ready to fulfill his ultimate mission.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7730645252688637,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                32.94,
+                27.78,
+                39.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King, as suggested by the commentators. The land that was once a place of bondage for the Jews now became their place of safety. Joseph's faith in God's protection allowed him to remain calm during his time in Egypt, knowing that God was his constant protector. This highlights the divine nature and purpose of Jesus, who was not yet ready to fulfill his ultimate mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.749073741714607,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                35.24,
+                28.19,
+                36.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King. The very land that was once a place of bondage for the Jews has now become their land of safety, surpassing all worldly wisdom. Joseph's faith in God's protection allowed him to remain calm during his time in Egypt, knowing that God was his guardian. This emphasizes the divine nature and purpose of Jesus, who was not yet ready to fulfill his ultimate mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7415518374548593,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                33.69,
+                28.24,
+                38.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph wasted no time and immediately fled to Egypt, a nearby and convenient refuge for the new-born King. The land he sought shelter in, once a place of bondage for the Jews in the past, has now become a land of safety and protection. Joseph's faith in God's constant protection allowed him to remain calm during his stay in Egypt. This highlights the divine nature and purpose of Jesus, as he was not yet ready to fulfill his ultimate mission.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.730154635481962,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                35.02,
+                28.4,
+                36.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

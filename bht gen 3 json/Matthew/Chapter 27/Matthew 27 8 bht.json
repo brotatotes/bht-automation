@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:54:03",
+    "verseRef": "Matthew 27:8",
+    "bestBHT": {
+        "bht": "The field that became known as the field of blood, or Aceldama, derived its name from the fact that it was purchased with blood money. Initially acquired to serve as a burial place for strangers, particularly Jews who died in Jerusalem, it retained this purpose until the time Matthew wrote his account. The field's name served as an enduring reminder of the once little-known treason. Despite human attempts to hide wickedness, God's providence ultimately brought it to light, forever associating the field with its tainted history.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5698501942473237,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+        "commentatorTierSimilarities": [
+            26.52,
+            33.52,
+            39.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The field of blood\u2014Aceldama. See Acts i. 19.\" (quote 1)",
+            "Unto this day.\" (quote 2)",
+            "This expression shows that a considerable time had elapsed since the event, before St. Matthew\u2019s Gospel was published.\" (quote 3)"
+        ],
+        "Albert Barnes": [
+            "The field of blood - The field purchased by the price of blood.",
+            "It is now used as a burying-place by the Armenian Christians in Jerusalem.",
+            "To this day - That is, to the day when Matthew wrote this gospel, about 30 years after the field was purchased."
+        ],
+        "John Calvin": [
+            "The more that wicked men endeavor to conceal their enormities, the more does the Lord watch over them to bring those enormities to light.",
+            "But the wonderful providence of God turns this arrangement to an opposite result, so that this field became a perpetual memorial of that treason, which had formerly been little known.",
+            "It was a plausible design to provide a burying-place for strangers, if any of those who came up to Jerusalem from distant countries, for the purpose of sacrificing, should happen to die there."
+        ],
+        "Philip Schaff": [
+            "The stain of the blood money remained in the name.",
+            "Until the present century it was used as a burial place.",
+            "Unto this day, i.e., when Matthew wrote."
+        ],
+        "Archibald T. Robertson": [
+            "The field of blood (\u03b1\u03b3\u03c1\u03bf\u03c2 \u03b1\u03b9\u03bc\u03b1\u03c4\u03bf\u03c2). This name was attached to it because it was the price of blood and that is not inconsistent with Acts 1:18.\" ",
+            "Today potter's field carries the idea here started of burial place for strangers who have no where else to lie (\u03b5\u03b9\u03c2 \u03c4\u03b1\u03c6\u03b7\u03bd \u03c4\u03bf\u03b9\u03c2 \u03be\u03b5\u03bd\u03bf\u03b9\u03c2), probably at first Jews from elsewhere dying in Jerusalem.\" ",
+            "In Acts 1:19 it is called Aceldama or place of blood (\u03c7\u03c9\u03c1\u03b9\u03bf\u03bd \u03b1\u03b9\u03bc\u03b1\u03c4\u03bf\u03c2) for the reason that Judas' blood was shed there, here because it was purchased by blood money. Both reasons could be true."
+        ],
+        "John Gill": [
+            "the field of blood; or 'Aceldama', which so signifies",
+            "not called the field of the priests, the purchasers; nor the field of the strangers, for whom it was bought; but the field of blood",
+            "being purchased with that money, for which innocent blood was betrayed; and this name it bore unto this day"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The field mentioned in the verse has come to be known as the field of blood, or Aceldama, because of its association with bloodshed and the price paid for it. It was used as a burial place for strangers, particularly Jews who died in Jerusalem, and remained so until the time Matthew wrote his gospel. The name serves as a memorial to the treason committed, which had once been little known. Despite the attempts to conceal the wickedness, God's providence exposed the truth and forever marked the field with its stained history.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5749434019629205,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                28.9,
+                33.45,
+                37.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The field mentioned in the passage came to be known as the field of blood, or Aceldama, due to its association with bloodshed and the payment made for it. Used as a burial place for strangers, particularly Jews who died in Jerusalem, it continued in this purpose until the time Matthew wrote his gospel. The field's name serves as a perpetual reminder of the previously little-known treason. Despite efforts to conceal the enormities, God's providence exposed the truth, forever marking the field with its stained history.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5529181126560023,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+            "commentatorTierSimilarities": [
+                27.0,
+                34.46,
+                38.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The field of blood, known as Aceldama, carries its name due to the association with bloodshed and the price paid for it. It served as a burial place for strangers, particularly Jews who died in Jerusalem. Matthew wrote about this field many years later, highlighting the lasting significance of its previous unknown treason. However, despite attempts to conceal wickedness, God's providence revealed the truth, forever marking the field with its stained history.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5138330890680969,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                28.98,
+                34.04,
+                36.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The field that became known as the field of blood, or Aceldama, derived its name from the fact that it was purchased with blood money. Initially acquired to serve as a burial place for strangers, particularly Jews who died in Jerusalem, it retained this purpose until the time Matthew wrote his account. The field's name served as an enduring reminder of the once little-known treason. Despite human attempts to hide wickedness, God's providence ultimately brought it to light, forever associating the field with its tainted history.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5698501942473237,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                26.52,
+                33.52,
+                39.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The field, known as the field of blood or Aceldama, got its name due to the fact that it was bought with blood money. Originally intended as a burial place for strangers, specifically Jews who died in Jerusalem, it continued to be used for this purpose until Matthew wrote about it. The name served as a lasting reminder of the previously little-known act of treason. Despite attempts to conceal wrongdoing, God's providence brought the truth to light, forever marking the field with its stained history.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5678655747382937,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                27.18,
+                32.79,
+                40.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

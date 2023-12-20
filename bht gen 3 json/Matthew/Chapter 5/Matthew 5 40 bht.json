@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:44:08",
+    "verseRef": "Matthew 5:40",
+    "bestBHT": {
+        "bht": "If someone sues you and takes away your undergarment, let them have your outer garment as well. This command from Christ teaches us to be patient and submissive, even in legal disputes. The inner garment, or coat, could be demanded at law, while the outer garment, or cloak, was more valuable and used as a covering for the night. Christians should refrain from seeking vengeance and instead demonstrate patience and a forgiving attitude. Giving up both garments without resistance shows a higher level of concession.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.93,
+        "qualityScore": 1.8738515430461335,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+        "commentatorTierSimilarities": [
+            33.62,
+            36.0,
+            30.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "coat, the inner and less costly garment; cloke, the outer and more valuable, used also by the poor as a coverlet by night",
+            "In Luke vi. 29 the order is inverted, and appears to be that in which the two garments would be taken from the body, that verse referring to abstraction by violence.",
+            "See the apostolic comment on this precept, 1 Cor. vi. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And if any man will sue thee at the law, and take away thy coat... let him have thy cloak also.\" ",
+            "This overcoat was not allowed to be retained overnight as a pledge from the poor because they used it for a bed covering."
+        ],
+        "Marvin Vincent": [
+            "To yield up this without resistance therefore implies a higher degree of concession.",
+            "The former, the shirt - like under - garment or tunic; the latter, the mantle, or ampler over - garment, which served as a covering for the night...",
+            "and therefore was forbidden by the Levitical law to be retained in pledge over night (Exodus 22:26, Exodus 22:27)."
+        ],
+        "John Calvin": [
+            "Christ commands us, even in law-suits, to be so patient and submissive that, when our coat has been taken away, we shall be prepared to give up our cloak also.",
+            "If a man, oppressed by an unjust decision, loses what is his own, and yet is prepared, when it shall be found necessary, to part with the remainder, he deserves not less to be commended for patience than the man who allows himself to be twice robbed before coming into court.",
+            "Hence we conclude, that Christians are not entirely prohibited from engaging in law-suits, provided they have a just defense to offer."
+        ],
+        "Philip Schaff": [
+            "If any man desires to go to law with thee, and (by so doing) to take away thy coat (the inner garment, or tunic), let thy cloak (the more expensive upper garment) also go to him.",
+            "Rather give up even what the law cannot seize than cherish a vindictive spirit.",
+            "Christians ought not to be those \u2018desiring to go to law.\u2019 Such often harbor vengeance while they speak of justice."
+        ],
+        "Archibald T. Robertson": [
+            "The 'coat' is really a sort of shirt or undergarment and would be demanded at law.",
+            "A robber would seize first the outer garment or cloke (one coat).",
+            "If one loses the undergarment at law, the outer one goes also (the more valuable one)."
+        ],
+        "John Gill": [
+            "If a wrangling, quarrelsome man, insists upon having thy coat, or upper garment, let him take the next; and rather suffer thyself to be stripped naked than engage in a litigious broil with him.\" ",
+            "If a man should pull another by his ear, or pluck off his hair, or spit, and his spittle should come to him, 'should take his coat from him', or uncover a woman's head in the street, he shall pay four hundred 'zuzim', and all this is according to his dignity.",
+            "Even the poor in Israel, they consider them as if they were noblemen, who are fallen from their estates, for they are the children of Abraham, Isaac, and Jacob."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If someone sues you and takes away your undergarment, let them have your outer garment as well. The inner garment, known as the coat, was a less costly item and could be demanded at law. However, the outer garment, or cloak, was more valuable and used as a covering for the night. Giving up both garments without resistance shows a higher level of concession. This command from Christ teaches us to be patient and submissive, even in legal disputes, and to refrain from seeking vengeance. It is better to let go of what the law cannot seize than to harbor a vindictive spirit. Christians should strive to avoid engaging in litigation and instead demonstrate patience and a forgiving attitude.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.9455552863047167,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                32.57,
+                40.11,
+                27.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If someone sues you and takes away your undergarment, let them have your outer garment as well. This command from Christ teaches us to be patient and submissive, even in legal disputes. It is better to let go of what the law cannot seize than to harbor a vindictive spirit. Christians should avoid seeking vengeance and instead strive to demonstrate patience and a forgiving attitude. Giving up both garments without resistance shows a higher level of concession.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8283762679549738,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                26.43,
+                44.3,
+                29.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If someone sues you and takes away your undergarment, let them have your outer garment as well. This command from Christ teaches us to be patient and submissive, even in legal disputes. It is better to let go of what the law cannot seize than to harbor a vindictive spirit. Christians should avoid seeking vengeance and instead strive to demonstrate patience and a forgiving attitude. Giving up both garments without resistance shows a higher level of concession.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8283762679549738,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                26.43,
+                44.3,
+                29.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When someone takes you to court and strips you of your undergarment, Christ instructs us to surrender our outer garment as well. This lesson in patience and submission applies to legal disputes. It is better to relinquish what the law cannot seize than to nurture a vengeful mindset. Christians should eschew the inclination to seek revenge and instead endeavor to display forbearance and forgiveness. Yielding both garments without resistance signifies a greater degree of concession.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7388034199986526,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                28.53,
+                43.45,
+                28.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If someone sues you and takes away your undergarment, let them have your outer garment as well. This command from Christ teaches us to be patient and submissive, even in legal disputes. The inner garment, or coat, could be demanded at law, while the outer garment, or cloak, was more valuable and used as a covering for the night. Christians should refrain from seeking vengeance and instead demonstrate patience and a forgiving attitude. Giving up both garments without resistance shows a higher level of concession.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8738515430461335,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                33.62,
+                36.0,
+                30.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

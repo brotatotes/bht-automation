@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:54:54",
+    "verseRef": "Matthew 28:12",
+    "bestBHT": {
+        "bht": "The soldiers must have been regarded with contempt by the Jewish ecclesiastics, who gave them sufficient money to bribe them into inventing a lie. The Jewish authorities were desperate to protect themselves, as the guilt of putting Jesus to death was now at stake. They convened a meeting, possibly the grand sanhedrim, and concluded that the best course of action was to bribe the soldiers, even though they knew the power of bribery. This act of malice and desperation reflects their refusal to be convinced by the undeniable truth of Jesus' resurrection.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.9642543233922427,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+        "commentatorTierSimilarities": [
+            30.63,
+            31.39,
+            37.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "With what contempt must these soldiers have regarded the Jewish ecclesiastics!",
+            "The whole case of the Jewish authorities was now at stake.",
+            "It would need a good deal [of money]."
+        ],
+        "Albert Barnes": [
+            "It was not improbable that Jesus would himself appear, and convince multitudes that he was the Messiah, and that the guilt of putting him to death would, after all their caution and cunning, be charged on them.",
+            "Whatever course they might now adopt, they were obliged to proceed on the admission that he had been really dead, and that all proper measures had been taken to prevent his being stolen.",
+            "They concluded, after consultation, that but one way was left - to bribe the soldiers - to induce them to tell a falsehood - and to attempt to convince the world that Jesus, in spite of themselves, and in the face of all probability, had been really stolen."
+        ],
+        "Marvin Vincent": [
+            "Large money [\u03b1\u03c1\u03b3\u03c5\u03c1\u03b9\u03b1 \u03b9\u03ba\u03b1\u03bd\u03b1] . Lit., sufficient money. Enough to bribe them to invent a lie."
+        ],
+        "Philip Schaff": [
+            "Taken counsel. This was a meeting of the Sanhedrin. Whether public or secret, regular or specially called to meet this emergency, is unknown.",
+            "They, i.e., the chief priests and elders.",
+            "Gave large money. More than they gave Judas. This is the lowest depth of their malice; and a humiliating position."
+        ],
+        "Archibald T. Robertson": [
+            "They gave large money. The use of the plural for pieces of silver is common.\" ",
+            "These pious Sanhedrists knew full well the power of bribes.\" ",
+            "They show not the slightest tendency to be convinced by the facts though one had risen from the dead."
+        ],
+        "John Gill": [
+            "Upon this the grand sanhedrim was convened together, which consisted of the chief priests, Scribes, and elders.",
+            "They agreed upon this, as the best expedient, to bribe the soldiers to give a false account of it, as they did.",
+            "They gave large sums of money, as were enough to satisfy the soldiers; they gave them whatever they would have."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jewish ecclesiastics must have held the soldiers in contempt, as they were willing to bribe these individuals with large sums of money to invent a lie, even though they knew the power of bribery and had already witnessed the miraculous resurrection. The Jewish authorities were desperate to protect their reputation and ensure that the guilt of putting Jesus to death would not be charged against them. They convened a meeting, possibly the grand sanhedrim, and concluded that bribing the soldiers was the best way to convince the world that Jesus had been stolen, despite the undeniable evidence of his resurrection. In their malice and humiliation, they gave the soldiers more money than they had given Judas.",
+            "wordCount": 117,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 2.044290793807591,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                27.16,
+                33.44,
+                39.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jewish ecclesiastics regarded the soldiers with contempt and saw the whole case as at stake. They gave large sums of money to bribe the soldiers, fully aware of the power of bribery. Their desperate attempt to protect their reputation led them to refuse to acknowledge the truth, even in the face of undeniable evidence. The Jewish authorities convened a meeting, possibly the grand sanhedrim, and concluded that bribing the soldiers was the best way to convince the world that Jesus had been stolen. This act of malice and humiliation surpassed even their betrayal of Judas.",
+            "wordCount": 96,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8603361069889015,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                29.88,
+                29.34,
+                40.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers must have been regarded with contempt by the Jewish ecclesiastics, who gave them sufficient money to bribe them into inventing a lie. The Jewish authorities were desperate to protect themselves, as the guilt of putting Jesus to death was now at stake. They convened a meeting, possibly the grand sanhedrim, and concluded that the best course of action was to bribe the soldiers, even though they knew the power of bribery. This act of malice and desperation reflects their refusal to be convinced by the undeniable truth of Jesus' resurrection.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9642543233922427,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                30.63,
+                31.39,
+                37.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The contemptuous regard of the soldiers by the Jewish ecclesiastics is evident in their willingness to give sufficient money as a bribe. With the whole case of the authorities at stake, they convened a meeting, possibly the grand sanhedrim, and concluded that bribing the soldiers was the best course of action. Despite witnessing the undeniable truth of Jesus' resurrection, their malice and desperation led them to refuse to be convinced. This act highlights their determination to protect their reputation at all costs.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.675278551629823,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                29.07,
+                28.84,
+                42.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers were held in contempt by the Jewish ecclesiastics who, aware of the power of bribes, gave them large sums of money. The desperation of the Jewish authorities reached a peak as they sought to protect themselves and their case by bribing the soldiers to invent a lie. Despite the undeniable evidence of Jesus' resurrection, they refused to be convinced. This act of malice showed their determination to avoid bearing the guilt of putting Jesus to death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.732183940115947,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                30.88,
+                31.64,
+                37.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:45:11",
+    "verseRef": "Matthew 8:29",
+    "bestBHT": {
+        "bht": "The demons recognized Jesus as the Son of God and acknowledged His superiority, questioning why He had come to torment them before the appointed time. Their rebellion against God and fear of punishment caused them to tremble in His presence. Although they tried to delay their sentence, they could not escape the authority and power of Christ as Judge. Being expelled and restrained from causing further harm was torment for them. The demons expressed their concern, asking Jesus why He concerned Himself with them before the great day of judgment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.4615865543988953,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.94,
+        "commentatorTierSimilarities": [
+            23.95,
+            40.22,
+            35.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] before the time, is peculiar to this Gospel: Son of God, common to all."
+        ],
+        "John Calvin": [
+            "Thus we see that the devils breathe nothing but rebellion against God; and yet, with all their swelling pride, they are crushed and fall in a moment.",
+            "My view of it is, that they trembled in the presence of their Judge, while they thought of their punishment: for, though Christ said nothing, a bad conscience told them what they deserved.",
+            "The reprobate never reckon that the time for punishing them is fully come: for they would willingly delay it from day to day. Any measure of delay, which the Lord is pleased to allow them, is counted gain; and thus by subterfuges they endeavor to avoid his sentence, though the attempt is to no purpose."
+        ],
+        "Philip Schaff": [
+            "They strangely enough (\u2018behold\u2019) did not assail; even their hostile words confessed the superiority of Jesus.",
+            "What have we to do with thee, lit \u2018What (is) to us and thee,\u2019 what have we in common? The language of the demons, who recognized Him as the son of God.",
+            "Dost thou come hither before the time to torment us?... It is demoniacal to defy and oppose, even when conscious that it is useless!"
+        ],
+        "Archibald T. Robertson": [
+            "The devil knew Jesus clearly and it is not strange that Jesus was recognized by the devil's agents.",
+            "Usually \u03c4\u03b1 \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03b1 is the word in the New Testament for demons, but in Matthew 8:31 we have \u03bf \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b5\u03c2 (the only example in the N.T.).",
+            "The demons are disturbers (Vincent) of the whole life of man."
+        ],
+        "John Gill": [
+            "But he had to do with them, and that was what they dreaded; and therefore mean, that he would let them alone, in the quiet possession of these men, and not disturb and dislodge them.",
+            "Art thou come hither to torment us before the time? This question implies the apprehension the devils had of Christ as a judge, and their sense of his authority, and power, to punish them.",
+            "Nothing could give more torment, pain, and uneasiness, than to be turned out, and remanded to their prison, and restrained from doing more mischief to the bodies and souls of men."
+        ],
+        "John Wesley": [
+            "What have we to do with thee \u2014 This is a Hebrew phrase, which signifies. Why do you concern yourself about us?\" ",
+            "Before the time \u2014 The great day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demons recognized Jesus as the Son of God and acknowledged His superiority, questioning why He had come to torment them before the appointed time. Their rebellion against God and fear of punishment caused them to tremble in His presence. Although they tried to delay their sentence, they could not escape the authority and power of Christ as Judge. Being expelled and restrained from causing further harm was torment for them. The demons expressed their concern, asking Jesus why He concerned Himself with them. However, they could not avoid the impending judgment that awaited them on the great day.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.3338929364260066,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                22.57,
+                40.42,
+                37.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The demons recognized Jesus as the Son of God and acknowledged His superiority, questioning why He had come to torment them before the appointed time. Their rebellion against God and fear of punishment caused them to tremble in His presence. Although they tried to delay their sentence, they could not escape the authority and power of Christ as Judge. Being expelled and restrained from causing further harm was torment for them. The demons expressed their concern, asking Jesus why He concerned Himself with them before the great day of judgment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4615865543988953,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.94,
+            "commentatorTierSimilarities": [
+                23.95,
+                40.22,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demons recognized Jesus as the Son of God and acknowledged His superiority. They questioned why He had come to torment them before the appointed time. Despite their rebellion and attempt to delay their sentence, they could not escape His authority and power as Judge. The demons trembled in fear and expressed their concern, wondering why Jesus concerned Himself with them. However, their torment was inevitable, and they would ultimately face judgment on the great day.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4091248018911195,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "commentatorTierSimilarities": [
+                25.43,
+                40.43,
+                34.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demons recognized Jesus as the Son of God and acknowledged His superiority, asking Him why He had come to torment them before the appointed time. Though they rebelled against God, their fear of punishment caused them to tremble. Despite their attempts to delay the judgment, they could not escape His authority and power. The demons questioned why Jesus concerned Himself with them, but their torment was inevitable. They would ultimately face judgment on the great day.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.4580906420500641,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "commentatorTierSimilarities": [
+                28.26,
+                38.62,
+                33.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The demons recognized Jesus as the Son of God and questioned why He had come to torment them before the appointed time. Despite their rebellion, they trembled in fear and acknowledged His superiority. Though they tried to delay their sentence, they could not escape His authority as Judge. The demons wondered why Jesus concerned Himself with them, but their torment was inevitable. They would ultimately face judgment on the great day, unable to avoid the punishment they deserved.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.4511071635663102,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                25.1,
+                40.01,
+                34.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

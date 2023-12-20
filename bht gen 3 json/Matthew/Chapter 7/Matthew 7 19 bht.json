@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:44:33",
+    "verseRef": "Matthew 7:19",
+    "bestBHT": {
+        "bht": "Every tree that fails to produce good fruit is cut down and thrown into the fire. This emphasizes the importance of fruitfulness in one's faith. Just as a barren tree is useless and used for fuel, preachers and teachers who do not bring the Gospel to the people face a similar fate. They are either removed from the church or cast into the fire of hell. This highlights the severity of their condition and the necessity of leading sinners to God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.0524213443036208,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.34,
+        "commentatorTierSimilarities": [
+            21.26,
+            25.92,
+            52.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "19. Every tree that bringeth not",
+            "\tforth good fruit is hewn down, and cast into the fire\u2014(See on",
+            "\tMatthew 3:10)."
+        ],
+        "Philip Schaff": [
+            "Every tree, irrespective of its kind in this case, that bringeth not forth good fruit, is entirely barren.",
+            "All is here made dependent on the fruitfulness.",
+            "Such trees can only be used for fuel."
+        ],
+        "John Gill": [
+            "Every preacher and teacher that does not bring the Gospel of Christ with him, and plainly and faithfully preach it to the people, sooner or later, is hewn down.",
+            "Such preachers are either cut off from the churches of Christ, or hewn down by death, and cast into the fire.",
+            "Into the fire of hell; into the lake of fire and brimstone, 'where the beast and false prophet shall be'."
+        ],
+        "John Wesley": [
+            "Every tree that bringeth not forth good fruit is hewn down and cast into the fire.\" ",
+            "How dreadful then is the condition of that teacher who hath brought no sinners to God!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every tree that does not produce good fruit is cut down and thrown into the fire. This verse emphasizes the importance of fruitfulness in one's faith. Just as a tree that fails to bear fruit is useless and only fit for fuel, so too are preachers and teachers who do not bring the Gospel of Christ to the people. Such individuals are either cut off from the church or face the ultimate consequence of being thrown into the fire of hell. The severity of the imagery underscores the dire state of those who do not lead sinners to God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.1033351697608709,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.03,
+            "commentatorTierSimilarities": [
+                21.72,
+                26.34,
+                51.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every tree that fails to bring forth good fruit faces the consequence of being cut down and thrown into the fire. This passage emphasizes the vital importance of fruitfulness in one's faith. Just as a barren tree serves no purpose and is only fit for fuel, so too are preachers and teachers who neglect to share the Gospel of Christ with others. Those who do not lead sinners to God will either be severed from the church or face the terrible fate of being cast into the fire of hell.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.1378982896173269,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.18,
+            "commentatorTierSimilarities": [
+                22.19,
+                25.15,
+                52.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every tree that fails to produce good fruit is cut down and thrown into the fire. This emphasizes the importance of fruitfulness in one's faith. Just as a barren tree is useless and used for fuel, preachers and teachers who do not bring the Gospel to the people face a similar fate. They are either removed from the church or cast into the fire of hell. This highlights the severity of their condition and the necessity of leading sinners to God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.0524213443036208,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.34,
+            "commentatorTierSimilarities": [
+                21.26,
+                25.92,
+                52.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every tree that does not produce good fruit is cut down and thrown into the fire. This verse underscores the significance of fruitfulness in one's faith. Just as a barren tree is useless and fit only for fuel, likewise preachers and teachers who neglect to share the Gospel of Christ face dire consequences. They are either expelled from the church or cast into the fire of hell. The gravity of their condition highlights the crucial role of guiding sinners to God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.0595841171942013,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.58,
+            "commentatorTierSimilarities": [
+                23.34,
+                25.33,
+                51.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A tree that doesn't bear good fruit is cut down and thrown into the fire. This emphasizes the importance of fruitfulness in faith. Just as a barren tree is useless and fit for fuel, so are preachers and teachers who don't share the Gospel. They are either expelled from the church or end up in the fires of hell. The severity of their situation highlights the need to bring sinners to God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.0399474803276354,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.92,
+            "commentatorTierSimilarities": [
+                21.79,
+                29.55,
+                48.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

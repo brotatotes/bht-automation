@@ -1,0 +1,54 @@
+{
+    "timestamp": "12-19-2023 23:52:12",
+    "verseRef": "Matthew 24:46",
+    "bestBHT": {
+        "bht": "Blessed is that servant whom his Lord shall find so doing, acting the faithful and wise part, ruling the household of God well. Whether in a way of judgment, at death, or at the day of judgment, the righteous judge will give the crown of righteousness to him.",
+        "wordCount": 48,
+        "quoteTokenProportion": 51.28,
+        "qualityScore": 2.651164199261825,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.49,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Blessed is that servant whom his Lord, when he cometh\" - Whether in a way of judgment, as against Jerusalem; or at death, when he comes to remove him out of time, into eternity; or at the day of judgment.",
+            "shall find so doing\" - Acting the faithful and wise part, ruling the household of God well; giving to all wholesome food, a proper portion of it, and that in the right time.",
+            "the righteous judge will give the crown of righteousness to him\" - At the day of judgment, when he, the righteous judge, will give the crown of righteousness to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is that servant whom his Lord shall find so doing, acting the faithful and wise part, ruling the household of God well. Whether in a way of judgment, at death, or at the day of judgment, the righteous judge will give the crown of righteousness to him.",
+            "wordCount": 48,
+            "quoteTokenProportion": 51.28,
+            "qualityScore": 2.651164199261825,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.49,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

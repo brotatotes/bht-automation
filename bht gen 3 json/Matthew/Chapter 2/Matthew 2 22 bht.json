@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:42:42",
+    "verseRef": "Matthew 2:22",
+    "bestBHT": {
+        "bht": "Warned in a dream, Joseph turned away from Judea and sought refuge in Galilee due to the tyrannical reign of Archelaus. Archelaus, regarded as king, faced heavy complaints from the people and was eventually banished by the emperor. Galilee, under the rule of Herod Antipas, was a safer place for Joseph and his family. The narratives in Matthew's account are not contradictory, but rather complement each other, presenting the circumstances surrounding Joseph's decision.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.9751997377145547,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+        "commentatorTierSimilarities": [
+            27.88,
+            33.54,
+            38.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "very likely the word reign is here used in the wider meaning",
+            "Archelaus did, in the beginning of his reign, give out and regard himself as king",
+            "It is perhaps just possible that St. Matthew, writing for Jews, although well aware of the previous circumstances, may not have given them a place in his history, but made the birth at Bethlehem the prominent point"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The people, indeed, recognized him as his father's successor; and so it is here said that he 'reigned in the room of his father Herod.' But, after ten years' defiance of the Jewish law and cruel tyranny, the people lodged heavy complaints against him, and the emperor banished him to Vienne in Gaul, reducing Judea again to a Roman province. Then the 'scepter' clean 'departed from Judah.'\" ",
+            "he was afraid to go thither\u2014and no wonder, for the reason just mentioned.\" ",
+            "Being warned of God in a dream, he turned aside\u2014withdrew."
+        ],
+        "Albert Barnes": [
+            "Archelaus possessed a cruel and tyrannical disposition similar to his father.\" ",
+            "For his crimes, after he had reigned 9 years, he was banished by Augustus, the Roman emperor, to Gaul, where he died.",
+            "Galilee was under the government of Herod Antipas, who was comparatively a mild prince, and in his dominions Joseph might find safety."
+        ],
+        "Philip Schaff": [
+            "The rendering of the E. V. (\u2018notwithstanding\u2019) has misled many into the notion that Joseph acted contrary to the revelation he received on his return from Egypt, an idea of which there is no trace in the original.",
+            "Warned, even more than in Matthew 2:12, implies a previous inquiry.",
+            "The Galileans, though Jews in religion, were looked down upon by inhabitants of Judea (Jews in the strict sense), probably because provincials, and living more closely allied with the heathen."
+        ],
+        "Archibald T. Robertson": [
+            "Warned in a dream... He was already afraid to go to Judea because Archelaus was reigning... In a fret at last before his death Herod had changed his will again and put Archelaus, the worst of his living sons, in the place of Antipas.\" ",
+            "So Joseph went to Galilee.\" ",
+            "The two narratives supplement one another and are in no sense contradictory."
+        ],
+        "John Gill": [
+            "Archelaus, the second king of the family of Herod, reigned after his father's death: and a little after he says, Caesar Augustus caused Archelaus to reign \u05ea\u05d7\u05ea \u05d0\u05d1\u05d9\u05d5 \u05d4\u05d5\u05e8\u05d3\u05d5\u05e1 'in the room of Herod his father'; which is the very phrase used by Matthew.",
+            "This man was like his father, a very cruel wicked man...he ordered his troops, and slew at the feast of the passover, in the temple of the Lord, 'nine thousand persons'.",
+            "Being warned of God in a dream...he turned aside into the parts of Galilee; where Herod Antipas, another of Herod's sons, was tetrarch or governor; who was a milder person, and not so cruel and tyrannical as Archelaus."
+        ],
+        "John Wesley": [
+            "He was afraid to go thither \u2014 into Judea; and so turned aside into the region of Galilee - a part of the land of Israel not under the jurisdiction of Archelaus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joseph, being warned of God in a dream, decided to turn aside into the parts of Galilee instead of going to Judea. This decision was perhaps influenced by the reign of Archelaus, who, despite being recognized as his father's successor, had a reputation for cruel tyranny. The people's complaints against Archelaus eventually led to his banishment, and Judea once again became a Roman province. Joseph's fear of going to Judea was justified, given the circumstances. Galilee, on the other hand, was under the rule of Herod Antipas, who was comparatively a milder prince. The two narratives in Matthew's account complement each other and are not contradictory.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.8741884602220673,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                29.04,
+                32.51,
+                38.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Warned in a dream, Joseph turned aside to Galilee instead of going to Judea, where Archelaus reigned. Archelaus, known for his cruel tyranny, had been banished after the people's complaints against him. Galilee, under the rule of Herod Antipas, was a safer place for Joseph and his family. The narratives in Matthew's account complement each other and are not contradictory.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.8876775534842878,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                29.48,
+                32.76,
+                37.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joseph, being warned of God in a dream, turned aside into the parts of Galilee. His hesitation to go to Judea was justified, as Archelaus, who regarded himself as king, had a reputation for cruel tyranny. The people's complaints against Archelaus led to his banishment, and Judea became a Roman province again. Galilee, under the milder rule of Herod Antipas, offered safety for Joseph and his family. The narratives in Matthew's account are not contradictory but rather complement each other.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.871417678815108,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.57,
+            "commentatorTierSimilarities": [
+                29.61,
+                31.63,
+                38.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Warned in a dream, Joseph turned away from Judea and sought refuge in Galilee due to the tyrannical reign of Archelaus. Archelaus, regarded as king, faced heavy complaints from the people and was eventually banished by the emperor. Galilee, under the rule of Herod Antipas, was a safer place for Joseph and his family. The narratives in Matthew's account are not contradictory, but rather complement each other, presenting the circumstances surrounding Joseph's decision.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9751997377145547,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                27.88,
+                33.54,
+                38.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being warned of God in a dream, Joseph turned aside into the parts of Galilee instead of going to Judea. This decision was influenced by the reign of Archelaus, who regarded himself as king and faced heavy complaints from the people. Eventually, Archelaus was banished to Gaul, and Judea became a Roman province again. Galilee, under the rule of Herod Antipas, offered a safer haven for Joseph and his family. The narratives in Matthew's account are not contradictory; rather, they supplement one another, providing a more complete picture of the circumstances.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7848907067116082,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                29.37,
+                30.71,
+                39.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

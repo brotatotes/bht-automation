@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:48:41",
+    "verseRef": "Matthew 15:39",
+    "bestBHT": {
+        "bht": "Jesus arrived at Magadan, a place about which little is known. Some suggest that Magadan may actually be the same location as Magdala or Dalmanutha, both of which were nearby villages. On the eastern side of the Sea of Galilee, these villages were within Galilee again. It is worth noting that Mark refers to it as Dalmanutha. After being in Magadan, Jesus dismissed the people, possibly offering a prayer or exhortation, before continuing on His journey. One possibility is that He then went to Dalmanutha, which may have been another place with the same name.",
+        "wordCount": 95,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 1.3144467430313254,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+        "commentatorTierSimilarities": [
+            33.58,
+            31.48,
+            34.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of Magadan nothing is known.",
+            "Lightfoot, shews Magdala to have been only a Sabbath-day\u2019s journey from Chamnath Gadara on the Jordan, and on the east side of the lake.",
+            "Dalmanutha, mentioned by St. Mark (viii. 10), seems to have been a village in the neighbourhood."
+        ],
+        "Philip Schaff": [
+            "Into the boat. Probably one awaiting Him.",
+            "This was probably a village not far from Magadan.",
+            "The site of Magdala (Magadan), now called Madschel (\u2018Migdol,\u2019 Joshua 19:38), is north of Tiberias and directly east of Cana, on the western shore of the lake, since the next voyage (chap. Matthew 16:5; Mark 8:13) was across the lake to the eastern side."
+        ],
+        "Archibald T. Robertson": [
+            "On the eastern side of the Sea of Galilee and so in Galilee again.",
+            "Perhaps after all the same place as Magdala, as most manuscripts have it.",
+            "Mark terms it Dalmanutha (Mark 8:10)."
+        ],
+        "John Gill": [
+            "Dismissing them, either with a prayer for them, or with a suitable word of exhortation, to be thankful for the mercies, both spiritual and temporal, they had received, and behave agreeably in their lives and conversations.",
+            "The Evangelist Mark says, that he came into the parts of Dalmanutha, which was a place within the coasts of Magdala.",
+            "This was not the place, but another of the same name near Jerusalem, from whence Mary Magdalene may be thought to have her name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, having crossed the Sea of Galilee, arrived at Magadan, a place about which little is known. Some suggest that Magadan may actually be the same location as Magdala or Dalmanutha, both of which were nearby villages. On the eastern side of the Sea of Galilee, these villages were within Galilee again. It is also worth noting that Mark refers to it as Dalmanutha. After being in Magadan, Jesus dismissed the people, possibly offering a prayer or exhortation, before continuing on His journey. One possibility is that He then went to Dalmanutha, which may have been another place with the same name near Jerusalem.",
+            "wordCount": 104,
+            "quoteTokenProportion": 52.11,
+            "qualityScore": 1.384683631224452,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.38,
+            "commentatorTierSimilarities": [
+                32.94,
+                30.7,
+                36.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus arrived at the place called Magadan, located on the eastern side of the Sea of Galilee. It is unclear what Magadan actually refers to, as some suggest it may be the same as Magdala or Dalmanutha, neighboring villages. After being in Magadan, Jesus dismissed the people, possibly with a prayer or exhortation, before continuing on His journey. It is worth noting that Mark refers to the place as Dalmanutha, which may have been another location near Jerusalem.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.4218524581707843,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.62,
+            "commentatorTierSimilarities": [
+                30.22,
+                32.2,
+                37.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus arrived at Magadan, a place about which little is known. Some suggest that Magadan may actually be the same location as Magdala or Dalmanutha, both of which were nearby villages. On the eastern side of the Sea of Galilee, these villages were within Galilee again. It is worth noting that Mark refers to it as Dalmanutha. After being in Magadan, Jesus dismissed the people, possibly offering a prayer or exhortation, before continuing on His journey. One possibility is that He then went to Dalmanutha, which may have been another place with the same name.",
+            "wordCount": 95,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.3144467430313254,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                33.58,
+                31.48,
+                34.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus arrived at Magadan, a place of which little is known. Some suggest it may be the same location as Magdala or Dalmanutha, neighboring villages on the eastern side of the Sea of Galilee in Galilee. Mark refers to it as Dalmanutha. After being in Magadan, Jesus dismissed the people, possibly with a prayer or exhortation, before continuing on His journey. It is possible that He then went to Dalmanutha, although there are differing opinions on its exact location.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3084213091943895,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+            "commentatorTierSimilarities": [
+                33.74,
+                30.17,
+                36.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the feeding of the four thousand, Jesus and His disciples set sail for Magadan, a place about which not much is known. Some speculate that Magadan may have been a Sabbath-day's journey from Chamnath Gadara, while others suggest that Magadan and Dalmanutha were in the same vicinity. It is believed that Magadan was located on the eastern side of the Sea of Galilee, in Galilee itself. Mark refers to this place as Dalmanutha. As they departed, Jesus dismissed the crowd, either with a prayer or words of exhortation. Ultimately, Magadan seems to have been a village near Magdala, north of Tiberias and on the western shore of the lake. Additionally, it is worth noting that Dalmanutha, mentioned in Mark, was likely another place with the same name near Jerusalem.",
+            "wordCount": 132,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.3719323320978776,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.96,
+            "commentatorTierSimilarities": [
+                30.83,
+                31.18,
+                37.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

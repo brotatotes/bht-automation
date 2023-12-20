@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 23:52:40",
+    "verseRef": "Matthew 24:43",
+    "bestBHT": {
+        "bht": "The Lord will come as a thief in the night to both the secure and careless, and as their Lord to His own. The concept of surprise and watchfulness under uncertainty is emphasized. Just as one would be prepared for a thief if they knew the hour, we should be ready for the coming of Christ. This also applies to the hour of death and judgment upon nations. Therefore, we are urged to be equipped for our journey, continually moving towards the heavenly life.",
+        "wordCount": 84,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 1.3379174729474062,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+        "commentatorTierSimilarities": [
+            24.8,
+            46.62,
+            28.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To the secure and careless He will come as a thief in the night: to His own, as their Lord.",
+            "See Obad. 5: Rev. iii. 3; xvi. 15: 1 Thess. v. 1\u201310, where the idea is expanded at length.",
+            "Compare ver. 7 there with our ver. 49, and on the distinction between those who are of the day, and those who are of the night, see notes there."
+        ],
+        "Albert Barnes": [
+            "If a man knew the hour, or 'about the hour,' when a robber would come, he would be ready for him.",
+            "He will come suddenly, as a thief comes, without giving previous warning.",
+            "In which of the four quarters of the night."
+        ],
+        "Marvin Vincent": [
+            "But the present is graphically thrown in as in vv. 40, 41 is coming or cometh.",
+            "Broken through.",
+            "See on Matthew 6:19."
+        ],
+        "John Calvin": [
+            "Christ enjoins the disciples to be ready and equipped for the journey, that they may pass rapidly through the world, and may seek no fixed abode or resting-place but in heaven.",
+            " ",
+            "God does not bestow the honorable title of his children on any but those who acknowledge that they are strangers on the earth, and who not only are at all times prepared to leave it, but likewise move forward, in an uninterrupted 'course,' towards the heavenly life.",
+            " ",
+            "The first recommendation is, to run vigorously; and the next is, to have clear information as to the road, that believers may not weary themselves to no purpose by going astray."
+        ],
+        "Philip Schaff": [
+            "The idea of surprise is the main one, as throughout these verses.",
+            "Watchfulness under uncertainty is constant.",
+            "The figure has a further application to the hour of death, when for the individual the Lord comes; and to great catastrophes of judgment upon nations."
+        ],
+        "Archibald T. Robertson": [
+            "In what watch (\u03c0\u03bf\u03b9\u03b1 \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7). As in Matthew 14:25 (four watches of the night).",
+            "Broken through (\u03b4\u03b9\u03bf\u03c1\u03c5\u03c7\u03b8\u03b7\u03bd\u03b1). Digged through the tile roof or under the floor (dirt in the poorer houses). "
+        ],
+        "John Gill": [
+            "But know this,.... Or you do know this",
+            "The coming of the son of man, is here represented by the coming of the thief in the night",
+            "That so when he comes, their houses may not be broken up"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To those who are secure and careless, the Lord will come unexpectedly as a thief in the night, but to His own, as their Lord. Just as one would be prepared for a robber if they knew the hour of his arrival, so should we be watchful and ready for the coming of Christ. This concept of surprise and watchfulness under uncertainty is emphasized throughout the passage. The figure of a thief in the night also extends to the hour of death and great catastrophes of judgment. Therefore, we are urged to be ready and equipped for our journey, acknowledging that our true home is in heaven and continuously moving forward towards the heavenly life.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.4697536697637934,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.21,
+            "commentatorTierSimilarities": [
+                26.19,
+                43.59,
+                30.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To the secure and careless, the Lord will come as a thief in the night, while to His own, He will come as their Lord. Just as one would be ready for a robber if they knew the hour of his arrival, we are encouraged to be watchful and prepared for the coming of Christ. This idea of surprise and watchfulness under uncertainty is reiterated throughout. The figure of a thief in the night also extends to the hour of death and great catastrophes of judgment upon nations. Therefore, we are reminded to be ready and equipped for our journey, continuously advancing towards the heavenly life.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.4636146236315493,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                24.88,
+                44.99,
+                30.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord will come as a thief in the night to both the secure and careless, and as their Lord to His own. The concept of surprise and watchfulness under uncertainty is emphasized. Just as one would be prepared for a thief if they knew the hour, we should be ready for the coming of Christ. This also applies to the hour of death and judgment upon nations. Therefore, we are urged to be equipped for our journey, continually moving towards the heavenly life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.3379174729474062,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                24.8,
+                46.62,
+                28.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord will come unexpectedly as a thief in the night, catching both the secure and careless off guard. One should be prepared, just as they would for a robber if they knew the hour of his arrival. This idea of surprise and watchfulness under uncertainty is a prevalent theme. The figure of a thief in the night extends to the hour of death and great catastrophes of judgment. Our response should be readiness and continuous progress towards the heavenly life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3997853194886474,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+            "commentatorTierSimilarities": [
+                25.88,
+                49.29,
+                24.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To the secure and careless, the Lord will come as a thief in the night: to His own, as their Lord. We should be watchful and prepared for His coming, just as we would be ready for a robber if we knew the hour of his arrival. The concept of surprise and watchfulness under uncertainty is a recurring theme. This imagery of a thief in the night extends to the hour of death and great catastrophes of judgment upon nations. Therefore, we are encouraged to be ready and equipped for our journey, constantly moving towards the heavenly life.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.4285101624042187,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.84,
+            "commentatorTierSimilarities": [
+                25.58,
+                45.36,
+                29.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

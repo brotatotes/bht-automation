@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:50:31",
+    "verseRef": "Matthew 20:20",
+    "bestBHT": {
+        "bht": "In a moment of misguided ambition, two disciples approached Jesus with a request, possibly inspired by their understanding of his promise to the twelve. Seeking the highest positions of honor, they asked their mother to intercede on their behalf. However, this was far from an opportune time to make such a request, coming right after Jesus had spoken about his impending crucifixion. Perhaps they took Jesus' previous words about sitting on thrones too literally. This narrative serves as a reminder of the dangers of vanity and the importance of remaining steadfast in our devotion to Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.5440205979590376,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+        "commentatorTierSimilarities": [
+            41.13,
+            31.51,
+            27.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This request seems to have arisen from the promise made to the twelve in ch. xix. 28.",
+            "The difference is no greater than is perpetually to be found in narrations of the same fact, persons being often related to have done themselves what, accurately speaking, they did by another.",
+            "Probably the two brethren had directed this request through their mother, because they remembered the rebuke which had followed their former contention about precedence."
+        ],
+        "John Calvin": [
+            "This narrative contains a bright mirror of human vanity; for it shows that proper and holy zeal is often accompanied by ambition, or some other vice of the flesh.",
+            "Nor is it enough that, at the commencement, we sincerely apply our minds to Christ, if we do not stead-lastly maintain the same purity.",
+            "If this happens to two excellent disciples, with what care ought we to walk, if we do not wish to turn aside from the right path!"
+        ],
+        "Philip Schaff": [
+            "Worshipping him, i.e., saluting Him with reverence, as was usual in asking favor of a king.",
+            "Asking somewhat. She asked a favor but did not at once tell what it was, probably because doubtful of the propriety of the request."
+        ],
+        "Archibald T. Robertson": [
+            "Surely an inopportune time for such a request just after the pointed prediction of Christ's crucifixion.",
+            "The 'something' put forward as a small matter was simply the choice of the two chief thrones promised by Jesus.",
+            "perhaps their minds had been preoccupied with the words of Jesus (Matthew 19:28) about their sitting on twelve thrones taking them in a literal sense."
+        ],
+        "John Gill": [
+            "She is not called the wife of Zebedee, who might be now dead, but the mother of his children, his two sons... and the rather, because it was in their name, and on their account, that she came to Jesus.",
+            "...they themselves spoke to him, and addressed him in this manner: 'Master, we would that thou shouldest do for us, whatsoever we shall desire': which was a very odd request, both as to the matter and manner of it...",
+            "These two disciples, having observed what Christ had said concerning the twelve disciples sitting on twelve thrones, judging the twelve tribes of Israel... inform their mother of it, and move to her, to use her interest with Christ, in their favour..."
+        ],
+        "John Wesley": [
+            "Considering what he had been just speaking, was ever anything more unreasonable?",
+            "Perhaps Zebedee himself was dead, or was not a follower of Christ.",
+            "Mark 10:35."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a moment of misguided ambition, two disciples approached Jesus with a request, possibly inspired by their understanding of his promise to the twelve. Seeking the highest positions of honor, they asked their mother to intercede on their behalf. However, this was far from an opportune time to make such a request, coming right after Jesus had spoken about his impending crucifixion. The seemingly small matter they put forward was actually the desire to occupy the two chief thrones promised by Jesus. Perhaps they took Jesus' previous words about sitting on thrones too literally. This narrative serves as a reminder of the dangers of vanity and how we must remain steadfast in our devotion to Christ.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.590798950477154,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+            "commentatorTierSimilarities": [
+                41.87,
+                30.99,
+                27.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a moment of misguided ambition, two disciples approached Jesus with a request, possibly inspired by their understanding of his promise to the twelve. Seeking the highest positions of honor, they asked their mother to intercede on their behalf. However, this was far from an opportune time to make such a request, coming right after Jesus had spoken about his impending crucifixion. Perhaps they took Jesus' previous words about sitting on thrones too literally. This narrative serves as a reminder of the dangers of vanity and the importance of remaining steadfast in our devotion to Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.5440205979590376,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                41.13,
+                31.51,
+                27.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This narrative reflects the human tendency towards vanity, as it shows how even those with sincere zeal can be driven by ambition or other vices. The disciples' request to occupy the highest thrones seems to have been influenced by a literal interpretation of Jesus' promise to the twelve. Their timing was ill-chosen, as it came right after Jesus' prediction of his crucifixion. This account serves as a cautionary reminder for us to be vigilant in our walk with Christ and not succumb to the allure of self-importance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.3220687164891038,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                43.74,
+                20.97,
+                35.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a display of misplaced ambition, two disciples approached Jesus through their mother, possibly due to their previous rivalry over status. Their request for the top thrones revealed their desire for prominence, stemming from Jesus' promise to the twelve. However, the timing was highly inappropriate, coming directly after Jesus' prediction of his own crucifixion. This account serves as a stark reminder of the danger of human vanity and the need for unwavering devotion to Christ in order to stay on the right path.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4653499033989354,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                42.81,
+                24.9,
+                32.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an untimely and ambitious move, two disciples asked Jesus, possibly influenced by his promise to the twelve, for the highest positions of honor. Their request was made through their mother, likely reflecting their concern about the previous rebuke they received over their rivalry. However, the timing was inopportune, given Jesus' recent prediction of his crucifixion. This narrative serves as a cautionary tale on the dangers of vanity and the importance of maintaining unwavering fidelity to Christ to avoid straying from the right path.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3925352013022385,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                43.62,
+                25.15,
+                31.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

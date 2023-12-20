@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:42:56",
+    "verseRef": "Matthew 2:4",
+    "bestBHT": {
+        "bht": "When Herod gathered the Sanhedrin, consisting of the seventy-one members, comprising of priests, Levites, and Israelites, he questioned the chief priests, including the current high priest and his predecessors. Also present were the scribes, who were interpreters of the law and synagogue readers. Herod's intention was to gather all the theologians of the nation to ascertain the prophesied birthplace of the Messiah. The chief priests and scribes, who held knowledge of the Scriptures, were the ones best suited to answer Herod's inquiry.",
+        "wordCount": 85,
+        "quoteTokenProportion": 24.53,
+        "qualityScore": 2.4028426639260756,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.23,
+        "commentatorTierSimilarities": [
+            38.61,
+            27.86,
+            33.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "when he had gathered] i.e. says Lightfoot, he assembled the Sanhedrim.\" ",
+            "For the Sanhedrim consisting of seventy-one members, and comprising Priests, Levites, and Israelites.",
+            "the chief priests are most likely the High Priest and those of his race,\u2014any who had served the office,\u2014and perhaps also the presidents of the twenty-four courses (1 Chron. xxiv. 6)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The class of the 'chief priests' included the high priest for the time being, together with all who had previously filled this office.",
+            "The 'scribes' were at first merely transcribers of the law and synagogue readers; afterwards interpreters of the law, both civil and religious, and so both lawyers and divines.",
+            "It was all the theologians of the nation whom Herod convened, because it was a theological response that he wanted."
+        ],
+        "Albert Barnes": [
+            "By the chief priests and scribes here mentioned is denoted the Sanhedrin or great council of the nation.",
+            "They kept the records of the Courts of justice, the registers of the synagogues, wrote articles of contract and sale, bills of divorce, etc.",
+            "His object was to ascertain from prophecy where he was born, that he might put him to death, and thus calm the anxieties of his own mind."
+        ],
+        "Marvin Vincent": [
+            "A rabbit is quoted as saying that the first temple, which stood about four hundred and ten years, had only eighteen high - priests from first to last; while the second temple, which stood four hundred and twenty years, had more than three hundred high - priests.\" ",
+            "The reference here is not to a meeting of the Sanhedrim, since the elders, who are not mentioned, belonged to this; but to an extraordinary convocation of all the high - priests and learned men.\" ",
+            "Besides the high - priest in actual office, there might be others who had been this predecessors, and who continued to bear the name, and in part the dignity."
+        ],
+        "John Calvin": [
+            "Having assembled the priests...predictions are remembered, which formerly lay in oblivion.",
+            "Herod instantly conjectures, that the King, about whom the Magi inquire, is the Messiah whom God had formerly promised.",
+            "Let us therefore learn, that the chief cause of blindness in the enemies of truth is to be found in their wicked affections, which change light into darkness."
+        ],
+        "Philip Schaff": [
+            "These two classes were the proper ones to answer Herod\u2019s question.",
+            "The scribes knew the letter, but not the spirit of the Scripture.",
+            "The Magi, with less knowledge but more faith, were nearer the truth."
+        ],
+        "Archibald T. Robertson": [
+            "The prophetic present is given, the very words of Herod retained by Matthew's report.",
+            "The imperfect tense suggests that Herod inquired repeatedly, probably of one and another of the leaders gathered together, both Sadducees (chief priests) and Pharisees (scribes).",
+            "Herod was desperately in earnest to learn what the Jews really expected about the coming of 'the Messiah.'"
+        ],
+        "John Gill": [
+            "The chief priests, all of which he gathered together, and which seem to be many; and were not only the then present high priest and his substitutes, but all the principal persons of the priesthood, who were chosen from the rest, into the great sanhedrim, or council.",
+            "And by the scribes of the people are meant a sort of letter learned men, whose business it was to keep and write out copies of the law, and other things, for 'the people.'",
+            "Herod's pretence, no doubt, in putting this question was, that he might be able to satisfy the wise men of the East about this matter; though the true reason within himself was, that he might know where this new born king was, in order to destroy him."
+        ],
+        "John Wesley": [
+            "The chief priests \u2014 That is, not only the high priest and his deputy, with those who formerly had borne that office.\" ",
+            "The scribes were those whose peculiar business it was to explain the Scriptures to the people.",
+            "They were the public preachers, or expounders of the law of Moses. Whence the chief of them were called doctors of the law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Herod gathered the Sanhedrin, consisting of the seventy-one members, comprising of priests, Levites, and Israelites, he questioned the chief priests, including the current high priest and his predecessors. Also present were the scribes, who were interpreters of the law and synagogue readers. Herod's intention was to gather all the theologians of the nation to ascertain the prophesied birthplace of the Messiah and eliminate any threat to his throne. The chief priests and scribes, who held knowledge of the Scriptures, were the ones best suited to answer Herod's inquiry. However, it was the Magi, with less knowledge but more faith, who were closer to the truth than the scribes. Herod's desperate inquiry reveals his fear and desire to suppress any challenges to his reign.",
+            "wordCount": 128,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.1984137161583854,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.44,
+            "commentatorTierSimilarities": [
+                36.42,
+                30.04,
+                33.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Herod gathered the Sanhedrin, consisting of the seventy-one members, comprising of priests, Levites, and Israelites, he questioned the chief priests, including the current high priest and his predecessors. Also present were the scribes, who were interpreters of the law and synagogue readers. Herod's intention was to gather all the theologians of the nation to ascertain the prophesied birthplace of the Messiah. The chief priests and scribes, who held knowledge of the Scriptures, were the ones best suited to answer Herod's inquiry.",
+            "wordCount": 85,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 2.4028426639260756,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.23,
+            "commentatorTierSimilarities": [
+                38.61,
+                27.86,
+                33.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Herod gathered the Sanhedrin, consisting of the seventy-one members, including priests, Levites, and Israelites, he sought answers from the chief priests and scribes. The chief priests encompassed the high priest, his predecessors, and other dignitaries. The scribes, on the other hand, were interpreters of the law, both civil and religious. Herod's relentless inquiry indicated his desperation to uncover the truth about the anticipated arrival of the Messiah, seeking answers from the theologians of the nation. Their responses carried significant weight in determining the course of action Herod would take.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.0555761623181557,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                39.92,
+                27.41,
+                32.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Herod convened the Sanhedrin, consisting of seventy-one members, he questioned the chief priests, including the high priest and his predecessors, as well as the scribes. Gathering the theologians of the nation, Herod sought to learn about the Jews' expectations regarding the coming of the Messiah. While the scribes possessed knowledge of the Scriptures, it was the Magi, with less knowledge but more faith, who were closer to the truth. Herod's repeated inquiries revealed his earnest desire to understand and suppress any potential threat to his rule.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.160478030968056,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.18,
+            "commentatorTierSimilarities": [
+                37.89,
+                29.29,
+                32.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Herod assembled the Sanhedrin, consisting of seventy-one members, including the high priest and his predecessors, he inquired of the chief priests and scribes about the anticipated arrival of the Messiah. Desperate to know the truth, he sought the insights of the theologians and scholars of the nation. While the scribes, well-versed in the letter of the Scriptures, could offer interpretations, it was the Magi, guided by their faith, who were closer to the essence of the prophecy. Herod's intense curiosity reflected his determination to uncover and control any potential rival to his throne.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.042416608789443,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                36.77,
+                29.45,
+                33.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

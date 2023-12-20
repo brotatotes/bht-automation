@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:50:43",
+    "verseRef": "Matthew 21:26",
+    "bestBHT": {
+        "bht": "These religious leaders, the blind leaders of the blind, were afraid of the people's response if they acknowledged that John's authority was from God. They did not want to risk the people turning against them, as the people held John in high regard as a prophet sent by God. Their fear of the multitude led them to be dishonest and insincere in their consultation, avoiding the reproach that would follow if they admitted the truth about Jesus' authority.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.5258997954858007,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+        "commentatorTierSimilarities": [
+            25.39,
+            15.7,
+            58.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These \u2018blind leaders of the blind\u2019 had so far made an insincere concession to the people\u2019s persuasion...",
+            "They shrunk from the reproof which was sure to follow their acknowledging it now.",
+            "This consultation among themselves is related almost verbatim by the three Evangelists."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if we shall say, Of men; we fear the people\u2014rather, 'the multitude.'",
+            "In Luke it is, 'all the people will stone us'\u2014'stone us to death.'",
+            "Crooked, cringing hypocrites! No wonder Jesus gave you no answer."
+        ],
+        "Philip Schaff": [
+            "Matthew 21:26. From men. This they evidently believed.",
+            "\t",
+            " We fear the multitude. Demagogues who lead \u2018the multitude\u2019 astray \u2018fear the multitude.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "We fear the people... lest if they should affirm, that the authority by which John acted was human, they would immediately rise up against them; and... 'stone' them: so high a veneration had they for him, and so dear was his memory still unto them.",
+            "The sanhedrim were afraid of them, lest if they should affirm, that the authority by which John acted was human, they would immediately rise up against them.",
+            "For all held John as a prophet, [the people] were thoroughly persuaded, as Luke expresses it, and firmly believed that John was a prophet, that was raised up, and sent immediately by God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These religious leaders, who were blind and insincere, gathered together to discuss Jesus' authority when questioned about it. They were afraid of the people's reaction because the people held John as a prophet and were convinced that he had been raised up and sent by God. These hypocrites feared that if they acknowledged Jesus' authority as divine, the people would turn against them. In their cowardice, they refused to give a sincere answer to Jesus' question, exposing their true motives and lack of integrity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.450073389503499,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.56,
+            "commentatorTierSimilarities": [
+                25.78,
+                17.66,
+                56.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These religious leaders, the blind leaders of the blind, were afraid of the people's response if they acknowledged that John's authority was from God. They did not want to risk the people turning against them, as the people held John in high regard as a prophet sent by God. Their fear of the multitude led them to be dishonest and insincere in their consultation, avoiding the reproach that would follow if they admitted the truth about Jesus' authority.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.5258997954858007,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                25.39,
+                15.7,
+                58.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These hypocritical leaders were afraid of the people's reaction if they acknowledged that John's authority was from God, as the people held him in high esteem as a prophet sent by God. Their fear of the multitude drove them to be insincere and avoid reproach, refusing to give a genuine answer to Jesus' question. Their cowardice and lack of integrity were evident as they prioritized their own self-preservation over acknowledging the truth about Jesus' authority.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.444106770524551,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                24.8,
+                19.81,
+                55.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These blind leaders of the blind had made an insincere concession to the people's persuasion but shrunk from the reproof that would follow if they acknowledged the truth about John's authority. In their consultation, they feared the people's response and the possibility of being stoned to death. Their hypocrisy was evident, and Jesus chose not to answer their deceitful question. Their fear of the populace outweighed their commitment to truth and integrity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.2483996432055586,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+            "commentatorTierSimilarities": [
+                34.05,
+                16.25,
+                49.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These hypocritical leaders, the blind leaders of the blind, were afraid of the people's response if they acknowledged that John's authority was from God. Their fear of the multitude drove them to be insincere and avoid reproach, refusing to give a genuine answer to Jesus' question. Their cowardice and lack of integrity were evident as they prioritized their own self-preservation over acknowledging the truth about Jesus' authority.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.4613163453639355,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "commentatorTierSimilarities": [
+                27.61,
+                20.77,
+                51.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:43:27",
+    "verseRef": "Matthew 4:12",
+    "bestBHT": {
+        "bht": "After hearing that John was cast into prison, Jesus withdrew into Galilee. The word used for departed in the original text is the same one used for the betrayal and apprehension of our Lord Himself. This indicates a distinct break in the narrative, suggesting that it does not follow closely after the previous event. Jesus's purpose in going to Galilee was not driven by fear but to continue His ministry and gather His disciples who were living there. This journey followed the opposition of the Pharisees and the imprisonment of John, marking the beginning of His Galilean ministry.",
+        "wordCount": 99,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 2.028308853853397,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+        "commentatorTierSimilarities": [
+            30.91,
+            33.77,
+            35.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same word in the original is also the usual one for the betrayal and apprehension of our Lord Himself.\" ",
+            "departed] re-tired, withdrew; see ch. ii. 22, and note.",
+            "The narrative is evidently taken up after an interval, and without any intention that it should follow closely on ver. 11."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now when Jesus had heard that John was cast into prison... he departed into Galilee.\" ",
+            "More simply, 'was delivered up.'",
+            "He withdrew into Galilee."
+        ],
+        "Albert Barnes": [
+            "John was cast into prison - For an account of the imprisonment of John see Matthew 14:1-13.",
+            "He departed into Galilee - See Matthew 2:22. The reasons why Jesus then went into Galilee were probably:",
+            " "
+        ],
+        "Marvin Vincent": [
+            "The verb means, first, to give, or hand over to another.",
+            "So, to surrender a city or a person, often with the accompanying notion of treachery.",
+            "The Rev., therefore, rightly renders, was delivered up."
+        ],
+        "John Calvin": [
+            "And, in point of fact, though Christ discharged the office of teacher within that period, he did not, strictly speaking, begin to preach the Gospel, till he succeeded to John.",
+            "Most properly, therefore, do the three Evangelists admit and declare, that the period, during which John prepared disciples for Christ, belonged to his ministry: for it amounts to this, that, when the dawn was passed, the sun arose.",
+            "It is proper to observe the mode of expression employed by Luke, that Jesus came in the power, or, by the power, of the Spirit into Galilee: for it is of great consequence, that we do not imagine Christ to have any thing about him that is earthly or human, but that our minds be always occupied, and our feelings affected by his heavenly and divine power."
+        ],
+        "Philip Schaff": [
+            "Delivered up, i.e., into prison by Herod the tetrarch. The common version gives an explanation, not a literal translation.\" (Quote 1)",
+            "A withdrawal from prudence (as chap. Matthew 2:12; Matthew 2:22), hinting that He had been teaching in Judea.\" (Quote 2)",
+            "The withdrawal was not through fear of him. It was due to the opposition of the Pharisees.\" (Quote 3)"
+        ],
+        "Archibald T. Robertson": [
+            "The reason for Christ's return to Galilee is given here to be that John had been delivered up into prison.",
+            "The Synoptic Gospels skip from the temptation of Jesus to the Galilean ministry, a whole year.",
+            "Christ's work in Galilee began after the close of the active ministry of the Baptist who lingered on in prison for a year or more."
+        ],
+        "John Gill": [
+            "John was cast into prison by Herod; the reason of it may be seen in Matthew 14:3.",
+            "Here he continued some time before he was put to death.",
+            "Not so much on account of safety, or for fear of Herod, but to call his disciples, who lived in that country."
+        ],
+        "John Wesley": [
+            "He retired into Galilee.",
+            "This journey was not immediately after his temptation.",
+            "But the Pharisees being offended, John 4:1; and John put in prison, he then took this journey into Galilee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After hearing that John was cast into prison, Jesus departed into Galilee. The word used for departed in the original text is the same one used for the betrayal and apprehension of our Lord Himself. It is clear that the narrative takes place after an interval and is not meant to directly follow the previous verse. Jesus withdrew into Galilee, not out of fear, but to continue His ministry and gather His disciples who were living there. This journey did not immediately follow His temptation, but rather came after the opposition of the Pharisees and the imprisonment of John. The Synoptic Gospels skip from the temptation of Jesus to the Galilean ministry, which began after the conclusion of John's active ministry.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.085261799314229,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                31.24,
+                32.43,
+                36.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After hearing that John was cast into prison, Jesus withdrew into Galilee. The same word used for the betrayal and apprehension of our Lord Himself is used to describe His departure. This signifies a distinct break in the narrative, rather than a direct continuation. Jesus's purpose in going to Galilee was not driven by fear but to carry out His ministry and gather His disciples who resided there. This journey followed the opposition of the Pharisees and John's imprisonment, marking the beginning of His Galilean ministry.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.020658271757021,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                30.73,
+                33.17,
+                36.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After hearing that John was cast into prison, Jesus departed into Galilee. The word used for departed in the original text is the same one used for the betrayal and apprehension of our Lord Himself. The narrative takes place after an interval and is not intended to closely follow the previous event. Jesus withdrew into Galilee, not out of fear, but to continue His ministry and gather His disciples who were living there. This journey came after the opposition of the Pharisees and the imprisonment of John.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.0282337289236416,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                31.8,
+                33.22,
+                34.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After hearing that John was cast into prison, Jesus withdrew into Galilee. It is interesting to note that the same word used for the betrayal and apprehension of our Lord Himself is employed here for His departure. This indicates a distinct break in the narrative, rather than a direct continuation. Jesus's decision to retreat into Galilee was not out of fear, but rather to continue His ministry and rally His disciples who resided there. This journey followed the opposition from the Pharisees and the imprisonment of John, marking the commencement of His Galilean ministry.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.9798299045432244,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                29.6,
+                33.67,
+                36.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After hearing that John was cast into prison, Jesus withdrew into Galilee. The word used for departed in the original text is the same one used for the betrayal and apprehension of our Lord Himself. This indicates a distinct break in the narrative, suggesting that it does not follow closely after the previous event. Jesus's purpose in going to Galilee was not driven by fear but to continue His ministry and gather His disciples who were living there. This journey followed the opposition of the Pharisees and the imprisonment of John, marking the beginning of His Galilean ministry.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.028308853853397,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                30.91,
+                33.77,
+                35.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

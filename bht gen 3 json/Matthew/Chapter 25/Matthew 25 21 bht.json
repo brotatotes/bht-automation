@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:01",
+    "verseRef": "Matthew 25:21",
+    "bestBHT": {
+        "bht": "The joy here is not a feast, but that joy spoken of...that joy of the Lord arising from the completion of His work and labour of love. The words are, as has been well observed, 'not, 'good and successful servant,' but 'good and faithful servant:' and faithfulness does not depend on amount. Notice the identity of the praise and portion him who has been faithful in less, with those of the first. The joy of thy lord.",
+        "wordCount": 78,
+        "quoteTokenProportion": 54.17,
+        "qualityScore": 1.8871300758930376,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+        "commentatorTierSimilarities": [
+            41.44,
+            33.27,
+            25.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The joy here is not a feast, but that joy spoken of...that joy of the Lord arising from the completion of His work and labour of love...\" (Matthew 25:21)",
+            "The words are, as has been well observed, 'not, 'good and successful servant,' but 'good and faithful servant:' and faithfulness does not depend on amount.\" (Matthew 25:21)",
+            "Notice the identity of the praise and portion him who a been faithful in less, with those of the first.\" (Matthew 25:21)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Well done\u2014a single word, not of bare satisfaction, but of warm and delighted commendation.",
+            "And from what Lips!",
+            "Thou hast been faithful over a few things, I will make thee ruler over many things."
+        ],
+        "Albert Barnes": [
+            "Ruler over many things - I will promote thee to greater honors and to more important trusts.",
+            "Joy of thy lord - In the meantime share the pleasures and enjoyments of his palace; be his companion, and receive the rewards which he has promised thee.",
+            "Applied to Christians, it means that they who rightly improve their talents will, at the return of Christ, be promoted to great honors in heaven, and be partakers of the joys of their Lord in the world of glory."
+        ],
+        "Philip Schaff": [
+            "I will set thee over many things. In the kingdom of glory; or on the other theory, during the millenium.",
+            "Into the joy of thy Lord. In Luke the official position is recognized in the rule over \u2018ten cities,\u2019 etc.; here the reward has a reference to the personal spiritual life.",
+            "\u2018The joy;\u2019 the blessed inheritance which Christ\u2019s servants will have with Him. The reference to a \u2018feast\u2019 seems unnecessary."
+        ],
+        "Archibald T. Robertson": [
+            "The joy of thy lord.",
+            "The word \u03c7\u03b1\u03c1\u03b1 or joy may refer to the feast on the master's return.",
+            "So in verse Matthew 25:23."
+        ],
+        "John Gill": [
+            "Gospel ministers do not say so to themselves; they know they can do nothing well of themselves, and when they have done all they can, they own they are but unprofitable servants.",
+            "This is said, to show how acceptable a diligent laborious ministry is to Christ, and to encourage industry in the preachers of the word.",
+            "Their happiness is expressed by 'joy', which will be full and perfect, and without any interruption or mixture; will be unspeakable and glorious, and continue forever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The joy spoken of in this verse is not simply a feast, but the joy of the Lord that arises from the completion of His work and labor of love. The praise and reward given to the faithful servant is not based on success or the amount of work done, but on faithfulness. Even those who are faithful in little will be rewarded with rulership over much. The joy that the servant enters into upon the master's return is not limited to a feast, but refers to the blessed inheritance and joys of the Lord in the world of glory. The reward for faithful service is not just an official position, but a personal, spiritual life in the presence of the Lord. Gospel ministers are encouraged by this to diligently and laboriously serve, knowing that their efforts are acceptable and bring true happiness.",
+            "wordCount": 144,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.8514767389503706,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                29.86,
+                36.87,
+                33.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The joy here is not a feast, but the joy of the Lord arising from His work and labor of love. The praise is for faithfulness, not success or quantity. Even those faithful in little will be rewarded with rulership over much. The joy upon the master's return refers to the blessed inheritance and joys of the Lord. Gospel ministers are encouraged by this to diligently serve, knowing their efforts are acceptable and bring true happiness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7432144827540461,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                32.11,
+                34.62,
+                33.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The joy here is not a feast, but that joy spoken of...that joy of the Lord arising from the completion of His work and labour of love. The words are, as has been well observed, 'not, 'good and successful servant,' but 'good and faithful servant:' and faithfulness does not depend on amount. Notice the identity of the praise and portion him who has been faithful in less, with those of the first. The joy of thy lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 1.8871300758930376,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                41.44,
+                33.27,
+                25.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The joy expressed in Matthew 25:21 is not just a feast, but rather the joy of the Lord arising from the completion of His work and labor of love. The commendation of being a good and faithful servant is not dependent on the amount of one's work, but rather on their faithfulness in whatever they have been entrusted with. The praise and portion given to the faithful servant is the same as that of the first, emphasizing the equal value of faithfulness regardless of the magnitude of the task. This commendation is not just a mere expression of satisfaction, but a warm and delighted commendation from the Lord Himself. The faithful servant will not only be rewarded with the rule over many things in the kingdom of glory, but will also partake in the joy of their Lord, the blessed inheritance which Christ's servants will have with Him.",
+            "wordCount": 149,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.974886030791919,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                32.91,
+                36.71,
+                30.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The joy in this verse is not just a feast, but the joy of the Lord that arises from completing His work and labor of love. Faithfulness, rather than the quantity of work, is what matters in being a good and faithful servant. The praise and reward for faithfulness is the same, regardless of the magnitude of the task. When commending a faithful servant, the Lord's expression is not mere satisfaction, but a warm and delighted commendation. The faithful servant will not only rule over many things, but will also partake in the joy of their Lord, the blessed inheritance in His kingdom.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9415399568719591,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                33.03,
+                37.34,
+                29.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

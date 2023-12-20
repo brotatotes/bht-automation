@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:48:13",
+    "verseRef": "Matthew 14:30",
+    "bestBHT": {
+        "bht": "Peter, a fisherman and skilled swimmer, found himself sinking in the midst of the boisterous waves. Although he had the ability to swim, his fear caused him to cry out urgently to the Lord, fully recognizing that only He could save him. This powerful moment demonstrated Peter's imperfect faith, as he shifted his focus from Jesus to the storm. It serves as a reminder that physical proximity to Jesus is not enough; it is our unwavering faith that allows us to call upon Him for salvation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.8540213258739344,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+        "commentatorTierSimilarities": [
+            30.1,
+            44.29,
+            25.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "30. But when he saw the wind",
+            "\tboisterous, he was afraid; and beginning to sink, he cried, saying,",
+            "\tLord, save me\u2014(Also see on :-.)"
+        ],
+        "Marvin Vincent": [
+            "He was afraid. \"Although,\" says Bengel, \"a fisherman and a good swimmer\" (John 21:7)."
+        ],
+        "Philip Schaff": [
+            "So long as Peter looked to Jesus only, he had by faith the power of Jesus to rise above the waters, but when he looked at the waves, beginning to doubt, he began to sink.",
+            "To be near Christ in person avails nothing, unless we are near Him by faith.",
+            "His faith, too weak to enable him to walk to Christ, was strong enough to call to Christ."
+        ],
+        "Archibald T. Robertson": [
+            "It is one thing to see a storm from the deck of a stout ship, another to see it in the midst of the waves.",
+            "Peter was actually beginning to sink, although a fisherman and a good swimmer.",
+            "It was a dramatic moment that wrung from Peter the cry: 'Lord, save me,' and do it quickly the aorist means."
+        ],
+        "John Gill": [
+            "Though Christ was so nigh him, and he had had such an instance of his power in bearing him up, causing him to walk upon the waters thus far; which shows, that his faith was imperfect.",
+            "Being in a great fright and much danger, and with great importunity and eagerness.",
+            "Still having so much faith in Christ, that he was able to save him in the last extremity."
+        ],
+        "John Wesley": [
+            "When grace begins to act, the natural courage and strength are withdrawn.",
+            "Though he had been used to the sea, and was a skillful swimmer.",
+            "But so it frequently is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, a fisherman and a good swimmer, found himself in a dramatic moment where he began to sink amidst the boisterous waves. Even though he had the ability to swim, his fear overwhelmed him, leading him to cry out to Jesus for salvation. This cry was urgent and filled with faith, as Peter recognized that only the Lord could save him from his sinking state. It is noteworthy that Peter's sinking was a result of him shifting his focus from Jesus to the storm around him. While being physically near Jesus is not enough, being near Him by faith is crucial. Ultimately, Peter's experience reminds us that even in our moments of doubt and weakness, we can still call out to Jesus in faith, knowing that He is able to save us in our most desperate moments.",
+            "wordCount": 139,
+            "quoteTokenProportion": 45.88,
+            "qualityScore": 1.941803001994928,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                29.55,
+                44.76,
+                25.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, a skilled swimmer and fisherman, found himself beginning to sink amidst the tempestuous waves. His fear overwhelmed him, causing him to cry out urgently to the Lord for salvation. This cry originated from a place of faith, acknowledging that only Jesus could rescue him from his sinking state. Interestingly, Peter's descent was triggered by a shift in focus from Jesus to the surrounding storm. This highlights the importance of being near Jesus not just physically, but also through unwavering faith. Despite our doubts and weaknesses, we can turn to Jesus in faith, relying on His power to save us in our most desperate moments.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.720564855366224,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                27.4,
+                47.47,
+                25.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, a fisherman and skilled swimmer, found himself sinking in the midst of the boisterous waves. Although he had the ability to swim, his fear caused him to cry out urgently to the Lord, fully recognizing that only He could save him. This powerful moment demonstrated Peter's imperfect faith, as he shifted his focus from Jesus to the storm. It serves as a reminder that physical proximity to Jesus is not enough; it is our unwavering faith that allows us to call upon Him for salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8540213258739344,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                30.1,
+                44.29,
+                25.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, a fisherman and good swimmer, found himself sinking amidst the raging waves. Despite his skills, fear overtook him. In his desperate cry, Peter displayed his imperfect faith and acknowledged that only the Lord could save him. It is a poignant reminder that being near Jesus physically is insufficient; it is our unwavering faith that enables us to call upon Him for salvation. We can take comfort in knowing that even in our moments of doubt and weakness, Jesus has the power to rescue us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6775882835580513,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                29.49,
+                42.81,
+                27.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, a skilled swimmer and fisherman, found himself sinking in the midst of the tumultuous waves. Despite his ability to handle the sea, fear overtook him, prompting an urgent cry for salvation from the Lord. This pivotal moment exhibited Peter's imperfect faith and his recognition that only Jesus could deliver him. It serves as a powerful reminder that physical proximity to Jesus is not sufficient; it is our unwavering faith that empowers us to call upon Him for rescue. In our moments of weakness and doubt, Jesus has the capacity to save us.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.7542915997726043,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                28.51,
+                44.94,
+                26.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

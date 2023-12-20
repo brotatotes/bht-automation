@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:45:09",
+    "verseRef": "Matthew 8:26",
+    "bestBHT": {
+        "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. His power to save is unmatched, and with him, they are safe. The display of his power over the storm shows that he is truly the Son of God. The disciples' fear during the storm was evidence of their little faith, but their cry to Jesus showed they were not faithless. His rebuke, peace, be still, silenced the raging tempest, bringing a great calm.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.589137155112305,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+        "commentatorTierSimilarities": [
+            0.0,
+            58.64,
+            41.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "You should have remembered that the Son of God, the Messiah, was on board. You should not have forgotten that he had power to save, and that with him you are safe.",
+            "So Christians should never fear danger, disease, or death. With Jesus they are safe. No enemy can reach him; and as he is safe, so they shall be also.",
+            "His word awed the tempest and allayed the storm! There is not anywhere a sublimer description of a display of power. Nor could there be clearer proof that he was truly the Son of God."
+        ],
+        "John Calvin": [
+            "To show that the power of his voice reached the elements, which were devoid of feeling.",
+            "Not only the sea and the winds, which are without feeling, but wicked men also, with all their obstinacy, obey the commands of God.",
+            "Even while their rage continues, [God] makes the arms to drop from their hands."
+        ],
+        "Philip Schaff": [
+            "Afraid' would be too weak, and 'cowardly' too strong.",
+            "Fear while the Saviour was with them, evidence of 'little faith;' the cry to Him evidence they were not faithless.",
+            "A great calm, a perfect stillness."
+        ],
+        "John Gill": [
+            "O ye of little faith:... You professed but just now to believe in me, is your faith gone already?",
+            "Their faith was very small, it could hardly be discerned... They had no faith in him, as sleeping, that he could deliver them; but had some little faith in him that he might, could he be awaked out of sleep.",
+            "He rebukes them in such language as this, 'peace, be still'; be silent, hold your peace, stop your mouth, put a bridle on it, as the words used signify; and go on no longer to threaten with shipwreck and loss of lives."
+        ],
+        "John Wesley": [
+            "Why are ye fearful \u2014 Then he rebuked the winds - First, he composed their spirits, and then the sea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. His power to save is unmatched, and with him, they are safe. The display of his power over the storm shows that he is truly the Son of God. The disciples' fear during the storm was evidence of their little faith, but their cry to Jesus showed they were not faithless. His rebuke, peace, be still, silenced the raging tempest, bringing a great calm. Even the elements and wicked men obey his commands, and through his power, peace can be restored even in the midst of chaos.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.542991102966106,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.66,
+                43.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. His power to save is unmatched, and with him, they are safe. The display of his power over the storm shows that he is truly the Son of God. The disciples' fear during the storm was evidence of their little faith, but their cry to Jesus showed they were not faithless. His rebuke, peace, be still, silenced the raging tempest, bringing a great calm.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.589137155112305,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.64,
+                41.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. Jesus' power to save and bring calm is extraordinary. The disciples' fear during the storm revealed their little faith, though they still had some belief in Jesus. His rebuke, peace, be still, silenced the tempest. Even the elements and wicked men must obey God's commands. This display of power proves Jesus' divinity and his ability to bring peace in the midst of chaos.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4335477393222817,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.35,
+                44.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. His power to save and bring calm is extraordinary. The disciples' fear during the storm revealed their little faith, but their cry to Jesus showed they were not faithless. His rebuke, peace, be still, silenced the tempest. Even the elements and wicked men must obey God's commands. This display of power proves Jesus' divinity and his ability to bring peace in the midst of chaos.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.433841455468049,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.26,
+                44.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With the Son of God, the Messiah, on board, Christians need not fear danger, disease, or death. Jesus' power to save and bring calm is extraordinary. The disciples' fear during the storm revealed their little faith, but their cry to Jesus showed they were not faithless. His rebuke, peace, be still, silenced the tempest. Even the elements and wicked men must obey God's commands. This display of power proves Jesus' divinity and his ability to bring peace amidst chaos.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4393601688972755,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.51,
+                44.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

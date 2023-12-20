@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 23:48:12",
+    "verseRef": "Matthew 14:36",
+    "bestBHT": {
+        "bht": "People were made perfectly whole through their faith. Christ's miracles always showed a connection between Himself and the person cured, even in the slightest touch. The people desired to be near Jesus to show their faith and acknowledge their unworthiness. Christ condescended to their request and perfectly cured all diseases when they touched the hem of his garment in faith.",
+        "wordCount": 61,
+        "quoteTokenProportion": 47.73,
+        "qualityScore": 1.4145299467917758,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+        "commentatorTierSimilarities": [
+            10.45,
+            40.48,
+            49.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] On hem, see note on ch. ix. 20."
+        ],
+        "Marvin Vincent": [
+            "Were made perfectly whole [\u03b4\u03b9\u03b5\u03c3\u03c9\u03b8\u03b7\u03c3\u03b1\u03bd] . The preposition dia, through or thorough, indicates complete restoration. ",
+            "The Rev. omits perfectly, because whole, in itself, implies completeness. "
+        ],
+        "Philip Schaff": [
+            "A woman had been thus healed in the presence of a crowd... so that these people were not superstitious, but had strong faith.",
+            "Christ's miracles were always performed so as to show a connection between Himself and the person cured, even though it were so slight a one as this touch.",
+            "This is the fourth general description of our Lord's ministry; in each case... after a series of events grouped together without reference to accurate chronological order."
+        ],
+        "John Gill": [
+            "This they desired, partly to show the strength of their faith in him, that they doubted not of a cure, could they be admitted so near his person.",
+            "Partly, to signify the sense of their unworthiness, to be in another way taken notice of by him, either by speaking to them, or putting his hands on them.",
+            "Christ condescended to this their request, and perfectly cured all such of their diseases, of whatever kind they were, who, in the exercise of faith, touched the hem of his garment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "People were made perfectly whole through their faith. A woman had been healed in the presence of a crowd, which showed a strong connection between Jesus and the person cured. These people had faith and were not superstitious, believing in complete restoration. Christ's miracles always showed a connection, even in the slightest touch. The people desired to be near Jesus, partly to show their faith and partly to acknowledge their unworthiness. Christ condescended to their request and perfectly cured all of their diseases, regardless of their kind, when they touched the hem of his garment in faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3709812823334537,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+            "commentatorTierSimilarities": [
+                9.99,
+                45.1,
+                44.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "People were made whole through faith. A woman had been healed in the presence of a crowd, showing a connection between Jesus and the person cured. These people had strong faith and were not superstitious. Christ's miracles always showed a connection, even in the slightest touch. The people desired to be near Jesus, partly to show their faith and partly to acknowledge their unworthiness. Christ condescended to their request and perfectly cured all diseases when they touched his garment in faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.2835896263728395,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.02,
+            "commentatorTierSimilarities": [
+                7.17,
+                48.79,
+                44.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "People were made perfectly whole through their faith. Christ's miracles always showed a connection between Himself and the person cured, even in the slightest touch. The people desired to be near Jesus to show their faith and acknowledge their unworthiness. Christ condescended to their request and perfectly cured all diseases when they touched the hem of his garment in faith.",
+            "wordCount": 61,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.4145299467917758,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                10.45,
+                40.48,
+                49.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "People were made perfectly whole through their faith. Christ's miracles always showed a connection between Himself and the person cured, even in the slightest touch. The people desired to be near Jesus to show their faith and acknowledge their unworthiness. Christ condescended to their request and perfectly cured all diseases when they touched the hem of his garment in faith.",
+            "wordCount": 61,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.4145299467917758,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                10.45,
+                40.48,
+                49.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "People were made perfectly whole through faith, as they touched the hem of Jesus' garment. The miracles of Christ emphasized the connection between Himself and the person healed, even in the slightest touch. People sought to be near Jesus to demonstrate their strong faith and their unworthiness. Christ, in His compassion, fulfilled their request and completely cured all diseases when they reached out in faith and touched His garment.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.3507606949446638,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.26,
+            "commentatorTierSimilarities": [
+                8.83,
+                40.39,
+                50.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

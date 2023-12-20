@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:55",
+    "verseRef": "Matthew 26:71",
+    "bestBHT": {
+        "bht": "Out of fear, Peter denied knowing Jesus when another maid recognized him and referred to him as 'this fellow'. Peter, feeling unsafe, moved to the arched gateway, where he sat in deep thought. The maid's contemptuous language towards Jesus echoed her previous disrespect. Peter's denial was strengthened by an oath, emphasizing his determination to distance himself from Jesus, even in the face of dire consequences. This narrative showcases the omniscience of Jesus, as all these events were foreseen.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.3866235855739117,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.45,
+        "commentatorTierSimilarities": [
+            27.22,
+            37.34,
+            35.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "How clearly does it prove that our Lord was omniscient, that all these things were foreseen!",
+            "To this charge he might have been silent, thinking, perhaps, that he was concealed, and there was no need of denying Jesus then.",
+            "This denial was in a stronger manner and with an oath."
+        ],
+        "Marvin Vincent": [
+            "Gone out. Through fear of being further questioned."
+        ],
+        "John Calvin": [
+            "But this difficulty is easily obviated; for Mark says nothing that is inconsistent with the narrative of the other Evangelists, but explains more fully what they pass by in silence.",
+            "So then, Matthew, Luke, and John, say that Peter thrice denied our Lord before the cock-crowing was ended. Mark states more distinctly one circumstance, that within a short space of time Peter was brought even to the third denial, and that, though he had been warned by the first crowing, he did not repent.",
+            "None of us will say that profane historians are inconsistent with each other, when some one of them relates what the others have not touched; and, therefore, though Mark\u2019s narrative is different, still it does not contradict the others."
+        ],
+        "Philip Schaff": [
+            "In his embarrassing position, he left the fire, going out to the arched gateway leading from the court to the street; probably no further.",
+            "If the maid mentioned in Matthew 26:69, was not the porteress, then it is possible that she takes up her banter again.",
+            "Again, a woman\u2019s weapon, of contempt and ridicule; potent enough, when human weakness is not supported by Divine grace."
+        ],
+        "Archibald T. Robertson": [
+            "But Peter was not safe out here...",
+            "...another maid recognized him and spoke of him as 'this fellow'...",
+            "...with a gesture to those out there."
+        ],
+        "John Gill": [
+            "He chose rather to keep his ground, but was very uneasy; and therefore moved into the porch, where he sat very pensive, considering what was proper for him to do.",
+            "She speaks of Christ in the same contemptuous manner, as her fellow servant had done; for this appellation of Christ was commonly, if not always used by way of contempt.",
+            "This sorry fellow, that is sauntering and lurking about here, is certainly one of this man's disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Peter, out of fear, had already denied knowing Jesus when another maid recognized him and referred to him as 'this fellow'. Peter, feeling unsafe, moved to the arched gateway, where he sat in deep thought. The maid's language towards Jesus was contemptuous, echoing the disrespectful way she had spoken about Jesus previously. Peter's denial was strengthened by an oath, emphasizing his determination to distance himself from Jesus, even in the face of dire consequences. This narrative showcases the omniscience of Jesus, as all these events were foreseen.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.3814898056066631,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.28,
+            "commentatorTierSimilarities": [
+                23.39,
+                38.16,
+                38.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, fearful of further questioning, denied his association with Jesus when another maid recognized him and referred to him as 'this fellow'. Seeking safety, Peter moved to an arched gateway, contemplating his next move. The maid's contemptuous language towards Jesus mirrored her previous disrespect. Peter's denial, strengthened by an oath, revealed his resolute decision to distance himself from Jesus despite the potential consequences. These events demonstrate Jesus' omniscience, as He foresaw and understood the unfolding events.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.3306999191901265,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.59,
+            "commentatorTierSimilarities": [
+                30.03,
+                35.97,
+                34.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Out of fear, Peter denied knowing Jesus when another maid recognized him and referred to him as 'this fellow'. Peter, feeling unsafe, moved to the arched gateway, contemplating his next move. The maid's contemptuous language towards Jesus echoed her previous disrespect. Peter's denial, strengthened by an oath, showcased his determination to distance himself from Jesus, despite the potential consequences. These events highlight Jesus' omniscience, as He foresaw and comprehended all that unfolded.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.359140769618407,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+            "commentatorTierSimilarities": [
+                29.48,
+                37.42,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, driven by fear, denied any association with Jesus when another maid identified him as 'this fellow'. Seeking safety, Peter relocated to an arched gateway, deep in thought. The maid's contemptuous language mirrored her previous disrespect towards Jesus. Peter's denial, now underscored by an oath, revealed his unwavering resolve to disassociate from Jesus, regardless of the consequences. These events serve as a testament to Jesus' omniscience, as He had foreseen and understood the unfolding circumstances.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.2907552246485468,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.26,
+            "commentatorTierSimilarities": [
+                28.68,
+                37.1,
+                34.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Out of fear, Peter denied knowing Jesus when another maid recognized him and referred to him as 'this fellow'. Peter, feeling unsafe, moved to the arched gateway, where he sat in deep thought. The maid's contemptuous language towards Jesus echoed her previous disrespect. Peter's denial was strengthened by an oath, emphasizing his determination to distance himself from Jesus, even in the face of dire consequences. This narrative showcases the omniscience of Jesus, as all these events were foreseen.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.3866235855739117,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.45,
+            "commentatorTierSimilarities": [
+                27.22,
+                37.34,
+                35.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

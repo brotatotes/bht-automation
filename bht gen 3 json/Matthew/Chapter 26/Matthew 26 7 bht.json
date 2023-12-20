@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:14",
+    "verseRef": "Matthew 26:7",
+    "bestBHT": {
+        "bht": "The woman poured an exceeding precious ointment from an alabaster cruse, a cruet with a cylindrical form, known for preserving ointments. The ointment was poured upon Jesus' head and feet, symbolizing his anointing. It was a symbol of the Gospel, like ointment poured forth, spreading the sweet savour of the knowledge of Christ worldwide. This act had a deeper significance, representing Jesus' anointing with the oil of gladness and the pouring out of the Holy Spirit upon him, an abundance of gifts and graces.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.7856502609731326,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+        "commentatorTierSimilarities": [
+            25.69,
+            27.87,
+            46.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was the usual cruse or pot for ointment, with a long narrow neck, and sealed at the top.\" ",
+            "It was thought that the ointment kept best in these cruses.\" ",
+            "His head... His feet, according to John xii. 3.\" "
+        ],
+        "Marvin Vincent": [
+            "Lit., an alabaster, just as we call a drinking-vessel made of glass a glass.",
+            "It was a kind of cruet, having a cylindrical form at the top.",
+            "Pliny compares these vessels to a closed rosebud, and says that ointments are best preserved in them."
+        ],
+        "Philip Schaff": [
+            "Alabaster cruses were considered by the ancients the best receptacle for valuable ointments or fragrant oils.",
+            "The main point is its preciousness. Comp, the valuation put upon it by Judas ('three hundred pence '= \u00a3 9 or $ 45 , a large amount for those days.)",
+            "Mary may have intended only to show this honor, but this action symbolized Christ\u2019s Messiahship, and had a deeper significance, as our Lord points out."
+        ],
+        "Archibald T. Robertson": [
+            "The flask was of alabaster, a carbonate of lime or sulphate of lime, white or yellow stone, named alabaster from the town in Egypt where it was chiefly found.",
+            "Matthew does not say what the ointment (\u03bc\u03c5\u03c1\u03bf\u03c5) was, only saying that it was 'exceeding precious' (\u03b2\u03b1\u03c1\u03c5\u03c4\u03b9\u03bc\u03bf\u03c5), of weighty value, selling at a great price.",
+            "She poured it upon his head (\u03ba\u03b1\u03c4\u03b5\u03c7\u03b5\u03b5\u03bd \u03b5\u03c0 \u03c4\u03b7\u03c2 \u03ba\u03b5\u03c6\u03b1\u03bb\u03b7\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). So Mark (Mark 14:3), while John (John 12:3) says that she 'anointed the feet of Jesus.' Why not both?"
+        ],
+        "John Gill": [
+            "The fact here recorded, is the same as in Mark 14:3, where it stands in the same order as here, and seems to have been done at the supper, of which mention is made.",
+            "The pouring of this ointment on the head of Christ was emblematical of his being anointed with the oil of gladness above his fellows; of his having the holy Spirit, and his gifts and graces without measure.",
+            "The pouring of this ointment on the head of Christ...was a symbol of the Gospel, which is like ointment poured forth; and of the sweet savour of the knowledge of Christ, which was to be diffused, throughout all the world, by the preaching of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman in this verse poured an exceeding precious ointment from an alabaster cruse, an ointment of weighty value. The ointment was poured upon Jesus' head and feet, symbolizing his anointing and his Messiahship. The ointment, kept best in these cruses, represented the Gospel, a sweet savour of the knowledge of Christ that was to be diffused throughout the world by preaching. This act of pouring the ointment had a deeper significance, as it symbolized not only the honor bestowed upon Jesus but also the anointing of the Holy Spirit and the abundance of his gifts and graces.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8492024033987926,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+            "commentatorTierSimilarities": [
+                23.86,
+                29.74,
+                46.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman poured an exceeding precious ointment from a cruse that was sealed and thought to preserve the ointment best. She poured it upon Jesus' head and feet, symbolizing his anointing. The ointment, sold at a great price, represented the Gospel, a sweet savour of the knowledge of Christ, which was to be diffused throughout the world. This act had a deeper significance, symbolizing Jesus' anointing with the Holy Spirit and the abundance of his gifts and graces.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7066647498180927,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                25.19,
+                28.9,
+                45.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman poured an exceeding precious ointment from an alabaster cruse, a cruet with a cylindrical form, known for preserving ointments. The ointment was poured upon Jesus' head and feet, symbolizing his anointing. It was a symbol of the Gospel, like ointment poured forth, spreading the sweet savour of the knowledge of Christ worldwide. This act had a deeper significance, representing Jesus' anointing with the oil of gladness and the pouring out of the Holy Spirit upon him, an abundance of gifts and graces.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7856502609731326,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                25.69,
+                27.87,
+                46.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman poured an exceeding precious ointment from an alabaster cruse, a cruet known for preserving ointments. She poured it upon Jesus' head and feet, symbolizing his anointing. This act had a deeper significance, representing Jesus' anointing with the oil of gladness, the pouring out of the Holy Spirit, and the diffusion of the sweet savour of the knowledge of Christ through the preaching of the Gospel. The ointment's weighty value reflected the high price of the Gospel and the abundance of Jesus' gifts and graces.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.6343799801161234,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                23.32,
+                30.85,
+                45.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman poured an exceeding precious ointment from an alabaster cruse, a cruet used for preserving ointments. By pouring it upon Jesus' head and feet, she symbolically anointed him. This act carried a deeper meaning, representing Jesus' anointing with the oil of gladness and the pouring out of the Holy Spirit. It also signified the spreading of the sweet savour of the knowledge of Christ through the preaching of the Gospel. The value of the ointment illustrated the worthiness and abundance of Jesus' gifts and graces.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5710002586415999,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+            "commentatorTierSimilarities": [
+                23.02,
+                29.51,
+                47.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

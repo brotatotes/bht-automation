@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:54:57",
+    "verseRef": "Matthew 27:52",
+    "bestBHT": {
+        "bht": "The opening of the tombs and the resurrection of the saints following Jesus' death were astounding and symbolic acts. These resurrected saints, unlike previous resurrections, were not temporary but instead attained everlasting life, joining Jesus in His glory. This event left no doubt about the fact of Jesus' resurrection, showcasing His victory over death in a glorious manner. The earthquake and the opening of the tombs can be attributed to the earthquake itself, but the resurrection of the dead after Jesus' resurrection remains a perplexing miracle.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.296360816991747,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.69,
+        "commentatorTierSimilarities": [
+            33.01,
+            35.73,
+            31.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole transaction was supernatural and symbolic: no other interpretation of it will satisfy even ordinary common sense.",
+            "What but the opening of the tombs\u2014the symbolic declaration, that the Death which bad happened had broken the bands of death for ever?",
+            "The bodies of the saints in them did not arise till He rose, and having appeared to many after his resurrection,\u2014possibly during the forty days,\u2014went up with Him into His glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus, in the opening of the graves at the moment of the Redeemer's expiring, there was a glorious symbolical proclamation that the death which had just taken place had 'swallowed up death in victory'\".",
+            "It must be observed, however, that the resurrection of these sleeping saints was not like those of the widow of Nain's son, of Jairus' daughter, of Lazarus, and of the man who 'revived and stood upon his feet... which were mere temporary recallings of the departed spirit to the mortal body, to be followed by a final departure of it 'till the trumpet shall sound'. But this was a resurrection once for all, to life everlasting; and so there is no room to doubt that they went to glory with their Lord, as bright trophies of His victory over death\".",
+            "Thus, while it was not deemed fitting that He Himself should appear again in Jerusalem, save to the disciples, provision was made that the fact of His resurrection should be left in no doubt\"."
+        ],
+        "Albert Barnes": [
+            "The graves were opened by this earthquake, but the dead in them did not rise until after his resurrection.",
+            "It is probable that they were persons who had recently died, and they appear to have been known in Jerusalem; at least, had the ancient saints risen, they would not have been known, and would not so soon have been credited as those who had recently died.",
+            "The death of saints is often called 'sleep.'"
+        ],
+        "John Calvin": [
+            "For at the very time when the despicable weakness of the flesh was beheld in the person of Christ, the magnificent and divine energy of his death penetrated even to hell.",
+            "Christ is called the first-born from the dead because by his death he commenced, and by his resurrection he completed, a new life.",
+            "As the time was not fully come when the whole body of the Church should be gathered to its Head, he exhibited in a few persons an instance of the new life which all ought to expect."
+        ],
+        "Archibald T. Robertson": [
+            "The splitting of the rocks by the earthquake and the opening of tombs can be due to the earthquake.",
+            "The raising of the bodies of the dead after the resurrection of Jesus which appeared to many in the holy city puzzles many today.",
+            "We come back to miracles connected with the birth of Jesus, God's Son coming into the world."
+        ],
+        "John Gill": [
+            "This was a proof of Christ's power over death and the grave, by dying; when he through death, destroyed him that had the power of it, and abolished death itself; and became the plague of death and the destruction of the grave, taking into his hands the keys of hell and death.",
+            "These were saints, and such as slept in Jesus; and of whom he is the first fruits that now rose; and not all, but many of them, as pledges of the future resurrection.",
+            "And they rose in the same bodies in which they before lived, otherwise they could not be called their bodies, or known by those to whom they appeared."
+        ],
+        "John Wesley": [
+            "Many bodies of holy men were raised...And coming out of the tombs after his resurrection, went into the holy city (Jerusalem) and appeared to many.\" ",
+            "Who had probably known them before: God hereby signifying, that Christ had conquered death...\" ",
+            "...and would raise all his saints in due season."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the moment of Jesus' death, the supernatural event of the graves opening and the bodies of the saints arising was a symbolic proclamation. It symbolized that Jesus' death had broken the power of death forever. These resurrected saints did not rise until after Jesus' resurrection and they appeared to many, giving undeniable proof of his victory over death. Unlike previous resurrections, this was a once-for-all resurrection to everlasting life, signifying that they went to glory with their Lord. The earthquake and opening of the tombs can be attributed to the earthquake, but the resurrection of the dead after Jesus' resurrection remains a puzzling miracle. This event was a manifestation of Christ's power over death and the grave, giving him victory over them. It also served as a reminder that Jesus is the first-born from the dead, inaugurating a new life for all believers. These resurrected saints were bright testimonies of Christ's triumph over death, foreshadowing the future resurrection of all his saints.",
+            "wordCount": 168,
+            "quoteTokenProportion": 39.56,
+            "qualityScore": 2.2440193692328623,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+            "commentatorTierSimilarities": [
+                31.97,
+                35.22,
+                32.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Jesus' death, the symbolic opening of the tombs displayed the profound impact of His death on the chains of death. The risen bodies of the saints after Jesus' resurrection testified to His victory over death. Unlike previous resurrections that were temporary, this was a one-time resurrection to everlasting life, a glorious proclamation of Jesus' conquest. The earthquake and opened tombs can be explained by the earthquake, but the resurrection of the dead still puzzles many. This miraculous event showcased Christ's power over death and the grave, emphasizing His role as the first-born from the dead, ushering in new life for believers.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.1731609631205093,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+            "commentatorTierSimilarities": [
+                33.1,
+                35.97,
+                30.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opening of the tombs and the resurrection of the saints following Jesus' death were astounding and symbolic acts. These resurrected saints, unlike previous resurrections, were not temporary but instead attained everlasting life, joining Jesus in His glory. This event left no doubt about the fact of Jesus' resurrection, showcasing His victory over death in a glorious manner. The earthquake and the opening of the tombs can be attributed to the earthquake itself, but the resurrection of the dead after Jesus' resurrection remains a perplexing miracle.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.296360816991747,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.69,
+            "commentatorTierSimilarities": [
+                33.01,
+                35.73,
+                31.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The opening of tombs and the rising of the saints after Jesus' death served as a supernatural and symbolic proclamation. This extraordinary event made it clear that Jesus' death had overcome death itself. Unlike previous resurrections that were temporary, the resurrection of these saints was a one-time event, ensuring everlasting life with their Lord. The earthquake and the opening of tombs were likely caused by the earthquake. While the resurrection of the dead after Jesus' resurrection may puzzle some, it unequivocally demonstrated Christ's power over death and the grave.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.1211406512641733,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                32.81,
+                36.88,
+                30.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the moment of Jesus' death, the symbolic opening of the tombs and the resurrection of the saints displayed the supernatural and profound impact of His death, signifying the breaking of death's power. Unlike previous resurrections, this was a once-for-all resurrection, conveying everlasting life and representing a glorious proclamation of Jesus' victory over death. The earthquake and opened tombs can be ascribed to the earthquake itself, while the resurrection of the dead exemplifies Christ's power over death and the grave.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.2821910198387565,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                32.91,
+                35.57,
+                31.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

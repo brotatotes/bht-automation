@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:48:02",
+    "verseRef": "Matthew 13:54",
+    "bestBHT": {
+        "bht": "The people of Nazareth were astounded by Jesus' wisdom and mighty works, finding it difficult to comprehend how someone from their little town could possess such knowledge. They questioned the source of his wisdom and marveled at his miraculous abilities, unable to grasp that he was not just an ordinary man, but the wisdom and power of God. Their limited perspective and preconceived notions hindered them from recognizing the divine education and heavenly guidance Jesus had received.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.660670092124795,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+        "commentatorTierSimilarities": [
+            35.79,
+            22.31,
+            41.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Perhaps the proceedings of ch. viii 18\u2013ix. 34 are to be inserted between those two verses.",
+            "In Mark iv. 35, the stilling of the storm and voyage to the Gadarenes are bound to the above parables by what appears a distinct note of sequence: \u2018the same day, when the even was come.\u2019",
+            "The teaching was on the Sabbath (Mark)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whence hath this man this wisdom, and these mighty works?\u2014'these miracles.'",
+            "These surely are not like the questions of people who had asked precisely the same questions before, who from astonishment had proceeded to rage...",
+            "...and who had been foiled even in that object by His passing through the midst of them, and going His way."
+        ],
+        "Albert Barnes": [
+            "Into his own country - That is, into Nazareth.",
+            "It was common for our Saviour to speak in the synagogues.",
+            "Our Saviour often availed himself of the right to instruct the people and declare his doctrines."
+        ],
+        "John Calvin": [
+            "Why do they not rather lift their eyes to heaven, and learn that what exceeds human reason must have come from God?",
+            "We see, then, that it is not mere ignorance that hinders men, but that, of their own accord, they search after grounds of offense, to prevent them from following the path to which God invites.",
+            "When human means fail, the power of God is clearly revealed to us, and ought to receive undivided praise."
+        ],
+        "Philip Schaff": [
+            "This is our townsman, what better schooling did he have than we; what his family is, we all know, etc.",
+            "Whence hath this man.",
+            "Nazareth as the home of His parents and the place 'where he had been brought up'."
+        ],
+        "Archibald T. Robertson": [
+            "What the people of Nazareth could not comprehend was how one with the origin and environment of Jesus here in Nazareth could possess the wisdom which he appeared to have in his teaching.\" ",
+            "That has often puzzled people how a boy whom they knew could become the man he apparently is after leaving them.",
+            "Jesus passed here as the son of Joseph and these were younger brothers and sisters (half brothers and sisters technically)."
+        ],
+        "John Gill": [
+            "They knew his education, how that he had not been put to school, had never learned letters of men, or received any instructions from their learned doctors; and therefore could not imagine, how he came by such sublime and divine knowledge, and by what power he performed such wonderful things.",
+            "Looking upon him to be a mere man, and a very mean, and contemptible one: not knowing that he was the wisdom of God, and the power of God.",
+            "Which had they been acquainted with, there would have been no room, nor reason, for such questions."
+        ],
+        "John Wesley": [
+            "Many texts are not understood, for want of knowing the proper emphasis.",
+            "Others are utterly misunderstood, by placing the emphasis wrong.",
+            "To prevent this in some measure, the emphatical words are here printed in capital letters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of Nazareth were astonished at Jesus' wisdom and miraculous works, unable to comprehend how someone from their own town could possess such knowledge. Having seen him grow up as the son of Joseph, they questioned the source of his wisdom and miraculous powers. Their lack of understanding led them to search for grounds of offense, preventing them from embracing the truth. But what they failed to realize was that Jesus was not just an ordinary man; he was the wisdom of God and the power of God. They overlooked the divine education and heavenly instruction he had received. If only they had looked beyond their limited perspective and recognized that what exceeded human reason must have come from God, they would have found no reason to question.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5830877485129515,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                33.93,
+                23.6,
+                42.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of Nazareth struggled to understand how Jesus, whom they knew as the son of Joseph, could possess such wisdom and perform mighty miracles. Their limited perspective prevented them from recognizing the divine education and heavenly instruction he had received. Instead of lifting their eyes to heaven and acknowledging the power of God, they searched for grounds of offense. If only they had looked beyond their own understanding, they would have realized that what exceeded human reason must have come from God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.553788577603866,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                31.52,
+                19.54,
+                48.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of Nazareth were astounded by Jesus' wisdom and mighty works, finding it difficult to comprehend how someone from their little town could possess such knowledge. They questioned the source of his wisdom and marveled at his miraculous abilities, unable to grasp that he was not just an ordinary man, but the wisdom and power of God. Their limited perspective and preconceived notions hindered them from recognizing the divine education and heavenly guidance Jesus had received.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.660670092124795,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                35.79,
+                22.31,
+                41.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of Nazareth were perplexed by Jesus' wisdom and miraculous works, unable to fathom how someone from their own town could possess such knowledge. They questioned the source of his wisdom and marveled at his extraordinary abilities. Yet, they failed to realize that Jesus was not an ordinary man, but the wisdom of God and the power of God. Their lack of understanding stemmed from their limited perspective and ignorance of the divine education and heavenly guidance Jesus had received. Had they recognized that what exceeded human reason must have come from God, their questions would have been silenced.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.6109583584924634,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+            "commentatorTierSimilarities": [
+                34.56,
+                21.53,
+                43.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of Nazareth could not comprehend how Jesus, a resident of their own town, possessed such wisdom and ability to perform miraculous works. They questioned the source of his knowledge and marveled at his incredible talents. Their limited perspective hindered them from recognizing the divine education and heavenly guidance Jesus had received. If only they acknowledged that what exceeded human reason must have come from God, they would have found no reason to question his wisdom and power.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.539110362604609,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                32.73,
+                24.9,
+                42.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

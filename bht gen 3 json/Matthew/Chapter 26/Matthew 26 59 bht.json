@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:44",
+    "verseRef": "Matthew 26:59",
+    "bestBHT": {
+        "bht": "In their relentless pursuit of evidence against Jesus, the religious leaders kept on seeking false witness, revealing a treacherous and blinded obstinacy. They knew that true witnesses could not be found, yet they persisted in their quest for a pretense to oppress him. This sinful act, of judges actively seeking false witnesses against Jesus, is a glaring display of their determination to put him to death and the lengths they were willing to go to fulfill their dark purpose.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.1864188719705115,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+        "commentatorTierSimilarities": [
+            32.03,
+            28.91,
+            39.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As they thought, evidence, but in reality, false witness.",
+            "Is it not the intention of the Evangelist to represent that they sought false witness, not that they would not take true if they could get it, but that they knew it was not to be had?",
+            "This hearing is altogether omitted in Luke, and only the indignities following related."
+        ],
+        "Albert Barnes": [
+            "They sought for witnesses who would accuse him of crime of violation of the laws of the land or of God.",
+            "We are not to suppose that 'they wished' them to be 'false' witnesses. They were indifferent, probably, whether they were true or false if they could succeed in condemning him.",
+            "In a firm, dignified manner, he put himself on trial and insisted on his rights."
+        ],
+        "John Calvin": [
+            "In seeking false witnesses, their treacherous cruelty is manifested; and when, after being disappointed of their expectation, they still do not desist, this affords a still more striking display of their blinded obstinacy.",
+            "Thus, amidst the darkness of their rage, the innocence of the Son of God shone so brightly, that the devils themselves might know that he died innocent.",
+            "For they had previously resolved to put Christ to death, and now they only seek a pretense for oppressing him."
+        ],
+        "Philip Schaff": [
+            "The Sanhedrin, Joseph of Arimathea and Nicodemus were probably absent (Luke 23:51), since their opposition would have been in vain.\" ",
+            "It was not the first time this body had consulted against Him.",
+            "Knowing that true witness could not be had, they actually sought \u2018false witness.\u2019 Such a sin is greatest in judges."
+        ],
+        "Archibald T. Robertson": [
+            "Judges have no right to be prosecutors and least of all to seek after false witness and even to offer bribes to get it.",
+            "Imperfect tense, kept on seeking.",
+            "Sought false witness against Jesus."
+        ],
+        "John Gill": [
+            "And false witnesses too, even those whose business it was, to examine and detect false witnesses, and to inflict the same punishment upon them, which they by their false testimony intended to have brought on another.",
+            "But this need not be wondered at when these men were bent upon the death of Christ at any rate, and were aware that nothing true could be objected to him that would legally take away his life.",
+            "This need not seem strange, that they took such a course with Christ, when in the case of Stephen, they suborned and set up false witnesses against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In their relentless pursuit of evidence against Jesus, the religious leaders sought false witnesses, revealing their treacherous cruelty and blinded obstinacy. They knew that true witnesses could not be found, yet they persisted in their quest for a pretense to oppress him, even going as far as offering bribes. Their intention was clear: to condemn him at any cost. This sinful act, of judges seeking false witnesses, is a glaring display of their determination to put Christ to death and the lengths they were willing to go to fulfill their dark purpose.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9888654114942121,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                31.5,
+                29.81,
+                38.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their relentless pursuit of evidence against Jesus, the religious leaders sought false witnesses, revealing their treacherous cruelty and blinded obstinacy. They knew that true witnesses could not be found but persisted in their quest to oppress him. This sinful act, of judges actively seeking false witnesses against Jesus, is a glaring display of their determination to put Christ to death and the lengths they were willing to go to fulfill their dark purpose.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.169994595504258,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                32.05,
+                29.04,
+                38.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their relentless pursuit of evidence against Jesus, the religious leaders sought false witnesses, showing their treacherous cruelty and blinded obstinacy. Despite knowing that true witnesses could not be found, they continued their quest to oppress him. This sinful act, of judges seeking false witnesses against Jesus, highlights their determination to put him to death and their willingness to go to any lengths to achieve their dark purpose.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.182089157880603,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+            "commentatorTierSimilarities": [
+                32.28,
+                29.75,
+                37.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their relentless pursuit of evidence against Jesus, the religious leaders kept on seeking false witness, revealing a treacherous and blinded obstinacy. They knew that true witnesses could not be found, yet they persisted in their quest for a pretense to oppress him. This sinful act, of judges actively seeking false witnesses against Jesus, is a glaring display of their determination to put him to death and the lengths they were willing to go to fulfill their dark purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.1864188719705115,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                32.03,
+                28.91,
+                39.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their relentless pursuit of evidence, the religious leaders sought false witnesses against Jesus, demonstrating their treacherous cruelty. Even though they knew that true witnesses would not be found, they still persisted in their quest for a pretense to oppress him. This sinful act of judges actively seeking false witnesses displays their determination to put Jesus to death, revealing the depths of their blinded obstinacy and their willingness to go to any lengths to fulfill their dark purpose.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.160879509059689,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                31.7,
+                28.55,
+                39.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

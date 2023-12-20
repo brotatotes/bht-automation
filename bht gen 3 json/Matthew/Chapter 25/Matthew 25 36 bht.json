@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:53:03",
+    "verseRef": "Matthew 25:36",
+    "bestBHT": {
+        "bht": "Jesus urges believers to extend care and compassion to the vulnerable, emphasizing the significance of visiting and looking after those in need. The term visited conveys the idea of offering sympathy and care, akin to our modern concept of visiting someone. This act of visiting the sick was highly esteemed, with Jewish teachings emphasizing its eternal reward and comparing the absence of such visits to shedding blood. By demonstrating care for the afflicted, believers provide comfort, support, and a tangible expression of love to their fellow human beings.",
+        "wordCount": 88,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.3160063793845533,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.1,
+        "commentatorTierSimilarities": [
+            13.87,
+            36.86,
+            49.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "36. Naked . . . sick . . . prison,",
+            "\tand ye came unto me."
+        ],
+        "Marvin Vincent": [
+            "Visited [\u03b5\u03c0\u03b5\u03c3\u03ba\u03b5\u03c8\u03b1\u03c3\u03b8\u03b5] . Lit., Ye looked upon.",
+            "Our word visit is from the Latin viso, to look steadfastly at, and thence to visit.",
+            "We retain the original thought in the popular phrases to see one, and to look in upon one."
+        ],
+        "Philip Schaff": [
+            "Healing and release are not mentioned, these could be rendered by a few only; but visitation, sympathy, care, which all can give.",
+            "Visitation, sympathy, care, which all can give.",
+            "Healing and release are not mentioned."
+        ],
+        "Archibald T. Robertson": [
+            "Clothed me (\u03c0\u03b5\u03c1\u03b9\u03b5\u03b2\u03b1\u03bb\u03b5\u03c4\u03b5 \u03bc\u03b5). Second aorist middle indicative, cast something around me.",
+            "Visited me (\u03b5\u03c0\u03b5\u03c3\u03ba\u03b5\u03c8\u03b1\u03c3\u03b8\u03b5 \u03bc\u03b5). Looked after, came to see. Our 'visit' is from Latin viso, video.",
+            "Cf. our English 'go to see.'"
+        ],
+        "John Gill": [
+            "For in such a condition sometimes are the dear children of God, and members of Christ, when others, who, Dorcas like, have made coats and garments for them, and clothed them with them.",
+            "Visiting of the sick was reckoned, by the Jews, a very worthy action: they speak great things of it, and as what will be highly rewarded hereafter.",
+            "One of their Rabbins says, 'he that does not visit the sick, is as if he shed blood: says another, he that visits the sick is the cause of his living; and he that does not visit the sick, is the cause of his death: and, says a third, whoever visits the sick shall be preserved from the damnation of hell.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 25:36, Jesus speaks of the importance of looking after those in need, likening it to visiting Him personally. The word visited conveys the idea of looking steadfastly at, and from this, we derive our word visit. It carries the significance of showing sympathy and care for others, which anyone can offer. Though the verse does not specifically mention healing or release, it emphasizes the value of visitation, which can provide comfort and support to those facing trials. This act of visiting the sick was highly regarded by the Jews, who believed it to be a virtuous action that would be greatly rewarded in the future. Just as the Rabbis expressed, visiting the sick is seen as preserving life and avoiding damnation. Thus, Jesus underscores the importance of compassionately caring for those who are suffering by visiting them and offering support in their time of need.",
+            "wordCount": 146,
+            "quoteTokenProportion": 38.54,
+            "qualityScore": 1.2795306857057995,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.89,
+            "commentatorTierSimilarities": [
+                10.47,
+                40.35,
+                49.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus urges believers to extend care and compassion to the vulnerable, emphasizing the significance of visiting and looking after those in need. The term visited conveys the idea of offering sympathy and care, akin to our modern concept of visiting someone. This act of visiting the sick was highly esteemed, with Jewish teachings emphasizing its eternal reward and comparing the absence of such visits to shedding blood. By demonstrating care for the afflicted, believers provide comfort, support, and a tangible expression of love to their fellow human beings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3160063793845533,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.1,
+            "commentatorTierSimilarities": [
+                13.87,
+                36.86,
+                49.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus calls on his followers to show compassion by visiting and caring for those who are vulnerable and in need. The word visited used in this context refers to looking steadfastly at someone. This act of visiting the sick was highly regarded, with Jewish teachings praising it as a virtuous action that would be richly rewarded. By showing sympathy and care, believers have the opportunity to provide comfort and support to those who are suffering, reflecting the love and kindness of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.2076535713764565,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                13.28,
+                32.86,
+                53.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 25:36, Jesus emphasizes the importance of visiting and looking after those who are vulnerable and in need. The term visited suggests the act of looking steadfastly at someone, which entails showing sympathy and care. This act of visiting the sick was highly valued by the Jewish community, being praised as a virtuous deed that would be greatly rewarded. By extending compassion and support to those facing adversity, believers can reflect God's love and offer comfort to those who are suffering.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.1668638934373563,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+            "commentatorTierSimilarities": [
+                7.4,
+                39.88,
+                52.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasizes the significance of visiting and caring for the vulnerable. The term visited implies the act of looking steadfastly at someone, expressing sympathy and care. Jewish teachings highly esteem the act of visiting the sick, regarding it as a virtuous action that will be greatly rewarded. By extending compassion and support to those in need, believers can reflect the love of Christ, providing comfort and care for those enduring hardships.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2437266254402806,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.7,
+            "commentatorTierSimilarities": [
+                9.11,
+                43.6,
+                47.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

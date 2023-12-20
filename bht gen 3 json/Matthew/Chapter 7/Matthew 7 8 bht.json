@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:48",
+    "verseRef": "Matthew 7:8",
+    "bestBHT": {
+        "bht": "For every one who asks receives, and to the one who seeks finds, and to the one who knocks it will be opened. This promise is limited only by the condition of asking rightly, as cautioned by James. It is crucial to approach God in faith and with an honest intention to use what we receive for His purposes. God is always prepared to listen to our prayers and respond, regardless of who we are, as long as we come to Him in the right manner.",
+        "wordCount": 86,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 1.632314522403876,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+        "commentatorTierSimilarities": [
+            28.58,
+            31.71,
+            39.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The only limitation to this promise, which, under various forms, is several times repeated by our Lord, is furnished in vv. 9\u201311, and in James iv. 8, 'Ye ask and receive not, because ye ask amiss.'",
+            "There are two questions here, the first of which is broken off.",
+            "The similitude of bread (a loaf) and a stone also appears in ch. iv. 8. Luke (xi. 12) adds the and the scorpion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.\" ",
+            "It is presumed that he asks aright\u2014that is, in faith\u2014and with an honest purpose to make use of what he receives.",
+            "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts."
+        ],
+        "John Calvin": [
+            "Christ presents the grace of his Father to those who pray.",
+            "God is of himself prepared to listen to us, provided we pray to him.",
+            "It is certain, indeed, that often, when believers are asleep, God keeps watch over their salvation, and anticipates their wishes."
+        ],
+        "Philip Schaff": [
+            "For every one that asketh, etc. An invariable rule; a plain promise, not for the future, but for the present...\" (Matthew 7:8) ",
+            "This promise, several times repeated by our Lord, is limited only by the verses which follow...\" (Matthew 7:8) ",
+            "God always answers the right kind of prayer, but in His own right way.\" (Matthew 7:8, James 4:3)"
+        ],
+        "John Gill": [
+            "For God is no respecter of persons; whoever makes application, be he a Jew, or a Gentile, rich or poor, bond or free, a man of great gifts, or mean parts, provided he asks aright, from right principles, and with right views, shall not lose his labour.",
+            "And he that seeketh findeth; he that seeks for God in Christ, the grace and mercy of God, the kingdom of God, and his righteousness; that seeks after the true riches, both of grace and glory, shall be sure to find them.",
+            "And to him that knocketh it shall be opened: that is, to him that is constant at the throne of grace, who continues knocking at the door of mercy, and will have no denial, it shall be opened to him; and he shall have entrance into the holiest of all by the blood of Jesus."
+        ],
+        "John Wesley": [
+            "For every one that asketh receiveth \u2014 Provided he ask aright, and ask what is agreeable to God's will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For every one who asks receives, and to the one who seeks finds, and to the one who knocks it will be opened. This promise, consistently reiterated by Jesus, is conditioned only by the context of asking rightly. James warns that when we ask with impure motives, we will not receive. Therefore, it is crucial to approach God in faith and with a sincere desire to use what we receive for His purposes. God is always prepared to listen and respond to our prayers, regardless of who we are, as long as we come to Him in the right way. And when we seek God diligently, we will find Him and His rich blessings. Likewise, those who persistently knock at the door of mercy with unwavering faith will surely have it opened to them. Let us approach God in prayer with the confidence that He is eager to grant our requests, as long as they align with His will.",
+            "wordCount": 159,
+            "quoteTokenProportion": 39.78,
+            "qualityScore": 1.5607066488732588,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                26.42,
+                30.51,
+                43.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For every one who asks receives, and to the one who seeks finds, and to the one who knocks it will be opened. This promise is conditioned only by the context of asking rightly, as James warns about asking with impure motives. It is crucial to approach God in faith and with a sincere desire to use what we receive for His purposes. God is always prepared to listen and respond to our prayers, regardless of who we are, as long as we come to Him in the right way. And when we seek God diligently, we will find Him and His rich blessings. Likewise, those who persistently knock at the door of mercy with unwavering faith will surely have it opened to them. Let us approach God in prayer with confidence and the assurance that He eagerly grants our requests as long as they align with His will.",
+            "wordCount": 149,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 1.550766318940541,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                27.16,
+                27.86,
+                44.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For every one who asks receives; and to the one who seeks finds; and to the one who knocks it will be opened. This promise is conditioned only by the context of asking rightly, as James warns about asking with impure motives. It is crucial to approach God in faith and with a sincere desire to use what we receive for His purposes. God is always prepared to listen and respond to our prayers, regardless of who we are, as long as we come to Him in the right way.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.6311799442175101,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "commentatorTierSimilarities": [
+                29.18,
+                29.22,
+                41.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For every one who asks receives, and to the one who seeks finds, and to the one who knocks it will be opened. This promise is limited only by the condition of asking rightly, as cautioned by James. It is essential to approach God in faith and with an honest intention to use what we receive for His purposes. God is always prepared to listen and respond to our prayers, regardless of who we are, as long as we come to Him in the right manner.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.6208334488913527,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                28.44,
+                31.38,
+                40.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For every one who asks receives, and to the one who seeks finds, and to the one who knocks it will be opened. This promise is limited only by the condition of asking rightly, as cautioned by James. It is crucial to approach God in faith and with an honest intention to use what we receive for His purposes. God is always prepared to listen to our prayers and respond, regardless of who we are, as long as we come to Him in the right manner.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.632314522403876,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                28.58,
+                31.71,
+                39.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

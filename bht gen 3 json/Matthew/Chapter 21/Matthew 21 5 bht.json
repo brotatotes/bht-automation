@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:50:47",
+    "verseRef": "Matthew 21:5",
+    "bestBHT": {
+        "bht": "Jesus' humble entry into Jerusalem on a donkey subverts expectations of a triumphant king. The use of daughter of Zion refers to Jerusalem and its people, highlighting the fulfillment of prophetic announcement about the Messiah. This act symbolizes Jesus' meekness, contrasting worldly grandeur. The colt may represent Gentiles, untamed until sanctified by Christ, while the mother may symbolize Judaism under the yoke of the law. Through this humble entry, Jesus becomes the Mediator, bringing joy and deliverance to his people.",
+        "wordCount": 80,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.5070600047474851,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+        "commentatorTierSimilarities": [
+            19.61,
+            48.99,
+            31.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Daughter of Sion. Jerusalem...daughter of my people.\" ",
+            "He is mounted, not on a stately charger with embroidered and jewelled housings, nor even on an ass for the saddle...He rides on a common beast-of-burden.",
+            "Garments. Outer garments."
+        ],
+        "John Calvin": [
+            "The coming of Christ yields to believers a full and complete ground of joy.",
+            "Since God is not reconciled to them in any other way than through the agency of the Mediator, and as it is the same Mediator who delivers his people from all evils.",
+            "When the Redeemer is present with them, they ought to be perfectly joyful."
+        ],
+        "Philip Schaff": [
+            "He chooses to ride upon the foal of an ass, not on a horse, the symbol of pride.",
+            "But He thus fulfilled a prophetic announcement, in which the Messiah is represented as the king entering Jerusalem, and yet as lowly.",
+            "The Fathers allegorized the incident, regarding the colt as a symbol of the Gentiles, untamed and unclean before Christ sat upon them and sanctified them, the mother representing Judaism under the yoke the law."
+        ],
+        "Archibald T. Robertson": [
+            "The daughter of Zion (\u03c4\u03b7 \u03b8\u03c5\u03b3\u03b1\u03c4\u03c1 \u03a3\u03b9\u03c9\u03bd). Jerusalem as in Isaiah 22:4 (daughter of my people). So Babylon (Isaiah 47:1), daughter of Tyre for Tyre (Psalms 45:12).",
+            "Riding (\u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b7\u03ba\u03c9\u03c2). Perfect active participle of \u03b5\u03c0\u03b9\u03b2\u03b1\u03b9\u03bd\u03c9, 'having gone upon.'",
+            "The use of \u03c5\u03c0\u03bf\u03b6\u03c5\u03b3\u03b9\u03bf\u03c5 (a beast of burden, under a yoke) for ass is common in the LXX and in the papyri (Deissmann, Bible Studies p. 161)."
+        ],
+        "John Gill": [
+            "By the daughter of Zion is meant... the Jewish synagogue; or...the people of the Jews; particularly the elect of God among them, those that embraced the true Messiah, and believed in him.",
+            "In a little time after this prophecy was given out, [the Messiah] was to come to Zion, and redeem Jacob from all his iniquities, and was now come.",
+            "A character it is, that well agrees with Jesus, who, in the whole of his deportment, both in life and in death, was a pattern of meekness and lowliness of mind."
+        ],
+        "John Wesley": [
+            "The Prince of Peace did not take a horse, a warlike animal.",
+            "But it by no means appears, that this opinion prevailed, or this custom continued, till the reign of Tiberias.",
+            "Was it a mean attitude wherein our Lord then appeared? Mean even to contempt! I grant it: I glory in it: it is for the comfort of my soul for the honour of his humility, and for the utter confusion of all worldly pomp and grandeur."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how Jesus, the Savior, rides into Jerusalem on a humble donkey rather than a majestic horse, subverting the expectations of a triumphant king. The use of the term daughter of Zion refers to Jerusalem and its people, emphasizing the fulfillment of prophetic announcement of the Messiah entering the city. This act symbolizes Jesus' meekness and lowliness, contrasting with worldly pomp and grandeur. The commentaries also suggest that the colt represents the Gentiles, untamed and unclean until sanctified by Christ, while the mother represents Judaism under the yoke of the law. Through this humble entry, Jesus becomes the Mediator and brings joy and deliverance to his people.",
+            "wordCount": 109,
+            "quoteTokenProportion": 29.33,
+            "qualityScore": 1.5719985568690964,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                19.78,
+                49.52,
+                30.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' humble entry into Jerusalem on a donkey subverts expectations of a triumphant king. The use of daughter of Zion refers to Jerusalem and its people, highlighting the fulfillment of prophetic announcement about the Messiah. This act symbolizes Jesus' meekness, contrasting worldly grandeur. The colt may represent Gentiles, untamed until sanctified by Christ, while the mother may symbolize Judaism under the yoke of the law. Through this humble entry, Jesus becomes the Mediator, bringing joy and deliverance to his people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5070600047474851,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                19.61,
+                48.99,
+                31.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' humble entry into Jerusalem on a common beast-of-burden challenges expectations of grandeur and instead emphasizes meekness. The mention of daughter of Zion refers to Jerusalem and the people, fulfilling a prophetic announcement about the Messiah. This act symbolizes Jesus' lowliness, serving as a stark contrast to worldly pomp. The commentaries suggest that the colt represents the Gentiles, untamed and unclean until sanctified by Christ, while the mother could represent Judaism under the yoke of the law. Jesus, as the Mediator, brings joy and deliverance to his people through this humble entrance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.4934179547723252,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                18.38,
+                48.91,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in a striking departure from expectations, enters Jerusalem on a common beast-of-burden, highlighting his meekness and humility. The term daughter of Zion refers to Jerusalem and its people, fulfilling prophecies about the Messiah. This act serves as a powerful contrast to worldly grandeur. The colt symbolizes the untamed and unclean Gentiles, who are sanctified by Christ, while the mother represents Judaism under the yoke of the law. Jesus, as the Mediator, brings joy and deliverance to his people through this act of humble entry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.3949010362688474,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                18.92,
+                47.81,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, displaying humility, enters Jerusalem on a common beast-of-burden, defying expectations of a majestic king. The use of daughter of Zion reflects Jerusalem and its people, fulfilling prophetic announcements about the Messiah. This act symbolizes Jesus' meekness, contrasting worldly grandeur. The colt may represent the Gentiles, untamed and unclean until sanctified by Christ, while the mother could symbolize Judaism under the yoke of the law. Through this humble entrance, Jesus, as the Mediator, brings joy and deliverance to his people.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.4844237242675469,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "commentatorTierSimilarities": [
+                19.65,
+                48.65,
+                31.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

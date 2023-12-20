@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:47:48",
+    "verseRef": "Matthew 13:56",
+    "bestBHT": {
+        "bht": "The first opinion, the most fitting for the text, suggests that the parties mentioned are undoubtedly referred to in other places. The question remains with uncertainties and difficulties. It is essential to distinguish Joses or Joseph from Joseph called Barsabas or Justus. The identities of those mentioned are unclear, possibly the daughters of Joseph from a previous union. Regardless, they were well-acquainted with Jesus and his kin. The origin of Jesus' wisdom and mighty works remains a mystery as it cannot be attributed to his family or any formal education.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 0.9847384457116388,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.09,
+        "commentatorTierSimilarities": [
+            58.32,
+            0.0,
+            41.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The first opinion undoubtedly suits the text best in all the places where the parties are certainly referred to.",
+            "Thus dubiously we prefer to leave this vexed question, encompassed as it is with difficulties.",
+            "The second of those here named, 'JOSES' (or Joseph), must not be confounded with 'Joseph called Barsabas, who was surnamed Justus'."
+        ],
+        "John Gill": [
+            "Whose names, according to Epiphanius, were Mary and Salome; whom he supposes were the daughters of Joseph, by a former wife; but rather of Alphaeus or Cleophas.",
+            "Lived in the same town with them, were well known by them, and familiar with them.",
+            "His wisdom and his mighty works; for since he had not them from any of their schools, and nurseries of learning, from their learned doctors and wise men; and could not have received them from his parents, and near relations, they could not devise from whence he should have them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first opinion, which suggests that the parties mentioned in the verse are undoubtedly referred to in other places, seems to fit the text best. However, the question remains vexed and filled with difficulties, so it is unclear which interpretation is the most accurate. It is important to note that the second party mentioned in this verse, Joses or Joseph, should not be confused with Joseph called Barsabas, who was surnamed Justus. There are different suggestions about the identities of those named in this verse, with one source proposing that they were the daughters of Joseph by a former wife. Regardless, it is clear that these individuals were well-known and familiar with Jesus and his family. Although Jesus did not receive his wisdom and mighty works from any schools or learned doctors, it is still a mystery as to where he obtained them since he could not have learned them from his parents or close relatives.",
+            "wordCount": 157,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.1927410244484546,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.0,
+            "commentatorTierSimilarities": [
+                49.64,
+                0.0,
+                50.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first opinion, which suits the text best, suggests that the parties mentioned in the verse are undoubtedly referred to in other places. The question remains vexed and filled with difficulties, but it is crucial to distinguish between Joses or Joseph and Joseph called Barsabas, surnamed Justus. The identities of those mentioned are uncertain, with one source proposing that they were the daughters of Joseph by a former wife. Nonetheless, it is evident that these individuals were well-known and familiar with Jesus and his family. The origins of Jesus' wisdom and mighty works remain a mystery, as he could not have learned them from his parents or close relatives.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.2678079389762185,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.5,
+            "commentatorTierSimilarities": [
+                49.51,
+                0.0,
+                50.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first opinion, which is the most suitable for the text, points to the parties mentioned in other places. Although the question remains uncertain and riddled with difficulties, it is important to note the distinction between Joses or Joseph and Joseph called Barsabas, known as Justus. While the identities of those mentioned are unclear, one possibility is that they were the daughters of Joseph from a previous marriage. Nevertheless, it is evident that they were familiar with Jesus and his family. The source of Jesus' wisdom and mighty works remains a mystery, as he did not acquire them from traditional sources or immediate family.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.1172851792374303,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.49,
+            "commentatorTierSimilarities": [
+                51.48,
+                0.0,
+                48.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first opinion, aligning well with the text, asserts that the parties mentioned elsewhere are the same. Despite difficulties, it is best to leave this question undecided. Notably, the second party named, Joseph or Joses, should not be confused with Joseph called Barsabas, also known as Justus. The identities of those mentioned in the verse are uncertain, with one source proposing that they could be the daughters of Joseph from a prior marriage. However, what remains intriguing is where Jesus acquired his wisdom and mighty works, which seems to have surpassed traditional sources and immediate family.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.0876200967345293,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.51,
+            "commentatorTierSimilarities": [
+                64.12,
+                0.0,
+                35.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first opinion, the most fitting for the text, suggests that the parties mentioned are undoubtedly referred to in other places. The question remains with uncertainties and difficulties. It is essential to distinguish Joses or Joseph from Joseph called Barsabas or Justus. The identities of those mentioned are unclear, possibly the daughters of Joseph from a previous union. Regardless, they were well-acquainted with Jesus and his kin. The origin of Jesus' wisdom and mighty works remains a mystery as it cannot be attributed to his family or any formal education.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 0.9847384457116388,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.09,
+            "commentatorTierSimilarities": [
+                58.32,
+                0.0,
+                41.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

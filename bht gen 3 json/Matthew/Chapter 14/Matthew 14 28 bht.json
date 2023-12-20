@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:48:15",
+    "verseRef": "Matthew 14:28",
+    "bestBHT": {
+        "bht": "Peter's encounter with Jesus on the water reveals the remarkable power of faith. Despite his caution, Peter's request to come towards Jesus on the water showcases his deep love and unwavering trust. This narrative serves as a poignant reminder of the higher spiritual state's ability to transcend physical laws. As believers, we must exercise caution, avoiding hasty decisions. By granting our requests, God can help us recognize our own folly and fully experience His power. Through this episode, Peter's faith shines brightly in his willingness to step out with Christ, depending on His guidance.",
+        "wordCount": 98,
+        "quoteTokenProportion": 29.58,
+        "qualityScore": 1.440471180090714,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+        "commentatorTierSimilarities": [
+            34.17,
+            22.47,
+            43.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This narrative respecting Peter is peculiar to Matthew.",
+            "It contains one of the most pointed and striking revelations which we have of the nature and analogy of faith.",
+            "A notable example of the power of the higher spiritual state of man over the inferior laws of matter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "28. And Peter answered him and said,",
+            "\tLord, if it is thou, bid me come to thee on the water\u2014(Also see",
+            "\ton :-.)"
+        ],
+        "John Calvin": [
+            "Let believers, therefore, instructed by his example, beware of excessive haste.",
+            "In many cases God promotes our interests better by refusing our requests; but at times he yields to us, that by experience we may be the more fully convinced of our own folly.",
+            "The power of Christ shone more brightly in the person of Peter, when he admitted him as a companion, than if he had walked alone on the waters."
+        ],
+        "Philip Schaff": [
+            "The occurrence is strikingly in accordance with Peter\u2019s impulsive character, \u2018almost a rehearsal\u2019 of the subsequent denial.",
+            "Not the language of doubt Peter\u2019s fault lay in the words: bid me, etc., which betray a desire to outdare the other disciples.",
+            "Comp, the boast: \u2018Though all should be offended,\u2019 etc."
+        ],
+        "Archibald T. Robertson": [
+            "Upon the waters (\u03b5\u03c0 \u03c4\u03b1 \u03c5\u03b4\u03b1\u03c4\u03b1). The impulsiveness of Peter appears as usual. Matthew alone gives this Peter episode. "
+        ],
+        "John Gill": [
+            "Lord, if it be thou; for he was not fully assured that it was he: he might consider that nocturnal apparitions are deceitful, and that Satan can transform himself into an angel of light, and could put on the appearance, and mimic the voice of Christ; wherefore, to try whether it was a spectre, or really Christ, he says...\" ",
+            "bid me come unto thee on the water; thereby expressing great love and affection to Christ, being willing to come to him, though through danger, through storms and tempests; and also his strong faith in him, supposing it to be he; who, he knew, was as able to support his body on the water, as his own...\" ",
+            "...and yet much modesty, submission, and dependence; not willing to take a step without his order."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's unique encounter with Jesus, as recorded in Matthew 14, offers a profound insight into the nature of faith. Recognizing Christ on the water, Peter displays both faith and caution, seeking assurance before stepping out onto the waves. His request to come towards Jesus on the water is a testament to his love, affection, and unwavering trust in the Lord's power. This narrative serves as a powerful reminder that, when God grants our requests, it is often so that we may fully recognize our own folly and the greatness of His power. Peter's willingness to step out onto the water with Christ demonstrates the potential of the higher spiritual state of humanity to transcend the laws of the physical world. However, it also highlights the need for believers to exercise caution and avoid rushing into situations without seeking God's guidance.",
+            "wordCount": 143,
+            "quoteTokenProportion": 33.7,
+            "qualityScore": 1.4184857472696564,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                34.55,
+                17.96,
+                47.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's encounter with Jesus on the water offers a striking revelation of faith. Demonstrating both love and unwavering trust, he asks the Lord to bid him come towards Him on the water. This unique episode showcases the power of the higher spiritual state of man over the laws of matter. Believers are cautioned to avoid excessive haste, as God sometimes refuses our requests to protect our best interests. The experience serves to deepen our conviction of our own folly and highlights the greatness of Christ's power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.3622760726830192,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.64,
+            "commentatorTierSimilarities": [
+                35.08,
+                18.42,
+                46.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's encounter with Jesus on the water reveals a significant aspect of faith. His request to come towards Jesus on the water is a testament to his love and trust in Christ's ability. This narrative showcases the power of the spiritual state over the laws of the physical world. Though cautioning against excessive haste, believers can learn from Peter's example. Sometimes, God grants our requests to help us recognize our own folly and experience the full extent of His power.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.423035790985401,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+            "commentatorTierSimilarities": [
+                35.12,
+                21.58,
+                43.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's encounter with Jesus on the water demonstrates the remarkable power and nature of faith. His request to come towards Jesus on the water reflects both his deep love and unwavering trust in Christ's ability. This unique episode highlights the potential of the spiritual state of humanity to defy the laws of the physical world. Believers are urged to exercise caution and avoid impulsive decisions, as God sometimes grants our requests to teach us the extent of our own folly and the magnitude of His power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.3746241518248556,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+            "commentatorTierSimilarities": [
+                34.39,
+                18.8,
+                46.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's encounter with Jesus on the water reveals the remarkable power of faith. Despite his caution, Peter's request to come towards Jesus on the water showcases his deep love and unwavering trust. This narrative serves as a poignant reminder of the higher spiritual state's ability to transcend physical laws. As believers, we must exercise caution, avoiding hasty decisions. By granting our requests, God can help us recognize our own folly and fully experience His power. Through this episode, Peter's faith shines brightly in his willingness to step out with Christ, depending on His guidance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.440471180090714,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                34.17,
+                22.47,
+                43.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

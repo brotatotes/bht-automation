@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:47:04",
+    "verseRef": "Matthew 12:34",
+    "bestBHT": {
+        "bht": "Jesus reveals the evil heart within mankind and its effect on our speech. Out of the abundance of the heart, the mouth speaks, exposing the wickedness within. Bad speeches are indications of a bad heart, and those full of malice belch out blasphemous expressions. Just as a tree is known by its fruit, our language reflects the state of our hearts.",
+        "wordCount": 61,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.6222332994505693,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+        "commentatorTierSimilarities": [
+            32.54,
+            23.22,
+            44.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "O generation of vipers\u2014(See on Matthew 3:7).",
+            "how can ye, being evil, speak good things?",
+            "for out of the abundance of the heart the mouth speaketh\u2014a principle obvious enough, yet of deepest significance and vast application."
+        ],
+        "John Calvin": [
+            "There is no reason to wonder that you vomit out wicked words; for your heart is full of malice.",
+            "This passage shows how highly valuable in the sight of the Lord truth is, since he maintains and defends it with such rigor.",
+            "It is an invariable truth that bad speeches are indications of a bad heart."
+        ],
+        "Philip Schaff": [
+            "The meek and lowly Savior utters these words.",
+            "There is probably an allusion to the 'seed of the serpent' (Genesis 3:15), which is in constant antagonism to 'the seed of the woman.'",
+            "A moral impossibility, for out of the abundance, etc. They had only spoken against Him; but this proves their evil character."
+        ],
+        "Archibald T. Robertson": [
+            "The charge against Jesus of being in league with Satan reveals the evil heart within.",
+            "The heart 'spurts out' (\u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03b5) good or evil according to the supply (treasure, \u03b8\u03b7\u03c3\u03b1\u03c5\u03c1\u03bf\u03c5) within.",
+            "Jesus often repeated his crisp pungent sayings as every teacher does."
+        ],
+        "John Gill": [
+            "Though they boasted of their being the seed of Abraham, yet their immediate ancestors were no other than vipers, deceitful, hurtful, poisonous creatures; and they were exactly like them.",
+            "And since they were so full of wickedness, spite and malice, it is no wonder that they belched out such blasphemous expressions concerning the miracles of Christ.",
+            "And where there is abundance of wickedness in the heart, if the grace of God is wanting to restrain it, much of it will come out by the lips; as is a man's heart, ordinarily is his language."
+        ],
+        "John Wesley": [
+            "In another kind likewise, the tree is known by its fruit - Namely, the heart by the conversation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This passage reminds us of the evil heart within mankind and its effect on our speech. Jesus, the meek and lowly Savior, exposes the hearts of those who accuse Him of being in league with Satan. He teaches that the words we speak are a reflection of what is stored in our hearts, emphasizing the significance of our heart's condition. As Jesus often repeated His teachings, this principle remains true: bad speeches reveal a bad heart. It is no wonder, then, that those whose hearts were full of malice and wickedness vomited out such blasphemous expressions. Just as a tree is known by its fruit, the language we use can reveal the state of our hearts.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5858767692124955,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                31.3,
+                26.83,
+                41.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This exposes the evil heart within mankind and its effect on our speech. Jesus reveals the hearts of those who accuse Him of being in league with Satan. He teaches that the words we speak reflect what is stored in our hearts. Bad speeches reveal a bad heart. Those full of malice and wickedness vomit out blasphemous expressions. Just as a tree is known by its fruit, our language reveals the state of our hearts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4960146995208015,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.09,
+            "commentatorTierSimilarities": [
+                33.45,
+                24.82,
+                41.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This exposes the evil heart within mankind and its effect on our speech. Jesus reveals the hearts of those who accuse Him of being in league with Satan. He teaches that the words we speak reflect what is stored in our hearts. Bad speeches reveal a bad heart. Just as a tree is known by its fruit, our language reveals the state of our hearts.",
+            "wordCount": 65,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 1.4930542516552179,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                34.55,
+                22.8,
+                42.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus exposes the evil heart within and its impact on our speech. He reveals the hearts of those who accuse Him, emphasizing that the words we speak reflect what is stored within. Bad speeches reveal a bad heart. Just as a tree is known by its fruit, our language unveils the state of our hearts.",
+            "wordCount": 55,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.449468526977578,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.54,
+            "commentatorTierSimilarities": [
+                32.57,
+                21.62,
+                45.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reveals the evil heart within mankind and its effect on our speech. Out of the abundance of the heart, the mouth speaks, exposing the wickedness within. Bad speeches are indications of a bad heart, and those full of malice belch out blasphemous expressions. Just as a tree is known by its fruit, our language reflects the state of our hearts.",
+            "wordCount": 61,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6222332994505693,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                32.54,
+                23.22,
+                44.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

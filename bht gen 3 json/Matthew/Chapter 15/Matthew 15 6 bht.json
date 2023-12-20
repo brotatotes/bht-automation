@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:48:19",
+    "verseRef": "Matthew 15:6",
+    "bestBHT": {
+        "bht": "By prioritizing their own traditions and technicalities, the religious leaders of Jesus' time were voiding the authority of God's commandments. Though dedicating property to God is commendable, it should not come at the expense of honoring one's parents. The Pharisees' rejection of the fifth commandment and their reliance on empty rituals undermined the moral force of God's word. Unfortunately, this tendency to prioritize man-made traditions over direct commands from God is still present in modern-day Pharisaism. We must be cautious not to let church traditions lead us to deny God's direct commands.",
+        "wordCount": 98,
+        "quoteTokenProportion": 38.03,
+        "qualityScore": 1.8183617823670617,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+        "commentatorTierSimilarities": [
+            36.39,
+            59.07,
+            4.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And honour not his father or his mother, he shall be free \u2014that is, It is true, father\u2014mother\u2014that by giving to thee this, which I now present, thou mightest be profited by me; but I have gifted it to pious uses, and therefore, at whatever cost to thee, I am not now at liberty to alienate any portion of it.\" ",
+            "To dedicate property to God is indeed lawful and laudable, but not at the expense of filial duty.",
+            "Thus have ye made the commandment of God of none effect\u2014cancelled or nullified it 'by your tradition.'"
+        ],
+        "Marvin Vincent": [
+            "Have made of none effect [\u03b7\u03ba\u03c5\u03c1\u03c9\u03c3\u03b1\u03c4\u03b5] . Rev., made void; aj, not, kurov, authority. Ye have deprived it of its authority."
+        ],
+        "Philip Schaff": [
+            "The best authorities omit, 'and.' 'Ye say; whosoever shall say, etc., he shall not honor his father.' The Pharisees directly deny the validity of the fifth commandment.",
+            "What God says is of itself a command, never to be rejected.",
+            "Modern Pharisaism does the same. Church tradition leads to dogmas which deny God\u2019s direct commands."
+        ],
+        "Archibald T. Robertson": [
+            "Ye have made void the word of God... It was a stinging indictment that laid bare the hollow pretence of their quibbles about handwashing.\" ",
+            "The moral force of God's law is annulled by their hairsplitting technicalities and immoral conduct."
+        ],
+        "John Gill": [
+            "See note on Mt 15:5"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By prioritizing their own traditions and technicalities, the religious leaders of Jesus' time were voiding the authority of God's commandments. Though dedicating property to God is commendable, it should not come at the expense of honoring one's parents. The Pharisees' rejection of the fifth commandment and their reliance on empty rituals undermined the moral force of God's word. Unfortunately, this tendency to prioritize man-made traditions over direct commands from God is still present in modern-day Pharisaism. We must be cautious not to let church traditions lead us to deny God's direct commands.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8183617823670617,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                36.39,
+                59.07,
+                4.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By prioritizing their own traditions and technicalities, the religious leaders of Jesus' time were voiding the authority of God's commandments. Though dedicating property to God is commendable, it should not come at the expense of honoring one's parents. The Pharisees' rejection of the fifth commandment and their reliance on empty rituals undermined the moral force of God's word. Unfortunately, this tendency to prioritize man-made traditions over direct commands from God is still present in modern-day Pharisaism. We must be cautious not to let church traditions lead us to deny God's direct commands.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8183617823670617,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                36.39,
+                59.07,
+                4.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By disregarding the fifth commandment and placing their traditions above God's word, the religious leaders of Jesus' time were nullifying the authority of His commandments. While dedicating property to God is praiseworthy, it should never overshadow honoring one's parents. The Pharisees' obsession with technicalities and rituals not only diluted the moral force of God's law but also set a precedent for modern Pharisaism, where church traditions can supersede direct commands from God. To ensure faithful obedience, we must avoid letting man-made traditions undermine God's divine instructions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.75850309611312,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.81,
+            "commentatorTierSimilarities": [
+                36.25,
+                56.7,
+                7.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By giving precedence to their tradition over the commandments of God, the religious leaders of Jesus' time were rendering God's word null and void. Their insistence on handwashing rituals and devotion to their own traditions undermined the moral authority of God's laws. This tendency to prioritize man-made traditions over God's direct commands continues to manifest in modern-day Pharisaism. We must be cautious, ensuring that church traditions do not lead us to deny or reject the direct commands of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7344013620678478,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                36.7,
+                62.91,
+                0.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By prioritizing their own traditions over God's commandments, the religious leaders of Jesus' time were voiding the authority of His word. While dedicating property to God is commendable, it should not come at the expense of honoring one's parents. The Pharisees' rejection of the fifth commandment and their reliance on empty rituals undermined the moral force of God's truth. This tendency to place man-made traditions above God's direct commands is still prevalent in modern Pharisaism. We must be cautious not to let church traditions lead us to deny God's explicit instructions.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7695522272416806,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                35.32,
+                60.31,
+                4.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

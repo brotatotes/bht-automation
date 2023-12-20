@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:49:22",
+    "verseRef": "Matthew 18:8",
+    "bestBHT": {
+        "bht": "To avoid the pronounced woe, one must first remove all causes of offense in oneself. The punishment of everlasting fire signifies a severe consequence without end. Causing stumbling or offense to Christ's disciples is equally gratifying the flesh and no more to be indulged than the other, on pain of eternal damnation. It is crucial to use one's talents for the edification of others rather than for personal pride.",
+        "wordCount": 71,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.5352416285490667,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+        "commentatorTierSimilarities": [
+            21.47,
+            26.35,
+            52.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wilt thou avoid being the man on whom this woe is pronounced?\u2014then cut off all occasion of offence in thyself first.",
+            "The cautions following are used in a wider sense than in ch. v. 29, 30.",
+            "Everlasting fire (literally the fire which is eternal), which here first occurs, is more fully expressed in Mark, vv. 43, 44 ff."
+        ],
+        "Philip Schaff": [
+            "In view of this woe, remove all causes of offence in thyself!",
+            "The hand denotes aptitude for government, the foot for exertion, the eye for knowledge, all in ecclesiastical matters.",
+            "The context suggests that all these members (representing talents, etc.) should be used, not for purposes of pride, but to the edification of the little ones."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of \u03b5\u03b9\u03c2 \u03b3\u03b5\u03b5\u03bd\u03bd\u03b1\u03bd we have \u03b5\u03b9\u03c2 \u03c4\u03bf \u03c0\u03c5\u03c1 \u03c4\u03bf \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03bd and at the end of verse Matthew 18:9 \u03c4\u03bf\u03c5 \u03c0\u03c5\u03c1\u03bf\u03c2 is added to \u03c4\u03b7\u03bd \u03b3\u03b5\u03b5\u03bd\u03bd\u03b1\u03bd.",
+            "The word means ageless, without beginning or end as of God, without beginning, without end.",
+            "If the punishment is limited, ipso facto the life is shortened."
+        ],
+        "John Gill": [
+            "Giving offence to Christ's disciples...is equally gratifying the flesh, and no more to be indulged, than the other, on pain of eternal damnation.",
+            "Endeavoring, by any means whatever, to cause them to stumble and fall...is no more to be indulged, than the other, on pain of eternal damnation.",
+            "Offending Christ's disciples...is equally gratifying the flesh, and no more to be indulged, than the other, on pain of eternal damnation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In order to avoid the woe pronounced in the verse, one must first remove any causes of offense within themselves. The punishment described as everlasting fire is ageless and without end, indicating a severe consequence. These cautionary words are not limited to specific actions, but encompass a broader sense of avoiding offense. It is important to recognize that causing stumbling or offense to Christ's disciples is just as detrimental as indulging in fleshly desires. Therefore, it is crucial to use one's talents and abilities for the edification of others rather than for personal pride.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.3360852524478128,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.77,
+            "commentatorTierSimilarities": [
+                24.33,
+                32.58,
+                43.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To avoid the pronounced woe, one must remove all causes of offense within themselves. The punishment of everlasting fire is without end, signifying a grave consequence. Causing stumbling or offense to Christ's disciples is as detrimental as indulging in fleshly desires. Using one's talents for personal pride is to be avoided, instead, they should be used for the edification of others.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.481515311056905,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.6,
+            "commentatorTierSimilarities": [
+                22.2,
+                32.32,
+                45.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To avoid the pronounced woe, one must first remove all causes of offense in oneself. The punishment of everlasting fire signifies a severe consequence without end. Causing stumbling or offense to Christ's disciples is equal to indulging the flesh and must be avoided on pain of eternal damnation. It is important to use one's talents for the edification of others rather than for personal pride.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.493358025520188,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                22.75,
+                28.28,
+                48.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid the woe pronounced, one must remove all causes of offense in oneself. The punishment of everlasting fire signifies a severe consequence without end. Causing stumbling or offense to Christ's disciples is equal to indulging the flesh and must be avoided on pain of eternal damnation. Using one's talents for the edification of others rather than for personal pride is crucial.",
+            "wordCount": 64,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.4912520108465552,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                22.4,
+                28.51,
+                49.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To avoid the pronounced woe, one must first remove all causes of offense in oneself. The punishment of everlasting fire signifies a severe consequence without end. Causing stumbling or offense to Christ's disciples is equally gratifying the flesh and no more to be indulged than the other, on pain of eternal damnation. It is crucial to use one's talents for the edification of others rather than for personal pride.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5352416285490667,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                21.47,
+                26.35,
+                52.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

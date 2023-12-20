@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:27",
+    "verseRef": "Matthew 24:29",
+    "bestBHT": {
+        "bht": "The darkening of the world signifies the occurrence of trouble and danger in human societies. The knowledge of God and the truth will be obscured, while worldly wisdom and the Church system will be demolished. The influences that rule human society will be disturbed, leading to a period of great calamities and tumult among the people. It is important to interpret this apocalyptic eschatology correctly and not take it literally. Hold onto hope and do not be dismayed, as this period will ultimately lead to the last coming of the Lord.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6639638666282597,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+        "commentatorTierSimilarities": [
+            39.49,
+            34.47,
+            26.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The darkening of the material lights of this world is in prophecy as a type of the occurrence of trouble and danger in the fabric of human societies.",
+            "The Knowledge of God shall be obscured\u2014the Truth nigh put out\u2014worldly wisdom darkened\u2014the Church system demolished, and her teachers cast down.",
+            "The influences which rule human society, which make the political weather fair or foul, bright or dark; and encourage the fruits of peace, or inflict the blight and desolation of war."
+        ],
+        "Albert Barnes": [
+            "The term here requires us to admit that, in order to the fulfillment of the prophecy, it can be shown, or it actually happened, that things 'did' soon occur 'after the tribulation of those days' which would be 'properly represented or described' by the images which the Saviour employs.",
+            "They are often employed by the sacred writers to denote 'any great calamities.'",
+            "The roaring of the waves of the sea denotes great tumult and affliction among the people."
+        ],
+        "John Calvin": [
+            "The principal object of his reply was, to confirm his disciples in good hope, that they might not be dismayed on account of the troubles and confusion that would arise.",
+            "The meaning therefore is, that the predictions which had been formerly made about the miraculous shaking of heaven and earth, ought not to be restricted to the commencement of redemption, because the prophets had embraced the whole course of it, till it should arrive at perfection.",
+            "He does not indeed mean that the stars will actually fall, but according to the apprehension of men; and accordingly Luke only predicts that there will be signs in the sun, and in the moon, and in the stars."
+        ],
+        "Philip Schaff": [
+            "After the tribulation of those days, not the tribulation attending the destruction of Jerusalem, but the period of trial which belongs to the \u2018last times.\u2019",
+            "The sun shall be darkened...the knowledge of Christ, the Sun of the Church and the world shall be obscured; the moon shall not give her light...the reflected light of science, which derives its excellence only from Christ, the true Sun, shall cease to guide.",
+            "The stars shall fall from heaven...the leaders and teachers of the Church shall become apostates: the powers of the heavens shall be shaken...the influences which rule human society shall be disturbed."
+        ],
+        "Archibald T. Robertson": [
+            "The use of \u03b5\u03bd \u03c4\u03b1\u03c7\u03b5 in Revelation 1:1 should make one pause before he decides.",
+            "Here we have a prophetic panorama like that with foreshortened perspective.",
+            "Literalism is not appropriate in this apocalyptic eschatology."
+        ],
+        "John Gill": [
+            "Immediately after the tribulation of those days...shall the sun be darkened...and the moon shall not give her light...and the stars shall fall from heaven...and the powers of the heavens shall be shaken.\" ",
+            "Now, though this, in right, was abolished at the death of Christ, and ceased to give any true light, when he, the substance, was come; yet was kept up by the Jews, as long as their temple was standing; but when that was destroyed, the daily sacrifice, in fact, ceased, and so it has ever since.",
+            "meaning all the ordinances of the legal dispensation; which shaking, and even removing of them, were foretold by Haggai 2:6 and explained by the author of the Epistle to the Hebrews, Hebrews 12:26 whereby room and way were made for Gospel ordinances to take place, and be established."
+        ],
+        "John Wesley": [
+            "Immediately after the tribulation of those days...our Lord begins to speak of his last coming.\" ",
+            "He speaks not so much in the language of man as of God, with whom a thousand years are as one day, one moment.",
+            "The powers of the heavens\u2014probably the influences of the heavenly bodies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse refers to a time when the world will be filled with trouble and danger, and the truths and wisdom of God will be obscured. It represents a period of great calamities and tumult among the people, where leaders and teachers of the Church will become apostates. The shaking of the heavens signifies the disturbance of the influences that rule human society. This prophetic panorama should not be taken literally, as it pertains to apocalyptic eschatology. It is a reminder to stay hopeful and not to be dismayed by the troubles and confusion of the world, as this period will ultimately lead to the last coming of the Lord.",
+            "wordCount": 110,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.8090445816356246,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                35.73,
+                35.44,
+                28.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The darkening of the world signifies the occurrence of trouble and danger in human societies. The knowledge of God and the truth will be obscured, while worldly wisdom and the Church system will be demolished. The influences that rule human society will be disturbed, leading to a period of great calamities and tumult among the people. It is important to interpret this apocalyptic eschatology correctly and not take it literally. Hold onto hope and do not be dismayed, as this period will ultimately lead to the last coming of the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6639638666282597,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                39.49,
+                34.47,
+                26.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy of the verse speaks of a time when the world will be filled with trouble and danger, leading to the obscuring of the knowledge and truth of God. This period will witness the demolition of the Church system and the fall of its leaders and teachers. The influences that govern human society will be disturbed and shaken. It is important to understand that this prophetic panorama should not be taken literally but rather in the context of apocalyptic eschatology. Stay hopeful, as this period will ultimately lead to the last coming of the Lord.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6537547994573274,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                36.98,
+                34.01,
+                29.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The darkening of the world signifies the occurrence of trouble and danger in human societies. The knowledge of God and the truth will be obscured, while worldly wisdom and the Church system will be demolished. The influences that rule human society will be disturbed, leading to a period of great calamities and tumult among the people. It is important to interpret this apocalyptic eschatology correctly and not take it literally. Hold onto hope and do not be dismayed, as this period will ultimately lead to the last coming of the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6639638666282597,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                39.49,
+                34.47,
+                26.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The troubling times foretold in the verse indicate a future period of chaos and danger within human societies. The knowledge of God and the truth will be obscured; worldly wisdom and the Church system will crumble. The influences governing society will be disrupted, leading to calamities among the people. It is crucial to understand that this apocalyptic scenario should not be interpreted literally, but rather within the framework of eschatology. Despite the challenges, it is important to remain hopeful, as this era will ultimately culminate in the final coming of the Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5837819482176183,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+            "commentatorTierSimilarities": [
+                37.17,
+                34.54,
+                28.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

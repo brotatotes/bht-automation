@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:44:10",
+    "verseRef": "Matthew 5:43",
+    "bestBHT": {
+        "bht": "Jesus fulfills the command to love our neighbor, extending it to include all mankind, even those who curse, revile, and persecute us. The Pharisees had added the belief to hate one's enemies, but Jesus corrects this and teaches us to pray for our enemies and treat them kindly. The true meaning of neighbor that Jesus restores is a love that looks beyond deserving and extends to the unworthy, the wicked, and the ungrateful. Jesus exemplified this love through his own actions and teachings, such as the parable of the Good Samaritan.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.4634658498811968,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.25,
+        "commentatorTierSimilarities": [
+            34.15,
+            31.45,
+            34.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord\u2019s 'fulfilment' of neighbourly love extends it to all mankind\u2014not only foreign nations, but even those who are actively employed in cursing, reviling, and persecuting us.\" ",
+            "The hating of enemies is, in His fulfilment of it, no longer an individual or national aversion, but a coming out and being separate from all that rebel.",
+            "But our Lord\u2019s 'fulfilment' of neighbourly love extends it to all mankind\u2014not only foreign nations, but even those who are actively employed in cursing, reviling, and persecuting us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou shalt love thy neighbour\u2014To this the corrupt teachers added, and hate thine enemy.\" ",
+            "No wonder that the Romans charged the Jews with hatred of the human race."
+        ],
+        "Albert Barnes": [
+            "The command to love our neighbor was a law of God.",
+            "They were total strangers to that great, special law of religion which requires us to love both.",
+            "A neighbor is literally one that lives near to us; then, one who is near to us by acts of kindness and friendship."
+        ],
+        "Marvin Vincent": [
+            "Neighbor [\u03c4\u03bf\u03bd \u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03bd] . Another word to which the Gospel has imparted a broader and deeper sense.",
+            "The Old Testament expands the meaning to cover national or tribal fellowship, and that is the sense in our Lord 's quotation here.",
+            "The Christian sense is expounded by Jesus in the parable of the Good Samaritan (Luke 10:29 sqq.), as including the whole brotherhood of man, and as founded in love for man, as man, everywhere."
+        ],
+        "John Calvin": [
+            "To keep up the exercise of brotherly love, God assures us, that all men are our brethren, because they are related to us by a common nature.",
+            "But the charity, which God requires in his law, looks not at what a man has deserved, but extends itself to the unworthy, the wicked, and the ungrateful.",
+            "Now, this is the true meaning which Christ restores, and vindicates from calumny; and hence it is obvious, as I have already said, that Christ does not introduce new laws, but corrects the wicked glosses of the Scribes, by whom the purity of the divine law had been corrupted."
+        ],
+        "Philip Schaff": [
+            "The original precept referred to Israelites, and obedience to it helped to keep them distinct from other nations.",
+            "But the Pharisees, to increase the distance between the Jews and Gentiles, added the converse precept: and hate thine enemy.",
+            "Our Lord (\u2018a light to lighten the Gentiles\u2019) opposes this interpretation. Separatism was necessary to preserve the Jews from heathen influence, but this addition was contrary to prophecy and to the purpose of God in sending the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "Paul in Romans 12:20 quotes Proverbs 25:22 to prove that we ought to treat our enemies kindly.",
+            "Jesus taught us to pray for our enemies and did it himself even when he hung upon the cross.",
+            "Jesus taught men how to act as neighbours by the parable of the Good Samaritan (Luke 10:29)."
+        ],
+        "John Gill": [
+            "The Jew has no reason to charge Christ, or the Evangelist, with a false testimony.",
+            "Thus they bred their scholars in hatred and malice against their enemies.",
+            "This arises from a mistaken sense of the word 'neighbor', which they understood only of a friend."
+        ],
+        "John Wesley": [
+            "Thou shalt love thy neighbour; And hate thy enemy \u2014 God spoke the former part; the scribes added the latter. Leviticus 19:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 5:43, Jesus takes the commandment to love our neighbor and expands its meaning to include all of mankind, even those who curse, revile, and persecute us. The original commandment referred to the Israelites, but the Pharisees added the belief that they should hate their enemies in order to increase the separation between Jews and Gentiles. However, Jesus opposes this interpretation and teaches that neighborly love extends to the whole brotherhood of man, as seen in the parable of the Good Samaritan. Instead of focusing on the deserving or the worthy, the charity God requires looks at all men as our brethren, regardless of their actions. Jesus corrects the false interpretations of the Scribes and teaches us to pray for our enemies and treat them kindly, as he did on the cross.",
+            "wordCount": 132,
+            "quoteTokenProportion": 33.72,
+            "qualityScore": 2.4311071496139096,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.17,
+            "commentatorTierSimilarities": [
+                33.27,
+                32.34,
+                34.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus fulfills the commandment to love our neighbor by extending it to encompass all of mankind, including those who revile and persecute us. The original meaning of neighbor in the Old Testament referred to national or tribal fellowship. However, Jesus teaches a broader sense of neighborly love, as seen in the parable of the Good Samaritan. Instead of hating our enemies, Jesus instructs us to pray for them and treat them kindly. He corrects the false interpretations of the religious leaders and restores the true meaning of God's law.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.284948161408707,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.31,
+            "commentatorTierSimilarities": [
+                33.61,
+                33.16,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus goes beyond the individual or national aversion in fulfilling the law of neighborly love and includes even those who curse, revile, and persecute us. The commandment to love our neighbor was originally meant for the Israelites but was misinterpreted by the Pharisees to include hating enemies. Jesus corrects this misunderstanding and teaches us to love all mankind, as shown in the parable of the Good Samaritan. He overturns the notion of exclusive national fellowship and emphasizes love for all, even the unworthy and ungrateful.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.360548699779174,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.83,
+            "commentatorTierSimilarities": [
+                34.01,
+                32.67,
+                33.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus fulfills the command to love our neighbor, extending it to include all mankind, even those who curse, revile, and persecute us. The Pharisees had added the belief to hate one's enemies, but Jesus corrects this and teaches us to pray for our enemies and treat them kindly. The true meaning of neighbor that Jesus restores is a love that looks beyond deserving and extends to the unworthy, the wicked, and the ungrateful. Jesus exemplified this love through his own actions and teachings, such as the parable of the Good Samaritan.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.4634658498811968,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.25,
+            "commentatorTierSimilarities": [
+                34.15,
+                31.45,
+                34.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus fulfills the command to love our neighbor, extending it to include even those who curse and persecute us. The Pharisees added the belief to hate enemies in order to create separation between Jews and Gentiles. However, Jesus opposes this interpretation and teaches love for all of mankind. He demonstrates this through the parable of the Good Samaritan and instructs us to pray for our enemies. His teachings correct false interpretations, emphasizing love and kindness towards all, irrespective of their actions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.313381579930857,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                33.42,
+                33.11,
+                33.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

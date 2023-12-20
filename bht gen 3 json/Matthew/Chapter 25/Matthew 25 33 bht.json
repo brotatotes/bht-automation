@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:53:07",
+    "verseRef": "Matthew 25:33",
+    "bestBHT": {
+        "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, signifying their innocence and virtue. On the left side, the wicked will be placed, symbolizing their condemnation and dishonor. The sheep on the right will receive affection and respect, as they are raised to glory. Conversely, the goats on the left will bear disaffection and disgrace, destined for misery. This separation foreshadows the future destiny of each group.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.3810448334938603,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+        "commentatorTierSimilarities": [
+            19.42,
+            35.52,
+            45.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "33. And he shall set the sheep on",
+            "\this right hand\u2014the side of honor (1 Kings 2:19;",
+            "\tPsalms 45:9; Psalms 110:1,",
+            "\t&amp;c.). ",
+            "\t",
+            "but the goats on the left\u2014the",
+            "\tside consequently of dishonor."
+        ],
+        "Albert Barnes": [
+            "By 'the sheep' are denoted, here, the righteous. The name is given to them because the sheep is an emblem of innocence and harmlessness.",
+            "The right hand is the place of honor, and denotes the situation of those who are honored, or those who are virtuous.",
+            "The left hand. This was the place of dishonor, denoting condemnation."
+        ],
+        "Marvin Vincent": [
+            "Goats [\u03b5\u03c1\u03b9\u03c6\u03b9\u03b1] . Diminutive. Lit., kidlings.",
+            "The sheep and goats are represented as having previously pastured together.",
+            "On the right [\u03b5\u03ba \u03b4\u03b5\u03be\u03b9\u03c9\u03bd] . Lit., from the right side or parts."
+        ],
+        "Philip Schaff": [
+            "The sheep on his right hand, the place of preference.",
+            "The pre-millenial view refers \u2018the sheep\u2019 to the unconscious Christians among the heathen, hinted at in Romans 2:7; Romans 2:10, including the \u2018other sheep,\u2019 \u2018not of this fold.\u2019",
+            "But how unlikely that, in this great picture, believers should be excluded, when the term \u2018sheep\u2019 is appropriated to them so often."
+        ],
+        "John Gill": [
+            "These Christ will set on his right hand, as a token of his affection for them, and a mark of respect and honour shown them, and as a pledge of that exaltation and glory he will be about to raise them to.",
+            "But the goats on the left... these he will place at his left hand, in token of his disaffection for them, as a brand of disgrace upon them, and as an intimation of that dishonour, and miserable condition they will quickly be in.",
+            "These different situations plainly pre-signify how things will go with each, that one will be acquitted, and made happy, the other will be condemned, and become miserable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked, like a shepherd dividing sheep from goats. The righteous will be placed on his right side, the position of honor, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. The sheep on the right will be shown affection and respect, as they are raised to glory. Conversely, the goats on the left will be displayed with disaffection and disgrace, destined for misery. This separation serves as a prophetic indication of the future fate of each group, with the righteous being acquitted and made happy, while the wicked are condemned and left miserable.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5364470678981008,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                18.49,
+                36.17,
+                45.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. The sheep on the right will be shown affection and respect, as they are raised to glory. Conversely, the goats on the left will be displayed with disaffection and disgrace, destined for misery. This separation serves as a prophetic indication of the future fate of each group.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3616265212635117,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.62,
+            "commentatorTierSimilarities": [
+                17.71,
+                36.28,
+                46.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, signifying their innocence and virtue. On the left side, the wicked will be placed, symbolizing their condemnation and dishonor. The sheep on the right will receive affection and respect, as they are raised to glory. Conversely, the goats on the left will bear disaffection and disgrace, destined for misery. This separation foreshadows the future destiny of each group.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3810448334938603,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "commentatorTierSimilarities": [
+                19.42,
+                35.52,
+                45.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, the position of honor, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. This division serves as a prophetic indication of the future fate of each group. The righteous, depicted as sheep, will receive affection and respect, while the wicked, portrayed as goats, will bear disaffection and disgrace, destined for misery.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.3048963806423046,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.73,
+            "commentatorTierSimilarities": [
+                16.15,
+                37.84,
+                46.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 25:33, when the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, symbolizing their innocence and virtue, while the wicked will be on the left side, signifying their condemnation and dishonor. This division illustrates the future destiny of each group. The righteous, depicted as sheep, will receive affection and respect, destined for glory. On the other hand, the wicked, depicted as goats, will experience disaffection and disgrace, facing a miserable fate.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.278593715544071,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.86,
+            "commentatorTierSimilarities": [
+                17.44,
+                36.38,
+                46.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

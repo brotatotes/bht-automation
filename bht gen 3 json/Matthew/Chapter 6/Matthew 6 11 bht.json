@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:44:20",
+    "verseRef": "Matthew 6:11",
+    "bestBHT": {
+        "bht": "This instruction from Jesus to pray for our daily bread reminds us of our constant need for God's provision. It is not solely about our spiritual nourishment or the Eucharist, but rather about our physical sustenance. By asking for our daily bread, we acknowledge that God cares for our bodily needs and sustains us in all aspects of life. This prayer serves as a humble reminder of our dependence on God and the importance of seeking His provision for our daily lives.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 1.8275843379481223,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+        "commentatorTierSimilarities": [
+            20.83,
+            43.24,
+            35.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For a discussion of the probable derivations and meanings, I must refer to my Gr. Test. I have there seen reason to prefer the sense required for our subsistence\u2014proper for our sustenance.\" ",
+            "To understand the expression of the Eucharist primarily, or even of spiritual feeding on Christ, is to miss the plain reference of the petition to our daily physical wants.",
+            "'Augustine uses the testimony of this prayer against all proud Pelagian notions of an absolutely sinless state in this life' (Trench); and answers the various excuses and evasions by which that sect escaped from the conclusion."
+        ],
+        "John Calvin": [
+            "When we pray, therefore, we must never turn away our eyes from that object.",
+            "Since God condescends to nourish our bodies, there can be no doubt whatever, that he is far more careful of our spiritual life.",
+            "No man will sincerely offer such a prayer as this, unless he has learned, by the example of the Apostle Paul, 'to be full and to be hungry, to abound and to suffer need,' (Philippians 4:12), to endure patiently his poverty or his humble condition, and not to be intoxicated by a false confidence in his abundance."
+        ],
+        "Philip Schaff": [
+            "\u2018Bread,\u2019 food in general; the form in the Greek hints that it is \u2018ours,\u2019 i.e., created for our use; \u2018this day,\u2019 shows that we are to pray daily and to ask neither for riches nor poverty, but, with contentment and thankfulness for the day\u2019s portion only.",
+            "The word translated \u2018daily\u2019 has occasioned a great deal of discussion... Explanations (1) \u2018required for our (physical) wants,\u2019 \u2018needful;\u2019 (2) \u2018coming,\u2019 i.e., tomorrow\u2019s bread...and (3) Romanists refer \u2018bread\u2019 to spiritual nourishment...the primary sense must be that of actual bodily food.",
+            "The propriety of daily family prayer is suggested by this petition for our \u2018daily bread.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The opinion here expressed has been confirmed by A. Debrunner's discovery (Theol. Lit. Ztg. 1925, Col. 119) of \u03b5\u03c0\u03b9\u03bf\u03c5\u03c3\u03b9\u03bf\u03c2 in an ancient housekeeping book.",
+            "The word occurs also in three late MSS. after 2Macc. 1:8, \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03bf\u03c5\u03c3\u03b9\u03bf\u03c5\u03c2 after \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c4\u03bf\u03c5\u03c2.",
+            "The meaning, in view of the kindred participle (\u03b5\u03c0\u03b9\u03bf\u03c5\u03c3\u03b7) in Acts 16:12, seems to be 'for the coming day,' a daily prayer for the needs of the next day as every housekeeper understands like the housekeeping book discovered by Debrunner."
+        ],
+        "John Gill": [
+            "this signifies the whole subsequent time of life, and so furnishes us with a very commodious sense of this petition; which is, that God would give us, 'day by day'\".",
+            "the meaning of it is, that God would give us, for the present time, such food as we stand in need of; is suitable to us, to our nature and constitution, state and condition, and is sufficient and convenient for us\".",
+            "By 'bread' is meant all the necessaries of life, and for the support of it: it is called 'our's'; not that we have a right unto it, much less deserve it, but to distinguish it from that of beasts; and because it is what we need, and cannot do without\"."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 6:11, Jesus instructs us to pray for our daily bread, emphasizing the importance of our physical needs. This petition is not merely about spiritual nourishment or the Eucharist, but rather about our daily sustenance and subsistence. Augustine used this prayer to refute the notion of a sinless life, reminding us that we are in constant need of God's provision. We are reminded to approach this prayer with humility and contentment, asking for what we need for the coming day. By praying for our daily bread, we acknowledge God's care for our physical bodies and our dependence on Him for all aspects of life.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.84860622609536,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                23.09,
+                43.09,
+                33.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus teaches us to pray for our daily sustenance and to acknowledge our dependency on God for our physical needs. The reference to our daily bread is a reminder that we must approach this petition with humility and gratitude, recognizing that God cares for our bodies as well as our spiritual lives. By praying for our daily bread, we demonstrate our trust in God's provision and acknowledge our reliance on Him for all aspects of our lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9175239199659506,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "commentatorTierSimilarities": [
+                21.46,
+                42.53,
+                36.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This instruction from Jesus to pray for our daily bread reminds us of our constant need for God's provision. It is not solely about our spiritual nourishment or the Eucharist, but rather about our physical sustenance. By asking for our daily bread, we acknowledge that God cares for our bodily needs and sustains us in all aspects of life. This prayer serves as a humble reminder of our dependence on God and the importance of seeking His provision for our daily lives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8275843379481223,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                20.83,
+                43.24,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This prayer for daily bread in Matthew 6:11 encompasses both our physical and spiritual needs. It emphasizes our reliance on God's provision and care for our bodies. By asking for our subsistence and sustenance, we acknowledge that God is concerned not only with our spiritual lives but also with our physical well-being. This petition reminds us to approach prayer with humility, recognizing that God is the source of all we need and that we depend on Him for our daily needs.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.7253512900063241,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                22.0,
+                39.56,
+                38.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this prayer, we are instructed to seek our daily bread, acknowledging our reliance on God's provision both physically and spiritually. It reminds us that God cares for our bodily needs and sustains us in all aspects of life. Augustine used this prayer to counter the idea of a sinless state, reminding us of our ongoing dependence on God. By sincerely praying for our daily bread, we exhibit contentment and trust in God's abundant provision for our physical sustenance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.8228075890267617,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                23.24,
+                40.46,
+                36.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

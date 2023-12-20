@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:43:55",
+    "verseRef": "Matthew 5:4",
+    "bestBHT": {
+        "bht": "Blessed are those who mourn, for their grief over sin prompts them to seek comfort in God alone. Their sorrow prepares them to receive eternal joy and find solace in the gospel and the mercy of the Savior. Though present comfort may be partial, the days of their mourning will soon end, and God will wipe away all their tears. Their grief leads them to look for the heart and hand of God and discover the hidden comfort within their sorrows. Their mourning contributes to a happy life and prepares them for eternal comfort in heaven.",
+        "wordCount": 96,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.52736796885978,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.37,
+        "commentatorTierSimilarities": [
+            30.48,
+            38.78,
+            30.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All such mourners are blessed: for the Father of mercies and God of all consolation being their covenant God, His comfort shall overbear all their mourning, and taste the sweeter for it.",
+            "In Luke ii. 25, the Messiah\u2019s coming is called 'the consolation of Israel.'",
+            "This beatitude is by many editors placed after ver. 5. But the authority is by no means decisive, and I cannot see how the logical coherence of the sentence is improved by it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Evidently it is that entire feeling which the sense of our spiritual poverty begets; and so the second beatitude is but the complement of the first.\" ",
+            "Hence this class are termed 'mourners in Zion,' or, as we might express it, religious mourners, in sharp contrast with all other sorts.\" ",
+            "Still, all present comfort, even the best, is partial, interrupted, short-lived. But the days of our mourning shall soon be ended, and then God shall wipe away all tears from our eyes."
+        ],
+        "Albert Barnes": [
+            "Blessed are they that mourn... those who mourn over sin are blessed.",
+            "The gospel only can give true comfort to those in affliction... they do not point to the true source of comfort. In the God of mercy only; in the Saviour; in the peace that flows from the hope of a better world, and there only, is there consolation.",
+            "Those that grieve over sin... shall find comfort in the gospel. Through the merciful Saviour those sins may be forgiven. In him the weary and heavy-laden soul shall find peace... and in heaven all their tears shall be wiped away."
+        ],
+        "Marvin Vincent": [
+            "They that mourn [\u03c0\u03b5\u03bd\u03b8\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2]. Signifying grief manifested; too deep for concealment.",
+            "Hence it is often joined with klaiein, to weep audibly.",
+            "Shall be comforted."
+        ],
+        "John Calvin": [
+            "Happy are they that mourn... their very mourning contributes to a happy life, by preparing them to receive eternal joy, and by furnishing them with excitements to seek true comfort in God alone.",
+            "We glory in tribulations also knowing that tribulation produces patience, and patience experience, and experience hope: and hope maketh not ashamed.",
+            "Calamities render a man unhappy... but Christ does not merely affirm that mourners are not unhappy. He shows, that their very mourning contributes to a happy life."
+        ],
+        "Philip Schaff": [
+            "A sense of need makes men 'poor in spirit,' but a consciousness of the positive power of sin makes them mourn.",
+            "Not terror, fear of punishment, but actual sorrow that sin has power over us.",
+            "This is a promise; hence the comfort comes not from ourselves, but from God."
+        ],
+        "Archibald T. Robertson": [
+            "There can be no comfort where there is no grief.",
+            "Sorrow should make us look for the heart and hand of God and so find the comfort latent in the grief.",
+            "Sorrow should make us look for the heart and hand of God and so find the comfort latent in the grief."
+        ],
+        "John Gill": [
+            "Blessed are they that mourn,.... For sin, for their own sins...the unbelief of their hearts, notwithstanding the many instances, declarations, promises, and discoveries of grace made unto them...grieve the Spirit, and dishonour the Gospel of Christ...\" (100 words)",
+            "who mourn also for the sins of others, for the sins of the world, the profaneness and wickedness that abound in it; and more especially for the sins of professors, by reason of which, the name of God, and ways of Christ, are evil spoken of...\" (86 words)",
+            "These, how sorrowful and distressed soever they may appear, are blessed for they shall be comforted: here in this life, by the God of all comfort, by Christ the comforter; by the Spirit of God, whose work and office it is to comfort; by the Scriptures of truth, which are written for their consolation...\" (98 words)"
+        ],
+        "John Wesley": [
+            "They that mourn...are steadily and habitually serious.",
+            "They shall be comforted...more solidly and deeply even in this world.",
+            "They shall be comforted...eternally in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who mourn, for their deep grief over sin and the power it holds over them leads them to seek true comfort in God alone. Their mourning is not in vain, for it prepares them to receive eternal joy and allows them to experience the comfort that comes from the Father of mercies. In the midst of their sorrow, they find solace in the gospel and the forgiveness offered through the merciful Savior. Though present comfort may be partial and short-lived, the days of their mourning shall soon be ended, and God will wipe away all their tears. They are blessed, for their sorrow leads them to look for the heart and hand of God and find the hidden comfort within their grief. They are also blessed because their mourning over their own sins and the sins of others demonstrates their understanding of the need for true repentance and their desire for the restoration of God's name and ways. In the midst of their mourning and distress, they find comfort in God's promises and the hope of a better world. Their mourning contributes to a happy life, preparing them for the eternal joy that awaits them in heaven.",
+            "wordCount": 203,
+            "quoteTokenProportion": 32.32,
+            "qualityScore": 2.476690639527141,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.69,
+            "commentatorTierSimilarities": [
+                29.16,
+                39.07,
+                31.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are those who mourn, for their deep grief over sin leads them to seek comfort in God alone. Their mourning prepares them to receive eternal joy and experience the comfort that comes from the Father of mercies. In the midst of their sorrow, they find solace in the gospel and the forgiveness offered through the merciful Savior. Though present comfort may be partial, the days of their mourning shall soon be ended, and God will wipe away all their tears. They are blessed for their sorrow leads them to find the hidden comfort within their grief. They also understand the need for true repentance and the restoration of God's name and ways. In their mourning, they find hope in God's promises for a better world. Their mourning contributes to a happy life, preparing them for the eternal joy that awaits them in heaven.",
+            "wordCount": 146,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 2.371164669920664,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.18,
+            "commentatorTierSimilarities": [
+                29.03,
+                39.46,
+                31.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are those who mourn, for their grief over sin prompts them to seek comfort in God alone. Their sorrow prepares them to receive eternal joy and find solace in the gospel and the mercy of the Savior. Though present comfort may be partial, the days of their mourning will soon end, and God will wipe away all their tears. Their grief leads them to look for the heart and hand of God and discover the hidden comfort within their sorrows. Their mourning contributes to a happy life and prepares them for eternal comfort in heaven.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.52736796885978,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.37,
+            "commentatorTierSimilarities": [
+                30.48,
+                38.78,
+                30.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are those who mourn, for their deep grief over sin leads them to seek true comfort in God alone. Their mourning prepares them to receive eternal joy and find solace in the gospel and the forgiveness offered through the merciful Savior. Though present comfort may be partial and short-lived, the days of their mourning shall soon be ended, and God will wipe away all their tears. They are blessed, for their sorrow leads them to look for the heart and hand of God and find the hidden comfort within their grief. Their mourning contributes to a happy life, preparing them for the eternal joy that awaits them in heaven.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.5357508540133855,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.65,
+            "commentatorTierSimilarities": [
+                30.13,
+                38.64,
+                31.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are those who mourn, for their grief over sin leads them to seek comfort in God. Through their deep sorrow, they find solace in the gospel and the forgiveness offered by the merciful Savior. Though present consolation may be only temporary, the days of their mourning will come to an end, and God will wipe away every tear. Their mourning demonstrates their understanding of the need for repentance and the restoration of God's name. Their sorrow prepares them for eternal joy in heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3832302812234527,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.58,
+            "commentatorTierSimilarities": [
+                29.21,
+                40.06,
+                30.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

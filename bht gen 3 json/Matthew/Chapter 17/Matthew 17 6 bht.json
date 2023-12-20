@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:49:06",
+    "verseRef": "Matthew 17:6",
+    "bestBHT": {
+        "bht": "Struck with terror and awe, the disciples prostrated themselves in solemn adoration at the presence of God. The cloud overshadowing the Lord intensified their fear, culminating in a visible and audible manifestation of the Father's glory. God meant to impress upon their hearts the remembrance of this vision, underscoring our human weakness in the face of God's majesty. Filled with fear, the disciples struggled to comprehend the astonishing glory of Christ and the men with Him, yet faithfully relayed the words they heard.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.07,
+        "qualityScore": 1.6434832760567608,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+        "commentatorTierSimilarities": [
+            0.0,
+            44.61,
+            55.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "They were awed at the presence of God...",
+            "Prostrated themselves in solemn adoration on the ground...",
+            "No man can see God and live..."
+        ],
+        "John Calvin": [
+            "God intended that the disciples should be struck with this terror, in order to impress more fully on their hearts the remembrance of the vision.",
+            "We see how great is the weakness of our nature, which trembles in this manner at hearing the voice of God.",
+            "The majesty of God, as soon as we perceive him, must unavoidably cast us down."
+        ],
+        "Philip Schaff": [
+            "The fear began when the cloud overshadowed the Lord and the two Old Testament saints.",
+            "Culminated at this visible and audible manifestation of the Father\u2019s presence."
+        ],
+        "John Gill": [
+            "they fell on their face: not so much out of reverence, or for the sake of adoration, but as persons struck with astonishment and fear, and were as half dead; and so fell with their faces flat to the ground, not being able to stand before God, to behold his majesty, and hear his voice.",
+            "and were sore afraid: they were filled with fear, when, awaking out of their sleep, they saw the surprising glory of Christ, and of the two men that were with him, insomuch that they knew not what to think, or say.",
+            "But yet they were not struck with so much amazement and surprise, as not to know what was said; for they distinctly heard the words, rightly understood, and faithfully related them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were struck with terror and awe in the presence of God, prostrating themselves on the ground in solemn adoration. The cloud overshadowing the Lord and the two Old Testament saints increased their fear, culminating in a visible and audible manifestation of the Father's presence. This was intentional, for God wanted to impress upon their hearts the remembrance of this vision. Their weakness as human beings became evident, trembling at the voice of God. The majesty of God is so overwhelming that it inevitably brings us to our knees in astonishment and fear. The disciples were filled with fear upon witnessing the glory of Christ and the men with Him, not understanding what to think or say. However, they still heard the words spoken and were able to faithfully report them.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.4914340389629737,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.34,
+                55.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were struck with terror and awe in the presence of God, prostrating themselves on the ground in solemn adoration. The cloud overshadowing the Lord increased their fear, culminating in a visible and audible manifestation of the Father's presence. This was intentional, for God wanted to impress upon their hearts the remembrance of this vision. The majesty of God is so overwhelming that it inevitably brings us to our knees in astonishment and fear. The disciples were filled with fear upon witnessing the glory of Christ and the men with Him, not understanding what to think or say.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.641165503637965,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.31,
+                53.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples fell on their faces in awe and adoration, overwhelmed by the presence of God. The cloud that overshadowed the Lord heightened their fear, culminating in a visible and audible manifestation of the Father's glory. God desired to etch this awe-inspiring vision into their hearts. It revealed the weakness of humanity, fainting at the sound of God's voice. God's majestic presence inevitably compels us to bow in reverence. The disciples, filled with fear, struggled to comprehend what they were witnessing, but still heard and faithfully relayed the words spoken.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.582473397254935,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.96,
+            "commentatorTierSimilarities": [
+                0.0,
+                47.67,
+                52.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Struck with terror and awe, the disciples prostrated themselves in solemn adoration at the presence of God. The cloud overshadowing the Lord intensified their fear, culminating in a visible and audible manifestation of the Father's glory. God meant to impress upon their hearts the remembrance of this vision, underscoring our human weakness in the face of God's majesty. Filled with fear, the disciples struggled to comprehend the astonishing glory of Christ and the men with Him, yet faithfully relayed the words they heard.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.6434832760567608,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.61,
+                55.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were awestruck and fell in adoration, overwhelmed by the presence of God. The cloud overshadowing the Lord intensified their fear, leading to a visible and audible manifestation of the Father's glory. God intended to etch this vision into their hearts, revealing our human weakness before His majesty. Filled with fear, the disciples struggled to comprehend the astonishing glory of Christ and faithfully reported the words they heard, despite their amazement and astonishment.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.5691712644921747,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.15,
+                53.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

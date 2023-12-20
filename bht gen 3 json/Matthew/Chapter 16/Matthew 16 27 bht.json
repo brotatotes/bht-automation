@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:49:22",
+    "verseRef": "Matthew 16:27",
+    "bestBHT": {
+        "bht": "The Son of man shall come in the glory of his Father with his angels, ready to execute His pleasure. He is to be JUDGE OF ALL, appearing in the glory given to Him by His Father. And then he shall reward every man according to his works, whether it be their action of putting Him to death, their unbelief, or any other evil deeds. He assures them that He will appear as their avenger and restore them, despite appearances of perishing.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.8137399569691965,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+        "commentatorTierSimilarities": [
+            29.7,
+            36.31,
+            33.99
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is to be JUDGE OF ALL\u2014and, as in ch. xiii. 41, is to appear with His angels, and in the glory of His Father\u2014the 'glory which thou hast given me,' John xvii. 22.\" (QUOTE 1)",
+            "For implies, 'And it is not without reason that I thus speak: a time will come when the truth of what I say will be shewn.'\" (QUOTE 2)",
+            "his work, considered as a whole: his habit of action.\" (QUOTE 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the Son of man shall come in the glory of his Father with his angels\u2014in the splendor of His Father's authority and with all His angelic ministers, ready to execute His pleasure.",
+            "and then he shall reward, &amp;c.",
+            "ready to execute His pleasure."
+        ],
+        "John Calvin": [
+            "Place your lives fearlessly...under my protection; for I will at length appear as your avenger, and will fully restore you, though for the time you may seem to have perished.",
+            "He assures them that it will be far otherwise when he shall appear as the Judge of the world.",
+            "The reward of works...is only held out to excite believers to aim at doing what is right, by assuring them that their labor will not be lost."
+        ],
+        "Philip Schaff": [
+            "The Son of man, who now in humble form asks to be followed on the path of suffering.",
+            "Through suffering to glory. He spoke first of His own sorrows, then of His people\u2019s; now He predicts glory and triumph; their\u2019s also, because His.",
+            "Unto every man according to his doing. His whole character and conduct. This depends upon the effort either to save the lower life or gain the higher. This \u2018doing \u2018results from faith or unbelief."
+        ],
+        "John Gill": [
+            "For the son of man shall come in the glory of his Father...and points out the time, when all this will appear.\" ",
+            "Christ...should come; either a second time to judgment at the last day, in the same glory as his Father, as his Son, equal with him, and clothed, with power and authority from him, and as mediator, to execute judgment.",
+            "And then he shall reward every man according to his works, or work; either that particular action of putting him to death, or their unbelief in him, or desertion of him; or any, or all of their evil works, they had been guilty of."
+        ],
+        "John Wesley": [
+            "For the Son of man shall come \u2014 For there is no way to escape the righteous judgment of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the Son of man shall come in the glory of his Father with his angels\u2014in the splendor of His Father's authority and with all His angelic ministers, ready to execute His pleasure. He is to be JUDGE OF ALL\u2014and, as in ch. xiii. 41, is to appear with His angels, and in the glory of His Father\u2014the 'glory which thou hast given me,' John xvii. 22. For implies, 'And it is not without reason that I thus speak: a time will come when the truth of what I say will be shewn.' He assures them that it will be far otherwise when he shall appear as the Judge of the world. And then he shall reward every man according to his works, or work; either that particular action of putting him to death, or their unbelief in him, or desertion of him; or any, or all of their evil works, they had been guilty of. His whole character and conduct, his habit of action, will be taken into account in judging every individual. Place your lives fearlessly...under my protection; for I will at length appear as your avenger, and will fully restore you, though for the time you may seem to have perished. The reward of works...is only held out to excite believers to aim at doing what is right, by assuring them that their labor will not be lost. There is no way to escape the righteous judgment of God.",
+            "wordCount": 246,
+            "quoteTokenProportion": 42.64,
+            "qualityScore": 1.413979946390965,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.36,
+            "commentatorTierSimilarities": [
+                27.67,
+                31.38,
+                40.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the Son of man shall come in the glory of his Father with his angels\u2014in the splendor of His Father's authority and with all His angelic ministers, ready to execute His pleasure. He is to be JUDGE OF ALL\u2014and, as in ch. xiii. 41, is to appear with His angels, and in the glory of His Father\u2014the 'glory which thou hast given me,' John xvii. 22. And then he shall reward every man according to his works, or work; either that particular action of putting him to death, or their unbelief in him, or desertion of him; or any, or all of their evil works, they had been guilty of. Place your lives fearlessly...under my protection; for I will at length appear as your avenger, and will fully restore you, though for the time you may seem to have perished.",
+            "wordCount": 144,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 1.4541966186898772,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.69,
+            "commentatorTierSimilarities": [
+                31.07,
+                33.09,
+                35.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of man shall come in the glory of his Father with his angels, ready to execute His pleasure. He is to be JUDGE OF ALL, appearing in the glory given to Him by His Father. And then he shall reward every man according to his works, whether it be their action of putting Him to death, their unbelief, or any other evil deeds. He assures them that He will appear as their avenger and restore them, despite appearances of perishing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.8137399569691965,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                29.7,
+                36.31,
+                33.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of man shall come in the glory of his Father with his angels, ready to execute His pleasure and judge all. His appearance will reveal the truth of His words, and He will reward every person based on their actions and conduct. The reward of works is held out to encourage believers to do what is right, assuring them that their labor will not be in vain. As He comes in glory, believers can place their lives fearlessly under His protection, knowing that there is no escape from the righteous judgment of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7732599639743676,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                26.2,
+                36.4,
+                37.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the Son of man shall come in the glory of his Father with his angels\u2014in the splendor of His Father's authority and with all His angelic ministers, ready to execute His pleasure. He is to be JUDGE OF ALL\u2014and, as in ch. xiii. 41, is to appear with His angels, and in the glory of His Father\u2014the 'glory which thou hast given me,' John xvii. 22. And then he shall reward every man according to his works, whether it be their action of putting Him to death, their unbelief, or any other evil deeds.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5786542771294227,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                34.01,
+                34.6,
+                31.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

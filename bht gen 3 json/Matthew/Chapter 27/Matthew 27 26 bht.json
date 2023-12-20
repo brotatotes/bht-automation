@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:54:18",
+    "verseRef": "Matthew 27:26",
+    "bestBHT": {
+        "bht": "Pilate lost interest in Jesus when he discovered he had no friends in the crowd. The scourging before crucifixion was a brutal Roman custom, a display of divine justice. Pilate's compliance was forced, yet he exercised the role of a judge in condemning an innocent man. This cautionary tale warns rulers who pander to religious fanaticism for popularity. The scourging and subsequent crucifixion symbolized the sufferings Jesus endured as a surety for his people. Through his death, we are acquitted of our sins and saved from God's judgment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.8094976592400647,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+        "commentatorTierSimilarities": [
+            42.76,
+            29.36,
+            27.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Our Lord, being about to be put to death after the manner of a slave, was also treated as a slave as one of the lowest and most despised of mankind.",
+            "...he gave him up as a judge, when he ought to have saved his life and might have done it.",
+            "Pilate, therefore, as well as the Jews, was answerable to God for the death of the Savior of the world."
+        ],
+        "John Calvin": [
+            "But both of these things must be observed, that a compliance was forced from him contrary to his will, and yet that he exercised the office of a judge in condemning him whom he pronounces to be innocent.",
+            "For if the Son of God had not been free from all sin, we would have had no right to look for satisfaction from his death; and, on the other hand, if he had not become our surety, to endure the punishment which we had deserved, we would now have been involved in the condemnation of our sins.",
+            "But as this is a display of the dreadful vengeance of God, so, on the other hand, it holds out to us the most abundant grounds of confidence; for we have no reason to fear that our sins, from which the Son of God acquits us by so valuable a ransom, will ever again be brought into judgment before God."
+        ],
+        "Philip Schaff": [
+            "The guilty one was released, and the innocent one entered upon his punishment.",
+            "The State became a tool in the hands of an apostate and bloodthirsty Church.",
+            "Pilate\u2019s conduct is an awful warning to rulers, who to gain popularity pander to religious fanaticism."
+        ],
+        "Archibald T. Robertson": [
+            "Pilate apparently lost interest in Jesus when he discovered that he had no friends in the crowd.",
+            "The scourging before the crucifixion was a brutal Roman custom.",
+            "The scourging was part of the capital punishment."
+        ],
+        "John Gill": [
+            "This man was an emblem of the persons for whom Christ suffered, both in his character and in his release.",
+            "And when he had scourged Jesus... this kind of whipping, was very severe and cruel.",
+            "This scourging of Christ, was an emblem of the scourges and strokes of divine justice, which he endured in his soul, as the surety of his people."
+        ],
+        "John Wesley": [
+            "The person crucified was nailed to the cross as it lay on the ground, through each hand extended to the utmost stretch, and through both the feet together.",
+            "Then the cross was raised up, and the foot of it thrust with a violent shock into a hole in the ground prepared for it.",
+            "This shock disjointed the body, whose whole weight hung upon the nails, till the persons expired through mere dint of pain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, upon realizing that Jesus had no support from the crowd, allowed him to be subjected to the brutal and customary Roman punishment of scourging before crucifixion. This act of scourging was a cruel display of divine justice, symbolizing the scourges and strokes that Jesus endured in his soul as the surety for his people. Despite Pilate's role as a judge, he condemned the innocent and released the guilty, ultimately succumbing to the pressures of religious fanaticism. This serves as a cautionary tale for rulers who pander to popular opinion at the expense of justice. The scourging and subsequent crucifixion of Jesus, though a display of God's wrath, also offers abundant grounds for our confidence, as by his death, we are acquitted of our sins and spared from God's judgment.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.725678658188269,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                34.63,
+                30.58,
+                34.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, upon discovering Jesus had no friends in the crowd, allowed the brutal Roman scourging as part of the punishment. This scourging symbolized the sufferings Jesus endured as the surety for his people. Pilate's actions were a warning against rulers pandering to religious fervor at the expense of justice. The scourging and crucifixion displayed God's wrath but also give us confidence in our forgiveness, as Jesus became our substitute for the punishment our sins deserved.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7804720604290498,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                41.9,
+                27.18,
+                30.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate lost interest in Jesus when he discovered he had no friends in the crowd. The scourging before crucifixion was a brutal Roman custom, a display of divine justice. Pilate's compliance was forced, yet he exercised the role of a judge in condemning an innocent man. This cautionary tale warns rulers who pander to religious fanaticism for popularity. The scourging and subsequent crucifixion symbolized the sufferings Jesus endured as a surety for his people. Through his death, we are acquitted of our sins and saved from God's judgment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8094976592400647,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                42.76,
+                29.36,
+                27.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate's disinterest in Jesus arose from the absence of support in the crowd. The scourging, a brutal Roman custom, symbolized divine justice. Pilate reluctantly played the role of a judge, condemning an innocent man under pressure. This serves as a warning against leaders who cater to religious fanaticism for popularity. The scourging and subsequent crucifixion embodied the sufferings Jesus endured as a surety for his people. Through his death, we find acquittal from our sins and escape from God's judgment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6289971929825242,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
+            "commentatorTierSimilarities": [
+                40.27,
+                31.23,
+                28.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate's loss of interest in Jesus stemmed from the lack of support in the crowd. The scourging, a cruel Roman custom, symbolized divine justice. Pilate reluctantly acted as a judge, condemning an innocent man amidst religious fanaticism. This cautionary tale serves as a reminder to leaders who prioritize popularity over justice. The scourging and subsequent crucifixion depicted the sufferings Jesus endured as a surety for his people. Through his death, we attain deliverance from our sins and are spared from God's judgment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6192540419982815,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                40.25,
+                30.42,
+                29.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

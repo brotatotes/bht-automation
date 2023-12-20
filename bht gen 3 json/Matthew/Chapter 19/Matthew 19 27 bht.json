@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:50:10",
+    "verseRef": "Matthew 19:27",
+    "bestBHT": {
+        "bht": "The disciples' question reveals their lack of comprehension and perhaps a hint of self-righteousness. Yet, their inquiry is not in vain, for they had given up much in their devotion to Christ. Jesus acknowledges their sacrifice and assures them that they will be rewarded, both in the comforts provided in this world and the hope of heavenly life. By recognizing their concerns and impatience, Jesus offers solace, assuring them that their commitment to him will bring forth meaningful rewards.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.3333916275457685,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.68,
+        "commentatorTierSimilarities": [
+            22.06,
+            31.18,
+            46.77
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not ask respecting salvation, but some pre-eminent reward.\" ",
+            "The \u2018all\u2019 which the Apostles had left, was not in every case contemptible.",
+            "But whatever it was, it was their all."
+        ],
+        "Marvin Vincent": [
+            "We. Emphatic, in contrast with the young ruler."
+        ],
+        "John Calvin": [
+            "As they had led a poor and wandering life, which was not unaccompanied by disgrace and annoyances, he properly inquires if it be to no purpose that they have left all their property, and devoted themselves to Christ.\" ",
+            "Certainly, if some reward had not been reserved for the disciples, it would have been foolish in them to have changed their course of life.",
+            "If we ever experience such uneasiness at delay, and if we are tempted by impatience, let us learn first to reflect on the comforts by which the Lord soothes the bitterness of the cup in this world, and next elevate our minds to the hope of the heavenly life; for these two points embrace the answer of Christ."
+        ],
+        "Philip Schaff": [
+            "Lo, we left all. Whatever they had, and not all of them were poor, they left.",
+            "What them shall we have. \u2018We\u2019 in contrast to this young man who did not stand the test. The answer indicates a little self-righteous boasting in the question; the parable would oppose any remnant of a mercenary spirit lurking in it.",
+            "Preeminence was probably anticipated by Peter, and is promised in the next verse."
+        ],
+        "Archibald T. Robertson": [
+            "What then shall we have? (\u03c4 \u03b1\u03c1\u03b1 \u03b5\u03c3\u03c4\u03b1 \u03b7\u03bc\u03b9\u03bd?) A pathetic question of hopeless lack of comprehension. "
+        ],
+        "John Gill": [
+            "Behold, we have forsaken all, and followed thee.\" ",
+            "Though their worldly substance was not so large as the young man's, they had not such estates to sell, nor that to give to the poor, he had; yet all that they had they left for Christ's sake.",
+            "What shall we have therefore?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, speaking on behalf of themselves, asked Jesus what they would receive for leaving everything to follow him. Their question reveals a lack of understanding and a hint of self-righteousness. Yet, their inquiry is not without merit, as they had given up much to follow him. Jesus recognizes their sacrifice and assures them that they will be rewarded, both in the comforts he provides in this world and the hope of eternal life. Thus, their concerns and impatience are met with the promise that their devotion to him will not be in vain.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.307048307216935,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.8,
+            "commentatorTierSimilarities": [
+                23.3,
+                34.97,
+                41.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples asked Jesus what they would receive for leaving everything to follow him. Their question shows a lack of comprehension and perhaps a touch of self-righteousness. However, Jesus acknowledges their sacrifice and assures them that they will be rewarded, both with the comforts of this world and the hope of eternal life. He understands their concerns and impatience, offering them solace by emphasizing that their commitment to him will bring forth meaningful rewards.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.1928373879721335,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.01,
+            "commentatorTierSimilarities": [
+                22.84,
+                33.56,
+                43.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, speaking on behalf of themselves, asked Jesus about the rewards they would receive for leaving everything to follow him. Their question reveals a lack of comprehension and a hint of self-righteousness. Yet, Jesus acknowledges their sacrifice and assures them that they will be rewarded, both in the comforts provided in this world and the hope of heavenly life. Thus, their concerns and impatience are met with the promise that their devotion to him will not be in vain.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.298141341629445,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.51,
+            "commentatorTierSimilarities": [
+                23.72,
+                33.42,
+                42.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' question in Matthew 19:27 reflects a mix of misunderstanding and perhaps a touch of self-righteousness. Jesus recognizes their sacrifice and assures them that they will be rewarded, both with the comforts of this world and the hope of eternal life. He understands their concerns and impatience, offering solace by emphasizing that their commitment to him will bring forth meaningful rewards. Their inquiry, though flawed, shows their genuine desire to understand the significance of their discipleship.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.0978586124369851,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.85,
+            "commentatorTierSimilarities": [
+                16.69,
+                34.64,
+                48.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' question reveals their lack of comprehension and perhaps a hint of self-righteousness. Yet, their inquiry is not in vain, for they had given up much in their devotion to Christ. Jesus acknowledges their sacrifice and assures them that they will be rewarded, both in the comforts provided in this world and the hope of heavenly life. By recognizing their concerns and impatience, Jesus offers solace, assuring them that their commitment to him will bring forth meaningful rewards.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.3333916275457685,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.68,
+            "commentatorTierSimilarities": [
+                22.06,
+                31.18,
+                46.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

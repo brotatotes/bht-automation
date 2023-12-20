@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:54:56",
+    "verseRef": "Matthew 27:48",
+    "bestBHT": {
+        "bht": "Amidst the crucifixion, the bystanders saw a type in Jesus's plight as contempt mingled with pity. Jesus, in his bodily agony, received the sour wine, the posca or ordinary drink of Roman soldiers, offered both in mockery and out of pity. Jesus tasted this mild stimulant, quenching his excessive thirst. Despite the mockery, this act reveals the triumph of Jesus's love over the world's hate.",
+        "wordCount": 68,
+        "quoteTokenProportion": 26.53,
+        "qualityScore": 1.753159292590147,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+        "commentatorTierSimilarities": [
+            41.15,
+            32.14,
+            26.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Contempt mingied with pity would doubtless find a type among the bystanders.",
+            "Since then, the bodily state of the Redeemer had greatly changed: and what was then offered in mockery, might well be now asked for in the agony of death, and received when presented.",
+            "The vinegar is the posca, sour wine, or vinegar and water, the ordinary drink of the Roman soldiers."
+        ],
+        "Albert Barnes": [
+            "One of the effects of crucifixion was excessive thirst.",
+            "A sponge is a well-known porous substance that easily absorbs water.",
+            "The 'hyssop' was a 'shrub,' growing so large sometimes as to be called a 'tree.'"
+        ],
+        "Marvin Vincent": [
+            "Vinegar [\u03bf\u03be\u03bf\u03c5\u03c2] . Sour wine; the posca or ordinary drink of the Roman soldiers.",
+            "Gave him to drink [\u03b5\u03c0\u03bf\u03c4\u03b9\u03b6\u03b5\u03bd] . The imperfect tense implies was in the act of giving, or about to give.",
+            "Let be [\u03b1\u03c6\u03b5\u03c2] ! 'Stop! Do not give him the drink. Let us see if Elijah will come to his aid.'"
+        ],
+        "John Calvin": [
+            "As Christ had once refused to drink, it may be conjectured with probability, that it was repeatedly offered to him for the sake of annoyance.\" ",
+            "It is also not improbable that the vinegar was held out to him in a cup before he was raised aloft.",
+            "A sponge was afterwards applied to his mouth, while he was hanging on the cross."
+        ],
+        "Philip Schaff": [
+            "This was occasioned by our Lord\u2019s cry: \u2018I thirst\u2019 (John 19:28), but all occurred in quick succession.",
+            "It would be impossible to use a cup.",
+            "He drank (John 19:30), and this reception of refreshment from one who still mocked is a token that His love vanquishes the world\u2019s hate."
+        ],
+        "Archibald T. Robertson": [
+            "Others interrupted this kindly man.",
+            "Jesus did taste this mild stimulant.",
+            "For he thirsted."
+        ],
+        "John Gill": [
+            "And straightway one of them ran and took a sponge....and filled it with vinegar.",
+            "...and put it on a reed.",
+            "...and gave him to drink."
+        ],
+        "John Wesley": [
+            "Vinegar and water was the usual drink of the Roman soldiers.",
+            "It does not appear, that this was given him in derision, but rather with a friendly design.",
+            "That he might not die before Elijah came."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the crucifixion scene, the bystanders, with a mix of contempt and pity, found a type in Jesus's plight. What was once offered in mockery now became an earnest request. Jesus, in his bodily agony, received the vinegar and water, the sour wine of the Roman soldiers. While some interrupted the act of giving, Jesus did taste this mild stimulant, for he thirsted. The effects of crucifixion had left him with an excessive thirst, and the sponge soaked with vinegar on a reed allowed him to quench it. Despite the mockery, this reception of refreshment from a mocker indicates that Jesus's love triumphs over the world's hate.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.7247761625526334,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                36.37,
+                31.93,
+                31.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the crucifixion scene, the bystanders found a type in Jesus's plight. Jesus, in his bodily agony, received the sour wine of the Roman soldiers. Jesus did taste this mild stimulant, for he thirsted. The effects of crucifixion had left him with an excessive thirst, and the sponge soaked with vinegar on a reed allowed him to quench it. Despite the mockery, this reception of refreshment from a mocker indicates that Jesus's love triumphs over the world's hate.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7453527143518448,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                37.74,
+                31.56,
+                30.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst the crucifixion, the bystanders saw a type in Jesus's plight as contempt mingled with pity. Jesus, in his bodily agony, received the sour wine, the posca or ordinary drink of Roman soldiers, offered both in mockery and out of pity. Jesus tasted this mild stimulant, quenching his excessive thirst. Despite the mockery, this act reveals the triumph of Jesus's love over the world's hate.",
+            "wordCount": 68,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.753159292590147,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+            "commentatorTierSimilarities": [
+                41.15,
+                32.14,
+                26.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the crucifixion scene, the bystanders, with a mix of contempt and pity, found a type in Jesus's plight. What was once offered in mockery now became an earnest request. Jesus, in his bodily agony, received the vinegar and water, the sour wine of the Roman soldiers. While some interrupted the act of giving, Jesus did taste this mild stimulant, for he thirsted. The effects of crucifixion had left him with an excessive thirst, and the sponge soaked with vinegar on a reed allowed him to quench it. Despite the mockery, this reception of refreshment from a mocker indicates that Jesus's love triumphs over the world's hate.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.7247761625526334,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                36.37,
+                31.93,
+                31.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the crucifixion scene, the bystanders saw a type in Jesus's plight. Jesus received the sour wine, the posca of Roman soldiers, both in mockery and out of pity. Despite some interruption, Jesus tasted the mild stimulant as he thirsted. The effects of crucifixion left him excessively thirsty, and a sponge soaked with vinegar on a reed helped quench it. This reception of refreshment from a mocker signifies Jesus's triumph of love over the world's hate.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.721708938942887,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.59,
+            "commentatorTierSimilarities": [
+                36.75,
+                33.31,
+                29.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

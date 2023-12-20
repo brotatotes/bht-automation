@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:42:22",
+    "verseRef": "Matthew 2:8",
+    "bestBHT": {
+        "bht": "In this account, deceitful Herod cunningly sends the wise men on a mission to search out and gather accurate information about the child. Disguised as a safe conduct, Herod's true intention is to destroy Jesus. However, God intervenes to protect His Son from Herod's jealous rage. The absence of Jewish witnesses or Herod's courtiers accompanying the wise men raises questions about the credibility of Herod's actions.",
+        "wordCount": 70,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.558504877973955,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+        "commentatorTierSimilarities": [
+            29.32,
+            45.06,
+            25.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Search out carefully.",
+            "The cunning and bloody hypocrite!",
+            "This royal mandate would meantime serve as a safe conduct to the strangers."
+        ],
+        "Albert Barnes": [
+            "Herod took all possible means to obtain accurate information respecting the child, that he might be sure of destroying him.",
+            "He not only ascertained the probable time of his birth, and the place where he would be born, but he sent the wise men that they might actually see him, and bring him word.",
+            "All this might have looked suspicious if he had not clothed it with the appearance of religion."
+        ],
+        "Philip Schaff": [
+            "Matthew 2:8. Contains his deceitful command. It was a lie diplomatic, based on the truth, for he sent them to Bethlehem."
+        ],
+        "Archibald T. Robertson": [
+            "They were to 'search out accurately' concerning the child.\" ",
+            "The deceit of Herod seemed plausible enough and might have succeeded.",
+            "God's intervention to protect His Son from the jealous rage of Herod."
+        ],
+        "John Gill": [
+            "And he sent them to Bethlehem...find the person they came to inquire after.\" ",
+            "It may seem strange that neither any of the Jews, nor Herod, or any of his ministers and courtiers, should go along with these men to Bethlehem.\" ",
+            "When he dismissed them he gave them this charge and these orders...that I may come and worship him also."
+        ],
+        "John Wesley": [
+            "If ye find him, bring me word - Probably Herod did not believe he was born.\" ",
+            "Would not so suspicious a prince have tried to make sure work at once?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 2:8, the commentary highlights the cunning and deceitful nature of Herod as he tries to obtain accurate information about the child Jesus. Despite the plausibility of Herod's deception, God intervenes to protect His Son from the jealous rage of Herod. The commentary also mentions that Herod's command to the wise men was a lie diplomatic, based on the truth, leading them to Bethlehem to find the person they came to inquire after. It is noted that it may seem strange that none of the Jews or Herod's courtiers accompanied the wise men, and Herod's instructions to bring him word if they found the child suggests that he did not believe he was truly born.",
+            "wordCount": 119,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.820090299262299,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                21.36,
+                50.87,
+                27.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Herod's cunning and bloody hypocrisy are evident as he craftily sends the wise men to search out accurately concerning the child. Herod's deceitful command masks his true intentions, as he attempts to obtain information about the child Jesus to ensure his destruction. However, God intervenes to protect His Son from the jealous rage of Herod. The suspicious nature of the prince and the absence of Jews or Herod's courtiers accompanying the wise men add to the complexity of the situation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.6893756527138168,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                30.18,
+                43.53,
+                26.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Herod's cunning is evident as he sends the wise men to search out accurately concerning the child. His deceitful command serves as a safe conduct to the strangers that would, in reality, lead to the destruction of Jesus. Despite the plausibility of Herod's deception, God intervenes to protect His Son from the jealous rage of Herod. The absence of Jews or Herod's courtiers accompanying the wise men adds to the intrigue surrounding this situation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.7121017308261175,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                28.62,
+                45.22,
+                26.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, deceitful Herod cunningly sends the wise men on a mission to search out and gather accurate information about the child. Disguised as a safe conduct, Herod's true intention is to destroy Jesus. However, God intervenes to protect His Son from Herod's jealous rage. The absence of Jewish witnesses or Herod's courtiers accompanying the wise men raises questions about the credibility of Herod's actions.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.558504877973955,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                29.32,
+                45.06,
+                25.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Herod's deceitful command to the wise men, to search out accurately regarding the child, masks his true intentions to destroy Jesus. God's intervention serves to protect His Son from the jealous rage of Herod. The absence of Jewish witnesses or Herod's courtiers accompanying the wise men raises suspicion about the credibility of Herod's actions. This passage highlights the cunning and bloody hypocrisy of Herod, and ultimately, God's sovereign intervention to safeguard His beloved Son.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 1.709260773738337,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                33.06,
+                43.19,
+                23.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

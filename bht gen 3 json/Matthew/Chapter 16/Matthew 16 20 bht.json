@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:49:12",
+    "verseRef": "Matthew 16:20",
+    "bestBHT": {
+        "bht": "After Peter's confession, the disciples may have assumed it was time for Jesus to openly declare himself as the Messiah, but they were told it had not yet come. Jesus was deeply moved by Peter's confession and acknowledged that on the rock of faith, he would build his church. While all the disciples would have access to the keys to this kingdom, they were instructed to remain silent for the time being. Jesus recognized that the Christian acknowledgment of him needed to be separate from the expectations of the Jews.",
+        "wordCount": 92,
+        "quoteTokenProportion": 49.21,
+        "qualityScore": 1.6505313350782915,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+        "commentatorTierSimilarities": [
+            25.26,
+            36.31,
+            38.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20.] See note on ch. viii. 4."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now that He had been so explicit, they might naturally think the time come for giving it out openly; but here they are told it had not.\" ",
+            "Announcement of His Approaching Death and Rebuke of Peter.",
+            "The occasion here is evidently the same."
+        ],
+        "John Calvin": [
+            "Christ must commence his reign, not with gaudy display, not with the magnificence of riches, not with the loud applause of the world, but with an ignominious death.\" (Commentary)",
+            "So far were they from having ever adverted to the ignominy of the cross, that they considered it to be utterly unsuitable that he should be placed in any circumstances from which he did not receive honor.\" (Commentary)",
+            "But as the bare mention of the cross must, of necessity, have occasioned heavy distress to their weak minds, he presently heals the wound by saying, that on the third day he will rise again from the dead.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Until our Lord Himself announced His Messiahship before the Sanhedrin, the Christian acknowledgment was to be kept separate from the carnal expectations of the Jews.",
+            " ",
+            "The Christian acknowledgment was to be kept separate from the carnal expectations of the Jews.",
+            " ",
+            "The Christian acknowledgment was to be kept separate."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was plainly profoundly moved by Peter's great confession on behalf of the disciples.",
+            "Peter had confessed him as the Messiah and on this rock of faith thus confessed he would build his church or kingdom.",
+            "They will all have and use the keys to this greatest of all buildings, but for the present they must be silent."
+        ],
+        "John Gill": [
+            "It was enough to charge them to tell no man that he was the Messiah: his reasons for it might be, lest his enemies, the Scribes and Pharisees, should be the more provoked and incensed against him, and seek his death before his time.",
+            "And moreover, because the disciples were to attest the truth of this after his resurrection; and he chose, for the present, that the people should collect this from his own ministry and miracles, which were sufficient to lead them into the knowledge of it, without any declarations of theirs.",
+            "Though they were possessed of true faith in him, as such, for themselves, as yet they had not the gifts and abilities to defend those doctrines respecting his person, and his offices, they had after the Spirit was poured down upon them."
+        ],
+        "John Wesley": [
+            "Jesus himself had not said it expressly even to his apostles, but left them to infer it from his doctrine and miracles.",
+            "If they had, they who believed them would the more earnestly have sought to take and make him a king.",
+            "They who did not believe them would the more vehemently have rejected and opposed such a Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Peter's confession of Jesus as the Messiah, the disciples might have assumed that it was time for Jesus to openly declare his role. However, they were told that the time had not yet come. Jesus was deeply moved by Peter's confession and acknowledged that on this rock of faith, he would build his church. Although all the disciples would have access to the keys to this kingdom, they were instructed to remain silent for now. The Christian acknowledgment of Jesus as the Messiah needed to be kept separate from the expectations of the Jews. Jesus knew that if they openly proclaimed his Messiahship, it would provoke his enemies and potentially hasten his death. Additionally, the disciples were not yet equipped with the necessary gifts and abilities to defend the doctrines concerning Jesus. They needed to continue learning from Jesus's ministry and miracles before openly declaring his identity.",
+            "wordCount": 151,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.4787461208666006,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.51,
+            "commentatorTierSimilarities": [
+                23.22,
+                33.27,
+                43.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Peter's confession, the disciples might think it was time for Jesus to openly reveal himself. However, they were told it had not yet come. Jesus was profoundly moved by Peter's confession and said that on this rock of faith, he would build his church. The disciples had access to the keys to this kingdom, but for now they needed to remain silent. The Christian acknowledgment of Jesus needed to be kept separate from the Jews' expectations. Jesus knew that openly proclaiming his Messiahship would provoke his enemies and possibly hasten his death.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.4524152839612385,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                26.56,
+                33.88,
+                39.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Peter's confession, the disciples may have assumed it was time for Jesus to openly declare himself as the Messiah, but they were told it had not yet come. Jesus was deeply moved by Peter's confession and acknowledged that on the rock of faith, he would build his church. While all the disciples would have access to the keys to this kingdom, they were instructed to remain silent for the time being. Jesus recognized that the Christian acknowledgment of him needed to be separate from the expectations of the Jews.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.6505313350782915,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+            "commentatorTierSimilarities": [
+                25.26,
+                36.31,
+                38.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Peter's powerful confession of Jesus as the Messiah, the disciples might have assumed it was time for Jesus to openly reveal himself, but they were told it hadn't come yet. Jesus was deeply moved by Peter's confession, affirming that on this foundational faith, he would establish his church. While all the disciples would have access to the keys of the kingdom, they were instructed to remain silent for now. Jesus understood the need to keep the Christian acknowledgment separate from the Jews' earthly expectations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.594527508653007,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+            "commentatorTierSimilarities": [
+                24.17,
+                38.01,
+                37.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Peter's confession, they might assume it was time for Jesus to reveal his Messiahship. However, they were told it had not yet come. Jesus was deeply moved, acknowledging that on this rock of faith, he would build his church. Though all the disciples had the keys to the kingdom, they were instructed to remain silent. The Christian acknowledgment had to be kept separate from the carnal expectations of the Jews. Jesus knew that openly proclaiming his Messiahship would provoke his enemies and possibly hasten his death.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.471990092453076,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                24.39,
+                36.66,
+                38.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

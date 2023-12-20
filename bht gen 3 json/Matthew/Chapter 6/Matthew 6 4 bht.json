@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:08",
+    "verseRef": "Matthew 6:4",
+    "bestBHT": {
+        "bht": "Jesus instructs his disciples to give alms in secret, for the Father sees what is hidden. Although the addition of Himself in the text is questionable, it is evident that Jesus emphasizes the private nature of these acts. By engaging in good works without ambition, believers can overcome the temptation of vain-glory. God does not require a public display of piety to witness and reward virtuous deeds, as even those performed in darkness can be seen by Him. Prioritizing secret acts of charity before prayer demonstrates their significance in the eyes of God.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.6739126114965373,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+        "commentatorTierSimilarities": [
+            35.62,
+            29.56,
+            34.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4. openly] before men and angels; at the resurrection of the just."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That thine alms may be in secret, and thy Father which seeth in secret himself shall reward thee openly.\" ",
+            "The word 'Himself' appears to be an unauthorized addition to the text, which the sense no doubt suggested.",
+            "Prayer."
+        ],
+        "John Calvin": [
+            "He commands his disciples to devote themselves to good works purely, and without any ambition.",
+            "He tells them, that God does not need a strong light to perceive good actions: for those things, which appear to be buried in darkness, are open to his view.",
+            "A most appropriate remedy is thus applied for curing the disease of ambition, when he reminds us to fix our eye on God: for this banishes from our minds, and will utterly destroy, all vain-glory."
+        ],
+        "Philip Schaff": [
+            "The mode should be chosen with a view to secrecy.\" ",
+            "Thy Father who seeth in secret, in this hidden place.",
+            "God gives this reward: \u2018of grace, not of works.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "In secret (\u03c4\u03c9 \u03ba\u03c1\u03c5\u03c0\u03c4\u03c9). The Textus Receptus added the words \u03b5\u03bd \u03c4\u03c9 \u03c6\u03b1\u03bd\u03b5\u03c1\u03c9 (openly) here and in Matthew 6:6, but they are not genuine.",
+            "Jesus does not promise a public reward for private piety."
+        ],
+        "John Gill": [
+            "There were two chambers in the sanctuary, the one was",
+            "\u05dc\u05e9\u05db\u05ea \u05d7\u05e9\u05d0\u05d9\u05dd, 'the chamber of secrets,' and the other the chamber of vessels: the chamber of secrets was that into which pious persons put \u05d1\u05d7\u05e9\u05d0\u05d9, 'in secret,' and the poor children of good men were maintained out of it privately.",
+            "Greater, (say they,) is he that gives alms \u05d1\u05e1\u05ea\u05e8, in secret, than Moses our master.",
+            "This duty, of giving alms to the poor, is mentioned by Christ before prayer to God; it may be for this reason, because it was usual to give alms before prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When giving alms, Jesus instructs his disciples to do so in secret, ensuring that no one sees the act except for the Father who remains hidden from human eyes. While the addition of the word Himself in the text is unsupported, it is clear that Jesus emphasizes the private nature of this act. By doing good works purely and without ambition, believers can escape the trap of vain-glory. This secrecy is deemed essential, as God does not require a prominent show of piety to witness and reward righteous actions. In fact, giving alms is mentioned before prayer, perhaps because it was common practice to give to the poor prior to prayer. By going unnoticed and unnoticed, believers can be confident in their reward from God.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.57,
+            "qualityScore": 1.6359788695011885,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                36.73,
+                28.1,
+                35.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus instructs his disciples to give alms in secret, for the Father sees what is hidden. Although the addition of Himself in the text is questionable, it is evident that Jesus emphasizes the private nature of these acts. By engaging in good works without ambition, believers can overcome the temptation of vain-glory. God does not require a public display of piety to witness and reward virtuous deeds, as even those performed in darkness can be seen by Him. Prioritizing secret acts of charity before prayer demonstrates their significance in the eyes of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.6739126114965373,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                35.62,
+                29.56,
+                34.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches his disciples to practice secret acts of charity, assuring them that their Father, unseen by human eyes, will openly reward them. While the added word Himself lacks support, the emphasis remains on the private nature of these deeds. By engaging in good works devoid of ambition, believers can guard against vain-glory. God, who perceives actions hidden in darkness, does not demand a public display of piety. In fact, giving alms prior to prayer was a common practice, underscoring its importance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.551343587345965,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                36.82,
+                26.66,
+                36.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructs his disciples to give alms in secret, avoiding the need for public recognition. The addition of Himself to the text is unsupported, though the private nature of these acts is apparent. By performing good works without ambition, believers can shun vain-glory. God discerns actions that appear hidden in darkness, rendering unnecessary any grand displays of piety. This teaching highlights the significance of giving alms before praying, aligning with the customary practice of the time.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.51654818736319,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                35.15,
+                29.4,
+                35.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 6:4, Jesus urges his followers to perform acts of charity quietly, without seeking attention from others. Though the word Himself in the text lacks support, it is clear that these acts should remain hidden. By engaging in good deeds devoid of ambition, believers can avoid the trap of seeking glory for themselves. God, who perceives actions even in the darkness, does not require a public display of piety. Interestingly, it was customary in those times to give alms to the poor before offering prayers to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.547625429688413,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                34.62,
+                26.78,
+                38.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

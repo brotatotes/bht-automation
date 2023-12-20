@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:07",
+    "verseRef": "Matthew 19:1",
+    "bestBHT": {
+        "bht": "After finishing His teachings, Jesus departed from Galilee and came into the borders of Judea beyond the Jordan. This marked a very solemn period in His public ministry and was His farewell to Galilee. Though the narrative may suggest a direct journey from one region to the other, we know from other Gospels that a considerable time elapsed between leaving Galilee and arriving in Judea. Jesus fearlessly passed through the edge of Galilee and down the Jordan Valley in Perea on this final journey to Jerusalem.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.2471276008188736,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.06,
+        "commentatorTierSimilarities": [
+            25.55,
+            37.02,
+            37.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The borders of Judwa beyond Jordan forms one continuous description.",
+            "Bethany, where He went, was beyond Jordan, but on the confines of Judaea.",
+            "See notes on Mark x. 1, and Luke ix. 51."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This marks a very solemn period in our Lord's public ministry.",
+            "So slightly is it touched here... that few readers probably note it as the Redeemer's Farewell to Galilee, which however it was.",
+            "But though one might conclude from our Evangelist that our Lord went straight from one region to the other, we know from the other Gospels that a considerable time elapsed between the departure from the one and the arrival at the other."
+        ],
+        "Albert Barnes": [
+            "The narrative here refers to the last journey of the Saviour from Galilee to Jerusalem, to attend the last Passover which he celebrated.",
+            "A considerable lapse of time occurred between his last discourse in the preceding chapter and what is recorded here, and several important events have been recorded by Luke and John which occurred in the interval.",
+            "Matthew and Mark now resume the narrative by relating that after Jesus had left Galilee he approached Jerusalem by passing through the country beyond Jordan."
+        ],
+        "Marvin Vincent": [
+            "Coasts [\u03bf\u03c1\u03b9\u03b1]. Better Rev., borders...",
+            "...though it is easy to see how the translation coasts arose, coast being derived from the Latin costa, a side, and hence a border generally...",
+            "...though now applied to the sea-side only."
+        ],
+        "Philip Schaff": [
+            "The borders of Judea, beyond the Jordan, i.e., on the east side.",
+            "The Christians of Jerusalem sought refuge in Perea (in Pella) just before the destruction of that city.",
+            "Some identify this visit with the retirement to Bethabara, or Bethany, beyond Jordan (John 10:40) immediately before the raising of Lazarus; we place it after that event and the retirement to Ephraim (John 11:54)."
+        ],
+        "Archibald T. Robertson": [
+            "Absence of \u03bf\u03c4 or \u03ba\u03b1 after \u03ba\u03b1 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf, one of the clear Hebraisms in the N.T.\" ",
+            "This is a curious expression. It apparently means that Jesus left Galilee to go to Judea by way of Perea as the Galileans often did to avoid Samaria.\" ",
+            "He was not afraid to pass through the edge of Galilee and down the Jordan Valley in Perea on this last journey to Jerusalem."
+        ],
+        "John Gill": [
+            "And it came to pass, that when Jesus had finished these sayings,.... Concerning humility, avoiding offences, the methods to be taken in reproving offenders, and the forgiveness that is to be exercised towards them...\" ",
+            "He departed from Galilee; where he had chiefly preached and wrought his miracles, no more to return thither till after his resurrection...\" ",
+            "and came into the coasts of Judea beyond Jordan; that is, to that country which was called 'beyond Jordan', and bordered on Judea; coming still nearer and nearer to Jerusalem, where he had told his disciples, a little while ago, he must come, and suffer, and die..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After finishing His teachings, Jesus departed from Galilee towards the borders of Judea beyond the Jordan, marking a solemn period in His public ministry. Despite the brevity of the mention, this moment signifies the Redeemer's farewell to Galilee. Although it may appear that Jesus went straight from one region to the other, there was a considerable lapse of time between His departure from Galilee and His arrival in Judea. This journey took Him through Perea, as the Galileans often did to avoid Samaria, showing His fearlessness in passing through the edge of Galilee and down the Jordan Valley on His way to Jerusalem.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.24117728499469,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+            "commentatorTierSimilarities": [
+                27.24,
+                36.17,
+                36.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After finishing His teachings, Jesus departed from Galilee and came into the borders of Judea beyond the Jordan, marking a solemn period in His public ministry. This signifies His farewell to Galilee, though it is lightly touched upon in this passage. The journey from one region to the other took considerable time, with Jesus passing through Perea, showing His fearlessness in traveling through Galilee and down the Jordan Valley on His way to Jerusalem.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.262158925905465,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+            "commentatorTierSimilarities": [
+                25.67,
+                37.41,
+                36.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After finishing His teachings, Jesus departed from Galilee on His last journey from one region to the other, a period in His ministry that is often overlooked. It is worth noting that there was a significant time gap between His departure from Galilee and His arrival in Judea. To avoid Samaria, Jesus passed through Perea, displaying His fearlessness as He traveled through the edge of Galilee and down the Jordan Valley on His way to Jerusalem.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2341618141152915,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+            "commentatorTierSimilarities": [
+                25.03,
+                36.09,
+                38.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After finishing His teachings, Jesus departed from Galilee and came into the borders of Judea beyond the Jordan. This marked a very solemn period in His public ministry and was His farewell to Galilee. Though the narrative may suggest a direct journey from one region to the other, we know from other Gospels that a considerable time elapsed between leaving Galilee and arriving in Judea. Jesus fearlessly passed through the edge of Galilee and down the Jordan Valley in Perea on this final journey to Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2471276008188736,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.06,
+            "commentatorTierSimilarities": [
+                25.55,
+                37.02,
+                37.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After finishing His teachings, Jesus departed from Galilee and entered the borders of Judea beyond the Jordan, signifying a solemn period in His ministry. This departure from Galilee to Judea through Perea reveals His fearlessness in traversing the region, avoiding Samaria. Though there is little mention of this farewell to Galilee, a considerable time elapsed between departing the one region and reaching the other. This journey served as a significant step towards Jesus' final arrival in Jerusalem.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1262737314299893,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                25.91,
+                37.17,
+                36.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

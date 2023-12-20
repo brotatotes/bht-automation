@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:52:45",
+    "verseRef": "Matthew 24:44",
+    "bestBHT": {
+        "bht": "Christ's coming is shrouded in unpredictability, likened to a thief. Neglecting to be ready is futile and unwise. Believers are urged to pray continually, avoiding excessive indulgence and worldly concerns. The caution is not a threat, as those ready will find Christ a friend, receiving Him willingly. The warning compels us to wake up, for though the final judgment may be delayed, it looms over us every hour. True readiness lies in our union with Christ, adorned with His righteousness, graciously preparing us for His coming.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.4253562964094584,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+        "commentatorTierSimilarities": [
+            33.03,
+            32.49,
+            34.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Be ye also ready.",
+            "He charged them to pray always, that they might be accounted worthy to escape those things.",
+            "Not to suffer their hearts to be overcharged with surfeiting, or too much eating, or drunkenness, or the cares of this life."
+        ],
+        "John Calvin": [
+            "Since, therefore, we are informed that Christ\u2019s coming will be sudden and unexpected, like that of a robber, and since we are expressly forewarned that we must always watch, lest he come upon us when asleep...",
+            "...there is no excuse for our indolence; more especially since there is reason to dread not only a breach of the wall, and a loss of our property, but a deadly wound to ruin our soul, unless we are on our guard.",
+            "The tendency of these words therefore is, that the warning of Christ should arouse us; for, though the last judgment be delayed for a long time, yet it hangs over us every hour..."
+        ],
+        "Philip Schaff": [
+            "To be ready at all is to be ready always.",
+            "The caution of this passage is not a threatening for the Lord\u2019s people.",
+            "He does not rule them by terror; those ready find Him a Friend ; only those not ready find His coming as uncomfortable as that of a thief."
+        ],
+        "Archibald T. Robertson": [
+            "It is useless to set the day and hour for Christ's coming.",
+            "It is folly to neglect it.",
+            "This figure of the thief will be used also by Paul concerning the unexpectedness of Christ's second coming."
+        ],
+        "John Gill": [
+            "And if this can be applied to a readiness for a future state after death; for the second coming of Christ, and last judgment; this lies not in a dependence on the absolute mercy of God; nor in an external humiliation for sin; nor in an abstinence from grosser sins, or in mere negative holiness; nor in any outward, legal, civil, and moral righteousness; nor in a submission to Gospel ordinances; nor in a mere profession of religion; but in being in Christ, having on his righteousness, and being washed in his blood.",
+            "And such a readiness in either branch of it, is not of themselves, but lies in the grace of God, which gives a meetness for glory; and in the righteousness of Christ, the fine linen, clean and white, which being granted by him, his people are made ready for him.",
+            "A readiness the Jews report Bath Kol, or the voice from heaven, gave out concerning the Israelites. 'Bath Kol (say they) went out, and said to them, \u2018ye are all of you ready for the life of the world to come'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ's coming is compared to that of a thief, emphasizing its suddenness and unexpectedness. Neglecting to be ready for His coming is futile and foolish. This analogy is used by Paul as well to highlight the unpredictability of Christ's second coming. As believers, we are admonished to be constantly prepared by praying, avoiding excessive indulgence, and not being weighed down by worldly concerns. This warning is not meant to strike fear in the hearts of God's people, but rather to prompt us to be alert. The urgency of this message should awaken us from spiritual complacency, as the judgment is always imminent, and we have no excuse for our laziness. True readiness is not found in external actions or religious practices, but in being united with Christ, robed in His righteousness, and cleansed by His blood. This readiness is a gift of God's grace, enabling us to be prepared for His coming.",
+            "wordCount": 156,
+            "quoteTokenProportion": 35.11,
+            "qualityScore": 1.5021770232745006,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                36.21,
+                28.8,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's coming, likened to a thief, highlights its suddenness and necessitates constant readiness. Neglecting preparation is futile and foolish, thus Paul reiterates the unexpectedness of Christ's return. Believers must pray, abstain from excess, and not be consumed by worldly cares to stay ready always. The warning isn't meant to terrorize but to urge vigilance. We can't excuse our indolence since judgment is ever imminent. Genuine readiness isn't based on external actions, but on our union with Christ, clothed in His righteousness, and washed by His blood, a grace-given state preparing us for His coming.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.3850822522551798,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+            "commentatorTierSimilarities": [
+                31.91,
+                30.97,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's coming is shrouded in unpredictability, likened to a thief. Neglecting to be ready is futile and unwise. Believers are urged to pray continually, avoiding excessive indulgence and worldly concerns. The caution is not a threat, as those ready will find Christ a friend, receiving Him willingly. The warning compels us to wake up, for though the final judgment may be delayed, it looms over us every hour. True readiness lies in our union with Christ, adorned with His righteousness, graciously preparing us for His coming.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4253562964094584,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+            "commentatorTierSimilarities": [
+                33.03,
+                32.49,
+                34.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's coming, compared to that of a thief, underscores its suddenness. Neglecting readiness is foolish, as indicated by Paul's reference to the unexpectedness of Christ's second coming. Believers should be prepared, praying and avoiding excessive indulgence and worldly preoccupations. This caution is not a threat, but an encouragement for those ready will find Christ as a comforting Friend, while those unprepared will find His coming discomforting. We are called to be alert, knowing that the judgment is imminent. Genuine readiness is found in our union with Christ, clothed in His righteousness, and cleansed by His blood\u2014a grace-given state of preparation.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.4531346680941357,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.66,
+            "commentatorTierSimilarities": [
+                36.32,
+                29.5,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's coming, compared to a thief's arrival, serves as a reminder of its suddenness and the folly of neglecting readiness. Paul echoes this idea of unexpectedness. Believers are exhorted to be in a constant state of preparedness by praying without ceasing, avoiding excess, and not being entangled in worldly cares. The purpose of this warning is not to frighten but to stimulate vigilance. We have no excuse for laziness since the judgment is ever imminent. True readiness lies in our union with Christ, clothed in His righteousness, and cleansed by His blood, a gift of God's grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.259248047587701,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.21,
+            "commentatorTierSimilarities": [
+                36.03,
+                28.22,
+                35.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:50:13",
+    "verseRef": "Matthew 19:14",
+    "bestBHT": {
+        "bht": "Let these children alone, Jesus said, highlighting the need to embrace their innocence and trust. He emphasized that those who don't receive the kingdom of God with childlike qualities will not enter it. The church should consist of individuals with childlike hearts. Parents can dedicate their children to God's service, seeking His blessing. Excluding children from the grace of redemption would be cruel, as infants are renewed by God's Spirit. Jesus urges us to embrace the weakest believers and those who are childlike in knowledge, for the kingdom of heaven belongs to them.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.7552145653833922,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+        "commentatorTierSimilarities": [
+            24.0,
+            38.13,
+            37.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Whosoever shall not receive the kingdom of God as a little child shall not enter therein.\" ",
+            "Of such as these - that is, of persons with such tempers as these - is the church to be composed.",
+            "No act, therefore, can be more proper than that by which parents, in a solemn ordinance of religion, give them up to God in baptism, consecrating them to his service, and seeking for them the blessing of the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Suffer [\u03b1\u03c6\u03b5\u03c4\u03b5] . Lit., leave alone. Compare Mark 14:6; Mark 14:36; Luke 13:8. Sir J. Cheke : Let these children alone."
+        ],
+        "John Calvin": [
+            "To exclude from the grace of redemption those who are of that age would be too cruel; and therefore it is not without reason that we employ this passage as a shield against the Anabaptists.",
+            "Infants are renewed by the Spirit of God, according to the capacity of their age, till that power which was concealed within them grows by degrees, and becomes fully manifest at the proper time.",
+            "But it is presumption and sacrilege to drive far from the fold of Christ those whom he cherishes in his bosom, and to shut the door, and exclude as strangers those whom he does not wish to be forbidden to come to him."
+        ],
+        "Philip Schaff": [
+            "Suffer the little children, etc. The natural impulse would be to bring children to Him, do not check it.",
+            "To such belongeth the kingdom of heaven.",
+            "Since they are to come (or be brought) to Christ, who is a Saviour, the doctrine of universal depravity is not denied here."
+        ],
+        "Archibald T. Robertson": [
+            "Suffer (\u03b1\u03c6\u03b5\u03c4\u03b5). 'Leave them alone.'",
+            "Forbid them not (\u03bc\u03b7 \u03ba\u03c9\u03bb\u03c5\u03b5\u03c4\u03b5). 'Stop hindering them.'",
+            "Of such (\u03c4\u03c9\u03bd \u03c4\u03bf\u03b9\u03bf\u03c5\u03c4\u03c9\u03bd). The childlike as in Matthew 18:3."
+        ],
+        "John Gill": [
+            "Suffer little children...to teach his disciples to regard the weakest believers, and such as were but children in knowledge...\" ",
+            "...do not drive away these children from my person and presence; they are lively emblems of the proper subjects of a Gospel church state...",
+            "Christ's entire silence about the baptism of infants at this time...has no favourable aspect on such a practice."
+        ],
+        "John Wesley": [
+            "Of such is the kingdom of heaven \u2014 Little children, either in a natural or spiritual sense, have a right to enter into my kingdom. Matthew 18:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Leave the children alone, Jesus declared, refusing to hinder them from coming to Him. He emphasized the importance of childlike qualities, stating that those who do not receive the kingdom of God with such simplicity will not enter it. The church itself is to be composed of individuals with childlike hearts. Parents have the privilege of dedicating their children to God's service and seeking the blessing of Jesus for them. It would be cruel to exclude children from the grace of redemption, as infants are renewed by the Spirit of God according to the capacity of their age. Jesus desires that we embrace the weakest believers and those who are like children in knowledge, for the kingdom of heaven belongs to such as these.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.7909953334119404,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                24.62,
+                37.26,
+                38.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Leave the children alone, Jesus declared, refusing to hinder them from coming to Him. He emphasized the importance of childlike qualities, stating that those who do not receive the kingdom of God with such simplicity will not enter it. The church itself is to be composed of individuals with childlike hearts. Parents have the privilege of dedicating their children to God's service and seeking the blessing of Jesus for them. It would be cruel to exclude children from the grace of redemption.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.738622708449538,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                27.24,
+                37.28,
+                35.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let these children alone, Jesus said, highlighting the need to embrace their innocence and trust. He emphasized that those who don't receive the kingdom of God with childlike qualities will not enter it. The church should consist of individuals with childlike hearts. Parents can dedicate their children to God's service, seeking His blessing. Excluding children from the grace of redemption would be cruel, as infants are renewed by God's Spirit. Jesus urges us to embrace the weakest believers and those who are childlike in knowledge, for the kingdom of heaven belongs to them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7552145653833922,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                24.0,
+                38.13,
+                37.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructed, Leave these children alone, emphasizing their importance and discouraging any hindrance. He emphasized that only those who receive the kingdom of God with childlike qualities can enter it. The church ought to consist of individuals with childlike hearts. Parents have the special privilege of dedicating their children to God's service and seeking His blessings for them. Excluding children from the grace of redemption would be cruel, as infants are renewed by the Spirit of God according to their capacity. Jesus wants us to embrace the weakest believers and those who are childlike in knowledge, for the kingdom of heaven belongs to them.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7084468447113412,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                23.43,
+                38.14,
+                38.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus instructed, Leave the children alone. He stressed the significance of childlike qualities, stating that those who do not accept the kingdom of God with such simplicity cannot enter it. The church should be composed of individuals with childlike hearts. Parents have the privilege of dedicating their children to God's service and seeking Jesus' blessings for them. Excluding children from the grace of redemption would be cruel, as infants are renewed by the Spirit of God at their capacity. Jesus desires us to embrace the weakest believers and those who are like children in knowledge, for the kingdom of heaven belongs to them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7721192770132488,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                25.14,
+                37.53,
+                37.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

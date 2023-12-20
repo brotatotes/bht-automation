@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:51:10",
+    "verseRef": "Matthew 22:28",
+    "bestBHT": {
+        "bht": "In the state after the resurrection, the Sadducees sought to entrap Jesus with a cleverly crafted question about marriage. However, Jesus quickly refuted their false assumption about human relations in the future state. The Sadducees hoped to gain an advantage against Christ and discredit him, but their plan was foiled by his wise answer and reasoning.",
+        "wordCount": 56,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 1.3046268282437505,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.72,
+        "commentatorTierSimilarities": [
+            0.0,
+            52.01,
+            47.99
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "In the resurrection, i.e., in the state after the resurrection.",
+            "The point of the entangling question is now evident.",
+            "Our Lord at once rebukes and denies their false assumption, in regard to human relations in the future state."
+        ],
+        "John Gill": [
+            "they thought to have got some advantage against Christ, and in favour of their notion",
+            "they missed their aim, and were sadly disappointed by Christ's answer and reasonings",
+            "the question would be either that he did not know whose wife she should be, and then they would traduce him among the common people, as weak and ignorant"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the state after the resurrection, the Sadducees sought to entrap Jesus with a cleverly crafted question about marriage. However, Jesus quickly refuted their false assumption about human relations in the future state. The Sadducees hoped to gain an advantage against Christ and discredit him, but their plan was foiled by his wise answer and reasoning.",
+            "wordCount": 56,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.3046268282437505,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.01,
+                47.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sadducees attempted to entrap Jesus by posing a question about marriage in the state after the resurrection. However, Jesus swiftly debunked their erroneous assumption regarding future human relationships. Their intention was to gain an advantage against Christ and undermine his credibility, but his insightful answer and reasoning thwarted their plan.",
+            "wordCount": 51,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.170606407915706,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                47.61,
+                52.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Sadducees sought to entrap Jesus with a question about marriage in the state after the resurrection. Jesus refuted their false assumption about future human relations, frustrating their attempts to gain an advantage against him.",
+            "wordCount": 35,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.2651770588114741,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.41,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.89,
+                41.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sadducees, in their attempt to entangle Jesus, presented a question about marriage in the state after the resurrection. Jesus promptly rebuked and denied their misguided assumption regarding future human relationships. Their intention was to gain an advantage against him, yet their plans were completely thwarted by his wise answer and reasoning.",
+            "wordCount": 52,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.2173073425104886,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.37,
+                54.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sadducees sought to entrap Jesus by posing a question about marriage in the state after the resurrection. Their false assumption about future human relations was swiftly refuted and denied by Jesus. In their hopes of gaining an advantage against him, they were left disappointed as their plans were foiled by his wise answer and reasoning.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2877680414163437,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.31,
+                51.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

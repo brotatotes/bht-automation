@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:47:53",
+    "verseRef": "Matthew 13:51",
+    "bestBHT": {
+        "bht": "Having spoken the parables in the hearing of the multitude, Jesus reserved the explanation of the last three parables for the Twelve in private. When he asked if they understood all these things, they replied affirmatively, acknowledging their close attention to his words. However, their response suggests that their understanding was not yet complete. Jesus wanted to ensure that these future teachers of the Church would be prepared to provide a variety of instruction from the Word of God, catering to the needs of the people.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.473635244512454,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.34,
+        "commentatorTierSimilarities": [
+            26.0,
+            37.91,
+            36.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Have ye understood all these things?",
+            "Yea, [Lord,]",
+            "The reply must be taken as spoken from their then standing-point, from which but little could be seen of that inner and deeper meaning which the Holy Spirit has since unfolded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus saith unto them\u2014that is, to the Twelve.\" ",
+            "He had spoken the first four in the hearing of the mixed multitude: the last three He reserved till, on the dismissal of the mixed audience, He and the Twelve were alone.",
+            "Have ye understood all these things? They say unto him, Yea, Lord."
+        ],
+        "John Calvin": [
+            "We must keep in recollection what we have formerly seen, that all the parables of Christ were explained in private.",
+            "He says that teachers are like householders, who are not only careful about their own food but have a store laid up for the nourishment of others.",
+            "The meaning, therefore, is that the teachers of the Church ought to be prepared by long study for giving to the people, as out of a storehouse, a variety of instruction concerning the word of God, as the necessity of the case may require."
+        ],
+        "Philip Schaff": [
+            "Have ye understood? A test of their progress in the art of interpretation.",
+            "They answered rightly, but the next verse suggests that they did not yet fully understand."
+        ],
+        "John Gill": [
+            "The things delivered had some difficulty in them; that they were of moment and importance to be understood; and how concerned he was, that they should understand them.",
+            "This answer, which was truly and faithfully made, is a proof of their close and strict attention to the words of Christ.",
+            "The quickness of their understandings, at that time, being in a very special manner opened and illuminated by Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, standing with limited understanding, replied affirmatively when Jesus asked if they understood all the parables he had just shared with the crowd. But the next verse suggests that their understanding was still incomplete. The fact that Jesus asked them privately, after the dismissal of the mixed audience, indicates that deeper meaning awaited them. Jesus wanted the Twelve to grasp the significance of these teachings, knowing that as teachers they would need to be prepared to nourish others with a variety of instruction. Their faithful response to Jesus's question shows their attentiveness and the special illumination and openness of their understanding granted by Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.524481990475437,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.03,
+            "commentatorTierSimilarities": [
+                26.7,
+                36.34,
+                36.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Standing in their limited understanding, the disciples replied affirmatively to Jesus's inquiry about their comprehension of the parables. However, their response indicates that their understanding was still incomplete. Jesus's private discussion with them after dismissing the mixed audience suggests that he desired to impart deeper meaning. As teachers, they needed to be prepared to nourish others with diverse instruction from the Word of God. Their attentive and faithful response demonstrated the special illumination and openness Christ had granted them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.3326693967068648,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.65,
+            "commentatorTierSimilarities": [
+                23.89,
+                35.04,
+                41.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having spoken the parables in the hearing of the multitude, Jesus reserved the explanation of the last three parables for the Twelve in private. When he asked if they understood all these things, they replied affirmatively, acknowledging their close attention to his words. However, their response suggests that their understanding was not yet complete. Jesus wanted to ensure that these future teachers of the Church would be prepared to provide a variety of instruction from the Word of God, catering to the needs of the people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.473635244512454,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.34,
+            "commentatorTierSimilarities": [
+                26.0,
+                37.91,
+                36.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After speaking the parables to the mixed audience, Jesus reserved the explanation of the final three parables for a private discussion with the Twelve. When Jesus inquired if they understood everything, they affirmed their comprehension. However, their response indicated that they had not grasped the deeper meaning. Jesus wanted these future teachers to be well-prepared to provide a variety of instruction from the Word of God, considering the importance and difficulty of the teachings. Their attentive response revealed their openness and illumination by Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.3962973990736431,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.77,
+            "commentatorTierSimilarities": [
+                26.88,
+                36.46,
+                36.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After addressing the parables to the mixed multitude, Jesus saved the explanation of the last three parables for a private conversation with the Twelve. Upon asking if they comprehended the teachings, they affirmed their understanding. However, their response suggested that they had not fully grasped the deeper significance. Jesus desired these future teachers to be well-equipped to provide diverse instruction from the Word of God, catering to the needs of the people. Their attentive response demonstrated their openness and enlightenment by Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.3550262563600548,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                24.56,
+                38.39,
+                37.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

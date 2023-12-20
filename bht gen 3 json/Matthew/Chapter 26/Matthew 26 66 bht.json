@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:53:47",
+    "verseRef": "Matthew 26:66",
+    "bestBHT": {
+        "bht": "As the chief priests and council convened, they had already reached a unanimous opinion about the accused - their vote was more of a formality than a legal condemnation. Despite lacking the authority to execute a death sentence, they declared him worthy of death. This hasty decision, conveniently made on the night before a major holiday, clearly illustrates their determination to quickly hand him over to the Romans for crucifixion, in order to maintain peace among the people.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.5623789752238888,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+        "commentatorTierSimilarities": [
+            28.81,
+            29.35,
+            41.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was not a formal condemnation, but only a previous vote or expression of opinion.",
+            "That took place in the morning, see ch. xxvii. 1, and especially Luke xxii. 66\u201371."
+        ],
+        "Albert Barnes": [
+            "What think ye? - What is your opinion? What sentence do you pronounce?",
+            "He is guilty of death - This was the form which was used when a criminal was condemned to die.",
+            "The chief priests...consulted to deliver him to the Romans to be crucified...and thus to prevent any excitement among the people."
+        ],
+        "Marvin Vincent": [
+            "Guilty of death [\u03b5\u03bd\u03bf\u03c7\u03bf\u03c2 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5] . Rev., worthy of death. See on Matthew 23:18. ejn, in, ecw, to hold. The idea is, literally, holden of death; in bonds to death."
+        ],
+        "Philip Schaff": [
+            "What think ye? A formal putting of the question to vote.",
+            "He is guilty (or 'worthy') of death. The answer of all.",
+            "This test vote, however, they considered as settling the question; hence the ill-treatment which followed."
+        ],
+        "Archibald T. Robertson": [
+            "He is worthy of death (\u03b5\u03bd\u03bf\u03c7\u03bf\u03c2 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd). Held in the bonds of death (\u03b5\u03bd, \u03b5\u03c7\u03c9) as actually guilty with the genitive (\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5).\" ",
+            "The dative expresses liability as in Matthew 5:21 (\u03c4\u03b7 \u03ba\u03c1\u03b9\u03c3\u03b5) and as \u03b5\u03b9\u03c2 and the accusative (Matthew 5:22).\" ",
+            "They took the vote though it was at night and they no longer had the power of death since the Romans took it away from them."
+        ],
+        "John Gill": [
+            "They answered and said, he is guilty of death.\" ",
+            "if he had been guilty of blasphemy, as they charged him, the sentence would have been right.\" ",
+            "But in this case, they begun the trial in the night, examined the witnesses, finished it, and passed the sentence of condemnation, and that in the eve of a grand festival."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests and council had already made up their minds about the fate of the accused; they had simply gathered to formally solidify their decision. Although they lacked the power to carry out a death sentence, they proceeded to vote and declare him worthy of death. It is important to note that their decision was made at night and on the eve of a significant festival, indicating their urgency to bring this matter to a close. However, it is clear that their motivations were not driven by a pursuit of justice but rather by their determination to deliver him to the Romans to be crucified, in order to quell any potential unrest among the people.",
+            "wordCount": 116,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.4687352917817535,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+            "commentatorTierSimilarities": [
+                27.97,
+                27.61,
+                44.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the chief priests and council convened, they had already reached a unanimous opinion about the accused - their vote was more of a formality than a legal condemnation. Despite lacking the authority to execute a death sentence, they declared him worthy of death. This hasty decision, conveniently made on the night before a major holiday, clearly illustrates their determination to quickly hand him over to the Romans for crucifixion, in order to maintain peace among the people.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.5623789752238888,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                28.81,
+                29.35,
+                41.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The assembly of chief priests and council, though they lacked the power to execute, proceeded to formally vote and pronounce the accused worthy of death. Their decision was not based on a fair trial, as it was conducted at night and hastily concluded on the eve of a significant festival. It is evident that their intention was to swiftly hand him over to the Romans for crucifixion, thereby avoiding any potential unrest among the people.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5420930118859708,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                29.9,
+                25.95,
+                44.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and council gathered, not for a formal condemnation, but to express their unanimous opinion that the accused was worthy of death. While lacking the authority to carry out the sentence, they proceeded to vote, finalizing their decision. This impromptu meeting took place at night, on the eve of a major festival, emphasizing their urgency to swiftly hand him over to the Romans for crucifixion and maintain peace among the people. Their focus was not on justice, but rather on expediting the process to achieve their desired outcome.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4491860829461372,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                25.85,
+                29.46,
+                44.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and council, though lacking the power of execution, convened to express their unanimous view that the accused was worthy of death. This gathering was not a formal condemnation, but rather an occasion to solidify their opinion. Despite taking place at night on the eve of a festival, their haste was evident in their determination to swiftly deliver him to the Romans for crucifixion and maintain public order. Their priority appeared to be expediency, rather than justice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4886782974203254,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                31.08,
+                25.71,
+                43.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

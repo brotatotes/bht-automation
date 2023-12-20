@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:49:52",
+    "verseRef": "Matthew 19:4",
+    "bestBHT": {
+        "bht": "God, who made them male and female from the beginning, establishes the truth that marriage is a sacred union between one man and one woman. Jesus rebukes the Pharisees for their misunderstanding and reminds them of this foundational truth. The bond of marriage is more sacred than the bond between parents and children, and divorce tears apart the unity that God intended. By understanding the original order of creation, we can see the sanctity and permanence of marriage.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.3760521223002051,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.1,
+        "commentatorTierSimilarities": [
+            16.48,
+            44.4,
+            39.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4. And he answered and said unto",
+            "\tthem, Have ye not read, that he which made them at the beginning made",
+            "\tthem male and female\u2014or better, perhaps, \"He that made",
+            "\tthem made them from the beginning a male and a female."
+        ],
+        "John Calvin": [
+            "He who divorces his wife tears from him, as it were, the half of himself.",
+            "The bond of marriage is more sacred than that which binds children to their parents.",
+            "From the order of creation is proved the inviolable union of one husband with one wife."
+        ],
+        "Philip Schaff": [
+            "Have ye not read, etc. An implied rebuke for their misunderstanding of the Scripture teaching on this point.",
+            "He who made them, etc. The historical truth of the narrative in Genesis 1:11. is assumed as the basis of an important argument. The creation of man is affirmed.",
+            "Male and female (Genesis 1:27). The question of the Pharisees is answered by what God did, in the original creation of man, instituting the sexual relation, and marriage as an indissoluble union between one man and one woman."
+        ],
+        "John Gill": [
+            "Have ye not read, that he which made them at the beginning, made them male and female?\" ",
+            "God, who in the beginning of time, or of the creation, as Mark expresses it, made all things, the heavens, and the earth, and all that is therein, and particularly 'man', as the Vulgate Latin, and Munster's Hebrew Gospel supply it here.",
+            "In this original constitution, no provision was made for divorce, or polygamy."
+        ],
+        "John Wesley": [
+            "He said, Have ye not read \u2014 So instead of contradicting him, our Lord confutes them by the very words of Moses.",
+            "He who made them, made them male and female from the beginning \u2014 At least from the beginning of the Mosaic creation. And where do we read of any other?",
+            "By making them one man and one woman, he condemned polygamy: by making them one flesh, he condemned divorce."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, who made all things, created man and woman from the beginning. This beautifully establishes the foundational truth that marriage is a sacred union between one man and one woman. When Jesus asks the Pharisees if they have not read this, he not only rebukes their misunderstanding but also emphasizes the inviolable bond between husband and wife. Divorce tears apart the very fabric of this union, and the sacredness of marriage surpasses even the relationship between children and parents. Thus, understanding the original order of creation brings clarity to the sanctity and indissolubility of marriage.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.2943894311654431,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.38,
+            "commentatorTierSimilarities": [
+                15.55,
+                43.56,
+                40.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, who made them male and female from the beginning, establishes the truth that marriage is a sacred union between one man and one woman. Jesus rebukes the Pharisees for their misunderstanding and reminds them of this foundational truth. The bond of marriage is more sacred than the bond between parents and children, and divorce tears apart the unity that God intended. By understanding the original order of creation, we can see the sanctity and permanence of marriage.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.3760521223002051,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.1,
+            "commentatorTierSimilarities": [
+                16.48,
+                44.4,
+                39.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, who made them male and female from the beginning, establishes the truth that marriage is a sacred union between one man and one woman. Jesus rebukes the Pharisees for their misunderstanding and reminds them of this foundational truth. The bond of marriage is more sacred than the bond between parents and children, and divorce tears apart the unity that God intended. By understanding the original order of creation, we can see the sanctity and permanence of marriage.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.3760521223002051,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.1,
+            "commentatorTierSimilarities": [
+                16.48,
+                44.4,
+                39.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reminds the Pharisees of the truth that God, who made them male and female from the beginning, establishes marriage as a sacred union between one man and one woman. By rebuking their misunderstanding, he emphasizes that the bond of marriage is even more sacred than the bond between parents and children. Divorce disrupts the intended unity and permanence of this union. Understanding the original order of creation reveals the sanctity and indissolubility of marriage.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.3168592300251505,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.13,
+            "commentatorTierSimilarities": [
+                16.36,
+                41.34,
+                42.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reminds the Pharisees that God, who made them male and female from the beginning, established marriage as a sacred union between one man and one woman. By rebuking their misunderstanding, he highlights the sanctity and permanence of this bond. Divorce tears apart the unity that God intended, making the marital union more sacred than the relationship between parents and children. Recognizing the original order of creation deepens our understanding of the unbreakable nature of marriage.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.2483683894071023,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+            "commentatorTierSimilarities": [
+                15.18,
+                43.98,
+                40.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

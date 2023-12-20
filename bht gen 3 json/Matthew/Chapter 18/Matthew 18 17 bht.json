@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:49:29",
+    "verseRef": "Matthew 18:17",
+    "bestBHT": {
+        "bht": "If a fellow believer refuses to hear your concerns and disregards the admonishment of the church, they should no longer be seen as a brother or sister, but as one outside the Christian community, just as the Jews considered the Gentiles and Publicans. This judgment is not made by the entire church, but by the local body of believers who have the authority to address such matters. Its purpose is not excommunication, but rather the restoration of the one who has strayed.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 1.7721141306396235,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+        "commentatorTierSimilarities": [
+            24.65,
+            38.6,
+            36.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "neglect to hear... refuse to hear.",
+            "That it cannot mean the Church as represented by her rulers, appears by vv. 19, 20...",
+            "'let him no longer be accounted as a brother, but as one of those without,' as the Jews accounted Gentiles and Publicans."
+        ],
+        "Albert Barnes": [
+            "The church may here mean the whole assembly of believers, or it may mean those who are authorized to try such cases.",
+            "Publicans were people of abandoned character, and the Jews would have no contact with them. The meaning of this is, cease to have religious contact with him, or to acknowledge him as a Christian brother.",
+            "This should not be done until all these steps are taken. This is the only way of kindness. This is the only way to preserve peace and purity in the church."
+        ],
+        "Philip Schaff": [
+            "If he refuse to hear them... Tell it unto the church.\" ",
+            "The admonition and entreaty of the Church is to be used as a means of regaining the brother.",
+            "Let him be unto thee as the heathen and the publican, i.e., as outside the Christian fellowship, though in a Christian, not a Jewish spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Refuse to hear...many papyri examples for ignoring, disregarding, hearing without heeding...\" ",
+            "The church...the local body, not the general...\" ",
+            "There are some who think that the Twelve Apostles constituted a local \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03b1, a sort of moving church of preachers."
+        ],
+        "John Gill": [
+            "But if he neglect to hear the church...let him be unto thee as an heathen man, and a publican.",
+            "This is not a form of excommunication to be used among Christians, nor was there ever any such form among the Jews...",
+            "...he is to look upon him as the Jews did one that disregarded both private reproof by a man's self, and that which was in the presence of one or two more, 'a worthless friend,' or neighbour; as a Gentile, with whom the Jews had neither religious nor civil conversation; and a 'publican,' or as Munster's Hebrew Gospel reads it, 'a notorious sinner.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a fellow believer refuses to listen to your concerns and disregards the admonishment of the church, then they should no longer be considered a brother or sister in Christ, but rather as someone outside the Christian community, like the Gentiles and Publicans were viewed by the Jews. This does not mean that the church as a whole is rendering this judgment, but rather the local body of believers who have authority in addressing such matters. The purpose of this step is not to excommunicate, but rather to seek the restoration of the brother or sister who has strayed.",
+            "wordCount": 99,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.736763305218855,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "commentatorTierSimilarities": [
+                23.06,
+                40.92,
+                36.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a fellow believer refuses to hear your concerns and disregards the admonishment of the church, they should no longer be seen as a brother or sister, but as one outside the Christian community, just as the Jews considered the Gentiles and Publicans. This judgment is not made by the entire church, but by the local body of believers who have the authority to address such matters. Its purpose is not excommunication, but rather the restoration of the one who has strayed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7721141306396235,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                24.65,
+                38.6,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a fellow believer refuses to hear your concerns and disregards the admonishment of the church, they should no longer be seen as a brother or sister, but as one outside the Christian community, just as the Jews considered the Gentiles and Publicans. This judgment is not made by the entire church, but by the local body of believers who have the authority to address such matters. Its purpose is not excommunication, but rather the restoration of the one who has strayed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7721141306396235,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                24.65,
+                38.6,
+                36.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When a fellow believer refuses to listen and ignores the admonishment of the church, they should no longer be regarded as a brother or sister in Christ, but instead be considered as someone outside the Christian fellowship, similar to the way the Jews viewed Gentiles and Publicans. This decision is not made by the entire church, but by the local body of believers who have the authority to handle such situations. The goal is not to excommunicate, but rather to seek the restoration of the individual who has strayed.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6412888966364771,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                23.26,
+                41.53,
+                35.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When a fellow believer disregards the concerns and warnings of the church, they should no longer be recognized as a brother or sister in Christ. Instead, they should be regarded as someone outside the Christian community, similar to how Gentiles and Publicans were viewed by the Jews. This decision is not made by the entire church, but by the local body of believers who possess the authority to address such matters. The intention is not to excommunicate, but rather to seek the restoration of the straying believer.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5652380624203874,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                21.94,
+                40.38,
+                37.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

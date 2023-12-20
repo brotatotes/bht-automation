@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:46:10",
+    "verseRef": "Matthew 10:40",
+    "bestBHT": {
+        "bht": "When Jesus sends out His Apostles, He emphasizes the importance of receiving them, as it is equivalent to receiving Him and ultimately God the Father. The treatment the Apostles receive reflects the way they are regarded as representatives of Christ, signifying their authority. Despite their imperfections, they carry the true peace and blessings of Christ, and welcoming them extends beyond mere hospitality to embracing the message they bring, an act of welcoming God Himself.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.8147304771910002,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+        "commentatorTierSimilarities": [
+            25.3,
+            48.17,
+            26.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here in the conclusion of the discourse, the Lord recurs again to His Apostles whom He was sending out.",
+            "On the sense of the verse, see John xx. 21, and on him that sent me, 'I send you,' ver. 16, and Heb. iii. 1.",
+            "There is a difference between the representation of Christ by His messengers, which at most is only official, and even then broken by personal imperfection and infirmity... and the perfect unbroken representation of the Eternal Father by His Blessed Son, John xiv. 9: Heb. i. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that receiveth you, receiveth me; and he that receiveth me, receiveth him that sent me.\" ",
+            "As the treatment which an ambassador receives is understood and regarded as expressing the light in which he that sends him is viewed, so, says our Lord here, 'Your authority is Mine, as Mine is My Father's.'",
+            "Your authority is Mine, as Mine is My Father's."
+        ],
+        "John Calvin": [
+            "Whatever is done to them, Christ does not hesitate to reckon as done to himself.",
+            "He intended to assure them that, if anyone would receive them in a friendly manner, and do them kind offices, he would be as highly pleased as if their benevolence had been exercised towards his own person.",
+            "In such a sacrifice God the Father would smell a sweet savor."
+        ],
+        "Philip Schaff": [
+            "Christ\u2019s disciples are identified with Him. Notwithstanding all the opposition and sundering of family ties, just set forth, Christ\u2019s people carry true peace with them, bearing Him and His blessing to all who receive them.",
+            "The reception is not merely a welcome of the disciples to the house, but of their message to the heart. The language is not entirely figurative. Those who welcome the men, are most apt to welcome the truth they bear, and thus the Master they represent.",
+            "He that receiveth me, receiveth him that sent me, i.e., God. Receiving the servant of Christ is receiving God. Applicable to all true Christians."
+        ],
+        "John Gill": [
+            "Receiving of his disciples, was interpreted by him, a receiving of himself; and what they did to them, would be taken as kindly, as if done to him personally.",
+            "If ye receive him, it is all one as if you received me.",
+            "That a man's messenger is as himself."
+        ],
+        "John Wesley": [
+            "Matthew 18:5; Luke 10:16; John 13:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus sends out His Apostles, He emphasizes that receiving them is equivalent to receiving Him, and receiving Him is equivalent to receiving God the Father. The treatment an ambassador receives reflects how the sender is viewed, and in this case, it signifies the authority the Apostles have as representatives of Christ. Their mission may be imperfect, but they carry true peace and the blessing of Christ. The reception of the disciples is not just a welcome to their physical presence, but also to the message they bear, making it an act of welcoming God Himself.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.7723144646745976,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                25.53,
+                48.82,
+                25.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus sends out His Apostles, He emphasizes that receiving them is equivalent to receiving Him and receiving Him is equivalent to receiving God the Father. The treatment an ambassador receives reflects how the sender is viewed, signifying the authority the Apostles have as representatives of Christ. Their mission may be imperfect, but they carry true peace and the blessing of Christ. The reception of the disciples is not just a welcome to their physical presence but also to the message they bear, an act of welcoming God Himself.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.75744291133781,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                25.0,
+                48.91,
+                26.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As ambassadors of Christ, the reception of the Apostles is synonymous with receiving Christ and ultimately God the Father. This understanding emphasizes the authority bestowed on the Apostles as representatives of Christ. Despite their imperfections, they carry the true peace and blessings of Christ. Welcoming the disciples extends beyond their physical presence, encompassing the acceptance of the message they bear, thereby welcoming God Himself.",
+            "wordCount": 64,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.638506303129657,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.82,
+            "commentatorTierSimilarities": [
+                22.58,
+                51.63,
+                25.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Welcoming the Apostles is tantamount to welcoming Christ and receiving God the Father. This underscores the authority vested in the Apostles as representatives of Christ. Although imperfect, they bring the genuine peace and blessings of Christ. Extending hospitality to the disciples goes beyond mere physical reception; it involves embracing the message they bear, thereby welcoming God Himself.",
+            "wordCount": 57,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.6015821920960183,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                23.41,
+                49.99,
+                26.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus sends out His Apostles, He emphasizes the importance of receiving them, as it is equivalent to receiving Him and ultimately God the Father. The treatment the Apostles receive reflects the way they are regarded as representatives of Christ, signifying their authority. Despite their imperfections, they carry the true peace and blessings of Christ, and welcoming them extends beyond mere hospitality to embracing the message they bring, an act of welcoming God Himself.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.8147304771910002,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                25.3,
+                48.17,
+                26.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

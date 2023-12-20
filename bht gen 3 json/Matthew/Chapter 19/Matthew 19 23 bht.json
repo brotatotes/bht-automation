@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:49:59",
+    "verseRef": "Matthew 19:23",
+    "bestBHT": {
+        "bht": "Entering the kingdom of heaven is not an easy task, especially for the rich. It is hard, with difficulty, for a rich man to surrender his trust and confidence in his worldly possessions. The allure of wealth breeds pride and presumption, making it challenging to shift focus towards eternal treasures. While there have been few exceptions, putting trust in riches becomes an obstacle, often leading to intoxication and preventing the rich from entering the kingdom of heaven.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6111868796942987,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+        "commentatorTierSimilarities": [
+            21.53,
+            38.44,
+            40.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "It is true indeed, that riches do not, in their own nature, hinder us from following God; but, in consequence of the depravity of the human mind, it is scarcely possible for those who have a great abundance to avoid being intoxicated by them.",
+            "The rich are so swelled with pride and presumption, that they cannot endure to be reduced to the straits through which God makes his people to pass.",
+            "The comparison of the camel, which is soon after added, is intended to amplify the difficulty; for it means that the rich are so swelled with pride and presumption, that they cannot endure to be reduced to the straits through which God makes his people to pass."
+        ],
+        "Philip Schaff": [
+            "A rich man shall enter hardly, i.e., 'with difficulty,' into the kingdom of heaven.",
+            "Yet such trust is the natural result of possession, or of even the strong desire to possess.",
+            "Them that trust in riches."
+        ],
+        "Archibald T. Robertson": [
+            "It is hard (\u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03c9\u03c2). With difficulty. Adverb from \u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03bf\u03c2, hard to find food, fastidious, faultfinding, then difficult. "
+        ],
+        "John Gill": [
+            "Verily I say unto you, that a rich man shall hardly enter into the kingdom of heaven.",
+            "Not but that there have been, are, and will be, some that are rich, called by grace, brought into a Gospel church state, and are heirs of the kingdom of heaven; though these are but comparatively few.",
+            "Nor is it riches themselves that make the entrance so difficult, and clog the way, either into grace or glory, but putting trust and confidence in them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Entering the kingdom of heaven is not an easy task, especially for the rich. This illustrates the difficulty of shifting one's focus from worldly possessions to eternal treasures. Riches have a way of breeding pride and presumption, making it challenging for those who possess them to surrender to God. Trust in riches becomes an obstacle in the pursuit of God's kingdom. While it is possible for the rich to find salvation, it is a rare occurrence due to the allure and intoxication of wealth. Ultimately, it is the misplaced trust and confidence in riches that hinder the entrance into the kingdom of heaven.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4892817491660273,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                17.16,
+                39.86,
+                42.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Entering the kingdom of heaven is not an easy task, especially for the rich. It is hard, with difficulty, for a rich man to surrender his trust and confidence in his worldly possessions. The allure of wealth breeds pride and presumption, making it challenging to shift focus towards eternal treasures. While there have been few exceptions, putting trust in riches becomes an obstacle, often leading to intoxication and preventing the rich from entering the kingdom of heaven.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6111868796942987,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+            "commentatorTierSimilarities": [
+                21.53,
+                38.44,
+                40.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is hard for a rich man to enter the kingdom of heaven. The difficulty lies in the strong desire to possess and the intoxication caused by abundant wealth. Trusting in riches hinders the surrender to God and prevents the rich from entering into the grace and glory of the kingdom. While there may be a few exceptions, the majority are swelled with pride and presumption, unable to endure the straits that lead to salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.568271311421626,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.49,
+            "commentatorTierSimilarities": [
+                22.45,
+                36.24,
+                41.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Entering the kingdom of heaven is a challenging task, particularly for the rich. The passage highlights the difficulty that arises from the strong desire and possession of abundant wealth. Trusting in riches hinders individuals from following God, as it often leads to pride, presumption, and an aversion to embracing the hardships that come with the Christian journey. While there are exceptions, the general trend suggests that those who put their confidence in material possessions find it arduous to enter into the grace and blessings of the kingdom of heaven.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6214804184997487,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+            "commentatorTierSimilarities": [
+                24.37,
+                36.94,
+                38.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Entering the kingdom of heaven is challenging, especially for the rich. Trusting in riches hinders the pursuit of God, leading to pride, presumption, and difficulties in embracing the Christian journey. While there are exceptions, the strong desire for wealth often creates a barrier to entering the grace and blessings of the kingdom. It is the struggle between the allure of material possessions and surrendering to God's will that makes it hard for the rich to find their place in the kingdom of heaven.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.5567491410721617,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.1,
+            "commentatorTierSimilarities": [
+                20.45,
+                37.29,
+                42.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

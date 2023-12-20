@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:54:41",
+    "verseRef": "Matthew 27:64",
+    "bestBHT": {
+        "bht": "The religious leaders, in their fear of Jesus's claims about rising from the dead, proposed to Pilate that a Roman guard be placed at the sepulchre until the third day, when, if Jesus was still there, it would be obvious to all that his supposed resurrection was a fraud and a deception. They referred to the belief in Jesus as the Messiah as the first error, and stated that the belief in his resurrection would be even worse, in terms of its influence and impact on the people.",
+        "wordCount": 89,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 2.2008770493956966,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+        "commentatorTierSimilarities": [
+            30.78,
+            36.98,
+            32.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Command therefore that the sepulchre be made sure\u2014by a Roman guard.\" ",
+            "until the third day\u2014after which, if He still lay in the grave, the imposture of His claims would be manifest to all.",
+            "and say unto the people, he is risen from the dead\u2014Did they really fear this? So the last error shall be worse than the first\u2014the imposture of His pretended resurrection worse than that of His pretended Messiahship."
+        ],
+        "Albert Barnes": [
+            "This proves that when the Jews spoke of 'three days,' they did not of necessity mean three 'whole days,' but parts of three days.",
+            "The last error shall be worse than the first - That is, the last 'deception,' or the taking him from the tomb, pretending that he rose, will have a wider influence among the people than the first, or his pretending to be the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Error [\u03c0\u03bb\u03b1\u03bd\u03b7]...referring to planov above; but error on the people's part.\" ",
+            "The last error, namely, the false impression that he has risen from the dead...\" ",
+            "will be worse than the first error - the impression made by his impostures that he was the Messiah."
+        ],
+        "Philip Schaff": [
+            "Until the third day, from His death, the third after and including Friday.",
+            "Worse than the first. The claim to be the Messiah, etc., was in their view the first deceit.",
+            "As regards the effects of a belief in the resurrection, they judged rightly."
+        ],
+        "Archibald T. Robertson": [
+            "The last error, the last delusion, imposture, fraud.",
+            "The first fraud was belief in the Messiahship of Jesus.",
+            "The second belief in his resurrection."
+        ],
+        "John Gill": [
+            "That no body might come near it, and remove the body, and that until the third day.\" ",
+            "But till then they judged it necessary and desired it, lest his disciples come by night, and steal him away.\" ",
+            "The error of the people, in believing that Jesus was the Messiah; which would be greatly strengthened and received by greater numbers, should it be given out, and there was any proof of it, that he was risen from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders, in their fear of Jesus's claims about rising from the dead, proposed to Pilate that a Roman guard be placed at the sepulchre until the third day, when, if Jesus was still there, it would be obvious to all that his supposed resurrection was a fraud and a deception. They referred to the belief in Jesus as the Messiah as the first error, and stated that the belief in his resurrection would be even worse, in terms of its influence and impact on the people. They were concerned that this last error would perpetuate the impression that Jesus was the Messiah and garner even more followers. Thus, their request for the Roman guard served as an attempt to counteract this potential delusion among the people.",
+            "wordCount": 129,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.9511233060926831,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                31.04,
+                34.59,
+                34.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Out of fear that the impression of Jesus as the Messiah would be reinforced by the belief in his resurrection, the religious leaders sought to secure the sepulchre with a Roman guard until the third day. They feared that if Jesus remained in the tomb after the specified time, it would expose the deception of his claims. They viewed the belief in Jesus as the Messiah as the first error, and considered the belief in his resurrection as a potentially more dangerous last error that would further deceive and attract followers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1349663571637634,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+            "commentatorTierSimilarities": [
+                32.14,
+                36.54,
+                31.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders, in their fear of Jesus's claims about rising from the dead, proposed to Pilate that a Roman guard be placed at the sepulchre until the third day, when, if Jesus was still there, it would be obvious to all that his supposed resurrection was a fraud and a deception. They referred to the belief in Jesus as the Messiah as the first error, and stated that the belief in his resurrection would be even worse, in terms of its influence and impact on the people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.2008770493956966,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                30.78,
+                36.98,
+                32.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders, fearing the impact of Jesus's supposed resurrection on the belief in his Messiahship, requested a Roman guard to secure the sepulchre until the third day. They believed that if Jesus remained in the grave after that time, it would expose the deception and falsehood of his claims. They considered the belief in Jesus as the Messiah as the first error, and deemed the belief in his resurrection even more dangerous, fearing it would spread and deceive greater numbers of people.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.071251199981193,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.21,
+            "commentatorTierSimilarities": [
+                31.35,
+                35.79,
+                32.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders, fearing the impact of Jesus's supposed resurrection on the belief in his Messiahship, requested a Roman guard to secure the sepulchre until the third day. They believed that if Jesus remained in the grave after that time, it would expose the deception and falsehood of his claims. They viewed the belief in Jesus as the Messiah as the first error, and the belief in his resurrection as the potentially more dangerous last error that would further perpetuate the impression of his messianic status.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.090163811214378,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                31.94,
+                36.77,
+                31.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

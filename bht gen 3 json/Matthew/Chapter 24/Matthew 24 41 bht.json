@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:52:31",
+    "verseRef": "Matthew 24:41",
+    "bestBHT": {
+        "bht": "In the midst of an impending calamity, Jesus paints a picture of two women grinding at the mill. This signifies the common action of women working together to turn the hand-mill, with a handle fixed near the edge of the upper stone. Grinding by hand was a prevalent task in the East, often performed by female slaves. The suddenness of the calamity would catch them off guard, with one woman possibly being taken captive or put to death while the other escapes through the providence of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.993621008093431,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+        "commentatorTierSimilarities": [
+            30.17,
+            32.23,
+            37.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The \u201cwomen grinding at the mill\u201d has been abundantly illustrated by travellers, as even now seen in the East. See especially The Land and the Book, pp. 526, 7."
+        ],
+        "Albert Barnes": [
+            "Two women ... - Grinding in the East was performed, as it is now, chiefly by hand.\" ",
+            "The millstones were about 2 feet in diameter and 12 foot in thickness.",
+            "The calamity would be sudden, and would come upon them before they were aware."
+        ],
+        "Marvin Vincent": [
+            "The mill [\u03c4\u03c9 \u03bc\u03c5\u03bb\u03c9] . The ordinary hand - mill with a handle fixed near the edge of the upper stone, which is turned by two women."
+        ],
+        "Philip Schaff": [
+            "Two women shall be grinding at the mill. The employment of female slaves.\" ",
+            "Women in the East, one or two together, turn the handmills, having the upper millstone in their hands, and turning it round on the nether one, which is fixed."
+        ],
+        "Archibald T. Robertson": [
+            "At the mill (\u03b5\u03bd \u03c4\u03c9 \u03bc\u03c5\u03bb\u03c9).",
+            "The millstone and then hand-mill which was turned by two women (\u03b1\u03bb\u03b7\u03b8\u03bf\u03c5\u03c3\u03b1) as in Exodus 11:5.",
+            "This verb is a late form for \u03b1\u03bb\u03b5\u03c9."
+        ],
+        "John Gill": [
+            "Though the word women is not in the Greek text, yet it is rightly supplied by our translators, as it is in the Persic version; for the word rendered grinding, is in the feminine gender, and was the work of women.\" ",
+            "Frequent mention is made, of women grinding together at the same mill.",
+            "One shall be taken by the Romans, and either put to death, or carried captive; and the other shall escape their hands, through the singular providence of God."
+        ],
+        "John Wesley": [
+            "Two women shall be grinding \u2014 Which was then a common employment of women."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 24:41, Jesus speaks of two women grinding at the mill. This refers to the ordinary hand-mill used in the East, where women would turn the millstone by hand. The millstone was about 2 feet in diameter and 12 foot in thickness. The suddenness of the calamity that Jesus speaks of would catch the women unawares as they go about their daily work. This grinding task was often performed by female slaves working together. One woman may be taken captive or put to death, while the other is spared through God's providence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.8160143197383607,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                25.31,
+                36.33,
+                38.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the context of a calamity spoken of by Jesus, two women are seen grinding at the mill, a common task performed by women in the East. They would turn the hand-mill, with the upper millstone in their hands, grinding on the fixed nether one. This sudden event would catch them by surprise, before they were aware. It's possible that one woman would be taken captive or put to death, while the other would escape through God's providence.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7100401053314978,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                25.45,
+                37.17,
+                37.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the context of an impending calamity, Jesus mentions two women grinding at the mill. The mill they used was a hand-mill, turned by two women. Grinding in the East was primarily performed by hand. The suddenness of the calamity would catch them off guard. It's possible that one woman may be taken captive or put to death, while the other would be spared by God's providence. This depicts the everyday life and potential dangers faced by women in that time and region.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7288528616420809,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                26.25,
+                34.25,
+                39.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In reference to an upcoming calamity, Jesus describes a scene where two women are grinding at the mill. This refers to the common practice of women grinding together using a hand-mill, with one woman turning the upper millstone on the fixed nether one. The suddenness of the calamity is highlighted, catching them unaware. One woman could potentially be taken captive or killed, while the other may be spared by the providence of God. This scenario illustrates the tasks and risks faced by women during that time.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.667433734636184,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                26.44,
+                32.13,
+                41.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of an impending calamity, Jesus paints a picture of two women grinding at the mill. This signifies the common action of women working together to turn the hand-mill, with a handle fixed near the edge of the upper stone. Grinding by hand was a prevalent task in the East, often performed by female slaves. The suddenness of the calamity would catch them off guard, with one woman possibly being taken captive or put to death while the other escapes through the providence of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.993621008093431,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                30.17,
+                32.23,
+                37.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

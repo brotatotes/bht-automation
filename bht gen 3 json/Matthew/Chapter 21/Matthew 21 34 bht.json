@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:51:10",
+    "verseRef": "Matthew 21:34",
+    "bestBHT": {
+        "bht": "The parable of the householder and the vineyard reveals the way the Jewish people treated God's messengers throughout history. The servants, representing the prophets, were mistreated and ignored by the religious leaders. God expected righteousness and holiness from His chosen people but was disappointed by their lack of response. The parable serves as a reminder that God entrusted His people with the responsibility to bear fruits of righteousness and justice, which the Jewish people failed to fulfill.",
+        "wordCount": 78,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.240628780923064,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.84,
+        "commentatorTierSimilarities": [
+            32.48,
+            33.76,
+            33.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "By these 'servants' are meant the prophets and other extraordinary messengers, raised up from time to time.",
+            "And when the time of the fruit drew near, he sent his servants to the husbandmen.",
+            "That they might receive the fruits of it."
+        ],
+        "Philip Schaff": [
+            "God expects fruit after such careful preparation; His people, especially those in official stations, are responsible for the trust committed to them.",
+            "He sent his servants; the prophets of the Old Testament, calling for the fruits of righteousness from the Jewish people."
+        ],
+        "Archibald T. Robertson": [
+            "The conduct of the husbandmen towards the householder's slaves portrays the behaviour of the Jewish people and the religious leaders in particular towards the prophets and now towards Christ.",
+            "The treatment of God's prophets by the Jews pointedly illustrates this parable.",
+            "The servants in this parable represent the prophets whom God had sent to the Jews throughout their history."
+        ],
+        "John Gill": [
+            "God after a long time, after he had waited a great while for fruit from the Jewish nation, from whom much might have been expected, by reason of the advantages they enjoyed...",
+            "Fruits of justice and judgment, of righteousness and holiness, might be justly expected and demanded of such persons, to be brought forth by them, to the honour and glory of God.",
+            "Thus, God after a long time, after he had waited a great while for fruit from the Jewish nation, from whom much might have been expected..."
+        ],
+        "John Wesley": [
+            "He sent his servants \u2014 His extraordinary messengers, the prophets: to the husbandmen - The ordinary preachers or ministers of the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the householder and the vineyard in Matthew 21:34 reflects the behavior of the Jewish people towards God's messengers throughout history. The servants represent the prophets whom God sent to the Jews, but they were treated poorly and disregarded by the religious leaders. God expected fruit from His people, righteousness and holiness, but after waiting for a long time, He was disappointed by their lack of response. The parable serves as a reminder of the responsibility entrusted to God's people to bear fruits of righteousness and justice.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.212467904618433,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+            "commentatorTierSimilarities": [
+                32.51,
+                34.08,
+                33.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the householder and the vineyard in this passage highlights the behavior of the Jewish people towards God's messengers. These messengers, represented by the servants, included the prophets and other extraordinary individuals sent by God. The Jewish people, especially the religious leaders, failed to produce the righteous fruits that God expected from them. God patiently waited for them to respond, but their disregard for His messengers reflected their lack of righteousness and fulfillment of their responsibilities.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.188440439823871,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.11,
+            "commentatorTierSimilarities": [
+                32.26,
+                32.88,
+                34.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the householder and the vineyard reveals the way the Jewish people treated God's messengers throughout history. The servants, representing the prophets, were mistreated and ignored by the religious leaders. God expected righteousness and holiness from His chosen people but was disappointed by their lack of response. The parable serves as a reminder that God entrusted His people with the responsibility to bear fruits of righteousness and justice, which the Jewish people failed to fulfill.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.240628780923064,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.84,
+            "commentatorTierSimilarities": [
+                32.48,
+                33.76,
+                33.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Throughout history, God sent His servants, including prophets and extraordinary messengers, to the Jewish people. However, these messengers were often mistreated and disregarded by the religious leaders. The parable of the householder and the vineyard vividly depicts the behavior of the Jewish people towards God's messengers. God expected righteousness and holiness as the fruits of their faithfulness. Sadly, after patiently waiting for a long time, God was disappointed by the lack of response from His chosen people. This parable emphasizes the responsibility entrusted to God's people to bear fruits of righteousness and justice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.056968635639369,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                31.89,
+                33.33,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the householder and the vineyard illustrates the way the Jewish people treated God's messengers, such as the prophets, throughout history. God expected righteousness and holiness from His people, but they failed to fulfill their responsibility. The parable emphasizes the importance of producing fruits of righteousness and justice. Sadly, after patiently waiting for a long time, God was disappointed by the lack of response from His chosen people.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.9552678242240242,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                30.83,
+                35.02,
+                34.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

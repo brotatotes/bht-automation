@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:44:53",
+    "verseRef": "Matthew 7:3",
+    "bestBHT": {
+        "bht": "Why do we fixate on the small faults of others while neglecting to address the much greater sins within ourselves? Jesus uses the imagery of a splinter and a beam in our eye to highlight this hypocrisy. We often rush to judge and condemn the minor offenses of our brothers and sisters, but fail to acknowledge or confront our own serious transgressions. We must humbly examine our own faults before seeking to correct others. Let us show grace and understanding, recognizing our own shortcomings and extending compassion to those around us.",
+        "wordCount": 91,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.8939370509488849,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+        "commentatorTierSimilarities": [
+            23.37,
+            36.84,
+            39.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beholdest, from with-out, a voluntary act: considerest not, apprehendest not, from within, that which is already there...\" ",
+            "The same distinction is observed in Luke.",
+            "Luther renders it 'how darest thou say?'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And why beholdest thou the mote, denoting any small fault.",
+            "But considerest not the beam that is in thine own eye, denoting the much greater fault which we overlook in ourselves."
+        ],
+        "Albert Barnes": [
+            "We are much more quick and acute to judge of small offenses in others, than of much larger offenses in ourselves.",
+            "Even a very 'small' object in the eye of another we discern much more quickly than a much larger one in our own.",
+            "A small fault in our neighbor we see much more readily than a large one in ourselves."
+        ],
+        "Marvin Vincent": [
+            "The man with a great beam in his eye, who therefore can see nothing accurately, proposes to remove the little splinter from his brother's eye, a delicate operation, requiring clear sight.",
+            "The figure of a splinter to represent something painful or annoying is a common oriental one.",
+            "How seest thou the splinter in thy brother's eye, and seest not the cross-beam in thine eye?"
+        ],
+        "John Calvin": [
+            "He expressly touches upon a fault, which is usually found in hypocrites.",
+            "While they are too quick-sighted in discerning the faults of others, and employ not only severe, but intentionally exaggerated, language in describing them, they throw their own sins behind their back, or are so ingenious in finding apologies for them.",
+            "Christ therefore reproves both evils: the excessive sagacity, which arises from a defect of charity, when we sift too closely the faults of brethren, and the indulgence by which we defend and cherish our own sins."
+        ],
+        "Archibald T. Robertson": [
+            "The mote (\u03c4\u03bf \u03ba\u03b1\u03c1\u03c6\u03bf\u03c2). Not dust, but a piece of dried wood or chaff, splinter (Weymouth, Moffatt), speck (Goodspeed), a very small particle that may irritate.",
+            "The beam (\u03c4\u03b7\u03bd \u03b4\u03bf\u03ba\u03bf\u03bd). A log on which planks in the house rest (so papyri), joist, rafter, plank (Moffatt), pole sticking out grotesquely.",
+            "Probably a current proverb quoted by Jesus like our people in glass houses throwing stones."
+        ],
+        "John Gill": [
+            "To scrutinize diligently into, aggravate, dwell upon, and sharply reprove the lighter faults of others, is a conduct, which is here inveighed against, and condemned by Christ.\" ",
+            "But considerest not the beam that is in thine own eye: by the 'beam' is meant, greater sins, grosser abominations...\" ",
+            "Such men must be of all persons inexcusable, who condemn that in others, which either they themselves do, or what is abundantly worse."
+        ],
+        "John Wesley": [
+            "Why do you open your eyes to any fault of your brother, while you yourself are guilty of a much greater?\" ",
+            "The mote - The word properly signifies a splinter or shiver of wood.",
+            "This and a beam, its opposite, were proverbially used by the Jews, to denote, the one, small infirmities, the other, gross, palpable faults."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why do you focus on the small faults of others while ignoring the much greater faults within yourself? Jesus uses the imagery of a splinter and a beam to illustrate this point. We are often quick to judge and criticize the minor offenses of our brothers and sisters, yet fail to acknowledge or address the significant sins in our own lives. This tendency to scrutinize the faults of others while remaining blind to our own is a characteristic of hypocrites. Jesus challenges us to be introspective and humble, recognizing our own shortcomings before attempting to correct others. Let us be mindful of our own faults and extend grace and understanding to those around us.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.8558065789396836,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                23.83,
+                35.19,
+                40.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why do you focus on the small faults of others while ignoring the much greater faults within yourself? Jesus uses the imagery of a splinter and a beam to illustrate this point. We are often quick to judge and criticize the minor offenses of our brethren, yet fail to acknowledge or address the significant sins in our own lives. This tendency to scrutinize the faults of others while remaining blind to our own is a characteristic of hypocrites. Let us be mindful of our own faults and extend grace and understanding to those around us.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8679770538080165,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
+            "commentatorTierSimilarities": [
+                23.79,
+                34.96,
+                41.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why do you focus on the small faults of others while ignoring the much greater faults within yourself? Jesus uses the imagery of a splinter and a beam to illustrate this point. We are often quick to judge and criticize the minor offenses of our brothers and sisters but fail to acknowledge or address the significant sins in our own lives. This tendency to scrutinize the faults of others while remaining blind to our own is a characteristic of hypocrites. Let us be mindful of our own faults and extend grace and understanding to those around us.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8576998177832356,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                23.84,
+                34.8,
+                41.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why do we fixate on the small faults of others while neglecting to address the much greater sins within ourselves? Jesus uses the imagery of a splinter and a beam in our eye to highlight this hypocrisy. We often rush to judge and condemn the minor offenses of our brothers and sisters, but fail to acknowledge or confront our own serious transgressions. We must humbly examine our own faults before seeking to correct others. Let us show grace and understanding, recognizing our own shortcomings and extending compassion to those around us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.8939370509488849,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                23.37,
+                36.84,
+                39.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why are we quick to criticize the small faults of others while overlooking the greater faults within ourselves? Jesus uses the analogy of a splinter and a beam in our eyes to highlight this tendency. We often judge and condemn the minor wrongdoings of our brothers and sisters, while turning a blind eye to our own significant sins. This hypocrisy is a characteristic of hypocrites who lack genuine self-reflection. Let us humbly acknowledge our own faults before passing judgment on others, demonstrating grace, understanding, and compassion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8240153028564,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                23.62,
+                34.19,
+                42.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

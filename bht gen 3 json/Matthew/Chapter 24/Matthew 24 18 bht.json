@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:52:08",
+    "verseRef": "Matthew 24:18",
+    "bestBHT": {
+        "bht": "When Jesus advises his followers to not return for their garments in the field, it signifies the urgency of the situation. In ancient times, workers would leave their clothes behind while laboring, and Jesus's warning indicates the need for immediate action. The disciples must not even take the time to retrieve their outer garments, which were typically set aside during work. This aligns with historical accounts of people swiftly fleeing, without any opportunity to gather belongings. The imminent disaster makes it clear that there is no time to waste.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.1705318701349552,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.26,
+        "commentatorTierSimilarities": [
+            34.02,
+            44.11,
+            21.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Return back to take his clothes - His clothes which, in 'working,' He had laid aside, or which, in fleeing, he should throw off as an encumbrance.",
+            "Clothes\" here means the \"outer\" garment, commonly laid aside when men worked or ran.",
+            "These directions were followed. It is said that the Christians, warned by these predictions, fled from Jerusalem to Pella, and other places beyond the Jordan; so that there is not evidence that a single 'Christian' perished in Jerusalem - Eusebius, Hist. Eccl., lib. 3 chapter 6."
+        ],
+        "Archibald T. Robertson": [
+            "In the field (\u03b5\u03bd \u03c4\u03c9 \u03b1\u03b3\u03c1\u03c9). The peasant worked in his time and left his mantle at home then as now. "
+        ],
+        "John Gill": [
+            "Hence those words of Virgil: 'Nudus ara, sere nudus, hyems ignava colono.'",
+            "It is reported by the historian of Lucius Quinctius Cincinnatus, that the messengers who were sent to him, from Minutius the consul, whom he had delivered from a siege, found him ploughing naked beyond the Tiber.",
+            "He might not go back for them, so sudden and swift should be the desolation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus warns his disciples in Matthew 24:18 to not go back to their field for their clothes, it is a call to immediate action. The first-tier commentary notes that in those times, the peasants would work in the field and leave their garments at home. The second-tier commentary also emphasizes the urgency of the situation, explaining that the disciples should not even take the time to retrieve their outer garments, which were commonly laid aside while working or running. It is clear that a quick escape is necessary, as the third-tier commentary highlights historical examples of people fleeing without hesitation. The imminent desolation and destruction make it impossible to go back for any belongings, reinforcing the urgency of Jesus' warning.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.2774176334708085,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.82,
+            "commentatorTierSimilarities": [
+                37.85,
+                39.55,
+                22.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus advises his followers to not return for their garments in the field, it signifies the urgency of the situation. In ancient times, workers would leave their clothes behind while laboring, and Jesus's warning indicates the need for immediate action. The disciples must not even take the time to retrieve their outer garments, which were typically set aside during work. This aligns with historical accounts of people swiftly fleeing, without any opportunity to gather belongings. The imminent disaster makes it clear that there is no time to waste.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.1705318701349552,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.26,
+            "commentatorTierSimilarities": [
+                34.02,
+                44.11,
+                21.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 24:18, Jesus advises his followers not to go back to the field for their clothes. This urgency is emphasized by the fact that peasants would leave their garments at home while working, as stated in the first-tier commentary. The second-tier commentary further explains that the disciples should not even retrieve their outer garments, as they are commonly set aside during work or while fleeing. The third-tier commentary provides historical examples of quick escapes, emphasizing the swift and sudden nature of the impending desolation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4225076305554945,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.64,
+            "commentatorTierSimilarities": [
+                37.35,
+                38.39,
+                24.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus warns his disciples not to return to the field for their clothes, it signifies the urgency of the situation. The first-tier commentary explains that peasants would leave their garments at home while working, and the second-tier commentary adds that the disciples should not even retrieve their outer garments, as they are commonly laid aside during work or fleeing. The third-tier commentary reinforces the need for a swift escape, with historical examples of people fleeing without hesitation in times of impending desolation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.4489274862014776,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                32.51,
+                43.36,
+                24.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's warning to the disciples in Matthew 24:18 carries a sense of urgency. They are instructed not to go back to their field for their clothes. The first-tier commentary explains that peasants in those times would leave their garments at home while they worked. Furthermore, the second-tier commentary highlights that the disciples shouldn't even retrieve their outer garments, typically laid aside during work. Historical evidence mentioned in the third-tier commentary shows that immediate action was crucial, with people rapidly fleeing without a chance to gather their belongings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.2381228165061404,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+            "commentatorTierSimilarities": [
+                38.01,
+                41.51,
+                20.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

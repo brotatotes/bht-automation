@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:50:48",
+    "verseRef": "Matthew 21:7",
+    "bestBHT": {
+        "bht": "Jesus intentionally rode into the city on a donkey's colt, not to promote worldly ideas of His Messiahship, but to fulfill Scripture and prepare for His upcoming suffering. The timing of His entry, likely on the day the Paschal Lamb was dedicated for sacrifice, holds symbolic significance. As Jesus progressed, people offered their outer garments and branches, creating a path for Him. Jesus sat on the garments, emphasizing His regal position. The clothes placed on the animals served as makeshift saddles. This act demonstrated respect, akin to when clothes were put on animals in the past.",
+        "wordCount": 97,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.7460480533630807,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.4,
+        "commentatorTierSimilarities": [
+            29.65,
+            35.66,
+            34.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That this riding and entry were intentional on the part of our Lord, is clear: and also that He did not thereby mean to give any countenance to the temporal ideas of His Messiahship, but solemnly to fulfil the Scriptures respecting Him, and to prepare the way for His sufferings, by a public avowal of His mission.",
+            "The typical meaning also is not to be overlooked.",
+            "In all probability the evening visit to the temple was on the very day when the Paschal Lamb was to be taken up\u2014i. e. set apart for the sacrifice."
+        ],
+        "Albert Barnes": [
+            "And put on them their clothes - This was done as a token of respect, 2 Kings 9:13."
+        ],
+        "Marvin Vincent": [
+            "The most part of the multitude.\" ",
+            "At that time, when some of the inhabitants were already imprisoned, and all were in deep distress, Mr. Farrar, then English consul at Damascus, was on a visit to Jerusalem, and had rode out with Mr. Nicolayson to Solomon 's Pools. On their return, as they rose the ascent to enter Bethlehem, hundreds of people, male and female, met them, imploring the consul to interfere in their behalf, and afford them his protection; and all at once, by a sort of simultaneous movement, they spread their garments in the way before the horses.",
+            "As Jesus advanced, they kept cutting branches and spreading them, and the multitude kept crying."
+        ],
+        "Philip Schaff": [
+            "Put on them their garments. Upper garments, to serve as a saddle.",
+            "And he sat thereon, lit., \u2018on them,\u2019 the animals, not the clothes.",
+            "It suggests moreover that this unbroken colt remained quiet because the mother was with it, thus affording an incidental evidence of truthfulness."
+        ],
+        "Archibald T. Robertson": [
+            "Matthew does not contradict that, referring to the garments (\u03c4\u03b1 \u03b9\u03bc\u03b1\u03c4\u03b9\u03b1) put on the colt by 'them' (\u03b1\u03c5\u03c4\u03c9\u03bd), not to the two asses.",
+            "The garments thrown on the animals were the outer garments (\u03b9\u03bc\u03b1\u03c4\u03b9\u03b1).",
+            "Jesus 'took his seat' (\u03b5\u03c0\u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd, ingressive aorist active) upon the garments."
+        ],
+        "John Gill": [
+            "their loose upper garments, to be instead of saddles and trappings, and that Christ might sit thereon with ease and decency",
+            "it is clear from hence, that their clothes were put upon both; not knowing which Christ would choose to ride on",
+            "meaning either on the ass and colt, that is, on one of them, or both successively, or on the clothes they put upon them"
+        ],
+        "John Wesley": [
+            "They set him thereon \u2014 That is, on the clothes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus intentionally rode into the city on a donkey's colt, not to promote worldly ideas of His Messiahship, but to fulfill Scripture and prepare for His upcoming suffering. The timing of His entry, likely on the day the Paschal Lamb was dedicated for sacrifice, holds symbolic significance. As Jesus progressed, people offered their outer garments and branches, creating a path for Him. Jesus sat on the garments, emphasizing His regal position. The clothes placed on the animals served as makeshift saddles. This act demonstrated respect, akin to when clothes were put on animals in the past. The presence of the colt's mother quieted it, supporting the authenticity of the event.",
+            "wordCount": 112,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.6573826277463413,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                30.16,
+                36.43,
+                33.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus intentionally rode into the city on a donkey's colt, not to promote worldly ideas of His Messiahship, but to fulfill Scripture and prepare for His upcoming suffering. The timing of His entry, likely on the day the Paschal Lamb was dedicated for sacrifice, holds symbolic significance. As Jesus progressed, people offered their outer garments and branches, creating a path for Him. Jesus sat on the garments, emphasizing His regal position. The clothes placed on the animals served as makeshift saddles. This act demonstrated respect, akin to when clothes were put on animals in the past.",
+            "wordCount": 97,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7460480533630807,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.4,
+            "commentatorTierSimilarities": [
+                29.65,
+                35.66,
+                34.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus intentionally rode into the city on a donkey's colt to fulfill Scripture and affirm His mission, rather than to endorse earthly notions of His Messiahship. The timing of His entry, possibly coinciding with the day of Paschal Lamb selection, carries symbolic meaning. People in the crowd spread their outer garments along the path and cut branches, displaying honor and reverence for Jesus. He took His seat on the garments, signifying His royal stature. The garments served as makeshift saddles, showcasing respect similar to previous occasions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.37,
+            "qualityScore": 1.6713232877827686,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                32.88,
+                36.28,
+                30.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus intentionally rode into the city on a donkey's colt to fulfill Scripture and solemnly demonstrate His mission. The timing of His entry, possibly aligning with the day of the Paschal Lamb's selection, held symbolic significance. As He advanced, the crowd spread their garments in the way and cut branches, expressing reverence and honor. Jesus then took His seat on the garments, signifying His royal position. These garments served as makeshift saddles, denoting respect similar to occasions in the past.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.724188500094809,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                31.92,
+                36.93,
+                31.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus intentionally rode into the city on a donkey's colt, fulfilling Scripture and making a public declaration of His mission rather than endorsing worldly ideas about His Messiahship. The timing of His entry coinciding with the selection of the Paschal Lamb carried symbolic significance. The crowds spread their garments along the way and cut branches, creating a path of honor and reverence. Jesus took His seat on the garments, symbolizing His authority. These garments served as makeshift saddles, displaying respect similar to previous occasions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6342139932576032,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                33.6,
+                34.94,
+                31.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

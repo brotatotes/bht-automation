@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:44:29",
+    "verseRef": "Matthew 6:22",
+    "bestBHT": {
+        "bht": "A single and clear purpose is like a well-defined and untroubled vision. It brings light and guidance to the whole body, making the character consistent and bright. On the other hand, a double-mindedness or an evil eye leads to darkness and confusion. The mind's eye, when focused on serving and pleasing God, brings simplicity and a persistent purpose. This clarity of vision leads to prosperity and success, as all actions are influenced by a noble principle.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.979092176110821,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+        "commentatorTierSimilarities": [
+            33.17,
+            35.95,
+            30.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The light as lighting and guiding the body and its members: not as containing light in itself.",
+            "Single, i.e. clear, untroubled in vision, as the eye which presents a well-defined and single image to the brain.",
+            "Full of light, rather, in full light, as an object in the bright sunshine; full of darkness, rather, as an object in the deep shade."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The light of the body is the eye: if therefore thine eye be single\u2014simple, clear.",
+            "Here, as also in classical Greek, it is used figuratively to denote the simplicity of the mind's eye, singleness of purpose.",
+            "A simple and persistent purpose to serve and please God in everything will make the whole character consistent and bright."
+        ],
+        "Marvin Vincent": [
+            "Simplicity or singleness [...] Here sound, as opposed to evil or diseased.\" ",
+            "Pure. [...] Possibly with reference to the double-mindedness and indecision condemned.\" ",
+            "Full of light. Bengel says, 'As if it were all eye.'"
+        ],
+        "John Calvin": [
+            "whence comes it, that they so shamefully wander, or dash themselves, or stumble, but because... they not only extinguish the light of reason, which ought to have regulated their life, but change it altogether into darkness.",
+            "The affections may be regarded individually as its members: but as they are blind in themselves, they need direction.",
+            "A simple eye means an eye that has no speck, or diseased humor, or any other defect... An evil eye means a diseased eye... A luminous body means one that is enlightened, so as to have all its actions properly regulated... A dark body is one which is led into numerous mistakes by a confused movement."
+        ],
+        "Philip Schaff": [
+            "The lamp of the body is the eye. The eye gives light which it receives from without, and is not light itself, so the conscience lights the spirit by light from above.\" ",
+            "Single, i.e., presenting a single, clear image. The application is to single apprehension of God as the supreme object of trust and love.\" ",
+            "Full of light, or, 'in light,' 'in full light,' the body having received what the eye was designed to convey."
+        ],
+        "Archibald T. Robertson": [
+            "The 'evil' eye (\u03c0\u03bf\u03bd\u03b7\u03c1\u03bf\u03c2) may be diseased and is used of stinginess in the LXX and so \u03b1\u03c0\u03bb\u03bf\u03c5\u03c2 may refer to liberality as Hatch argues.\" ",
+            "If our eyes are healthy we see clearly and with a single focus (without astigmatism). If the eyes are diseased (bad, evil), they may even be cross-eyed or cock-eyed. We see double and confuse our vision.",
+            "Seeing double is double-mindedness as is shown in verse Matthew 6:24."
+        ],
+        "John Gill": [
+            "The light of the body is the eye....if therefore thine eye be single: that is, if thy mind be liberal, generous, and bountiful.",
+            "If a man is not covetous, but his mind is disposed to generosity and liberality; if this be the case...thy whole body shall be full of light: all thy actions will be influenced by this noble principle.",
+            "Thy mind will be cheerful and pleasant, and thy estate and condition will be prosperous and successful."
+        ],
+        "John Wesley": [
+            "The eye is the lamp of the body \u2014 And what the eye is to the body, the intention is to the soul.",
+            "If thine eye be single \u2014 Singly fixed on God and heaven, thy whole soul will be full of holiness and happiness.",
+            "If thine eye be evil \u2014 Not single, aiming at anything else."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A single, clear vision is crucial for the well-being of the whole body. The eye serves as a guide, lighting the way and allowing for a focused and untroubled perspective. This simplicity and singleness of purpose in the mind's eye creates a character that is consistent and bright. On the contrary, a double-mindedness or an evil eye leads to darkness and confusion. If we maintain a healthy and clear outlook, our actions will be influenced by a noble principle, leading to prosperity and success in all aspects of our lives.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.935039336724627,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                32.12,
+                35.78,
+                32.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A single, clear vision is crucial for the well-being of the whole body. The eye serves as a guide, lighting the way and allowing for a focused and untroubled perspective. This simplicity and singleness of purpose creates a character that is consistent and bright. On the contrary, a double-mindedness or an evil eye leads to darkness and confusion. If we maintain a healthy and clear outlook, our actions will be influenced by a noble principle, leading to prosperity in all aspects of our lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8412511389654291,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                32.17,
+                35.9,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A single and clear purpose is like a well-defined and untroubled vision. It brings light and guidance to the whole body, making the character consistent and bright. On the other hand, a double-mindedness or an evil eye leads to darkness and confusion. The mind's eye, when focused on serving and pleasing God, brings simplicity and a persistent purpose. This clarity of vision leads to prosperity and success, as all actions are influenced by a noble principle.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.979092176110821,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                33.17,
+                35.95,
+                30.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A single and clear purpose is crucial for the well-being of the whole body, just as the eye serves as a guide, lighting the way and allowing for a focused and untroubled perspective. This simplicity and singleness of purpose in the mind's eye creates a consistent and bright character, while a double-mindedness or an evil eye leads to darkness and confusion. By maintaining a healthy and clear outlook, our actions will be influenced by a noble principle, resulting in prosperity and success in all areas of life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9716443920393574,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                30.32,
+                35.71,
+                33.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A single and clear purpose is crucial for the well-being of the whole body, just as the eye serves as a guide and light for the body. This simplicity and singleness of purpose create a consistent and bright character. On the other hand, a double-mindedness or an evil eye brings darkness and confusion. By maintaining a healthy and clear outlook, our actions will be influenced by a noble principle, leading to prosperity and success in every aspect of life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8918447280752289,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                31.04,
+                35.76,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

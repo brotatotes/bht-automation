@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:54:55",
+    "verseRef": "Matthew 28:2",
+    "bestBHT": {
+        "bht": "The earthquake and rolling away of the stone were signs to show the women and disciples that the tomb was empty and to confirm the reality of Christ's resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.02,
+        "qualityScore": 2.3266943580035386,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+        "commentatorTierSimilarities": [
+            38.19,
+            33.23,
+            28.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words here must mean that the women were witnesses of the earthquake, and that which happened.",
+            "The rolling away was not done naturally, but by a shock.",
+            "It was not for Him, to whom (see John xx. 19\u201326) the stone was no hindrance, but for the women and His disciples, that it was rolled away."
+        ],
+        "Albert Barnes": [
+            "It does not mean that this was while they were there, or while they were going, but that there \u2018had been\u2019 so violent a commotion as to remove the stone.",
+            "The word rendered here as \u2018earthquake\u2019 does not of necessity mean that the convulsion extended to the earth, but only that there had been such a concussion as to remove the stone.",
+            "It is not said that he was sitting when he appeared to the women. From Luke it would rather appear that he was standing."
+        ],
+        "John Calvin": [
+            "For since it was not a matter of little consequence to know that the Son of God had obtained a victory over death, (on which the principal point of our salvation is founded,) it was necessary to remove all doubts, that the divine majesty might be openly and manifestly presented to the eyes of the women.",
+            "Still we ought to know that the visible signs of his presence are exhibited to us, that our minds may conceive of him as invisible; and that, under bodily forms, we obtain a taste of his spiritual essence, that we may seek him spiritually.",
+            "There were two angels, therefore, who appeared first to Mary, and afterwards to her other companions; but as the attention of the women was chiefly directed to the angel who spoke, Matthew and Mark have satisfied themselves with relating his message."
+        ],
+        "Philip Schaff": [
+            "The earthquake is connected with the sudden rolling away of the great stone by the angel.\" (Matthew 28:2)",
+            "The resurrection itself was not a matter of actual bodily vision, and seems to have taken place before the stone was rolled away.\" (Matthew 28:2)",
+            "The stone could not have been a hindrance to Him.\" (Matthew 28:2)"
+        ],
+        "Archibald T. Robertson": [
+            "The earth, which trembled with sorrow at the Death of Christ as it were leaped for joy at His Resurrection.\" ",
+            "The Angel of the Lord announced the Incarnation of the Son of God and also His Resurrection from the grave.\" ",
+            "The stone was rolled away not to let the Lord out, but to let the women in to prove the fact of the empty tomb."
+        ],
+        "John Gill": [
+            "It was an emblem of the shaking of the earth by the preaching of the Gospel, the sound of which was now to go after Christ's resurrection to the ends of the world.",
+            "And came and rolled back the stone from the door;...This might be done, that way might be made for the risen body of Christ to pass out of the sepulchre.",
+            "He sat there defying the guard of soldiers to come nigh; and waiting for the coming of the women, to tell them the good news, that their Lord was risen."
+        ],
+        "John Wesley": [
+            "An angel of the Lord had rolled away the stone and sat upon it.",
+            "St. Luke and St. John speak of two angels that appeared: but it seems as if only one of them had appeared sitting on the stone without the sepulchre.",
+            "Then going into it, was seen with another angel, sitting, one where the head, the other where the feet of the body had lain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The earthquake and rolling away of the stone were not natural occurrences, but rather signs to show the women and disciples that the tomb was empty. The earth trembled with sorrow at the death of Christ and leaped for joy at His resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The angel's presence was to confirm the reality of Christ's resurrection and to remove all doubts. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.211074517011166,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+            "commentatorTierSimilarities": [
+                39.6,
+                31.91,
+                28.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The earthquake and rolling away of the stone were not natural occurrences, but rather signs to show the women and disciples that the tomb was empty and to confirm the reality of Christ's resurrection. The earth trembled with sorrow at the death of Christ and leaped for joy at His resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.273902066543527,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                40.61,
+                31.97,
+                27.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The earthquake and rolling away of the stone were signs to show the women and disciples that the tomb was empty and to confirm the reality of Christ's resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.3266943580035386,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+            "commentatorTierSimilarities": [
+                38.19,
+                33.23,
+                28.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The earthquake and rolling away of the stone were signs to show the women and disciples that the tomb was empty and to confirm the reality of Christ's resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.3266943580035386,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+            "commentatorTierSimilarities": [
+                38.19,
+                33.23,
+                28.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The earthquake and rolling away of the stone were not natural occurrences, but rather signs to show the women and disciples that the tomb was empty and to confirm the reality of Christ's resurrection. The earth trembled with sorrow at the death of Christ and leaped for joy at His resurrection. The stone was rolled away not to let the Lord out, but to let the women in and prove the fact of the empty tomb. The earthquake symbolized the shaking of the earth by the preaching of the Gospel, which was to go to the ends of the world.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.273902066543527,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                40.61,
+                31.97,
+                27.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

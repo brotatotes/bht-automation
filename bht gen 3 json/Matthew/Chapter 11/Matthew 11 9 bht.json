@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:46:22",
+    "verseRef": "Matthew 11:9",
+    "bestBHT": {
+        "bht": "John the Baptist was not just a prophet, but more than that, for he fulfilled the qualities of a true prophet with his unwavering moral conviction, integrity, and zeal for truth and righteousness. He not only prophesied about the Messiah, but he also had the privilege of seeing and pointing out Jesus as the object of his prophecy. Being the forerunner and the one who baptized Jesus, John's role surpassed all other prophets, making him uniquely positioned to prepare the way for the coming of Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.4787639054762898,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.76,
+        "commentatorTierSimilarities": [
+            35.25,
+            34.3,
+            30.45
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was moreover more than a prophet, because he himself was the subject as well as the vehicle of prophecy.",
+            "He did not write of, but saw and pointed out, the object of his prophecy.",
+            "John was more than a prophet... because of his proximity to the kingdom of God."
+        ],
+        "Albert Barnes": [
+            "A prophet? - He next asks whether they went to see a prophet. They had regarded him as such, and Jesus tells them that in this their apprehensions of him were correct.",
+            "More than a prophet - Sustaining a character more elevated and sacred than the most distinguished of the ancient prophets.",
+            "He was, therefore, first among the prophets."
+        ],
+        "Philip Schaff": [
+            "To see a prophet. To this the crowd would answer \u2018yes\u2019 (comp. ch. Matthew 21:26). But our Lord adds, Yea, most certainly, I say unto you, I who can speak with authority on the subject, and much more than a prophet.",
+            "John saw and pointed out Him whom the prophets only predicted, and he was himself the subject of prophecy."
+        ],
+        "Archibald T. Robertson": [
+            "John had all the great qualities of the true prophet: 'Vigorous moral conviction, integrity, strength of will, fearless zeal for truth and righteousness'.\" ",
+            "And then he was the Forerunner of the Messiah."
+        ],
+        "John Gill": [
+            "What was it you went out to see? A prophet?... Yea, I say unto you, and more than a prophet.",
+            "He saw the Spirit of God descending on him, and he himself baptized him; his office, as the harbinger of Christ, and the administrator of the ordinance of baptism to him, gave him a preference to all the prophets.",
+            "His office... was such an one, as never any man was vested with but himself."
+        ],
+        "John Wesley": [
+            "More than a prophet \u2014 For the prophets only pointed me out afar off; but John was my immediate forerunner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist was more than a prophet because he not only prophesied about the coming Messiah, but he also had the privilege of seeing and pointing out the object of his prophecy, Jesus. With vigorous moral conviction, integrity, and fearless zeal for truth and righteousness, John fulfilled all the qualities of a true prophet. Furthermore, John was not just a prophet, but he was also the forerunner of the Messiah, the one who prepared the way for Christ. He had a unique and elevated role, greater than any previous prophet. His office, as the one who baptized Jesus and proclaimed his coming, set him apart from all others. In this, John surpassed the prophets who only predicted the Messiah, whereas John was the immediate forerunner of Jesus.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.4917060771917314,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.19,
+            "commentatorTierSimilarities": [
+                33.45,
+                34.23,
+                32.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist surpassed the title of prophet as he not only prophesied but also saw and pointed out the object of his prophecy, Jesus. His qualities of moral conviction, integrity, and zeal for righteousness made him a true prophet. However, John's role went beyond that of a prophet; he was the forerunner of the Messiah, uniquely privileged to baptize Jesus and prepare the way for him. In this way, John's office surpassed all others, setting him apart as the immediate forerunner of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.243881884308589,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+            "commentatorTierSimilarities": [
+                35.04,
+                33.03,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist was more than a prophet because he not only prophesied of the Messiah, but he saw and pointed out Jesus as the fulfillment of those prophecies. With qualities of moral conviction, integrity, and zeal for righteousness, John embodied the true essence of a prophet. Moreover, he held the unique role of being the forerunner of the Messiah, preparing the way for Jesus through his proclamation and baptism. In this way, John surpassed all previous prophets, having a direct proximity to the kingdom of God and being the immediate forerunner of Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.290479685319821,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+            "commentatorTierSimilarities": [
+                35.3,
+                33.44,
+                31.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist was not just a prophet, but more than that, for he fulfilled the qualities of a true prophet with his unwavering moral conviction, integrity, and zeal for truth and righteousness. He not only prophesied about the Messiah, but he also had the privilege of seeing and pointing out Jesus as the object of his prophecy. Being the forerunner and the one who baptized Jesus, John's role surpassed all other prophets, making him uniquely positioned to prepare the way for the coming of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.4787639054762898,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.76,
+            "commentatorTierSimilarities": [
+                35.25,
+                34.3,
+                30.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist went beyond being a prophet, as he not only prophesied but also personally encountered and indicated Jesus as the fulfillment of those prophecies. Possessing qualities that defined a genuine prophet, including moral conviction, integrity, and unwavering commitment to truth and righteousness, John was elevated in his role. Most significantly, he served as the forerunner of the Messiah, playing an integral part in paving the way for Jesus. In this capacity, John surpassed all preceding prophets and held a unique proximity to the kingdom of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.246272070423935,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.03,
+            "commentatorTierSimilarities": [
+                35.17,
+                34.3,
+                30.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

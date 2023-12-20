@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:36",
+    "verseRef": "Matthew 13:13",
+    "bestBHT": {
+        "bht": "The paradoxical nature of those who could see and hear, but remained blind and deaf to truth, is highlighted here. The people saw Jesus's miracles and heard his teachings, yet failed to truly perceive or understand. This was not ignorance, but a deliberate refusal to apprehend profound truths. They became morally incapable of comprehending anything. Jesus spoke in parables because their willful ignorance prevented them from receiving clearer teaching. They saw and heard, but did not truly see or hear with understanding.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.614485971166684,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+        "commentatorTierSimilarities": [
+            27.81,
+            28.98,
+            43.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "because they seeing see not, &c. = (in Mark, Luke; similarly below) 'that seeing they may... not....'&c.",
+            "Taking the saying of ver. 12 for our guide, we have 'whosoever hath not,'\u2014 'because seeing they see not,'\u2014and 'from him shall be taken away even that he hath,'\u2014 'that seeing they may not see.'",
+            "The difficulties raised on these variations, and on the prophecy quoted in vv. 14, 15, have arisen entirely not keeping this in view."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They 'saw,' for the light shone on them as never light shone before; but they 'saw not,' for they closed their eyes.",
+            "They 'heard,' for He taught them who 'spake as never man spake'; but they 'heard not,' for they took nothing in, apprehending not the soul-penetrating, life-giving words addressed to them.",
+            "By a fixed law of the divine administration, the duty men voluntarily refuse to do, and in point of fact do not do, they at length become morally incapable of doing."
+        ],
+        "John Calvin": [
+            "He says that he speaks to the multitude in an obscure manner, because they are not partakers of the true light.",
+            "He does not ascribe the blame of this to themselves, but takes occasion to commend more highly the grace bestowed on the Apostles.",
+            "It is not the only design of a parable to state, in an obscure manner, what God is not pleased to reveal clearly."
+        ],
+        "Philip Schaff": [
+            "Because seeing they see not, etc. Here the reason is based on the character of the persons concerned; Mark and Luke emphasize the purpose, namely, that this state of ignorance should go on unchecked to work out its own results.\" ",
+            "The two thoughts can be distinguished, but not divided.",
+            "The paradoxical form points to merely external perception without consequent mental or moral results."
+        ],
+        "Archibald T. Robertson": [
+            "Thus Matthew presents 'a striking paradox, 'though they see, they do not (really) see'\" (McNeile).",
+            "The idiom here in Matthew gives no trouble save in comparison with Mark and Luke which will be discussed in due turn.",
+            "The form \u03c3\u03c5\u03bd\u03b9\u03bf\u03c5\u03c3\u03b9\u03bd is an omega verb form (\u03c3\u03c5\u03bd\u03b9\u03c9) rather than the \u03bc verb (\u03c3\u03c5\u03bd\u03b9\u03b7\u03bc) as is common in the Koine."
+        ],
+        "John Gill": [
+            "They saw Christ with their bodily eyes, but not with an eye of faith; they saw the miracles he did, but did not discern, at least did not acknowledge the evidence of them, proving him to be the true Messiah.",
+            "They heard externally, but not internally; they heard the sound of Christ's voice, but did not understand his words, even when he spake in the plainest and most intelligible manner; nor were they concerned to know the meaning of them.",
+            "He spoke to them in this abstruse and parabolical way, that they might be what they really were, seers and not seers, hearers and not hearers, at least not understanding ones."
+        ],
+        "John Wesley": [
+            "Therefore I speak to them in parables, because seeing, they see not.\"- In pursuance of this general rule, I do not give more knowledge to this people, because they use not that which they have already...",
+            "...having all the means of seeing, hearing, and understanding, they use none of them: they do not effectually see, or hear, or understand anything.",
+            "...they use none of them: they do not effectually see, or hear, or understand anything."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the paradoxical nature of those who have the ability to see and hear, yet remain blind and deaf to the truth. They saw Jesus perform miracles and heard his teachings, but they did not truly see or hear with understanding. This was not simply due to ignorance, but a deliberate refusal to perceive and apprehend the profound truths being presented to them. As a result, they became morally incapable of truly seeing, hearing, or understanding anything. Jesus spoke to them in parables because their state of willful ignorance had rendered them incapable of receiving and benefiting from clearer teaching.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.746761950284803,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                28.57,
+                28.77,
+                42.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The paradoxical nature of those who could see and hear, but remained blind and deaf to truth, is highlighted here. The people saw Jesus's miracles and heard his teachings, yet failed to truly perceive or understand. This was not ignorance, but a deliberate refusal to apprehend profound truths. They became morally incapable of comprehending anything. Jesus spoke in parables because their willful ignorance prevented them from receiving clearer teaching. They saw and heard, but did not truly see or hear with understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.614485971166684,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                27.81,
+                28.98,
+                43.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus reveals the paradoxical state of those who have the ability to see and hear, yet remain blind and deaf to the truth. Despite witnessing Jesus perform miracles and hearing his teachings, they failed to truly perceive or understand. Their willful ignorance and refusal to acknowledge the profound truths presented to them rendered them morally incapable of comprehending anything. Jesus resorted to speaking in parables to accommodate their inability to receive clearer teaching. They saw and heard, yet they did not truly see or hear with understanding.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.6772380584149371,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                29.45,
+                24.32,
+                46.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse reveals the paradoxical nature of those who possess the ability to see and hear, but choose to remain blind and deaf to the truth. Although they witnessed Jesus performing miracles and heard his teachings, they failed to truly perceive or understand. Their deliberate refusal to acknowledge the profound truths presented to them resulted in a moral incapacity to comprehend anything. Jesus employed parables as a means to accommodate their willful ignorance and to provide a form of teaching that they could grasp. They saw and heard, yet their understanding remained elusive.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5835423675059113,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+            "commentatorTierSimilarities": [
+                29.25,
+                26.34,
+                44.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The paradoxical reality is that those who had the ability to see and hear remained blind and deaf to the truth. Witnessing Jesus's miracles and hearing his teachings did not prompt true perception or understanding. Their willful refusal to recognize the profound truths presented left them morally incapable of comprehending anything. Jesus used parables to accommodate their persistent ignorance, as they were unable to grasp clearer teachings. Though they saw and heard, their understanding remained elusive.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.573655101093611,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                28.08,
+                28.82,
+                43.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

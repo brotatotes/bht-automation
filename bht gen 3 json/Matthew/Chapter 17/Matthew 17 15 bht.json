@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:49:18",
+    "verseRef": "Matthew 17:15",
+    "bestBHT": {
+        "bht": "The boy in this case was the only son and suffered from epilepsy, which affected his ability to speak. The referred term lunatic implies being demented, and epileptic accurately describes the disease and its connection to the changes of the moon. The combination of possession and epilepsy posed a unique challenge. The father's desperate plea for mercy and compassion is understandable, as it was his own child who was afflicted. The evil spirit likely exploited the influence of the moon during the seizures.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.7084873218593581,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+        "commentatorTierSimilarities": [
+            27.57,
+            40.24,
+            32.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] He was an only son, Luke ix. 88. The demon had deprived him of speech, Mark ix. 17."
+        ],
+        "Albert Barnes": [
+            "The word 'Lord' here means 'Sir,' a title of civility, not implying divinity.",
+            "He was possessed with a devil. This calamity was attended with the following symptoms...",
+            "He fell often suddenly, in the manner of persons having epileptic fits; he was dumb - that is, he was mute except when the seizure was coming upon him..."
+        ],
+        "Marvin Vincent": [
+            "The A. V. preserves the etymology of the word (selhnh, the moon), but lunatic conveys to us the idea of demented.",
+            "The Rev. epileptic gives the true character of the disease, yet does not tell us the fact contained in the Greek word, that epilepsy was supposed to be affected by the changes of the moon.",
+            "See on Matthew 4:24."
+        ],
+        "Philip Schaff": [
+            "The former phrase is more correct etymologically, the latter best defines the disease in this case, since all the symptoms are those of epilepsy.",
+            "In chap. Matthew 4:24, \u2018lunatics\u2019 are distinguished from those \u2018possessed.\u2019 Many of those possessed had symptoms altogether different.",
+            "The peculiar difficulty in this case was the combination of this possession and epilepsy."
+        ],
+        "Archibald T. Robertson": [
+            "Epileptic. Literally, 'moonstruck,' 'lunatic.'",
+            "The symptoms of epilepsy were supposed to be aggraved by the changes of the moon.",
+            "He has it bad, as often in the Synoptic Gospels."
+        ],
+        "John Gill": [
+            "He craves mercy, pity, and compassion; for the case he had to present, was a miserable one.\" ",
+            "his earnestness and importunity he hoped might be excused, since it was for a child of his own.",
+            "which shows it to be the 'epilepsy', or 'falling sickness', he was afflicted with; which, whenever it seized him, whether by the fireside, or by the side of a river or brook, or any place of water, or in any other dangerous situation, he fell into it."
+        ],
+        "John Wesley": [
+            "This word might with great propriety he used, though the case was mostly preternatural.",
+            "The evil spirit would undoubtedly take advantage of the influence which the changes of the moon have on the brain and nerves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The boy in Matthew 17:15 was not only suffering from epilepsy but was also possessed by a demon, causing him to be mute and fall into seizures. The term lunatic in the Bible conveys the idea of being demented, while epileptic accurately describes the disease and its association with the moon. The combination of possession and epilepsy made this case particularly difficult. The father pleads for mercy and compassion for his son, showing his deep concern for the child's well-being. It is likely that the evil spirit took advantage of the lunar influence on the brain and nerves during the boy's seizures.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.6949135742734591,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+            "commentatorTierSimilarities": [
+                27.19,
+                41.39,
+                31.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The boy in this passage suffered from epilepsy, also referred to as being moonstruck or lunatic. His condition was made worse by the influence of the moon on his seizures. Additionally, he was possessed by a demon, rendering him mute and causing frequent falls. The combination of possession and epilepsy presented a unique challenge. The father, desperate for his son's healing, pleads for mercy and highlights the personal connection as it was his own child who was afflicted.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.742578835838597,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+            "commentatorTierSimilarities": [
+                27.27,
+                43.07,
+                29.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The boy in question, an only son, suffered from epilepsy and was unable to speak. The term lunatic illustrates the association between epilepsy and the changes of the moon, while epileptic accurately defines the disease. The possession by a demon and the seizures characterized his affliction. The father fervently sought compassion and mercy, given the distressing condition of his own child. The evil spirit may have taken advantage of the lunar influence on the brain during the seizures.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6809689677107789,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.23,
+            "commentatorTierSimilarities": [
+                29.67,
+                41.87,
+                28.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The boy in the story was the only son, suffering from epilepsy which affected his speech. The term lunatic conveys the idea of demented, while epileptic accurately describes the disease and its association with the changes of the moon. The combination of possession and epilepsy poses a particular challenge in this case. The father's earnest plea for mercy and compassion is understandable, as it was his own child who was afflicted. It is likely that the evil spirit capitalized on the lunar influence during the seizures.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.707127730992731,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                27.06,
+                40.71,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The boy in this case was the only son and suffered from epilepsy, which affected his ability to speak. The referred term lunatic implies being demented, and epileptic accurately describes the disease and its connection to the changes of the moon. The combination of possession and epilepsy posed a unique challenge. The father's desperate plea for mercy and compassion is understandable, as it was his own child who was afflicted. The evil spirit likely exploited the influence of the moon during the seizures.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.7084873218593581,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                27.57,
+                40.24,
+                32.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

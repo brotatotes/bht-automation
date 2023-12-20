@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:43:44",
+    "verseRef": "Matthew 5:15",
+    "bestBHT": {
+        "bht": "The lights of the world are 'lighted' by Him for whose use they are and should not be concealed or neglected. In lowly cottage life, the lamp was placed on a stand or lampstand to giveth light unto all that are in the house. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be hidden but held forth by ministers to illuminate the whole house of God and benefit all. The very purpose of this light is to shine and benefit all.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 2.176289286046072,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+        "commentatorTierSimilarities": [
+            26.81,
+            38.48,
+            34.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These lights of the world are \u2018lighted\u2019 by Him for whose use they are.",
+            "Shewing, in the spiritual reference of the parable...",
+            "Do they light..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Neither do men light a candle...and put it under a bushel.\" ",
+            "But on a candlestick...it giveth light unto all that are in the house.",
+            "The article is inserted in both cases to express the familiarity of everyone with those household utensils."
+        ],
+        "Albert Barnes": [
+            "The very reason why they [the disciples] were enlightened was that others might also see the light, and be benefited by it.",
+            "When people light a candle, they do not conceal the light, but place it where it may be of use. So it is with religion.",
+            "It [religion] is not to be concealed, but suffered to show itself, and to shed light on a surrounding wicked world."
+        ],
+        "Marvin Vincent": [
+            "A bushel - the grain - measure which is found in every house.",
+            "A candlestick - a lamp-stand - a part of the furniture of every house.",
+            "In Hebrews 9:2, the golden 'candlestick' of the tabernacle is called lucnia."
+        ],
+        "Philip Schaff": [
+            "Under this the light could be hid.",
+            "But on the candlestick, or 'lampstand;' its proper place, an elevated holder or stand, so that its light might be diffused as widely as possible.",
+            "It shineth. 'Giveth light,' implies that a certain effect is necessarily produced, but the lamp only shines, its light may be rejected."
+        ],
+        "Archibald T. Robertson": [
+            "Under the bushel (\u03c5\u03c0\u03bf \u03c4\u03bf\u03bd \u03bc\u03bf\u03b4\u03b9\u03bf\u03bd). Not a bushel...It was not put under the bushel (the only one in the room) save to put it out or to hide it.",
+            "The figure is taken from lowly cottage life. There was a projecting stone in the wall on which the lamp was set. The house consisted of a single room, so that the tiny light sufficed for all\" (Bruce).",
+            "The stand\" (\u03c4\u03b7\u03bd \u03bb\u03c5\u03c7\u03bd\u03b9\u03b1\u03bd), not \"candlestick.\" It is \"lamp-stand\" in each of the twelve examples in the Bible. There was the one lamp-stand for the single room."
+        ],
+        "John Gill": [
+            "The design of the expression is, that Christ has lighted the candle of the everlasting Gospel, and given gifts to men for the ministration of it, not to be concealed and neglected, or to be used as the servant did his lord's money, wrap it up in a napkin, and hide it in the earth.",
+            "Ministers are not, through slothfulness, to neglect the gift that is in them; nor, through fear, to hide their talents, or keep back any part of the Gospel, or cover anything out of sight, which may be profitable to souls.",
+            "On the candlestick in the temple, a type of the church; where Christ has set the light of the Gospel, where it is held forth particularly by the ministers of the word, to illuminate the whole house and family of God."
+        ],
+        "John Wesley": [
+            "Nay, the very design of God in giving you this light was, that it might shine. Mark 4:21; Luke 8:16; 11:33."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The lights of the world, enlightened by Him for whose use they are, should not be concealed but allowed to shine forth and shed light on the surrounding world. In lowly cottage life, a lamp was placed on a stand or lampstand, so that its tiny light sufficed for the whole room. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be neglected or hidden but held forth particularly by ministers to illuminate the whole house and family of God. The very purpose of this light is to shine and benefit all.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.1596167276045652,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                25.18,
+                39.9,
+                34.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These lights of the world are 'lighted' by Him for whose use they are, and should not be concealed or neglected. In lowly cottage life, the lamp was placed on a stand or lampstand to illuminate the entire room. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be hidden but held forth by ministers to illuminate the whole house of God. The purpose of this light is to shine and benefit all.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0773340357025414,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                26.53,
+                38.29,
+                35.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lights of the world, lighted by Him for whose use they are, should not be concealed or neglected. In lowly cottage life, a lamp was placed on a stand or lampstand to illuminate the entire room. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be hidden but held forth by ministers to illuminate the whole house of God. The very purpose of this light is to shine and benefit all.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1032208917091033,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                27.06,
+                38.8,
+                34.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lights of the world are 'lighted' by Him for whose use they are and should not be hidden or neglected. In lowly cottage life, the lamp was placed on a stand or lampstand to illuminate the entire room. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be concealed but held forth by ministers to illuminate the whole house of God and benefit all.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.145710073003737,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                27.82,
+                36.11,
+                36.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lights of the world are 'lighted' by Him for whose use they are and should not be concealed or neglected. In lowly cottage life, the lamp was placed on a stand or lampstand to giveth light unto all that are in the house. Similarly, the candle of the everlasting Gospel, lighted by Christ, should not be hidden but held forth by ministers to illuminate the whole house of God and benefit all. The very purpose of this light is to shine and benefit all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.176289286046072,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                26.81,
+                38.48,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

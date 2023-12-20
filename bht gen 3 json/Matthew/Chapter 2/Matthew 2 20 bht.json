@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:42:27",
+    "verseRef": "Matthew 2:20",
+    "bestBHT": {
+        "bht": "The plural here indicates the category of those who sought the child's life, similar to the command given to Moses. Joseph and the Virgin followed God's lead, not knowing their destination, just like Abraham. The phrase they are dead refers specifically to Herod, marking the end of those who wanted to harm Jesus. This expression is a general statement of a particular fact, much like the idiom found in Exodus.",
+        "wordCount": 72,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.6610932493535076,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+        "commentatorTierSimilarities": [
+            36.87,
+            34.66,
+            28.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The plural here is not merely idiomatic, nor for lenity and forbearance, in speaking of the dead.\" ",
+            "perhaps a citation from Exod. iv. 19, where the same words are spoken to Moses.",
+            "or betokens, not the number, but the category."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Like Abraham, [Joseph and the Virgin] had to 'go out, not knowing whither they went,' till they should receive further direction.",
+            "[The words] 'for they are dead which sought the young child's life'...probably suggested the plural here; and where the command is given to Moses to return to Egypt for the same reason that the greater than Moses was now ordered to be brought back from it\u2014the death of him who sought his life.",
+            "Herod died in the seventieth year of his age, and thirty-seventh of his reign."
+        ],
+        "Albert Barnes": [
+            "They are dead who sought ... - This either refers to Herod alone, as is not uncommon, using the plural number for the singular...",
+            "...or it may refer to Herod and his son Antipater.",
+            "He was of the same cruel disposition as his father, and was put to death by his father about five days before his own death."
+        ],
+        "Archibald T. Robertson": [
+            "They are dead. Only Herod had sought to kill the young child, but it is a general statement of a particular fact.\" ",
+            "The idiom may be suggested by Exodus 4:19: 'For all are dead that sought thy life.'",
+            "It is a general statement of a particular fact as is common with people who say: 'They say.'"
+        ],
+        "John Gill": [
+            "Joseph strictly observed and obeyed the divine command...here he was with Mary and Jesus, when the angel bid him arise, and take them with him, and go into the land of Israel.",
+            "He does not bid him go to Bethlehem or Nazareth, or any particular place, but the land of Israel, where he might go even into any part of it, without fear.",
+            "They are dead which sought the young child's life...designing with him many of the executioners of the infants at Bethlehem, and thereabout; who might have been, as well as he, miserable instances of divine vengeance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The plural in this verse is not simply a figurative expression, but signifies the category of those who sought to harm the young child. Similarly, Joseph and the Virgin, like Abraham, were led by God without knowing their destination. The phrase for they are dead which sought the young child's life most likely influenced the use of the plural, reminiscent of the command given to Moses. Herod's death is mentioned, marking the end of those who sought to harm Jesus. This is a general statement of a specific fact, much like the idiomatic usage in Exodus.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6418438015309567,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.93,
+            "commentatorTierSimilarities": [
+                36.73,
+                36.22,
+                27.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The plural here indicates the category of those who sought the child's life, similar to the command given to Moses. Joseph and the Virgin followed God's lead, not knowing their destination, just like Abraham. The phrase they are dead refers specifically to Herod, marking the end of those who wanted to harm Jesus. This expression is a general statement of a particular fact, much like the idiom found in Exodus.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.6610932493535076,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                36.87,
+                34.66,
+                28.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The plural in this passage is not just a figure of speech, but denotes the category of those who sought to harm the child. Joseph and the Virgin, like Abraham, obeyed God's command without knowing where they were going. The words for they are dead likely influenced the use of the plural, indicating the end of those who sought the child's life. This statement is a general observation of a specific fact, similar to the phrasing in Exodus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.5891656493604542,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                37.28,
+                35.68,
+                27.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The plural used here does not merely signify the dead, but rather the category of those who sought to harm the child. Like Abraham, Joseph and the Virgin had to follow God's guidance without knowing their destination. The phrase for they are dead likely influenced the plural usage, indicating the end of those who wanted to harm the child. This statement serves as a general observation of a specific fact, resembling the wording found in Exodus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5653541940836209,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                36.16,
+                36.11,
+                27.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The plural in this verse is not merely idiomatic but indicates the category of those who sought the child's life. Joseph and the Virgin, like Abraham, had to obediently go forth without knowing their destination. The phrase for they are dead which sought the young child's life likely prompted the plural, signifying the end of those who wanted to harm Jesus. It is a general statement of a particular fact, similar to the use of idioms found in Exodus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6515250250931466,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "commentatorTierSimilarities": [
+                37.29,
+                34.26,
+                28.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

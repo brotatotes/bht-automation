@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:49:36",
+    "verseRef": "Matthew 18:11",
+    "bestBHT": {
+        "bht": "The Son of Man came to save the lost, exemplified by these little ones, and the angels serve as messengers to them. The Father Himself, above the Son of Man, holds His good pleasure. It is unreasonable and contemptuous to despise those whom the Son of God esteemed highly, who He loved enough to endure suffering and death, in order to obtain righteousness and everlasting salvation for them. Therefore, we should not reject them but instead esteem them for the sake of Christ, who sought to save the lost.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.112261882580066,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+        "commentatorTierSimilarities": [
+            32.39,
+            32.62,
+            34.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The angels are the servante and messengers of the Son of Man; and they therefore (for&c.) are appointed to wait on these little ones whom He came to save; and who, in their utter helplessness, are especially examples of that which was lost.",
+            "Here,' remarks Stier, 'is Jacob\u2019s ladder planted before our eyes: beneath are the little ones;\u2014then their angels;\u2014then the Son of Man in heaven, in whom alone man is exalted above the angels, Who, as the Great Angel of the Covenant, cometh from the Presence and Bosom of the Father.",
+            "Above Him again (ver. 14) the Father Himself, and His good pleasure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the Son of man is come to save that which was lost.",
+            "A golden saying, once and again repeated in different forms.",
+            "Since the whole object and errand of the Son of man into the world is to save the lost, take heed lest, by causing offenses, ye lose the saved."
+        ],
+        "Albert Barnes": [
+            "That reason is, that the Son of man came to seek and save them.",
+            "It was the great object of his life; and, though they may be obscure and little in the eye of the world, yet that cannot be an object of contempt which the Son of God sought by his toils and his death.",
+            "So all people are 'lost.' They are wicked, miserable wanderers from God. They are lost to piety, to happiness, to heaven. These Jesus came to save by giving his own life a ransom, and shedding his own blood that they might be recovered and saved."
+        ],
+        "John Calvin": [
+            "For the Son of man cometh Christ now employs his own example in persuading his disciples to honor even weak and despised brethren.",
+            "It is in the highest degree unreasonable that we should disdainfully reject those whom the Son of God has so highly esteemed.",
+            "We ought to esteem them not for the value of their virtues, but for the sake of Christ; and he who will not conform himself to Christ\u2019s example is too saucy and proud."
+        ],
+        "Philip Schaff": [
+            "This verse is omitted in the most ancient manuscripts.",
+            "It seemed apt at this point, both in view of what follows, and as a reason for the admonition in Matthew 18:10, presenting Christ\u2019s conduct in contrast to this 'despising.'",
+            "He came to save those altogether lost, such contempt repels those who are apparently on the path of salvation."
+        ],
+        "John Gill": [
+            "For the Son of man is come to seek that which was lost.\" ",
+            "Christ, who is here meant by the Son of man, came into this world to save these persons; who were lost in Adam, and had destroyed themselves by their transgressions.",
+            "Christ had so much love for them, as to come into this world, and endure the sorrows, sufferings, and death itself for them, who were not only little, but lost; and that to obtain righteousness and life for them, and save them with an everlasting salvation."
+        ],
+        "John Wesley": [
+            "Another, and yet a stronger reason for your not despising them is, that I myself came into the world to save them. Luke 19:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son of Man, as the Great Angel of the Covenant, came to save the lost, who are exemplified by these little ones. The angels, as servants and messengers of the Son of Man, are appointed to care for and protect these children. Above the Son of Man, there is the Father Himself, in whom lies His good pleasure. All people are lost, wicked wanderers from God, but Jesus came to seek and save them, shedding His own blood as a ransom. Therefore, it is unreasonable and contemptuous to despise those whom the Son of God esteemed so highly. We should esteem them not for their virtues, but for the sake of Christ, who, out of great love, endured suffering and death to obtain righteousness and everlasting salvation for them.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.034324674316543,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                32.33,
+                33.1,
+                34.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son of Man, the Great Angel of the Covenant, came to save the lost, who are exemplified by these little ones. The angels serve and protect them as messengers of the Son of Man. Above Him is the Father, in whom lies His good pleasure. There\u2019s reason not to despise the little ones, as Christ Himself came to seek and save them. It is unreasonable and contemptuous to reject those the Son of God esteemed highly, enduring suffering and death to obtain righteousness and everlasting salvation for them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.01000177365724,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "commentatorTierSimilarities": [
+                33.85,
+                32.0,
+                34.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of Man, as the Great Angel of the Covenant, came to save the lost exemplified by these little ones, and the angels serve as messengers to them. Above Him is the Father Himself, in whom lies His good pleasure. It is unreasonable and contemptuous to despise those whom the Son of God esteemed highly, lovingly enduring suffering and death to obtain righteousness and everlasting salvation for them. Therefore, we should not reject them, but instead, esteem them for the sake of Christ, who came to seek and save the lost.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9954091311101112,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                32.83,
+                32.51,
+                34.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man, the Great Angel of the Covenant, came to save the lost, who are exemplified by these little ones. The angels serve and protect them as messengers of the Son of Man. Above Him is the Father, in whom lies His good pleasure. It is unreasonable and contemptuous to despise those whom the Son of God esteemed highly, enduring suffering and death to obtain righteousness and everlasting salvation for them. Therefore, we should not reject them, but instead, esteem them for the sake of Christ, who came to seek and save the lost.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.019238071109154,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                33.91,
+                31.71,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man came to save the lost, exemplified by these little ones, and the angels serve as messengers to them. The Father Himself, above the Son of Man, holds His good pleasure. It is unreasonable and contemptuous to despise those whom the Son of God esteemed highly, who He loved enough to endure suffering and death, in order to obtain righteousness and everlasting salvation for them. Therefore, we should not reject them but instead esteem them for the sake of Christ, who sought to save the lost.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.112261882580066,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                32.39,
+                32.62,
+                34.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

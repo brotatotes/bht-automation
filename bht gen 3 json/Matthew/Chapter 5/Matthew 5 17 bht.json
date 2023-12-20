@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:44:10",
+    "verseRef": "Matthew 5:17",
+    "bestBHT": {
+        "bht": "Jesus did not come to destroy the law and the prophets, but to fulfill and expand upon them. He reveals a deeper and holier sense to the prophecies, giving them a fuller, more spiritual meaning. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9748901746499983,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+        "commentatorTierSimilarities": [
+            25.61,
+            39.65,
+            34.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe how our Lord, through the whole sermon, sets forth Himself, in his proceeding forth from God, as truly 'He that was to come.'",
+            "It is a question whether our Lord includes the prophecies, properly so called, in His meaning here. I think not: for no person professing himself to be the Messiah would be thought to contradict the prophecies, but to fulfil them.",
+            "This verb implies more than the mere fulfilling: it has the sense of filling out or expanding: i.e. here, giving a deeper and holier sense to\u2014fulfilling in the spirit, which is nobler than the letter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye who tremble at the word of the Lord, fear not that I am going to sweep the foundation from under your feet.",
+            "Ye restless and revolutionary spirits, hope not that I am going to head any revolutionary movement.",
+            "And ye who hypocritically affect great reverence for the law and the prophets, pretend not to find anything in My teaching derogatory to God's living oracles."
+        ],
+        "Albert Barnes": [
+            "He therefore told them that he did not come for that end, but really to fulfill or accomplish what was in the law and the prophets.",
+            "To destroy - To abrogate; to deny their divine authority; to set people free from the obligation to obey them.",
+            "But to fulfil - To complete the design; to fill up what was predicted; to accomplish what was intended in them."
+        ],
+        "Marvin Vincent": [
+            "To destroy [\u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03c3\u03b1\u03b9] . Lit., to loosen down, dissolve; Wyc., undo."
+        ],
+        "John Calvin": [
+            "Christ, therefore, now declares, that his doctrine is so far from being at variance with the law, that it agrees perfectly with the law and the prophets, and not only so, but brings the complete fulfillment of them.",
+            "If we intend to reform affairs which are in a state of disorder, we must always exercise such prudence and moderation, as will convince the people, that we do not oppose the eternal Word of God, or introduce any novelty that is contrary to Scripture.",
+            "With respect to doctrine, we must not imagine that the coming of Christ has freed us from the authority of the law: for it is the eternal rule of a devout and holy life, and must, therefore, be as unchangeable, as the justice of God, which it embraced, is constant and uniform."
+        ],
+        "Philip Schaff": [
+            "Christ\u2019s mission not negative and destructive, but positive and constructive; Christianity is neither revolution nor restoration, but a new creation, which, however, conserves and perfects all that is good in the old.",
+            "The whole spiritual development of the Old Testament is meant. This Christ came to fulfil, to make perfect as doctrine and to exhibit perfectly in life.",
+            "Christ fulfils the law: ( 1 ) theoretically, by unfolding its deep spiritual significance, as in this sermon; ( 2 ) practically, in his holy life, a perfect pattern for imitation; ( 3 ) by realizing the types and shadows of the ceremonial law; ( 4 ) by redeeming us through His expiatory death from the penalty and curse of the broken law; ( 5 ) by enabling us, through His Holy Spirit, to fulfil the law in gratitude to Him and in living union with Him."
+        ],
+        "Archibald T. Robertson": [
+            "I came not to destroy, but to fulfil.\" - Jesus' purpose was not destruction but fulfillment.",
+            "The verb 'destroy' means to 'loosen down' as of a house or tent.\" - 'Destroy' signifies the act of loosening down, like unfastening a house or tent.",
+            "He came to fill the law, to reveal the full depth of meaning that it was intended to hold.\" - Jesus came to fill and expose the complete depth of meaning intended by the law."
+        ],
+        "John Gill": [
+            "I am not come to destroy, but to fulfil.",
+            "By 'the law' is meant the moral law, as appears from the whole discourse following: this he came not to 'destroy', or loose men's obligations to, as a rule of walk and conversation, but 'to fulfil' it.",
+            "All which explanations, promises, and prophecies, were so far from being made void by Christ, that they receive their full accomplishment in him."
+        ],
+        "John Wesley": [
+            "Think not... that I am come - Like your teachers, to destroy the law or the prophets.",
+            "I am not come to destroy... the moral law, but to fulfil - To establish, illustrate, and explain its highest meaning, both by my life and doctrine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus reassures his listeners that he did not come to destroy the law and the prophets, but to fulfill and expand upon them. He emphasizes that He is not contradicting the prophecies, but rather revealing a deeper and holier sense to them. Jesus came to fill and expose the complete depth of meaning intended by the law. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him. Therefore, we must exercise prudence and moderation when reforming disorder, showing that we do not oppose the eternal Word of God or introduce any novelty contrary to Scripture. We must remember that the law is the eternal rule of a devout and holy life, unchangeable, just as the justice of God it embraces.",
+            "wordCount": 165,
+            "quoteTokenProportion": 33.0,
+            "qualityScore": 1.9884127142021848,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                24.82,
+                37.78,
+                37.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus did not come to destroy the law and the prophets, but to fulfill and expand upon them. He reveals a deeper and holier sense to the prophecies, giving them a fuller, more spiritual meaning. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9748901746499983,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                25.61,
+                39.65,
+                34.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not come to contradict the prophecies or destroy the law and the prophets. Instead, He came to fulfill and expand upon them, revealing a deeper spiritual significance. He brings the complete fulfillment of the law and in doing so, conserves and perfects all that is good in the old. His purpose is not destruction but fulfillment. Through His life, death, and the enabling power of His Holy Spirit, Jesus enables believers to live in gratitude to Him by fulfilling the law in their lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.901813353744593,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                25.14,
+                39.53,
+                35.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Jesus declares that He did not come to destroy the law and the prophets, but to fulfill and expand on them. He reveals a deeper and more significant understanding of the prophecies and the law. His purpose is not destruction, but rather fulfillment. Christianity is not about revolution or restoration; it is a new creation that upholds and perfects the goodness of the old. Jesus fulfills the law through His teachings, His example, His redemptive death, and by empowering believers to live in accordance with the law.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9742874889603983,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                24.53,
+                37.63,
+                37.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphatically states that He did not come to nullify or abolish the law and the prophets, but to fulfill and expand their meaning. He unveils a deeper, more spiritual understanding, revealing the fullness of what was intended in the law. Jesus' mission is not one of destruction, but rather fulfillment and completion. Christianity is not about revolution or restoration; it is a new creation that both honors and perfects all that is good in the old. Jesus accomplishes this through His teachings, His life as a perfect example, and His redemptive sacrifice on the cross.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.9446429139707146,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                24.71,
+                40.72,
+                34.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

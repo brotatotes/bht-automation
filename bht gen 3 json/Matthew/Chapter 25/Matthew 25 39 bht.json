@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:52:42",
+    "verseRef": "Matthew 25:39",
+    "bestBHT": {
+        "bht": "Though Jesus bore the sicknesses of his people, he himself was never sick nor imprisoned. However, his servants, like John the Baptist, Peter, and Paul, have experienced these hardships and have been tenderly and affectionately used by their fellow Christians.",
+        "wordCount": 40,
+        "quoteTokenProportion": 48.57,
+        "qualityScore": 2.1914673310132895,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.21,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "For though he bore the sicknesses of his people, yet we never read of his being sick himself, nor was he ever cast into prison.",
+            "But this has been the case of many of his servants, as John the Baptist, Peter, and Paul, and multitudes of others.",
+            "Who have been tenderly and affectionately used by their fellow Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Jesus took on the illnesses of his people, he did not personally experience sickness or imprisonment. However, many of his faithful servants, such as John the Baptist, Peter, and Paul, have encountered these hardships and have been supported and cared for by their fellow followers of Christ.",
+            "wordCount": 48,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 1.8016906100996861,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus bore the sicknesses of his people, yet he himself was never sick nor imprisoned. However, his servants like John the Baptist, Peter, and Paul have faced these trials and have been lovingly supported by their fellow Christians.",
+            "wordCount": 38,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.052977783356601,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though Jesus took on the illnesses of his people, he did not personally experience sickness or imprisonment. However, many of his faithful servants, such as John the Baptist, Peter, and Paul, have encountered these hardships and have been tenderly and affectionately used by their fellow Christians to provide support and care.",
+            "wordCount": 51,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.8684852782864099,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, though he bore the sicknesses of his people, was never personally afflicted or imprisoned, unlike his servants John the Baptist, Peter, and Paul, and many others who have experienced these tribulations. Yet, in their times of difficulty, they were lovingly treated with tenderness and affection by their fellow Christians.",
+            "wordCount": 50,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.7796709055317443,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though Jesus bore the sicknesses of his people, he himself was never sick nor imprisoned. However, his servants, like John the Baptist, Peter, and Paul, have experienced these hardships and have been tenderly and affectionately used by their fellow Christians.",
+            "wordCount": 40,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.1914673310132895,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

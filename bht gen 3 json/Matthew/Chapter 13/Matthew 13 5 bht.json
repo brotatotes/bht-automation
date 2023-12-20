@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:47:18",
+    "verseRef": "Matthew 13:5",
+    "bestBHT": {
+        "bht": "The stony places refer to areas where a thin layer of soil covers the rock. The seed quickly shoots up due to the heat from the rock and the shallow earth, but lacks depth for sustained growth. This symbolizes those with superficial understanding and shallow convictions of the word, showing outward signs of delight but lacking true heart work. Their hearts are as hard as ever, and only the mighty power of God can break their rocky hearts and grant them a soft and responsive heart that truly believes in Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.7904516688546257,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+        "commentatorTierSimilarities": [
+            29.85,
+            37.77,
+            32.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the stony places ( = 'the rock' Luke), places where the native rock is but slightly covered with earth",
+            "radiation from the face of the rock would cause the seed to spring up quickly",
+            "the shallow earth being heated by the sun of the day before"
+        ],
+        "Marvin Vincent": [
+            "Stony places. Not ground covered with loose stones, but a hard, rocky surface, covered with a thin layer of soil."
+        ],
+        "Philip Schaff": [
+            "Upon the rocky places. Not full of stones, but thin soil over rocks.",
+            "Forthwith they sprung up, because, etc. The greater heat of the shallow soil would cause a rapid growth upwards."
+        ],
+        "Archibald T. Robertson": [
+            "The rocky places (\u03c4\u03b1 \u03c0\u03b5\u03c4\u03c1\u03c9\u03b4\u03b7). In that limestone country ledges of rock often jut out with thin layers of soil upon the layers of rock.",
+            "Straightway they sprang up (\u03b5\u03c5\u03b8\u03b5\u03c9\u03c2 \u03b5\u03be\u03b1\u03bd\u03b5\u03c4\u03b5\u03b9\u03bb\u03b5\u03bd). \"Shot up at once\" (Moffatt). Double compound (\u03b5\u03be, out of the ground, \u03b1\u03bd\u03b1, up).",
+            "Ingressive aorist of \u03b5\u03be\u03b1\u03bd\u03b1\u03c4\u03b5\u03bb\u03bb\u03c9."
+        ],
+        "John Gill": [
+            "This is expressive of such persons who have slight convictions of sin, and awakenings of the natural conscience; some little, light, and speculative notions of the word, in the understanding and judgment; some flashes of natural affection for it, and outward expressions of delight and pleasure in it; some show of grace, and a form of godliness, but no real heart work.",
+            "Their hearts were as hard as ever, notwithstanding the seeming and hasty reception of it; though they did not refuse to hearken to the word externally, did not put away the shoulder, or stop their ears, yet their hearts were still like an adamant stone.",
+            "Nothing but the mighty power of God, and his efficacious grace, can break the rocky heart in pieces; or give an heart of flesh, a sensible, soft, and flexible one, with which a man truly repents of sin, believes in Christ, and becomes subject to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the sower describes different types of soil upon which the seed falls. One of these types is the stony places, characterized by a thin layer of soil over the rock. The seed quickly springs up in these areas due to the radiation and heat from the rock and soil, but without depth, the growth is not sustained. This represents those who have shallow convictions and superficial understanding of the word. Their hearts are hardened like an adamant stone, lacking genuine repentance and faith. Only the powerful work of God can break these hardened hearts and grant a soft and responsive heart that truly believes in Christ.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.6781876417177939,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                30.45,
+                38.02,
+                31.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stony places refer to areas where a thin layer of soil covers the rock. The seed quickly shoots up due to the heat from the rock and the shallow earth, but lacks depth for sustained growth. This symbolizes those with superficial understanding and shallow convictions of the word, showing outward signs of delight but lacking true heart work. Their hearts are as hard as ever, and only the mighty power of God can break their rocky hearts and grant them a soft and responsive heart that truly believes in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.7904516688546257,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                29.85,
+                37.77,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The stony places represent areas with a thin layer of soil over rock, causing the seed to quickly shoot up due to the heat. This signifies those with superficial understanding and shallow convictions, showing outward signs of delight but lacking true heart work. Their hearts remain hardened like an adamant stone. Only God's powerful grace can break their rocky hearts and transform them into hearts of flesh, enabling genuine repentance, faith in Christ, and submission.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.671765555931093,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+            "commentatorTierSimilarities": [
+                26.53,
+                34.04,
+                39.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The stony places in this parable refer to areas with a thin layer of soil covering the rock, causing the seed to immediately shoot up due to the heat. These represent individuals with superficial understanding and shallow convictions, showing outward signs of delight but lacking true heart transformation. Their hearts remain as hardened as ever, despite their seemingly quick acceptance. Only the mighty power of God can break their stony hearts and grant them a soft, sensitive heart that truly repents, believes in Christ, and submits to Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.503287641931105,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                24.9,
+                30.42,
+                44.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The stony places mentioned in this parable are areas with a thin layer of soil covering the rock. Due to the heat, the seed quickly shoots up, but lacks depth for sustained growth. This represents those with shallow understanding and superficial convictions. Their hardened hearts, like adamant stone, need the transformative power of God's grace to break them and grant a responsive heart that truly repents, believes in Christ, and submits to Him.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.633949743529842,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                30.78,
+                41.45,
+                27.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

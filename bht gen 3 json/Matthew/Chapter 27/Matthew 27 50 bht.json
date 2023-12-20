@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:54:59",
+    "verseRef": "Matthew 27:50",
+    "bestBHT": {
+        "bht": "When Jesus cried out with a loud voice and yielded up his spirit, it was a voluntary act of surrender, revealing his complete control over the timing and manner of his death. By uttering a loud cry, Jesus demonstrated the profound impact of bearing the sins of the world, including the physical rupture of his heart. This cry marked the completion of his work of atonement and the opening of salvation to believers. In his final moments, Jesus commended his spirit to God, exemplifying the faithful trust in God's care that all believers can emulate in death.",
+        "wordCount": 98,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.9881902580400972,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+        "commentatorTierSimilarities": [
+            32.14,
+            34.78,
+            33.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'delivered up' of John implies the speech in Luke; which accordingly was that uttered in this loud voice.\" ",
+            "It has been doubted whether it is finished of John and Father, into thy hands I commend my spirit of Luke are to be identified with this crying out, or to be taken as distinct from it.",
+            "A nearer examination of the case will set the doubt at rest."
+        ],
+        "Albert Barnes": [
+            "It finished the work of atonement, made the way of salvation possible, rolled away the curse from guilty people, and opened the kingdom of heaven to all true believers.",
+            "Yielded up the ghost - This, though a literal translation, is unhappy. It means resigned his spirit, or 'expired."
+        ],
+        "Marvin Vincent": [
+            "The fact that the evangelists, in describing our Lord's death, do not use the neuter verb, he died, but he breathed out his life... seems to imply a voluntary yielding up of his life.\" ",
+            "He gave up his life because he willed it, when he willed it, and as he willed it."
+        ],
+        "John Calvin": [
+            "For there could not have been a more splendid triumph than when Christ boldly expresses his assurance that God is the faithful guardian of his soul, which all imagined to be lost.",
+            "But though it might be of no avail to men, he was satisfied with having God alone as his witness.",
+            "Every one who, when he comes to die, following this example, shall believe in Christ, will not breathe his soul at random into the air, but will resort to a faithful guardian, who keeps in safety whatever has been delivered to him by the Father."
+        ],
+        "Philip Schaff": [
+            "The order of the Seven Words (as they are called) is: Before the darkness: 1. The prayer of Christ for His enemies. 2. The promise to the penitent robber. 3. The charge to Mary and John. At the close of the darkness: 4. The cry of distress to His God. Just before His death: 5. The exclamation: 'I thirst.' 6. 'It is finished.' 7. The final commendation of His Spirit to God.",
+            "The intervening expression of human want ('I thirst') seems to have been uttered, to show that one of our race was suffering there, and at the same time to obtain the physical support needed to proclaim the victory won by that One of our race for us.",
+            "More than victory is rest in God. It has been urged with much force that the physical cause of our Lord\u2019s death was 'a broken heart.'"
+        ],
+        "Archibald T. Robertson": [
+            "Yielded up his spirit... Jesus did not die from slow exhaustion, but with a loud cry.",
+            "He gave up his life because he willed it, when he willed it, and as he willed it.",
+            "The loud cry... one of the proofs that Jesus died of a ruptured heart as a result of bearing the sin of the world."
+        ],
+        "John Gill": [
+            "Father, into thy hands I commend my Spirit\" - Luke 23:46 ",
+            "for he had cried once before\" - Matthew 27:50",
+            "to speak with so loud a voice was more than human\" - Mark 15:39"
+        ],
+        "John Wesley": [
+            "After he had cried with a loud voice \u2014 To show that his life was still whole in him.",
+            "He died by a voluntary act of his own, and in a way peculiar to himself.",
+            "He then retired from it, with a majesty and dignity never known or to be known in any other death: dying, if one may so express it, like the Prince of life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus cried out with a loud voice and yielded up his spirit, it was a voluntary act of surrender, revealing his complete control over the timing and manner of his death. Though some have debated whether his dying words in different Gospels should be identified or distinguished, a closer examination confirms that Jesus willingly gave up his life at the appointed time and in the way he chose. The fact that the evangelists use the phrase breathed out his life instead of he died suggests a deliberate release of his life and a testament to his divine authority. By uttering a loud cry, Jesus demonstrated the profound impact of bearing the sins of the world, including the physical rupture of his heart. This cry, together with the preceding events, marked the completion of his work of atonement and the opening of salvation to believers. In his final moments, Jesus commended his spirit to God, exemplifying the faithful trust in God's care that all believers can emulate in their own deaths.",
+            "wordCount": 172,
+            "quoteTokenProportion": 28.7,
+            "qualityScore": 1.9957138054873103,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                33.76,
+                32.92,
+                33.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus cried out with a loud voice and yielded up his spirit, it was a voluntary act of surrender, revealing his complete control over the timing and manner of his death. By uttering a loud cry, Jesus demonstrated the profound impact of bearing the sins of the world, including the physical rupture of his heart. This cry marked the completion of his work of atonement and the opening of salvation to believers. In his final moments, Jesus commended his spirit to God, exemplifying the faithful trust in God's care that all believers can emulate in death.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9881902580400972,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                32.14,
+                34.78,
+                33.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus cried out with a loud voice and yielded up his spirit, it was a voluntary act of surrender, revealing his complete control over the timing and manner of his death. By uttering a loud cry, Jesus demonstrated the profound impact of bearing the sins of the world, including the physical rupture of his heart. This cry marked the completion of his work of atonement and the opening of salvation to believers. In his final moments, Jesus commended his spirit to God, exemplifying the faithful trust in God's care that all believers can emulate in death.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9881902580400972,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                32.14,
+                34.78,
+                33.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus cried out with a loud voice and yielded up his spirit, it was a voluntary act, highlighting his control over the timing and manner of his death. This act of surrender, along with the preceding cry, showcased the tremendous impact of bearing the sins of the world, possibly resulting in a ruptured heart. Furthermore, these events signaled the completion of Christ's work of atonement and the access to salvation for believers. As Jesus commended his spirit to God, he exemplified the unwavering trust believers can have in God's care in the face of death.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8522982424226875,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                30.77,
+                37.84,
+                31.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus cried with a loud voice and yielded up his spirit, it demonstrated his voluntary surrender and control over his own death. This act of surrender, coupled with the preceding cry, symbolized the immense weight of bearing the sins of the world, possibly leading to a ruptured heart. Through this cry, Jesus marked the fulfillment of his atoning work and the accessibility of salvation to believers. By commending his spirit to God, he exhibited the unwavering trust that believers can have in God's faithfulness in the face of death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.922430936228257,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                32.32,
+                34.22,
+                33.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

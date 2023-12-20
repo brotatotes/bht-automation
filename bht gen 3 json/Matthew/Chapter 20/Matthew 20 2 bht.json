@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:50:20",
+    "verseRef": "Matthew 20:2",
+    "bestBHT": {
+        "bht": "The denarius, valued at around seventeen cents during Tiberius' time, was regarded as generous pay for a day's work. The word 'denarius' often conveys the idea of a liberal or large amount. The agreement between the laborers and the householder was based on the demand and promise. Though rewards are expected, the parable teaches that God's grace is freely given. The jealousy of the first laborers symbolizes the prejudice of the Jews against the Gentiles, who received more than they could ask for by working diligently without a fixed agreement.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.7757638556864634,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+        "commentatorTierSimilarities": [
+            28.69,
+            38.06,
+            33.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The denarius a day was the pay of a Roman soldier in Tiberius\u2019 time, a few years before this parable was uttered.\" ",
+            "Polybius mentions that the charge for a day\u2019s entertainment in the inns in Cisalpine Gaul was half an as, = 1/20th of the denarius.\" ",
+            "This we may therefore regard as liberal pay for the day\u2019s work."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. And when he had agreed with the",
+            "\tlabourers for a penny\u2014a usual day's hire. ",
+            "\t",
+            "he sent them into his",
+            "\tvineyard."
+        ],
+        "Albert Barnes": [
+            "The coin here referred to was a Roman coin, equal in value, at different periods, to 15 cents or 17 cents.\" ",
+            "The original denotes the Roman denarius \u03b4\u03b7\u03bd\u03b1\u0301\u03c1\u03b9\u03bf\u03bd de\u0304narion, a silver coin, which was originally equivalent to ten ases (a brass Roman coin), from which it gets its name.\" ",
+            "It was probably at that time the price of a day\u2019s labor."
+        ],
+        "Marvin Vincent": [
+            "A denarius, the chief silver coin of the Romans at this time, and of the value of about seventeen cents. We must remember to reckon according to the rate of wages in that day.\" ",
+            "In almost every case where the word occurs in the New Testament it is connected with the idea of a liberal or large amount.",
+            "The agreement arose out of the demand on the one hand and the promise on the other."
+        ],
+        "Philip Schaff": [
+            "Eternal salvation is meant; for while the idea of reward is present, the whole drift of the parable teaches us that God's grace is free (Matthew 20:15).",
+            "The mercenary spirit of the first laborers has a primary reference to the Jews and their prejudice against the Gentiles. This envious disposition is thus rebuked.",
+            "The Gentile converts went to work as soon as they were called, without a definite agreement as to price, trusting in the justice and mercy of the householder. They are commended, and to them was given far more than they could ask or deserve."
+        ],
+        "Archibald T. Robertson": [
+            "The \u03b5\u03ba with the ablative represents the agreement (\u03c3\u03c5\u03bd\u03c6\u03c9\u03bd\u03b7\u03c3\u03b1\u03c2) with the workmen."
+        ],
+        "John Gill": [
+            "he that is hired for a day, may demand it all the night; and he that is hired for a night may demand it all the day\" ",
+            "the wages of a day were usually \u05d3\u05d9\u05e0\u05e8 'a penny'; which, if understood of a Roman penny, was seven pence halfpenny of our money\" ",
+            "By the penny a day agreed for with the labourers, may be meant external privileges; or the free promise made, whether to ministers, or private believers, of a sufficient supply of grace daily, that as their day is, their strength shall be; together with that of eternal life and happiness at last."
+        ],
+        "John Wesley": [
+            "The Roman penny was about seven pence halfpenny. [About thirteen and three quarter cents, American.] This was then the usual price of a day's labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 20:2, the denarius that the laborers are promised in their agreement was considered liberal pay for a day's work, and was worth about seventeen cents in the time of Tiberius. This emphasizes the idea of a generous or large amount in almost every case the word denarius is used in the New Testament. The agreement between the laborers and the householder was based on the demand and promise. The parable teaches that while the laborers may expect rewards, God's grace is freely given. The first laborers' envious disposition is rebuked, symbolizing the prejudice of the Jews against the Gentiles, who worked without a definite agreement and were given more than they could ask for.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.8185160831794112,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                28.01,
+                40.2,
+                31.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the denarius that the laborers agree upon as their pay is considered generous and valued at about seventeen cents in Tiberius' time. The word denarius is often associated with a liberal or large amount. Their agreement was based on their demand and the promise given to them. The parable emphasizes that while the laborers may expect rewards, God's grace is freely given. The first laborers' envy represents the prejudice of the Jews against the Gentiles, who diligently worked without a definite agreement and were blessed abundantly.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.7215730864495895,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                30.14,
+                39.11,
+                30.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The denarius, valued at around seventeen cents during Tiberius' time, was regarded as generous pay for a day's work. The word 'denarius' often conveys the idea of a liberal or large amount. The agreement between the laborers and the householder was based on the demand and promise. Though rewards are expected, the parable teaches that God's grace is freely given. The jealousy of the first laborers symbolizes the prejudice of the Jews against the Gentiles, who received more than they could ask for by working diligently without a fixed agreement.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7757638556864634,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                28.69,
+                38.06,
+                33.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The denarius, which was the pay for a Roman soldier at the time, and valued at about seventeen cents during Tiberius' reign, represented generous wages for a day's work. The term 'denarius' is often associated with a liberal or large amount. The agreement made between the laborers and the householder arose from the demand and promise. This parable highlights that while the laborers anticipate rewards, God's grace is freely given. The envy of the first laborers illustrates the prejudice of the Jews against the Gentiles, who trusted in the householder's justice and mercy, receiving more than they could expect.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7301443460872554,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                28.2,
+                39.4,
+                32.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The denarius, valued at about seventeen cents during Tiberius' time, was considered generous pay. The agreement between the laborers and the householder was based on their demand and promise. In this parable, God's grace is emphasized as being freely given, even though rewards are expected. The jealousy of the first laborers symbolizes the prejudice of the Jews against the Gentiles, contrasting with the Gentiles who trusted in the householder's justice and mercy, receiving more than they anticipated.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.703467107794542,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                27.68,
+                42.53,
+                29.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

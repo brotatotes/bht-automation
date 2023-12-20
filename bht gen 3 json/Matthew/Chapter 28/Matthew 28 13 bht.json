@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:54:49",
+    "verseRef": "Matthew 28:13",
+    "bestBHT": {
+        "bht": "The chief priests claimed that Jesus' disciples stole His body while the guards were asleep, an offense punishable by death. However, if the soldiers were truly asleep, they wouldn't have discovered the theft or admitted their neglect. The drastic action of the disciples to steal the body covertly, only to spread a false resurrection story, seems illogical. Furthermore, the lack of punishment towards the supposed negligent soldiers calls into question the priests' genuine belief in their own claims.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.6293360722403634,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+        "commentatorTierSimilarities": [
+            22.41,
+            38.6,
+            38.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His disciples came by night, and stole him away while we slept\u2014which, as we have observed, was a capital offense for soldiers on guard.",
+            "His disciples came by night, and stole him away while we slept.",
+            "Which, as we have observed, was a capital offense for soldiers on guard."
+        ],
+        "Philip Schaff": [
+            "If all the soldiers were asleep, they could not discover the thieves, nor would they have proclaimed their negligence, the punishment for which was death.",
+            "If even a few of them were awake, they might and would have prevented the theft.",
+            "But men in the infatuation of unbelief, will believe any story however improbable."
+        ],
+        "Archibald T. Robertson": [
+            "An Irish bull on the face of it.\" ",
+            "If they were asleep they would not know anything about it."
+        ],
+        "John Gill": [
+            "And stole him away while we slept: which was a very unlikely thing, and a foolish scheme this, for such a body of men to form.",
+            "Had they took it away by stealth, it is not reasonable to think that they would afterwards have reported such a lie every where.",
+            "It is clear the chief priests themselves were convinced in their own minds, that he was truly risen, or they would have punished the soldiers severely for their sleep and negligence."
+        ],
+        "John Wesley": [
+            "Say, his disciples came by night, and stole him while we slept \u2014 Is it possible, that any man of sense should digest this poor, shallow inconsistency?\" ",
+            "If ye were awake, why did you let the disciples steal him? If asleep, how do you know they did?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to the first-tier commentary, the chief priests claimed that Jesus' disciples stole His body while the soldiers were asleep, despite such an act being a capital offense. However, the second-tier commentary points out that if the soldiers were truly asleep, they wouldn't have been able to catch the thieves or even acknowledge their own negligence. The skeptical tone of the third-tier commentary highlights the implausibility of this claim, as it questions the intelligence of a group of men risking their lives to steal Jesus' body, only to then spread a lie about His resurrection. The commentators also challenge the chief priests' logic, asking why they didn't punish the soldiers for their supposed failure to stay awake.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.614719503145988,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+            "commentatorTierSimilarities": [
+                24.34,
+                36.72,
+                38.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests alleged that Jesus' disciples stole His body while the guards were sleeping, an offense punishable by death. However, this explanation seems improbable since if the soldiers were truly asleep, they wouldn't have been able to detect the thieves or admit their own negligence. Additionally, it would be illogical for the disciples to steal the body secretly and then spread a false resurrection story. The priests' lack of disciplinary action further undermines their claim.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.5208509150257485,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.91,
+            "commentatorTierSimilarities": [
+                23.04,
+                38.29,
+                38.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests claimed that Jesus' disciples stole His body while the guards were asleep, a capital offense. However, if the soldiers were truly asleep, they wouldn't have discovered the theft or admitted their neglect. The skepticism of the commentators towards this narrative highlights its implausibility. Why would the disciples risk their lives to steal the body only to spread a false resurrection story? It raises doubts about the priests' conviction in their own minds and their failure to punish the supposedly negligent soldiers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5285842900711564,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                25.27,
+                37.25,
+                37.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests claimed that Jesus' disciples stole His body while the guards were asleep, an offense punishable by death. However, if the soldiers were truly asleep, they wouldn't have discovered the theft or admitted their neglect. The drastic action of the disciples to steal the body covertly, only to spread a false resurrection story, seems illogical. Furthermore, the lack of punishment towards the supposed negligent soldiers calls into question the priests' genuine belief in their own claims.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6293360722403634,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                22.41,
+                38.6,
+                38.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests alleged that Jesus' disciples stole His body while the guards were sleeping, an offense punishable by death. However, if the soldiers were truly asleep, they wouldn't have been able to detect the thieves or admit their own negligence. The skepticism of the commentators highlights the doubts surrounding this narrative. Why would the disciples risk their lives to steal the body secretly and then spread a false resurrection story? The lack of disciplinary action against the soldiers also undermines the priests' claims.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.4694762377682373,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                24.74,
+                38.71,
+                36.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

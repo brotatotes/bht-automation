@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:52:03",
+    "verseRef": "Matthew 23:13",
+    "bestBHT": {
+        "bht": "The religious leaders of the Jews are charged with shutting the door to the Kingdom of Heaven. By perverting Scripture's true interpretation and hiding the key of knowledge, they have blocked the entrance for those seeking to enter. Their hypocritical conduct and treatment of holy things have hindered their own entry and prevented others from entering. Through false teachings, they have obscured the simple gospel of Christ, shutting the door of the kingdom of heaven in men's faces and bringing woe upon themselves.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.093657092223136,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+        "commentatorTierSimilarities": [
+            31.82,
+            37.2,
+            30.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Key being, not the Key of, i.e. admitting to, Knowledge, but the Key which is the Knowledge itself, the true simple interpretation of Scripture, which would have admitted them, and caused them to admit others, into the Kingdom of Heaven.",
+            "By their perverse interpretations they had shut out both themselves\u2014and others from it.",
+            "They shut the door as it were in men\u2019s faces who were entering."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They are charged with shutting heaven against men...",
+            "They are charged with... taking away the key - 'the key of knowledge'...",
+            "A right knowledge of God's revealed word is eternal life..."
+        ],
+        "Albert Barnes": [
+            "This most eloquent, most appalling, and most terrible of all discourses ever delivered to mortals was pronounced in the temple, in the presence of multitudes.",
+            "Never was there more faithful dealing, more terrible reproof, more profound knowledge of the workings of hypocrisy, or more skill in detecting the concealments of sin.",
+            "They had taken away the key of knowledge, and thus prevented their entering in - that is, they had taken away the right interpretation of the ancient prophecies respecting the Messiah, and thus had done all that they could to prevent the people from receiving Jesus as their Redeemer."
+        ],
+        "Marvin Vincent": [
+            "The hypocrite is, therefore, etymologically, an actor.\" ",
+            "They shut the door in men's faces."
+        ],
+        "John Calvin": [
+            "Christ pronounces a curse on them, because they pervert their office to the general destruction of the whole people.",
+            "What purpose is served by religion and holy doctrine but to open heaven to us?",
+            "Heaven is shut by Popery against the wretched people, while the very pastors\u2014or, at least, those who hold that office\u2014prevent them by their tyranny from being opened."
+        ],
+        "Philip Schaff": [
+            "Sin results in 'woe.'\" ",
+            "Their sin was two-fold: not entering themselves; and by both example and false teaching, keeping back the people who even now were disposed to enter.",
+            "This is the chief sin of Pharisaism: by outward ceremonies and false self-righteous teaching, obscuring the simple gospel of Christ, thus shutting the door of the kingdom of heaven in men\u2019s faces."
+        ],
+        "Archibald T. Robertson": [
+            "This hardest word from the lips of Jesus falls on those who were the religious leaders of the Jews (Scribes and Pharisees), who had justified this thunderbolt of wrath by their conduct toward Jesus and their treatment of things high and holy.\" ",
+            "It is a tragedy to think how preachers and teachers of the kingdom of God may block the door for those who try to enter in.",
+            "They hide the key to keep others from going in."
+        ],
+        "John Gill": [
+            "for ye shut up the kingdom of heaven against men\": not eternal life and happiness, the entrance into which can neither be opened nor shut by men... though these men did all that in them lay, to hinder persons enjoying everlasting glory.",
+            "they, by their office, ought to have opened and explained the Scriptures, the prophecies of the Old Testament relating to the Messiah, and led the people into a knowledge of the mysteries of his kingdom, and encouraged them to enter into this new state of things; which, according to the true intent of Scripture, was to take place, and now did.",
+            "they neither believed in the Messiah themselves, nor embraced the doctrines relating to his person and office: have any of the Pharisees believed on him? No; they received him not, they rejected him... nor would they suffer others, that were inclined to profess their faith in him, and be baptized, to do it; but discouraged them all they could."
+        ],
+        "John Wesley": [
+            "Wo to you \u2014 Our Lord pronounced eight blessings upon the mount: he pronounces eight woes here; not as imprecations, but solemn, compassionate declarations of the misery, which these stubborn sinners were bringing upon themselves.",
+            "Ye go not in \u2014 For ye are not poor in spirit; and ye hinder those that would be so."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They, the religious leaders of the Jews, are charged with shutting the door to the Kingdom of Heaven by perverting the true interpretation of Scripture and hiding the key of knowledge. By their conduct toward Jesus and their treatment of holy things, they have acted as hypocrites and blocked the entrance for those seeking to enter. This most eloquent and appalling discourse was delivered in the temple, in the presence of multitudes, and it serves as a profound rebuke to the Pharisees and Scribes. They have not entered themselves, and through their false teaching and outward ceremonies, they have obscured the simple gospel of Christ and shut the door of the kingdom of heaven in men's faces. Their sin is two-fold, for they not only hinder their own entry but also prevent others from entering, leading to woe and the general destruction of the people.",
+            "wordCount": 147,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.140071144107889,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                27.94,
+                39.8,
+                32.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders of the Jews have shut the door to the Kingdom of Heaven by perverting Scripture's true interpretation and hiding the key of knowledge. Their hypocritical conduct and treatment of holy things have blocked the entrance for those seeking to enter. This severe reproof was delivered in the temple, and the Pharisees and Scribes, as hypocrites, have not entered themselves and have prevented others from entering. Through false teachings, they have obscured the gospel of Christ and shut the door of the kingdom of heaven in men's faces.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.087526901128415,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                30.23,
+                38.03,
+                31.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders of the Jews are charged with shutting the door to the Kingdom of Heaven. By perverting Scripture's true interpretation and hiding the key of knowledge, they have blocked the entrance for those seeking to enter. Their hypocritical conduct and treatment of holy things have hindered their own entry and prevented others from entering. Through false teachings, they have obscured the simple gospel of Christ, shutting the door of the kingdom of heaven in men's faces and bringing woe upon themselves.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.093657092223136,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                31.82,
+                37.2,
+                30.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders of the Jews stand accused of shutting the door to the Kingdom of Heaven. By perverting Scripture's true interpretation and hiding the key of knowledge, they have denied access not only for themselves but for others as well. Their hypocritical conduct, treatment of holy things, and false teachings have obscured the simple gospel of Christ, blocking the entrance to the kingdom in men's faces. Their actions bring woe upon themselves and hinder those seeking to embrace the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.0188490514715065,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.47,
+            "commentatorTierSimilarities": [
+                31.01,
+                36.85,
+                32.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders of the Jews have shut the door to the Kingdom of Heaven. By perverting the true interpretation of Scripture and hiding the key of knowledge, they have not only hindered their own entry but also prevented others from entering. Through false teachings, they have obscured the simple gospel of Christ, blocking the entrance to the kingdom and bringing woe upon themselves. Their hypocritical conduct, treatment of holy things, and rejection of the Messiah have sealed the fate of those seeking to embrace the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.075441785675908,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                28.75,
+                37.81,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

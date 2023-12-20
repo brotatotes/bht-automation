@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:48:23",
+    "verseRef": "Matthew 15:9",
+    "bestBHT": {
+        "bht": "True worship is undermined when human authority and man-made traditions are elevated above God's commandments. Worship becomes empty and in vain when people substitute their own will and teachings for those of God. This will-worship draws upon them heavier condemnation as they neglect the true doctrines of the Bible and instead impose the orders and injunctions of men. By prioritizing the traditions of the elders over the commandments of God, they commit a heinous sin deserving of retribution.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.6459158022023364,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+        "commentatorTierSimilarities": [
+            0.0,
+            40.36,
+            59.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "In vain is God worshipped, when the will of men is substituted in the room of doctrine.",
+            "By these words, all kinds of will-worship are plainly condemned.",
+            "As soon as men allow themselves to wander beyond the limits of the Word of God, the more labor and anxiety they display in worshipping him, the heavier is the condemnation which they draw down upon themselves."
+        ],
+        "Philip Schaff": [
+            "A rebuke of religion, resting only on human authority.",
+            "Such religion becomes positively false, contrary to Goa's commandments.",
+            "The particular event then foretold being but one fulfillment of those deeper and more general declarations of God."
+        ],
+        "John Gill": [
+            "Their worship was merely outward, formal, and customary; and besides, they added doctrines and traditions of their own inventing and devising.",
+            "teaching the people to observe the traditions of the elders, the decrees and determinations of the doctors, as if they were doctrines delivered by God himself.",
+            "Instead of the doctrines contained in the Bible, which lay neglected by them, they obtruded on them the orders and injunctions of men."
+        ],
+        "John Wesley": [
+            "Teaching the commandments of men \u2014 As equal with, nay, superior to, those of God. What can be a more heinous sin?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True worship of God is not based on human authority or the addition of man-made doctrines and traditions to His commandments. When people substitute their own will and teachings for the Word of God, their worship becomes empty and in vain. It is condemned as will-worship, which draws upon them heavier condemnation. This condemnation arises from their outward, formal, and customary worship, which neglects the true doctrines contained in the Bible. Instead, they impose the orders and injunctions of men on the people, treating them as equal to or even superior to the commandments of God. This kind of willful disobedience is a serious sin.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.5397666138484978,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                41.56,
+                58.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True worship of God is not based on human authority or the addition of man-made doctrines and traditions to His commandments. When people substitute their own will and teachings for the Word of God, their worship becomes empty and in vain. It is condemned as will-worship, which draws upon them heavier condemnation. This condemnation arises from their outward, formal, and customary worship, which neglects the true doctrines contained in the Bible. Instead, they impose the orders and injunctions of men on the people, treating them as equal to or even superior to the commandments of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6226070183398025,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.63,
+                59.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True worship is undermined when human authority and man-made traditions are elevated above God's commandments. Worship becomes empty and in vain when people substitute their own will and teachings for those of God. This will-worship draws upon them heavier condemnation as they neglect the true doctrines of the Bible and instead impose the orders and injunctions of men. By prioritizing the traditions of the elders over the commandments of God, they commit a heinous sin deserving of retribution.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6459158022023364,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.36,
+                59.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True worship of God is rendered futile when human authority replaces sound doctrine and the commandments of God. Such will-worship, driven by outward rituals and the imposition of man-made traditions, draws heavier condemnation upon those who neglect the true teachings of the Bible. By prioritizing the teachings of men over God's commandments, they commit a grave sin deserving of retribution. The traditions of the elders are elevated to an equal or even superior status compared to God's word, further deepening the severity of their offense.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.5911584227191902,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.39,
+                59.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True worship of God is futile when human authority supersedes divine doctrine and commandments. Will-worship, characterized by outward rituals and the imposition of man-made traditions, invites condemnation upon those who neglect the teachings of the Bible. When people prioritize the teachings of men over God's commandments, they commit a grave sin deserving of retribution. Elevating the traditions of the elders to an equal or superior status to God's word intensifies the severity of their offense.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5661058069367673,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.62,
+                59.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

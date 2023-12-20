@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:46:11",
+    "verseRef": "Matthew 10:34",
+    "bestBHT": {
+        "bht": "Christ's coming brings about inevitable strife and divisions, as seen in the conflicts that arise within families due to conversions to Christianity. He did not come to establish earthly peace, but rather to bring a sword\u2014a symbol of the deadly opposition between eternal principles. This sword could represent the Gospel, which acts as a means of separating the followers of Christ from the world. Christ's purpose is not to compromise with evil, but to conquer it through the triumph of the cross, establishing the kingdom of God as a realm of righteous power.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.9081039338858854,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+        "commentatorTierSimilarities": [
+            32.84,
+            23.77,
+            43.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As He won His way to victory thro the contradiction of sinners and strife, so must those who come after Him.",
+            "The immediate reference is to the divisions in families owing to conversions to Christianity.",
+            "When we read in Commentators that these divisions were not the purpose, but the inevitable results only, of the Lord\u2019s coming, we must remember that with God, results are all purposed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Think not that I am come to send peace on earth: I came not to send peace, but a sword.\" ",
+            "Strife, discord, conflict; deadly opposition between eternally hostile principles.\" ",
+            "Penetrating into and rending asunder the dearest ties."
+        ],
+        "Marvin Vincent": [
+            "By this word the expectancy of the disciples is dramatically pictured, as if he represented them as eagerly looking up for peace as something to be flung down upon the earth from heaven.",
+            "All are on tiptoe of expectation. What is it that is about to happen? Is it the reign of peace that is just about to be inaugurated and consummated?",
+            "As they must and debate, lo! a sword is flung into the midst."
+        ],
+        "Philip Schaff": [
+            "Think not, as you naturally might.",
+            "He was revealed 'that He might destroy the works of the devil' (1 John 3:8); the inevitable result of His coming into a world lying under the wicked one, is strife.",
+            "The 'peace on earth' of which the angels sang (Luke 2:14) is not earthly peace, but God\u2019s peace among God\u2019s chosen ones."
+        ],
+        "Archibald T. Robertson": [
+            "I came not to send peace, but a sword.\" ",
+            "Christ does bring peace, not as the world gives, but it is not the force of compromise with evil, but of conquest over wrong, over Satan, the triumph of the cross.",
+            "The Cross is Christ's answer to the devil's offer of compromise in world dominion. For Christ the kingdom of God is virile righteousness, not mere emotionalism."
+        ],
+        "John Gill": [
+            "Think not ye that I am come to send peace on earth... I came, not to send peace, but a sword.",
+            "By the 'sword' may be meant the Gospel, which is the means of dividing and separating the people of Christ from the men of the world.",
+            "Not that it was the intention and design of Christ, in coming into the world, to foment and encourage such things; but this, through the malice and wickedness of men, was eventually the effect and consequence of his coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the strife and divisions that will arise in families due to conversions to Christianity, illustrating the inevitable results of Christ's coming. Christ did not come to establish earthly peace, but rather to bring a sword, representing the deadly opposition between eternally hostile principles. This sword, which may refer to the Gospel, serves as a means of dividing and separating the people of Christ from the men of the world. Christ's purpose is not to compromise with evil, but to conquer it through the triumph of the cross, establishing the kingdom of God as virile righteousness.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9916300423048707,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                32.59,
+                20.43,
+                46.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coming of Christ inevitably brings about strife and divisions within families. Christ did not come to establish peace on earth, but rather to bring a sword\u2014a symbol of the conflict between opposing principles. This sword represents the Gospel, which separates the people of Christ from the world. It is not Christ's intention to encourage such divisions; rather, they are the result of human malice and wickedness. Through the triumph of the cross, Christ conquers evil and establishes the kingdom of God as a realm of righteousness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8469326375314616,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "commentatorTierSimilarities": [
+                31.58,
+                20.78,
+                47.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's coming brings about inevitable strife and divisions, as seen in the conflicts that arise within families due to conversions to Christianity. He did not come to establish earthly peace, but rather to bring a sword\u2014a symbol of the deadly opposition between eternal principles. This sword could represent the Gospel, which acts as a means of separating the followers of Christ from the world. Christ's purpose is not to compromise with evil, but to conquer it through the triumph of the cross, establishing the kingdom of God as a realm of righteous power.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.9081039338858854,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                32.84,
+                23.77,
+                43.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The coming of Christ results in strife and divisions within families due to conversions to Christianity. Through the triumph of the cross and the Gospel's separating power, Christ conquers evil, establishing the kingdom of God as a realm of righteous power. His purpose is not to compromise with evil, but to bring about the deadly opposition between eternal principles. Christ's arrival is not for the purpose of sending peace on earth, but rather to bring a sword\u2014a symbol of the conflicts that arise from His coming.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.809610675280608,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                32.66,
+                25.73,
+                41.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The coming of Christ into the world inevitably leads to strife and divisions within families as a result of conversions to Christianity. While it may seem contradictory, Christ did not come to establish earthly peace. Instead, He brings a sword, representing the deadly opposition between eternal principles. This sword may refer to the Gospel, which separates the followers of Christ from the world. Christ's purpose is not to compromise with evil, but to conquer it through the triumph of the cross, establishing the kingdom of God characterized by righteous power.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8169475943616307,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                33.86,
+                22.46,
+                43.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

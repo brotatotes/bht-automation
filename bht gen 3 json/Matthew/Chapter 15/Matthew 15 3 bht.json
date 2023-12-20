@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:48:28",
+    "verseRef": "Matthew 15:3",
+    "bestBHT": {
+        "bht": "Jesus confronts the Pharisees, acknowledging the negligence of his disciples, but emphasizing their transgression of God's commandment by adhering to man-made traditions. He exposes their hypocrisy and the heavy transgressions caused by the tradition of the elders. Jesus challenges their devotion to these traditions, highlighting his stand for true righteousness and spiritual freedom, contrasting it with bondage to mere ceremonialism. He drives back their actions by questioning their prioritization of tradition over God's commandment.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.1661611439616513,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.37,
+        "commentatorTierSimilarities": [
+            32.17,
+            38.11,
+            29.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The also implies that there was a transgression also on their part\u2014acknowledging that on the part of the disciples.\" ",
+            "A remarkable testimony from our Lord to the divine origin of the Mosaic law.",
+            "It is to be observed that where the text has God commanded, Mark (vii. 10) has Moses said."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why do ye also transgress the commandment of God by your tradition?\" ",
+            "The tradition they transgress is but man's, and is itself the occasion of heavy transgression.",
+            "Undermining the authority of God's law."
+        ],
+        "Marvin Vincent": [
+            "Whether the disciples transgress or not, you are the greatest transgressors.\" ",
+            "The one question is met with the other in the same style.\" ",
+            "He places one wedge against the other, and therewith drives the first back."
+        ],
+        "John Calvin": [
+            "They did not openly or professedly set aside the law of God, so as to look upon any thing as lawful which the law had forbidden; but there was an indirect transgression of it.",
+            "Whenever we are so eager to keep the laws of men as to bestow less care and attention on keeping the law of God itself, we are held as transgressing it.",
+            "It is utterly insufferable that the enactments of men shall withdraw any part of that obedience which is due to God alone."
+        ],
+        "Philip Schaff": [
+            "Why do ye also transgress? The neglect is acknowledged, but the tradition attacked.",
+            "For the sake of your tradition, i.e., you break God's law, in order that you may keep your (human) tradition.",
+            "The direct command of God was set aside for tradition by those who claimed to be the strictest observers of the written law of God."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus treats it as a matter of no great importance in itself save as they had put the tradition of the elders in the place of the commandment of God.\" ",
+            "Custom tended to make these traditions binding like law.\" ",
+            "He stands for real righteousness and spiritual freedom, not for bondage to mere ceremonialism and tradition."
+        ],
+        "John Gill": [
+            "But he answered and said unto them... why do you also transgress the commandment of God by your tradition?\" ",
+            "That his disciples, at most, were but guilty of the breach of an human precept, whereas they were guilty of the breach of a divine command.\" ",
+            "If by keeping the traditions of the elders, they broke the commands of God, it was a very good reason why they should not observe them."
+        ],
+        "John Wesley": [
+            "They wash not their hands when they eat bread \u2014 Food in general is termed bread in Hebrew; so that to eat bread is the same as to make a meal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus confronts the Pharisees for transgressing the commandment of God by their tradition, revealing their hypocrisy. He acknowledges the negligence of his disciples, but emphasizes that the tradition they transgress is merely man-made and undermines the authority of God's law. Jesus contrasts their devotion to tradition with real righteousness and spiritual freedom, highlighting that he stands against bondage to mere ceremonialism. He challenges them, placing one wedge against the other, driving back the first. Despite the disciples' breach of a human precept, the Pharisees are the greatest transgressors for breaking a divine command. This interaction exposes the Pharisees' tendency to prioritize the laws of men over the law of God, an attitude that Jesus calls insufferable.",
+            "wordCount": 118,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 2.0691344434408383,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                30.81,
+                35.93,
+                33.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus confronts the Pharisees' transgression of God's commandment through their tradition. He exposes their hypocrisy, emphasizing that their tradition is mere man-made and undermines God's law. Jesus challenges their devotion to tradition, asserting that he stands for spiritual freedom and true righteousness, not bondage to ceremonialism. By placing one wedge against the other, he addresses their negligence while highlighting their greater transgressions. He reveals how they prioritize human precepts over divine commands, an attitude he finds utterly insufferable.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0402958639127298,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.18,
+            "commentatorTierSimilarities": [
+                30.14,
+                37.27,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confronts the Pharisees for their transgression of God's commandment through their tradition, exposing their hypocrisy. He highlights that their tradition is man-made and undermines the authority of God's law. Jesus challenges their devotion to tradition, emphasizing his stand for spiritual freedom and true righteousness, rather than mere ceremonialism. By driving one wedge against another, he exposes their greater transgressions and reveals their prioritization of human precepts over divine commands, which he finds utterly insufferable.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.1555838352592103,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                30.63,
+                37.98,
+                31.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confronts the Pharisees for transgressing the commandment of God with their tradition. He highlights that their tradition is man-made, undermining the authority of God's law and imposing heavy transgression. Jesus contrasts their devotion to tradition with real righteousness and spiritual freedom, challenging their negligence and placing one wedge against the other. He exposes their tendency to prioritize human precepts over divine commands, which he finds utterly insufferable.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.164458226061175,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.31,
+            "commentatorTierSimilarities": [
+                30.13,
+                38.16,
+                31.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus confronts the Pharisees, acknowledging the negligence of his disciples, but emphasizing their transgression of God's commandment by adhering to man-made traditions. He exposes their hypocrisy and the heavy transgressions caused by the tradition of the elders. Jesus challenges their devotion to these traditions, highlighting his stand for true righteousness and spiritual freedom, contrasting it with bondage to mere ceremonialism. He drives back their actions by questioning their prioritization of tradition over God's commandment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.1661611439616513,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.37,
+            "commentatorTierSimilarities": [
+                32.17,
+                38.11,
+                29.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

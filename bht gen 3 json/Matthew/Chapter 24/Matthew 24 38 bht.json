@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:52:28",
+    "verseRef": "Matthew 24:38",
+    "bestBHT": {
+        "bht": "During Noah's time, people were consumed with eating and drinking, oblivious to the impending destruction. They were so absorbed in worldly pleasures that they neglected to prepare for the catastrophe that awaited them. Their excessive preoccupation with indulgence in food and drink, and their refusal to acknowledge the impending judgment, was a cause for concern. This ignorance and sinful behavior ultimately led to their unpreparedness for the impending judgment.",
+        "wordCount": 70,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 1.3277778586090823,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+        "commentatorTierSimilarities": [
+            19.38,
+            36.95,
+            43.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression drinking may serve to shew that it is a mistake to imagine that we have in Gen. ix. 20 the account of the first wine and its effects.",
+            "The security here spoken of is in no wise inconsistent with the anguish and fear prophesied, Luke xxi. 25, 26. They say, there is peace, and occupy themselves as if there were: but fear is at their hearts.",
+            "On the addition in Luke xxi. 34\u201336, see notes there."
+        ],
+        "Albert Barnes": [
+            "The things mentioned here denote attention to the affairs of this life rather than to what was coming on them.",
+            "It does not mean that these things were wrong, but only that such was their actual employment.",
+            "They were regardless of what was coming upon them."
+        ],
+        "Philip Schaff": [
+            "They were eating and drinking, seeking their enjoyment, not expecting the catastrophe.",
+            "The verse does not at all imply that Christ\u2019s people are to cease their ordinary employments, in expectation of the coming of Christ.",
+            "Absorption in these things is censured."
+        ],
+        "Archibald T. Robertson": [
+            "Were eating (\u03b7\u03c3\u03b1\u03bd \u03c4\u03c1\u03c9\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2). Periphrastic imperfect. The verb means to chew raw vegetables or fruits like nuts or almonds. "
+        ],
+        "John Gill": [
+            "Not that these civil actions of life were criminal in themselves, had care been taken that they were not abused.",
+            "Wherefore these things may be spoken of them, as what were really sinful and wicked, and denote a course of sinning, a constant practice of these sins of intemperance and lust.",
+            "Now the men of that generation persisted in their wicked course of living, after, and notwithstanding, the warning God had given them by Noah, of the flood that would come upon them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "People in Noah's time were consumed with eating and drinking, oblivious to the impending destruction. The commentary emphasizes that their indulgence in food and drink was not inherently sinful, but it became a problem due to their lack of concern for the future and their refusal to acknowledge the impending judgment. While these actions in themselves were not wrong, their excessive preoccupation with worldly pleasures distracted them from the reality of God's impending judgment. Their ignorance and sinful behavior caused them to be unprepared for the catastrophe that would ultimately befall them.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4160371508745295,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.43,
+            "commentatorTierSimilarities": [
+                20.15,
+                34.1,
+                45.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During Noah's time, people were too focused on indulging in food and drink, neglecting to recognize the imminent destruction. Although their actions were not inherently sinful, their lack of concern for the future and refusal to acknowledge the impending judgment proved problematic. By becoming absorbed in worldly pleasures, they failed to prepare for the catastrophe that awaited them. This ignorance and sinful behavior ultimately led to their unpreparedness for the impending judgment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.2821436761895346,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.97,
+            "commentatorTierSimilarities": [
+                17.02,
+                34.59,
+                48.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During Noah's time, people were consumed with eating and drinking, oblivious to the impending destruction. They were so absorbed in worldly pleasures that they neglected to prepare for the catastrophe that awaited them. Their excessive preoccupation with indulgence in food and drink, and their refusal to acknowledge the impending judgment, was a cause for concern. This ignorance and sinful behavior ultimately led to their unpreparedness for the impending judgment.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.3277778586090823,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                19.38,
+                36.95,
+                43.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During Noah's time, the people were so engrossed in eating and drinking that they paid no attention to the looming catastrophe. Their indulgence in worldly pleasures and their lack of concern for the future revealed a deep sense of ignorance and sinfulness. They failed to prepare for the impending judgment because of their excessive preoccupation with satisfying their desires. As a result, they were unprepared and unaware of the destruction that awaited them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.3037605765149252,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.69,
+            "commentatorTierSimilarities": [
+                19.28,
+                37.96,
+                42.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During Noah's time, people were consumed with eating and drinking, oblivious to the impending destruction. The commentary highlights that their indulgence in food and drink was not inherently sinful, but it became problematic due to their lack of concern for the future and refusal to acknowledge the impending judgment. Their excessive preoccupation with worldly pleasures caused them to be unprepared for the catastrophe that would eventually befall them. The commentary emphasizes the ignorance and sinful behavior of that generation, who persisted in their wicked lifestyle despite Noah's warning.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4155870741558405,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                21.39,
+                30.98,
+                47.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

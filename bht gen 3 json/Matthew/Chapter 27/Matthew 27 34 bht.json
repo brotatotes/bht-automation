@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:54:30",
+    "verseRef": "Matthew 27:34",
+    "bestBHT": {
+        "bht": "Jesus, fulfilling prophecies, refused the stupefying drink meant for criminals, showing awareness of its purpose. The myrrh improved the flavor of the drink and had a narcotic effect. While debated whether wine or vinegar, Jesus willingly endured the unmitigated sufferings of the cross, displaying obedience to his Father's will. His actions exemplified patience, readiness to bear full force of his pain, and the desire to drink the cup given to him, symbolizing acceptance of his impending crucifixion.",
+        "wordCount": 78,
+        "quoteTokenProportion": 26.32,
+        "qualityScore": 2.0406185132962653,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+        "commentatorTierSimilarities": [
+            32.78,
+            30.03,
+            37.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was customary to give a stupefying drink to criminals on their way to execution: of which our Lord would not partake, having shown by tasting it, that he was aware of its purpose.",
+            "We may observe here (and if the remark be applied with caution and reverence, it is a most useful one), how St. Matt. often adopts in his narrative the very words of prophecy, where one or more of the other Evangelists give the matter of fact detail.",
+            "See above on ch. xxvi. 15, and compare with this verse, Ps. lxix. 21."
+        ],
+        "Albert Barnes": [
+            "Vinegar was made of light wine rendered acid, and was the common drink of the Roman soldiers, and this might be called either vinegar or wine in common language.",
+            "The drink, therefore, was vinegar or sour wine, rendered 'bitter' by the infusion of wormwood or some other very bitter substance.",
+            "He came to suffer. His sorrows were necessary for the work of the atonement, and he gave himself up to the unmitigated sufferings of the cross."
+        ],
+        "Marvin Vincent": [
+            "Wine [\u03bf\u03b9\u03bd\u03bf\u03bd] . The older texts read oxov, vinegar. The compound of wine and gall was intended as a stupefying draught."
+        ],
+        "John Calvin": [
+            "But he patiently bore his torments, so that the lingering pain did not lead him to desire that his death should be hastened; for even this was a part of his sacrifice and obedience, to endure to the very last the lingering exhaustion.",
+            "Christ, as I have just now hinted, was not led to refuse the wine or vinegar so much by a dislike of its bitterness, as by a desire to show that he advanced calmly to death, according to the command of the Father, and that he did not rush on heedlessly through want of patience for enduring pain.",
+            "the two accounts perfectly agree with each other; that a remedy was given to him in order to put an end to the torments of a lingering death, and yet that Christ was in every respect treated with harshness, so that the very alleviation was a part, or rather was an augmentation, of his pain."
+        ],
+        "Philip Schaff": [
+            "Wine, according to the best authorities; but the sour wine used might be called 'vinegar.'",
+            "The term 'gall' was applied to many bitter substances, including 'myrrh.'",
+            "He would drink of the cup His Father had given Him, but not of this."
+        ],
+        "Archibald T. Robertson": [
+            "The myrrh gave the sour wine a better flavour and like the bitter gall had a narcotic and stupefying effect.",
+            "Both elements may have been in the drink which Jesus tasted and refused to drink.",
+            "Jesus desired to drink to the full the cup from his Father's hand."
+        ],
+        "John Gill": [
+            "The design of it was to cheer their spirits, and intoxicate their heads, that they might not be sensible of their pain and misery.",
+            "The potion of vinegar with gall, was an aggravating circumstance in our Lord's sufferings, being given to him when he had a violent thirst upon him; and was an emblem of the bitter cup of God's wrath, he had already tasted of in the garden, and was about to drink up.",
+            "He would make use of no means either to prolong his life, or discompose his mind; and that it might appear he knew what he did, and that he was not afraid nor unwilling to die; though he thought fit to taste of it in a superficial way, to show he did not despise nor resent their offer; and that he was really athirst, and ready to drink a more disagreeable potion than that."
+        ],
+        "John Wesley": [
+            "They gave him vinegar mingled with gall \u2014 Out of derision: which, however nauseous, he received and tasted of.",
+            "Wine mingled with myrrh: such as it was customary to give to dying criminals, to make them less sensible of their sufferings.",
+            "But this our Lord refused to taste, determining to bear the full force of his pains."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In fulfilling the prophecies, Matthew often uses the exact words of prophecy in his narrative. Jesus, aware of the purpose of the stupefying drink, refused to partake in it. The myrrh in the drink gave it a better flavor and a narcotic effect. While it is debated whether the drink consisted of wine or vinegar, Jesus willingly endured the unmitigated sufferings of the cross and refused to drink anything that would hasten his death. Instead, he desired to drink the cup that his Father had given him. His refusal to drink the bitter gall and vinegar demonstrated his obedience and patience in enduring the lingering exhaustion and pain. By tasting the drink, he showed that he was not afraid or unwilling to die, but rather ready to bear the full force of his pains.",
+            "wordCount": 134,
+            "quoteTokenProportion": 30.86,
+            "qualityScore": 2.0222000276293004,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                32.24,
+                31.51,
+                36.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, fulfilling prophecies, refused the stupefying drink meant for criminals, showing awareness of its purpose. While debated whether the drink included wine or vinegar, the myrrh improved its flavor and had a narcotic effect. By refusing to drink, Jesus willingly endured the unmitigated sufferings of the cross, displaying obedience to his Father's will. His actions exemplified patience and the willingness to bear the full force of his pain. He desired to drink the cup given to him, demonstrating his readiness to face the bitter gall and vinegar, symbolizing his obedience and acceptance of his impending crucifixion.",
+            "wordCount": 97,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.9746025828382847,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                31.23,
+                29.96,
+                38.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, fulfilling prophecies, refused the stupefying drink meant for criminals, showing awareness of its purpose. The myrrh improved the flavor of the drink and had a narcotic effect. While debated whether wine or vinegar, Jesus willingly endured the unmitigated sufferings of the cross, displaying obedience to his Father's will. His actions exemplified patience, readiness to bear full force of his pain, and the desire to drink the cup given to him, symbolizing acceptance of his impending crucifixion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.0406185132962653,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                32.78,
+                30.03,
+                37.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In fulfilling the prophecies, Matthew often adopts the very words of prophecy in his narrative. Jesus, aware of the purpose, refused the stupefying drink meant for criminals. The myrrh improved the flavor and had a narcotic effect. While debated whether wine or vinegar, Jesus willingly endured the unmitigated sufferings of the cross, displaying obedience to his Father's will. His actions exemplified patience and the willingness to bear his pain. He desired to drink the cup given to him, symbolizing acceptance of his impending crucifixion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.780110091927753,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                32.69,
+                29.99,
+                37.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In fulfilling prophecies, Matthew often uses the exact words of prophecy. Jesus, aware of the purpose, refused the stupefying drink meant for criminals. The myrrh improved the flavor and had a narcotic effect. While debated whether wine or vinegar, Jesus willingly endured the unmitigated sufferings of the cross, displaying obedience to his Father's will. His actions exemplified patience and the willingness to bear his pain, symbolizing acceptance of his impending crucifixion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7589527204526338,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                33.51,
+                30.2,
+                36.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

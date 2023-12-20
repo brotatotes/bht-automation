@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:51:43",
+    "verseRef": "Matthew 23:2",
+    "bestBHT": {
+        "bht": "The authority of the Pharisees and Scribes lies in their interpretation of Moses' law, which should be obeyed. However, their conduct should not be emulated. While the scribes sit in the chair of Moses to expound the Scriptures, it is important for Christians to avoid having leaders sitting on the seat of Christ. The distinction between the holy Law of God and the actions of the Pharisees is crucial, and adherence to the pure and simple exposition of the Law should guide one's following of the scribes.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.372837756995316,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+        "commentatorTierSimilarities": [
+            29.74,
+            34.57,
+            35.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In so far as the Pharisees and Scribes enforce the law and precepts of Moses, obey them: but imitate not their conduct.",
+            "The verb rendered sit must not be pressed too strongly, as conveying blame,\u2014 'have seated themselves;\u2014 it is merely stated here as a matter of fact.",
+            "Vv. 8, 10 however apply to their leadership as well as their faults; and declare that among Christians there are to be none sitting on the seat of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The scribes and the Pharisees sit\u2014The Jewish teachers stood to read, but sat to expound the Scriptures.\" ",
+            "in Moses' seat\u2014that is, as interpreters of the law given by Moses."
+        ],
+        "Albert Barnes": [
+            "Moses\u2019 seat - Moses was the great legislator of the Jews. By him the Law was given.",
+            "The office of explaining that Law among the Jews devolved on the scribes and Pharisees.",
+            "By \u201csitting in the seat of Moses\u201d we are to understand authority to teach the Law."
+        ],
+        "Marvin Vincent": [
+            "Moses ' seat [\u03ba\u03b1\u03b8\u03b5\u03b4\u03c1\u03b1\u03c2] . Or chair, as Wyc., in allusion to the practice of teachers sitting."
+        ],
+        "John Calvin": [
+            "That the word scribes, agreeably to the Hebrew idiom, denotes the teachers or expounders of the Law, is well known.",
+            "The design of Christ was, to distinguish the holy Law of God from their profane works.",
+            "Hence it is evident, that Christ exhorts the people to obey the scribes, only so far as they adhere to the pure and simple exposition of the Law."
+        ],
+        "Philip Schaff": [
+            "Theologians, from the nature of their pursuits, are in more danger of becoming Pharisees than Sadducees.",
+            "Sit in Moses' seat, as judges and expounders of the law.",
+            "Under Roman rule, the function of the Sanhedrin, composed mainly of Pharisees, was limited to this."
+        ],
+        "Archibald T. Robertson": [
+            "The 'seat of Moses' is a brief form for the chair of the professor whose function it is to interpret Moses.",
+            "The heirs of Moses' authority by an unbroken tradition can deliver ex cathedra pronouncements on his teaching.",
+            "The gnomic or timeless aorist tense, \u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b1\u03bd, not the aorist 'for' the perfect."
+        ],
+        "John Gill": [
+            "Saying, the Scribes and Pharisees,.... The Persic version adds, the priests: but Christ does not here speak of the sanhedrim, or grand council of the nation, and of their legislative power...",
+            "they read his law, and explained it to the people: this post and place, as yet, they kept in the office they were, and were to continue; and the people were to regard them so far as they spoke consistent with the law...",
+            "until it had its full accomplishment in Christ...this custom of the synagogue was observed by our Lord; see Luke 4:16."
+        ],
+        "John Wesley": [
+            "The scribes sit in the chair of Moses \u2014 That is, read and expound the law of Moses, and are their appointed teachers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Scribes have authority to teach the Law and precepts of Moses, so it is important to obey them in that regard. However, their conduct is not to be imitated. While the verb sit should not be seen as conveying blame in this context, it is worth noting that the scribes and Pharisees sit to expound the Scriptures, indicating their role as interpreters of Moses' law. Christians, on the other hand, are not to have leaders sitting on the seat of Christ. The seat of Moses refers to the chair of the professor who interprets Moses' teachings. The scribes hold this authority by an unbroken tradition and can deliver pronouncements on his teaching. Ultimately, Christ's intention is to distinguish the holy Law of God from the works of the Pharisees, urging people to obey the scribes only when their teachings adhere to the pure and simple exposition of the Law.",
+            "wordCount": 153,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.3966670714021303,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.03,
+            "commentatorTierSimilarities": [
+                32.16,
+                33.3,
+                34.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Scribes hold authority to teach the Law of Moses and should be obeyed in that respect, although their behavior should not be emulated. While the scribes and Pharisees sit to expound the Scriptures, Christians must not have leaders sitting on the seat of Christ. The seat of Moses refers to the chair of the professor who interprets Moses' teachings, and the scribes possess this authority through an unbroken tradition. It is crucial to distinguish God's holy Law from the actions of the Pharisees and to follow the scribes only when they adhere to the pure and simple exposition of the Law.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.7684848568945553,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.39,
+            "commentatorTierSimilarities": [
+                30.44,
+                33.96,
+                35.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 23:2, while the Pharisees and Scribes are to be obeyed in their role as interpreters of Moses' law, their conduct should not be imitated. The scribes sit in the chair of Moses as teachers and expounders of the Law, but Christians should not have leaders sitting on the seat of Christ. It's important to distinguish between the holy Law of God and the actions of the Pharisees, and to follow the scribes only when their teachings align with the pure and simple exposition of the Law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.832665633671116,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.52,
+            "commentatorTierSimilarities": [
+                29.01,
+                34.27,
+                36.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Scribes, as interpreters of Moses' law, should be obeyed in that regard. However, their behavior should not be imitated. The scribes sit in the chair of Moses as teachers and expounders of the Law, while Christians are not to have leaders sitting on the seat of Christ. It's crucial to distinguish between the holy Law of God and the actions of the Pharisees. Only when the scribes adhere to the pure and simple exposition of the Law should they be followed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.326887977465645,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.71,
+            "commentatorTierSimilarities": [
+                28.7,
+                34.54,
+                36.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The authority of the Pharisees and Scribes lies in their interpretation of Moses' law, which should be obeyed. However, their conduct should not be emulated. While the scribes sit in the chair of Moses to expound the Scriptures, it is important for Christians to avoid having leaders sitting on the seat of Christ. The distinction between the holy Law of God and the actions of the Pharisees is crucial, and adherence to the pure and simple exposition of the Law should guide one's following of the scribes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.372837756995316,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+            "commentatorTierSimilarities": [
+                29.74,
+                34.57,
+                35.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:44:54",
+    "verseRef": "Matthew 8:7",
+    "bestBHT": {
+        "bht": "The centurion urgently asks Jesus to heal his servant, emphasizing the need for medical treatment. Jesus responds by assuring the centurion that the servant shall be healed, employing a word that conveys the promise of restoration to health. Luke's account adds more depth to the narrative, describing multiple messengers sent by the centurion. Jesus not only promises immediate healing but also demonstrates his willingness to respond to faith, displaying the power of believing in him.",
+        "wordCount": 76,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.752738789942899,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+        "commentatorTierSimilarities": [
+            42.03,
+            26.13,
+            31.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Heal [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c3\u03c9] . So A. V. and Rev. The word, however, originally means to attend, and to treat medically.",
+            "The centurion uses another and stronger word, shall be healed [\u03b9\u03b1\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9].",
+            "Jesus healed [\u03b9\u03b1\u03c4\u03bf] all who had need of treatment [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03b9\u03b1\u03c2]."
+        ],
+        "Philip Schaff": [
+            "And Jesus saith unto him, to those whom he sent (Luke 7:6): I will come and heal him.\" ",
+            "According to Luke, our Lord went, expressing in act the willingness here expressed in word.\" ",
+            "On the way the occurrences mentioned in the next verses took place."
+        ],
+        "Archibald T. Robertson": [
+            "The word here for heal (\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c3\u03c9) means first to serve, give medical attention, then cure, restore to health.",
+            "In Acts 28:8 Luke uses \u03b9\u03b1\u03c3\u03b1\u03c4\u03bf of the miraculous healings in Malta by Paul while he employs \u03b5\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03bf\u03bd\u03c4\u03bf (Acts 28:9) apparently of the practice of Luke the physician.",
+            "Matthew represents the centurion himself as speaking to Jesus while Luke has it that two committees from the centurion brought the messages, apparently a more detailed narrative."
+        ],
+        "John Gill": [
+            "This answer of Christ's, which is short and full, not only shows the readiness of Christ to do good, how soon and easily he complied with the centurion's request...",
+            "...but also contains an absolute promise that he would heal him. He does not say that he would come and see him, and what his case was, and do what he could for him, as ordinary physicians do; but he would come and heal him at once...",
+            "Christ cannot deny anything to faith, his presence or assistance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The centurion in Matthew 8:7 asks Jesus to heal his servant, using a word that emphasizes the idea of attending to and treating medically. Jesus responds by affirming that the servant shall be healed, using a stronger word for healing. This exchange displays Jesus' willingness to serve and restore to health. In Luke's account, committees are sent by the centurion to relay the message, offering a more detailed narrative. Jesus not only promises to heal the servant but also emphasizes the immediacy of his action, declaring that he would heal him at once. This exchange highlights the power of faith in Christ, who readily responds to the requests of those who believe in him.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.7219105110949338,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "commentatorTierSimilarities": [
+                39.16,
+                28.94,
+                31.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The centurion urgently asks Jesus to heal his servant, emphasizing the need for medical treatment. Jesus responds by assuring the centurion that the servant shall be healed, employing a word that conveys the promise of restoration to health. Luke's account adds more depth to the narrative, describing multiple messengers sent by the centurion. Jesus not only promises immediate healing but also demonstrates his willingness to respond to faith, displaying the power of believing in him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.752738789942899,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                42.03,
+                26.13,
+                31.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The centurion's request for healing highlights his understanding of Jesus' authority to attend to and treat medically. Jesus responds with a promise of complete restoration, using a stronger word for healing. Luke's account provides additional details, mentioning the committees sent by the centurion. This narrative emphasizes Jesus' willingness to respond promptly, promising immediate healing. It is a testament to the power of faith, as Christ readily answers the requests of those who believe in him, demonstrating his ability to provide both his presence and assistance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.6164399007954873,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.09,
+            "commentatorTierSimilarities": [
+                36.06,
+                27.91,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The centurion's plea for healing highlights his recognition of Jesus' ability to provide medical attention. Jesus assures him that his servant shall be healed, conveying a strong promise of restoration. Luke's account adds complexity, mentioning the involvement of multiple messengers. Jesus not only promises immediate healing but also underscores his responsiveness to faith. This encounter emphasizes the power of believing in Christ, who readily provides his presence and assistance to those who seek him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.4502716299474259,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.56,
+            "commentatorTierSimilarities": [
+                34.7,
+                26.31,
+                38.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The centurion's request for healing demonstrates his belief in Jesus' ability to treat and restore to health. Jesus responds by assuring the centurion that his servant shall be healed. Luke's account offers additional details, describing the messengers sent by the centurion. This interaction highlights Jesus' immediate willingness to respond to faith and provide healing. The encounter underscores the power of believing in Christ, who readily offers his presence and assistance to those who trust in him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.6188915769336254,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                37.21,
+                28.41,
+                34.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

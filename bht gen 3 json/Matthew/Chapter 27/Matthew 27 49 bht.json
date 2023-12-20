@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:54:24",
+    "verseRef": "Matthew 27:49",
+    "bestBHT": {
+        "bht": "In this account of Jesus' crucifixion, the bystanders mockingly call upon Him to wait for Elijah to come and save Him, while others refuse to let Him drink the vinegar offered. The misunderstanding and contempt displayed towards Jesus' true identity and purpose is evident. The use of the future participle in the text suggests a deliberate intention behind the mockery. This incident serves as a poignant reminder of the disbelief and ridicule Jesus endured during His sacrificial death.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5040129669465996,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+        "commentatorTierSimilarities": [
+            30.33,
+            36.56,
+            33.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We take our account as the strictly precise one.\" ",
+            "The rest - in mockery - call upon this person to desist, and wait for Elias to come and save Him.",
+            "The giver of the drink calls upon the rest to let this suffice, or to let him alone, and wait, &c."
+        ],
+        "Albert Barnes": [
+            "The rest said ... - Still deriding his sufferings, and refusing to allow even the poor consolation of a drink, to assuage the thirst of the Saviour of the world in his dying agonies."
+        ],
+        "Philip Schaff": [
+            "According to Mark, the man himself says this; giving Him the vinegar, in mingled pity and contempt.",
+            "he probably responded in the same mocking tone to the jest of the others.",
+            "This will sustain Him until Elijah comes."
+        ],
+        "Archibald T. Robertson": [
+            "The excuse had a pious sound as they misunderstood the words of Jesus in his outcry of soul anguish.",
+            "We have here one of the rare instances (\u03c3\u03c9\u03c3\u03c9\u03bd) of the future participle to express purpose in the N.T.",
+            "It was a crass mechanical copying by some scribe from John 19:34."
+        ],
+        "John Gill": [
+            "Let us see whether Elias will come to save him; whom the Jews looked upon to be the forerunner of the Messiah.\" ",
+            "They had a mighty notion of Elias appearing to persons frequently, and talking, and conversing with them.",
+            "They did not believe he [Elias] would come and appear to Christ, for they were persons of great note for piety and learning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the account of Jesus' crucifixion, the bystanders mockingly ask Him to wait for Elijah to come and save Him, while others refuse to allow Jesus to drink the vinegar offered to Him. These actions demonstrate both misunderstanding and contempt for Jesus' true identity and purpose. The use of the future participle in the text suggests a purposeful intention behind the mockery. This incident, often dismissed as a mere mechanical copying, serves as a stark reminder of the disbelief and ridicule Jesus endured during His sacrificial death.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4903025163643338,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.9,
+            "commentatorTierSimilarities": [
+                31.76,
+                34.44,
+                33.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account of Jesus' crucifixion, the bystanders mockingly call upon Him to wait for Elijah to come and save Him, while others refuse to let Him drink the vinegar offered. The misunderstanding and contempt displayed towards Jesus' true identity and purpose is evident. The use of the future participle in the text suggests a deliberate intention behind the mockery. This incident serves as a poignant reminder of the disbelief and ridicule Jesus endured during His sacrificial death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5040129669465996,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "commentatorTierSimilarities": [
+                30.33,
+                36.56,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the crucifixion narrative, bystanders mockingly ask Jesus to wait for Elijah to save Him, while others refuse to let Him drink the vinegar offered. This incident reveals a lack of understanding and contempt for who Jesus truly is and what He came to accomplish. The use of the future participle in the text indicates a purposeful intention behind the mockery. Despite being dismissed as a mere mechanical copying, this episode highlights the disbelief and ridicule Jesus endured during His sacrificial death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.4811023554125824,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                28.38,
+                37.74,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The bystanders at Jesus' crucifixion mockingly urge Him to wait for Elijah to save Him, while others deny Him the vinegar. These actions reveal a lack of comprehension and contempt for Jesus' true identity and purpose. The usage of the future participle implies a deliberate intent behind the mockery. Although some view this incident as a mere mechanical copy, it serves as a reminder of the disbelief and scorn Jesus endured during His sacrificial death.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.4894525194292254,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                31.45,
+                35.32,
+                33.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During Jesus' crucifixion, bystanders derisively tell Him to wait for Elijah to save Him, while others prevent Him from drinking the vinegar offered. These actions reflect a misunderstanding and contempt for Jesus' true identity and purpose. The future participle used in the text suggests purposeful mockery. Despite some dismissing it as a mechanical copy, this episode underscores the disbelief and ridicule Jesus experienced during His sacrificial death.",
+            "wordCount": 67,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4507810251116582,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                30.22,
+                34.94,
+                34.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

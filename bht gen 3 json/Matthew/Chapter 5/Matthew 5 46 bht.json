@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:44:09",
+    "verseRef": "Matthew 5:46",
+    "bestBHT": {
+        "bht": "Even the worst of men, like the publicans who were seen as the scum of the earth, can love those who love them. So when Jesus says that if you only love those who love you, you are not displaying any superior principle or evidence of genuine love, he's challenging his followers to rise above this natural inclination. It is easy for anyone, even the publicans, to show love to those who love them; it's a poor religion that doesn't inspire a higher love than what is natural to worldly men.",
+        "wordCount": 94,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 2.148167589605479,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+        "commentatorTierSimilarities": [
+            35.38,
+            38.01,
+            26.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Talmud classes them with thieves and assassins, and regards their repentance as impossible.",
+            "In interpreting these verses we must carefully give the persons spoken of their correlative value and meaning: ye, Christians, sons of God, the true theocracy, the Kingdom of heaven,\u2014these, 'publicans' or 'Gentiles,' men of this world, actuated by worldly motives.",
+            "'What thank have ye in being like them?'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In loving those who love you, there is no evidence of superior principle; the worst of men will do this: even a publican will go that length.",
+            "The meaning, then, is, 'In loving those who love you, there is no evidence of superior principle.'",
+            "The worst of men will do this: even a publican will go that length."
+        ],
+        "Albert Barnes": [
+            "If you only love those that love you, you are selfish; it is not genuine love for the 'character,' but love for the 'benefit,' and you deserve no commendation.\" (Commentary)",
+            "The very 'publicans' would do the same.\" (Commentary)",
+            "Christ says that even these wretched people would love their benefactors.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Not that the office is condemned in itself; for the publicans were collectors of taxes, and as princes have a right to impose taxes, so it is lawful to levy them from the people.",
+            "But they are so called, because men of this class are usually covetous and rapacious, nay, deceitful and cruel; and because among the Jews they were the agents of a wicked tyranny.",
+            "His meaning is: those who are nearly devoid of humanity have some appearance of discharging mutual duties, when they see it to be for their own advantage."
+        ],
+        "Philip Schaff": [
+            "If your action is simply in accordance with the precept of the Pharisees, what reward have ye? What merit is there in it?",
+            "Even such could love those that loved them, practising in this respect a morality as high as that of the Pharisees, who despised them.",
+            "It is a poor religion which does not beget a higher love than is natural to worldly men."
+        ],
+        "John Gill": [
+            "Do you deserve any thanks for your love now? [...] you have your reward with men, who have loved you as much as you have done them, and therefore none can be due to you, either from God or men.",
+            "Now our Lord instances in these men who were the most profligate part of the nation, and had in greatest contempt by the rest; and yet these, by the very dictates of nature, loved such as loved them.",
+            "Wherefore it must be shameful and scandalous in the Pharisees, and others, who pretended to great sanctity and religion, to do no more than these persons did."
+        ],
+        "John Wesley": [
+            "The publicans were generally odious for their extortion and oppression.",
+            "These were generally odious for their extortion and oppression.",
+            "They were reckoned by the Jews as the very scum of the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you only love those who love you, there is no evidence of superior principle; the worst of men will do this. It is not genuine love for the character, but love for the benefit, and you deserve no commendation. Even the wretched publicans, known for their covetousness and cruelty, would love their benefactors. It is a poor religion that does not beget a higher love than what is natural to worldly men. So, it is shameful for those who claim sanctity and religion to do no more than these publicans, who were regarded as the very scum of the earth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.9357347943315433,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                33.05,
+                38.24,
+                28.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you only love those who love you, there is no evidence of superior principle; the worst of men will do this. Even the wretched publicans, known for their covetousness and cruelty, would love their benefactors. It is a poor religion that does not beget a higher love than what is natural to worldly men. Shameful is the act of those who claim sanctity and religion but do no more than the despised publicans, regarded as the very scum of the earth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 1.9750271237308836,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                34.14,
+                36.82,
+                29.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you only love those who love you, there is no evidence of superior principle; the worst of men will do this. It is a poor religion that does not beget a higher love than what is natural to worldly men. Even the despised publicans, known for their covetousness and cruelty, could demonstrate this level of love. Those who claim sanctity and religion, yet fail to surpass the love of the publicans, are a disgrace.",
+            "wordCount": 75,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.973734169352697,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                36.57,
+                36.47,
+                26.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even the worst of men, like the publicans who were seen as the scum of the earth, can love those who love them. So when Jesus says that if you only love those who love you, you are not displaying any superior principle or evidence of genuine love, he's challenging his followers to rise above this natural inclination. It is easy for anyone, even the publicans, to show love to those who love them; it's a poor religion that doesn't inspire a higher love than what is natural to worldly men. Genuine love goes beyond reciprocal benefit or the precepts of the Pharisees. Jesus calls his disciples to a love that is selfless and radical, one that truly reflects the character of God.",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9900672126276784,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                33.29,
+                39.74,
+                26.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even the worst of men, like the publicans who were seen as the scum of the earth, can love those who love them. So when Jesus says that if you only love those who love you, you are not displaying any superior principle or evidence of genuine love, he's challenging his followers to rise above this natural inclination. It is easy for anyone, even the publicans, to show love to those who love them; it's a poor religion that doesn't inspire a higher love than what is natural to worldly men.",
+            "wordCount": 94,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 2.148167589605479,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                35.38,
+                38.01,
+                26.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

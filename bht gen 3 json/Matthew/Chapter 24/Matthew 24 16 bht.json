@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:52:13",
+    "verseRef": "Matthew 24:16",
+    "bestBHT": {
+        "bht": "Christian Jews, heeding the prophetic intimation and warned by an angel, fled to Pella, a town at the foot of the mountains east of the Jordan, taking Jesus' Words to heart. They sought refuge in the mountains and caves, remembering His warning, and were preserved from the horrors that awaited them. Jesus' call to flee wasn't simply a physical escape; it was a call to fortify their minds, preparing them to endure and remain steadfast in times of calamity.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.911323679771976,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+        "commentatorTierSimilarities": [
+            36.2,
+            30.91,
+            32.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Christian Jews are said to have fled to Pella, a town described by Josephus as the northernmost boundary of Perea.",
+            "Eusebius says they were directed thither by a certain prophetic intimation.",
+            "Epiphanius, that they were warned an angel."
+        ],
+        "Albert Barnes": [
+            "Then Christians may know that the end is come, and should seek a place of safety.",
+            "The mountains of Palestine abound in caves, a safe retreat for those who are pursued.",
+            "In all ages these caves have been the favorite places of robbers, and they were also resorted to by those in danger."
+        ],
+        "John Calvin": [
+            "There will be nothing more desirable than to withdraw a distance from it; and, at the same time, he states that they will be so sudden, that time will scarcely be allowed for the most rapid flight.",
+            "Lest, by attempting to save their property, they themselves perish.",
+            "The design of Christ therefore was, first, to arouse his followers, that they might no longer indulge the hope of ease and repose, and the enjoyments of an earthly kingdom; and, secondly, to fortify their minds, that they might not give way under ordinary calamities."
+        ],
+        "Philip Schaff": [
+            "Matthew 24:16. Flee unto the mountains. The Christians in Judea accordingly fled to Pella, over the mountains in Perea, and were safe in all those days of horror.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Flee unto the mountains... The mountains east of the Jordan.\" ",
+            "The Christians actually fled to Pella at the foot of the mountains.",
+            "They remembered the warning of Jesus and fled for safety."
+        ],
+        "John Gill": [
+            "When this signal is given, let it be taken notice of and observed.",
+            "Let them not betake themselves to Jerusalem, imagining they may be safe there, in so strong and fortified a place.",
+            "Flee into the mountains; or any places of shelter and refuge."
+        ],
+        "John Wesley": [
+            "Then let them who are in Judea flee to the mountains \u2014 So the Christians did, and were preserved.",
+            "It is remarkable that after the Romans under Cestus Gallus made their first advances toward Jerusalem, they suddenly withdrew again, in a most unexpected and indeed impolitic manner.",
+            "This the Christians took as a signal to retire, which they did, some to Pella, and others to Mount Libanus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Christian Jews heeded the prophetic intimation and warning of Jesus in Matthew 24:16 to flee to Pella, a town at the foot of the mountains east of the Jordan. Guided by the belief that the end was near and seeking a place of safety, they remembered the words of Jesus and sought refuge in the caves of the mountains. This decision proved wise, as they were able to escape the horrors of that time. Jesus' call to flee to the mountains was not only a literal instruction but also a metaphorical message to fortify their minds and not succumb to ordinary calamities.",
+            "wordCount": 102,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7881996851041415,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                35.67,
+                32.88,
+                31.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christian Jews fled to the mountains, specifically to Pella, after receiving a prophetic intimation and warning. They understood that the end was near and sought a place of safety, as instructed by Jesus. Remembering His words, they sought refuge in the caves of the mountains, ensuring their escape from the horrors of the time. Jesus' call to flee to the mountains was not only a literal instruction but also a message to fortify their minds and not succumb to ordinary calamities.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8550590264228615,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                36.21,
+                31.98,
+                31.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Christian Jews, heeding the prophetic warning, fled to Pella at the foot of the mountains east of the Jordan. This decision was guided by the belief that the end was near and the need to seek a place of safety. Remembering Jesus' call to flee to the mountains, they found refuge in the caves, escaping the horrors of the time. Jesus' instruction was not only to physically flee but to fortify their minds, preparing them to withstand calamities.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7610259612853914,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                37.21,
+                32.59,
+                30.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christian Jews fled to Pella in obedience to the prophetic intimation and warning of danger. Directed by an angel and remembering Jesus' instruction to flee unto the mountains, they sought refuge in the safe caves of the mountains east of the Jordan. This decision proved wise, as they were spared from the approaching horrors. Jesus' call to flee was not just a physical escape, but a call to fortify their minds, preparing them to endure trials and tribulations.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8195178906066714,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                39.22,
+                30.06,
+                30.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christian Jews, heeding the prophetic intimation and warned by an angel, fled to Pella, a town at the foot of the mountains east of the Jordan, taking Jesus' Words to heart. They sought refuge in the mountains and caves, remembering His warning, and were preserved from the horrors that awaited them. Jesus' call to flee wasn't simply a physical escape; it was a call to fortify their minds, preparing them to endure and remain steadfast in times of calamity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.911323679771976,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                36.2,
+                30.91,
+                32.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:47",
+    "verseRef": "Matthew 26:60",
+    "bestBHT": {
+        "bht": "The religious leaders were unable to find witnesses whose testimonies were consistent or sufficient to convict Jesus. False witnesses were abundant, but they could not provide a testimony that would stand up to scrutiny. Even when two false witnesses appeared with similar testimonies, it was not enough to satisfy the requirement of the law. Driven by their fury, these leaders distorted Jesus' words and falsely accused him. Yet, their relentless efforts could not diminish the unwavering truth that Jesus embodied.",
+        "wordCount": 80,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.122069266090864,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+        "commentatorTierSimilarities": [
+            32.65,
+            32.3,
+            35.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "60.] found they none, i.e. sufficient for the purpose, or perhaps, consistent with itself. See note on Mark ver. 56."
+        ],
+        "Albert Barnes": [
+            "Found none - That is, they found none on whose testimony they could with any show of reason convict him.",
+            "The reason was, as Mark says Mark 14:56, that 'their witnesses agreed not together.' They differed about facts, times, and circumstances, as all false witnesses do.",
+            "Two witnesses were required by their law, and they did not 'dare' to condemn him without conforming, 'in appearance' at least, to the requirements of the law."
+        ],
+        "John Calvin": [
+            "The appellation of false witnesses is applied not to those who contrive a lie which had no foundation, but to those who calumniously pervert what was justly said, and turn it into a crime.",
+            "The false witnesses do not now resort to some new contrivance, but they put a wrong interpretation on his words, as if he boasted that he would practice some juggling in building the temple.",
+            "We may readily infer from it how greatly the priests and scribes were blinded by their fury, since, without any pretext, they demand that Christ shall be put to death."
+        ],
+        "Philip Schaff": [
+            "Many false witnesses came, as was natural; but two witnesses to one specific point were required.",
+            "After numerous vain attempts to find two, even apparently concordant, witnesses.",
+            "Two. The smallest number requisite."
+        ],
+        "Archibald T. Robertson": [
+            "They found it not (\u03ba\u03b1 \u03bf\u03c5\u03c7 \u03b5\u03c5\u03c1\u03bf\u03bd). They found false witnesses in plenty, but not the false witness that would stand any sort of test. "
+        ],
+        "John Gill": [
+            "Yea, though many false witnesses came, yet found they none; whose testimonies were sufficient to put him to death...",
+            "...according to their law, a man must not die by the mouth of one witness only, but by the mouth of two or three witnesses agreed in a point...",
+            "...at the last came two false witnesses; who were agreed in a point, and whose testimonies were alike; at least, had a greater appearance of truth and agreement than the rest..."
+        ],
+        "John Wesley": [
+            "Yet found they none \u2014 On whose evidence they could condemn him to die.",
+            "At last came two false witnesses \u2014 Such they were, although part of what they said was true.",
+            "Our Lord did not speak some of those words at all; nor any of them in this sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders searched for witnesses to testify against Jesus, but they could not find any whose testimonies were consistent or sufficient to bring charges against him. These false witnesses differed in their accounts, and there was no agreement among them. However, after multiple failed attempts, two false witnesses finally appeared with similar testimonies, giving the appearance of truth and agreement. Yet, even their testimony fell short according to the law's requirement of multiple witnesses. The desperation of the religious leaders is evident, as they were determined to put Jesus to death without any valid reason. Their fury blinded them, causing them to wrongly interpret Jesus' words and distort them into a crime. Despite their efforts, the truth remained unshaken.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9113309679741288,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                29.85,
+                34.08,
+                36.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders could not find any witnesses with consistent or sufficient testimony against Jesus. False witnesses were plentiful, but their accounts did not align. Two false witnesses eventually emerged with similar testimonies, but even theirs fell short of the requirement for multiple witnesses. The leaders' fury blinded them, causing them to misinterpret Jesus' words and falsely accuse him. Yet, their desperate attempts to condemn him could not diminish the truth that remained steadfast.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.065987521053379,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                31.61,
+                32.79,
+                35.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders searched diligently for witnesses against Jesus but found none whose testimonies were consistent or sufficient to bring charges against him. These false witnesses differed in their accounts, and even when two emerged with similar testimonies, their words fell short of the requirement for multiple witnesses. Blinded by their fury, the leaders wrongly interpreted Jesus' words and twisted them into a crime. However, their desperate attempts could not diminish the unwavering truth that stood firm.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9065502768839915,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                30.92,
+                32.77,
+                36.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders were unable to find witnesses whose testimonies were consistent or sufficient to convict Jesus. False witnesses were abundant, but they could not provide a testimony that would stand up to scrutiny. Even when two false witnesses appeared with similar testimonies, it was not enough to satisfy the requirement of the law. Driven by their fury, these leaders distorted Jesus' words and falsely accused him. Yet, their relentless efforts could not diminish the unwavering truth that Jesus embodied.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.122069266090864,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+            "commentatorTierSimilarities": [
+                32.65,
+                32.3,
+                35.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders who sought to bring charges against Jesus could not find witnesses with consistent or sufficient testimony. Though false witnesses appeared, their accounts did not align or meet the legal requirements. However, after numerous attempts, two false witnesses emerged with testimonies that seemed more credible. Despite their efforts, the leaders' fury blinded them, causing them to misinterpret Jesus' words and falsely accuse him. Nevertheless, their desperate pursuit could not overshadow the unwavering truth that Jesus represented.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.008712667144055,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                33.57,
+                31.98,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

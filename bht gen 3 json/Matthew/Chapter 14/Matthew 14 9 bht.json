@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:48:06",
+    "verseRef": "Matthew 14:9",
+    "bestBHT": {
+        "bht": "The king was grieved upon hearing about John, whom he had once respected and gladly listened to. He had made a rash promise, confirming it with repeated oaths. Despite opposition, he chose murder for the sake of his oath. In his drunken state, he was remorseful but driven by fear and flimsy excuses. His actions revealed the power of the fear of men and the wavering nature of his thoughts.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.6974443417818974,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+        "commentatorTierSimilarities": [
+            37.44,
+            25.68,
+            36.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is not inconsistent with his wishing to put him to death: his estimate of John was wavering and undecided.",
+            "Herod was grieved, because he heard John gladly.",
+            "He was opposed by the emissaries of Agrippa, and was exiled to Lugdunum."
+        ],
+        "Marvin Vincent": [
+            "The word is plural, and the Rev. rightly renders for the sake of his oaths.",
+            "It is implied that Herod in his mad excitement had confirmed his promise with repeated oaths.",
+            "The oath's sake. But the A. V. puts the apostrophe in the wrong place."
+        ],
+        "Philip Schaff": [
+            "\u2018Grieved\u2019 rather than \u2018sorry.\u2019 Disturbed rather than penitent.",
+            "Better break our word than God\u2019s Word.",
+            "The fear of men, so powerful for evil, influenced him."
+        ],
+        "Archibald T. Robertson": [
+            "Men who do wrong always have some flimsy excuses for their sins.",
+            "A man here orders a judicial murder of the most revolting type 'for the sake of his oath.'",
+            "He was probably maudlin with wine and befuddled by the presence of the guests."
+        ],
+        "John Gill": [
+            "And the king was sorry,... As he might be upon many accounts; partly on account of John, whom, notwithstanding his freedom in reproving him, he had a respect...",
+            "Nevertheless for his oath's sake; that he might not be guilty of perjury, chose rather to commit murder...",
+            "Some have thought, that the whole of this affair was a concerted scheme; and that Herod himself was in it, though he pretended to be sorry and uneasy..."
+        ],
+        "John Wesley": [
+            "Knowing that John was a good man.",
+            "So he murdered an innocent man from mere tenderness of conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The king was deeply troubled and grieved upon hearing about John, whom he had once respected and gladly listened to. He had made a rash and hasty promise in front of his guests, confirming it with repeated oaths. Despite his wavering thoughts and the opposition he faced, he chose the path of murder for the sake of his oath. In his state of drunkenness, he was remorseful but driven by his own excuses and the fear of breaking his word. His actions revealed the power of the fear of men and the flimsy nature of his justifications for committing such a heinous act.",
+            "wordCount": 103,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.6530168291201262,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "commentatorTierSimilarities": [
+                37.94,
+                23.47,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The king was grieved upon hearing about John, whom he had once respected and gladly listened to. He had made a rash promise, confirming it with repeated oaths. Despite opposition, he chose murder for the sake of his oath. In his drunken state, he was remorseful but driven by fear and flimsy excuses. His actions revealed the power of the fear of men and the wavering nature of his thoughts.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6974443417818974,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                37.44,
+                25.68,
+                36.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The king was deeply troubled and grieved upon hearing about John, whom he had once respected and gladly listened to. He had made a hasty promise, confirming it with repeated oaths. Despite his wavering thoughts and the opposition he faced, he chose the path of murder for the sake of his oath. In his state of drunkenness, he was remorseful but driven by his own excuses and the fear of breaking his word. His actions revealed the power of the fear of men and the flimsy nature of his justifications for committing such a heinous act.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6771304148121304,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                36.94,
+                24.62,
+                38.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The king's initial admiration for John quickly turned to grief, but his wavering judgment led him to commit murder in order to uphold his rashly made oaths. In a state of intoxication and influenced by the fear of breaking his word, he chose to justify his actions with feeble excuses. Despite his remorse, he was driven by the power of his own misguided conscience, showing the dangerous sway that the fear of man can have on one's decisions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6488957349722408,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                30.61,
+                29.66,
+                39.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The king was deeply troubled and grieved upon hearing about John, whom he had once respected. He had confirmed his promise with repeated oaths and in his drunken state, he chose murder for the sake of his oath. His wavering thoughts and flimsy excuses revealed the power of the fear of men. Despite his remorse, he was driven by his own misguided conscience. His actions exposed the dangerous sway that the fear of man can have on one's decisions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6566835171995704,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                33.01,
+                28.19,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

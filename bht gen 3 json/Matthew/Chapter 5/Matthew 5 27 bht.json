@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:49",
+    "verseRef": "Matthew 5:27",
+    "bestBHT": {
+        "bht": "Our Lord dispels the delusion that the commandment against adultery only applies to acts of physical intercourse between married individuals. He emphasizes that the law of God goes beyond external actions and extends to the purity of our hearts. While quoting the Decalogue, he criticizes the distorted interpretation of the scribes, which confined the commandment's scope. He teaches that the commandment encompasses not just adultery, but also impure thoughts and actions. Our Lord urges us to prioritize holiness over anything, even if it means letting go of things we hold dear, in order to avoid sin.",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.7835035974883144,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+        "commentatorTierSimilarities": [
+            22.27,
+            49.01,
+            28.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The traditional perverters of the law restricted the breach of it to acts of criminal intercourse between, or with, married persons exclusively.",
+            "Our Lord now dissipates such delusions.",
+            "Our Lord now dissipates such delusions."
+        ],
+        "John Calvin": [
+            "Christ proceeds with his subject, and shows, that the law of God not only has authority over the life, in a political view, to form the outward manners, but that it requires pure and holy affections of the heart.",
+            "We must remember what I have already stated, that though Christ quotes the very words of the law, it is the gross and false meaning... that he blames.",
+            "He has already told us, that he did not come as a new Legislator, but as the faithful expounder of a law which had been already given."
+        ],
+        "Philip Schaff": [
+            "Matthew 5:27. The seventh commandment (Exodus 20:14) is now cited, with an implied reference to the interpretation given by the scribes, namely, that adultery alone was forbidden."
+        ],
+        "Archibald T. Robertson": [
+            "Thou shalt not commit adultery (\u03bf\u03c5 \u03bc\u03bf\u03b9\u03c7\u03b5\u03c5\u03c3\u03b5\u03b9\u03c2).",
+            "These quotations (verses Matthew 5:21; Matthew 5:27; Matthew 5:33) from the Decalogue (Matthew 5:20 and Matthew 5:5) are from the Septuagint and use \u03bf\u03c5 and the future indicative (volitive future, common Greek idiom).",
+            "In Matthew 5:43 the positive form, volitive future, occurs (\u03b1\u03b3\u03b1\u03c0\u03b7\u03c3\u03b5\u03b9\u03c2)."
+        ],
+        "John Gill": [
+            "The meaning of our Lord is, not that the then present Jews had heard that such a law had been delivered 'to the ancients', their fathers, at Mount Sinai; for that they could read in their Bibles.",
+            "They had received it by tradition, that the sense of it, which had been given to their ancestors, by the ancient doctors of the church, was, that this law is to be taken strictly, as it lies, and only regards the sin of uncleanness in married persons.",
+            "It had no respect to fornication, or unchaste thoughts, words, or actions, but that single act only."
+        ],
+        "John Wesley": [
+            "If a person as dear as a right eye, or as useful as a right hand, cause thee thus to offend, though but in heart.\" ",
+            "Part with anything, however dear to you, or otherwise useful, if you cannot avoid sin while you keep it.",
+            "Pull out your eyes, if you can no otherwise be restrained from lusting after women."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord dispels the delusion that the commandment against adultery only applies to acts of physical intercourse between married individuals. He emphasizes that the law of God goes beyond external actions and extends to the purity of our hearts. While quoting the Decalogue, he criticizes the distorted interpretation of the scribes, which confined the commandment's scope. He teaches that the commandment encompasses not just adultery, but also impure thoughts and actions. Our Lord urges us to prioritize holiness over anything, even if it means letting go of things we hold dear, in order to avoid sin.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.7835035974883144,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                22.27,
+                49.01,
+                28.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord dispels the delusion that the commandment against adultery only applies to acts of physical intercourse between married individuals. He emphasizes that the law of God goes beyond external actions and extends to the purity of our hearts. While quoting the Decalogue, he criticizes the distorted interpretation of the scribes, which confined the commandment's scope. Our Lord urges us to prioritize holiness over anything, even if it means letting go of things we hold dear, in order to avoid sin.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.734609262367973,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                22.24,
+                48.32,
+                29.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord shatters the misconception that the commandment against adultery is solely about the physical act between married individuals. He reveals that the law of God encompasses the purity of our hearts and thoughts. By addressing the interpretation given by the scribes, he exposes the narrow understanding that limited the commandment's application. Our Lord teaches us to prioritize holiness over all else, even if it means relinquishing what we hold dear, in order to avoid sin.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.6772997516764079,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                20.23,
+                48.74,
+                31.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord dispels the delusion that the commandment against adultery only applies to acts of physical intercourse between married individuals. He emphasizes that the law of God goes beyond external actions and extends to the purity of our hearts. While quoting the Decalogue, he criticizes the distorted interpretation of the scribes, which confined the commandment's scope. Our Lord urges us to prioritize holiness over anything, even if it means letting go of things we hold dear, in order to avoid sin.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.734609262367973,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                22.24,
+                48.32,
+                29.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord dispels the delusion that adultery is only restricted to criminal acts of intercourse between married persons. He goes beyond the traditional understanding and emphasizes the necessity of purity in heart and thought. By referencing the Decalogue, He challenges the narrow interpretation of the scribes, who limited the commandment's application. Our Lord teaches us to prioritize holiness above all else, even if it means sacrificing what is dear to us, in order to avoid falling into sin.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.579722900294575,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                21.7,
+                48.7,
+                29.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

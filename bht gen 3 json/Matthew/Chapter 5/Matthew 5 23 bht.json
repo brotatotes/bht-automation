@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:47",
+    "verseRef": "Matthew 5:23",
+    "bestBHT": {
+        "bht": "There is no distinction in the punishment for sins, only in their severity. This refutes the idea of differentiating between venial and mortal sins. Instead of fixating on our grievances against others, we should acknowledge the complaints they have against us. This reminder is particularly relevant when presenting our gift at the altar and realizing that someone has a valid complaint. It is crucial to prioritize reconciliation with others, even during acts of worship, as failure to do so may displease God and result in the rejection of our offerings.",
+        "wordCount": 90,
+        "quoteTokenProportion": 51.43,
+        "qualityScore": 1.4608890085020327,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+        "commentatorTierSimilarities": [
+            32.49,
+            36.68,
+            30.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The most important thing to keep in mind is, that there is no distinction of kind between these punishments, only of degree.",
+            "So that the distinction drawn by the Romanists between venial and mortal sins, finds not only no countenance, but direct confutation from this passage.",
+            "It is not what complaints we have against others that we are to consider at such a time, but what they have against us; not what ground we have given for complaint, but what complaints they, as matter of fact, make against us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To apply the foregoing, and show its paramount importance.",
+            "If thou bring thy gift to the altar.",
+            "And there rememberest that thy brother hath aught\u2014of just complaint 'against thee.'"
+        ],
+        "John Calvin": [
+            "To impress this more strongly upon us, Christ declares, that even the duties of religion are displeasing to God, and are rejected by him, if we are at variance with each other.",
+            "When he commands those who have injured any of their brethren, to be reconciled to him, before they offer their gift, his meaning is, that, so long as a difference with our neighbor is kept up by our fault, we have no access to God.",
+            "God does not receive and acknowledge, as his sons, any who do not, in their turn, show themselves to be brethren to each other."
+        ],
+        "Philip Schaff": [
+            "Even the most sacred act should make room for reconciliation.",
+            "Proper worship makes us mindful of duty to others.",
+            "The reconciliation does not make the worship unnecessary. Discharge of duty to men does not do away with duty to God."
+        ],
+        "John Gill": [
+            "He that brings what he has stolen, before he brings his trespass offering, is right; he that brings his trespass offering, before he brings that which he has stolen, is not right.",
+            "They do not bring the trespass offering before the sum of what is stolen is returned, either to the owners, or to the priests.",
+            "If thou hast done him any injury, or given him any offence: particularly, if he had at any time said Raca to him, or called him 'fool' for those words have reference to what goes before, and are a corollary, or conclusion from them."
+        ],
+        "John Wesley": [
+            "Thy brother hath aught against thee \u2014 On any of the preceding accounts: for any unkind thought or word: any that did not spring from love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to punishment, there is no distinction between different sins, only varying degrees. This refutes the idea that there are different kinds of sins, such as venial and mortal. In the context of reconciling with others, it is important to focus on the complaints that others have against us, rather than the grievances we have against them. This is highlighted by the reminder that even when bringing a gift to the altar, if we remember that someone has a legitimate complaint against us, reconciliation takes precedence. The importance of reconciling with others before worshiping God is emphasized, as fulfilling our duties towards others does not negate our duty to God. So, regardless of the act of worship, it is essential to prioritize reconciliation and maintain harmony with our fellow human beings, as it displeases God and leads to the rejection of our offerings if we are at odds with others.",
+            "wordCount": 152,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5492982092377963,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                27.08,
+                43.9,
+                29.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is no distinction between sins in terms of punishment; only the severity varies. The Roman Catholic belief in different types of sins is directly contradicted here. Rather than focusing on the complaints we have against others, we should consider the complaints others have against us. This is especially important when bringing a gift to the altar, as reconciliation takes precedence. Reconciling with others is paramount, even in the context of worshiping God, as performing our duty to others does not replace our duty to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.4449497112113119,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
+            "commentatorTierSimilarities": [
+                29.57,
+                45.77,
+                24.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When it comes to punishment, there is no distinction between sins, only degrees. The idea of differentiating between venial and mortal sins is refuted by this passage. Instead of focusing on our complaints against others, we are urged to consider the complaints they have against us. This is particularly relevant when bringing a gift to the altar and remembering that someone has a rightful complaint against us. Prioritizing reconciliation and maintaining harmony with others is crucial, as it displeases God and leads to the rejection of our offerings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.423277379524766,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.67,
+            "commentatorTierSimilarities": [
+                35.05,
+                36.05,
+                28.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There is no distinction in the punishment of sins, only in their severity. Hence, the Roman Catholic notion of categorizing sins as venial or mortal is contradicted here. Rather than focusing on our grievances against others, we should consider the complaints they have against us. This is especially important when bringing our gift to the altar and remembering that someone has a legitimate complaint against us. Prioritizing reconciliation with others, even in the context of worship, is essential. Otherwise, our offerings may displease God and be rejected.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 1.4040537063120637,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.03,
+            "commentatorTierSimilarities": [
+                30.98,
+                40.61,
+                28.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There is no distinction in the punishment for sins, only in their severity. This refutes the idea of differentiating between venial and mortal sins. Instead of fixating on our grievances against others, we should acknowledge the complaints they have against us. This reminder is particularly relevant when presenting our gift at the altar and realizing that someone has a valid complaint. It is crucial to prioritize reconciliation with others, even during acts of worship, as failure to do so may displease God and result in the rejection of our offerings.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.4608890085020327,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                32.49,
+                36.68,
+                30.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

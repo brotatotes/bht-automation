@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:50:45",
+    "verseRef": "Matthew 21:22",
+    "bestBHT": {
+        "bht": "Believing in the efficacy of prayer is crucial for it to be effective. This is exemplified in the parable of the mountain, highlighting the importance of faith. Effective prayer is not limited to seeking miracles but includes requests that align with God's will. It seeks to honor God, advance His kingdom, and benefit believers spiritually. Such prayer, when offered in faith, according to God's will and promises, holds great power and assurance that whatever is asked will be granted.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.3341161493762725,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.95,
+        "commentatorTierSimilarities": [
+            40.94,
+            30.17,
+            28.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "As applied to all Christians, it is of course confined to prayers of faith, implying agreement with the will of God, and excluding the abuse of this promise.",
+            "Christ defines believing and effective prayer to be prayer in His name.",
+            "The promise is not unlimited; it is restricted to things which are according to God\u2019s will."
+        ],
+        "Archibald T. Robertson": [
+            "Believing (\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03bf\u03bd\u03c4\u03b5\u03c2). This is the point of the parable of the mountain, \"faith in the efficacy of prayer\" (Plummer). "
+        ],
+        "John Gill": [
+            "Not only miracles, but any other thing which may be for the honour of God, the interest of religion, the spreading of the Gospel, the enlargement of the kingdom, of Christ, their own spiritual good, and the welfare of immortal souls...\" ",
+            "...design the prayer of faith; or that prayer which is put up in the strength of faith; and is of great avail with God...",
+            "...whatever is asked in faith, agreeable to the will of God, which is contained in his covenant, word, and promises, and makes for his glory, and the good of his people, shall be given..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believing is the key to effective prayer, as demonstrated in the parable of the mountain. It is prayer in accordance with God's will, done in faith and in the name of Christ. This promise, however, is not without limits, as it is restricted to things that align with God's purpose. Effective prayer is not just about seeking miracles, but also about seeking what is in line with God's honor, the interest of religion, the spreading of the Gospel, the enlargement of Christ's kingdom, and the spiritual good of believers. When offered in faith, prayer can have a great impact, as whatever is asked in faith, aligns with God's will, and serves His glory and His people will be granted.",
+            "wordCount": 124,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.3414358359515406,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.19,
+            "commentatorTierSimilarities": [
+                35.34,
+                32.34,
+                32.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believing is the key to effective prayer, as demonstrated in the parable of the mountain. This promise is limited to things in line with God's purpose. Effective prayer seeks what aligns with God's honor, the interest of religion, the spreading of the Gospel, and the enlargement of Christ's kingdom. It is prayer in faith, offered in the name of Christ, that has a significant impact. Asking in faith, according to God's will, for His glory and the good of His people will be granted.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.2556772834130046,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+            "commentatorTierSimilarities": [
+                36.53,
+                31.76,
+                31.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Effective prayer is rooted in faith, as emphasized in the parable of the mountain. It is prayer that aligns with God's will and seeks His glory and the good of His people. This promise, however, comes with limitations, as it is restricted to requests that are in accordance with God's purpose. Effective prayer is more than seeking miracles; it is about desiring what serves God's honor, the advancement of His kingdom, and the spiritual well-being of believers. When offered in faith and aligned with God's will, prayer has the power to bring about God's blessings.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.3053345103629024,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.99,
+            "commentatorTierSimilarities": [
+                35.16,
+                32.28,
+                32.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is the key to effective prayer, exemplified in the parable of the mountain. It involves believing in the power of prayer and its ability to bring about God's will. Although not unconditional, this promise is limited to requests that align with God's purposes. Effective prayer seeks God's honor, the interest of religion, the spread of the Gospel, and the growth of Christ's kingdom. It is prayer offered in faith, in agreement with God's will, that has a tremendous impact and is granted according to His word and promises.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2966157093162156,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.7,
+            "commentatorTierSimilarities": [
+                35.5,
+                33.36,
+                31.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in the efficacy of prayer is crucial for it to be effective. This is exemplified in the parable of the mountain, highlighting the importance of faith. Effective prayer is not limited to seeking miracles but includes requests that align with God's will. It seeks to honor God, advance His kingdom, and benefit believers spiritually. Such prayer, when offered in faith, according to God's will and promises, holds great power and assurance that whatever is asked will be granted.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.3341161493762725,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.95,
+            "commentatorTierSimilarities": [
+                40.94,
+                30.17,
+                28.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

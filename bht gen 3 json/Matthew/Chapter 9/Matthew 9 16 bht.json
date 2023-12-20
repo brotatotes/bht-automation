@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:45:40",
+    "verseRef": "Matthew 9:16",
+    "bestBHT": {
+        "bht": "The old system of prescribed fasts must not be patched with the new and sound piece. The complete and beautiful whole of Gospel light and liberty cannot be engrafted as a mere addition on the worn-out system of ceremonies. All things are not suitable for all people, especially the weak and tender disciples who should not be burdened. Combining the righteousness of Christ with one's own in order to make up a justifying righteousness before God is a foolish act. Embrace the new and complete gospel without clinging to the old forms of piety.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.590224507206273,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+        "commentatorTierSimilarities": [
+            28.5,
+            40.21,
+            31.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The old system of prescribed fasts for fasting\u2019s sake must not be patched with the new and sound piece; the complete and beautiful whole of Gospel light and liberty must not be engrafted as a mere addition on the worn-out system of ceremonies.\" ",
+            "The robe must be all new, all consistent: old things, old types, old ceremonies, old burdens, sacrifices, priests, sabbathe, and holy days, all are passed away: behold all things are become new.",
+            "a worse rent is made, because the old, original rent was included within the circumference of the patch, whereas this is outside it."
+        ],
+        "Marvin Vincent": [
+            "Undressed cloth, which would shrink when wet, and tear loose from the old piece.",
+            "The combination of the old forms of piety peculiar to John and his disciples with the new religious life emanating from himself",
+            "Patching of an old garment with a piece of unfulled cloth, which would stretch and tear loose from the old fabric and make a worse rent than before."
+        ],
+        "John Calvin": [
+            "The comparison is beautifully adapted to the matter in hand, if we explain it as referring to the weak and tender disciples of Christ, and to a discipline more strict than they were able to bear.",
+            "The amount of the statement is, that all must not be compelled indiscriminately to live in the same manner, for there is a diversity of natural character, and all things are not suitable to all; and particularly, we ought to spare the weak, that they may not be broken by violence, or crushed by the weight of the burden.",
+            "Our Lord speaks according to the custom of the country, when he uses the word bottles instead of tuns or casks."
+        ],
+        "Philip Schaff": [
+            "No one putteth a patch of undressed, or, 'unfulled' cloth upon an old garment.\" ",
+            "The worn out system of fasting for fasting's sake cannot be patched up with a piece from the new, fresh, complete gospel.",
+            "Care must be taken that nothing directly appointed by God be deemed 'antiquated.'"
+        ],
+        "Archibald T. Robertson": [
+            "Undressed cloth (\u03c1\u03b1\u03ba\u03bf\u03c5\u03c2 \u03b1\u03b3\u03bd\u03b1\u03c6\u03bf\u03c5). An unfulled, raw piece of woollen cloth that will shrink when wet and tear a bigger hole than ever.",
+            "A worse rent (\u03c7\u03b5\u03b9\u03c1\u03bf\u03bd \u03c3\u03c7\u03b9\u03c3\u03bc\u03b1). Our word 'schism.'",
+            "The 'patch' (\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1, filling up) thus does more harm than good."
+        ],
+        "John Gill": [
+            "Nor were the disciples unable to bear such severities, who very probably had been trained up in them, and been used to them before their conversion; and could now as well have bore them as John's disciples, or the Pharisees, had they been proper and necessary...",
+            "But our Lord, in this parable of putting 'a piece of new', or 'undressed cloth', such as has never passed through the fuller's hands, and so unfit to mend with, unto an old garment...",
+            "Much such a foolish part do those men under the Gospel dispensation act, who join the righteousness of Christ, or a part of it, with their own, in order to make up a justifying righteousness before God..."
+        ],
+        "John Wesley": [
+            "It is not a proper time for them to fast.",
+            "Cloth that hath not passed through the fuller's hands, and which is consequently much harsher than what has been washed and worn.",
+            "Yielding less than that, will tear away the edges to which it is sewed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The old system of fasting for fasting's sake cannot be patched together with the new and complete gospel, just as undressed cloth would shrink, tear, and make a worse hole on an old garment. It is important to recognize that all things are not suitable for all people and that the weak and tender disciples should not be burdened with unnecessary strictness. Trying to combine the righteousness of Christ with one's own righteousness in order to justify oneself before God is equally foolish. Thus, it is essential to embrace the new and complete gospel without clinging to the worn-out system of ceremonies and burdens.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.6131694133326901,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                26.69,
+                39.18,
+                34.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The old system of prescribed fasts must not be patched with the new and sound piece; the complete whole of Gospel light must not be engrafted as a mere addition on the worn-out system of ceremonies. It is crucial to spare the weak, to recognize the diversity of natural character, and to avoid burdening them. Combining the righteousness of Christ with one's own in order to make up a justifying righteousness before God is a foolish act. Embrace the new and complete gospel without clinging to the old forms of piety.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.4879770029790726,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                27.83,
+                39.14,
+                33.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The old system of prescribed fasts must not be patched with the new and sound piece. The complete and beautiful whole of Gospel light and liberty cannot be engrafted as a mere addition on the worn-out system of ceremonies. All things are not suitable for all people, especially the weak and tender disciples who should not be burdened. Combining the righteousness of Christ with one's own in order to make up a justifying righteousness before God is a foolish act. Embrace the new and complete gospel without clinging to the old forms of piety.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.590224507206273,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                28.5,
+                40.21,
+                31.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The old system of prescribed fasts must not be patched with the new and sound piece. All things are not suitable for all people, and it is important to spare the weak, not burdening them. Combining the righteousness of Christ with one's own in order to make up a justifying righteousness before God is a foolish act. Embrace the new and complete gospel without clinging to the old forms of piety.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.5568888765898838,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                27.45,
+                40.02,
+                32.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The old system of prescribed fasts must not be patched with the new and sound piece, for the complete and beautiful whole of Gospel light and liberty cannot be engrafted as a mere addition on the worn-out system of ceremonies. It is essential to spare the weak, recognizing the diversity of natural character, and avoiding burdening them. Combining the righteousness of Christ with one's own in order to make up a justifying righteousness before God is a foolish act. Embrace the new and complete gospel without clinging to the old forms of piety.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5042749451280768,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                28.7,
+                37.87,
+                33.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

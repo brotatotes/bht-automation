@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:54:11",
+    "verseRef": "Matthew 27:36",
+    "bestBHT": {
+        "bht": "The soldiers watched him there, preventing wanton cruelties and any attempts to take him down or restore the victim. It was usual for the Romans to set soldiers to watch the crucified, ensuring they were not taken down or buried prematurely. The soldiers, sitting at the foot of the cross, cast lots over his garments, unintentionally creating a comedic scene amidst the tragic event unfolding. This watch was necessary to safeguard against rescue or removal of the body.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.078130223470147,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.44,
+        "commentatorTierSimilarities": [
+            37.45,
+            31.09,
+            31.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] watched him\u2014this was usual, to prevent the friends taking crucified persons down. There were four soldiers, John, ver. 23; a centurion and three others."
+        ],
+        "Albert Barnes": [
+            "They watched him there - That is, the four soldiers who had crucified him. They watched him lest his friends should come and release him."
+        ],
+        "Marvin Vincent": [
+            "Watched. This was to prevent the infliction of wanton cruelties.\" ",
+            "Watched. [They kept watch] to prevent what sometimes happened, the taking down and restoring of the victim.\" ",
+            "Kept watch. This was to prevent the infliction of wanton cruelties, and also to prevent...the taking down and restoring of the victim."
+        ],
+        "Philip Schaff": [
+            "And they sat and watched him there. This was usual, to prevent the condemned from being taken down.",
+            "In this case they had a peaceful bivouac which assumed a significant meaning.",
+            "This was usual, to prevent the condemned from being taken down."
+        ],
+        "Archibald T. Robertson": [
+            "Watched him there (\u03b5\u03c4\u03b7\u03c1\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03ba\u03b5). Imperfect tense descriptive of the task to prevent the possibility of rescue or removal of the body.",
+            "These rough Roman soldiers casting lots over the garments of Christ give a picture of comedy at the foot of the Cross, the tragedy of the ages."
+        ],
+        "John Gill": [
+            "- \"the soldiers...sat down on the ground at the foot of the cross, and there watched him\" (Quote 1)",
+            "- \"it was usual with the Romans to set a soldier, or soldiers, to watch those that were crucified...lest they should be took down and buried\" (Quote 2)",
+            "- \"This seems to be the watch Pilate refers to\" (Quote 3)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers watched him there, keeping a careful eye to prevent any cruel treatment or attempts to take him down from the cross. By keeping watch, they ensured that none of the typical wanton cruelties or potential rescue efforts could take place. The soldiers, sitting at the foot of the cross, cast lots over his garments, unintentionally creating a scene that seemed comedic amidst the tragedy of the ages. This watch was customary for the Romans, who always set soldiers to ensure that the crucified were not taken down or buried prematurely.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9905870600191142,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                37.13,
+                32.7,
+                30.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers watched him there, preventing wanton cruelties and any attempts to take him down or restore the victim. It was usual for the Romans to set soldiers to watch the crucified, ensuring they were not taken down or buried prematurely. The soldiers, sitting at the foot of the cross, cast lots over his garments, unintentionally creating a comedic scene amidst the tragic event unfolding. This watch was necessary to safeguard against rescue or removal of the body.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.078130223470147,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.44,
+            "commentatorTierSimilarities": [
+                37.45,
+                31.09,
+                31.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers watched him there, keeping a careful eye to prevent any cruel treatment or attempts to take him down from the cross. By keeping watch, they ensured that none of the typical wanton cruelties or potential rescue efforts could take place. The soldiers, sitting at the foot of the cross, cast lots over his garments, unintentionally creating a scene that seemed comedic amidst the tragedy of the ages. This watch was customary for the Romans, who always set soldiers to ensure that the crucified were not taken down or buried prematurely.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9905870600191142,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                37.13,
+                32.7,
+                30.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers watched him there, preventing any cruel treatment or attempts to take him down. This was customary for the Romans, who always set soldiers to ensure the crucified were not taken down prematurely. Sitting at the foot of the cross, they cast lots over his garments, unintentionally creating a comedic scene amidst the tragedy. Their watch safeguarded against rescue or removal of the body, portraying a picture of both solemnity and vigilance at the crucifixion.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.002967011780513,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                35.5,
+                33.61,
+                30.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers watched him there, vigilantly preventing wanton cruelties and attempts to take him down. By keeping watch, they ensured that no cruel treatment or rescue efforts could occur. Sitting at the foot of the cross, they cast lots over his garments, unintentionally creating a comic spectacle within the larger tragedy. This watch was part of the Romans' customary practice, ensuring that the crucified were not taken down or buried prematurely. Such vigilance portrayed both solemnity and the duty of the soldiers during the crucifixion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8629111202605704,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                36.36,
+                32.87,
+                30.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

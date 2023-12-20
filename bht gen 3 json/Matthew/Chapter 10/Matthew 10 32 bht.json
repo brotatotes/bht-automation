@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:46:14",
+    "verseRef": "Matthew 10:32",
+    "bestBHT": {
+        "bht": "The Lord will not deny the Apostle Peter, who confessed Him even to death. He will not deny those who openly profess their faith in Him and are unashamed to be identified with Him. By confessing in Him, indicating a sense of unity, the true confessor of Christ is one whose faith rests in Him. This confession should be made boldly and openly, even in the face of opposition. It is important not only to believe in Him, but also to publicly confess and proclaim Him as Lord.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 1.9819425362911796,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+        "commentatorTierSimilarities": [
+            48.98,
+            0.0,
+            51.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord will not confess the confessing Judas, nor deny the denying Peter; the traitor who denied Him in act is denied: the Apostle who confessed Him even to death will be confessed.\" ",
+            "We may observe that both in the Sermon on the Mount (ch. vii. 21\u201323) and here, after mention of the Father, our Lord describes Himself as the Judge and Arbiter of eternal life and death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever therefore shall confess me before men\u2014despising the shame.\" ",
+            "I will not be ashamed of him, but will own him before the most august of all assemblies.",
+            "him will I confess also before my Father which is in heaven."
+        ],
+        "Marvin Vincent": [
+            "Confess me [\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03b9 \u03b5\u03bd \u03b5\u03bc\u03bf\u03b9] . A peculiar but very significant expression.",
+            "The true confessor of Christ is one whose faith rests in him.",
+            "It shall be as if I spoke abiding in him."
+        ],
+        "John Calvin": [
+            "For this purpose the disciples of Christ must be bold and courageous, that they may be always ready for martyrdom.",
+            "It is therefore certain that those persons extinguish faith, (as far as lies in their powers) who inwardly suppress it, as if the outward profession of it were unnecessary.",
+            "If we draw a comparison between ourselves and the Son of God, how base is it to refuse our testimony to him, when on his part he offers his testimony to us by way of reward?"
+        ],
+        "Archibald T. Robertson": [
+            "Shall confess me (\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5 \u03b5\u03bd \u03b5\u03bc\u03bf). An Aramaic idiom, not Hebrew, see also Luke 12:8.",
+            "So also here, 'him will I also confess' (\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03c9 \u03ba'\u03b1\u03b3\u03c9 \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9).",
+            "Literally this Aramaic idiom reproduced in the Greek means 'confess in me,' indicating a sense of unity with Christ and of Christ with the man who takes the open stand for him."
+        ],
+        "John Gill": [
+            "It is not enough to believe in him, with the heart, but confession of him must also be made with the mouth; and which lies in ascribing their whole salvation to him, giving him the glory of it.",
+            "What they chiefly relate to, is a confession of Christ by his ministers, in the public preaching of the Gospel; who ought openly, and boldly, to acknowledge, and declare, that Christ is truly and properly God.",
+            "Such a free and open confession of Christ ought to be made by all his ministers before men, and in spite of all the rage and opposition of earth and hell."
+        ],
+        "John Wesley": [
+            "Whosoever shall confess me... But this confession implies the receiving his whole doctrine, and obeying all his commandments.\" ",
+            "Whosoever shall deny me before men... Both public and private divisions will follow, wheresoever my Gospel comes with power.",
+            "Ye \u2014 this is not the design, though it be the event of his coming, through the opposition of devils and men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord will not deny the Apostle Peter, who confessed Him even to death. He will not deny those who openly profess their faith in Him and are unashamed to be identified with Him. By confessing in Him, indicating a sense of unity, the true confessor of Christ is one whose faith rests in Him. Such a confession should be made boldly and openly, even in the face of opposition. It is important not only to believe in Him, but also to publicly confess and proclaim Him as Lord. This confession should be made by all His ministers, without fear of the opposition of earth and hell.",
+            "wordCount": 107,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.9518158808084307,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                46.54,
+                0.0,
+                53.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord will not deny the Apostle Peter, who confessed Him even to death. He will not deny those who openly profess their faith in Him and are unashamed to be identified with Him. By confessing in Him, indicating a sense of unity, the true confessor of Christ is one whose faith rests in Him. This confession should be made boldly and openly, even in the face of opposition. It is important not only to believe in Him, but also to publicly confess and proclaim Him as Lord.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.9819425362911796,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                48.98,
+                0.0,
+                51.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord will not deny those who openly confess and profess their faith in Him, even in the face of opposition. This confession indicates a sense of unity with Christ and a true faith that rests in Him. It is important to not only believe in Him but to boldly and openly proclaim Him as Lord. Such a confession should be made without fear and should be the testimony of all His ministers, regardless of any opposition they may face.",
+            "wordCount": 80,
+            "quoteTokenProportion": 57.41,
+            "qualityScore": 1.9444303213838,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                43.21,
+                0.0,
+                56.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse highlights the importance of confessing Christ before others, for in doing so, believers are assured that Christ will not deny them before the Father. This confession involves not only verbal acknowledgment but also a deep sense of unity with Christ and faith that rests in Him. It requires boldness, courage, and a readiness for martyrdom. Indeed, ministers of the Gospel are called to make a free and open confession of Christ, regardless of opposition. Ultimately, confession of Christ is inseparable from obedience to His teachings and wholehearted belief in His divinity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7773325337615635,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                40.41,
+                0.0,
+                59.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Confessing Christ before others is crucial, for it signifies a deep unity and faith in Him. By confessing Him, believers can be assured that Christ will not deny them before the Father. This confession entails boldness, courage, and a readiness for martyrdom. Ministers of the Gospel have a responsibility to openly acknowledge and declare Christ's divinity, regardless of opposition. It is not merely a verbal statement but requires obedience to Christ's teachings and a recognition of His role as the Judge and Arbiter of eternal life and death.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8048653333282405,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                42.7,
+                0.0,
+                57.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

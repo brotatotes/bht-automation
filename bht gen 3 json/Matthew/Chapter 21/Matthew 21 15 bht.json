@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:50:41",
+    "verseRef": "Matthew 21:15",
+    "bestBHT": {
+        "bht": "The children's fervent cry of Hosanna to the Son of David during Jesus' triumphant entry in the temple reflects their caught enthusiasm, as they joined in the proclamation echoing the crowd. This outcry, coming from young boys, was extraordinary and intensified the resentment of the high priests and scribes. These children fearlessly witnessed and participated, undeterred by the opposition, reminding us that God often uses unexpected witnesses and demonstrations to proclaim suppressed truth.",
+        "wordCount": 74,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.6752651208819418,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+        "commentatorTierSimilarities": [
+            44.49,
+            11.6,
+            43.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The circumstance that the children were crying \u2018Hosanna to the Son of David\u2019 in the temple, seems to me to fix this event, as above, on the of the triumphal entry."
+        ],
+        "John Calvin": [
+            "It is probable that, as the crying out was not diminished, and as even the children now joined in it, the scribes and priests were roused to still fiercer indignation, and then commenced a new attack on Christ.",
+            "Now we know how eagerly they contended for their authority; for the object to which their zeal carried them was, that the tyranny, which they had once claimed, might continue to be enjoyed by them.",
+            "But as the truth is wickedly suppressed by those who ought to have been its lawful witnesses, it is not wonderful if God raise up others, and \u2014 to their shame \u2014 make choice of children."
+        ],
+        "Philip Schaff": [
+            "Including all His doings, especially this driving out of the traders.",
+            "The Hosannas of the day of entry were kept up by the children, probably only by the children."
+        ],
+        "Archibald T. Robertson": [
+            "The children (\u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03b9\u03b4\u03b1\u03c2). Masculine and probably boys who had caught the enthusiasm of the crowd. "
+        ],
+        "John Gill": [
+            "When they saw the wonderful things that he did; as the overturning the tables of the money changers, and the seats of those that sold doves, without any opposition, when these traders were so many, and in great power, and he a single person, and unarmed; and that the blind received their sight, and the lame were cured.",
+            "The form they had taken up from the people, and might be encouraged by their parents; and which they pronounced without fear of the high priests, and Scribes, being disposed, directed, and overruled hereunto by the providence of God.",
+            "That they should cry 'Hosanna' to Jesus, as David's son was very extraordinary, and what the high priests and Scribes took notice of with great resentment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the children cried out Hosanna to the Son of David in the temple, it is likely that this event occurred during Jesus' triumphant entry. These boys, caught up in the enthusiasm of the crowd, joined in the Hosannas, which were kept up by the children even after Jesus drove out the traders. The scribes and priests, fueled by their zeal for authority, were infuriated by the continued cries and intensified their attack on Christ. Yet, God chose to shamefully use children as witnesses of the truth that the religious leaders were suppressing. The children's bold proclamation of Hosanna to Jesus, David's son, was both extraordinary and a cause of great resentment for the high priests and scribes.",
+            "wordCount": 120,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.8545921491561037,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                42.54,
+                18.69,
+                38.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The children crying Hosanna to the Son of David in the temple during Jesus' triumphant entry signifies the extraordinary nature of their proclamation. Encouraged by their parents and undeterred by the high priests and scribes, these boys joined in the enthusiastic Hosannas. Their fearless witness and participation, even after witnessing Jesus's miraculous acts and driving out the traders, brought further indignation from the religious leaders. This event served as a reminder that God often chooses unexpected and humble witnesses to proclaim the truth that others seek to suppress.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.673790600793605,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                42.89,
+                14.82,
+                42.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The children's fervent cry of Hosanna to the Son of David during Jesus' triumphant entry in the temple reflects their caught enthusiasm, as they joined in the proclamation echoing the crowd. This outcry, coming from young boys, was extraordinary and intensified the resentment of the high priests and scribes. These children fearlessly witnessed and participated, undeterred by the opposition, reminding us that God often uses unexpected witnesses and demonstrations to proclaim suppressed truth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.6752651208819418,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                44.49,
+                11.6,
+                43.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The children's enthusiastic cry of Hosanna to the Son of David during Jesus' triumphant entry in the temple reveals their caught enthusiasm, as they joined in the proclamation echoing the crowd. This extraordinary outcry intensified the resentment of the high priests and scribes. These fearless children serve as unexpected witnesses undeterred by opposition, reminding us that God often chooses humble and surprising demonstrations to proclaim the truth that others seek to suppress.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.5563202669541174,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                43.72,
+                10.42,
+                45.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The children's enthusiastic cry of Hosanna to the Son of David during Jesus' triumphant entry in the temple signifies their caught enthusiasm, joining the echo of the crowd. This extraordinary outcry intensified the resentment of the high priests and scribes, as they were angered by the continued cries. The fearless children served as unexpected witnesses, proclaiming the truth that others sought to suppress. God often chooses humble and surprising demonstrations to demonstrate his power and confront those who oppose him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.5010701463062301,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                43.34,
+                12.48,
+                44.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

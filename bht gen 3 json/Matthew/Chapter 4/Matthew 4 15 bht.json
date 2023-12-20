@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:43:15",
+    "verseRef": "Matthew 4:15",
+    "bestBHT": {
+        "bht": "This Bible prophecy concerning the days of the Messiah is related to Galilee of the Gentiles, a region near Tyre and Sidon populated by various nations. Positioned as a frontier between the Holy Land and the external world, Galilee faced challenges due to its vulnerable position as a direct pathway for invaders from the north. Even during the Christian era, the Galileans were distinguishable by their distinct pronunciation. The mention of the sea of Galilee and Galilee of the Gentiles indicates specific locations with a significant Gentile presence.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.6521036500860298,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+        "commentatorTierSimilarities": [
+            36.76,
+            36.39,
+            26.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This prophecy is spoken with direct reference to the days of the Messiah.",
+            "All the members of this sentence are in apposition with one another.",
+            "Galilee superior, near to Tyre and Sidon, which was inhabited by a variety of nations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Galilee of the Gentiles\u2014so called from its position, which made it the frontier between the Holy Land and the external world.",
+            "While Ephraim and Judah, as STANLEY says, were separated from the world by the Jordan valley on one side and the hostile Philistines on another, the northern tribes were in the direct highway of all the invaders from the north.",
+            "In the time of the Christian era this original disadvantage of their position was still felt; the speech of the Galileans 'bewrayed them' by its uncouth pronunciation."
+        ],
+        "Philip Schaff": [
+            "The sea (or lake) of Galilee, not the Mediterranean.",
+            "Beyond Jordan, or \u2018the Jordan.\u2019 Either the country on the west side already spoken of, or Perea on the east side.",
+            "Galilee of the Gentiles. Upper Galilee, already spoken of by other names. It was near Gentile territory and probably had a large Gentile population."
+        ],
+        "John Gill": [
+            ":-"
+        ],
+        "John Wesley": [
+            "Galilee of the Gentiles \u2014 That part of Galilee which lay beyond Jordan was so called, because it was in a great measure inhabited by Gentiles, that is, heathens. Isaiah 9:1,2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This prophecy in Matthew is spoken directly with reference to the days of the Messiah. Galilee of the Gentiles was a region near Tyre and Sidon that was inhabited by a variety of nations. The original disadvantage of Galilee's position made it a frontier between the Holy Land and the external world. While Ephraim and Judah were separated from the world, the northern tribes were in the direct highway of all invaders from the north. In the time of the Christian era, this original disadvantage was still felt, as the speech of the Galileans 'bewrayed them' by its uncouth pronunciation. The sea (or lake) of Galilee, not the Mediterranean, is being referred to in this verse. Galilee of the Gentiles is also mentioned, which was a region near Gentile territory and likely had a large Gentile population.",
+            "wordCount": 138,
+            "quoteTokenProportion": 34.94,
+            "qualityScore": 1.7953724603817367,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                36.58,
+                38.23,
+                25.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This prophecy in the Bible is directly related to the time of the Messiah. Galilee of the Gentiles, a region near Tyre and Sidon, was inhabited by various nations. Positioned as a frontier between the Holy Land and the external world, Galilee faced the disadvantage of being in the direct highway of invaders from the north. The Galileans' speech was distinct and accentuated their uncouth pronunciation. The reference to the sea of Galilee, not the Mediterranean, suggests a specific location. Additionally, Galilee of the Gentiles, with its large Gentile population, is mentioned.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.6135637373075125,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                36.03,
+                39.23,
+                24.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This Bible prophecy directly pertains to the days of the Messiah. Galilee of the Gentiles, situated near Tyre and Sidon, was inhabited by diverse nations. As the frontier between the Holy Land and the external world, Galilee's geographical position presented challenges, with the northern tribes being vulnerable to invaders from the north. Even during the Christian era, Galileans were singled out by their distinct pronunciation. The reference to the sea of Galilee and to Galilee of the Gentiles highlights specific locations with a significant Gentile population.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6294601891388125,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                37.37,
+                36.2,
+                26.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This Bible prophecy concerning the days of the Messiah is related to Galilee of the Gentiles, a region near Tyre and Sidon populated by various nations. Positioned as a frontier between the Holy Land and the external world, Galilee faced challenges due to its vulnerable position as a direct pathway for invaders from the north. Even during the Christian era, the Galileans were distinguishable by their distinct pronunciation. The mention of the sea of Galilee and Galilee of the Gentiles indicates specific locations with a significant Gentile presence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6521036500860298,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                36.76,
+                36.39,
+                26.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This Bible prophecy refers to the days of the Messiah and specifically mentions Galilee of the Gentiles. Located near Tyre and Sidon, this region was inhabited by various nations. Galilee's position as a frontier between the Holy Land and the external world posed challenges, especially due to its susceptibility to invaders from the north. The Galileans' distinct pronunciations were notable even during the Christian era. The verse also alludes to the sea of Galilee, differentiating it from the Mediterranean, and highlights the significant Gentile population in Galilee of the Gentiles.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6323957013937882,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                35.65,
+                38.15,
+                26.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

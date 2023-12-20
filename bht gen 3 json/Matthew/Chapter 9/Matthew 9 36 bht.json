@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:46:10",
+    "verseRef": "Matthew 9:36",
+    "bestBHT": {
+        "bht": "As Jesus looked upon the multitude, He was deeply moved with compassion. He saw them plagued and burdened, like sheep without a shepherd. Neglected and scattered, they were in a pitiable state, mentally dejected and distressed. Jesus observed their wretchedness, and His heart went out to them. He pitied the masses, who were suffering from the heavy burdens imposed on them and neglected by their supposed shepherds. But Jesus, as the compassionate Redeemer, sought to gather them and provide comfort, like a good shepherd for His flock.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.1698513507361623,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+        "commentatorTierSimilarities": [
+            27.49,
+            41.12,
+            31.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "harassed] plagued,\u2014viz. literally, with weariness in following Him; or spiritually, with the tyranny of the Scribes and Pharisees, their heavy burdens...",
+            "scattered abroad] neglected, cast hither and thither, as sheep would be who had wandered from their pasture.",
+            "The context shews that our Lord\u2019s compassion was excited by their being without competent spiritual leaders and teachers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But when he saw the multitudes, he was moved with compassion on them, because they fainted\u2014This reading, however, has hardly any authority at all.",
+            "were scattered abroad\u2014rather, 'lying about,' 'abandoned,' or 'neglected.'",
+            "as sheep, having no shepherd\u2014their pitiable condition as wearied under bodily fatigue, a vast disorganized mass, being but a faint picture of their wretchedness as the victims of pharisaic guidance; their souls uncared for, yet drawn after and hanging upon Him. This moved the Redeemer's compassion."
+        ],
+        "Albert Barnes": [
+            "He was moved with compassion on them - He pitied them.",
+            "He saw the people burdened with the rites of religion and the doctrines of the Pharisees; sinking down under their ignorance and the weight of their traditions; neglected by those who ought to have been enlightened teachers...",
+            "With great beauty he compares them to sheep wandering without a shepherd... No wonder that the compassionate Redeemer was moved with pity."
+        ],
+        "Marvin Vincent": [
+            "The word originally means to flay, rend, or mangle. Aeschylus uses it of the tearing of dead bodies by fish.",
+            "As appropriate to the figure of sheep, it might be rendered here fleeced.",
+            "It is not the dispersion one from another, but their prostration in themselves that is meant."
+        ],
+        "John Calvin": [
+            "We must listen to the voice of Christ, who declares, that where there are no laborers there are no shepherds, and that those sheep are wandering and scattered which are not collected into the fold of God by the doctrine of the gospel.",
+            "His being moved with compassion proves him to be the faithful servant of the Father in promoting the salvation of his people, for whose sake he had clothed himself with our flesh.",
+            "Now that he has been received into heaven, he does not retain the same feelings to which he chose to be liable in this mortal life: yet he has not left off the care of his church, but looks after his wandering sheep, or rather, he gathers his flock which had been cruelly chased and torn by the wolves."
+        ],
+        "Philip Schaff": [
+            "Popularity called forth pity. Our Lord\u2019s sympathy, like ours, was called forth by particular, passing events.",
+            "They were suffering (\u2018distressed\u2019) from the burdens put on them by those who pretended to be their shepherds, the scribes and Pharisees, and uncared for by these, they wandered (\u2018scattered\u2019) as sheep left to stray from the pasture.",
+            "All who are without the good Shepherd are thus Spiritually vexed and abandoned."
+        ],
+        "Archibald T. Robertson": [
+            "A sad and pitiful state the crowds were in.",
+            "Used here of the common people, it describes their religious condition.",
+            "The masses were in a state of mental dejection."
+        ],
+        "John Gill": [
+            "His bowels yearned for them, he was touched with a feeling of their infirmities, as the merciful high priest, the good shepherd, and faithful prophet; being heartily concerned for the souls of men, their comfort here, and everlasting happiness hereafter.",
+            "Thrown and tossed about, and divided through the different sects of religion among them; no due care was taken of them, to gather and keep them together, and feed them with wholesome doctrine.",
+            "The Scribes and Pharisees were shepherds indeed, such as they were, but very bad ones; like the shepherds of Israel of old, who fed themselves, and not the flock."
+        ],
+        "John Wesley": [
+            "Because they were faint \u2014 In soul rather than in body.",
+            "As sheep having no shepherd \u2014 And yet they had many teachers; they had scribes in every city.",
+            "But they had none who cared for their souls, and none that were able, if they had been willing, to have wrought any deliverance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus saw the crowds, He was deeply moved with compassion. He saw that they were plagued and burdened, like sheep without a shepherd. They were scattered and abandoned, left to wander without competent spiritual leaders and teachers. The people were in a sad and pitiful state, mentally dejected and distressed. They were like sheep, mangled and torn by the misguided guidance of the Pharisees. Jesus saw their wretchedness and their souls uncared for, and His heart went out to them. He pitied the masses, who were suffering from the heavy burdens imposed on them and neglected by those who should have been their shepherds. But Jesus, as the compassionate Redeemer, was moved to action. He looked upon their wandering state and longed to gather them, to bring them into the fold of God through the gospel. Despite His ascension into heaven, He continues to care for His church and gather His flock, protecting them from the wolves that seek to tear them away. He is the good shepherd, ever concerned for the souls of mankind, yearning for their comfort and eternal happiness. The crowds in Matthew 9:36 were not only physically exhausted, but their souls were faint and in need of a shepherd who would love and guide them.",
+            "wordCount": 209,
+            "quoteTokenProportion": 31.36,
+            "qualityScore": 2.0898214991491253,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+            "commentatorTierSimilarities": [
+                25.5,
+                39.12,
+                35.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus beheld the multitude, He was moved with compassion. They were plagued and burdened, like sheep without a shepherd. Neglected and scattered, they wandered about in a pitiable state, longing for spiritual guidance. Their souls were uncared for, and Jesus saw their wretchedness. He pitied them as they were distressed and mentally dejected, suffering under the heavy burdens imposed by the Pharisees. But Jesus, the compassionate Redeemer, sought to gather them into the fold of God, bringing comfort and eternal happiness, like a good shepherd for His flock.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.158077671974465,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.1,
+            "commentatorTierSimilarities": [
+                26.68,
+                40.27,
+                33.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus saw the multitude, He was moved with compassion. The people were plagued and burdened, like sheep without a shepherd, abandoned and scattered. They were in a sad and pitiful state, mentally dejected and distressed. Jesus saw their wretchedness and pitied them, for they were suffering from the heavy burdens imposed on them by the Pharisees. But as the compassionate Redeemer, He longed to gather them into the fold of God, providing comfort and eternal happiness as the good shepherd for His flock.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.150296263454961,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.84,
+            "commentatorTierSimilarities": [
+                27.37,
+                40.86,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus looked upon the multitude, His heart overflowed with compassion. He saw them plagued, burdened, and scattered, like sheep without a shepherd. Their souls wandered and yearned, neglected by their supposed spiritual leaders. The people were in a pitiable state, mentally dejected and distressed. But Jesus, the compassionate Redeemer, longed to gather them into the loving embrace of God. He sought to provide comfort and everlasting happiness, becoming the good shepherd for His flock, guiding them with care and love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.05277864680572,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                26.77,
+                39.78,
+                33.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus looked upon the multitude, He was deeply moved with compassion. He saw them plagued and burdened, like sheep without a shepherd. Neglected and scattered, they were in a pitiable state, mentally dejected and distressed. Jesus observed their wretchedness, and His heart went out to them. He pitied the masses, who were suffering from the heavy burdens imposed on them and neglected by their supposed shepherds. But Jesus, as the compassionate Redeemer, sought to gather them and provide comfort, like a good shepherd for His flock.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.1698513507361623,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                27.49,
+                41.12,
+                31.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

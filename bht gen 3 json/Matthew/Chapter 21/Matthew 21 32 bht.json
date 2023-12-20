@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:51:06",
+    "verseRef": "Matthew 21:32",
+    "bestBHT": {
+        "bht": "The significance of righteousness is emphasized in the way it encompasses both obedience to God's commandments and the act of repentance. The rebellion of those who reject righteousness is manifested in their mistreatment of messengers. John the Baptist, who preached righteousness, called people to repentance and warned them of impending judgment. The transformation of notorious sinners, like publicans and harlots, highlights their potential for repentance and belief, in contrast to the self-righteous who failed to be moved by their example.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.78,
+        "qualityScore": 1.9431601364764166,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+        "commentatorTierSimilarities": [
+            39.57,
+            31.27,
+            29.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the way of righteousness, not only in the way of God\u2019s commandments",
+            "let the simpler sense here be the predominant one, and take righteousness for \u2018repentance'",
+            "the increasing rebellion of the husbandmen is shewn by their increasing ill-treatment of the messengers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For John came unto you in the way of righteousness...calling you to repentance...when like the Baptist he warned the old world to 'flee from the wrath to come.'",
+            "Of the publicans this is twice expressly recorded...Of the harlots, then, the same may be taken for granted, though the fact is not expressly recorded.",
+            "Instead of being 'provoked to jealousy' by their example, ye have seen them flocking to the Saviour and getting to heaven, unmoved."
+        ],
+        "John Calvin": [
+            "God came pointing out the way of righteousness by the mouth of John.",
+            "He presents an aggravated view of their malice; for it was an evidence of the lowest depravity, not even to follow the harlots and the publicans.",
+            "Faith does not consist solely in a person\u2019s giving his assent to true doctrine, but that it embraces something greater and loftier, that the hearer, renouncing himself, devotes his life wholly to God."
+        ],
+        "Philip Schaff": [
+            "In the way of righteousness... turning to that righteousness of life.",
+            "Remarkable cases of conversion are designed to be means of influencing others.",
+            "The proud and hypocritical are always harder to influence than open sinners."
+        ],
+        "Archibald T. Robertson": [
+            "In the way of righteousness (\u03b5\u03bd \u03bf\u03b4\u03c9 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7\u03c2). In the path of righteousness. Compare the two ways in Matthew 7:13; Matthew 7:14 and \"the way of God\" (Matthew 22:16). "
+        ],
+        "John Gill": [
+            "For John came unto you in a way of righteousness...there was nothing in his credentials, ministry, and conduct, that could justly be found fault with.\" ",
+            "The publicans and harlots believed him...and they repented of their sins, and confessed them.\" ",
+            "Ye, when ye had seen it...repented not afterwards...that ye might believe him."
+        ],
+        "John Wesley": [
+            "John came in a way of righteousness \u2014 Walking in it, as well as teaching it.",
+            "The most notorious sinners were reformed, though at first they said, I will not.",
+            "And ye seeing the amazing change which was wrought in them, though at first ye said, I go, sir, repented not afterward - Were no more convinced than before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the importance of righteousness, not only in terms of following God's commandments, but also in terms of repentance. It emphasizes how the rebellion of those who reject righteousness leads to mistreatment of messengers. John the Baptist, who came in the way of righteousness, called people to repentance and warned them to flee from the wrath to come. The passage implies that even the most notorious sinners, such as the publicans and harlots, had the potential for repentance and belief, while the self-righteous failed to follow their example.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9281604544039177,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                41.45,
+                28.69,
+                29.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The significance of righteousness is emphasized in the way it encompasses both obedience to God's commandments and the act of repentance. The rebellion of those who reject righteousness is manifested in their mistreatment of messengers. John the Baptist, who preached righteousness, called people to repentance and warned them of impending judgment. The transformation of notorious sinners, like publicans and harlots, highlights their potential for repentance and belief, in contrast to the self-righteous who failed to be moved by their example.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.9431601364764166,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                39.57,
+                31.27,
+                29.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The way of righteousness encompasses both obedience to God's commandments and repentance. John the Baptist exemplified this by calling people to repentance and warning them of judgment. Notably, even notorious sinners, like publicans and harlots, were reformed and believed in John's message. However, the self-righteous failed to be moved by their example, remaining unrepentant. The contrast between the transformative power of repentance and the hardened hearts of the self-righteous is evident in this passage.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6534611058072262,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                38.8,
+                28.05,
+                33.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The importance of righteousness is evident in its implications for both following God's commandments and embracing repentance. John the Baptist, who preached righteousness, called people to change their ways and warned them of the consequences of their actions. The transformation of notorious sinners, such as the tax collectors and prostitutes, serves as a striking example of the potential for repentance and belief. In contrast, the self-righteous remained unmoved by their example, failing to recognize the need for their own repentance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.77384812181809,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                38.88,
+                31.56,
+                29.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist's ministry highlighted the essential nature of righteousness, encompassing both obedience and repentance. Through his call to repentance, he urged people to turn away from their sinful ways and escape impending judgment. The transformation of notorious sinners like tax collectors and prostitutes demonstrates the power of repentance and belief. However, the self-righteous failed to learn from their example and remained unrepentant, disregarding John's message. This serves as a stark reminder that righteousness involves more than intellectual assent; it requires a wholehearted commitment to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.6761781938164766,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                35.7,
+                30.2,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

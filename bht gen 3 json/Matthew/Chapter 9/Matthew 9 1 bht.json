@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:45:19",
+    "verseRef": "Matthew 9:1",
+    "bestBHT": {
+        "bht": "This account should be connected to the previous chapter and takes place in Capernaum, Jesus' own city at the time. Capernaum was believed to be Jesus' birthplace due to His frequent visits. The scribes in the region were offended by Jesus' claim to forgive sins, and this miracle confirmed His authority. It vividly portrays the various forms of opposition and weakness Jesus encountered in His ministry.",
+        "wordCount": 66,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 1.4801661468024978,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.56,
+        "commentatorTierSimilarities": [
+            30.23,
+            33.89,
+            35.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Certainly this verse should be the sequel of the history in the last chapter.",
+            "It is not connected with the miracle following;\u2014which is placed by St. Luke at a different time, but with the indefinite introduction of 'it came to pass on a certain day.'",
+            "his own city] Capernaum, where our Lord now dwelt: cf. ch. iv. 13."
+        ],
+        "Albert Barnes": [
+            "Jesus acceded to the request of the people of Gadara Matthew 8:34, recrossed the Lake of Gennesareth, and returned to his own city.",
+            "By 'his own city' is meant Capernaum Mark 2:1, the city which was at that time his home, or where he had his dwelling.",
+            "This same account, with some additional circumstances, is contained in Mark 2:3-12, and Luke 5:18-26."
+        ],
+        "John Calvin": [
+            "This passage shows, that Capernaum was generally believed to be the birth-place of Christ, because his visits to it were frequent.",
+            "Luke says that scribes had come from various parts of Judea, who were spectators when Christ healed the paralytic.",
+            "Another special reason why the Evangelists dwell more on this miracle than on others is, that the scribes were offended at Christ for claiming power and authority to forgive sins; while Christ intended to confirm and seal that authority by a visible sign."
+        ],
+        "Philip Schaff": [
+            "The incidents mentioned in Matthew 8:19-22, which are placed very much later by Luke (the only other Evangelist who records them), probably occurred just before our Lord crossed the lake.",
+            "Reaching the other side, His conflict with sin and Satan is renewed; the fiercest demoniacs, possessed with the most numerous company of demons, meet Him.",
+            "The whole section is a vivid sketch of the various forms of weakness and opposition our Lord always encounters. The central event (the stilling of the tempest) is the most significant one."
+        ],
+        "Archibald T. Robertson": [
+            "His own city (\u03c4\u03b7\u03bd \u03b9\u03b4\u03b9\u03b1\u03bd \u03c0\u03bf\u03bb\u03b9\u03bd). Capernaum (Mark 2:1; Matthew 4:13). "
+        ],
+        "John Gill": [
+            "He immediately turned his back upon them, as an ungrateful people, being no better than their swine.",
+            "He returned to the sea side, took shipping, and passed over the sea of Tiberias again.",
+            "One or other of these Christ had done, which denominated this city to be his, and he to be either an inhabitant, or a citizen of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certainly, this verse should be understood as a continuation of the previous chapter's narrative, not directly connected to the subsequent miracle. It takes place in Capernaum, which was Jesus' own city at the time. Jesus had returned to Capernaum after fulfilling the request of the people of Gadara. The account of this event can also be found in the Gospels of Mark and Luke, with some additional details. It is worth noting that Capernaum was believed to be the birthplace of Christ, as His visits to the city were frequent. The scribes in the region were offended by Jesus' claim to forgive sins, and this miracle served as a visible confirmation of His authority. Jesus faced various forms of opposition and weakness throughout His ministry, and this section serves as a vivid illustration of those challenges.",
+            "wordCount": 137,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.5464817502713641,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                31.69,
+                33.97,
+                34.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certainly, this account should be understood as a continuation of the previous chapter's narrative, taking place in Capernaum, Jesus' own city at the time. Jesus had fulfilled the request of the people of Gadara and returned to Capernaum. The scribes in the region were offended by Jesus' claim to forgive sins, and this visible miracle served as a confirmation of His authority. This section vividly portrays the various forms of opposition and weakness Jesus encountered throughout His ministry.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4340557858798557,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "commentatorTierSimilarities": [
+                26.67,
+                36.78,
+                36.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Certainly, this verse should be the sequel of the history in the last chapter, not connected with the miracle following. It takes place in Capernaum, Jesus' own city, where He now dwelt. This account can also be found in Mark and Luke, providing additional details. Capernaum was generally believed to be the birthplace of Christ, as His visits to it were frequent. The scribes in the region were offended by Jesus' claim to forgive sins, and this miracle served as a visible sign of His authority. It vividly illustrates the various forms of weakness and opposition Jesus encountered.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.56775208414002,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                34.71,
+                32.03,
+                33.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This account should be connected to the previous chapter and takes place in Capernaum, Jesus' own city at the time. Capernaum was believed to be Jesus' birthplace due to His frequent visits. The scribes in the region were offended by Jesus' claim to forgive sins, and this miracle confirmed His authority. It vividly portrays the various forms of opposition and weakness Jesus encountered in His ministry.",
+            "wordCount": 66,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.4801661468024978,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.56,
+            "commentatorTierSimilarities": [
+                30.23,
+                33.89,
+                35.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Certainly, this account should be understood as a continuation of the previous chapter's narrative, taking place in Capernaum, Jesus' own city at the time. Jesus had returned to Capernaum after fulfilling the request of the people of Gadara. The scribes in the region were offended by Jesus' claim to forgive sins, and this miracle served as a visible confirmation of His authority. Capernaum was generally believed to be the birthplace of Christ, as His visits to it were frequent and connected to His identity. The passage vividly portrays the various forms of opposition and weakness Jesus encountered throughout His ministry.",
+            "wordCount": 101,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.4557233572334853,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                27.33,
+                33.62,
+                39.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

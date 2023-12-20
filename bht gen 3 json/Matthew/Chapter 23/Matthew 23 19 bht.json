@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:51:38",
+    "verseRef": "Matthew 23:19",
+    "bestBHT": {
+        "bht": "The question posed in this verse is whether the gift or the altar holds greater importance. The altar is said to sanctify the gift, giving it value and holiness. Therefore, it can be inferred that the altar is of utmost significance. This implies that any oath made by the altar carries a greater sense of sacredness and obligation compared to one made by the gift alone. Clearly, the altar plays a crucial role in the sanctification process, elevating its importance above the gift.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.6159659248590637,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+        "commentatorTierSimilarities": [
+            17.4,
+            29.74,
+            52.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "19. Ye fools, and blind! for whether",
+            "\tis greater, the gift, or the altar that sanctifieth the gift?\u2014(See",
+            "\tExodus 29:37)."
+        ],
+        "Albert Barnes": [
+            "The altar, dedicated to God, gave all the value or holiness to the offering, and must therefore be the greatest or of the most importance.",
+            "If, therefore, either bound to the fulfillment of an oath, it must be the altar.",
+            "The altar that sanctifieth the gift."
+        ],
+        "Philip Schaff": [
+            "Matthew 23:19. Ye blind. The briefer reading is better supported.",
+            "\t"
+        ],
+        "John Gill": [
+            "For whether is greater, the gift, or the altar that sanctifieth the gift?\" ",
+            "A man that has the least share of common sense will easily see, that the altar must be the greater.\" ",
+            "An oath made by the altar should be more sacred and obligatory than one made by the gift."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whether the gift or the altar is greater is the question posed in this verse. The commentary suggests that it is the altar that sanctifies the gift, as seen in Exodus 29:37. The altar, dedicated to God, holds the value and holiness of the offering. Therefore, it is the altar that must be of the greatest importance. This implies that an oath made by the altar should be considered more sacred and binding than one made by the gift. It is clear that the altar holds a position of significance in relation to the gift.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.6278428174072228,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                17.07,
+                29.96,
+                52.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Matthew 23:19, the question of whether the gift or the altar is greater is raised. The first-tier commentary explains that the altar sanctifies the gift, giving it value and holiness. This suggests that the altar holds the utmost importance. As such, any oath made by the altar should be regarded as more sacred and binding than one made by the gift. The significance of the altar in relation to the gift is evident, emphasizing its crucial role in the sanctification process.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6125473094201197,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                17.02,
+                29.85,
+                53.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, the question arises regarding the significance of the gift versus the altar. The commentary clarifies that it is the altar that sanctifies the gift, imbuing it with value and holiness. Consequently, the greater importance is attributed to the altar. This understanding suggests that an oath made by the altar holds a greater sacredness and obligation compared to one made by the gift alone. Thus, the altar plays a vital role in the sanctification process, elevating its significance over the gift.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5274290521158813,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                16.97,
+                29.9,
+                53.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The question posed in this verse is whether the gift or the altar holds greater importance. The altar is said to sanctify the gift, giving it value and holiness. Therefore, it can be inferred that the altar is of utmost significance. This implies that any oath made by the altar carries a greater sense of sacredness and obligation compared to one made by the gift alone. Clearly, the altar plays a crucial role in the sanctification process, elevating its importance above the gift.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6159659248590637,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+            "commentatorTierSimilarities": [
+                17.4,
+                29.74,
+                52.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whether the gift or the altar is greater is the question raised. The commentary explains that the altar sanctifies the gift, giving it value and holiness. Therefore, the altar must be of the greatest importance. This implies that an oath made by the altar should be considered more sacred and binding than one made by the gift. It is clear that the altar holds significance in relation to the gift, emphasizing its crucial role in the sanctification process.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.6358446252759145,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                17.37,
+                28.42,
+                54.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

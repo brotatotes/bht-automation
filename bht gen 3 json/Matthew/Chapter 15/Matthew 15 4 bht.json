@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:48:20",
+    "verseRef": "Matthew 15:4",
+    "bestBHT": {
+        "bht": "The commandment to honor one's father and mother is of great importance, as God Himself delivered it to Moses. It goes beyond mere respect or refraining from cursing them; it encompasses providing for their needs and supporting them. Neglecting or disregarding their needs is a violation of this commandment, which serves as a barrier to prevent dishonor towards parents. It is not only a moral obligation but also a reasonable service to honor parents by providing for them. This commandment is emphasized through the phrase die the death, signifying the seriousness of dishonoring parents. (Exodus 20:12; 21:17)",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.2775535828624043,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.82,
+        "commentatorTierSimilarities": [
+            19.82,
+            27.73,
+            52.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4. For God commanded, saying, Honour",
+            "\tthy father and mother\u2014 ( :-). ",
+            "\t",
+            "and, He that curseth father",
+            "\tor mother, let him die the death\u2014 ( :-)."
+        ],
+        "Marvin Vincent": [
+            "Die the death [\u03b8\u03b1\u03bd\u03b1\u03c4\u03c9 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03c4\u03c9] . The Hebrew idiom is, he shall certainly be executed. The Greek is, lit., let him come to his end by death."
+        ],
+        "Philip Schaff": [
+            "For God said (comp. Mark 7:10), in the law of Moses.",
+            "He that revileth, etc. Exodus 21:17.",
+            "Surely die. In the original Hebrew: \u2018dying he shall die;\u2019 in the original Greek of this passage: \u2018let him end with death.\u2019"
+        ],
+        "John Gill": [
+            "This was a plain command of God, written with his own hand, and delivered by Moses to them; it was of a moral nature, and of eternal obligation.",
+            "Honouring them with their substance, feeding, clothing, and supplying them with the necessaries of life, when they stand in need thereof; which is but their reasonable service, for all the care, expense, and trouble they have been at, in bringing them up in the world.",
+            "And which is a positive command of God, made as a fence for the former; and is to be understood, not only of giving abusive language to parents, but of slighting, as the Hebrew word signifies, and neglecting them, taking no notice of them, when needy and in distress, to supply their wants."
+        ],
+        "John Wesley": [
+            "Honour thy father and mother \u2014 Which implies all such relief as they stand in need of. Exodus 20:12; 21:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's commandment to honor one's father and mother is a moral obligation of eternal significance. This commandment, delivered by Moses and written with God's own hand, requires more than mere respect or not cursing them. It encompasses honoring parents by providing for their needs, including food, clothing, and support. Neglecting or disregarding their needs is a violation of this commandment, which serves as a fence of protection. The seriousness of dishonoring parents is depicted in the Hebrew idiom die the death, signifying that one shall certainly be executed. Thus, honoring parents with our substance is not only a reasonable service but an essential aspect of fulfilling this commandment. (Exodus 20:12; 21:17)",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.3309157602116481,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.6,
+            "commentatorTierSimilarities": [
+                22.03,
+                29.23,
+                48.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's commandment to honor one's father and mother is a moral obligation of eternal significance. This commandment, delivered by Moses and written with God's own hand, requires more than mere respect or not cursing them. It encompasses honoring parents by providing for their needs, including food, clothing, and support. Neglecting or disregarding their needs is a violation of this commandment, which serves as a fence of protection. Thus, honoring parents with our substance is not only a reasonable service but an essential aspect of fulfilling this commandment. (Exodus 20:12; 21:17)",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.2040004629946945,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+            "commentatorTierSimilarities": [
+                14.73,
+                29.8,
+                55.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The commandment to honor one's father and mother is of great importance, as God Himself delivered it to Moses. It goes beyond mere respect or refraining from cursing them; it encompasses providing for their needs and supporting them. Neglecting or disregarding their needs is a violation of this commandment, which serves as a barrier to prevent dishonor towards parents. It is not only a moral obligation but also a reasonable service to honor parents by providing for them. This commandment is emphasized through the phrase die the death, signifying the seriousness of dishonoring parents. (Exodus 20:12; 21:17)",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.2775535828624043,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.82,
+            "commentatorTierSimilarities": [
+                19.82,
+                27.73,
+                52.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commandment to honor one's father and mother is a moral obligation of eternal significance. This divine command, delivered by Moses and written with God's own hand, requires more than mere respect or refraining from cursing them. It encompasses honoring parents by providing for their needs, such as food, clothing, and support. Neglecting or disregarding their needs is a violation of this commandment, serving as a protective measure. Honoring parents with our substance is not only reasonable but also essential in fulfilling this commandment. (Exodus 20:12; 21:17)",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.1754742403316847,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.43,
+            "commentatorTierSimilarities": [
+                15.14,
+                28.34,
+                56.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Honoring one's father and mother is not a mere suggestion, but a command of God Himself. Delivered by Moses and written with God's own hand, this commandment is of utmost importance and carries eternal significance. It entails more than just a token show of respect; it pertains to the responsibility of providing for their needs, including food, clothing, and support. Neglecting or disregarding their needs is a violation of this commandment, which serves as a protective boundary. Fulfilling this commandment is not only reasonable but an essential aspect of our obedience. (Exodus 20:12; 21:17)",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.1481810651450601,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "commentatorTierSimilarities": [
+                15.94,
+                29.07,
+                54.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

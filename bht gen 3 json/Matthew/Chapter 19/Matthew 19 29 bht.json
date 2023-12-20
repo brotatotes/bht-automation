@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:50:12",
+    "verseRef": "Matthew 19:29",
+    "bestBHT": {
+        "bht": "Those who willingly lose all for the sake of Christ will be rewarded not only in the next world, but also in this one, as they will receive a hundredfold return in value, if not in kind. While the primary reward is eternal life, those who choose to deny themselves for Christ will find that the immediate grace of God brings a deeper and sweeter joy than any earthly possession or relationship could provide. By prioritizing Christ over worldly things, believers experience abundant compensation and the incomparable joy of being in God's presence.",
+        "wordCount": 94,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 1.5134990146770326,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+        "commentatorTierSimilarities": [
+            30.93,
+            13.07,
+            56.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At the same time he informs them, ver. 29, that this reward should not in its most blessed particulars be theirs alone, but that of every one who should deny himself for Him (see 2 Tim. iv. 8)",
+            "The family relations are mentioned by St. Matthew in the order in which they would be left.",
+            "On the other points requiring notice, see note on Mark x. 29, 30."
+        ],
+        "Marvin Vincent": [
+            "Not only apostles, nor ought Peter to have inquired only concerning them.",
+            "The promise hitherto restricted to the apostles now becomes general.",
+            "Purchase the next world with this; so shalt thou win both."
+        ],
+        "John Calvin": [
+            "Those who shall willingly lose all for the sake of Christ, will be more happy even in this life than if they had retained the full possession of them; but the chief reward is laid up for them in heaven.",
+            "If any man estimate aright the immediate grace of God, by which he relieves the sorrows of his people, he will acknowledge that it is justly preferred to all the riches of the world.",
+            "Yet God gladdens his people, so that the small portion of good which they enjoy is more highly valued by them, and far sweeter, than if out of Christ they had enjoyed an unlimited abundance of good things."
+        ],
+        "Philip Schaff": [
+            "The promise is of general application.",
+            "'The family relations are mentioned in the order in which they would be left..'",
+            "Abundant compensation will be given even in this life."
+        ],
+        "Archibald T. Robertson": [
+            "A hundredfold (\u03b5\u03ba\u03b1\u03c4\u03bf\u03bd\u03c0\u03bb\u03b1\u03c3\u03b9\u03bf\u03bd\u03b1). But Westcott and Hort read \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03bf\u03bd\u03b1, manifold. Eternal life is the real reward. "
+        ],
+        "John Gill": [
+            "Not that believing in Christ, and professing his name, do necessarily require a parting with all worldly substance, and natural relations, but when these things stand in competition with Christ, he is to be loved and preferred before them.",
+            "The love and presence of God... should be more and better to them than an hundred houses, fields, and friends, without them.",
+            "They then have the best of it, who being called, in providence, to quit all terrene enjoyments for Christ's sake, are favored with his presence here, and shall enjoy eternal glory and happiness with him in another world."
+        ],
+        "John Wesley": [
+            "And every one \u2014 In every age and country; not you my apostles only.",
+            "Shall receive a hundred-fold - In value, though not in kind, even in the present world.",
+            "In value, though not in kind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who willingly lose all for the sake of Christ will be rewarded not only in the next world, but also in this one, as they will receive a hundredfold return in value, if not in kind. While the primary reward is eternal life, those who choose to deny themselves for Christ will find that the immediate grace of God brings a deeper and sweeter joy than any earthly possession or relationship could provide. The love and presence of God should surpass the value of a hundred houses, fields, and friends. By prioritizing Christ over worldly things, believers experience abundant compensation and the incomparable joy of being in God's presence.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.4460090948144728,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                29.09,
+                12.3,
+                58.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who willingly lose all for the sake of Christ will be rewarded not only in the next world, but also in this one, as they will receive a hundredfold return in value, if not in kind. While the primary reward is eternal life, those who choose to deny themselves for Christ will find that the immediate grace of God brings a deeper and sweeter joy than any earthly possession or relationship could provide. By prioritizing Christ over worldly things, believers experience abundant compensation and the incomparable joy of being in God's presence.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.5134990146770326,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                30.93,
+                13.07,
+                56.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who willingly forfeit worldly possessions and relationships for the sake of Christ will not only receive eternal life as their ultimate reward, but also find joy and abundance in the present. The promise of receiving a hundredfold return in value, if not in kind, highlights the surpassing value of God's grace and presence over temporary earthly treasures. Prioritizing Christ over worldly attachments brings a profound sense of fulfillment and satisfaction that cannot be measured by material wealth or human relationships.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4620612597709814,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                29.23,
+                17.53,
+                53.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 19:29, Jesus assures his disciples that those who sacrifice worldly possessions and relationships for Him will not only receive eternal life, but also find abundant blessings in the present. The promise of a hundredfold return, whether in value or kind, emphasizes the incomparable worth of God's grace and presence. By prioritizing Jesus above all else, believers discover a profound joy that surpasses earthly treasures and relationships. God's love and immediate blessings far outweigh the fleeting pleasures of this world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3852353602663698,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+            "commentatorTierSimilarities": [
+                29.51,
+                16.61,
+                53.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who willingly forsake worldly possessions and relationships for the sake of Christ will receive not only the reward of eternal life, but also find abundant blessings in the present. The promise of a hundredfold return, whether in value or kind, underscores the immeasurable value of God's grace and presence. By prioritizing Christ above all else, believers discover a joy and fulfillment that surpasses the temporary pleasures of this world. God's love and immediate blessings far outweigh any material wealth or earthly relationships.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.46238111651762,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
+            "commentatorTierSimilarities": [
+                29.35,
+                18.65,
+                52.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

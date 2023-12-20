@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:53:52",
+    "verseRef": "Matthew 26:72",
+    "bestBHT": {
+        "bht": "In the midst of Peter's denial of Jesus, he refers to Him as the man, showcasing his lack of recognition and contempt towards Jesus. This shift in language reflects Peter's descent from evasion to perjury, as he spirals further into sin. The fact that Peter denies Jesus with an oath suggests that this was a former habit for him. This moment serves as a stark reminder of our own human weakness and vulnerability to succumbing to sin, even for those who have known and followed Jesus closely.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.9865223711813935,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+        "commentatorTierSimilarities": [
+            38.32,
+            33.63,
+            28.05
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The man. As if he did not know Jesus ' name."
+        ],
+        "John Calvin": [
+            "we infer that a sinner, after having once fallen, is always hurried on from bad to worse.",
+            "this is the just vengeance of God, after we have deprived ourselves of the assistance of the Holy Spirit, to allow Satan a violent exercise of power over us",
+            "We ought also to observe, that almost in a single moment Peter thrice gave way; for this shows how unsteady we are, and how liable to fall."
+        ],
+        "Philip Schaff": [
+            "From evasion to perjury, one sin leading to another.",
+            "Peter was now \u2018a stone of stumbling,\u2019 not a \u2018rock.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "With an oath, Peter added an oath, probably a former habit so common to the Jews at that time.",
+            "He even refers to Jesus as 'the man,' an expression that could convey contempt, 'the fellow.'"
+        ],
+        "John Gill": [
+            "I do not know the man: meaning not only that he had no personal knowledge of him, or acquaintance with him; but that he had never seen the man in his life, nor did he know what manner of man he was.",
+            "Peter knew Christ in every sense; he knew him spiritually, whom to know is life eternal: and he valued the knowledge of him above all things else: he knew him to be God, and the Son of God; he knew him as mediator, and the Saviour of lost sinners; he knew him as man, and had had personal intimacy and conversation with him of a long time, and yet now denies he knew him.",
+            "This instance of Peter's shows the wickedness and deceitfulness of man's heart; and what the best of men are, or would be, when left to themselves, and of God: they become like other men, even like the men of the world, whose mouths are full of cursing and bitterness."
+        ],
+        "John Wesley": [
+            "He denied with an oath \u2014 To which possibly he was not unaccustomed, before our Lord called him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of Peter's denial of Jesus, he refers to Him as the man, showcasing his lack of recognition and contempt towards Jesus. This shift in language reflects Peter's descent from evasion to perjury, as he spirals further into sin. The fact that Peter denies Jesus with an oath suggests that this was a former habit for him. This moment serves as a stark reminder of our own human weakness and vulnerability to succumbing to sin, even for those who have known and followed Jesus closely.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9865223711813935,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                38.32,
+                33.63,
+                28.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of Peter's denial, he derogatorily refers to Jesus as the man, signifying his contempt and lack of recognition. This shift in language reflects his descent from evasion to perjury, as he spirals further into sin. The fact that Peter denies Jesus with an oath suggests that this was a former habit for him. This moment serves as a reminder of our own human weakness and vulnerability to sin, even for those who have known and followed Jesus closely.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.946337860931545,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                39.19,
+                32.41,
+                28.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of Peter's denial, his use of the expression the man demonstrates his contemptuous lack of recognition towards Jesus. This shift in language reveals his descent from evasion to perjury, as he falls deeper into sin. It is notable that Peter denies Jesus with an oath, indicating that this was a former habit for him. This moment serves as a powerful reminder of our own human weakness and susceptibility to sin, even for those who have had a close relationship with Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8562055938290036,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                37.12,
+                33.4,
+                29.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of Peter's denial, his contemptuous reference to Jesus as the man reveals his lack of recognition and disrespect. This shift in language reflects his progression from evasion to perjury, as he spirals deeper into sin. Notably, Peter's use of an oath to deny Jesus suggests it may have been a former habit. This moment serves as a stark reminder of our own human frailty and susceptibility to sin, even for those who have intimately known and followed Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8116857934392037,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                38.14,
+                32.04,
+                29.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of Peter's denial, he contemptuously refers to Jesus as the man, exposing his lack of recognition and potential disdain. This linguistic shift signifies his descent from evasion to perjury as he plunges further into sin. Peter's use of an oath to deny Jesus implies that such behavior may have been a habit for him. This episode serves as a profound reminder of the fragility and vulnerability of human nature, as even those who have closely followed Jesus can succumb to sin.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8232966157878618,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                36.83,
+                33.88,
+                29.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

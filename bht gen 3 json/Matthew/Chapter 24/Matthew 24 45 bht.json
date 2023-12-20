@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:52:51",
+    "verseRef": "Matthew 24:45",
+    "bestBHT": {
+        "bht": "This statement is written specifically for Apostles and Ministers of Christ, emphasizing the importance of prudence in faithful servants. It explains that promotion in this context is not about exclusion, but rather about spreading love. It advises servants to do their duty promptly and avoid delaying, as their higher rank brings a heavier burden. The verse underscores the need for these servants to be wise, well-instructed, and prioritize Christ in their ministry. It encourages each believer to aspire to wisdom and faithfulness, recognizing their role as stewards entrusted with their possessions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.4101704945187845,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.23,
+        "commentatorTierSimilarities": [
+            34.7,
+            30.04,
+            35.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse is especially addressed to the Apostles and Ministers of Christ.",
+            "Prudence in a servant can be only the consequence of faithfulness to his master.",
+            "That promotion shall not be like earthly promotion, wherein the eminence of one excludes that of another,\u2014but rather like the diffusion of love, in which, the more each has, the more there is for all."
+        ],
+        "Marvin Vincent": [
+            "In due season...doing his duty in its appointed time.",
+            "At the regular hours which his Lord observes when at home.",
+            "Not delaying because he thinks that his Lord delayeth his coming."
+        ],
+        "John Calvin": [
+            "But the object of Christ\u2019s reply is, to show that, if each of the common people ought to watch, much less ought it to be endured that the apostles should be asleep.",
+            "By these words he reminds them that they were not elevated to high rank for the purpose of indulging in ease, indolence, and pleasure; but that, the higher the rank of honor which they had obtained, the heavier was the burden which was laid on them.",
+            "Let all who are called to an honorable office learn from this, that they are so much the more strongly bound, not only to bestow their labor faithfully, but to strive with their utmost zeal and industry to discharge their duty."
+        ],
+        "Philip Schaff": [
+            "Who then is! A personal question for every believer, but not a discouraging one.",
+            "Faithfulness alone is success.",
+            "It is the 'faithful servant' whom the Lord has set over the household."
+        ],
+        "John Gill": [
+            "The 'servant' is there called a 'steward', for such a servant is meant; and a name that is very proper for the apostles and ministers of the word.",
+            "And they are 'wise', who know and are well instructed in divine things; who make Christ the main subject of their ministry; who improve their talents and time for their master's use.",
+            "To give them meat in due season; even 'their portion' of it, as in Luke 12:42: for the word of God is to be cut and rightly divided, and everyone in the family, according to his age, appetite, and digestion, is to have his proper part and portion given him."
+        ],
+        "John Wesley": [
+            "Which of you aspires after this character?",
+            "Wise - Every moment retaining the clearest conviction, that all he now has is only intrusted to him as a steward.",
+            "Faithful - Thinking, speaking, and acting continually, in a manner suitable to that conviction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse in Matthew 24:45 is especially addressed to the Apostles and Ministers of Christ, emphasizing that prudence in a servant can only come from faithfulness to their master. The promotion mentioned here is not like earthly promotion, where eminence excludes others, but rather like the diffusion of love, where the more each servant has, the more there is for all. The verse urges servants to do their duty at the appointed time and not delay, reminding them that their higher rank comes with a heavier burden and a stronger obligation to strive with utmost zeal and industry. The servant is called a steward, which is very fitting for Apostles and ministers of the Word. They are called to be wise and well-instructed in divine things, making Christ the main subject of their ministry and rightly dividing and giving everyone their proper portion of the Word of God. Ultimately, each believer should aspire after this character of being wise and faithful, thinking, speaking, and acting in a manner suitable to the conviction that all they have is only entrusted to them as stewards.",
+            "wordCount": 183,
+            "quoteTokenProportion": 36.94,
+            "qualityScore": 1.4652795647055372,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.06,
+            "commentatorTierSimilarities": [
+                32.04,
+                25.9,
+                42.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage directs its message specifically to the Apostles and Ministers of Christ, emphasizing the importance of prudence in a faithful servant. The promotion mentioned is not exclusive but rather a means to share and spread love. It encourages servants to fulfill their duty at the appointed time without delay. The verse reminds them that their higher rank brings a heavier burden and a stronger obligation to strive diligently. As stewards, they should be wise and well-instructed, making Christ the focus of their ministry. They should provide each person with their portion of the Word of God. Ultimately, every believer should aspire to possess the qualities of wisdom and faithfulness, recognizing that everything they have is entrusted to them as stewards.",
+            "wordCount": 122,
+            "quoteTokenProportion": 32.94,
+            "qualityScore": 1.325615326800723,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.42,
+            "commentatorTierSimilarities": [
+                33.86,
+                28.47,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This message specifically targets the Apostles and Ministers of Christ, emphasizing the need for prudence in faithful servants. The promotion mentioned is not an exclusive privilege, but rather an opportunity to share love. The verse urges servants to fulfill their duties promptly and not delay, reminding them of the heavier burden in their higher rank. They are called to be wise, well-instructed, and make Christ the focal point of their ministry. Each individual should aspire to possess wisdom and faithfulness, recognizing their role as stewards entrusted with their possessions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.3467481690339844,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                34.57,
+                29.1,
+                36.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This statement is written specifically for Apostles and Ministers of Christ, emphasizing the importance of prudence in faithful servants. It explains that promotion in this context is not about exclusion, but rather about spreading love. It advises servants to do their duty promptly and avoid delaying, as their higher rank brings a heavier burden. The verse underscores the need for these servants to be wise, well-instructed, and prioritize Christ in their ministry. It encourages each believer to aspire to wisdom and faithfulness, recognizing their role as stewards entrusted with their possessions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.4101704945187845,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.23,
+            "commentatorTierSimilarities": [
+                34.7,
+                30.04,
+                35.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This statement speaks directly to Apostles and Ministers of Christ, emphasizing the significance of prudence in faithful servants. It clarifies that promotion in this case is not about exclusion but rather about spreading love. It urges servants to promptly fulfill their duties and avoid delay, as their higher rank brings a heavier burden. The verse highlights the need for these servants to be wise, well-instructed, and prioritize Christ in their ministry. It encourages every believer to aspire to wisdom and faithfulness, recognizing their role as stewards entrusted with their possessions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.3785245243848752,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.18,
+            "commentatorTierSimilarities": [
+                34.69,
+                29.3,
+                36.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

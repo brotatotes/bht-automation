@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:45:22",
+    "verseRef": "Matthew 9:25",
+    "bestBHT": {
+        "bht": "When the people were put forth from the house, to shew, that he did not affect popular applause, Jesus went in and took the girl by the hand, an outward sign in the presence of chosen witnesses, to mark the power as His. He called to her, as to a person asleep, and said unto her these words, 'Talitha cumi.' All of this was done to demonstrate that she was truly restored to life, showing us that no degree of death is so desperate as to be past His help.",
+        "wordCount": 90,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.5197177269609625,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+        "commentatorTierSimilarities": [
+            0.0,
+            45.37,
+            54.63
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The crowd was put forth. They were put out of the house... people cling to a funeral custom with singular tenacity.",
+            "He went in and took her by the hand... an outward sign in the presence of chosen witnesses, to mark the power as His.",
+            "The damsel arose... Her age was twelve years...showing the variety of independent witnesses."
+        ],
+        "John Gill": [
+            "But when the people were put forth...to shew, that he did not affect popular applause...",
+            "His taking her by the hand, was not all that he did, but he called, as to a person asleep, and said unto her these words, 'Talitha cumi', as recorded by Mark...",
+            "All which most fully demonstrated that she was really restored to life, which was as clear a case, as that before she was really dead."
+        ],
+        "John Wesley": [
+            "Christ raised three dead persons to life; this child, the widow's son, and Lazarus.",
+            "...to show us that no degree of death is so desperate as to be past his help.",
+            "...to show us that no degree of death is so desperate as to be past his help."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the people were put forth from the house, to shew, that he did not affect popular applause, Jesus went in and took the girl by the hand, an outward sign in the presence of chosen witnesses, to mark the power as His. He called to her, as to a person asleep, and said unto her these words, 'Talitha cumi.' All of this was done to demonstrate that she was truly restored to life, showing us that no degree of death is so desperate as to be past His help.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.5197177269609625,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.37,
+                54.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the people were put forth from the house, Jesus went in and took the girl by the hand, an outward sign in the presence of chosen witnesses, to mark the power as His. He called to her, as to a person asleep, and said unto her these words, 'Talitha cumi.' All of this was done to demonstrate that she was truly restored to life, showing us that no degree of death is so desperate as to be past His help.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.5188869712903958,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.22,
+                51.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the people were put forth from the house, Jesus went in and took the girl by the hand, an outward sign to mark the power as His. He called to her, as to a person asleep, and said unto her these words, 'Talitha cumi.' All of this was done to demonstrate that she was truly restored to life, showing us that no degree of death is so desperate as to be past His help.",
+            "wordCount": 75,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.4098915454991843,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.53,
+                55.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the people were put forth from the house, Jesus took the girl by the hand and called to her, saying, Talitha cumi. This action was an outward sign to mark His power and demonstrate that she was truly restored to life. It shows us that no degree of death is so desperate as to be beyond His help.",
+            "wordCount": 59,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.4273299982333212,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.24,
+                57.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the people were put forth from the house, Jesus took the girl by the hand and called to her, saying, Talitha cumi. This action was an outward sign to mark His power and demonstrate that she was truly restored to life. It shows us that no degree of death is so desperate as to be beyond His help.",
+            "wordCount": 59,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.4273299982333212,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.24,
+                57.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

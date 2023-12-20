@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:49:03",
+    "verseRef": "Matthew 17:16",
+    "bestBHT": {
+        "bht": "The disciples' inability to cast out the unclean spirit highlighted both the severity of the disease and their own weakness. This incident caused skepticism and accusations among some who questioned why the disciples, who possessed the power over unclean spirits, were unsuccessful in this instance. However, it is worth noting that the child's father also demonstrated a lack of faith, pleading, if thou canst do anything, help us. Jesus used this opportunity to emphasize the significance of faith, with the father admitting his need for the Lord's help in overcoming his unbelief.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.3056108624452911,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+        "commentatorTierSimilarities": [
+            0.0,
+            31.37,
+            68.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Not to the apostles, for they had power over unclean spirits.\" ",
+            "Others of his followers who attempted to work miracles.",
+            "Many of his disciples attempted this who were not personal attendants on his ministry."
+        ],
+        "Philip Schaff": [
+            "Matthew 17:16. Thy disciples. Including the nine Apostles.",
+            "\t"
+        ],
+        "John Gill": [
+            "This he said, partly to show the malignity and stubbornness of the disease, and partly to accuse the disciples of weakness.",
+            "Here the Jew insults, and charges with contradiction, that in one place it should be said, that Jesus gave his disciples power to cast out unclean spirits, and here all the disciples could not cast a spirit out of one little child: but without any reason.",
+            "It is clear from Mark, that when he came to Christ, he had but little faith; he says to him, 'if thou canst do anything, help us'; and after Christ had talked with him about his faith, he could only say, 'Lord, I believe, help mine unbelief'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were unable to cast out the unclean spirit from the child, which demonstrated the severity of the disease as well as the disciples' weakness. This incident led to accusations and skepticism, as some questioned why the disciples, who had been given power over unclean spirits, were unable to perform this miracle. However, it is important to note that the child's father demonstrated a lack of faith as well, exclaiming, if thou canst do anything, help us. In response, Jesus emphasized the importance of faith, with the father acknowledging his need for the Lord's assistance in his unbelief.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.3573386240242866,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.85,
+                67.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' inability to cast out the unclean spirit highlighted both the severity of the disease and their own weakness. This incident caused skepticism and accusations among some who questioned why the disciples, who possessed the power over unclean spirits, were unsuccessful in this instance. However, it is worth noting that the child's father also demonstrated a lack of faith, pleading, if thou canst do anything, help us. Jesus used this opportunity to emphasize the significance of faith, with the father admitting his need for the Lord's help in overcoming his unbelief.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3056108624452911,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                31.37,
+                68.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' inability to cast out the unclean spirit demonstrated the severity of the disease as well as their own weakness. This incident led to accusations and skepticism, with some questioning why the disciples, who had been given power over unclean spirits, were unable to perform this miracle. However, it is important to note that the child's father also lacked faith, pleading, if thou canst do anything, help us. In response, Jesus highlighted the importance of faith, and the father acknowledged his need for the Lord's help in overcoming his unbelief.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3034382526364428,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                31.78,
+                68.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' inability to cast out the unclean spirit illustrated the seriousness of the disease and their own limitations. This incident provoked doubt and criticism, as some questioned why the disciples, who possessed the authority over unclean spirits, were unable to perform this particular miracle. However, it is worth noting that the child's father also struggled with faith, pleading, if thou canst do anything, help us. Jesus used this opportunity to emphasize the importance of faith, prompting the father to acknowledge his need for the Lord's assistance in his wavering belief.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.2520188554372682,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.87,
+                67.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' inability to cast out the unclean spirit revealed the magnitude of the disease and their own inadequacy. This incident prompted doubts and criticisms as to why the disciples, who possessed the power to drive out unclean spirits, failed in this instance. However, it should be noted that the child's father also displayed a lack of faith, pleading, if thou canst do anything, help us. Jesus used this opportunity to underscore the significance of faith, prompting the father to acknowledge his reliance on the Lord's assistance in overcoming his doubts.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.2683854428555001,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.89,
+                67.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

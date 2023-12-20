@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:43:24",
+    "verseRef": "Matthew 3:11",
+    "bestBHT": {
+        "bht": "The Coming One will baptize with the Holy Spirit and fire, a power surpassing John's water baptism. This baptism signifies the fiery character of the Spirit's operations on the soul, searching, consuming, refining, and sublimating. John humbly compares himself to the lowliest of servants, feeling unworthy to even take off the sandals of the Coming One. The baptism of the Holy Spirit refers to the inward work of conversion, purification, and guidance. The powerful and purifying influences of the Spirit were evident on the day of Pentecost, symbolized by the appearance of fire.",
+        "wordCount": 95,
+        "quoteTokenProportion": 28.07,
+        "qualityScore": 2.1172677672371263,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+        "commentatorTierSimilarities": [
+            31.26,
+            38.7,
+            30.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He it is, to the exclusion of all others, that shall baptize you.\" (Matthew 3:11) ",
+            "His it is, as His sole prerogative, to dispense the inward reality.\" (Matthew 3:11)",
+            "Clearly, as we think, it is but the fiery character of the Spirit's operations upon the soul\u2014searching, consuming, refining, sublimating\u2014as nearly all good interpreters understand the words.\" (Matthew 3:11)"
+        ],
+        "Albert Barnes": [
+            "The expression in this place, therefore, denotes great humility, and John says that he was nor worthy to be the servant of him who should come after him.",
+            "The baptism of the Holy Spirit is the same, therefore, as the sending of his influences to convert, purify, and guide the soul.",
+            "His ministry would not affect the external life only, but the heart, the motives, the soul; and would produce rapid and permanent changes in the lives of people."
+        ],
+        "Marvin Vincent": [
+            "To bear the sandals of their masters, that is, to bring and take them away, as well as to fasten or to take them off, was, among the Jews, Greeks, and Romans, the business of slaves of the lowest rank.",
+            "John puts himself in the position of the meanest of servants.",
+            "Compare to unloose, Mark 1:7."
+        ],
+        "John Calvin": [
+            "He who cometh after me is stronger than I Christ is thus declared to be so far superior in power and rank, that, with respect to him, John must occupy a private station.",
+            "He uses ordinary forms of speech to magnify the glory of Christ, in comparison of whom he declares that he himself is nothing.",
+            "We must therefore hold by what I have already said, that John merely distinguishes, in this passage, between himself and the other ministers of baptism, on the one hand, and the power of Christ, on the other, and maintains the superiority of the master over the servants."
+        ],
+        "Philip Schaff": [
+            "This unexampled humility was stronger evidence of true greatness than the power he exerted as a preacher.",
+            "The contrast is between John\u2019s baptism unto repentance, and the spiritual power which Christ would give (not the Christian rite), for full and entire salvation.",
+            "Some refer this to the fire of judgment, but the close connection with what precedes, and the actual appearance of 'fire' on the day of Pentecost, favor a reference to the powerful and purifying influences of the Holy Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "His baptism is water baptism, but the Coming One 'will baptize in the Holy Spirit and fire.'\" ",
+            "Life in the coming age is in the sphere of the Spirit. Spirit and fire are coupled with one preposition as a double baptism.\" ",
+            "As the humblest of servants John felt unworthy to take off the sandals of the Coming One."
+        ],
+        "John Gill": [
+            "I can administer, and have administered the outward ordinance to you; but the inward grace and increase of it, together with the ordinary and extraordinary gifts of the Spirit, I cannot confer.",
+            "The Baptist was so sensible of the inequality between them, and of his unworthiness to be mentioned with him, that he seems at a loss almost to express his distance from him.",
+            "The Baptist points at the peculiar work of this great person, in which he greatly exceeds anything done by him; he shall baptize you with the Holy Ghost, and with fire."
+        ],
+        "John Wesley": [
+            "He shall baptize you with the Holy Ghost and with fire...inflaming your hearts with that fire of love.\" ",
+            "He shall fill you with the Holy Ghost, inflaming your hearts with that fire of love, which many waters cannot quench.",
+            "And this was done, even with a visible appearance as of fire, on the day of Pentecost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the Coming One who will baptize with the Holy Spirit and fire, a power that far surpasses John's water baptism. The first-tier commentary emphasizes the exclusivity of the Coming One's role in baptizing and describes the fiery nature of the Spirit's operations on the soul. John, recognizing his unworthiness, compares himself to the lowest of servants and feels inadequate to even take off the sandals of the Coming One. The second-tier commentary further explains that the baptism of the Holy Spirit refers to the inward work of conversion, purification, and guidance. It also highlights the rapid and transformative effects the Coming One's ministry will have on people's lives. The third-tier commentary reiterates the superiority and greatness of the Coming One, emphasizing John's humility and magnifying the distinction between master and servant. It references the outpouring of the Holy Spirit on the day of Pentecost, where the fire-like appearance signified the powerful and purifying influences of the Spirit. Overall, the verse and the commentary offer insights into the extraordinary nature and transformative power of the Coming One's baptism in the Holy Spirit and fire.",
+            "wordCount": 198,
+            "quoteTokenProportion": 26.8,
+            "qualityScore": 2.0247704727202356,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.66,
+            "commentatorTierSimilarities": [
+                29.76,
+                39.55,
+                30.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Coming One will baptize with the Holy Spirit and fire, a power surpassing John's water baptism. This baptism signifies the fiery character of the Spirit's operations on the soul, searching, consuming, refining, and sublimating. John humbly compares himself to the lowliest of servants, feeling unworthy to even take off the sandals of the Coming One. The baptism of the Holy Spirit refers to the inward work of conversion, purification, and guidance. The powerful and purifying influences of the Spirit were evident on the day of Pentecost, symbolized by the appearance of fire.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 2.1172677672371263,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+            "commentatorTierSimilarities": [
+                31.26,
+                38.7,
+                30.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Coming One possesses the exclusive prerogative to baptize, dispensing the inward reality and fiery character of the Spirit's operations on the soul. John, recognizing his unworthiness, puts himself in the position of the lowliest of servants, feeling inadequate compared to the greatness of the Coming One. This baptism involves the powerful work of the Holy Spirit, converting, purifying, and guiding the soul. The day of Pentecost provides a tangible example of the Spirit's purifying and influential fire.",
+            "wordCount": 80,
+            "quoteTokenProportion": 21.57,
+            "qualityScore": 1.9913221350493877,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                29.01,
+                40.31,
+                30.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Coming One alone has the authority to baptize, bestowing the inward reality and fiery workings of the Spirit on the soul. John, with great humility, regards himself as the lowliest servant, unworthy to even remove the sandals of the Coming One. This baptism encompasses the powerful influence of the Holy Spirit, purifying and transforming the heart. The visible appearance of fire on the day of Pentecost is an example of the Spirit's purifying and purging effects. The Coming One's baptism surpasses John's water baptism, offering a profound and life-changing experience.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 2.041341882454298,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                30.02,
+                39.46,
+                30.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Coming One baptizes exclusively, granting the inward reality of the Spirit's fiery operations on the soul. John, acknowledging his unworthiness, humbly considers himself the lowliest of servants unable to remove the sandals of the Coming One. This baptism involves the powerful influence of the Holy Spirit, purifying and refining the heart. The visible appearance of fire on the day of Pentecost illustrates the Spirit's purifying and transformative effects. The Coming One's baptism surpasses John's water baptism, offering a remarkable and life-altering encounter.",
+            "wordCount": 88,
+            "quoteTokenProportion": 18.52,
+            "qualityScore": 1.9141056109520138,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                31.23,
+                38.05,
+                30.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

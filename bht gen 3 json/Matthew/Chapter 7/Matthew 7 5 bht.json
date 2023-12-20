@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:44:53",
+    "verseRef": "Matthew 7:5",
+    "bestBHT": {
+        "bht": "The hypocrite is one who presumptuously acts as a physician while being in need of healing themselves. Instead of merely gazing at the faults of others, we are called to see clearly, not to condemn but to aid our brother. Genuine reprovers are those who first judge themselves and approach others with love and moderation. Through self-examination and purification of our own vision, we can effectively assist our brother, removing their faults. Let us remove the beam from our own eye to truly help our brother remove the speck from theirs.",
+        "wordCount": 92,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.047420058642154,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+        "commentatorTierSimilarities": [
+            28.54,
+            40.82,
+            30.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He calls this man a hypocrite, as usurping the office of a physician, when he really fills the place of a sick man: or as in pretence busying himself about another man\u2019s fault, but in reality doing it with a view to condemning him.\" ",
+            "Before, to behold the mote was all\u2014to stare at thy brother's faults, and as people do who stand and gaze at an object, attract others to gaze also.",
+            "The beholding was vain and idle; the seeing clearly is for a blessed end, viz. (ch. xviii. 15) to gain thy brother."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'hypocrisy' which, not without indignation, He charges it with, consists in the pretense of a zealous and compassionate charity, which cannot possibly be real in one who suffers worse faults to lie uncorrected in himself.",
+            "He only is fit to be a reprover of others who jealously and severely judges himself.",
+            "Such persons will not only be slow to undertake the office of censor on their neighbors, but, when constrained in faithfulness to deal with them, will make it evident that they do it with reluctance and not satisfaction, with moderation and not exaggeration, with love and not harshness."
+        ],
+        "Albert Barnes": [
+            "By first amending our own faults, or casting the beam out of our eye, we can 'consistently' advance to correct the faults of others.",
+            "There will then be no hypocrisy in our conduct.",
+            "The sentiment is, that the readiest way to judge the imperfections of others is to be free from greater ones ourselves."
+        ],
+        "Marvin Vincent": [
+            "See clearly [\u03b4\u03b9\u03b1\u03b2\u03bb\u03b5\u03c8\u03b5\u03b9\u03c2] . The preposition dia, through, giving the sense of thoroughness.\" ",
+            "With the beam in thine eye thou starest at thy brother 's little failing.",
+            "Hence thou shalt see clearly, not the mote, but to cast out the mote."
+        ],
+        "Philip Schaff": [
+            "Such action is hypocrisy before God and before the conscience also. First, before meddling with others.",
+            "The look must be purified before it can be used for this end; one must have got rid of great faults before he can see \u2018clearly\u2019 enough to help his brother get rid of his faults.",
+            "To get clearness of vision ourselves is the great end; caution is necessary in helping the brother."
+        ],
+        "Archibald T. Robertson": [
+            "Shalt thou see clearly (\u03b4\u03b9\u03b1\u03b2\u03bb\u03b5\u03c8\u03b5\u03b9\u03c2). Look through, penetrate in contrast to \u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03c2, to gaze at...",
+            "Get the log out of your eye and you will see clearly...",
+            "...how to help the brother get the splinter out (\u03b5\u03ba\u03b2\u03b1\u03bb\u03b5\u03b9\u03bd) of his eye."
+        ],
+        "John Gill": [
+            "The meaning of this proverbial expression is, that a man should first begin with himself, take notice of his own sins, reprove himself for them, and reform; and then it will be soon enough to observe other men's.",
+            "Then will he, and not before, be a proper person to reprove others; all objections and impediments to such a work will then be removed.",
+            "The sense of each of them is, that a man should first reform himself and then others; and that he that finds faults with others, ought to be without blame himself."
+        ],
+        "John Wesley": [
+            "It is mere hypocrisy to pretend zeal for the amendment of others while we have none for our own.",
+            "When that which obstructed thy sight is removed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who calls out the faults of others while neglecting his own is a hypocrite, resembling a sick man masquerading as a physician. Instead of merely gazing at the faults of others, we must aim to see clearly, not to condemn, but to help our brother. True reproof can only come from one who judges themselves and approaches others with love, moderation, and reluctance. By first addressing our own faults and purifying our own vision, we can genuinely assist our brother in addressing their shortcomings. So let us remove the beam from our own eye so that we may truly see how to assist our brother in removing the splinter from theirs.",
+            "wordCount": 112,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.167749564865252,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+            "commentatorTierSimilarities": [
+                29.02,
+                41.02,
+                29.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The one who condemns others while neglecting their own faults is a hypocrite, resembling a sick person pretending to be a doctor. Instead of merely staring at the faults of others, we are called to see clearly, not to judge, but to help our brother. Genuine reproof can only come from someone who also judges themselves and approaches others with love, moderation, and reluctance. By addressing our own faults first and purifying our own vision, we can effectively assist others in addressing their shortcomings. Let us remove the beam from our eye so we can help our brother remove the splinter from theirs.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.112071112649705,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                28.99,
+                41.26,
+                29.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The hypocrite, who pretends to be a zealous judge of others but ignores their own faults, is like a sick person trying to be a doctor. We must not simply gaze at the flaws of our brother, but seek clarity not to condemn, but to help them. True reprovers judge themselves first and approach others with love, moderation, and reluctance. By examining our own faults and purifying our vision, we can effectively assist our brother in removing their faults. Remove the beam from your eye to offer genuine help to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0217298952520557,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                30.0,
+                40.56,
+                29.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To be a true judge, one must first judge oneself, for the hypocrite who condemns others while overlooking their own faults is like a counterfeit physician pretending to heal the sick. Instead of simply fixating on the flaws of others, we are called to see clearly, not to criticize, but to help our fellow brethren. Genuine reproof arises from those who judge themselves meticulously and approach others with love, restraint, and unwillingness. By addressing and rectifying our own faults, we can authentically aid others in rectifying theirs. Remove the log from your own eye so you can sincerely assist your brother in removing the speck from theirs.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0415831635311283,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                28.07,
+                41.63,
+                30.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hypocrite is one who presumptuously acts as a physician while being in need of healing themselves. Instead of merely gazing at the faults of others, we are called to see clearly, not to condemn but to aid our brother. Genuine reprovers are those who first judge themselves and approach others with love and moderation. Through self-examination and purification of our own vision, we can effectively assist our brother, removing their faults. Let us remove the beam from our own eye to truly help our brother remove the speck from theirs.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.047420058642154,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                28.54,
+                40.82,
+                30.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

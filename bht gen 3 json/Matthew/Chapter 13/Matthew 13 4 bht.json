@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:47:24",
+    "verseRef": "Matthew 13:4",
+    "bestBHT": {
+        "bht": "In the parable of the sower, the imagery of the cornfield is used to illustrate the diverse conditions of people's hearts. The trodden pathway represents the wayside hearers who receive the seed without understanding, hindering their own comprehension of the word. These careless, negligent, and inattentive hearers are susceptible to the birds of Satan, who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to bear fruit in our lives.",
+        "wordCount": 94,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.3423592775639102,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+        "commentatorTierSimilarities": [
+            32.1,
+            25.69,
+            42.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "There was the undulating cornfield descending to the water's edge.",
+            "There was the trodden pathway running through the midst of it, with no fence or hedge to prevent the seed from falling here and there on either side of it or upon it.",
+            "There were the large bushes of thorn - the nabk, that kind of which tradition says that the crown of thorns was woven - springing up, like the fruit-trees of the more inland parts, in the very midst of the waving wheat."
+        ],
+        "Philip Schaff": [
+            "By the way-side.",
+            "The seed was exposed, and quickly picked up by the birds.",
+            "The paths or roads pass close to the edge of the ploughed ground in unenclosed fields."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, \"in the sowing as to him,\" a neat Greek idiom unlike our English temporal conjunction.\" ",
+            "People will make paths along the edge of a ploughed field or even across it where the seed lies upon the beaten track.\" ",
+            "'Ate down.' We say, 'ate up.'"
+        ],
+        "John Gill": [
+            "Whilst he was sowing, some seeds fell... by the wayside; by the common road, or private paths, which led through corn fields... and designs such hearers as are careless, negligent, and inattentive.",
+            "They hear without understanding, judgment, and affection.",
+            "Satan, and his principalities, and powers, rove about in the air, come down on earth, and seek whom they may devour."
+        ],
+        "John Wesley": [
+            "The first danger is, that the birds will devour the seed.",
+            "A vast majority of those who hear the word of God, receive the seed as by the highway side.",
+            "Yet in all these cases, it is not the will of God that hinders, but their own voluntary perverseness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the imagery of a cornfield is used to illustrate the various types of hearers of the word. The undulating cornfield represents the diverse conditions of people's hearts. The trodden pathway running through it symbolizes the wayside hearers who receive the seed without understanding or affection, making them susceptible to the birds of Satan that come to devour the seed. These careless, negligent, and inattentive hearers hinder their own understanding of the word, but it is not God's will that hinders them. So, let us make sure our hearts are fertile ground, attentive and receptive to the word of God, so that it may take root and bear fruit in our lives.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.172516339165094,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "commentatorTierSimilarities": [
+                33.57,
+                22.45,
+                43.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the imagery of a cornfield, the trodden pathway symbolizes the wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own understanding of the word, but it is not God's will that hinders them. Let us make sure our hearts are fertile ground, receptive to the word of God, so that it may bear fruit in our lives despite the diverse conditions of people's hearts.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.1924265473342974,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.99,
+            "commentatorTierSimilarities": [
+                31.48,
+                21.83,
+                46.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the parable of the sower, the imagery of a cornfield helps illustrate the different types of hearers of the word. The undulating cornfield with the trodden pathway represents the wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own comprehension of the word. It is not God's will that hinders them; rather, they are susceptible to the birds of Satan who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to take root and bear fruit in our lives.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.2979438178270442,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.5,
+            "commentatorTierSimilarities": [
+                31.46,
+                25.98,
+                42.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the parable of the sower, the imagery of the cornfield is used to illustrate the diverse conditions of people's hearts. The trodden pathway represents the wayside hearers who receive the seed without understanding, hindering their own comprehension of the word. These careless, negligent, and inattentive hearers are susceptible to the birds of Satan, who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to bear fruit in our lives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.3423592775639102,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "commentatorTierSimilarities": [
+                32.1,
+                25.69,
+                42.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the sower uses the imagery of a cornfield to depict various types of hearers. The trodden pathway represents wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own comprehension, vulnerable to the birds of Satan that seek to devour the seed. Let us cultivate receptive hearts, ensuring that we are attentive to the word of God, so that it can take root and bear fruit in our lives, amidst the diverse conditions of people's hearts.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2545547838002002,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.06,
+            "commentatorTierSimilarities": [
+                31.63,
+                26.21,
+                42.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

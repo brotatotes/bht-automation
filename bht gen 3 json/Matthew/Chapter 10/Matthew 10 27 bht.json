@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:46:08",
+    "verseRef": "Matthew 10:27",
+    "bestBHT": {
+        "bht": "When Jesus tells his disciples to proclaim what he tells them in darkness and what they hear in the ear on the housetops, he is urging them to boldly share the teachings and truths he privately communicates to them. They are to fearlessly speak these truths publicly, regardless of the potential cost. This instruction highlights the significance of openly spreading the Gospel, just as teachers would whisper truths in the ears of their disciples that were meant to be proclaimed loudly to others.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.8642119493474982,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+        "commentatorTierSimilarities": [
+            31.6,
+            29.03,
+            39.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The secret speaking may mean the communication which our Lord would hold with them hereafter by His Spirit, which they were to preach and proclaim.",
+            "These senses do not exclude one another, and are possibly both implied.",
+            "They are a common expression, derived from common life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What I tell you in darkness \u2014 in the privacy of a teaching for which men are not yet ripe. That speak ye in the light \u2014 for when ye go forth all will be ready.\" (Matthew 10:27)",
+            "What ye hear in the ear, that preach ye upon the housetops \u2014 Give free and fearless utterance to all that I have taught you while yet with you.\" (Matthew 10:27)",
+            "Objection: But this may cost us our life? Answer: It may, but there their power ends.\" (Matthew 10:27)"
+        ],
+        "Albert Barnes": [
+            "What I say to you in darkness ... - That is, in 'secret,' in 'private,' in 'confidence.",
+            "The private instructions which I give you while with me do you proclaim publicly, on the 'house-top.'",
+            "The 'house-top,' the flat roof, was a public, conspicuous place."
+        ],
+        "Marvin Vincent": [
+            "Preach [\u03ba\u03b7\u03c1\u03c5\u03be\u03b1\u03c4\u03b5] . Better Rev., proclaim. See on Matthew 4:17."
+        ],
+        "Philip Schaff": [
+            "What I tell you in the darkness, etc. A further incitement to boldness in preaching.",
+            "Our Lord must first privately teach, so as to train His disciples; to them the duty of publishing the truth was committed.",
+            "The whole truth is to be publicly made known."
+        ],
+        "John Gill": [
+            "what he communicated to them in private houses, when they were by themselves, and no one saw, or heard them, and so were in darkness with respect to others, that speak ye in light",
+            "And what ye hear in the ear, or is whispered to you by me, as your master.",
+            "our Lord orders his disciples to blow the trumpet of the everlasting Gospel; and loudly proclaim to all the truths and mysteries of grace, which he had made known to them."
+        ],
+        "John Wesley": [
+            "Even what I now tell you secretly is not to be kept secret long, but declared publicly.\" ",
+            "What ye hear in the ear, publish on the house-top.",
+            "Their doctors used to whisper in the ear of their disciples what they were to pronounce aloud to others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus tells his disciples in Matthew 10:27 to proclaim what he tells them in darkness and what they hear in the ear on the housetops, he is instructing them to boldly and fearlessly speak the truths and teachings he has privately shared with them. They are not to keep these teachings to themselves, but rather, to publicly proclaim them for all to hear. Jesus encourages them not to be afraid of the consequences, for the power of opposition ends there. These instructions emphasize the importance of spreading the Gospel openly and without reservation, just as their teachers would whisper truths in their ears that were meant to be proclaimed loudly to others.",
+            "wordCount": 112,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.7797818042683222,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                38.2,
+                25.7,
+                36.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus tells his disciples to proclaim what he tells them in darkness and what they hear in the ear on the housetops, he is urging them to boldly share the teachings and truths he privately communicates to them. They are to fearlessly speak these truths publicly, regardless of the potential cost. This instruction highlights the significance of openly spreading the Gospel, just as teachers would whisper truths in the ears of their disciples that were meant to be proclaimed loudly to others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8642119493474982,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                31.6,
+                29.03,
+                39.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus instructs his disciples to proclaim what he shares with them in darkness and what they hear in the ear on the housetops. He urges them to fearlessly declare the teachings and truths he imparts privately, without holding back. These words emphasize the importance of openly spreading the Gospel, for the disciples are entrusted with the duty of publicly proclaiming the truths revealed to them. Despite potential risks, they are called to boldly share what they have learned, leaving no room for secrecy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6440972758095938,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                32.02,
+                31.08,
+                36.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructs his disciples to fearlessly proclaim what he shares with them privately in the darkness and what they hear whispered to them. He emphasizes the importance of openly spreading the teachings and truths he imparts, urging them to boldly declare these revelations on the housetops. Although they may face opposition or even risk their lives, the disciples are empowered to boldly and publicly proclaim the Gospel, leaving no room for secrecy or hesitation. Their duty is to share what they have learned for the benefit of all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6134338658618632,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                35.35,
+                31.82,
+                32.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus directs his disciples to fearlessly proclaim the teachings he shares privately, even the whispered truths, boldly declaring them from the housetops. He encourages them to openly spread the Gospel, knowing that their obedience may come at a cost. However, any opposition they face has its limits. This call to public proclamation highlights the disciples' responsibility to boldly share the truths entrusted to them, ensuring that the teachings are made known to all who will listen.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4890406142231116,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                34.77,
+                32.01,
+                33.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

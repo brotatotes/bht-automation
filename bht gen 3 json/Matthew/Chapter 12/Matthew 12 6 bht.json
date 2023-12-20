@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:46:51",
+    "verseRef": "Matthew 12:6",
+    "bestBHT": {
+        "bht": "It is emphasized that Jesus is greater than the temple, indicating the disciples' innocence in their actions. The disciples, who were following Jesus and grew hungry in their dedication to Him, can be likened to the blameless priests in the temple who were excused for violating Sabbath rules. This underscores the significance of Jesus as the true Temple of God on earth, surpassing the importance of the physical temple. Therefore, the disciples' commitment to Jesus takes precedence over strict adherence to Sabbath regulations, as their rights outweigh even those of the temple.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.3214368381698605,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.53,
+        "commentatorTierSimilarities": [
+            24.33,
+            36.06,
+            39.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A greater thing than the temple is here.",
+            "If the priests in the temple and for the temple\u2019s sake, for its service and ritual, profane the Sabbath, as ye account profanation, and are blameless, how much more these disciples who have grown hungry in their appointed following of Him who is greater than the temple, the true Temple of God on earth, the Son of Man!",
+            "It seems to me, as above, to bear a more general and sublime sense than the masculine; see ver. 41, &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But I say unto you, That in this place is one greater than the temple\u2014or rather, according to the reading which is best supported, 'something greater.'",
+            "The ordinary rules for the observance of the sabbath give way before the requirements of the temple; but there are rights here before which the temple itself must give way.",
+            "Thus indirectly, but not the less decidedly, does our Lord put in His own claims to consideration in this question\u2014claims to be presently put in even more nakedly."
+        ],
+        "Marvin Vincent": [
+            "The reference is, of course, to Christ himself.",
+            "The indefinite of the neuter gives a more solemn and impressive sense.",
+            "The correct reading makes the adjective neuter, so that the right rendering is something greater."
+        ],
+        "Philip Schaff": [
+            "That which is greater, not some one greater; the comparison with the temple occasions this form, although the reference is undoubtedly to Christ Himself.",
+            "If the priests in the temple are authorized to profane the Sabbath (according to your view of what that means) in the performance of necessary duties, how much more can One who is the real temple of God on earth authorize His followers to do so...",
+            "This \u2018meek and lowly\u2019 Teacher asserts this on His own authority. Works of necessity become a duty on the Sabbath only when so declared by Christ, or as we follow Christ."
+        ],
+        "Archibald T. Robertson": [
+            "One greater than the temple.\" ",
+            "The work and His disciples were of more account than the temple.",
+            "If the temple was not subservient to Sabbath rules, how much less the Messiah!"
+        ],
+        "John Gill": [
+            "In this place is one greater than the temple; meaning himself, who was the Lord and Proprietor of the temple.",
+            "[Christ] was infinitely more sacred than that [the temple].",
+            "Christ's argument is, that if the temple, and the service of it, excused the priests from blame, then much more might his presence...excuse his disciples from blame in this action."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the superiority of Jesus over the temple, stating that a greater thing than the temple is here. This implies that the disciples, who were following Jesus, were justified in their actions even if they seemed to violate Sabbath rules. The commentary suggests that the disciples, hungry from their dedicated following of Jesus, should be considered blameless, just as the priests in the temple were excused for their Sabbath activities. Furthermore, it highlights the significance of Jesus as the true Temple of God on earth, surpassing even the importance of the physical temple. The verse asserts the authority of Jesus in allowing his followers to prioritize their service to him over strict adherence to Sabbath regulations, as these rights supersede even those of the temple.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.320417772903305,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                24.37,
+                37.64,
+                38.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is emphasized that Jesus is greater than the temple, indicating the disciples' innocence in their actions. The disciples, who were following Jesus and grew hungry in their dedication to Him, can be likened to the blameless priests in the temple who were excused for violating Sabbath rules. This underscores the significance of Jesus as the true Temple of God on earth, surpassing the importance of the physical temple. Therefore, the disciples' commitment to Jesus takes precedence over strict adherence to Sabbath regulations, as their rights outweigh even those of the temple.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.3214368381698605,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.53,
+            "commentatorTierSimilarities": [
+                24.33,
+                36.06,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus declares Himself to be greater than the temple, highlighting the innocence of His disciples in their actions. Just as the priests in the temple were blameless for their Sabbath rituals, the disciples, hungry from their devoted following of Jesus, are also justified. The verse emphasizes Jesus as the true Temple of God on earth, surpassing the significance of the physical temple. Therefore, the disciples' commitment to Jesus takes precedence over strict adherence to Sabbath rules, as their devotion to Him outweighs the obligations of the temple.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.32522245376523,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.65,
+            "commentatorTierSimilarities": [
+                24.51,
+                35.36,
+                40.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, being greater than the temple, affirms the innocence of His hungry disciples. The verse compares the blamelessness of the priests in the temple who profane the Sabbath for its service with the disciples who have grown hungry in their appointed following of Him. This underscores the significance of Jesus as the true Temple of God on earth. As such, the disciples' hunger and commitment to Jesus supersede strict adherence to Sabbath regulations, their actions being of more consequence than the temple itself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.2682525911690026,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.76,
+            "commentatorTierSimilarities": [
+                24.74,
+                36.48,
+                38.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus asserts His superiority over the temple, suggesting the innocence of His disciples. He compares the blameless priests in the temple, permitted to profane the Sabbath for its service, with His hungry followers. This highlights Jesus as the true Temple of God on earth, surpassing the significance of the physical temple. Consequently, the commitment and hunger of the disciples, who accompany Jesus, hold greater importance than strict adherence to Sabbath regulations. Their devotion to Jesus takes precedence over the rights of the temple.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.1748818684717297,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.66,
+            "commentatorTierSimilarities": [
+                24.33,
+                35.66,
+                40.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

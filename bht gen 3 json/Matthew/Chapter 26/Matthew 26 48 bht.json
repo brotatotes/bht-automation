@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:53:37",
+    "verseRef": "Matthew 26:48",
+    "bestBHT": {
+        "bht": "Judas gave the religious leaders a sign to identify Jesus, and he chose to do so through a kiss. This kiss, though a common mode of greeting, became an act of betrayal and hypocrisy as Judas fervently kissed Jesus, revealing his true intentions. This revolting display of affection symbolizes the excessive and insincere kisses of an enemy. The kiss not only served as a means of identification but also showcased the twisted relationship between Judas and Jesus. It was a sign of intimate familiarity, yet it was used to perpetrate the greatest act of treachery.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.7281510775308724,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+        "commentatorTierSimilarities": [
+            32.78,
+            36.24,
+            30.98
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "48.] gave them a sign;\u2014when is not stated. On St. Mark\u2019s addition, \u201cand lead him away safely,\u201d see notes there."
+        ],
+        "John Calvin": [
+            "I have no doubt that Judas was restrained, either by reverence for our Lord, or by shame for his crime.",
+            "It was, at the same time, astonishing madness, either to attempt to conceal himself by frivolous hypocrisy, when he came into the presence of the Son of God, or to oppose the tricks and dexterity of men to his boundless power.",
+            "To lead them away cautiously, was given, I conjecture, for this reason, that he recollected the numerous proofs by which Christ had formerly attested his divine power."
+        ],
+        "Philip Schaff": [
+            "The kiss among the ancients was a sign of affectionate and cordial intimacy, and particularly a token of fidelity.",
+            "Judas may have feared He might still elude them, either by some exercise of His acknowledged power, or, more probably, with the help of His disciples.",
+            "The signal agreed upon would be necessary to point Him out to the Roman soldiers, who might not have understood the conversation or had orders to act upon this sign."
+        ],
+        "Archibald T. Robertson": [
+            "At any rate Judas had given the leaders to understand that he would kiss (\u03c6\u03b9\u03bb\u03b7\u03c3\u03c9) Jesus in order to identify him for certain.",
+            "The kiss was a common mode of greeting and Judas chose that sign and actually 'kissed him fervently' (\u03ba\u03b1\u03c4\u03b5\u03c6\u03b9\u03bb\u03b7\u03c3\u03b5\u03bd, verse Matthew 26:49).",
+            "This revolting ostentatious kiss is 'the most terrible instance of the \u03b5\u03ba\u03bf\u03c5\u03c3\u03b9\u03b1 \u03c6\u03b9\u03bb\u03b7\u03bc\u03b1\u03c4\u03b1 \u03b5\u03c7\u03b8\u03c1\u03bf\u03c5 (Proverbs 27:6),' the profuse kisses of an enemy."
+        ],
+        "John Gill": [
+            "By which it might be known who he was; for it being night, though they had lanterns and torches, as John says, John 18:3, yet Judas himself might not be able to discern, him, so as to point him out, until he came very near him.",
+            "Moreover, Christ and his apostles might be clothed alike, so that a mistake might be easily made, and one of them be took for him.",
+            "Judas might the rather pitch upon this to be the sign, partly because it might be what had been usual with the disciples, when they had been at any time absent from Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas gave the religious leaders a sign to identify Jesus, and he chose to do so through a kiss. This kiss, though a common mode of greeting, became an act of betrayal and hypocrisy as Judas fervently kissed Jesus, revealing his true intentions. This revolting display of affection symbolizes the excessive and insincere kisses of an enemy. The kiss not only served as a means of identification but also showcased the twisted relationship between Judas and Jesus. It was a sign of intimate familiarity, yet it was used to perpetrate the greatest act of treachery.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7281510775308724,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                32.78,
+                36.24,
+                30.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas's act of betrayal was carried out through a sign - a kiss. While a kiss was typically a sign of affectionate intimacy, Judas's fervent kiss became a grotesque display of an enemy's profuse kisses. It served as a means of identification for the religious leaders who might not have recognized Jesus in the darkness. This act of hypocrisy and treachery showcased the twisted relationship between Judas and Jesus, tainted by deceit and the ultimate act of betrayal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.497222124255388,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                30.97,
+                38.37,
+                30.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas chose to identify Jesus through a kiss, a common mode of greeting that became a symbol of his betrayal. This act of betrayal, executed with fervent affection, displayed the profuse kisses of an enemy, a stark contrast to the usual meaning of a kiss. The kiss served as a sign for the religious leaders to recognize Jesus, especially in the darkness of the night. This act of hypocrisy and treachery highlighted the complex and twisted relationship between Judas and Jesus, marked by deceit and betrayal.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7249756725486018,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                33.36,
+                36.03,
+                30.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas's act of betrayal was carried out through a kiss, serving as a sign to identify Jesus. This kiss, typically a sign of affectionate intimacy, became a demonstration of the profuse kisses of an enemy. It allowed the religious leaders to discern Jesus in the darkness of the night. However, this act of hypocrisy and treachery revealed the complex and twisted relationship between Judas and Jesus, tainted by deceit and the ultimate act of betrayal.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.5386602884921925,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.5,
+            "commentatorTierSimilarities": [
+                30.02,
+                38.27,
+                31.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas utilized a kiss as a sign to identify Jesus, an act that carried a deeper meaning. While a kiss was traditionally a symbol of affectionate intimacy, Judas's fervent kiss epitomized the excessive and insincere kisses of an enemy. This kiss served as a way to distinguish Jesus, particularly in the darkness of the night. It was a disconcerting display of hypocrisy and treachery, shedding light on the intricate and convoluted relationship between Judas and Jesus, marred by deceit and the ultimate act of betrayal.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6693214412543633,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                32.36,
+                36.24,
+                31.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

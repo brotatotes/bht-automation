@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:13",
+    "verseRef": "Matthew 27:11",
+    "bestBHT": {
+        "bht": "When asked by Pilate if he was the King of the Jews, Jesus firmly affirmed that he was indeed a king, while also clarifying that his kingdom was of a spiritual nature, not of this world. By differentiating himself as a king in a spiritual sense, Jesus conveyed that neither he nor Caesar had anything to fear from him. This encounter exemplified the humility and silence of the eternal Son of God and served as a means for believers to approach God with confidence and stand before Him without shame.",
+        "wordCount": 90,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 1.8613739284117394,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+        "commentatorTierSimilarities": [
+            26.87,
+            34.59,
+            38.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou sayest is not to be rendered as a doubtful answer\u2014much less with Theophylact, as meaning, 'Thou sayest it, not I:' but as a strong affirmative.\" "
+        ],
+        "Albert Barnes": [
+            "Thou sayest - That is, thou sayest right, or thou sayest the truth.",
+            "...Jesus took away all occasion of triumph by explaining to Pilate the 'nature' of his kingdom...",
+            "Though he acknowledged that he was a king, yet he stated fully that 'his kingdom was not of this world'..."
+        ],
+        "John Calvin": [
+            "Our salvation consists in the doctrine of the cross, which is folly to the Greeks, and an offense to the Jews.",
+            "If, therefore, we consider what advantage we reap from Christ having been tried before Pilate, the disgrace of so unworthy a subjection will be immediately washed away.",
+            "Christ was silent, while the priests were pressing upon him on every hand; and it was, in order that he might open our mouth by his silence."
+        ],
+        "Philip Schaff": [
+            "In \u2018the judgment hall\u2019 (John 18:28), which the Sanhedrin did not enter for the fear of defilement.",
+            "They had condemned Him for \u2018blasphemy,\u2019 but they bring a political accusation now, since Pilate would probably not take notice of the religious one.",
+            "Thou sayest, i.e., \u2018yes.\u2019 He first inquires in what sense Pilate puts the question, and then explains the nature of His kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "The term \u03b7\u03b3\u03b5\u03bc\u03c9\u03bd (from \u03b7\u03b3\u03b5\u03bf\u03bc\u03b1, to lead) was technically a legatus Caesaris, an officer of the Emperor, more exactly procurator, ruler under the Emperor of a less important province than propraetor (as over Syria).\" ",
+            "So here was one more. By his answer (thou sayest) Jesus confesses that he is.\" ",
+            "Pilate has a problem on his hands. What sort of a king does this one claim to be?"
+        ],
+        "John Gill": [
+            "Think what a sight was here, the eternal Son of God in human nature, the Lord of life and glory, the Prince of the kings of the earth, standing before an Heathen governor!",
+            "He stood here, that they might stand before God, and at the throne of his grace with boldness and intrepidity; a new, and living way to it being opened for them, through his blood and sacrifice; and that they might stand before him, the judge of all the earth, with confidence, and not be ashamed at his coming.",
+            "[Jesus] let him know that his kingdom was not of this world; that he was not a temporal king, nor did he lay any claim to any earthly dominions; and therefore neither he, nor his master Caesar, had anything to fear from him: he was only a king in a spiritual sense, over the Israel of God; such as received him, as the Messiah, and believed in his name."
+        ],
+        "John Wesley": [
+            "Jesus before Caiaphas avows himself to be the Christ.",
+            "Before Pilate to be a king.",
+            "Clearly showing thereby, that his answering no more, was not owing to any fear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Pilate asked Jesus if he was the King of the Jews, Jesus responded with a strong affirmation, acknowledging that he was indeed a king. However, he clarified that his kingdom was not of this world. Jesus wanted Pilate to understand that he was not a political king with earthly dominion but a spiritual king, ruling over the Israel of God. By making this distinction, Jesus was ensuring that neither he nor Caesar had anything to fear from him. Standing before Pilate, the eternal Son of God demonstrated humility and silence while the priests pressed upon him, providing an example for us. This entire encounter at the judgment hall was significant in that it opened a new and living way for believers to approach God with confidence and stand before Him without shame.",
+            "wordCount": 133,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6984006632211286,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                24.57,
+                37.68,
+                37.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When asked by Pilate if he was the King of the Jews, Jesus firmly affirmed that he was indeed a king, while also clarifying that his kingdom was of a spiritual nature, not of this world. By differentiating himself as a king in a spiritual sense, Jesus conveyed that neither he nor Caesar had anything to fear from him. This encounter exemplified the humility and silence of the eternal Son of God and served as a means for believers to approach God with confidence and stand before Him without shame.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8613739284117394,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                26.87,
+                34.59,
+                38.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Pilate questioned Jesus about whether he was the King of the Jews, Jesus replied with a strong affirmative, acknowledging his kingship. However, he made it clear that his kingdom was not of this world, but rather a spiritual kingdom. Jesus wanted to convey that he was not a political ruler with earthly dominion. His response showed humility and provided believers with a new and living way to approach God with confidence, standing before Him without shame.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.772098583494106,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                28.08,
+                36.55,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Pilate interrogated Jesus and asked if he was the King of the Jews, Jesus responded with a resounding Thou sayest, affirming that he was indeed a king. However, he promptly clarified that his kingdom was not of this world, emphasizing its spiritual nature. Jesus aimed to dispel any political implications and demonstrate that his authority did not pose a threat to Pilate or Caesar. This exchange between Jesus and Pilate highlights the humility of the eternal Son of God and serves as a reminder of the believers' access to God with confidence and without shame.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7663258903764638,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                26.0,
+                39.03,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When asked by Pilate if he was the King of the Jews, Jesus affirmed with a strong Thou sayest, acknowledging his kingship. Yet, Jesus quickly clarified that his kingdom was not of this world, focusing on its spiritual nature. By making this distinction, Jesus showed that he wasn't a political threat to Pilate or Caesar. This interaction demonstrated the humility of the eternal Son of God and reminded believers of their bold access to God's throne, with no fear or shame.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.807908672113606,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                27.65,
+                37.33,
+                35.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

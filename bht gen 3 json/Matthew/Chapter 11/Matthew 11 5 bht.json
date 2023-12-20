@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:46:21",
+    "verseRef": "Matthew 11:5",
+    "bestBHT": {
+        "bht": "The miracles described in this account hold both physical and spiritual significance. The raising of the dead, like the son of the widow of Nain, serves as tangible proof of Jesus' power. Coupled with the prophetic texts from Isaiah, these miracles become convincing evidence of the truth of the gospel. The inclusion of the poor in the message highlights that even the despised and wretched can find hope in Christ. Poverty of spirit should not lead to despair, but rather encourage us to seek Christ and find true riches.",
+        "wordCount": 89,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.634181519525407,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+        "commentatorTierSimilarities": [
+            29.69,
+            38.62,
+            31.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words the dead are raised up have occasioned some difficulty; but surely without reason.",
+            "It must not be forgotten that the words here used by our Lord have an inner and spiritual sense, as betokening the blessings and miracles of divine grace on the souls of men, of which His outward and visible miracles were symbolical.",
+            "The poor have the gospel preached to them (are evangelized)."
+        ],
+        "Marvin Vincent": [
+            "The lame walk. Tynd., The halt go."
+        ],
+        "John Calvin": [
+            "By the poor are undoubtedly meant those whose condition is wretched and despicable, and who are held in no estimation.",
+            "However mean any person may be, his poverty is so far from being a ground of despair, that it ought rather to animate him with courage to seek Christ.",
+            "None are accounted poor but those who are really such, or, in other words, who lie low and overwhelmed by a conviction of their poverty."
+        ],
+        "Philip Schaff": [
+            "The blind receive their sight, or \u2018see again.\u2019 The word means this when applied to the blind. In other cases, \u2018to look up.\u2019",
+            "The dead are raised up. The raising of the daughter of Jairus probably took place afterwards, but the miracle in Nain certainly preceded.",
+            "The poor have the gospel preached to them. The \u2018poor\u2019 in spirit are included. This is the climax. Spiritual deliverance was the greatest miracle."
+        ],
+        "Archibald T. Robertson": [
+            "And the dead are raised up...Like that of the son of the widow of Nain.\" ",
+            "Did he raise the dead also on this occasion? 'Tell John your story over again and remind him of these prophetic texts, Isaiah 35:5; Isaiah 61:1.'",
+            "The items were convincing enough and clearer than mere eschatological symbolism. 'The poor' in particular have the gospel, a climax."
+        ],
+        "John Gill": [
+            "Sight was restored to the blind before them then; and no doubt they were informed of the two blind men, that had their eyes opened.",
+            "The lame walk, as did the man sick of the palsy, who was brought to him on a bed, carried by four men, but went away himself, with his bed upon his shoulders.",
+            "The deaf hear, as did the man, into whose ears Christ put his fingers and said, Ephphatha, be opened."
+        ],
+        "John Wesley": [
+            "The poor have the Gospel preached to them \u2014 The greatest mercy of all. Isaiah 29:18; 35:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words of Matthew 11:5 have an inner and spiritual sense, symbolizing the miracles of divine grace on the souls of men. The dead being raised up, like the son of the widow of Nain, served as a powerful example. Furthermore, Jesus urged John to remember the prophetic texts of Isaiah, reminding him of the miracles that took place. These convincing miracles, including the blind receiving their sight and the lame walking, confirmed the truth of the gospel. The inclusion of the poor in the gospel message signifies the greatest miracle of all, for even the wretched and despised find hope in Christ. All should take courage in seeking Christ, as poverty of spirit is not a cause for despair but an opportunity to find true riches.",
+            "wordCount": 126,
+            "quoteTokenProportion": 28.24,
+            "qualityScore": 1.7869403810436233,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                29.05,
+                40.0,
+                30.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The miracles described in this verse have both a physical and a spiritual significance. The raising of the dead, such as the son of the widow of Nain, provides a tangible example of Jesus' power. Coupled with the prophetic texts from Isaiah, these miracles were persuasive evidence of the truth of the gospel. The inclusion of the poor in the message highlights that even those who are despised and wretched can find hope in Christ. Poverty of spirit should not be a cause for despair but an encouragement to seek Christ and find true riches.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6858894982360395,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                28.03,
+                40.28,
+                31.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The miracles described in this passage have both physical and spiritual implications. The raising of the dead, like the son of the widow of Nain, serves as evidence of Jesus' power. These miracles, coupled with the prophetic texts from Isaiah, are compelling proof of the truth of the gospel. The inclusion of the poor in the message emphasizes that even those who are despised and wretched can find hope in Christ. Poverty of spirit should not lead to despair, but rather inspire us to seek Christ and discover true riches.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.679116107607891,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.17,
+            "commentatorTierSimilarities": [
+                28.84,
+                39.82,
+                31.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The miracles described in this account hold both physical and spiritual significance. The raising of the dead, like the son of the widow of Nain, serves as tangible proof of Jesus' power. Coupled with the prophetic texts from Isaiah, these miracles become convincing evidence of the truth of the gospel. The inclusion of the poor in the message highlights that even the despised and wretched can find hope in Christ. Poverty of spirit should not lead to despair, but rather encourage us to seek Christ and find true riches.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.634181519525407,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                29.69,
+                38.62,
+                31.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "\nThe miracles recounted in this verse have both a physical and spiritual dimension, symbolizing divine grace on the souls of people. The raising of the dead, exemplified by the son of the widow of Nain, served as a powerful illustration. Alongside references to prophetic texts, these miracles provided undeniable evidence of the truth of the gospel. Notably, the inclusion of the poor indicates that even those who are wretched and despised can find hope in Christ. Poverty of spirit should not lead to despair but rather inspire us to seek Christ and discover true riches.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6216553421514288,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+            "commentatorTierSimilarities": [
+                28.17,
+                39.71,
+                32.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

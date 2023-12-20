@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:48:11",
+    "verseRef": "Matthew 14:26",
+    "bestBHT": {
+        "bht": "The disciples were literally terrified as they saw Jesus walking on the sea, mistaking Him for an apparition or ghost. This supernatural sight was enough to awe and trouble them, causing them to cry out in fear. Ancient beliefs about spirits appearing to the living added to their superstitious fear. While this event may have been misconstrued due to the uncommonness of such appearances and the general notion of evil spirits causing harm, Matthew is an honest witness to this remarkable incident.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.8477981240011703,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+        "commentatorTierSimilarities": [
+            29.21,
+            32.67,
+            38.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "They were troubled - They were afraid. The sight was remarkable. It was sufficient to awe them.",
+            "In the dark night, amid the tumultuous billows appeared the form of a man. They thought it was a spirit, an apparition.",
+            "It was a common belief among the ancients that the spirits of people after death frequently appeared to the living."
+        ],
+        "Marvin Vincent": [
+            "A spirit [\u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03bc\u03b1] . Of which our word phantasm is a transcription. Rev., rather stiffly, apparition. Wyc., phantom."
+        ],
+        "Philip Schaff": [
+            "It in an apparition. An unreal appearance of a real person.",
+            "The word is not that usually rendered, 'spirit.'",
+            "Matthew is an honest witness to tell of this superstitious fear."
+        ],
+        "Archibald T. Robertson": [
+            "They were literally 'terrified' as they saw Jesus walking on the sea.",
+            "An apparition (\u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03bc\u03b1), or 'ghost,' or 'spectre' from \u03c6\u03b1\u03bd\u03c4\u03b1\u03b6\u03c9 and that from \u03c6\u03b1\u03b9\u03bd\u03c9.",
+            "They cried out 'from fear' (\u03b1\u03c0\u03bf \u03c4\u03bf\u03c5 \u03c6\u03bf\u03b2\u03bf\u03c5) as anyone would have done."
+        ],
+        "John Gill": [
+            "They were troubled, saying it is a spirit: a nocturnal apparition, a demon in human form.",
+            "The fear of spirits arises from the uncommonness of their appearance; from their superiority to men in power and strength; from the enmity there is between men and evil spirits; and from a general notion of their doing hurt and mischief.",
+            "The fear of the disciples might be increased, through a vulgar notion among seafaring men, that such sights are ominous, and portend evil to sailors."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were terrified when they saw Jesus walking on the sea, mistaking Him for an apparition or ghost. This supernatural sight was enough to awe and trouble them, causing them to cry out in fear. Ancient beliefs about spirits appearing to the living added to their superstitious fear. While this event may have been misconstrued due to the uncommonness of such appearances and the general notion of evil spirits causing harm, Matthew is an honest witness to this remarkable incident.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8442749716907745,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                28.85,
+                32.86,
+                38.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were literally terrified as they saw Jesus walking on the sea, mistaking Him for an apparition or ghost. This remarkable sight was enough to trouble them, leading them to cry out in fear. Ancient beliefs about spirits appearing to the living added to their superstitious fear. While this event may have been misconstrued due to the uncommonness of such appearances and the general notion of evil spirits causing harm, Matthew is an honest witness to this remarkable incident.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7766923254055176,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                29.2,
+                33.43,
+                37.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Terrified, the disciples mistook Jesus for an apparition or ghost as He walked on the sea. This remarkable sight troubled them, leading to cries of fear. Beliefs about spirits appearing to the living contributed to their superstitious fear. Though the disciples' reaction may have been influenced by the uncommonness of such appearances and the general notion of evil spirits causing harm, Matthew is an honest witness to this extraordinary event.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.766296966814424,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                28.8,
+                32.7,
+                38.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were terrified at the sight of Jesus walking on the sea, mistaking Him for an apparition or ghost. This caused them great fear, as anyone would have been afraid in that situation. The belief in spirits appearing to the living added to their superstitious fear. Even though this event could have been misunderstood due to the uncommonness of such appearances and the general understanding of evil spirits causing harm, Matthew faithfully records this remarkable incident.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7297994549651121,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "commentatorTierSimilarities": [
+                28.81,
+                32.57,
+                38.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were literally terrified as they saw Jesus walking on the sea, mistaking Him for an apparition or ghost. This supernatural sight was enough to awe and trouble them, causing them to cry out in fear. Ancient beliefs about spirits appearing to the living added to their superstitious fear. While this event may have been misconstrued due to the uncommonness of such appearances and the general notion of evil spirits causing harm, Matthew is an honest witness to this remarkable incident.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.8477981240011703,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                29.21,
+                32.67,
+                38.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

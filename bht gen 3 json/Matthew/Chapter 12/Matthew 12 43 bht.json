@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:16",
+    "verseRef": "Matthew 12:43",
+    "bestBHT": {
+        "bht": "The desperate infatuation and bitter hostility of the Jews after Jesus' ascension, along with the Church of Rome's idolatry following the apostolic times, serve as cautionary tales of falling into hypocrisy and spiritual emptiness. Individuals who lose genuine faith and become vulnerable to the second invasion of the Evil One fare worse than before. The consequences of these actions highlight the imperative of hearing and keeping the word of God, in sharp contrast to the teachings of the Church of Rome.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.6026506237029856,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+        "commentatorTierSimilarities": [
+            43.8,
+            29.54,
+            26.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The desperate infatuation of the Jews after our Lord\u2019s ascension, their bitter hostility to His Church, their miserable end as a people, are known to all.",
+            "Not long after the apostolic times, the golden calves of idolatry were set up by the Church of Rome. What the effect of the captivity was to the Jews, that of the Reformation has been to Christendom.",
+            "Another important fulfilment of the prophetic parable may be found in the histories of individuals... in formality and hypocrisy, till utter emptiness of real faith and spirituality has prepared them for that second fearful invasion of the Evil One, which is indeed worse than the first!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But he said, Yea rather, blessed are they that hear the word of God, and keep it\u2014in other words, the humblest real saint of God.\" ",
+            "How utterly alien is this sentiment from the teaching of the Church of Rome, which would doubtless excommunicate any one of its members that dared to talk in such a strain!",
+            "His Mother and Brethren Seek to Speak with Him and the Answer."
+        ],
+        "John Calvin": [
+            "Let us, therefore, hold it to be a settled point, that the devil is cast out of us, whenever Christ shines upon us, and displays his grace towards us by some manifestation.",
+            "And this is the glory of our nature, that the devil has his seat within us, and inhabits both the body and the soul. So much the more illustrious is the display of the mercy of God, when we, who were the loathsome dens of the devil, are made temples to Himself, and consecrated for a habitation of His Spirit.",
+            "Though he meditates the destruction of all, and though the words of Peter apply to all without exception, that he goeth about as a roaring lion, and seeketh whom he may devour, yet we are plainly taught by these words of Christ, that Satan views with deeper hatred, and attacks with greater fierceness and rage, those who have been rescued from his snares."
+        ],
+        "Philip Schaff": [
+            "The figure in Matthew 12:43-45 refers primarily to the Jewish people, but is applicable also in the history of Christianity and to individuals.\" ",
+            "Passeth through dry places, i.e., unwatered, desert regions, such as demons inhabited according to the popular notion.\" ",
+            "The return into the man is against the view that the abode of the wicked is meant; but a state of greater dissatisfaction and unrest is plainly indicated."
+        ],
+        "John Gill": [
+            "By 'the unclean' spirit, is meant Satan, the old serpent, the devil... He is the cause of uncleanness in men, and delights in unclean persons, places, and things.",
+            "He may be said to go out of men, when any outward reformation is made in them; and they take up a profession of religion, though destitute of the grace of God.",
+            "His view in walking in these places, or among such persons, is rest; not the rest of the saints, he seeks their disturbance, but his own rest; which is to do all the mischief he can."
+        ],
+        "John Wesley": [
+            "When the unclean spirit goeth out - Not willingly, but being compelled by one that is stronger than he.",
+            "He walketh \u2014 Wanders up and down; through dry places - Barren, dreary, desolate; or places not yet watered with the Gospel: Seeking rest, and findeth none - How can he, while he carries with him his own hell?",
+            "And is it not the case of his children too? Reader, is it thy case?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The desperate infatuation of the Jews after our Lord's ascension, their bitter hostility to His Church, and their miserable end as a people are known to all. Not long after the apostolic times, the golden calves of idolatry were set up by the Church of Rome, and what the effect of the captivity was to the Jews, that of the Reformation has been to Christendom. Another important fulfillment of the prophetic parable may be found in the histories of individuals who fall into formality and hypocrisy until utter emptiness of real faith and spirituality has prepared them for that second fearful invasion of the Evil One, which is indeed worse than the first!",
+            "wordCount": 114,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.9417166592119783,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                48.58,
+                26.84,
+                24.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The desperate infatuation of the Jews after our Lord\u2019s ascension, their bitter hostility to His Church, and their miserable end as a people are known to all. Not long after the apostolic times, the golden calves of idolatry were set up by the Church of Rome, and what the effect of the captivity was to the Jews, that of the Reformation has been to Christendom. Another important fulfillment of the prophetic parable may be found in the histories of individuals who fall into formality and hypocrisy until utter emptiness of real faith and spirituality has prepared them for that second fearful invasion of the Evil One, which is indeed worse than the first!",
+            "wordCount": 114,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.9462203701802199,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                48.72,
+                26.76,
+                24.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The desperate infatuation of the Jews after our Lord's ascension, their bitter hostility to His Church, and their miserable end as a people are known to all. Not long after the apostolic times, the golden calves of idolatry were set up by the Church of Rome, and what the effect of the captivity was to the Jews, that of the Reformation has been to Christendom. Another important fulfillment of the prophetic parable may be found in the histories of individuals who fall into formality and hypocrisy until utter emptiness of real faith and spirituality has prepared them for that second fearful invasion of the Evil One, which is indeed worse than the first!",
+            "wordCount": 114,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.9417166592119783,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                48.58,
+                26.84,
+                24.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The consequences of the Jews' infatuation and bitter hostility toward Christ and His Church are well-known, leading to their ultimate demise as a people. Similarly, the Church of Rome succumbed to idolatry not long after the apostolic era, mirroring the captivity of the Jews. This parallel can also be seen in the individual histories of those who fall into hypocrisy and spiritual emptiness, making them susceptible to the relentless attacks of the Evil One. Such second invasions are more dreadful than the initial encounter.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4721701491796426,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                40.82,
+                31.51,
+                27.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The desperate infatuation and bitter hostility of the Jews after Jesus' ascension, along with the Church of Rome's idolatry following the apostolic times, serve as cautionary tales of falling into hypocrisy and spiritual emptiness. Individuals who lose genuine faith and become vulnerable to the second invasion of the Evil One fare worse than before. The consequences of these actions highlight the imperative of hearing and keeping the word of God, in sharp contrast to the teachings of the Church of Rome.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6026506237029856,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "commentatorTierSimilarities": [
+                43.8,
+                29.54,
+                26.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

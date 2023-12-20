@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:55",
+    "verseRef": "Matthew 10:8",
+    "bestBHT": {
+        "bht": "Freely ye have received, freely give\u2014Divine saying, divinely said! They were not to make a money-making business of it, but rather to give their favors of healing and preaching without charging. The power to do these things was delegated to them for the specific purpose of calling attention to and confirming their words, and it flowed without any merit of theirs from the pure grace of God. By using miracles, Jesus showed the divine origin of his Gospel and the mission he was sent by the Father to fulfill.",
+        "wordCount": 91,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.5559152194802834,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+        "commentatorTierSimilarities": [
+            23.92,
+            39.78,
+            36.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8. freely, &c.] See Acts viii. 18\u201320."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Freely ye have received, freely give\u2014Divine saying, divinely said!",
+            "It is more blessed to give than to receive.",
+            "Who can estimate what the world owes to such sayings, and with what beautiful foliage and rich fruit such seeds have covered, and will yet cover, this earth!"
+        ],
+        "Albert Barnes": [
+            "Freely ye have received, freely give - That is, they were not to sell their favors of healing, preaching, etc.",
+            "They were not to make a money-making business of it, to bargain specifically to heal for so much, and to cast out devils for so much.",
+            "This, however, neither then nor afterward precluded them from receiving a competent support."
+        ],
+        "John Calvin": [
+            "By those miracles he shows why he was sent by the Father, and what was the design of his Gospel.",
+            "Consider whence you derived this power. As it flowed without any merit of yours from the pure grace of God, it is proper that, through your agency, it should flow freely to others.",
+            "No man will be a sincere minister of his word or dispenser of his grace, till he is prepared to bestow his labor gratuitously."
+        ],
+        "Philip Schaff": [
+            "The power to do these things was delegated to them for the specific purpose of calling attention to and confirming their words.",
+            "'Freely' means not abundantly, but gratuitously, thus they were to give.",
+            "The grace and the instrumentality are alike unbought."
+        ],
+        "John Gill": [
+            "For nothing could more evidently prove their mission to be divine, and their doctrine from heaven, or be more acceptable to men, than to 'heal' their 'sick' friends and relations",
+            "which had never been done before the times of Christ, since the days of Elijah and Elisha; and which must be allowed by all men to be more than human, and to require the arm of almighty power",
+            "they were possessed of, for the relief of the distressed, without insisting upon, or receiving any thing for the same"
+        ],
+        "John Wesley": [
+            "But it were well to stop and consider a little. Suppose God should suffer an evil spirit to usurp the same power over a man's body, as the man himself has naturally; and suppose him actually to exercise that power; could we conclude the devil had no hand therein, because his body was bent in the very same manner wherein the man himself might have bent it naturally?",
+            "Will any man affirm that God cannot or will not, on any occasion whatever, give such a power to an evil spirit? Or that effects, the like of which may be produced by natural causes, cannot possibly be produced by preternatural?",
+            "If this be possible, then he who affirms it was so, in any particular case, cannot be justly charged with falsehood, merely for affirming the reality of a possible thing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Freely ye have received, freely give\u2014Divine saying, divinely said! Who can estimate what the world owes to such sayings, and with what beautiful foliage and rich fruit such seeds have covered, and will yet cover, this earth! They were not to make a money-making business of it, but rather to give their favors of healing and preaching without charging. The power to do these things was delegated to them for the specific purpose of calling attention to and confirming their words, and it flowed without any merit of theirs from the pure grace of God. By using miracles, Jesus showed the divine origin of his Gospel and the mission he was sent by the Father to fulfill.",
+            "wordCount": 119,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.521190201502538,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
+            "commentatorTierSimilarities": [
+                27.63,
+                36.42,
+                35.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Freely ye have received, freely give\u2014Divine saying, divinely said! They were not to make a money-making business of it, but rather to give their favors of healing and preaching without charging. The power to do these things was delegated to them for the specific purpose of calling attention to and confirming their words, and it flowed without any merit of theirs from the pure grace of God. By using miracles, Jesus showed the divine origin of his Gospel and the mission he was sent by the Father to fulfill.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.5559152194802834,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                23.92,
+                39.78,
+                36.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Freely ye have received, freely give\u2014Divine saying, divinely said! They were not to make a money-making business of it, but rather to give their favors of healing and preaching without charging. The power to do these things was delegated to them for the specific purpose of calling attention to and confirming their words, and it flowed without any merit of theirs from the pure grace of God. By using miracles, Jesus showed the divine origin of his Gospel and the mission he was sent by the Father to fulfill.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.5559152194802834,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                23.92,
+                39.78,
+                36.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Freely ye have received, freely give. This divine saying emphasizes the importance of generosity and selflessness. Instead of turning their spiritual gifts into a profit-making venture, they were to freely offer healing and preaching without charging. The power given to them was meant to affirm their message and draw attention to the divine source of their authority. Jesus demonstrated the divine origin of his Gospel and fulfilled his mission through miracles, showcasing the undeniable power and grace of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.3957101405074501,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+            "commentatorTierSimilarities": [
+                25.59,
+                38.77,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Freely ye have received, freely give. This divine saying underscores the significance of giving without expecting anything in return. It discourages turning spiritual gifts into a means of monetary gain. The purpose of the delegated power for healing and preaching was to validate their words and draw attention to the divine origin of their message. Miracles demonstrated the reality of their divine mission, showing the undeniable power of God. The free bestowal of these gifts reflects the abundant grace and generosity of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.3599127912852917,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                27.49,
+                37.99,
+                34.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

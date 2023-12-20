@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:44:32",
+    "verseRef": "Matthew 6:27",
+    "bestBHT": {
+        "bht": "Anxiety over the length of one's life is futile; only God can determine the measure of our days. No amount of worry or effort can add even a step to our life's journey. It is a reminder that our ultimate dependence should be on God, who sustains us and provides for our needs. We are called to trust in Him rather than anxiously striving for things that are beyond our control. Our labor is important, but we must not confuse our efforts with the true source of growth and provision.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.576827114109114,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+        "commentatorTierSimilarities": [
+            34.34,
+            29.27,
+            36.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The measure of life is with God alone, and each man cannot set the measure of his own age.",
+            "The object of food and clothing is not to enlarge the body, but to prolong life.",
+            "The application of measures of space to time is not uncommon."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Which of you, by taking thought\u2014anxious solicitude... can add one cubit unto his stature?\" ",
+            "But if we take the word in its primary sense of 'age' (for 'stature' is but a secondary sense), the idea will be this, 'Which of you, however anxiously you vex yourselves about it, can add so much as a step to the length of your life's journey?'\" ",
+            "To compare the length of life to measures of this nature is not foreign to the language of Scripture... So understood, the meaning is clear and the connection natural."
+        ],
+        "Albert Barnes": [
+            "With all your care you cannot increase your stature a single cubit. God has ordered your height.",
+            "Beyond his appointment your powers are of no avail, and you can do nothing.",
+            "Seeing, then, that he alike orders your growth and the supply of your needs, how obvious is the duty of depending upon him."
+        ],
+        "John Calvin": [
+            "It is foolish in men to weary themselves, because all our labors are unnecessary and fruitless, and all our anxieties are to no purpose, unless so far as God blesses them.",
+            "If you cannot do even that which is least, why are you anxious about the rest?",
+            "Christ reproves not only distrust, but pride, because men ascribe much more than they ought to their own skill."
+        ],
+        "Philip Schaff": [
+            "Age\u2019 is preferable to \u2018stature\u2019... the reference is not to the body but to the life...\" ",
+            "...to add a cubit ( 18 inches) to the stature would be a very great thing.",
+            "Our age is conceived of as a race or journey. If then we cannot do what is least by our care, why be anxious?"
+        ],
+        "Archibald T. Robertson": [
+            "Certainly anxiety will not help either kind of growth, but rather hinder by auto-intoxication if nothing more.",
+            "This is no plea for idleness, for even the birds are diligent and the flowers grow."
+        ],
+        "John Gill": [
+            "no man, by all the care and thought he can make use of, is ever able to add one cubit, or the least measure to his days; he cannot lengthen out his life one year, one month, one day, one hour; no, not one moment.",
+            "it being impossible for a man, with all his care and thought, to add one cubit unto his stature, or 'to his age'",
+            "no man, by all the care and thought he can make use of, is ever able to add one cubit, or the least measure to his days"
+        ],
+        "John Wesley": [
+            "If you are ever so careful, can even add a moment to your own life thereby?\" ",
+            "This seems to be far the most easy and natural sense of the words."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Anxiety over the length of one's life is futile, for only God has control over the measure of our days. No amount of worry or effort can add even a step to our life's journey. Although this may seem discouraging, it is a reminder that our ultimate dependence should be on God, who sustains us and provides for our needs. We are called to trust in Him rather than anxiously striving for things that are beyond our control. While our labor and diligence are important, we must not confuse our efforts with the true source of our growth and provision.",
+            "wordCount": 102,
+            "quoteTokenProportion": 52.7,
+            "qualityScore": 1.5738816128788917,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                33.68,
+                29.21,
+                37.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Anxiety over the length of one's life is futile; only God can determine the measure of our days. No amount of worry or effort can add even a step to our life's journey. It is a reminder that our ultimate dependence should be on God, who sustains us and provides for our needs. We are called to trust in Him rather than anxiously striving for things that are beyond our control. Our labor is important, but we must not confuse our efforts with the true source of growth and provision.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.576827114109114,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                34.34,
+                29.27,
+                36.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Anxiety cannot extend the length of our life's journey or increase our stature. Only God has control over the measure of our days. We must rely on Him for sustenance and provision, rather than striving anxiously for things that are beyond our control. Our labor is necessary but should not be confused with the true source of growth and fulfillment. Trusting in God, we can find peace and rest, knowing that He alone holds the power over our lives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6237839050645637,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                34.65,
+                32.93,
+                32.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No amount of worry or effort can add even a step to the length of our life's journey or increase our stature. It is a reminder that our ultimate dependence should be on God, who sustains us and provides for our needs. Anxiety over the measure of our days is futile, as only God has control over it. Our labor is important, but we must not confuse our efforts with the true source of growth and provision. Trusting in Him, we can find peace and rest.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.5559810168484374,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                34.46,
+                30.14,
+                35.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Anxiety over the length of our life's journey or our stature is futile. Only God sets the measure of our days and adds to our growth. It is a reminder of our dependence on Him for sustenance and provision. Our labor is important, but our efforts should not be mistaken for the true source of growth and fulfillment. Trusting in God and relying on Him, we can find peace and rest, knowing that He alone has control over our lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5697831927151071,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                35.04,
+                31.31,
+                33.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

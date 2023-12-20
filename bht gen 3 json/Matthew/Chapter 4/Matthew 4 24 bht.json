@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:43:33",
+    "verseRef": "Matthew 4:24",
+    "bestBHT": {
+        "bht": "In the region of Galilee and beyond, Jesus's fame as a miracle worker and healer was widespread. People from all around, suffering from various diseases, torments, and possession, sought Him out for his divine touch. From demoniacs to lunatics to paralytics, Jesus had a remarkable ability to cure and bring about transformation. His reputation spread rapidly, like a radio transmission, reaching even Syria. He became a moving hospital, attending to countless patients who witnessed firsthand the power of His word in bringing healing and deliverance.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.4770372283765822,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.45,
+        "commentatorTierSimilarities": [
+            18.31,
+            40.22,
+            41.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Answering to 'all the region round about Galilee,' Mark i. 28.",
+            "On the possessed with devils, see note on ch. viii. 29.",
+            "The lunatick were probably epileptics: see an instance in ch. xvii. 14 and parallels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those that were taken\u2014for",
+            "\tthis is a distinct class, not an explanation of the 'unwell'",
+            "\tclass, as our translators understood it.",
+            "with divers diseases and",
+            "\ttorments\u2014that is, acute disorders.",
+            "and those which were",
+            "\tpossessed with devils\u2014that were demonized or possessed with",
+            "\tdemons."
+        ],
+        "Albert Barnes": [
+            "Through all this region his celebrity was spread by his power of working miracles.",
+            "It has been supposed that the persons so described were under the influence of evil spirits, who had complete possession of the faculties, and who produced many symptoms of disease not unlike melancholy, madness, and epilepsy.",
+            "When Christ cured them by a word, it was the clearest of all proofs that he was sent from heaven."
+        ],
+        "Philip Schaff": [
+            "Those who had heard of Him and believed in his power to heal were numerous enough to justify this expression.",
+            "Every such possession was a sign of Satan's hostility, as every dispossession was a triumph over him.",
+            "Whatever the form, He did not fail to cure."
+        ],
+        "Archibald T. Robertson": [
+            "Rumour carries things almost like the wireless or radio.",
+            "Jesus had a moving hospital of patients from all over Galilee and Syria.",
+            "These diseases are further described 'in a descending scale of violence' as 'demoniacs, lunatics, and paralytics'."
+        ],
+        "John Gill": [
+            "And his fame went throughout all Syria,.... For his ministry and miracles, especially the latter.",
+            "All sick people, that were taken with divers diseases and torments.",
+            "...and he healed them; without any means, by a word speaking; which showed him more than a man, and truly and properly God."
+        ],
+        "John Wesley": [
+            "Through all Syria \u2014 The whole province, of which the Jewish country was only a small part.",
+            "And demoniacs \u2014 Men possessed with devils: and lunatics, and paralytics - Men ill of the palsy, whose cases were of all others most deplorable and most helpless."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the region of Galilee, Jesus's fame spread far and wide, stretching even beyond Syria. People from all over sought Him out for healing, bringing with them various diseases, torments, and possessions by evil spirits. His power to cure was so profound that it was undeniable evidence of His divine mission. From demoniacs to lunatics to paralytics, Jesus did not fail to heal, proving His authority over Satan and His ability to bring about miraculous transformation with a mere word. His reputation as a miracle worker spread like wildfire through the land, akin to the transmission of information in our modern wireless age. And so, Jesus became a moving hospital, attending to a multitude of patients in need.",
+            "wordCount": 119,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.3961161852673754,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                16.95,
+                43.34,
+                39.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the region of Galilee, Jesus's fame spread throughout all Syria, as His power to heal and work miracles garnered widespread recognition. People from all over, afflicted with various diseases, torments, and possessions, sought Him out. Whether they were demoniacs, lunatics, or paralytics, Jesus did not fail to heal them. His miraculous ability to cure with a mere word proved His divine mission. His reputation spread swiftly, resembling the rapid transmission of information in our modern age, and He became a moving hospital attending to countless patients.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.4745771570383077,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                16.12,
+                43.37,
+                40.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the region of Galilee and beyond, Jesus's fame as a miracle worker and healer was widespread. People from all around, suffering from various diseases, torments, and possession, sought Him out for his divine touch. From demoniacs to lunatics to paralytics, Jesus had a remarkable ability to cure and bring about transformation. His reputation spread rapidly, like a radio transmission, reaching even Syria. He became a moving hospital, attending to countless patients who witnessed firsthand the power of His word in bringing healing and deliverance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.4770372283765822,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.45,
+            "commentatorTierSimilarities": [
+                18.31,
+                40.22,
+                41.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's reputation as a miracle worker and healer quickly spread through the region of Galilee and beyond to Syria. People afflicted with diverse diseases, torments, and possessions sought Him out for His divine touch. From demoniacs to lunatics to paralytics, Jesus demonstrated His remarkable ability to cure and transform lives. His fame circulated like a rumor through the land, and He became like a traveling hospital, tending to countless patients. His healing power was undeniable, showcasing His authority over sickness and evil spirits.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.4631289581070543,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                17.44,
+                43.23,
+                39.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the region surrounding Galilee, Jesus's reputation as a miracle worker and healer extended even to Syria. Afflicted individuals with various diseases, torments, and possessions sought Him out. From demoniacs to lunatics to paralytics, Jesus had the power to provide healing and transformation. His fame quickly spread like a rumor, carrying His remarkable works throughout the land. He became like a moving hospital, attending to the multitude of patients, showcasing His authority over illness and evil forces.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3913180452043181,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.6,
+            "commentatorTierSimilarities": [
+                19.12,
+                39.8,
+                41.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

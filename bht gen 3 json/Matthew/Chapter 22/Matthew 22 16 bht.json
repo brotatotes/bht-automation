@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:51:25",
+    "verseRef": "Matthew 22:16",
+    "bestBHT": {
+        "bht": "Approached by the Herodians, followers of Herod, Jesus faced deceptive flattery implying He was a reckless simpleton. However, their acknowledgment of His independence and sincerity was a temptation. Nonetheless, Jesus, as a true teacher, fearlessly taught the ways of God and the true interpretation of Scripture. He did not show favoritism based on wealth or power and remained unwavering in his commitment to truth, unaffected by flattery or threats. The loyalty of the Herodians to Herod and the Roman government did not sway Jesus' dedication to teaching the truth.",
+        "wordCount": 89,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.3283076334995099,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.51,
+        "commentatorTierSimilarities": [
+            36.59,
+            31.87,
+            31.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "He ought to be reckoned a true teacher, who does not introduce the contrivances of men, or depart from the pure word of God.",
+            "He compares them to jockeys, because they deprave the pure use of the word of God.",
+            "In order to walk uprightly, we must necessarily put away respect of persons, which obscures the light and perverts right judgment."
+        ],
+        "Philip Schaff": [
+            "The devil never lies so foully as when he speaks the truth.",
+            "Thou regardest not the person of men.",
+            "His independence and sincerity had just been demonstrated, but their acknowledgment of these peculiarities was to tempt Him."
+        ],
+        "Archibald T. Robertson": [
+            "There were two Pharisaic theological seminaries in Jerusalem (Hillel, Shammai).",
+            "The Herodians...partisans or followers of Herod.",
+            "This suave flattery to Jesus implied 'that Jesus was a reckless simpleton' (Bruce)."
+        ],
+        "John Gill": [
+            "and teachest the way of God in truth; rightly opens the word of God, gives the true and genuine sense the law of God, faithfully instructs men in the worship of God; and with great sincerity, directs men to the way of coming to God, and enjoying eternal happiness with him; having no sinister ends, or worldly interest in view.",
+            "neither carest thou for any man; be he ever so great and honourable, in ever so high a station, be he Caesar himself; signifying, that he was a man of such openness and integrity, that he always freely spoke the real sentiments of his mind, whether men were pleased or displeased; being in no fear of man, nor in the least to be intimidated by frowns and menaces, or any danger from men",
+            "and seeing therefore he made no difference among men, whether learned or unlearned, rich or poor, high or low; whether they were in exalted stations and high offices, or not he feared no man's face, and accepted no man's person, but gave his sense of things, without fear or flattery; they hoped he would give a direct answer to the following question, though Caesar himself was concerned in it."
+        ],
+        "John Wesley": [
+            "The Herodians were a set of men peculiarly attached to Herod, and consequently zealous for the interest of the Roman government.\" ",
+            "Thou regardest not the person of men \u2014 Thou favourest no man for his riches or greatness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There were two Pharisaic theological seminaries in Jerusalem, and the Herodians, who were followers of Herod, approached Jesus with deceptive flattery. They implied that Jesus was a foolish person who did not care about the opinions of others. However, their true intention was to tempt Him, as they acknowledged His independence and sincerity. In reality, Jesus was a true teacher who faithfully taught the ways of God without any regard for the status or importance of men. He was not swayed by flattery or intimidated by threats, always speaking the truth and giving genuine interpretations of God's word. These individuals wanted Jesus to answer their questions directly, even if it meant causing trouble with Caesar himself. The Herodians were loyal to Herod and the Roman government, but Jesus did not show favoritism based on wealth or power. He remained steadfast in his commitment to teaching the truth.",
+            "wordCount": 148,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.3364277883342832,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+            "commentatorTierSimilarities": [
+                37.28,
+                28.38,
+                34.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Approached by the Herodians, followers of Herod, Jesus faced deceptive flattery implying His foolishness and indifference to others' opinions. Yet, they sought to tempt Him after acknowledging His integrity and independence. Jesus, the true teacher, fearlessly taught God's ways and the genuine meaning of His word. He was not swayed by flattery or intimidated by threats, showing no favoritism based on wealth or power. The Herodians' loyalty to Herod and the Roman government did not influence Jesus' commitment to truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.2584674065945238,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.19,
+            "commentatorTierSimilarities": [
+                32.33,
+                30.7,
+                36.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approached by the Herodians, followers of Herod, Jesus faced deceptive flattery implying He was a reckless simpleton. However, their acknowledgment of His independence and sincerity was a temptation. Nonetheless, Jesus, as a true teacher, fearlessly taught the ways of God and the true interpretation of Scripture. He did not show favoritism based on wealth or power and remained unwavering in his commitment to truth, unaffected by flattery or threats. The loyalty of the Herodians to Herod and the Roman government did not sway Jesus' dedication to teaching the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3283076334995099,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.51,
+            "commentatorTierSimilarities": [
+                36.59,
+                31.87,
+                31.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Confronted by the Herodians, followers of Herod, Jesus encountered deceitful flattery meant to portray Him as a simpleton unconcerned with others' opinions. However, their acknowledgement of His independence and sincerity served as a temptation. Jesus, as the true teacher, fearlessly instructed in the ways of God, faithfully interpreting His word without partiality towards the rich or powerful. He remained resolute in speaking the truth, undeterred by flattery or threats. The Herodians' dedication to Herod and the Roman government did not sway Jesus' commitment to unwavering truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.3233469155215283,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.34,
+            "commentatorTierSimilarities": [
+                35.04,
+                30.85,
+                34.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Approached by the Herodians, who were followers of Herod, Jesus encountered deceitful flattery implying that He was a foolish and indifferent person. They acknowledged His independence and sincerity, yet their intent was to entice Him. Nevertheless, Jesus, as a true teacher, fearlessly proclaimed the ways of God and correctly interpreted the Scriptures. He did not show favoritism based on wealth or power, remaining steadfast in His commitment to truth, unmoved by flattery or threats. The loyalty of the Herodians to Herod and the Roman government did not sway Jesus from His dedication to teaching the genuine truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.3103681771760085,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.91,
+            "commentatorTierSimilarities": [
+                33.96,
+                31.14,
+                34.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

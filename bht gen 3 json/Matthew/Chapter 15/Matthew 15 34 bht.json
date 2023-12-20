@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:48:29",
+    "verseRef": "Matthew 15:34",
+    "bestBHT": {
+        "bht": "Presented to Jesus were a few small fishes, emphasizing their provision's smallness using the diminutive form. Unlike the specified number of loaves, the number of little fishes is not mentioned. In this case, the disciples themselves provided the food, while in another instance, it was a young boy. When Jesus inquired about the number of loaves they had, they replied with seven and a few little fishes.",
+        "wordCount": 68,
+        "quoteTokenProportion": 46.94,
+        "qualityScore": 2.2645087731648323,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+        "commentatorTierSimilarities": [
+            28.36,
+            30.01,
+            41.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Little fishes [\u03b9\u03c7\u03b8\u03c5\u03b4\u03b9\u03b1] . Diminutive. The disciples make their provision seem as small as possible. In ver. 36 the diminutive is not used."
+        ],
+        "Philip Schaff": [
+            "The loaves were seven in this case, five in the other, the number of little fishes is not specified.",
+            "In the other case a lad had the provisions; here the disciples themselves.",
+            "How many loaves have ye?"
+        ],
+        "Archibald T. Robertson": [
+            "A few small fishes (\u03bf\u03bb\u03b9\u03b3\u03b1 \u03b9\u03c7\u03b8\u03c5\u03b4\u03b9\u03b1, diminutive again). "
+        ],
+        "John Gill": [
+            "How many loaves have ye?... and they said seven, and a few little fishes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples presented to Jesus a few small fishes, emphasizing their provision as being as small as possible. The use of the diminutive form highlights the limited nature of their offering. In another instance, the specific number of little fishes is not mentioned, unlike the specified number of loaves. While the disciples themselves provided the food on this occasion, in a different situation, a young boy was the source. When Jesus asked them how many loaves they had, they responded by saying seven and a few little fishes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9248836778166747,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                31.39,
+                29.78,
+                38.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples presented Jesus with a few small fishes, using the diminutive form to highlight the smallness of their provision. In contrast to the specified number of loaves, the number of little fishes is not mentioned in this instance. While the disciples themselves provided the food, another situation involved a young boy as the source. When Jesus asked how many loaves they had, they responded with seven and a few little fishes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.1712766758287136,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+            "commentatorTierSimilarities": [
+                28.21,
+                30.52,
+                41.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples offered Jesus a small provision, specifically a few little fishes, utilizing the diminutive form to emphasize its diminutive nature. Interestingly, the number of little fishes is not specified, unlike the specific count of loaves in a different incident. In this situation, the disciples were the ones who provided the food, whereas in another instance, it was a young boy. When Jesus inquired about the number of loaves they possessed, they responded, stating seven and a few little fishes.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1187703584289963,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.79,
+            "commentatorTierSimilarities": [
+                31.83,
+                28.89,
+                39.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Presented to Jesus by the disciples were a few small fishes, in an effort to minimize the size of their provision, as indicated by the use of the diminutive form. Unlike in the other case, the exact number of little fishes is not mentioned. Notably, the disciples themselves were the ones who provided the food, whereas in a different scenario, it was a young boy. In response to Jesus' inquiry about the number of loaves they had, they replied seven, and a few little fishes.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.0606557347862755,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                31.02,
+                29.17,
+                39.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Presented to Jesus were a few small fishes, emphasizing their provision's smallness using the diminutive form. Unlike the specified number of loaves, the number of little fishes is not mentioned. In this case, the disciples themselves provided the food, while in another instance, it was a young boy. When Jesus inquired about the number of loaves they had, they replied with seven and a few little fishes.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.2645087731648323,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+            "commentatorTierSimilarities": [
+                28.36,
+                30.01,
+                41.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

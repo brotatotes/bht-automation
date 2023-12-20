@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:41",
+    "verseRef": "Matthew 23:7",
+    "bestBHT": {
+        "bht": "The verse warns against the danger of spiritual pride, specifically highlighting the violation of the letter of the law. The repetition of the title Rabbi reveals the desire of some ecclesiastics for recognition and their tendency to indulge in spiritual pride. This craving for recognition and desire for honor can still be seen today in ministers who resent not being recognized or called upon in church services, indicating a sense of unacknowledged ministerial dignity. While salutations and respect in public places are not forbidden, the verse serves as a reminder to guard against the Pharisaical pride of seeking public recognition.",
+        "wordCount": 100,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7199149521676351,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+        "commentatorTierSimilarities": [
+            31.31,
+            37.34,
+            31.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It is the spirit rather than the letter of this that must be pressed.",
+            "The violation of the letter, springing from spiritual pride, has done incalculable evil in the Church of Christ.",
+            "The reiteration of the word 'Rabbi' shows how it tickled the ear and fed the spiritual pride of those ecclesiastics."
+        ],
+        "Albert Barnes": [
+            "Markets were places where multitudes of people were assembled together. They were pleased with special attention in public places, and desired that all should show them particular respect.",
+            "This word [Rabbi] literally signifies great. It was a title given to eminent teachers of the law among the Jews; a title of honor and dignity, denoting authority and ability to teach.",
+            "Every time it [the title Rabbi] was given to them it implied their superiority to the persons who used it, and they were fond, therefore, of hearing it often applied to them."
+        ],
+        "Marvin Vincent": [
+            "Rabbi. My master. In addressing Jesus, didaskalov (teacher) answers to Rabbi. Compare John 1:39; Luke 2:46."
+        ],
+        "Philip Schaff": [
+            "Salutations of courtesy and kindness in public places are certainly not forbidden.",
+            "In these days Pharisaical pride may desire some other form of public recognition.",
+            "Rabbi, literally, \u2018my master.\u2019 The three degrees in the titles given to teachers were: \u2018Rab,\u2019 master, doctor; \u2018Rabbi,\u2019 my master; \u2018Rabboni,\u2019 my great master."
+        ],
+        "Archibald T. Robertson": [
+            "There are occasionally today ministers who resent it if they are not called upon to take part in the services at church.",
+            "They had an itch for notice.",
+            "They feel that their ministerial dignity has not been recognized."
+        ],
+        "John Gill": [
+            "They used to stroll about the markets, being public places, where there was a great concourse of people, on purpose to be taken notice of before multitudes, with singular marks of respect; as stretching out the hand, uncovering the head, and bowing the knee.",
+            "It is reported of R. Eleazar ben Simeon, of Migdal Gedur, that having reproached a deformed man he met in the road; when he came to the city where the man lived, 'the citizens came out to meet him, and said to him, peace be upon thee, 'Rabbi, Rabbi, Master, Master'; [...]'",
+            "The Karaite Jews make much the same complaint, and give much the same account of the pride and vanity of the Rabbinical doctors, as Christ here does; for so one of them says: 'The Karaites do not use to act according to the custom of the wise men among the Rabbans, to make to themselves gods of silver, and guides of gold, with this view, 'to be called Rab'; and also to gather wealth and food to fulness, &c.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns against the danger of spiritual pride, specifically highlighting the violation of the letter of the law. The repetition of the title Rabbi reveals the desire of some ecclesiastics for recognition and their tendency to indulge in spiritual pride. This craving for recognition and desire for honor can still be seen today in ministers who resent not being recognized or called upon in church services, indicating a sense of unacknowledged ministerial dignity. While salutations and respect in public places are not forbidden, the verse serves as a reminder to guard against the Pharisaical pride of seeking public recognition.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7199149521676351,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                31.31,
+                37.34,
+                31.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The violation of the letter, stemming from spiritual pride, has done immense harm in the Church. The reiteration of the title 'Rabbi' demonstrates how it fueled the spiritual pride of those in positions of authority. Some ministers today may experience a similar itch for recognition and feel that their ministerial dignity has been overlooked. While politeness and courtesy in public places are not forbidden, the passage cautions against the Pharisaical pride of seeking public acclaim.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.678999288776862,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.17,
+            "commentatorTierSimilarities": [
+                33.54,
+                38.56,
+                27.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The violation of the letter, driven by spiritual pride, has caused great harm within the Church. The repetition of the title 'Rabbi' exposes the self-satisfaction and desire for recognition among these religious leaders. Some ministers today may feel overlooked and yearn for acknowledgment of their ministerial dignity. While it is not forbidden to exchange polite greetings in public, the verse warns against the Pharisaical pride that seeks public acclaim. It is crucial to be cautious and humble, avoiding the pitfall of seeking status and honor.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5848729714835441,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.04,
+            "commentatorTierSimilarities": [
+                32.22,
+                37.55,
+                30.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The violation of the letter due to spiritual pride has caused significant harm within the Church. The repeated use of the title 'Rabbi' highlights the satisfaction and desire for recognition among these leaders. Some ministers today may feel unnoticed, longing for recognition and validation of their ministerial dignity. While polite salutations in public settings are acceptable, the verse warns against the Pharisaical pride of seeking public approval. It is crucial to cultivate humility and avoid the temptation of pursuing honor and prestige.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.5387658909305268,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                32.69,
+                39.99,
+                27.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The violation of the letter, driven by spiritual pride, has done immense harm in the Church. The repetition of the title 'Rabbi' reveals the desire for recognition and spiritual pride among these ecclesiastics. Even today, ministers may crave acknowledgment and feel that their ministerial dignity has been overlooked. While politeness and respect in public places are not forbidden, the verse serves as a reminder to guard against the Pharisaical pride of seeking public recognition.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.679754959125677,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.19,
+            "commentatorTierSimilarities": [
+                33.34,
+                38.56,
+                28.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

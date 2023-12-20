@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:47:08",
+    "verseRef": "Matthew 12:8",
+    "bestBHT": {
+        "bht": "The Son of Man, as the representative and Head of humanity, has complete authority over the Sabbath. By merging it with the Lord's Day, he imparts an air of liberty, love, and eternal rest to it. This claim of Messiahship affirms his solidarity with mankind and his right to interpret and preside over the Sabbath. Jesus' authority over the Sabbath proves his divinity and allows him to dispense with and interpret the laws. His ultimate act of authority is seen in changing the Sabbath from the seventh to the first day of the week.",
+        "wordCount": 95,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.478521885580985,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.75,
+        "commentatorTierSimilarities": [
+            27.77,
+            41.32,
+            30.9
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Since the Sabbath was an ordinance instituted for the use and benefit of man...\" ",
+            "the Son of Man, who has taken upon Him full and complete Manhood, the great representative and Head of humanity...",
+            "has this institution under his own power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the Son of man is Lord even of the sabbath day\u2014not surely to abolish it, but to own it, to interpret it, to preside over it, and to ennoble it.\" ",
+            "By merging it in the 'Lord's Day', breathing into it an air of liberty and love necessarily unknown before.",
+            "Making it the nearest resemblance to the eternal sabbatism."
+        ],
+        "Albert Barnes": [
+            "For the Son of man is Lord even of the Sabbath day.\" ",
+            "He had a right to direct the manner of its observance - undoubted proof that he is divine.",
+            "Christ says that he was Lord of the Sabbath."
+        ],
+        "John Calvin": [
+            "Christ, by an allusion to the temple, affirmed that whatever was connected with his personal holiness was not a transgression of the Law.",
+            "He declares that he has received authority to exempt his followers from the necessity of observing the Sabbath.",
+            "Out of Christ the bondage of the Law is wretched, from which he alone delivers those on whom he bestows the free Spirit of adoption."
+        ],
+        "Philip Schaff": [
+            "For the Son of man is Lord of the Sabbath.\" ",
+            "The Jews admitted that the authority of the Messiah was greater than that of the law of the Sabbath.\" ",
+            "Christ is Lord of the Sabbath, being Himself the personal sabbath: all that leads to Him and is done in Him, is Sabbath observance; all that leads from Him is Sabbath-breaking."
+        ],
+        "Archibald T. Robertson": [
+            "Lord of the Sabbath...as the Son of Man is master of the Sabbath and so above the Pharisaic regulations angered them extremely.",
+            "By the phrase 'the Son of man' here Jesus involves the claim of Messiahship.",
+            "As the Representative Man he affirms his solidarity with mankind, 'standing for the human interest' on this subject."
+        ],
+        "John Gill": [
+            "no mere man is lord of any law, moral or ritual, natural or positive; or has a power of disposing of it, and dispensing with it at pleasure; but Christ himself.",
+            "Christ is greater than the temple, and has all the perfections of the divine nature in him, is equal to the Father in power and glory.",
+            "since the Lord of the sabbath had a power of dispensing with it, and made use of it in the cases of David and his men, and of the priests in the temple formerly; the Pharisees ought not to think it strange, that the Son of man, who is equally Lord of the sabbath, dispensed with it in his disciples now."
+        ],
+        "John Wesley": [
+            "For the Son of man... is Lord even of the Sabbath.\" ",
+            "This certainly implies, that the Sabbath was an institution of great and distinguished importance.",
+            "It may perhaps also refer to that signal act of authority which Christ afterward exerted over it, in changing it from the seventh to the first day of the week."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Since the Sabbath was instituted for the benefit of humanity, the Son of Man, as the representative and Head of humanity, has complete authority over it. He does not intend to abolish the Sabbath, but rather to interpret, preside over, and ennoble it. By merging it with the Lord's Day, he breathes an air of liberty and love into it, making it resemble the eternal rest. The title Lord of the Sabbath implies his claim of Messiahship, establishing his solidarity with mankind and asserting his authority over even the Pharisaic regulations. Christ's authority over the Sabbath is proof of his divinity, as he alone possesses the power to dispense with and interpret the laws. Therefore, it is not surprising that he exempted his followers from the strict observance of the Sabbath, considering he is greater than the temple and equal to the Father in power and glory. This demonstrates the great importance of the Sabbath and foreshadows Christ's ultimate act of authority in changing it to the first day of the week.",
+            "wordCount": 175,
+            "quoteTokenProportion": 32.98,
+            "qualityScore": 2.512466387364272,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.88,
+            "commentatorTierSimilarities": [
+                26.33,
+                40.85,
+                32.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the Son of Man, the great representative and Head of humanity, Jesus has complete authority over the Sabbath. He does not seek to abolish it, but rather interprets, presides over, and ennobles it. By merging it with the Lord's Day, he infuses it with liberty and love, resembling the eternal rest. His title Lord of the Sabbath asserts his Messiahship and solidarity with humanity. Christ's authority over the Sabbath is proof of his divinity, allowing him to dispense with and interpret the laws. His ultimate act of authority is seen in changing the Sabbath to the first day of the week.",
+            "wordCount": 104,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.3953816973386726,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.99,
+            "commentatorTierSimilarities": [
+                26.9,
+                41.45,
+                31.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the Son of Man and great representative of humanity, Jesus has the authority over the Sabbath. He does not seek to abolish it, but rather interprets, presides over, and ennobles it. By merging it with the Lord's Day, he breathes an air of liberty and love into it, resembling eternal rest. The claim of Messiahship is involved, affirming his solidarity with mankind. Christ's authority over the Sabbath proves his divinity, as he alone has the power to dispense with and interpret the laws. Ultimately, he demonstrates his authority by changing the Sabbath from the seventh to the first day of the week.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.1937299930984766,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                28.82,
+                39.32,
+                31.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man, as the representative and Head of humanity, has complete authority over the Sabbath. Rather than abolishing it, Jesus interprets and presides over the Sabbath, merging it with the Lord's Day and imparting an air of liberty and love. This claim of Messiahship affirms his solidarity with mankind. His authority over the Sabbath proves his divinity, as he alone possesses the power to dispense with and interpret the laws. Ultimately, he displays his authority by changing the Sabbath from the seventh to the first day of the week.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.408368241201318,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.42,
+            "commentatorTierSimilarities": [
+                28.14,
+                40.72,
+                31.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man, as the representative and Head of humanity, has complete authority over the Sabbath. By merging it with the Lord's Day, he imparts an air of liberty, love, and eternal rest to it. This claim of Messiahship affirms his solidarity with mankind and his right to interpret and preside over the Sabbath. Jesus' authority over the Sabbath proves his divinity and allows him to dispense with and interpret the laws. His ultimate act of authority is seen in changing the Sabbath from the seventh to the first day of the week.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.478521885580985,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.75,
+            "commentatorTierSimilarities": [
+                27.77,
+                41.32,
+                30.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

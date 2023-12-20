@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:44:34",
+    "verseRef": "Matthew 7:1",
+    "bestBHT": {
+        "bht": "Jesus's command to refrain from judging others is directed at the disposition to look unfavorably on their character and actions, leading to rash, unjust, and unlovely judgments. However, when exercising necessary discrimination and devoid of a censorious spirit, it is permissible and sometimes necessary to judge for our own guidance. This command condemns the violation of the law of love and warns against engaging in harsh and unfair judgment. Ultimately, God's judgment is more strict, and often, the judgment of men aligns with His.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.288266960291942,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.43,
+        "commentatorTierSimilarities": [
+            30.44,
+            35.56,
+            34.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The context makes it clear that the thing here condemned is that disposition to look unfavorably on the character and actions of others, which leads invariably to the pronouncing of rash, unjust, and unlovely judgments upon them.\" ",
+            "Provided we eschew this unlovely spirit, we are not only warranted to sit in judgment upon a brother's character and actions, but in the exercise of a necessary discrimination are often constrained to do so for our own guidance.\" ",
+            "It is the violation of the law of love involved in the exercise of a censorious disposition which alone is here condemned."
+        ],
+        "Albert Barnes": [
+            "This command refers to rash, censorious, and unjust judgment.\" ",
+            "Christ does not condemn judging as a magistrate, for that, when according to justice, is lawful and necessary.\" ",
+            "It rather refers to private judgment than 'judicial,' and perhaps primarily to the customs of the scribes and Pharisees."
+        ],
+        "John Calvin": [
+            "This depraved eagerness for biting, censuring, and slandering, is restrained by Christ, when he says, Judge not.",
+            "He who judges according to the word and law of the Lord, and forms his judgment by the rule of charity, always begins with subjecting himself to examination, and preserves a proper medium and order in his judgments.",
+            "Now, though it is a just judgment of God, that those who have judged others should be punished in their turn, yet the Lord executes this punishment by the instrumentality of men."
+        ],
+        "Philip Schaff": [
+            "Judge not. This refers to harsh, unkind judgment, not to the mere formation of private opinion, or to judicial sentences.",
+            "That ye be not judged, not by other men, but by God. His judgment is more strict, and it takes special account of this harsh censorious spirit.",
+            "The judgment of men often corresponds [with God's judgment]."
+        ],
+        "Archibald T. Robertson": [
+            "Judge not... The habit of censoriousness, sharp, unjust criticism.\" ",
+            "Pre-judice (prejudgment) is unfair, captious criticism."
+        ],
+        "John Gill": [
+            "Judge not, that ye be not judged...but of rash judgment, interpreting men's words and deeds to the worst sense, and censuring them in a very severe manner.\" ",
+            "It would be well, if persons subject to a censorious spirit, would put themselves in the case and circumstances the persons are in they judge; and then consider, what judgment they would choose others should pass on them.",
+            "For such persons take upon them the place of God, usurp his prerogative, as if they knew the hearts and states of men; and therefore will have judgment without mercy at the hands of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus said, Judge not, he was referring to the harmful disposition of looking unfavorably on others' character and actions, leading to unjust and unlovely judgments. However, when exercised with necessary discrimination and devoid of a censorious spirit, it is permissible to make judgments for our own guidance. Jesus condemned the violation of the law of love involved in the exercise of a harsh and unjust criticism. This command warns against engaging in rash, censorious, and unfair judgment, instead encouraging a spirit of charity and self-examination before passing judgment on others. Ultimately, God's judgment is more strict and takes into account our conduct in this matter, and the judgment of men often aligns with God's judgment.",
+            "wordCount": 119,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3268560562555702,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.71,
+            "commentatorTierSimilarities": [
+                31.05,
+                35.0,
+                33.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's command to Judge not in Matthew 7:1 addresses the harmful disposition of looking unfavorably on others' actions and character, which leads to unjust and unlovely judgments. While it is permissible to make necessary judgments for our own guidance, Jesus condemns the violation of the law of love involved in a censorious spirit. This command warns against engaging in rash, censorious, and unfair judgments and encourages a spirit of charity and self-examination. God's judgment is stricter, and the judgment of men often aligns with it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.2549981120100417,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                28.95,
+                36.14,
+                34.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's command to refrain from judging others is directed at the disposition to look unfavorably on their character and actions, leading to rash, unjust, and unlovely judgments. However, when exercising necessary discrimination and devoid of a censorious spirit, it is permissible and sometimes necessary to judge for our own guidance. This command condemns the violation of the law of love and warns against engaging in harsh and unfair judgment. Ultimately, God's judgment is more strict, and often, the judgment of men aligns with His.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.288266960291942,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.43,
+            "commentatorTierSimilarities": [
+                30.44,
+                35.56,
+                34.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's command to Judge not pertains to the unlovely disposition of looking unfavorably on others, leading to unjust, unkind, and harsh judgments. It is important to exercise necessary discrimination and refrain from a censorious spirit when passing judgments for our own guidance. The violation of the law of love through the habit of unfair and captious criticism is what Jesus condemns. God's judgment is stricter, and observing how men's judgments correspond with His can offer valuable insights.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2516647493563773,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+            "commentatorTierSimilarities": [
+                33.51,
+                34.21,
+                32.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 7:1, Jesus cautions against adopting a disposition that involves looking unfavorably on others, as it invariably leads to rash, unjust, and unlovely judgments. However, if we refrain from harboring a censorious spirit, we are not only justified in evaluating a brother's character and actions but may even need to do so for our own guidance. This command condemns the violation of the law of love through the exercise of a habitually critical mindset. It is important to avoid unfair prejudgment and instead approach others with kindness and understanding.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.8503420081999362,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                37.45,
+                30.67,
+                31.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

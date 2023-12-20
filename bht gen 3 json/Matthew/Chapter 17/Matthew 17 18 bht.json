@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:49:04",
+    "verseRef": "Matthew 17:18",
+    "bestBHT": {
+        "bht": "Jesus rebuked the foul and unclean spirit, commanding it to come out and never enter the child again. The child appeared lifeless after the spirit left, resembling the aftermath of a severe epileptic fit. The crowd was amazed, though their belief may have been lacking. Through his rebuke, Jesus confronted the demonic presence, not the disbelief of the father. The child was instantly healed, demonstrating the power of Jesus' command. The term lunatic could also be understood as a demoniac or one possessed by a devil.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.313105701184614,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+        "commentatorTierSimilarities": [
+            0.0,
+            39.75,
+            60.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The word 'rebuke' has the combined force of reproving and commanding.",
+            "Thou dumb and deaf spirit, I charge thee come out of him, and enter no more into him.",
+            "And the spirit cried, and with a mighty convulsion came out, leaving the child apparently dead."
+        ],
+        "Philip Schaff": [
+            "And the demon went out from him.",
+            "The lad lay as is usual after a very severe epileptic fit.",
+            "The multitude marvelled, but probably did not believe."
+        ],
+        "John Gill": [
+            "And Jesus rebuked the devil.... it was not the father of the child Christ rebuked for his unbelief; nor the lunatic himself... he 'rebuked the foul' or 'unclean spirit' as the Evangelists Mark and Luke expressly say.",
+            "He departed out of him; at the command of Christ... the child was cured from that very hour;",
+            "Hence the word rendered lunatic, in Matthew 17:15 is in several Oriental versions, translated in the sense of 'demoniac', or one possessed with a devil."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus rebuked the foul and unclean spirit that had possessed the child, commanding it to come out and never enter him again. The spirit cried out and convulsed before leaving, leaving the child seemingly lifeless. The crowd marveled, but likely did not truly believe. It was not the father's unbelief that Jesus rebuked, but rather the devil's presence. The child was instantly cured, as Jesus commanded, and the term lunatic in Matthew 17:15 can also be translated as demoniac or one possessed with a devil.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.404696139426919,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.25,
+                64.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus rebuked the foul and unclean spirit, commanding it to come out and never enter the child again. The spirit cried out and left, leaving the child seemingly lifeless. The crowd marveled, but likely did not truly believe. It was not the father's unbelief that Jesus rebuked, but the devil's presence. The child was instantly cured, as Jesus commanded, and the term lunatic in Matthew 17:15 can be translated as demoniac or one possessed with a devil.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3864478995551004,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.44,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.03,
+                62.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus rebuked the foul and unclean spirit, commanding it to come out and never enter the child again. The spirit cried out and left, leaving the child seemingly lifeless. It was not the father's unbelief that Jesus rebuked, but the devil's presence. The child was instantly cured, as Jesus commanded, and the term lunatic in Matthew 17:15 can be translated as demoniac or one possessed with a devil.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.5400821147399688,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.46,
+                65.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus rebuked the foul and unclean spirit, commanding it to come out and never enter the child again. The child appeared lifeless after the spirit left, resembling the aftermath of a severe epileptic fit. The crowd was amazed, though their belief may have been lacking. Through his rebuke, Jesus confronted the demonic presence, not the disbelief of the father. The child was instantly healed, demonstrating the power of Jesus' command. The term lunatic could also be understood as a demoniac or one possessed by a devil.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.313105701184614,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.75,
+                60.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus rebuked the unclean spirit, commanding it to leave the child and never return. The spirit cried out and the child appeared lifeless, resembling the aftermath of an epileptic fit. The crowd marveled, though their belief may have been lacking. Jesus confronted the demonic presence, not the father's unbelief. The child was immediately cured, demonstrating the power of Jesus' command. The term lunatic in Matthew 17:15 could be understood as a demoniac or one possessed by a devil.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.3367844857295654,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.79,
+                61.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

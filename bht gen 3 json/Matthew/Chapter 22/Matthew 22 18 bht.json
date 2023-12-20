@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:51:21",
+    "verseRef": "Matthew 22:18",
+    "bestBHT": {
+        "bht": "Our Lord not only detects their plot, but answers their question; and in answering it, teaches them each a deep lesson. Their wickedness, both in their flattering address and in their cunning question, reveals their hypocrisy. Men may rightly carry their religious convictions into politics, but when hypocrisy flourishes, religious questions may become political ones. Christ, being the omniscient God, saw the wickedness of their hearts and knew their hypocritical designs, teaching us to pray for the spirit of discernment. Despite their feigned respect and compliments, they were hypocrites, pretending a scruple of conscience.",
+        "wordCount": 94,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 2.2766286264132027,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+        "commentatorTierSimilarities": [
+            40.05,
+            33.56,
+            26.39
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord not only detects their plot, but answers their question; and in answering it, teaches them each a deep lesson."
+        ],
+        "John Calvin": [
+            "Whence then had Christ this knowledge, but because his Spirit was a discerner of hearts?",
+            "Accordingly, before giving a reply, he exhibited a proof of his Divinity by laying open their concealed malice.",
+            "Now since wicked men every day employ snares of the same kind, while their inward malice is concealed from us, we ought to pray to Christ to bestow upon us the spirit of discernment."
+        ],
+        "Philip Schaff": [
+            "Their wickedness. As just explained.",
+            "Hypocrites. They were such, both in their flattering address and in their cunning question.",
+            "Men may rightly carry their religious convictions into politics, and religious questions may become political ones; but when this is the case hypocrisy flourishes."
+        ],
+        "John Gill": [
+            "Christ being the omniscient God, saw the wickedness of their hearts, knew their hypocritical designs, and was well acquainted with all their artifice.",
+            "He judged not according to the outward appearance of their affection for him, and opinion of him, of religion, righteousness, and holiness in themselves, and of a sincere desire to have their conscience satisfied about this matter.",
+            "As he might well call them, who feigned themselves just persons, pretended a great deal of respect for him, call him master, compliment him with the characters of a faithful, sincere, and disinterested preacher; yet by putting the above question, designed no other than to ensnare him, and bring him into disgrace or trouble."
+        ],
+        "John Wesley": [
+            "Ye hypocrites \u2014 Pretending a scruple of conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord not only detects their plot, but answers their question; and in answering it, teaches them each a deep lesson. Their wickedness, both in their flattering address and in their cunning question, reveals their hypocrisy. Men may rightly carry their religious convictions into politics, but when hypocrisy flourishes, religious questions may become political ones. Christ, being the omniscient God, saw the wickedness of their hearts and knew their hypocritical designs, teaching us to pray for the spirit of discernment. Despite their feigned respect and compliments, they were hypocrites, pretending a scruple of conscience.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.2766286264132027,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+            "commentatorTierSimilarities": [
+                40.05,
+                33.56,
+                26.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord not only answers their question but also teaches them a deep lesson by exposing their plot and wickedness. Their hypocrisy is evident in their flattering address and cunning query. While religious convictions can intersect with politics, when hypocrisy is rampant, religious questions can become political. Christ, being omniscient, saw through their deceit and knew their hidden motives, demonstrating the need for us to pray for the discernment of spirits. Despite their feigned respect, they were hypocrites, pretending a scruple of conscience.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9434413140984288,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                35.09,
+                35.63,
+                29.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord not only exposes their plot but also offers them a profound lesson as He answers their question. The hypocrisy of the religious leaders becomes apparent in both their flattering address and their cunning query. While it is acceptable to integrate religious convictions into politics, hypocrisy thrives in such cases. Christ, being omniscient, discerned their wicked hearts and malicious intent, underscoring the importance of praying for the spirit of discernment. Despite their outward displays of respect, they were hypocrites, pretending to have a moral dilemma.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.8535668401557674,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                36.23,
+                34.93,
+                28.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord uncovers their scheme and imparts a valuable lesson while addressing their question. The religious leaders' deceitful actions and insincere inquiry expose their hypocrisy. Although it is valid to incorporate religious convictions into politics, the presence of hypocrisy thrives in such circumstances. As the omniscient God, Christ discerned the wickedness of their hearts and their hidden motives, emphasizing the necessity of seeking the spirit of discernment through prayer. Despite their outward show of respect, they were merely hypocrites feigning a moral dilemma.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.6401220235859322,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                32.59,
+                35.16,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In responding to their question, our Lord not only exposes their plot but also imparts a valuable lesson to each of them. The religious leaders' deceitful motive and insincere address reveal their hypocrisy. Though it is legitimate to bring religious convictions into politics, the prevalence of hypocrisy in this context thrives. As the omniscient God, Christ discerned their malicious intentions and wicked hearts, underscoring the importance of seeking the spirit of discernment through prayer. Despite their outward veneer of respect, they were mere hypocrites, pretending to have a moral dilemma.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7111338778191383,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                33.79,
+                34.14,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

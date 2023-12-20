@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:52:40",
+    "verseRef": "Matthew 25:2",
+    "bestBHT": {
+        "bht": "In this section, the distinction between the wise and the foolish virgins is not about being good or bad, but rather about their level of goodwill towards the truth and their readiness for Christ's return. It serves as a warning that many who appear to love Christ's appearing will be disowned by Him. The wise virgins are described as wise unto salvation, while the foolish ones are portrayed as coming before the king in a filthy state, causing his anger. This parable suggests the presence of a significant number of nominal believers among the churches.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.07,
+        "qualityScore": 1.5549930394736524,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+        "commentatorTierSimilarities": [
+            50.96,
+            13.01,
+            36.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They are not distinguished into good and bad, as TRENCH observes, but into 'wise' and 'foolish'\u2014just as in those who reared their house for eternity are distinguished into 'wise' and 'foolish builders'; because in both cases a certain degree of goodwill towards the truth is assumed.",
+            "To make anything of the equal number of both classes would, we think, be precarious, save to warn us how large a portion of those who, up to the last, so nearly resemble those that love Christ's appearing will be disowned by Him when He comes.",
+            "Warn us how large a portion of those who, up to the last, so nearly resemble those that love Christ's appearing will be disowned by Him when He comes."
+        ],
+        "John Calvin": [
+            "Towards the close of the former chapter, our Lord specially required steward to be wise... But now he demands wisdom from all the children of God in general...\" ",
+            "But now he demands wisdom from all the children of God in general, that they may not, through inconsiderate rashness, expose themselves to be the prey of Satan.\" ",
+            "Now this kind of wisdom he describes by saying, that they are to provide themselves with the supplies necessary for completing the course of their life."
+        ],
+        "Philip Schaff": [
+            "Matthew 25:2. And five of them were foolish, etc. This equal division may have a meaning. The correct order is transposed in the common version.",
+            "\t"
+        ],
+        "John Gill": [
+            "The wise virgins are such, who are wise, not in their own conceits, which is the case of natural men, and empty professors; nor in the things of nature, or in the things of the world... but they are such who are wise unto salvation.",
+            "The fools went in before him, as they were, filthy: the king rejoiced at meeting the wise, and was angry at meeting the foolish; and ordered, that those who had adorned themselves for the feast should sit and eat, and those that had not adorned themselves for the feast should stand.",
+            "The number of wise and foolish virgins being equal, does not imply that there will be just the same number of nominal, as of real believers in the churches, in the latter day, a little before the coming of Christ; only that there will be a large number of such among them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 25:2, the distinction between the wise and the foolish virgins is not a classification of good and bad, but rather of those who have a certain degree of goodwill towards the truth and those who lack it. The equal number of both classes serves as a warning that a significant portion of those who outwardly resemble those who love Christ's appearing will be disowned by Him when He returns. Thus, this passage emphasizes the importance of possessing wisdom and not thoughtlessly exposing oneself to be deceived by Satan. The wise virgins are those who are wise unto salvation, while the foolish virgins are depicted as coming before the king in a filthy state, causing him to be angry. Ultimately, this parable suggests that there will be a large number of nominal believers among the churches, particularly in the last days.",
+            "wordCount": 142,
+            "quoteTokenProportion": 37.08,
+            "qualityScore": 1.648514996166943,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                48.41,
+                15.95,
+                35.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this portion, there are the wise and the foolish virgins, not distinguished as good and bad but rather by their level of goodwill towards the truth and their readiness for Christ's coming. It is a cautionary reminder that many who outwardly resemble those who love Christ's appearing will be rejected by Him. The wise virgins display wisdom unto salvation, while the unwise enter the presence of the king in a filthy state, provoking his anger. The parable implies the presence of numerous nominal believers among the churches, especially in the last days.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.5268185132398835,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.11,
+            "commentatorTierSimilarities": [
+                49.63,
+                12.47,
+                37.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this section, the distinction between the wise and the foolish virgins is not about being good or bad, but rather about their level of goodwill towards the truth and their readiness for Christ's return. It serves as a warning that many who appear to love Christ's appearing will be disowned by Him. The wise virgins are described as wise unto salvation, while the foolish ones are portrayed as coming before the king in a filthy state, causing his anger. This parable suggests the presence of a significant number of nominal believers among the churches.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.5549930394736524,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                50.96,
+                13.01,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The division of the virgins in Matthew 25:2 is not a classification of good and bad, but rather a distinction between the wise and the foolish based on their level of goodwill towards the truth. This warns us that many who outwardly resemble those who love Christ's appearing will be disowned by Him. The wise virgins are characterized as being wise unto salvation, while the foolish ones come before the king in a filthy state, provoking his anger. This parable indicates the prevalence of nominal believers among the churches.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.5978740821571078,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+            "commentatorTierSimilarities": [
+                49.94,
+                17.4,
+                32.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The distinction between the wise and foolish virgins in this context does not categorize them as good or bad, but rather is based on their level of goodwill towards the truth and their readiness for Christ's return. It serves as a warning that a significant portion of those who outwardly resemble those who love Christ's appearing will be disowned by Him. The wise virgins display wisdom unto salvation, while the foolish ones enter the presence of the king in a filthy state, provoking his anger. This parable suggests the presence of numerous nominal believers among the churches, particularly in the last days.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 1.5626421201976286,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.3,
+            "commentatorTierSimilarities": [
+                50.92,
+                12.81,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

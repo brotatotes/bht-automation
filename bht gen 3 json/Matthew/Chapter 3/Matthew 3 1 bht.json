@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:46",
+    "verseRef": "Matthew 3:1",
+    "bestBHT": {
+        "bht": "In the wilderness of Judea, John the Baptist appeared during the days of Christ's secluded life at Nazareth. His baptism held a profound significance, going beyond the customary Jewish practice, and aimed to bring people's minds to a state where they could recognize their sins and respond to the Redeemer's invitation for rest. John's striking message attracted crowds near and far, as he fearlessly proclaimed the approaching kingdom of the Messiah and encouraged people to have faith in the One who would come after him.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.9814472699090455,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            32.33,
+            29.2,
+            38.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The baptism of John was of a deeper significance than that usual among the Jews in the case of proselytes, and formed an integral part of his divinely appointed office.\" ",
+            "His whole mission was calculated, in accordance with the office of the law, which gives the knowledge of sin (Rom. iii. 20), to bring men\u2019s minds into that state in which the Redeemer invites them (ch. xi. 28), as weary and heavy laden, to come to Him.",
+            "This wilderness answers to 'all the country round about Jordan' in Luke iii. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In those days\u2014of Christ's secluded life at Nazareth, where the last chapter left Him.",
+            "came John the Baptist, preaching\u2014about six months before his Master.",
+            "in the wilderness of Judea\u2014the desert valley of the Jordan, thinly peopled and bare in pasture, a little north of Jerusalem."
+        ],
+        "Albert Barnes": [
+            "In those days while Jesus still dwelt at Nazareth, John began to preach.",
+            "Baptism, or the application of water, was a rite well known to the Jews, and practiced when they admitted proselytes to their religion from paganism.",
+            "The discourses recorded in the New Testament are mostly brief, sometimes consisting only of a single sentence. They were public proclamations of some great truth."
+        ],
+        "Marvin Vincent": [
+            "In those days appears John the Baptist.",
+            "The verb is used in what is called the historical present, giving vividness to the narrative.",
+            "Not suggesting absolute barrenness but unappropriated territory affording free range for shepherds and their flocks."
+        ],
+        "John Calvin": [
+            "The ancient writers of the Church are almost unanimously agreed, that he [John] was born fifteen years before the death of Augustus.",
+            "Hence it follows, that he did not long discharge the office of teacher, but, in a short time, gave way to Christ.",
+            "Now as John, the morning-star, or dawn, was immediately followed by Christ, 'the Sun of Righteousness,' there is no reason to wonder, that John disappeared, in order that Christ might shine alone in greater brightness."
+        ],
+        "Philip Schaff": [
+            "This silence of Scripture suggests lessons of obedience and reverence to parents, of patience and perseverance in the long processes of education for our life-work.",
+            "John, Hebrew: Johanan (the Lord graciously gave) allied to the Phenician name Hannibal (German, Gottlieb).",
+            "In the wilderness, i.e. a region 'not regularly cultivated and inhabited, but used for pasturage, being generally without wood, and deficient in water, but not entirely destitute of vegetation.'"
+        ],
+        "Archibald T. Robertson": [
+            "Here he is as he comes forward, makes his appearance.",
+            "John is treating the Jews as Gentiles in demanding baptism at their hands on the basis of repentance.",
+            "He was the Baptizer, but he was also the Preacher, heralding his message out in the barren hills at first where few people were, but soon his startling message drew crowds from far and near."
+        ],
+        "John Gill": [
+            "He is called by some of the Jewish writers John the 'high priest'; his father Zacharias was a priest of the course of Abia, and he might succeed him therein, and be the head of that course, and for that reason be called a 'high' or 'chief priest'...",
+            "From his being the first administrator of the ordinance of baptism, he is called John the Baptist; and this was a well-known title and character of him.",
+            "He is described by his work and office as a preacher, he 'came' or 'was preaching' the doctrines of repentance and baptism; he published and declared that the kingdom of the Messiah was at hand, that he would quickly be revealed; and exhorted the people to believe on him, which should come after him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In those days, during Christ's secluded life at Nazareth, John the Baptist came forward, making his appearance in the barren hills of the wilderness of Judea. His baptism, unlike the usual Jewish practice, held a deeper significance, pointing to the knowledge of sin and the invitation of the Redeemer to come to Him. John's message drew crowds from far and near, proclaiming the approaching kingdom of the Messiah and urging people to believe in Him. As the forerunner, he prepared the way for Christ, the Sun of Righteousness, shining alone in greater brightness.",
+            "wordCount": 95,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.9663393001819793,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                32.07,
+                27.72,
+                40.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In those days, John the Baptist appeared in the wilderness of Judea, preaching a baptism that was deeper and more significant than the Jewish tradition. His mission was to bring people's minds to a state where they would recognize their sins and respond to the invitation of the Redeemer to find rest in Him. John's message resonated with the people, drawing crowds from all around. He proclaimed the imminent arrival of the Messiah's kingdom and urged people to have faith in the One who would come after him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8040845612406646,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                32.95,
+                26.74,
+                40.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In those days, John the Baptist emerged in the wilderness of Judea, presenting a baptism of greater significance than the customary Jewish practice. John aimed to bring people to a state to recognize their sins and respond to the Redeemer's invitation for rest. Preaching in the barren hills, his striking message attracted crowds from far and near. John's role extended beyond baptizing; he served as a prominent preacher, heralding the approaching kingdom of the Messiah.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.8678025628018373,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
+            "commentatorTierSimilarities": [
+                33.23,
+                28.38,
+                38.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Emerging in the wilderness of Judea, John the Baptist arrived in those days, preaching about his baptism, which held a deeper significance than the customary Jewish practice for admitting proselytes. His role was to pave the way for the Redeemer, bringing people to a point where they recognized their sins and sought rest in Him. John's message drew crowds from far and near, as he fearlessly proclaimed the impending arrival of the Messiah's kingdom and urged people to place their faith in the One who would come after him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9395926595607955,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                32.05,
+                26.44,
+                41.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the wilderness of Judea, John the Baptist appeared during the days of Christ's secluded life at Nazareth. His baptism held a profound significance, going beyond the customary Jewish practice, and aimed to bring people's minds to a state where they could recognize their sins and respond to the Redeemer's invitation for rest. John's striking message attracted crowds near and far, as he fearlessly proclaimed the approaching kingdom of the Messiah and encouraged people to have faith in the One who would come after him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9814472699090455,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                32.33,
+                29.2,
+                38.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

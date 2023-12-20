@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:52:36",
+    "verseRef": "Matthew 25:3",
+    "bestBHT": {
+        "bht": "Trusting that the light, once burning, would ever burn, those who were foolish made no provision for the strengthening of the inner man by watchfulness and prayer. They took their lamps, but took no oil with them. The grace of the Spirit, compared to oil, is of an holy and sanctifying nature. However, the foolish took no oil with them, leaving no means to supply their future want or to recruit their lamp's decay. The lamp is faith, and a lamp with oil is faith working by love.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.8854779754626247,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+        "commentatorTierSimilarities": [
+            47.07,
+            0.0,
+            52.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Trusting that the light, once burning, would ever burn...",
+            "Made no provision for the strengthening of the inner man by watchfulness...",
+            "...and prayer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. They that were foolish took their",
+            "\tlamps, and took no oil with them:"
+        ],
+        "Marvin Vincent": [
+            "They that were foolish [\u03b1\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2 \u03bc\u03c9\u03c1\u03b1\u03b9] . Read aiJ gar mwrai, for the foolish. The for justifies the epithet foolish in the preceding verse."
+        ],
+        "Archibald T. Robertson": [
+            "Took no oil with them."
+        ],
+        "John Gill": [
+            "But chiefly in what follows.",
+            "The grace of the Spirit being of an holy and sanctifying nature, exceeding valuable and precious, and a curious piece of workmanship.",
+            "Grace may be compared to it [oil]...beautifying and adorning, supplying and healing, feeding and fattening, searching and penetrating, and will not mix with anything else."
+        ],
+        "John Wesley": [
+            "The foolish took no oil with them \u2014 No more than kept them burning just for the present.\" ",
+            "None to supply their future want, to recruit their lamp's decay.",
+            "The lamp is faith. A lamp and oil with it, is faith working by love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Trusting that the light, once burning, would ever burn, those who were foolish made no provision for the strengthening of the inner man by watchfulness and prayer; they took their lamps, but took no oil with them. The grace of the Spirit, compared to oil, is of an holy and sanctifying nature, exceeding valuable and precious. It beautifies, adorns, supplies, heals, feeds, fattens, searches, and penetrates. However, the foolish took no oil with them, leaving no means to supply their future want or to recruit their lamp's decay. The lamp is faith, and a lamp with oil is faith working by love.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.6212936703468266,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                38.18,
+                0.0,
+                61.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Trusting that the light, once burning, would ever burn, those who were foolish made no provision for the strengthening of the inner man by watchfulness and prayer; they took their lamps, but took no oil with them. The grace of the Spirit, compared to oil, is of an holy and sanctifying nature, exceeding valuable and precious. However, the foolish took no oil with them, leaving no means to supply their future want or to recruit their lamp's decay. The lamp is faith, and a lamp with oil is faith working by love.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8268983037303141,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                40.75,
+                0.0,
+                59.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Trusting that the light, once burning, would ever burn, those who were foolish made no provision for the strengthening of the inner man by watchfulness and prayer. They took their lamps, but took no oil with them. The grace of the Spirit, compared to oil, is of an holy and sanctifying nature. However, the foolish took no oil with them, leaving no means to supply their future want or to recruit their lamp's decay. The lamp is faith, and a lamp with oil is faith working by love.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.8854779754626247,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                47.07,
+                0.0,
+                52.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Trusting in the sustaining power of the light without making provision for spiritual strength, the foolish took their lamps but neglected to carry oil. The oil is representative of the precious and sanctifying grace of the Spirit, which beautifies, supplies, heals, and nourishes. However, the foolish failed to bring oil, leaving themselves unprepared to meet future needs and lacking the means to replenish their diminishing lamps. The lamp symbolizes faith, and a lamp with oil represents faith in action through love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.5774815254470402,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                37.98,
+                0.0,
+                62.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Trusting that the light, once burning, would ever burn, those who were foolish took their lamps but neglected to carry oil. The oil symbolizes the valuable and sanctifying grace of the Spirit, which adorns, supplies, heals, and nourishes. However, the foolish failed to bring oil, leaving themselves unprepared for future needs and unable to replenish their diminishing lamps. The lamp represents faith, and a lamp with oil signifies faith in action through love.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.672951909629552,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                40.54,
+                0.0,
+                59.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

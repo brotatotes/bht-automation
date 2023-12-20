@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:50:02",
+    "verseRef": "Matthew 20:7",
+    "bestBHT": {
+        "bht": "The parable illustrates the inclusion of those who came to work in the eleventh hour, highlighting that they had no earlier opportunity. This can be applied to the Gentiles who were neglected by God for a long time. However, through the Gospel, they became partakers of the same promises and privileges as the believing Jews. Ultimately, they would receive what is right, just like the rest of the laborers in it.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 0.9538424960901304,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.06,
+        "commentatorTierSimilarities": [
+            0.0,
+            33.08,
+            66.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 20:7. Because no man hired us. The eleventh hour laborers are accepted, but they were mainly those who had no opportunity at an earlier period.",
+            "\t"
+        ],
+        "John Gill": [
+            "This may be fitly applied to the Gentiles, who hundreds of years were neglected by God; he overlooked the times of their ignorance, took no notice of them in their state of stupidity, blindness, and irreligion.",
+            "The Gospel was made the power of God unto salvation to them; they were called by grace, became of the same body the church, were fellow heirs with the believing Jews, partakers of the same promises and privileges.",
+            "And whatsoever is right, that shall ye receive; with the rest of the labourers in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Matthew 20:7 teaches us that even those who came to work at the eleventh hour were accepted. This is because they had no opportunity at an earlier time. In a broader sense, this can be applied to the Gentiles who were neglected for hundreds of years by God. However, through the Gospel, they were called by grace and became partakers of the promises and privileges of the same body, the church. Ultimately, as promised in the verse, they would receive what is right, just like the rest of the laborers in it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 0.9914550600709668,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.97,
+                60.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable illustrates the inclusion of those who came to work in the eleventh hour, highlighting that they had no earlier opportunity. This can be applied to the Gentiles who were neglected by God for a long time. However, through the Gospel, they became partakers of the same promises and privileges as the believing Jews. Ultimately, they would receive what is right, just like the rest of the laborers in it.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.9538424960901304,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.06,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.08,
+                66.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The eleventh hour laborers in Matthew 20:7 were primarily those who had not been given the opportunity for work earlier. This can be seen as representing the Gentiles, who were neglected by God for hundreds of years. However, when the Gospel was revealed to them, they were called by grace and became partakers of the same promises and privileges as the believing Jews. Despite their late entrance, they would receive what is right, just like the rest of the laborers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.1980982365859512,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.95,
+                56.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The eleventh hour laborers in this passage are a symbolic representation of the Gentiles, who were overlooked and neglected for a significant period of time. However, when the Gospel was made known to them, they were graciously called and became part of the body of believers, receiving the same promises and privileges. Just like the other laborers, they would not be forgotten but receive what is rightfully due to them.",
+            "wordCount": 70,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 0.9749470795901698,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.5,
+                62.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusion of the eleventh hour laborers in this account can be seen as a representation of the Gentiles. Hindered for a substantial amount of time, the Gentiles were finally given the opportunity to receive the Gospel and join the community of believers. They were not to be overlooked or left out, but rather welcomed and granted the same rewards as the rest of the laborers.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 0.8529037273469109,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.89,
+                63.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

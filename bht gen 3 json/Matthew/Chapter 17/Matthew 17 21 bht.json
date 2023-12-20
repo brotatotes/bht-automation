@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:49:17",
+    "verseRef": "Matthew 17:21",
+    "bestBHT": {
+        "bht": "To cast out certain demons, prayer and fasting are necessary to combat their strong grip. Vigorous efforts must be made to engage in a battle with Satan and his long-held possession. This kind of deliverance requires deepened connection and intensified reliance on God's power. Through constant prayer and abstaining from food, faith is fueled and a painful yet powerful victory can be achieved, demonstrating the efficacy of fasting when combined with fervent prayer.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.3753633196747395,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.07,
+        "commentatorTierSimilarities": [
+            0.0,
+            38.02,
+            61.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Where they have had long possession where they produce such painful, fixed, and alarming effects, they can be expelled only in connection with prayer and fasting.",
+            "That is, in order to work miracles of this kind to cast out devils in cases so obstinate and dreadful as this, faith of the highest kind is necessary.",
+            "That faith is produced and kept vigorous only by much prayer, and by such abstinence from food as fits the mind for the highest exercises of religion, and leaves it free to hold communion with God."
+        ],
+        "John Calvin": [
+            "It is not every kind of faith that will suffice, when we have to enter into a serious conflict with Satan, but that vigorous efforts are indispensably necessary.",
+            "You have to deal with a powerful adversary, who will not yield till the battle has been fought out. Your faith must therefore be excited by prayer.",
+            "When he says that this kind of devils cannot be cast out in any other way than by prayer and fasting, he means that, when Satan has taken deep root in anyone, the victory is difficult and painful, and therefore the contest must be maintained with all our might."
+        ],
+        "Philip Schaff": [
+            "The two oldest manuscripts, the best of the later ones (cursives), some very ancient versions, omit this verse, and there are other reasons for doubting its genuineness.",
+            "If retained: \u2018Howbeit\u2019 should be changed to \u2018but.\u2019",
+            "See notes on Mark 9:29, where the passage is to be retained."
+        ],
+        "John Gill": [
+            "and having had long possession, was not easily ejected",
+            "but they had been wanting in prayer to God, to assist them in the exercise of their miraculous gifts",
+            "This agrees with the notions of the Jews, who think that, by fasting, a divine soul may obtain that which is sought for"
+        ],
+        "John Wesley": [
+            "This kind of devils \u2014 goeth not out but by prayer and fasting.\" ",
+            "What a testimony is here of the efficacy of fasting, when added to fervent prayer!\" ",
+            "Some kinds of devils the apostles had cast out before this, without fasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In order to cast out certain kinds of demons, prayer and fasting are necessary. These demons have a strong grip and can only be expelled through a faith that is fueled by constant prayer and abstaining from food. Vigorous efforts are required when engaging in a battle with Satan, especially when he has long possessed someone. The victory is difficult and painful, and thus the contest must be fought with all our might. This kind of demonic oppression calls for a deepened and intensified connection with God, relying on His power to assist in the miraculous act of deliverance. ",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.3428491680306673,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.7,
+                63.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To cast out certain demons, prayer and fasting are necessary to combat their strong grip. Vigorous efforts must be made to engage in a battle with Satan and his long-held possession. This kind of deliverance requires deepened connection and intensified reliance on God's power. Through constant prayer and abstaining from food, faith is fueled and a painful yet powerful victory can be achieved, demonstrating the efficacy of fasting when combined with fervent prayer.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.3753633196747395,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.07,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.02,
+                61.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In cases of stubborn and alarming demonic possession, only through fervent prayer and fasting can these forces be expelled. This kind of deliverance requires a faith of the highest kind, produced and sustained by much prayer and abstaining from food. The battle with Satan is difficult and painful, as he has deeply rooted himself in those he possesses. However, through unwavering commitment and intensified connection with God, victory can be achieved. This intense form of spiritual warfare highlights the potency and effectiveness of combining fasting with fervent prayer.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.3358429251850947,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.32,
+                61.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In cases of stubborn and alarming demonic possession, expelling such forces can only be achieved through fervent prayer and fasting. This kind of deliverance necessitates a faith of the highest kind, sustained by much prayer and abstaining from food. The battle with Satan is difficult and painful, as he deeply roots himself in those he possesses. However, unwavering commitment and intensified connection with God can lead to victory. Combining fasting with fervent prayer demonstrates the potency and effectiveness in spiritual warfare.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3453313325105773,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.08,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.4,
+                62.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In cases of stubborn demonic possession, expelling these forces requires fervent prayer and fasting. This deliverance necessitates a faith of the highest kind, sustained by much prayer and abstaining from food. Defeating Satan in this battle is challenging and painful, as he deeply roots himself in those he possesses. However, unwavering commitment and intensified connection with God can lead to victory. Combining fasting with fervent prayer demonstrates the potency and effectiveness in spiritual warfare.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.3375443603595183,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.1,
+                62.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

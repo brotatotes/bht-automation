@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:52:08",
+    "verseRef": "Matthew 23:35",
+    "bestBHT": {
+        "bht": "The judgment that awaits the Jewish people is not a sudden outburst of God's anger, but a culmination of their long history of unrighteousness. The murder of Abel marked the beginning of a struggle between righteousness and wickedness, while the killing of Zechariah in the sanctuary served as a warning of the dire consequences to come. The Jews, chosen by God, turned away from Him and His messengers, becoming vessels of wrath. The impending judgment is the result of their cumulative crimes and their refusal to heed God's warnings.",
+        "wordCount": 91,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.9657462508361196,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+        "commentatorTierSimilarities": [
+            31.26,
+            35.41,
+            33.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every such signal judgment is the judgment for a series of long-crying crimes\u2014and these judgments do not exhaust God\u2019s anger.\" ",
+            "The murder of Abel was the first in the strife between unrighteousness and holiness.\" ",
+            "The Jews stood in the central point of God's dealings with men; and as they were the chosen for the election of grace, so, rejecting God and His messengers, they became, in an especial and awful manner, vessels of wrath."
+        ],
+        "Albert Barnes": [
+            "The patience of God is nearly exhausted, and the nation is about to be visited with signal vengeance.",
+            "Temporal judgments descend on children in consequence of the wickedness of parents.",
+            "The appropriate effects of their fathers\u2019 crimes were coming on the nation, and they would suffer."
+        ],
+        "Marvin Vincent": [
+            "Temple [\u03bd\u03b1\u03bf\u03c5] . Rev., rightly, sanctuary. See on Matthew 4:5. Zechariah was slain between the temple proper and the altar of burnt - offering, in the priests ' court."
+        ],
+        "John Calvin": [
+            "For as God, by an uninterrupted course of patience, has unceasingly contended with the malice of the whole people, so the whole people is justly held guilty of the inflexible obstinacy which continued to the very last...",
+            "Cain is therefore declared to be the head, and leader, and instigator of the Jewish people, because, ever since they began to slay prophets, they succeeded in the room of him whose imitators they were.",
+            "The crime is rendered still more heinous by the circumstance of the place, since they did not revere the sacredness of the temple...there must have been furious rage, when the sight of the altar and of the temple could not restrain the Jews from profaning that sacred place by a detestable murder."
+        ],
+        "Philip Schaff": [
+            "The result would be further guilt, filling up the cup of iniquity; the end would be judgment. The inevitableness, suddenness, power, and grandeur of the judgment is intimated.",
+            "The blood of Abel' was a symbol of avenging justice, and even the blood of Christ has a condemning office.",
+            "The case of Zachariah was a marked one in view of the place 'between the sanctuary and the altar,' and of his death-cry: 'The Lord seeth and will avenge it.'"
+        ],
+        "Archibald T. Robertson": [
+            "A half-dozen possibilities can be suggested.",
+            "In the case of Abel a reckoning for the shedding of his blood was foretold.",
+            "The same thing was true of the slaying of Zachariah."
+        ],
+        "John Gill": [
+            "All men are of one blood, and that is tainted, they that are righteous, are not so naturally, nor by any righteousness of their own, but by the righteousness of Christ.",
+            "He being the first man that was slain; for which reason he is mentioned here by Christ; and also, because his blood cried for vengeance, and still continued to do, upon all such persons that should commit the like crime.",
+            "Their horrible destruction was a punishment for that load of national guilt, which had been for many hundreds of years contracting, and heaping upon them."
+        ],
+        "John Wesley": [
+            "That upon you may come \u2014 The consequence of which will be, that upon you will come the vengeance of all the righteous blood shed on the earth.\" ",
+            "Ye make that murder also of your fathers your own, by imitating it.\" ",
+            "Our Lord seems to refer to this instance, rather than any other, because he was the last of the prophets on record that were slain by the Jews for reproving their wickedness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The judgment that will befall the Jewish people is not an isolated incident, but rather the culmination of a long history of persistent unrighteousness. The murder of Abel marked the beginning of a conflict between righteousness and wickedness, while the killing of Zechariah in the sanctuary foreshadowed the dire consequences that awaited the nation. The Jews, as the chosen people, were held to a higher standard and their rejection of God and His messengers made them vessels of wrath. The nation's guilt had been steadily accumulating, and the impending judgment would be a result of their cumulative crimes. The cry for vengeance, starting with Abel's blood, continued to resound throughout the generations. The crime committed by their fathers became their own, as they followed in their footsteps. The inevitable judgment would be a culmination of God's patience being nearly exhausted and the righteous blood shed on the earth demanding justice.",
+            "wordCount": 153,
+            "quoteTokenProportion": 34.34,
+            "qualityScore": 1.8155352578155615,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                26.06,
+                37.43,
+                36.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The judgment that awaits the Jewish people is not a sudden outburst of God's anger, but a culmination of their long history of unrighteousness. The murder of Abel marked the beginning of a struggle between righteousness and wickedness, while the killing of Zechariah in the sanctuary served as a warning of the dire consequences to come. The Jews, chosen by God, turned away from Him and His messengers, becoming vessels of wrath. The impending judgment is the result of their cumulative crimes and their refusal to heed God's warnings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.9657462508361196,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                31.26,
+                35.41,
+                33.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The impending judgment on the Jewish people is the culmination of their long-standing series of crimes. From the murder of Abel, symbolizing the conflict between righteousness and wickedness, to the killing of Zechariah in the sanctuary, these crimes serve as warnings of the dire consequences that await. The Jews, chosen by grace, turned away from God and His messengers, becoming vessels of wrath. Their guilt has been accumulating for centuries, and the judgment is the rightful result. The bloodshed cries out for vengeance and their crimes become their own as they follow in the footsteps of their fathers.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.878164960045226,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                27.6,
+                37.08,
+                35.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The impending judgment on the Jewish people is the result of a long history of persistent unrighteousness. From the murder of Abel, symbolizing their strif",
+            "wordCount": 25,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7254802005102676,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                33.96,
+                31.79,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The judgment that awaits the Jewish people is not a sudden outburst of God's anger, but a culmination of their long history of unrighteousness. The murder of Abel marked the beginning of a struggle between righteousness and wickedness, while the killing of Zechariah in the sanctuary served as a warning of the dire consequences to come. The Jews, chosen by God, turned away from Him and His messengers, becoming vessels of wrath. The impending judgment is the result of their cumulative crimes and their refusal to heed God's warnings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.9657462508361196,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                31.26,
+                35.41,
+                33.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

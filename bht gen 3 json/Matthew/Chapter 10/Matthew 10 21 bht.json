@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:46:01",
+    "verseRef": "Matthew 10:21",
+    "bestBHT": {
+        "bht": "Spoken perhaps of official information against Christians, the hostility of the old nature to the new was to result in wrenches of the dearest ties. The disciples, preparing for the worst, anticipate the virulent opposition they may face in launching their cause. This dreadful opposition against God and His gospel induces violation of the most tender relations, overcoming natural affection. The disciples may face persecution from their own relatives, reinforcing the sad corruption of human nature and its enmity against the Gospel.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.856590523589933,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+        "commentatorTierSimilarities": [
+            34.47,
+            38.57,
+            26.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] Spoken perhaps of official information given against Christians, as there are no female relations mentioned. But the general idea is also included."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The deep and virulent hostility of the old nature and life to the new\u2014as of Belial to Christ\u2014was to issue in awful wrenches of the dearest ties.\" (Sentence 3)",
+            "The disciples, in the prospect of their cause and themselves being launched upon society, are here prepared for the worst.\" (Sentence 4)"
+        ],
+        "Albert Barnes": [
+            "If this be so, then how inexpressibly awful must be the malignity of the human heart by nature against religion!",
+            "Nothing else but this dreadful opposition to God and his gospel ever has induced or ever can induce people to violate the most tender relations.",
+            "Such is the opposition of the heart of man to the gospel! That hostility which will overcome the strong ties of natural affection, and which will be satisfied with nothing else to show its power, can be no slight opposition to the gospel of God."
+        ],
+        "John Calvin": [
+            "Brothers, who ought to assist them when oppressed, to stretch out their hand to them amidst their distresses, and to watch over their safety, will be their mortal enemies.",
+            "It is a mistake however, to suppose that it happens to none but believers to be delivered up to death by their brethren.",
+            "On the other hand, as Christ not only restores the kingdom of God, and raises godliness to its full vigor, but even brings men back from ruin to salvation, nothing can be more unreasonable than that the ministers of so lovely a doctrine should be hated on his account."
+        ],
+        "Philip Schaff": [
+            "The heavenly \u2018Father\u2019 aids; the human relatives may persecute.",
+            "The first prophecy of actual martyrdom. The idea of persecution in general is of course included.",
+            "A strong word, implying first, rebellion against parental authority, and then, in this connection, a parricidal course of conduct."
+        ],
+        "John Gill": [
+            "The true followers of Christ should not only be persecuted and betrayed, and delivered up into the hands of the civil magistrate, by persons that were strangers to them; but even by their nearest relations, brethren, whom the nearness of blood, should oblige to the tenderest regards to each other, to the securing of property and preserving of life.",
+            "[They] deliver [their loved ones] up into the hands of wicked magistrates, to put them to death: and, on the other hand, children, forgetting the bonds they are in, and the obligations they lie under to their aged parents, rise up against them, and either with their own hands murder them, or appear as witnesses against them, and give their hearty consent to the taking away of their lives.",
+            "This shows the sad corruption of human nature, its enmity to the Gospel of Christ, and the inveterate malice and hatred of Satan against Christ, and his interest."
+        ],
+        "John Wesley": [
+            "Luke 21:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 10:21, the deep hostility that the old nature and life have towards the new, as Belial to Christ, is highlighted. This opposition can result in wrenching of the closest familial ties. The disciples are warned about the dreadful opposition they may face in launching their cause into society. This opposition is a testament to the malignity of the human heart against religion and shows the sad corruption of human nature and the enmity against the Gospel of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.634288997737392,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                31.46,
+                39.74,
+                28.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Spoken perhaps of official information given against Christians, the deep and virulent hostility of the old nature and life to the new\u2014as of Belial to Christ\u2014was to issue in awful wrenches of the dearest ties. The disciples, in the prospect of their cause and themselves being launched upon society, are here prepared for the worst. This dreadful opposition to God and His gospel induces people to violate the most tender relations, overcoming the strong ties of natural affection. The disciples may face persecution from their own relatives, reinforcing the sad corruption of human nature and its enmity against the Gospel of Christ.",
+            "wordCount": 104,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.9922163263854662,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                38.25,
+                34.74,
+                27.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Spoken perhaps of official information against Christians, the hostility of the old nature to the new was to result in wrenches of the dearest ties. The disciples, preparing for the worst, anticipate the virulent opposition they may face in launching their cause. This dreadful opposition against God and His gospel induces violation of the most tender relations, overcoming natural affection. The disciples may face persecution from their own relatives, reinforcing the sad corruption of human nature and its enmity against the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.856590523589933,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                34.47,
+                38.57,
+                26.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse speaks of the deep and virulent hostility the old nature has towards the new Christian life. It warns the disciples about the potential wrenches in their dearest ties and prepares them for the worst as they launch their cause into society. The opposition to God and His gospel can lead people to violate even the most tender relations, as seen in the persecution from their own relatives. This highlights the sad corruption of human nature and its enmity against the Gospel of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8133956926780606,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "commentatorTierSimilarities": [
+                32.65,
+                35.74,
+                31.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Spoken of official information against Christians, the deep hostility of the old nature to the new, as of Belial to Christ, results in wrenches of the dearest ties. The disciples, launching their cause into society, are prepared for the worst. This dreadful opposition against God induces violation of tender relations, overcoming natural affection. Persecution may come from one's own relatives, demonstrating the corruption of human nature and its enmity against the Gospel of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.7784401248928146,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                36.02,
+                37.7,
+                26.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

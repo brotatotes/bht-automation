@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:45:32",
+    "verseRef": "Matthew 9:23",
+    "bestBHT": {
+        "bht": "The scene unfolds with minstrels, either hired or volunteering as mourners, filling the air with their loud screaming and wailing, akin to an uproar. The girl had just died, prompting a tumultuous crowd to gather, consisting of flute-players and mourning women who were hired to sing naenia in honor of the deceased. Despite the disheartening and sorrowful environment, Jesus, undeterred by the melancholy atmosphere, prevailed over it with his calming presence, dispelling the chaos and embodying peace and healing.",
+        "wordCount": 80,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.4990011631151132,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+        "commentatorTierSimilarities": [
+            37.56,
+            17.75,
+            44.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Minstrels...hired or volunteering as mourners.",
+            "Making a noise...representing the loud screaming and wailing by the women.",
+            "It is the word used in Acts 17:5: 'Set the city in an uproar.'"
+        ],
+        "Philip Schaff": [
+            "Be not afraid, only believe.",
+            "The minstrels, i.e., the flute players, who attended funerals.",
+            "The lamentation often began as the last breath left the body."
+        ],
+        "Archibald T. Robertson": [
+            "The girl was just dead, but already a crowd 'making a tumult' (\u03b8\u03bf\u03c1\u03c5\u03b2\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03bd) with wild wailing and screaming had gathered in the outer court.\" ",
+            "Besides the several flute-players (voluntary or hired) there were probably 'some hired mourning women (Jeremiah 9:17) praeficae, whose duty it was to sing naenia in praise of the dead'.\" ",
+            "Jesus overcame all this repellent environment."
+        ],
+        "John Gill": [
+            "These instruments were made use of, not to remove the melancholy of surviving friends, or allay the grief of the afflicted family; but, on the contrary, to excite it.",
+            "They had their mourning women, who answered to the pipe; and by their dishevelled hair, and doleful tones, moved upon the affections, and drew tears from others.",
+            "Among these also, might be the mourners that made a noise for the dead; 'for since mourning was for the honour of the dead, therefore they obliged the heirs to hire mourning men, and mourning women, to mourn for the same.'"
+        ],
+        "John Wesley": [
+            "Musical instruments were used by the Jews as well as the heathens, in their lamentations for the dead, to soothe the melancholy of surviving friends, by soft and solemn notes.",
+            "Flutes were used especially on the death of children; louder instruments on the death of grown persons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Matthew 9:23 depicts a crowd of minstrels and mourners that had already gathered, creating a tumultuous and noisy environment with their screaming and wailing. These mourners were accompanied by flute-players and hired mourning women, whose duty was to sing in remembrance of the dead. Yet, amidst this chaotic and grief-stricken atmosphere, Jesus remained composed and undeterred. He overcame the repellent environment and brought peace and healing.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.3446936649072039,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                40.49,
+                19.62,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scene unfolds with minstrels, either hired or volunteering as mourners, filling the air with their loud screaming and wailing, akin to an uproar. The girl had just died, prompting a tumultuous crowd to gather, consisting of flute-players and mourning women who were hired to sing naenia in honor of the deceased. Despite the disheartening and sorrowful environment, Jesus, undeterred by the melancholy atmosphere, prevailed over it with his calming presence, dispelling the chaos and embodying peace and healing.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.4990011631151132,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+            "commentatorTierSimilarities": [
+                37.56,
+                17.75,
+                44.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Minstrels gathered, either hired or volunteering, creating an uproar with their wild wailing and screaming. The crowd, making a tumult, joined the mournful atmosphere. Flute-players and mourning women were present, their doleful tones and disheveled hair evoking deep emotions. However, Jesus triumphed over the repelling environment. Despite the loud and grieving surroundings, he brought forth peace and healing, undeterred by the chaos, and remained a beacon of hope.",
+            "wordCount": 69,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.2896730481763266,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.22,
+            "commentatorTierSimilarities": [
+                41.11,
+                21.43,
+                37.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the lamentation and commotion caused by the minstrels and mourners, who were hired or volunteered to make noise with their loud wailing and screaming, Jesus remained composed. The crowd, resembling an uproar, had gathered in the outer court before the lifeless girl. Flute-players and mourning women filled the scene, singing naenia, a mournful funeral song. Notwithstanding the discordant and sorrowful environment, Jesus overcame it with his unwavering presence, bringing peace and healing in the midst of chaos.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.4533637352643112,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.67,
+            "commentatorTierSimilarities": [
+                36.51,
+                21.24,
+                42.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the scene described, there is a gathering of minstrels, either hired or volunteering, who contribute to the noise by screaming and wailing loudly. The girl's death has already caused a tumultuous crowd to form, with flute-players and mourning women present. These women, reminiscent of the mourners who made a noise for the dead, sing naenia, mourning songs, to honor the deceased. Despite the disheartening environment, Jesus remains undeterred, overcoming the repulsive ambiance and bringing about a sense of peace and healing.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.443869157533975,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                37.33,
+                17.8,
+                44.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

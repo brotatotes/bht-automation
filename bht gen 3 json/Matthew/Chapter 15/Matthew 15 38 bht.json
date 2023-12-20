@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:48:31",
+    "verseRef": "Matthew 15:38",
+    "bestBHT": {
+        "bht": "Jesus performed a miracle by feeding the crowd of four thousand with just seven loaves of bread and a few fish. This miracle is distinct from the previous one where the crowd numbered five thousand and the quantity of food was different. The variation in the details of the miracles is evidence that the Gospel writers are providing accurate accounts of the distinct miracles, emphasizing the power and abundance of Jesus' provision.",
+        "wordCount": 72,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.9748502340714433,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+        "commentatorTierSimilarities": [
+            0.0,
+            55.02,
+            44.98
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Four thousand, instead of 'five thousand.' In this case the material miracle seems not to have been so great, as respects the number fed and the fragments remaining.",
+            "All these variations, which show no gradation between the miracles, and betray no special design, prove that the Evangelists give true accounts of two distinct miracles.",
+            "The Evangelists give true accounts of two distinct miracles."
+        ],
+        "John Gill": [
+            "This number of men, as well as of the baskets of fragments, clearly shows this to be a distinct miracle from the former of this kind.\" (Matthew 15:38)",
+            "There the number of men were five thousand, here four thousand; there the quantity of food was five loaves and two fishes, here seven loaves and a few fishes.\" (Matthew 15:38)",
+            "Though the quantity might be as large; since the word here used for a basket is not the same as there, and designs one of a larger size.\" (Matthew 15:38)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus performed a miracle by feeding the crowd of four thousand with just seven loaves of bread and a few fish. This miracle is distinct from the previous one where the crowd numbered five thousand and the quantity of food was different. The variation in the details of the miracles is evidence that the Gospel writers are providing accurate accounts of the distinct miracles, emphasizing the power and abundance of Jesus' provision.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.9748502340714433,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.02,
+                44.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' feeding of the four thousand with seven loaves and a few fish is a distinct miracle from the previous one where the crowd numbered five thousand. The differences in the number of people and the quantity of food highlight the accuracy of the Gospel writers in their accounts of these two miracles. The variations in the details show that there was no gradual progression or specific intention, but rather two separate instances of Jesus miraculously providing for the needs of the people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.761952566216623,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.89,
+                46.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus performed a distinct miracle by feeding the four thousand with seven loaves and a few fish. The Gospel writers provide accurate accounts of these two miracles, with variations in the number of people and the quantity of food. This shows that there was no gradual progression or specific intention, but rather two separate instances of Jesus' miraculous provision. The differences in the details highlight the abundance and power of Jesus' ability to meet the needs of the people.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5999557610033077,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.24,
+                46.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' feeding of the four thousand with seven loaves and a few fish is a distinct miracle from the previous one where the crowd numbered five thousand. The differences in the number of people and the quantity of food highlight the accuracy of the Gospel writers in their accounts of these two miracles. The variations in the details show that there was no gradual progression or specific intention, but rather two separate instances of Jesus miraculously providing for the needs of the people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.761952566216623,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.89,
+                46.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The feeding of the four thousand with seven loaves and a few fish is a separate miracle from when Jesus fed the five thousand. The variations in the number of people and the quantity of food demonstrate the accuracy of the Gospel writers in detailing these distinct miracles. The differences in the details suggest that there was no gradual progression or intentional pattern, but rather two separate occasions in which Jesus miraculously provided for the needs of the crowd.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7473209279993085,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.39,
+                47.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

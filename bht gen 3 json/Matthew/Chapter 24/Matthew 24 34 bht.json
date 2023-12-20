@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:41",
+    "verseRef": "Matthew 24:34",
+    "bestBHT": {
+        "bht": "The fig-tree's putting forth symbolizes the revival of the Jewish race that will not pass away until all is fulfilled. Generation means a race or family, not the present generation. The prophecy extends to the end of all things, not just the destruction of Jerusalem. Some argue that generation means a literal generation of 30 or 40 years, fulfilled by the destruction of Jerusalem, while others interpret it as a reference to the race and extend it to all believers. However, it is clear that the prophecy primarily pertains to the impending destruction of Jerusalem, fulfilled within about forty years.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.1610745766838604,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+        "commentatorTierSimilarities": [
+            39.8,
+            30.61,
+            29.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The putting forth of the fig-tree from its state of winter dryness, symbolizes the future reviviscence of that race, which the Lord declares shall not pass away till all fulfilled.\" ",
+            "The word here rendered generation has the meaning of a race or family of people.",
+            "The continued use of pass away...should have saved the Commentators from the blunder of imagining that the then living generation was meant, seeing that the prophecy is by the next verse carried on to the end of all things."
+        ],
+        "Albert Barnes": [
+            "A generation is about 30 or 40 years.",
+            "Until these things shall be accomplished.",
+            "Thus the words of Christ describing the destruction of Jerusalem had a fulness of signification that would meet also the events of the judgment."
+        ],
+        "John Calvin": [
+            "Though Christ employs a general expression, yet he does not extend the discourses to all the miseries which would befall the Church, but merely informs them, that before a single generation shall have been completed, they will learn by experience the truth of what he has said.",
+            "The meaning therefore is: 'This prophecy does not relate to evils that are distant, and which posterity will see after the lapse of many centuries, but which are now hanging over you, and ready to fall in one mass, so that there is no part of it which the present generation will not experience.'",
+            "So then, while our Lord heaps upon a, single generation every kind of calamities, he does not by any means exempt future ages from the same kind of sufferings, but only enjoins the disciples to be prepared for enduring them all with firmness."
+        ],
+        "Philip Schaff": [
+            "\u2018Generation\u2019 in the literal sense, the reference being to the destruction of Jerusalem.",
+            "\u2018Generation\u2019 in the sense of \u2018race,\u2019 as often.",
+            "The single advantage of this is that it extends \u2018ye,\u2019 in Matthew 24:33, to the whole body of believers ; but that would be easily so understood without this."
+        ],
+        "Archibald T. Robertson": [
+            "This generation (\u03b7 \u03b3\u03b5\u03bd\u03b5\u03b1 \u03b1\u03c5\u03c4\u03b7). The problem is whether Jesus is here referring to the destruction of Jerusalem or to the second coming and end of the world.",
+            "If to the destruction of Jerusalem, there was a literal fulfilment.",
+            "In the Old Testament a generation was reckoned as forty years."
+        ],
+        "John Gill": [
+            "This generation shall not pass... the sense is, that all the men of that age should not die, but some should live till all these things were fulfilled.",
+            "As many did, and as there is reason to believe they might, and must, since all these things had their accomplishment, in and about forty years after this.",
+            "This is a full and clear proof, that not anything that is said before, relates to the second coming of Christ, the day of judgment, and end of the world; but that all belong to the coming of the son of man, in the destruction of Jerusalem, and to the end of the Jewish state."
+        ],
+        "John Wesley": [
+            "This generation of men now living shall not pass till all these things be done.\" ",
+            "The expression implies, that great part of that generation would be passed away, but not the whole.",
+            "For the city and temple were destroyed thirty-nine or forty years after."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fig-tree symbolizes the revival of the Jewish race, which will not pass away until the fulfillment of all things. The word generation here refers to a race or family of people, not the then living generation. The usage of pass away should have prevented the misunderstanding that the prophecy refers only to the present generation. Some argue that generation means a literal generation of 30 or 40 years and applies to the destruction of Jerusalem, while others interpret it as a reference to the race and extend it to all believers. However, it is clear that the prophecy primarily pertains to the impending destruction of Jerusalem, as it was fulfilled within a generation of about forty years.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.186812365743292,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                39.15,
+                29.67,
+                31.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fig-tree's putting forth symbolizes the revival of the Jewish race that will not pass away until all is fulfilled. Generation means a race or family, not the present generation. The prophecy extends to the end of all things, not just the destruction of Jerusalem. Some argue that generation means a literal generation of 30 or 40 years, fulfilled by the destruction of Jerusalem, while others interpret it as a reference to the race and extend it to all believers. However, it is clear that the prophecy primarily pertains to the impending destruction of Jerusalem, fulfilled within about forty years.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1610745766838604,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+            "commentatorTierSimilarities": [
+                39.8,
+                30.61,
+                29.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fig-tree's revival signifies the future of the Jewish race, which will endure until the fulfillment of all things. Generation in this context refers to a race or family of people, not the current generation. The continuous use of pass away suggests that the prophecy extends beyond the present generation and carries on to the end of all things. While some argue for a literal 30 or 40-year generation, fulfilled by the destruction of Jerusalem, others interpret it as a reference to the race and include all believers. Nonetheless, it is evident that the prophecy primarily relates to the forthcoming destruction of Jerusalem, which occurred within approximately forty years.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.0425921902885165,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                38.53,
+                30.39,
+                31.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fig-tree's putting forth from its winter dryness symbolizes the future revival of the Jewish race, which will endure until all is fulfilled. The word generation here refers to a race or family of people, not the then living generation. The prophecy extends beyond the present generation to the end of all things. Some argue that generation means a literal 30 or 40-year generation and applies to the destruction of Jerusalem, while others interpret it as a reference to the race and extend it to all believers. However, it is clear that the prophecy primarily pertains to the impending destruction of Jerusalem, fulfilled within about forty years.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.117443501830196,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.75,
+            "commentatorTierSimilarities": [
+                39.51,
+                30.01,
+                30.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The putting forth of the fig-tree from its state of winter dryness symbolizes the future reviviscence of the Jewish race. The word generation here signifies a race or family of people, not the present generation. The continued use of pass away should have prevented the misunderstanding that the prophecy refers only to the current generation. Some argue that generation means a literal 30 or 40-year generation, fulfilled by the destruction of Jerusalem, while others extend it to all believers. However, it is evident that the prophecy primarily pertains to the forthcoming destruction of Jerusalem, fulfilled within about forty years.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.0789997220183283,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.47,
+            "commentatorTierSimilarities": [
+                41.2,
+                28.7,
+                30.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

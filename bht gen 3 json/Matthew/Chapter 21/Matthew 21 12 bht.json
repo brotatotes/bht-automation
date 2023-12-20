@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:53",
+    "verseRef": "Matthew 21:12",
+    "bestBHT": {
+        "bht": "The temple court of the Gentiles served as a marketplace, where money-changers converted foreign coins for the shekel of the sanctuary, facilitating the payment of the annual tribute. Jesus, witnessing this desecration of His Father's house, fervently purged the temple, expelling the money-changers and those doing business. His righteous anger demonstrated His commitment to the sanctity of true worship. By highlighting the hindered offerings of the poor, particularly the sale of doves, Jesus revealed His compassion and showed that His zeal for God's house would ultimately lead to its purification.",
+        "wordCount": 94,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.4499892587453083,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+        "commentatorTierSimilarities": [
+            36.38,
+            27.08,
+            36.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I rather view the omission of the first in the synoptic accounts as in remarkable consistency with what we otherwise gather from the three Gospels\u2014that their narrative is exclusively Galilean...until this last journey to Jerusalem.\" ",
+            "Both comings of Jehovah to His temple were partial fulfillments of Mal. iii. 1\u20133,\u2014which shall not receive its final accomplishment till His great and decisive visit at the latter day.\" ",
+            "The temple here spoken of was the court of the Gentiles. We have no traces of this market in the O.T. It appears to have first arisen after the captivity, when many would come from foreign lands to Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "These changers sat in the temple, in the court of the Gentiles, to change the foreign coins of pilgrims into the shekel of the sanctuary for payment of the annual tribute.",
+            "The money-changers [\u03ba\u03bf\u03bb\u03bb\u03c5\u03b2\u03b9\u03c3\u03c4\u03c9\u03bd] . From kollubov, the rate of exchange.",
+            "See on Matthew 17:24."
+        ],
+        "John Calvin": [
+            "But lest any one, under the pretense of imitation, should rush forward without authority, we ought to see what our calling demands, and how far we may proceed according to the commandment of God.",
+            "If the Church of God have contracted any pollutions, all the children of God ought to burn with grief; but as God has not put arms into the hands of all, let private individuals groan, till God bring the remedy.",
+            "But let those who do not possess public authority oppose by their tongue, which they have at liberty, those vices which they cannot remedy with their hands."
+        ],
+        "Philip Schaff": [
+            "This entrance was on Monday to purify it; on Tuesday He took final leave of it.",
+            "Not the less a desecration because so great a convenience.",
+            "No resistance seems to have been offered. The traffickers were doubtless awed by the superhuman authority and dignity of our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "It is amazing how short a time the work of reformers lasts.",
+            "The traffic went on in the court of the Gentiles and to a certain extent was necessary.",
+            "The doves were the poor man's offering."
+        ],
+        "John Gill": [
+            "Christ went not to the tower of David, the strong hold of Zion, the palace of his father David; for he entered not as a temporal king; but he went to the house of his heavenly Father, as the lord and proprietor of it, to preach in it, and purge it; whereby the glory of the latter house became greater than that of the former.\" ",
+            "This was one way of buying and selling in the temple.",
+            "Now at a feast time as this was, there was a greater demand for doves than usual; for women who had lain in, and such as had fluxes, whether men or women, who lived in distant parts, reserved their offerings till they came up to the feast.\" "
+        ],
+        "John Wesley": [
+            "He had cast them out three years before, John 2:14; bidding them not make that house a house of merchandise.",
+            "Upon the repetition of the offence, he used sharper words.",
+            "The money changers \u2014 The exchangers of foreign money into current coin, which those who came from distant parts might want to offer for the service of the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple in Matthew 21:12 refers specifically to the court of the Gentiles, which became a marketplace where money-changers would exchange foreign coins for the shekel of the sanctuary. This was essential for pilgrims to pay the annual tribute. While this market served a purpose, it was a desecration of the temple and a hindrance to the worship of God. Jesus, with His divine authority, entered the temple and drove out the money-changers and those who conducted business. This act of purification exemplifies the zeal of the Lord for the holiness of His Father's house. The selling of doves was a particularly significant issue, as it hindered the offerings of the poor. Jesus' actions not only revealed His passion for true worship but also foreshadowed the ultimate cleansing of the temple that will occur in the future.",
+            "wordCount": 139,
+            "quoteTokenProportion": 31.4,
+            "qualityScore": 1.4164105900073038,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.44,
+            "commentatorTierSimilarities": [
+                39.0,
+                24.38,
+                36.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple in question was the court of the Gentiles, where money-changers sat to exchange foreign coins for the shekel of the sanctuary. This market arose after the exile, serving a purpose but becoming a desecration. Jesus, with divine authority, purged the temple, driving out the money-changers and those conducting business. His actions exemplify His zeal for the holiness of His Father's house and demonstrate His passion for true worship. This act both foreshadows the future cleansing of the temple and emphasizes the hindrance to the offering of the poor due to the selling of doves.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.429453426439198,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                38.06,
+                25.22,
+                36.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple referred to in this passage is the court of the Gentiles, which had become a marketplace for foreign currency exchange and trade. While this market was necessary to some extent, it was a desecration of the sacred space. Jesus, with His divine authority, entered the temple and drove out the money-changers and those conducting business. His actions displayed His zeal for the holiness of His Father's house and emphasized the hindrance caused to the poor in their offering of doves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.372957090505417,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.99,
+            "commentatorTierSimilarities": [
+                39.3,
+                23.4,
+                37.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple court of the Gentiles served as a marketplace, where money-changers converted foreign coins for the shekel of the sanctuary, facilitating the payment of the annual tribute. Jesus, witnessing this desecration of His Father's house, fervently purged the temple, expelling the money-changers and those doing business. His righteous anger demonstrated His commitment to the sanctity of true worship. By highlighting the hindered offerings of the poor, particularly the sale of doves, Jesus revealed His compassion and showed that His zeal for God's house would ultimately lead to its purification.",
+            "wordCount": 94,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.4499892587453083,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+            "commentatorTierSimilarities": [
+                36.38,
+                27.08,
+                36.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple court of the Gentiles became a marketplace after the exile, where money-changers exchanged foreign coins for the shekel of the sanctuary. Jesus, driven by His zeal for the holiness of His Father's house, expelled the money-changers and those conducting business. His actions exposed the hindrance caused to the poor in their offering of doves and foreshadowed the future cleansing of the temple. This act revealed His authority and showcased His commitment to true worship, while emphasizing the need for purity in God's dwelling place.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.4298861852248992,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                38.21,
+                24.49,
+                37.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

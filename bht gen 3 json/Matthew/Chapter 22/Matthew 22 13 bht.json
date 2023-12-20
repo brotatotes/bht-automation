@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:20",
+    "verseRef": "Matthew 22:13",
+    "bestBHT": {
+        "bht": "The servants mentioned here are not the same as those mentioned before; they are angels. Rather than being a representation of his state at present, the binding of the feet and hands may signify that escape from the outer darkness is impossible. The outer darkness is a dreadful place, where the unworthy are not only excluded from the joy and delight of the heavenly kingdom, but are also subjected to the horrors of darkness. The punishment awaiting them is marked by weeping and gnashing of teeth.",
+        "wordCount": 86,
+        "quoteTokenProportion": 48.28,
+        "qualityScore": 1.8619091936935757,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+        "commentatorTierSimilarities": [
+            32.65,
+            32.44,
+            34.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These servants (diaconoi, ministers) are not the same as the above, but the angels.",
+            "The \u2018binding of his feet and hands\u2019 has been interpreted of his being now in the night, in which no man can work; but I doubt whether this be not too fanciful.",
+            "Rather should we say, with Meyer, that it is to render his escape from the outer darkness impossible."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The darkness which is outside.\" ",
+            "To be 'outside' at all\u2014or, in the language of Matthew 25:30\u2014to be 'without' the heavenly city, excluded from its joyous nuptials and gladsome festivities\u2014is sad enough of itself, without anything else.\" ",
+            "But to find themselves not only excluded from the brightness and glory and joy and felicity of the kingdom above, but thrust into a region of 'darkness,' with all its horrors, this is the dismal retribution here announced, that awaits the unworthy at the great day."
+        ],
+        "Albert Barnes": [
+            "Cast him into outer darkness - See the notes at Matthew 8:12. This, without doubt, refers to the future punishment of the hypocrite, Matthew 23:23-33; Matthew 24:51."
+        ],
+        "Philip Schaff": [
+            "The attendants...probably to angels, as ministers of judgment.",
+            "Bind him hand and foot. For secure transfer to his place of punishment.",
+            "Outer darkness...their punishment is the same; their sin was the same, the sin of pride."
+        ],
+        "Archibald T. Robertson": [
+            "Was speechless (\u03b5\u03c8\u03b9\u03bc\u03c9\u03b8\u03b7). Was muzzled, dumb from confusion and embarrassment.",
+            "The outer darkness (\u03c4\u03bf \u03c3\u03ba\u03bf\u03c4\u03bf\u03c2 \u03c4\u03bf \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03bf\u03bd). See Matthew 8:12. All the blacker from the standpoint of the brilliantly lighted banquet hall.",
+            "There shall be (\u03b5\u03ba\u03b5 \u03b5\u03c3\u03c4\u03b1). Out there in the outer darkness."
+        ],
+        "John Gill": [
+            "By whom are meant, either the ministers of the Gospel, and pastors of churches, who by the order of Christ, and in the name of the churches, cast out all such as appear, by their bad principles and evil practices, to be without the grace of God, and righteousness of Christ.",
+            "bind him hand and foot; as malefactors used to be, to denote greatness of his crime, his unparalleled insolence, and the unavoidableness of his punishment; such methods being taken, that there could be no escaping it",
+            "and cast him into utter darkness, there shall be weeping and gnashing of teeth"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servants in this verse are interpreted as angels. The binding of the feet and hands may symbolize the impossibility of the wicked escaping their fate, rather than a depiction of their current state. The punishment for these individuals is being cast into the outer darkness, a place of horror and despair, away from the joy and glory of the heavenly kingdom. The misery and regret experienced in this darkness is characterized by weeping and gnashing of teeth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.817760371133994,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                29.35,
+                32.67,
+                37.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servants mentioned here are not the same as those mentioned before; they are angels. Rather than being a representation of his state at present, the binding of the feet and hands may signify that escape from the outer darkness is impossible. The outer darkness is a dreadful place, where the unworthy are not only excluded from the joy and delight of the heavenly kingdom, but are also subjected to the horrors of darkness. The punishment awaiting them is marked by weeping and gnashing of teeth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.8619091936935757,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                32.65,
+                32.44,
+                34.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servants in this passage are understood to be angels, distinct from those mentioned earlier. The binding of the feet and hands represents the impossibility of escape from the outer darkness. This darkness is a place of horror and despair, where the unworthy are excluded from the joy and glory of the heavenly kingdom. The punishment endured here is marked by weeping and gnashing of teeth.",
+            "wordCount": 66,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7823329286515062,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                32.0,
+                32.31,
+                35.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servants referred to here are angels, distinct from the previous ones mentioned. The binding of the feet and hands signifies the inability to escape the outer darkness, a place of despair and horror. In this outer darkness, the unworthy are excluded from the bliss and splendor of the heavenly kingdom. The punishment endured in this realm is characterized by weeping and the grinding of teeth.",
+            "wordCount": 66,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.7378851822716106,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                33.24,
+                32.09,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servants in this verse are interpreted as angels, specifically the ministers of judgment. The binding of the feet and hands denotes the severity of the crime and the inevitability of punishment. The outer darkness, a place of horror and desolation, is where the unworthy are cast away from the joy and splendor of the heavenly kingdom. In this realm, there is weeping and gnashing of teeth, a portrayal of intense misery and regret.",
+            "wordCount": 74,
+            "quoteTokenProportion": 25.53,
+            "qualityScore": 1.7736350310177338,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                25.87,
+                35.25,
+                38.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

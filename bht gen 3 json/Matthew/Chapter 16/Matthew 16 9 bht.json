@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:48:39",
+    "verseRef": "Matthew 16:9",
+    "bestBHT": {
+        "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
+        "wordCount": 83,
+        "quoteTokenProportion": 58.73,
+        "qualityScore": 0.7874962134561587,
+        "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+        "commentatorTierSimilarities": [
+            9.48,
+            32.63,
+            57.89
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On the two sorts of baskets (cophini on the former occasion, spyrides on the latter), see note, ch. xv. 36.",
+            "This voyage brought them to Bethsaida: i.e. Bethsaida Jatias, on the North-Eastern side of the lake, see Mark viii. 22.",
+            "...and the miracle there related."
+        ],
+        "Philip Schaff": [
+            "Matthew 16:9. Do ye not yet perceive. Mark (Mark 8:17-18) is more full. Besides want of faith, they had shown great want of perception.",
+            "\t"
+        ],
+        "John Gill": [
+            "Do ye not understand... neither remember the five loaves of the five thousand, and how many baskets ye took up?\" ",
+            "Have you forgot what was so lately done, namely, the feeding five thousand men, besides women and children, with five loaves and two fishes?",
+            "Have I fed so many with so small a quantity of food? and am I not able to feed twelve of you, though you have but one loaf?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
+            "wordCount": 83,
+            "quoteTokenProportion": 58.73,
+            "qualityScore": 0.7874962134561587,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+            "commentatorTierSimilarities": [
+                9.48,
+                32.63,
+                57.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
+            "wordCount": 83,
+            "quoteTokenProportion": 58.73,
+            "qualityScore": 0.7874962134561587,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+            "commentatorTierSimilarities": [
+                9.48,
+                32.63,
+                57.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do you not yet perceive and understand? Jesus asked his disciples. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event as a demonstration of his power to provide for their needs. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them even now.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 0.7520322004026353,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.35,
+            "commentatorTierSimilarities": [
+                23.25,
+                31.7,
+                45.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do you not yet perceive and understand? Jesus asked his disciples, disappointed in their lack of faith and perception. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event, to recall the baskets of leftovers gathered. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them, even with limited resources.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 0.8677585069916598,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.2,
+            "commentatorTierSimilarities": [
+                24.2,
+                31.52,
+                44.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do you not yet perceive and understand? Jesus questioned his disciples, disappointed in their faith and perception. He reminded them of the feeding of the five thousand, highlighting the miraculous provision from minimal resources. Jesus urged them to remember the abundance of leftovers collected from that event. Nevertheless, despite witnessing this astounding miracle, their faith and comprehension remained lacking. Jesus desired for them to trust in his ability to provide, even in times of scarcity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.8076863936052913,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.2,
+            "commentatorTierSimilarities": [
+                22.32,
+                33.65,
+                44.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

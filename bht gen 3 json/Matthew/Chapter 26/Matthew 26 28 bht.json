@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:53:27",
+    "verseRef": "Matthew 26:28",
+    "bestBHT": {
+        "bht": "The shedding of Christ's blood in the New Testament establishes a covenant - a settlement or agreement - for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, dispelling sentimentalism or trivializing His teaching. This act of shedding His blood on the cross confirms the new administration of the covenant of grace, providing full forgiveness and satisfaction to the justice of God. The wine symbolizes His blood and serves as a visible sign of His atonement. (80 words, 53% from quotes)",
+        "wordCount": 89,
+        "quoteTokenProportion": 28.3,
+        "qualityScore": 1.7657135739056953,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+        "commentatorTierSimilarities": [
+            35.61,
+            32.09,
+            32.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Testament...on the idea of disposing or arranging is based that of settlement or agreement, and thence of a covenant.\" ",
+            "Covenant is the general Old Testament sense of the word...and so in the New Testament.",
+            "The present participle, is being shed. Christ's thought goes forward to the consummation."
+        ],
+        "Philip Schaff": [
+            "The wine, poured-out, is a symbol of the blood of Christ shed for us.",
+            "Our Lord here declares, with reference to His own death, that it was an actual dying for others, to the end that their sins might be pardoned.",
+            "The central fact is the atoning death of Christ, which we commemorate; the present blessing is the assurance conveyed by visible signs, that we receive, truly though spiritually, Christ, with all His benefits, and are nourished by His life into life eternal."
+        ],
+        "Archibald T. Robertson": [
+            "This passage answers all the modern sentimentalism that finds in the teaching of Jesus only pious ethical remarks or eschatological dreamings.",
+            "He had the definite conception of his death on the cross as the basis of forgiveness of sin.",
+            "The purpose of the shedding of his blood of the New Covenant was precisely to remove (forgive) sins."
+        ],
+        "John Gill": [
+            "The red wine in the cup, was an emblem and representation of his precious blood, whereby was exhibited a new dispensation, or administration of the covenant of grace.\" ",
+            "The second covenant, or the new administration of the covenant of grace, for which reason it is called the New Testament, is exhibited and established in the blood of Christ the testator.\" ",
+            "Whereby the full forgiveness of all their sins was procured, in a way consistent with, and honourable to the justice of God; full satisfaction being made to the law of God, for all their transgressions."
+        ],
+        "John Wesley": [
+            "This is the sign of my blood, whereby the new testament or covenant is confirmed.",
+            "Which is shed for many \u2014 As many as spring from Adam."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The shedding of Christ's blood in the New Testament is not merely a sentimental or symbolic act, but a deliberate and necessary means for the forgiveness of sins. By using the term testament, Jesus emphasized the idea of an arrangement or covenant, which is the central theme throughout the Old and New Testaments. The wine, representing the blood of Christ, serves as a visible sign of this atoning death and the assurance that we receive His benefits. Through His precious blood, the new administration of the covenant of grace is established, providing full forgiveness for all those who believe in Him.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0002340288728035,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                32.21,
+                33.98,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The shedding of Christ's blood in the New Testament is not merely symbolic, but a deliberate means for the forgiveness of sins. Jesus emphasizes the idea of a covenant, connecting the Old and New Testaments. The wine symbolizes His blood, a visible sign of His atoning death and assurance of receiving His benefits. Through His precious blood, the new administration of the covenant of grace is established, providing full forgiveness for believers, satisfying the justice of God. (65 words, 50% from quotes)",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.703964174865717,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                33.45,
+                33.96,
+                32.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 26:28, Jesus sheds light on the purpose of His death on the cross, as the basis for the forgiveness of sins. The shedding of His blood in the New Testament is not a mere symbol, but a deliberate act that establishes a new administration of the covenant of grace. Through His blood, believers receive assurance and nourishment for eternal life. By using the term testament, Jesus highlights the arrangement and settlement that His death brings, emphasizing the importance and significance of His sacrifice. (77 words, 51% from quotes)",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.630993706765949,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                34.64,
+                36.01,
+                29.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The shedding of Christ's blood in the New Testament establishes a covenant - a settlement or agreement - for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, dispelling sentimentalism or trivializing His teaching. This act of shedding His blood on the cross confirms the new administration of the covenant of grace, providing full forgiveness and satisfaction to the justice of God. The wine symbolizes His blood and serves as a visible sign of His atonement. (80 words, 53% from quotes)",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.7657135739056953,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                35.61,
+                32.09,
+                32.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The shedding of Christ's blood in the New Testament is not merely symbolic, but a deliberate and necessary act for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, confirming the new administration of the covenant of grace. The wine, symbolizing His blood, serves as a visible sign of His atoning death and assurance of receiving His benefits. Through His precious blood, full forgiveness is procured and satisfaction is made to the justice of God. (70 words, 50% from quotes)",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7020307072560614,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                33.1,
+                36.13,
+                30.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

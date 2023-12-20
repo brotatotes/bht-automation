@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:52:59",
+    "verseRef": "Matthew 25:30",
+    "bestBHT": {
+        "bht": "The unprofitable servant is likened to one who does his Master no service and is cast into the darkness outside, where there will be weeping and gnashing of teeth. Doing nothing is doing harm. This parable emphasizes the importance of being profitable to God and not relying on mere harmlessness or negative goodness. It serves as a warning to be diligent in using the gifts and talents bestowed by God for the conversion of sinners and the edification of the body of Christ, to avoid the fate of weeping and gnashing of teeth.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.6455249895622066,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+        "commentatorTierSimilarities": [
+            38.53,
+            23.78,
+            37.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the useless servant, that does his Master no service.",
+            "the darkness which is outside.",
+            "there shall be weeping and gnashing of teeth."
+        ],
+        "Albert Barnes": [
+            "And cast ... - See the notes at Matthew 8:12. The spiritual meaning of the parable may be thus summed up:",
+            " "
+        ],
+        "John Calvin": [
+            "Outer darkness is contrasted with the light which is within the house.",
+            "Of those who are banished from the kingdom of God, Christ says, that they are cast without into darkness.",
+            "They are cast without into darkness."
+        ],
+        "Philip Schaff": [
+            "An obvious allusion to the Marriage Supper of the Lamb, so that this and the preceding parable must refer to the same point in the future.",
+            "In Luke, the nobleman becomes a king, who punishes his rebellious servants; here the parable closes with the just administration of the landowner.",
+            "The King comes into all the more glorious prominence in the last parable."
+        ],
+        "Archibald T. Robertson": [
+            "The unprofitable (\u03c4\u03bf\u03bd \u03b1\u03c7\u03c1\u03b5\u03b9\u03bf\u03bd). Useless (\u03b1 privative and \u03c7\u03c1\u03b5\u03b9\u03bf\u03c2, useful) and so unprofitable, injurious. Doing nothing is doing harm. "
+        ],
+        "John Gill": [
+            "All the servants of Christ are unprofitable with respect to God; for no man can be profitable to him, as he that is wise may be profitable to himself, or others.",
+            "This man was unprofitable with respect to himself, having not improved the gift and talent bestowed on him; and with respect to men, being of no use for the conversion of sinners, or the comfort of saints, or the edifying of the body of Christ.",
+            "He shall be turned out of doors into outer darkness, to be a companion of other unhappy creatures; who are also without, bewailing their miserable condition, and reflecting on their past conduct."
+        ],
+        "John Wesley": [
+            "So mere harmlessness, on which many build their hope of salvation, was the cause of his damnation!",
+            "There shall be the weeping - Of the careless thoughtless sinner; and the gnashing of teeth - Of the proud and stubborn.",
+            "The same great truth, that there is no such thing as negative goodness, is in this chapter shown three times."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The unprofitable servant in Matthew 25:30 is likened to one who does his Master no service and is cast into the darkness outside, where there will be weeping and gnashing of teeth. This servant is considered useless because doing nothing is doing harm. The outer darkness is contrasted with the light within the house, symbolizing banishment from the kingdom of God. This parable emphasizes the importance of being profitable to God and not relying on mere harmlessness or negative goodness. It serves as a warning to be diligent in using the gifts and talents bestowed by God for the conversion of sinners and the edification of the body of Christ, in order to avoid the fate of weeping and gnashing of teeth.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.6983142568094083,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                34.67,
+                26.73,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unprofitable servant is likened to one who does his Master no service and is cast into the darkness outside, where there will be weeping and gnashing of teeth. Doing nothing is doing harm. This parable emphasizes the importance of being profitable to God and not relying on mere harmlessness or negative goodness. It serves as a warning to be diligent in using the gifts and talents bestowed by God for the conversion of sinners and the edification of the body of Christ, to avoid the fate of weeping and gnashing of teeth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6455249895622066,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "commentatorTierSimilarities": [
+                38.53,
+                23.78,
+                37.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unprofitable servant is cast into the darkness outside, where there will be weeping and gnashing of teeth. Doing nothing is doing harm. This parable emphasizes the importance of being profitable to God and not relying on mere harmlessness. It serves as a warning to be diligent in using the gifts bestowed by God for the conversion of sinners and the edification of the body of Christ, to avoid the fate of weeping and gnashing of teeth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6065698351487319,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+            "commentatorTierSimilarities": [
+                37.85,
+                25.36,
+                36.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unprofitable servant, who does his Master no service, is cast into the darkness outside, where there will be weeping and gnashing of teeth. Doing nothing is doing harm. This parable warns against relying on mere harmlessness, emphasizing the importance of being profitable to God. It serves as a reminder to diligently use the gifts bestowed by God for the conversion of sinners and the edification of the body of Christ, so as to avoid the fate of weeping and gnashing of teeth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5718215857429128,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                37.87,
+                25.19,
+                36.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unprofitable servant, cast into darkness outside, experiences weeping and gnashing of teeth. Doing nothing harms. The parable cautions against relying on mere harmlessness, emphasizing being profitable to God. Use gifts for conversion and edification to avoid weeping and gnashing of teeth.",
+            "wordCount": 42,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.4936281630806192,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                42.93,
+                19.81,
+                37.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

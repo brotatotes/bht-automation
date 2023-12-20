@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:49:37",
+    "verseRef": "Matthew 18:27",
+    "bestBHT": {
+        "bht": "The master, moved with compassion, liberates his debtor, canceling the debt freely. The heavy interest has caused the debt to increase significantly in this parable, depicting the mercy of God towards those who owe Him more than they can ever repay. Through prayer, God forgives their sins, showing His grace and mercy. When God forgives, He forgives all sins, displaying His mercy through Christ's sacrifice. God's forgiveness and mercy are made possible through the sacrificial love of Christ.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.8728160498663535,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+        "commentatorTierSimilarities": [
+            28.17,
+            25.93,
+            45.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Payment being hopeless, the master is first moved with compassion.\" ",
+            "Liberates his debtor from prison.\" ",
+            "Cancels the debt freely."
+        ],
+        "Albert Barnes": [
+            "He had pity on him. He saw his distressed condition. He pitied his family. He forgave him the whole debt.\" ",
+            "This represents the mercy of God to people. 'They have sinned.' They owe to God more than can be paid. They are about to be cast off; but God has mercy on them, and, in connection with their prayers, forgives them.\" ",
+            "We are not to interpret the circumstances of a parable too strictly."
+        ],
+        "Philip Schaff": [
+            "It was the lord\u2019s money entrusted to him, not an ordinary debt.",
+            "The mercy in its greatness, fulness, and freeness is the single point.",
+            "The ground of it is not stated."
+        ],
+        "Archibald T. Robertson": [
+            "The debt (\u03c4\u03bf \u03b4\u03b1\u03bd\u03b9\u03bf\u03bd). The loan. Common in the papyri for a loan. The interest had increased the debt enormously. \"This heavy oriental usury is of the scenery of the parable\" (McNeile). "
+        ],
+        "John Gill": [
+            "When God forgives sin, he forgives all sin, original and actual, secret and open, sins of omission and commission, of heart, lip, and life, of thought, word, and deed, past, present, and to come.",
+            "It is grace in God that provided, sent, and parted with his Son to be the propitiatory sacrifice for sin, and accepted the satisfaction when made, in the room, and stead of sinners.",
+            "The special mercy of God, in the forgiveness of sins, streams only through the blood, righteousness, and sacrifice of Christ; and the sacrifice and satisfaction of Christ largely display the grace and mercy of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The master in this verse is moved with compassion and liberates his debtor, canceling the debt freely. The debt was significant, laden with heavy interest. Through this parable, it is clear that the mercy of God is represented, as people owe God more than can be paid. God, in his mercy, forgives them when they pray, releasing them from the burden of their debt. When God forgives sin, he forgives all sin, past, present, and to come, displaying the grace and mercy of God through the sacrifice and satisfaction of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9038516629324314,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                33.62,
+                27.87,
+                38.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The master, moved with compassion, liberates his debtor, canceling the debt freely. The debt, heavily laden with interest, serves as the backdrop of this parable. It reflects God's mercy towards people who owe Him more than they can pay. Through prayer, they are forgiven, released from the weight of their debt. When God forgives sin, He forgives all, showcasing His grace and mercy through Christ's sacrifice. Redemption flows through the blood and righteousness of Christ, displaying the abundant mercy of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8529454744010005,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                33.78,
+                27.82,
+                38.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The master, moved with compassion, liberates his debtor, canceling the debt freely. The heavy interest has caused the debt to increase significantly in this parable, depicting the mercy of God towards those who owe Him more than they can ever repay. Through prayer, God forgives their sins, showing His grace and mercy. When God forgives, He forgives all sins, displaying His mercy through Christ's sacrifice. God's forgiveness and mercy are made possible through the sacrificial love of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.8728160498663535,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                28.17,
+                25.93,
+                45.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The master, deeply moved with compassion, cancels the debtor's overwhelming loan, liberating him from prison. This parable vividly portrays God's mercy towards people who owe Him an unpayable debt. Through prayer, God forgives them, showing His boundless grace. When God forgives sin, He forgives all sins, past, present, and future. This immense mercy is made possible through the sacrifice and satisfaction of Christ, which beautifully showcases the immeasurable love and mercy of God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7633708398181047,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                28.04,
+                26.36,
+                45.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The master, filled with compassion, releases the debtor from his hopeless payment, freely canceling the debt. This parable illustrates the mercy of God, who forgives people's immense debt that they could never repay. Through prayer, God forgives their sins, showing His boundless grace. His forgiveness extends to all sins, past, present, and future. The sacrifice and satisfaction of Christ exemplify God's grace and mercy, revealing His abundant love for humanity. God's forgiveness flows through the blood and righteousness of Christ, displaying His unfathomable mercy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.732542813835997,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                24.08,
+                26.66,
+                49.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

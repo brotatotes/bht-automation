@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:51:41",
+    "verseRef": "Matthew 23:6",
+    "bestBHT": {
+        "bht": "At feasts and in synagogues, people vied for the highest honor by desiring the uppermost rooms or chief seats. However, Jesus teaches that this honor belongs to Him alone, and it would be unjust to attribute it to humans. Taking the lowest place may seem humble, but if done out of a desire to be exalted, it still reflects a love for honor. Christ reminds us that we are all brethren, and no one has the right to hold a position of mastery over others.",
+        "wordCount": 85,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 1.8915816294931025,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+        "commentatorTierSimilarities": [
+            30.17,
+            32.64,
+            37.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See Mark xii. 38, 39: Luke xx. 46, 47. On the uppermost place at feasts, see Luke xiv. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love the uppermost rooms at feasts... the place of highest honor.\" ",
+            "And the chief seats in the synagogues."
+        ],
+        "Albert Barnes": [
+            "To recline near to one in this manner denoted intimacy, and was what was meant by lying 'in the bosom' of another.",
+            "Whenever we read in the New Testament of 'sitting' at meals, it always means reclining in this manner, and never sitting as we do.",
+            "They love a place of distinction."
+        ],
+        "Marvin Vincent": [
+            "The uppermost rooms [\u03c0\u03c1\u03c9\u03c4\u03bf\u03ba\u03bb\u03b9\u03c3\u03b9\u03b1\u03bd] . Rev., more correctly, the chief place, the foremost couch or uppermost place on the divan."
+        ],
+        "John Calvin": [
+            "But Christ asserts that this honor does not belong to any except himself; from which it follows that it cannot, without doing injury to him, be applied to men.",
+            "Christ therefore does not attach importance to the title bestowed on those who discharge the office of teaching, but restrains them within proper limits, that they may not rule over the flock of brethren.",
+            "For, since we are brethren, he maintains that no man has a right to hold the place of a master over others; and hence it follows, that he does not condemn that authority of masters which does not violate brotherly intercourse among the godly."
+        ],
+        "Philip Schaff": [
+            "The place on the middle couch at the upper table (which joined the other two) was considered most honorable.",
+            "Being in such places (at feasts, in synagogues or elsewhere) is not rebuked, but loving to be there.",
+            "Pharisaism may now show itself in taking the lowest place, if this is done in a slavish obedience to the letter of the gospel, or from a desire to be invited to go up higher."
+        ],
+        "Archibald T. Robertson": [
+            "The Persians, Greeks, Romans, Jews differed in their customs, but all cared for the post of honour at formal functions as is true of us today.",
+            "Hostesses often solve the point by putting the name of each guest at the table.",
+            "People today pay high prices for front seats at the theatre, but at church prefer the rear seats out of a curious mock-humility."
+        ],
+        "John Gill": [
+            "And this the Scribes and Pharisees loved, desired, sought for, and were pleased if they had not it.",
+            "On account of their wisdom and learning, they thought they had a right to take the upper hand of kings themselves.",
+            "The seats of the senior men were turned towards the people, and the backs of them were towards the ark or chest, in which the holy books were put; and these seem to be what the Scribes and Pharisees coveted, that they might be in the full view of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At feasts, people often sought the highest honor by desiring the uppermost rooms or the chief seats. This love for distinction was not only seen at feasts, but also in the synagogues. However, Jesus teaches that this honor does not belong to anyone except Himself, and it would be an injustice to ascribe it to men. Pharisaism may show itself in taking the lowest place, but if done out of a slavish obedience to the letter of the gospel or a desire to be invited to go up higher, it still reflects the love for honor. Christ admonishes us to recognize that no one has the right to hold the place of a master over others, for we are all brethren.",
+            "wordCount": 121,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 1.9395029826478867,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                28.09,
+                35.92,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At feasts and in synagogues, people vied for the highest honor by desiring the uppermost rooms or chief seats. However, Jesus teaches that this honor belongs to Him alone, and it would be unjust to attribute it to humans. Taking the lowest place may seem humble, but if done out of a desire to be exalted, it still reflects a love for honor. Christ reminds us that we are all brethren, and no one has the right to hold a position of mastery over others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.8915816294931025,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+            "commentatorTierSimilarities": [
+                30.17,
+                32.64,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "People at feasts and in synagogues coveted the highest honor by seeking the topmost seats. However, Jesus emphasizes that this honor is exclusive to Him alone. Taking the lowest place may appear humble, but if done to gain recognition, it still reveals a love for honor. Christ reminds us that we are all brethren, and no one should assert mastery over others. It is important to recognize that true honor comes from Christ, not from seeking positions of prominence among people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.7833700821366905,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                30.09,
+                33.75,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "People at feasts and in synagogues eagerly desired the highest honor by seeking the uppermost rooms or chief seats. Jesus, however, teaches that this honor belongs exclusively to Him. Even taking the lowest place out of a desire to be exalted still reflects a love for honor. Christ reminds us that we are all brethren and that no one should hold a position of mastery over others. It is crucial to understand that true honor comes from Christ alone, not from seeking prominence among people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.8466379723459951,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                29.62,
+                32.72,
+                37.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At feasts and in synagogues, the desire for honor led people to claim the uppermost seats or chief positions. However, Jesus teaches that this honor belongs only to Him. Even if one takes the lowest place, driven by a desire for elevation, it still reveals a love for honor. Christ reminds us that we are all brethren and that no one should hold a position of mastery over others. True honor comes solely from Christ, not from seeking prominence among people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.7902296955805028,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                29.42,
+                34.42,
+                36.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

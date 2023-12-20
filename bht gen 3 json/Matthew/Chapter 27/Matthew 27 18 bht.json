@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:54:01",
+    "verseRef": "Matthew 27:18",
+    "bestBHT": {
+        "bht": "Pilate, familiar with Jesus' acts and character, was aware of the Jewish leaders' envy of Jesus' power and popularity. This envy primarily originated from the leaders, who were jealous of the influence Jesus had obtained among the people. It is possible that Pilate had heard about the events surrounding Jesus, specifically the Triumphal Entry and the Temple Teaching. Despite acknowledging Jesus' innocence, Pilate's unjust actions prevented him from protecting Him, as he sought to appease the rulers without openly contradicting them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.0903642394936837,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+        "commentatorTierSimilarities": [
+            40.55,
+            31.96,
+            27.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] The whole narrative presupposes what this verse and the next distinctly assert, that Pilate was before acquainted with the acts and character of Jesus."
+        ],
+        "Philip Schaff": [
+            "For envy, of His popularity.",
+            "This implies that Pilate knew something of Jesus before; but it shows his injustice, in not protecting Him as innocent.",
+            "Still Pilate, while not wishing to directly oppose the rulers, really desired to thwart them."
+        ],
+        "Archibald T. Robertson": [
+            "Pilate was dense about many things, but he knew that the Jewish leaders were jealous of the power of Jesus with the people.",
+            "The envy, of course, came primarily from the leaders.",
+            "He may have heard of the events of the Triumphal Entry and the Temple Teaching."
+        ],
+        "John Gill": [
+            "For he knew that for envy they had delivered him.",
+            "He saw in their countenances, and by their charges against him, ... that it was not out of any regard to Caesar, or to the peace and tranquillity of the civil government, or to strict justice; but from envy.",
+            "Pilate might the rather hope to succeed in this scheme of his to release him, by proposing him with so notorious a person to the populace ... the other had got great credit and esteem among a large number of them."
+        ],
+        "John Wesley": [
+            "He knew that for envy they had delivered him \u2014 As well as from malice and revenge; they envied him, because the people magnified him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, though somewhat ignorant, was aware of the Jewish leaders' jealousy and the popularity of Jesus among the people. This envy primarily stemmed from the leaders, who Pilate may have heard about the events surrounding Jesus, such as the Triumphal Entry and Temple Teaching. Pilate's knowledge of Jesus beforehand and his desire to thwart the rulers without directly opposing them is evident. Despite knowing that Jesus was innocent, his injustice prevents him from protecting Him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.080634466846597,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                38.19,
+                36.57,
+                25.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, though aware of Jesus' acts and character, knew that the Jewish leaders envied Jesus' power and popularity among the people. Their envy, driven primarily by the leaders, was fueled by the credit and esteem Jesus had gained from a large number of followers. Pilate may have even heard about the events of the Triumphal Entry and the Temple Teaching. Despite this knowledge, Pilate's injustice and his desire to appease the rulers prevent him from protecting Jesus, even though he recognized His innocence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9612644716876728,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                41.56,
+                30.01,
+                28.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, acquainted with Jesus' acts and character, knew about the Jewish leaders' envy of His power and popularity. This envy originated from the leaders, who were jealous of Jesus' influence among the people. It is possible that Pilate had heard of the events surrounding Jesus, such as the Triumphal Entry and the Temple Teaching. Despite recognizing Jesus' innocence, Pilate's injustice prevented him from safeguarding Him, as he wished to appease the rulers without directly opposing them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0771295740072597,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                39.32,
+                32.81,
+                27.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, quite aware of Jesus' acts and character, also knew that the Jewish leaders were envious of His power and popularity among the people. This envy primarily stemmed from the leaders, who were jealous of the influence Jesus had gained. It is possible that Pilate had even heard about the events surrounding Jesus, such as the Triumphal Entry and the Temple Teaching. Despite recognizing Jesus' innocence, Pilate's unjust actions prevented him from protecting Him, as he desired to appease the rulers without openly opposing them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0768758667306244,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                38.58,
+                32.0,
+                29.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, familiar with Jesus' acts and character, was aware of the Jewish leaders' envy of Jesus' power and popularity. This envy primarily originated from the leaders, who were jealous of the influence Jesus had obtained among the people. It is possible that Pilate had heard about the events surrounding Jesus, specifically the Triumphal Entry and the Temple Teaching. Despite acknowledging Jesus' innocence, Pilate's unjust actions prevented him from protecting Him, as he sought to appease the rulers without openly contradicting them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.0903642394936837,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                40.55,
+                31.96,
+                27.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

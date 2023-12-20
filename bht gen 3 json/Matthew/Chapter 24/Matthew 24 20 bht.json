@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:52:21",
+    "verseRef": "Matthew 24:20",
+    "bestBHT": {
+        "bht": "The mention of the Sabbath day in this verse reveals Matthew's strong Jewish tint and the practical difficulties the disciples could face. Jesus's purpose was not to endorse Sabbath observance, but rather to address potential obstacles and their scruples about traveling on the Sabbath. The reference to Daniel's prophecy indicates that the destruction of Jerusalem served as an interim fulfillment. Frequent references to winter and the Sabbath highlight the importance of praying for favorable circumstances to ensure the safety of the disciples during their flight.",
+        "wordCount": 88,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 1.7849920361687839,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+        "commentatorTierSimilarities": [
+            38.43,
+            27.9,
+            33.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words neither on the Sabbath day, are peculiar to Matthew, and shew the strong Jewish tint which caused him alone to reserve such portions of our Lord\u2019s sayings.",
+            "That they were not said as any sanction of observance of the Jewish Sabbath is most certain: but merely as referring to the positive impediments which might meet them on that day, the shutting of the gates of cities, &c., and their own scruples about travelling further than the ordinary Sabbath-day\u2019s journey.",
+            "Our Lord still has in view the prophecy of Daniel (ch. xii.. 1), and this citation clearly shews the intermediate fulfilment, by the destruction of Jerusalem, of that which is et future in its final fulfilment."
+        ],
+        "Albert Barnes": [
+            "It is right to pray that [calamities] may come in as mild a manner as may be consistent with the will of God.",
+            "To be turned then from home, and compelled to take up an abode in caverns, would be a double calamity.",
+            "Jesus teaches his disciples to pray that their flight might not be on the Sabbath, because, if they should not go farther than a Sabbath-day\u2019s journey, they would not be beyond the reach of danger."
+        ],
+        "Philip Schaff": [
+            "Pray ye. The trying events were distinctly predicted, yet prayer is just as distinctly enjoined.",
+            "Not in the winter, which would not only make it more disagreeable, but might prevent their fleeing far enough.",
+            "On a Sabbath. On the Jewish Sabbath. On that day the gates of the cities were usually closed (Nehemiah 13:19-22), besides travelling on that day would expose them still more to Jewish fanaticism. The Jewish Christians, up to the time of the destruction of Jerusalem, observed the Jewish Sabbath, and might scruple to travel more than the Sabbath day\u2019s journey (about an English mile). Our Lord\u2019s anxiety is not for the observance of the Jewish Sabbath, but for His people."
+        ],
+        "Archibald T. Robertson": [
+            "In winter because of the rough weather.",
+            "On a sabbath because some would hesitate to make such a journey on the sabbath.",
+            "Josephus in his Wars gives the best illustration of the horrors foretold by Jesus."
+        ],
+        "John Gill": [
+            "When days are short, and unfit for long journeys, and roads are bad, and sometimes not passable, through large snows, or floods of water...",
+            "And though the Jews did allow, that the sabbath might be violated where life was in danger, and that it was lawful to defend themselves against an enemy on the sabbath day; yet this did not universally obtain...",
+            "Now our Lord's meaning, in putting them on this petition, was, not to prevent the violation of the seventh day sabbath, or on account of the sacredness of it, which he knew would be abolished, and was abolished before this time..."
+        ],
+        "John Wesley": [
+            "Pray ye that your flight be not in the winter \u2014 They did so; and their flight was in the spring.",
+            "Neither on the Sabbath \u2014 Being on many accounts inconvenient; beside that many would have scrupled to travel far on that day.",
+            "For the Jews thought it unlawful to walk above two thousand paces (two miles) on the Sabbath day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is evident that the mention of the Sabbath day in this verse has a strong Jewish influence, indicating the reservations that Matthew had in preserving such aspects of Jesus's teachings. However, it is important to note that Jesus did not mention the Sabbath to endorse its observance, but rather to address the practical difficulties and scruples that might arise for his disciples. Furthermore, the reference to the destruction of Jerusalem as an intermediate fulfillment of Daniel's prophecy highlights the impending calamities that the disciples would face. Jesus encourages them to pray that their flight does not occur in winter, which would make it more arduous and potentially hinder their escape from danger. Additionally, the mention of the Sabbath reflects the potential hesitations and constraints that some disciples may have had in making a journey on that day. Nonetheless, our Lord's concern lies not in upholding the Jewish Sabbath, but in ensuring the safety of his people during the impending chaos.",
+            "wordCount": 164,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.779923352426762,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                35.85,
+                30.56,
+                33.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of the Sabbath day in this passage reflects Matthew's Jewish influence and the practical difficulties that could hinder the disciples. Jesus's concern was not for Sabbath observance but for the safety of his people during impending calamities and the destruction of Jerusalem. He encourages them to pray against their flight occurring in winter due to the rough weather and the challenges it would present. Additionally, the Sabbath mention addresses the hesitations and limitations some disciples may have had, while emphasizing Jesus's focus on the well-being of his followers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7693314289458744,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                34.85,
+                30.88,
+                34.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of the Sabbath day in this verse reveals Matthew's strong Jewish influence and the practical impediments that might affect the disciples' flight. Jesus's concern was not to endorse Sabbath observance but rather to address the realities of the situation. He urges them to pray against their escape happening in winter due to the inclement weather and the potential limitations it would impose. Furthermore, the Sabbath reference acknowledges the hesitations and restrictions that some disciples might have had, emphasizing Jesus's primary focus on the safety and well-being of his followers.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.6945831708372843,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                33.92,
+                30.65,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of the Sabbath day in this verse reveals Matthew's strong Jewish tint and the practical difficulties the disciples could face. Jesus's purpose was not to endorse Sabbath observance, but rather to address potential obstacles and their scruples about traveling on the Sabbath. The reference to Daniel's prophecy indicates that the destruction of Jerusalem served as an interim fulfillment. Frequent references to winter and the Sabbath highlight the importance of praying for favorable circumstances to ensure the safety of the disciples during their flight.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.7849920361687839,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                38.43,
+                27.9,
+                33.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of the Sabbath day in this verse reflects Matthew's Jewish influence and the practical difficulties that might hinder the disciples. Jesus's concern was not for Sabbath observance but for the safety of his people during impending calamities and the destruction of Jerusalem. He encourages them to pray that their flight does not occur in winter, which would make it more arduous and potentially hinder their escape. Additionally, the mention of the Sabbath reflects the potential hesitations and constraints that some disciples may have had in making a journey on that day, highlighting Jesus's focus on the well-being of his followers.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.7961275787789586,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.06,
+            "commentatorTierSimilarities": [
+                33.12,
+                32.16,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

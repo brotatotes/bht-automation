@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:43:19",
+    "verseRef": "Matthew 4:9",
+    "bestBHT": {
+        "bht": "Satan's real and terrible sway over men is evident in his role as the god of this world. In the temptation of Jesus, he boldly claims dominion over all the kingdoms, offering Jesus a temporal dominion if he acknowledges him as ruler. Though tempting, Jesus refuses to accept this condition and boldly calls Satan by his name, rejecting his ambitious views to be as God himself. This highlights the extent of Satan's power and his desire for adoration.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.074323351002291,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+        "commentatorTierSimilarities": [
+            35.5,
+            33.99,
+            30.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Is not Satan thrice called by our Lord Himself, 'the prince of this world'...Does not the apostle call him 'the god of this world'? And still further, is it not said that Christ came to destroy by His death 'him that hath the power of death, that is, the devil'?...No doubt these passages only express men's voluntary subjection to the rule of the wicked one while they live, and his power to surround death to them, when it comes, with all the terrors of the wages of sin. But as this is a real and terrible sway, so all Scripture represents men as righteously sold under it.",
+            "But how does he deliver this 'to whomsoever he will?' As employing whomsoever he pleases of his willing subjects in keeping men under his power.",
+            "No Scripture, it will be observed, is quoted now, because none could be found to support so blasphemous a claim. In fact, he has ceased now to present his temptations under the mask of piety, and he stands out unblushingly as the rival of God Himself in his claims on the homage of men."
+        ],
+        "Albert Barnes": [
+            "All these kingdoms. All these dominions Satan claimed a right to bestow on whom he pleased, and with considerable justice.",
+            "Satan proposed to put him in possession of it at once, without any difficulty, if he would acknowledge him as the proper lord and disposer of that country.",
+            "So plausible are Satan\u2019s temptations, even when they are blasphemous; and so artfully does he present his allurements to the mind."
+        ],
+        "Philip Schaff": [
+            "All these things, i.e., \u2018all that renders them attractive to the love of power, pleasure, wealth, honor\u2019 (J. A. Alexander).",
+            "His greatest weapons are his half-truths, his perversions of the truth.",
+            "The proposal was bold, but in the contest between them it must come to this. Satan at last offers all he could, but throwing away all disguise, asks from One tempted in all points like as we are, what he asks from us."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not deny the grip of the devil on the world of men, but the condition, was spurned by Jesus.",
+            "The ambition of Jesus is thus appealed to at the price of recognition of the devil's primacy in the world.",
+            "The temptation was threefold: to gain a temporal, not a spiritual, dominion; to gain it at once; and to gain it by an act of homage to the ruler of this world, which would make the self-constituted Messiah the vice-regent of the devil and not of God."
+        ],
+        "John Gill": [
+            "In which words he sets up himself to be the God of this world, and the sovereign disposer of it.",
+            "He pretends it was delivered to him by the true God, who had left it to his arbitrary disposal.",
+            "The devil is not content to be worshipped by men, but seeks for adoration from the Son of God: this opens at once his proud, ambitious, and aspiring views, to be as God himself."
+        ],
+        "John Wesley": [
+            "Here Satan clearly shows who he was.",
+            "Accordingly Christ answering this suggestion, calls him by his own name, which he had not done before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Satan, also known as the prince of this world, had a real and terrible sway over men, holding them under his power and surrounding death with the terrors of sin. In the temptation of Jesus, Satan boldly claimed dominion over all the kingdoms, tempting Jesus to gain a temporal, rather than spiritual, dominion by acknowledging him as the ruler. The proposal was alluring, even in its blasphemy, as Satan presented half-truths and perverted the truth. However, Jesus refused to accept the condition, refusing to recognize the devil's primacy and boldly calling him by his own name. This temptation revealed Satan's proud, ambitious, and aspiring views to be as God himself.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0434453988861683,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                37.39,
+                31.85,
+                30.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan's real and terrible sway over men is evident in his role as the god of this world. In the temptation of Jesus, he boldly claims dominion over all the kingdoms, offering Jesus a temporal dominion if he acknowledges him as ruler. Though tempting, Jesus refuses to accept this condition and boldly calls Satan by his name, rejecting his ambitious views to be as God himself. This highlights the extent of Satan's power and his desire for adoration.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.074323351002291,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                35.5,
+                33.99,
+                30.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan's real and terrible sway over men is evident in his role as the prince of this world. Scripture supports the claim that he is the god of this world and has the power to surround death with the terrors of sin. In the temptation of Jesus, Satan presents a threefold temptation: to gain temporal dominion, to gain it at once, and to gain it through an act of homage to him. This reveals Satan's proud and ambitious views, as he seeks recognition from the Son of God. However, Jesus firmly rejects the condition and refuses to acknowledge the devil's primacy.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9920560255188482,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                39.22,
+                30.36,
+                30.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan, referred to as the prince of this world and the god of this world, holds a real and terrible sway over men, surrounding death with the terrors of sin. In the temptation of Jesus, Satan boldly offers Him temporal dominion if He acknowledges him as ruler. This proposal reveals Satan's proud and ambitious views to be as God himself, seeking recognition from the Son of God. However, Jesus firmly refuses the condition, highlighting His rejection of the devil's primacy.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9961224410649439,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                37.15,
+                31.43,
+                31.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan, known as the prince of this world and the god of this world, has a real and terrible sway over men. Scripture affirms his power to surround death with sin's terrors. In Jesus' temptation, Satan offers temporal dominion, to be gained immediately and by acknowledging him as ruler. This presents Satan's proud and ambitious desire to be like God. Yet, Jesus firmly rejects this condition, refusing to recognize the devil's authority and primacy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.9093447535642727,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                37.53,
+                31.8,
+                30.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

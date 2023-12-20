@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:54:14",
+    "verseRef": "Matthew 27:31",
+    "bestBHT": {
+        "bht": "Jesus was led outside the city, just as executions often took place outside the camp or city. This was the custom both among the Jews and the Romans. Pilate, although not weak or indecisive, lacked moral principles in his actions, reflecting the corrupt culture of the time. Jesus, resembling a lamb going to slaughter, made no defense for himself despite false accusations. He was denied the opportunity to speak and was taken from the judgment hall by a man holding linen clothes and standing near a horse.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.2309637988327533,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+        "commentatorTierSimilarities": [
+            36.84,
+            31.09,
+            32.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Executions usually took place without the camp, see Num. xv. 35, or city, 1 Kings xxi. 13, Acts vii. 58, Heb. xiii. 11\u201318.",
+            "Grotius brings examples to shew that the same was the custom of the Romans."
+        ],
+        "Philip Schaff": [
+            "The tender mercies of the wicked are cruel.",
+            "Though Pilate was neither weak nor irresolute, he exhibited that lack of moral principle which then characterized the heathen world.",
+            "His position, authority, and convictions, render the course he pursued one which entitled his name to the continued pillory of shame accorded to it in the Apostles\u2019 creed."
+        ],
+        "John Gill": [
+            "He is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
+            "But this is false; Christ had no such length of time, or his friends any liberty granted them to speak for him.",
+            "He whose sentence for death is finished, they bring him out from the house of judgment; and one stands at the door of it, and linen clothes in his hand, and a horse at some distance from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how Jesus was taken outside the city to be crucified, a practice commonly followed during executions. This was not limited to the Jewish custom, as it was also the Roman way. Though Pilate, the Roman governor, may not have been weak or indecisive, his lack of moral principle mirrored the heathen culture of that time. The course of action he followed brought him shame and condemnation. Jesus, like a lamb to the slaughter, remained silent, despite false accusations. He was not given proper time or opportunity to defend himself. He was brought out from the judgment hall, where a man awaited him with linen clothes and a horse nearby.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.1189046335638988,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.55,
+            "commentatorTierSimilarities": [
+                29.72,
+                36.19,
+                34.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was led outside the city, just as executions often took place outside the camp or city. This was the custom both among the Jews and the Romans. Pilate, although not weak or indecisive, lacked moral principles in his actions, reflecting the corrupt culture of the time. Jesus, resembling a lamb going to slaughter, made no defense for himself despite false accusations. He was denied the opportunity to speak and was taken from the judgment hall by a man holding linen clothes and standing near a horse.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.2309637988327533,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+            "commentatorTierSimilarities": [
+                36.84,
+                31.09,
+                32.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus was led outside the city during his crucifixion, a practice common for executions. Both Jewish and Roman customs followed this. Despite Pilate not being weak or indecisive, his actions lacked moral principles, reflecting the prevailing culture. Jesus, like a lamb being led for slaughter, remained silent, offering no defense against false accusations. He was denied the opportunity to speak, as he was quickly taken from the judgment hall by a man with linen clothes, accompanied by a nearby horse.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.0681189102985384,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.86,
+            "commentatorTierSimilarities": [
+                33.2,
+                34.64,
+                32.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus was led outside the city, following the same custom of executing criminals. This practice was observed by both the Jews and the Romans. Although Pilate was not weak or unsure, his lack of moral principle aligned with the corrupt heathen world. Jesus, resembling a lamb led to slaughter, didn't utter a word in his defense despite false accusations. He wasn't given sufficient time or opportunity to speak on his behalf. Accompanied by a man holding linen clothes and a horse nearby, he was taken away from the judgment hall.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.0698669383626933,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.92,
+            "commentatorTierSimilarities": [
+                31.71,
+                34.15,
+                34.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus was led outside the city as was customary for executions. This practice was followed by both the Jewish and Roman cultures. Pilate, though not weak, showed a lack of moral principle, reflecting the prevailing heathen world. Jesus, like a lamb to the slaughter, remained silent, offering no defense against false accusations. He was not given sufficient time or opportunity to speak for himself. As he was taken from the judgment hall, a man with linen clothes awaited him, alongside a horse nearby.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.0200079099768375,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.26,
+            "commentatorTierSimilarities": [
+                30.06,
+                34.62,
+                35.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

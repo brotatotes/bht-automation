@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:48:05",
+    "verseRef": "Matthew 14:4",
+    "bestBHT": {
+        "bht": "In this account, Herod Antipas unlawfully married Herodias, who was still married to his brother Philip, and they were also closely related within prohibited degrees. John the Baptist fearlessly denounced the wrongdoing, even though it ultimately cost him his life. John's boldness and faithfulness in speaking the truth are commendable, as it is better to possess a head like his and lose it than to compromise. Herod Antipas, being a politician, refrained from taking action against John due to fear of public opinion and the recognition of John's prophetic status.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.7448435274174123,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+        "commentatorTierSimilarities": [
+            38.43,
+            35.27,
+            26.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The marriage was unlawful for these three reasons: (1) The former husband of Herodias, Philip, was still living.",
+            "The former wife of Antipas was still living, and fled to her father Aretas on hearing of his intention to marry Herodias.",
+            "Antipas and Herodias were already related to one another within the forbidden degrees of consanguinity."
+        ],
+        "Philip Schaff": [
+            "John was a bold preacher of righteousness and repentance, not 'a reed shaken by the wind'.\" ",
+            "His fidelity led to his imprisonment.",
+            "The act of Herod was a crime against his brother, against his wife, and in itself incestuous."
+        ],
+        "Archibald T. Robertson": [
+            "It was a blunt and brave thing that John said. It cost him his head, but it is better to have a head like John's and lose it than to have an ordinary head and keep it.",
+            "Herod Antipas was a politician and curbed his resentment toward John by his fear of the people who still held him as a prophet."
+        ],
+        "John Gill": [
+            "John, in so doing, showed his zeal for holiness, his hatred of sin, his courage and faithfulness in reproving thus freely so great a man.",
+            "what he said to him was, it is not lawful for thee to have her, being forbidden, Leviticus 18:16",
+            "lying with a brother's wife, was one of those sins which, according to the Jewish canons, deserved cutting off, or death by the hand of God."
+        ],
+        "John Wesley": [
+            "John's words were rough, like his raiment.",
+            "He would not break the force of truth by using soft words, even to a king.",
+            "It was not lawful indeed for either of them to have her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 14:4, we see that Herod Antipas had taken Herodias, the wife of his brother Philip, as his own wife. This marriage was unlawful for three reasons. First, Philip, Herodias's former husband, was still living. Second, Herod's former wife was also alive and had fled upon hearing of his intention to marry Herodias. Third, Antipas and Herodias were already related within the forbidden degrees of consanguinity. Although John the Baptist's bold condemnation of this marriage ultimately cost him his life, it is commendable that he fearlessly stood for righteousness and spoke the truth. While Herod's fear of the people kept him from retaliating against John, we see that deep down, he was aware of the prophet's significance and the gravity of his words.",
+            "wordCount": 128,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.5859303694416549,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                42.98,
+                32.26,
+                24.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we witness a marriage that is deemed unlawful due to multiple reasons. Not only was Herodias' former husband still alive, but Herod Antipas also had a living ex-wife. Additionally, their relation fell within the forbidden degrees of consanguinity. John the Baptist courageously spoke out against this union and paid the ultimate price for his honesty. Nonetheless, it is better to possess a head like John's and lose it than to have an ordinary one and keep it. Herod's fear of the people kept him from retaliating against John, recognizing on some level the importance of the prophet's message.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.413894115063155,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                42.86,
+                30.06,
+                27.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Herod Antipas unlawfully married Herodias, who was still married to his brother Philip, and they were also closely related within prohibited degrees. John the Baptist fearlessly denounced the wrongdoing, even though it ultimately cost him his life. John's boldness and faithfulness in speaking the truth are commendable, as it is better to possess a head like his and lose it than to compromise. Herod Antipas, being a politician, refrained from taking action against John due to fear of public opinion and the recognition of John's prophetic status.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7448435274174123,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                38.43,
+                35.27,
+                26.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse reveals an unlawful marriage between Herod Antipas and Herodias. There were multiple reasons for its illegality, including the fact that Herodias' former husband was still alive and that Herod's ex-wife had fled. Furthermore, the couple was closely related within the prohibited degrees of consanguinity. Despite the cost of his actions, John the Baptist fearlessly condemned this marriage, displaying his fervor for righteousness and his unwavering commitment to confronting sin. Herod's hesitance to retaliate against John stemmed from both political considerations and a recognition of John's prophetic significance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.5389943172220888,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                38.67,
+                36.41,
+                24.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unlawful marriage between Herod Antipas and Herodias was condemned due to multiple factors: Philip, Herodias' former husband, was still alive; Antipas' ex-wife had fled upon hearing of the union; and, as cousins, they were within the forbidden degrees of consanguinity. John the Baptist boldly confronted this sin, demonstrating his commitment to holiness and his fearlessness in reproving such a significant figure. Herod's reluctance to harm John gave a glimpse of his recognition of the prophet's validity and the weight of his words.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5673534182207591,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                38.0,
+                34.28,
+                27.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

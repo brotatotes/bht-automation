@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:54:06",
+    "verseRef": "Matthew 27:5",
+    "bestBHT": {
+        "bht": "Judas, consumed by remorse, threw the thirty pieces of silver into the sanctuary with contempt, fulfilling the words of the prophet. The money, representing the price Satan sells his allurements for, became a testimony against the Jews. Overwhelmed by guilt, Judas sought solace in death by hanging himself in a secluded place.",
+        "wordCount": 52,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.1078220976669684,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+        "commentatorTierSimilarities": [
+            27.56,
+            42.69,
+            29.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must conceive him as speaking to them without, and throwing the money into the temple.",
+            "Hanged (or strangled) himself.",
+            "Another account of the end of Judas was current, which I have cited there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sarcastic, diabolical reply which he had got, in place of the sympathy which perhaps he expected, would deepen his remorse into an agony.",
+            "But thus were fulfilled the words of the prophet\u2014'I cast them to the potter in the house of the Lord.'",
+            "For the details, see on :-."
+        ],
+        "Albert Barnes": [
+            "Judas found, as all will find, that to cast away or abandon ill-gotten wealth will not alleviate a guilty conscience.",
+            "Judas probably passed out of the temple in great haste and perturbation of mind. He sought a place where he might perpetrate this crime.",
+            "Falling headlong - that is, on his face - he burst asunder, and in awful horrors died - a double death, with double pains and double horrors - the reward of his aggravated guilt."
+        ],
+        "Marvin Vincent": [
+            "He cast the pieces over the barrier of the enclosure which surrounded the sanctuary.\" (23 words)",
+            "Within which only the priests were allowed, and therefore into the sanctuary.\" (16 words)"
+        ],
+        "John Calvin": [
+            "This is the price for which Satan sells the allurements by which he flatters wicked men for a time.",
+            "He throws them into a state of fury, so that, voluntarily cutting themselves off from the hope of salvation, they find no consolation but in death.",
+            "Thus, though God does not put forth his hand, wicked men are disappointed of their desires, so that, when they have obtained their wishes, they not only deprive themselves of the enjoyment of unsatisfying benefits, but even make cords for themselves."
+        ],
+        "Philip Schaff": [
+            "In God\u2019s temple lay the money for which God\u2019s Son had been sold to death, as a testimony against the Jews.",
+            "That passage shows that the suicide took place in the field spoken of in Matthew 27:7-8; supposed to have been \u2018on the steep face of the southern hill, opposite Mount Zion, which bounds the valley of Hinnom.\u2019",
+            "Matthew\u2019s account is part of a history, Luke\u2019s account part of a speech to those who were acquainted with the facts. The former naturally brings into prominence the conduct of the priests, the latter looks at the death of Judas in the light of the Apostleship he had lost."
+        ],
+        "Archibald T. Robertson": [
+            "His act was sudden after he hurled the money into the sanctuary.\" ",
+            "The motives of Judas in the betrayal were mixed as is usually the case with criminals.",
+            "The money cut a small figure with him save as an expression of contempt."
+        ],
+        "John Gill": [
+            "And he cast down the pieces of silver in the temple,.... Upon the ground...they would not take the money of him; and he was determined not to carry it back with him, and therefore threw it down before them...",
+            "...but to some secret solitary place, to cherish his grief and black despair, and hanged himself.",
+            "The kind and manner of his death...falling headlong, he burst asunder the midst, and all his bowels gushed out...or it may be rendered, as it is in the Arabic and Ethiopic versions, 'he was strangled'; and that either by the devil...or by a disease called the squinancy, or quinsy, a suffocation brought upon him by excessive grief, deep melancholy, and utter despair..."
+        ],
+        "John Wesley": [
+            "In that part of the temple where the sanhedrim met."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, overwhelmed by remorse and the realization that he had betrayed innocent blood, rushed into the temple. He flung the thirty pieces of silver into the sanctuary, the place reserved only for the priests, as a symbol of his contempt. The act itself was sudden, reflecting his deepening agony in response to the sarcastic, diabolical reply he received instead of the sympathy he expected. This action, however, fulfilled the words of the prophet, showing God's sovereignty even in the midst of Judas's wickedness. The money, which represented the price for which Satan sells his allurements, now lay as a testimony against the Jews. Judas, consumed by guilt, sought a solitary place where he eventually took his own life in a horrifying manner.",
+            "wordCount": 124,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.009818584790306,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "commentatorTierSimilarities": [
+                29.0,
+                39.15,
+                31.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, in the grip of remorse after betraying innocent blood, hurled the thirty pieces of silver into the sanctuary, reserving only for the priests. This sudden act of contempt fulfilled the prophet's words. The money, symbolic of Satan's allurements, now testified against the Jews. Overwhelmed by guilt, Judas sought solace in death, hanging himself in a secluded place, as his sorrow deepened.",
+            "wordCount": 64,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.971935500790471,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                29.44,
+                41.25,
+                29.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas, consumed by remorse, threw the thirty pieces of silver into the sanctuary with contempt, fulfilling the words of the prophet. The money, representing the price Satan sells his allurements for, became a testimony against the Jews. Overwhelmed by guilt, Judas sought solace in death by hanging himself in a secluded place.",
+            "wordCount": 52,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.1078220976669684,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                27.56,
+                42.69,
+                29.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, driven by remorse, hurled the thirty pieces of silver into the sanctuary, fulfilling the words of the prophet. The money, symbolizing Satan's allurements, became a testimony against the Jews. Overwhelmed by guilt, Judas sought solace in death, hanging himself in a secluded location.",
+            "wordCount": 45,
+            "quoteTokenProportion": 25.71,
+            "qualityScore": 2.093322815432344,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                28.12,
+                43.99,
+                27.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, overwhelmed by remorse, flung the thirty pieces of silver into the sanctuary. This fulfilled the prophet's words and testified against the Jews. Consumed by guilt, Judas sought solace in death by hanging himself in a secluded place.",
+            "wordCount": 39,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.997447536260628,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                30.12,
+                41.25,
+                28.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

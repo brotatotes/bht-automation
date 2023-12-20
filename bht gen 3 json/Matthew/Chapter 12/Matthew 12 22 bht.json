@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:47:05",
+    "verseRef": "Matthew 12:22",
+    "bestBHT": {
+        "bht": "A demonized person who was blind and unable to speak was brought to Jesus. This man became blind and lost the ability to speak, not due to physical defects but because of being possessed by a demon. Satan corrupts the soul, affecting bodily senses. Jesus, without medicine, spoke a word to dispossess Satan, restoring the man's sight and speech. This miracle allowed him to see and praise his Savior. The Holy Spirit reveals the true nature of disorders and their cures, challenging assumptions about seemingly natural impairments.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.2048511570587022,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.4,
+        "commentatorTierSimilarities": [
+            27.52,
+            30.4,
+            42.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22. Then was brought unto him one",
+            "\tpossessed with a devil\u2014\"a demonized person.\" ",
+            "\t",
+            "blind and dumb, and he healed",
+            "\thim, insomuch that the blind and the dumb both spake and saw."
+        ],
+        "John Calvin": [
+            "Many persons, no doubt, are blind and deaf on account of natural defects; but it is evident, that this man had become blind, and had been deprived of the use of speech.",
+            "We need not wonder that so much liberty should be allowed to Satan in injuring the bodily senses, when God justly permits him to corrupt or pervert all the faculties of the soul.",
+            "It is evident that this man had become blind, and had been deprived of the use of speech, though there was no defect in his optical nerves or in the proportion of his tongue."
+        ],
+        "Philip Schaff": [
+            "One possessed, etc., or, 'a demoniac,' blind and dumb.",
+            "A different case from that mentioned in chap. Matthew 9:32-34.",
+            "The physical effect of the possession was similar, but more unfortunate; the accusation of the Pharisees was similar, but more blasphemous."
+        ],
+        "John Gill": [
+            "The word rendered 'dumb', signifies both deaf and dumb, and answers to the Hebrew word \u05d7\u05e8\u05e9, which sometimes is used of a deaf man only, who can speak, but not hear; and often of one that can neither speak, nor hear; which is the case of such as are born deaf.",
+            "This he did, not by making use of medicines, but by a word speaking, dispossessing Satan; so that the cause of blindness and dumbness being removed, the effects ceased, and the man was restored to his sight, and speech, as before.",
+            "He had his sight to behold his Saviour, and a tongue to praise his name: so when men are turned from Satan unto God, and are delivered from his thraldom and bondage, they are brought into marvellous light, and put into a capacity of showing forth the praises of God."
+        ],
+        "John Wesley": [
+            "Many undoubtedly supposed these defects to be merely natural. But the Spirit of God saw otherwise, and gives the true account both of the disorder and the cure.",
+            "How many disorders, seemingly natural, may even now be owing to the same cause?",
+            "Luke 11:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A demonized person who was blind and unable to speak was brought to Jesus, and he healed this individual to the extent that they could both speak and see. It is clear that this man had become blind and had lost the ability to speak, but it was not due to any physical defects. Rather, it was a result of being possessed by a demon. Satan, who is permitted by God to corrupt and distort all aspects of the soul, had taken control of this individual's senses. However, Jesus, without the need for medicine or physical intervention, simply spoke a word and the demon was cast out. Consequently, the blindness and inability to speak were eliminated, restoring both sight and speech to the man. This miracle allowed him to not only see his Savior but also praise His name. The true nature of the disorder and its cure were revealed by the Holy Spirit, even though many likely assumed these impairments to be natural. This serves as a reminder that there may be seemingly natural disorders today that are actually manifestations of demonic influence.",
+            "wordCount": 185,
+            "quoteTokenProportion": 40.87,
+            "qualityScore": 1.1075641094797524,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.17,
+            "commentatorTierSimilarities": [
+                21.4,
+                31.57,
+                47.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A demonized person who was blind and unable to speak was brought to Jesus. This man became blind and lost the ability to speak, not due to physical defects but because of being possessed by a demon. Satan corrupts the soul, affecting bodily senses. Jesus, without medicine, spoke a word to dispossess Satan, restoring the man's sight and speech. This miracle allowed him to see and praise his Savior. The Holy Spirit reveals the true nature of disorders and their cures, challenging assumptions about seemingly natural impairments.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.2048511570587022,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.4,
+            "commentatorTierSimilarities": [
+                27.52,
+                30.4,
+                42.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A demonized person who was blind and unable to speak was brought to Jesus. Satan, permitted by God, had corrupted the man's senses. Jesus, without medicine, dispossessed the demon, restoring the man's sight and speech. This miracle allowed the man to see his Savior and praise His name. The Holy Spirit reveals the truth about disorders, challenging assumptions of natural impairments. It is a reminder that seemingly natural disorders may actually be manifestations of demonic influence.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.0734120440410986,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.03,
+            "commentatorTierSimilarities": [
+                25.86,
+                30.69,
+                43.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A demonized person, blind and unable to speak, was brought to Jesus. Satan was allowed by God to corrupt the man's senses, resulting in his afflictions. By speaking a word, Jesus expelled the demon, restoring sight and speech. This miraculous healing enabled the man to both see his Savior and praise His name. The Holy Spirit's revelation challenges the common assumption that such impairments are purely natural, reminding us that seemingly natural disorders may have deeper spiritual origins.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.16603523065096,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.11,
+            "commentatorTierSimilarities": [
+                26.6,
+                30.87,
+                42.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A demonized person, blind and unable to speak, was brought to Jesus. Satan had corrupted the man's senses, depriving him of sight and speech. But Jesus, without the need for medicine, spoke a word that dispossessed the demon. As a result, the man's sight was restored, and he could speak again. This miraculous healing allowed him not only to see his Savior but also to offer praise to His name. The Holy Spirit's insight challenges the assumption that such impairments are simply natural, suggesting that they may have spiritual roots.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.0563137647862164,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.47,
+            "commentatorTierSimilarities": [
+                28.52,
+                28.41,
+                43.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

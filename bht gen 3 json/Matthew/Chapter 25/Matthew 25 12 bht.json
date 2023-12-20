@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:52:56",
+    "verseRef": "Matthew 25:12",
+    "bestBHT": {
+        "bht": "When Jesus says, I know you not, it means that those who merely profess Christianity without genuine piety will not be acknowledged by Him as His true followers. This refusal is final and a consequence of their negligence. The parable emphasizes the importance of enduring till the end and keeping our light shining bright, no matter how long the delay may be. Only those who believe in and love Christ will be granted admittance and adorned with the righteousness of saints.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.370220283728716,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+        "commentatorTierSimilarities": [
+            33.64,
+            32.13,
+            34.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe here, I know you not is very different, as the whole circumstances are different, from 'I never knew you,' in ch. vii. 23...\" ",
+            "...where the 'Depart from me' binds it to our ver. 41, and to the time of the final judgment, spoken of in that parable.",
+            "[See the note at the end of the chapter.]"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Besides being inconsistent with the general tenor of such language, and particularly the solemn moral of the whole (Matthew 7:23- :), it is a kind of criticism which tampers with some of the most awful warnings regarding the future.",
+            "If it be asked why unworthy guests were admitted to the marriage of the King's Son, in a former parable, and the foolish virgins are excluded in this one, we may answer... that those festivities are celebrated in this life, in the Church militant; these at the last day, in the Church triumphant.",
+            "To those, even they are admitted who are not adorned with the wedding garment; but to these, only they to whom it is granted to be arrayed in fine linen clean and white, which is the righteousness of saints."
+        ],
+        "Albert Barnes": [
+            "I know you not - You were not in the company of those who attended me to the marriage-feast, and are unknown to me.",
+            "Applied to professing Christians, having only a profession of religion, but no real piety, it means, I do not know or acknowledge you as Christians.",
+            "The word 'know' is often used in the sense of approving, loving, acknowledging as real friends and followers."
+        ],
+        "Philip Schaff": [
+            "I know you not.\" ",
+            "The refusal is definite and apparently final.\" ",
+            "The lesson respects the blessedness of endurance unto the end, of keeping the light bright for the coming of the Bridegroom, however delayed."
+        ],
+        "Archibald T. Robertson": [
+            "I know you not. Hence there was no reason for special or unusual favours to be granted them.",
+            "They must abide the consequences of their own negligence."
+        ],
+        "John Gill": [
+            "Verily I say unto you, I know you not; which must be understood in consistence with the omniscience of Christ: he knew their persons, conduct, and state; he knew they were foolish virgins, graceless professors...",
+            "...he never knew them to believe in him, or love him; nor ever exalt his person, blood and sacrifice...",
+            "which answer implies, that as the door was shut, so it should remain; there was no admittance for them, nor any to be hoped for..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 25:12, when Jesus says, I know you not, He is not saying that He never knew them, like in Matthew 7:23. Rather, it means that they were not in the company of those who truly followed Him. The refusal is definite and final, and it is a consequence of their negligence. This parable teaches us the importance of enduring till the end, of keeping our light shining bright for the coming of the Bridegroom, no matter how long the delay may be. Those who merely profess Christianity, without genuine piety, will not be acknowledged by Christ as His true followers.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.4111538859530524,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "commentatorTierSimilarities": [
+                30.99,
+                31.22,
+                37.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus makes a clear distinction between those who truly follow Him and those who only profess Christianity. When He says, I know you not, He means that they were not part of His company, that they were graceless professors. The refusal is final, and it is a consequence of their negligence. This parable serves as a reminder of the importance of enduring till the end and keeping our light shining bright, despite any delay in the coming of the Bridegroom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.379508213665771,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "commentatorTierSimilarities": [
+                31.46,
+                33.19,
+                35.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's words, I know you not, in this passage signify that those who only profess Christianity without true piety will not be acknowledged by Him as His genuine followers. This refusal, definite and final, is the consequence of their negligence. The parable teaches the importance of endurance and keeping our light shining bright, regardless of any delay in the coming of the Bridegroom. Only those who truly believe in and love Christ will be granted admittance and be adorned with the righteousness of saints.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4725504244206644,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                33.31,
+                31.04,
+                35.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus says, I know you not, it means that those who merely profess Christianity without genuine piety will not be acknowledged by Him as His true followers. This refusal is final and a consequence of their negligence. The parable emphasizes the importance of enduring till the end and keeping our light shining bright, no matter how long the delay may be. Only those who believe in and love Christ will be granted admittance and adorned with the righteousness of saints.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.370220283728716,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+            "commentatorTierSimilarities": [
+                33.64,
+                32.13,
+                34.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus says, I know you not, He means that those who only make a profession of Christianity, without true piety, will not be acknowledged as His genuine followers. This refusal is a result of their negligence. The parable teaches us the importance of enduring till the end and keeping our light shining bright, even in the face of delay. Only those who believe in and love Christ will be granted admittance, adorned with the righteousness of saints.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.3193407669884025,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                31.54,
+                31.34,
+                37.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

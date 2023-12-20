@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:45:39",
+    "verseRef": "Matthew 9:35",
+    "bestBHT": {
+        "bht": "Jesus went about all the cities and villages, confirming the doctrine of salvation with miracles. His fruitful journeyings throughout Galilee included teaching in synagogues, where prayer was made and the law and prophets were read. Jesus healed all sorts of diseases, confirming and recommending the doctrines he preached. This was an essential part of his ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for their heavenly glory.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8167981617290427,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+        "commentatorTierSimilarities": [
+            34.5,
+            23.02,
+            42.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To these fruitful journeyings of the Redeemer, 'with healing in His wings,' Peter no doubt alludes, when, in his address to the household of Cornelius, he spoke of 'How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil: for God was with Him'.\" ",
+            "Jesus Compassionating the Multitudes, Asks Prayer for Help.\" ",
+            "Soon after this, it should seem, the multitudes still hanging on Him, Jesus is touched with their wretched and helpless condition, and acts as is now to be described."
+        ],
+        "Albert Barnes": [
+            "Jesus went about all the cities and villages.",
+            "His labors were, as yet, confined to that part of Palestine.",
+            "Compare the notes at Matthew 4:24-25."
+        ],
+        "John Calvin": [
+            "The whole ministry of Christ is not minutely described, for he was constantly employed in the discharge of his office; that is, in proclaiming the doctrine of salvation, and in confirming it by the addition of miracles.",
+            "The gospel of the kingdom is a designation given to it from its effect, for in this way God gathered to himself a people sadly scattered, that he might reign in the midst of them.",
+            "We must be subject to God, in order that we may be exalted by him to the heavenly glory."
+        ],
+        "Philip Schaff": [
+            "An appropriate introduction to what follows, as well as a fitting close to this account of the leading miracles performed by our Lord.",
+            "Almost identical with Matthew 4:23, which precedes the Sermon on the Mount, describing a customary course of action.",
+            "This third circuit seems to have begun before the Apostles were sent out and to have continued until their return."
+        ],
+        "Archibald T. Robertson": [
+            "And Jesus went about (\u03ba\u03b1 \u03c0\u03b5\u03c1\u03b9\u03b7\u03b3\u03b5\u03bd \u03bf \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). Imperfect tense descriptive of this third tour of all Galilee. "
+        ],
+        "John Gill": [
+            "He did not confine himself...but he took a circuit throughout all Galilee; doing good to the bodies and souls of men in every place.\" ",
+            "Teaching in their synagogues...where prayer was made, the law and the prophets were read, and a word of exhortation given to the people.",
+            "He healed all sorts of diseases the bodies of men were incident to, that were brought unto him; and by his miracles confirmed, as well as recommended, the doctrines he preached."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went about all the cities and villages, continuing his ministry of proclaiming the doctrine of salvation and confirming it with miracles. He had compassion for the multitudes, healing their diseases and addressing their wretched and helpless condition. His journeyings were fruitful, as he went throughout Galilee, doing good to the bodies and souls of men in every place. He taught in their synagogues, where prayer was made and the law and the prophets were read, and he healed all sorts of diseases that were brought unto him, confirming and recommending the doctrines he preached. This was an essential part of Jesus' ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for their heavenly glory.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.7335216827136306,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                34.7,
+                20.31,
+                44.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went about all the cities and villages, confirming the doctrine of salvation with miracles. He had compassion for the multitudes, healing their diseases. His fruitful journeyings throughout Galilee included teaching in synagogues, where prayer was made and the law and prophets were read. Jesus healed all sorts of diseases, confirming and recommending the doctrines he preached. This was an essential part of his ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for heavenly glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7252969998886756,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                35.06,
+                22.94,
+                42.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus went about all the cities and villages, confirming the doctrine of salvation with miracles. His fruitful journeyings throughout Galilee included teaching in synagogues, where prayer was made and the law and prophets were read. Jesus healed all sorts of diseases, confirming and recommending the doctrines he preached. This was an essential part of his ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for heavenly glory.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8137378547892289,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                34.6,
+                22.92,
+                42.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went about all the cities and villages, confirming the doctrine of salvation with miracles. His fruitful journeyings throughout Galilee included teaching in synagogues, where prayer was made and the law and prophets were read. Jesus healed all sorts of diseases, confirming and recommending the doctrines he preached. This was an essential part of his ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for their heavenly glory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8167981617290427,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                34.5,
+                23.02,
+                42.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus went about all the cities and villages, confirming the doctrine of salvation with miracles. His fruitful journeyings throughout Galilee included teaching in synagogues, where prayer was made and the law and prophets were read. Jesus healed all sorts of diseases, confirming and recommending the doctrines he preached. This was an essential part of his ministry, exemplifying God's reign in the midst of His people and calling them to be subject to Him for their heavenly glory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8167981617290427,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                34.5,
+                23.02,
+                42.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

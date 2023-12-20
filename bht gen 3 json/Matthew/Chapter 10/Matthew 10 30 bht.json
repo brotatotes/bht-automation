@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:45:59",
+    "verseRef": "Matthew 10:30",
+    "bestBHT": {
+        "bht": "The very hairs of your head are all numbered, reflecting the perfect knowledge and care that God possesses for his creatures. This expression denotes the special providence and absolute preservation of God, specifically towards his chosen Apostles. It serves as a reminder that not a single hair falls without God's knowledge and will, signifying that our lives are under the watchful eye of divine providence.",
+        "wordCount": 66,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.4016768132455701,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.95,
+        "commentatorTierSimilarities": [
+            7.9,
+            37.25,
+            54.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The your is emphatic, corresponding to the ye at the end of ver. 31.",
+            "But the emphatic ye spoken directly to the Apostles.",
+            "The whosoever in ver. 32."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. But the very hairs of your head",
+            "\tare all numbered\u2014See :- (and compare for the language 1 Samuel 14:45;",
+            "\tActs 27:34)."
+        ],
+        "Philip Schaff": [
+            "The most special providence, and the most absolute preservation.",
+            "No part of our life, of what characterizes or adorns it, shall be lost.",
+            "God, to be God, must know the very hairs of our head."
+        ],
+        "John Gill": [
+            "A proverbial expression, showing the perfect knowledge God has, and the exquisite care he takes, in providence, of all his creatures.",
+            "Not a single hair of a man's head falls to the ground without the knowledge, and will of God.",
+            "Their valuable lives were under the special and peculiar care of divine providence; not only the days, months, and years of their lives were with God, and put down in his book of purposes and decrees, which could neither be shortened nor lengthened."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hairs of your head are all numbered, a proverbial expression highlighting the perfect knowledge and care that God has for his creatures. This verse emphasizes the special providence and absolute preservation that God extends to his chosen ones, specifically the Apostles. Even the smallest details of our lives, including the hairs on our head, are known by God. It is a reminder that not a single hair falls without God's knowledge and will, for our valuable lives are under the special care of divine providence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.4145351206517507,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                9.18,
+                37.28,
+                53.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The very hairs of your head are all numbered, reflecting the perfect knowledge and care that God possesses for his creatures. This expression denotes the special providence and absolute preservation of God, specifically towards his chosen Apostles. It serves as a reminder that not a single hair falls without God's knowledge and will, signifying that our lives are under the watchful eye of divine providence.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4016768132455701,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.95,
+            "commentatorTierSimilarities": [
+                7.9,
+                37.25,
+                54.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The very hairs of your head are all numbered, emphasizing the perfect knowledge and care that God has for his creatures. This proverbial expression signifies the special providence and absolute preservation that God extends to his chosen ones, particularly the Apostles. Not a single hair falls without God's knowledge and will, revealing the meticulous attention and divine plan that governs our lives. It serves as a reminder that our valuable lives are under the special and peculiar care of God's providence, which cannot be shortened or lengthened.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3465333604290375,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                6.05,
+                34.64,
+                59.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The very hairs of your head are all numbered, a testament to God's perfect knowledge and care for his creatures. This proverbial expression reveals the special providence and absolute preservation that God extends, particularly to his chosen Apostles. It reminds us that not a single hair falls without God's knowledge and will, demonstrating the meticulous attention and divine plan that governs our lives. Our valuable lives are under the precise and unique care of God's providence, recorded in his book of purposes and decrees.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.3529091697781719,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.33,
+            "commentatorTierSimilarities": [
+                6.68,
+                34.35,
+                58.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hairs of your head are all numbered, signifying the perfect knowledge and care that God has for his creatures. This expression highlights the special providence and absolute preservation bestowed by God, particularly upon his chosen Apostles. Not a single hair falls without God's knowledge and will, showcasing the meticulous attention and divine plan that govern our lives. Our valuable lives are under the special and peculiar care of God's providence, which is recorded in his book of purposes and cannot be altered.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.35947777746777,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.55,
+            "commentatorTierSimilarities": [
+                6.64,
+                35.44,
+                57.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

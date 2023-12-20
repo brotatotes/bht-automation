@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:50:34",
+    "verseRef": "Matthew 20:16",
+    "bestBHT": {
+        "bht": "According to Jesus, the last will be first and the first will be last. The rewards in the vineyard are proportional to the work, not the order of time spent. While many receive the invitations of the Gospel, not all are chosen for salvation. The parable teaches us to be humble, not to murmur or boast, and to share the prize with others. It is a reminder that God freely chooses whom He pleases and bestows rewards accordingly.",
+        "wordCount": 78,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 1.640976830506558,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+        "commentatorTierSimilarities": [
+            26.54,
+            38.85,
+            34.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The last were first, as equal to the first; first, in order of payment; first, as superior to the first (no others being brought into comparison), in that their reward was more in proportion to their work, and not married by a murmuring spirit.",
+            "The first were last in these same respects.",
+            "Although called, will not be chosen."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Take heed lest by indulging the spirit of these murmurers at the penny given to the last hired, ye miss your own penny, though first in the vineyard; while the consciousness of having come in so late may inspire these last with such a humble frame, and such admiration of the grace that has hired and rewarded them at all, as will put them into the foremost place in the end.",
+            "Many receive the invitations of the Gospel whom God has never 'chosen to salvation through sanctification of the Spirit and belief of the truth'. But what, it may be asked, has this to do with the subject of our parable? Probably this\u2014to teach us that men who have wrought in Christ's service all their days may, by the spirit which they manifest at the last, make it too evident that, as between God and their own souls, they never were chosen workmen at all.",
+            "The 'calling' of which the New Testament almost invariably speaks is what divines call effectual calling, carrying with it a supernatural operation on the will to secure its consent. But that cannot be the meaning of it here; the 'called' being emphatically distinguished from the 'chosen.' It can only mean here the 'invited.'"
+        ],
+        "Albert Barnes": [
+            "Many that, in the order of time, are brought last into the kingdom, shall be first in the rewards.",
+            "Higher proportionate rewards shall be given to them than to others.",
+            "They may not be as long in the vineyard as others; their race may be sooner run; but I have chosen to honor them in this manner, and I have a right to do it."
+        ],
+        "John Calvin": [
+            "Christ only meant to say that every one who has been called before others ought to run with so much the greater alacrity, and, next, to exhort all men to be modest, not to give themselves the preference above others, but willingly to share with them a common prize.",
+            "But that they might not be carried away by ambition or vain confidence in themselves, it was necessary also to remind them that others, who would long afterwards be called, would be partakers of the same glory.",
+            "God is not limited to any person, but calls freely whomsoever He pleases, and bestows on those who are called whatever rewards He thinks fit."
+        ],
+        "Philip Schaff": [
+            "The parable...illustrates the truth that the order in the calling of individuals and nations will in many (not all) cases be reversed in their final position in heaven.",
+            "'Many are called, but few are chosen.' This is to be omitted, though found in many authorities. If genuine, it means, many are called to be heirs of salvation, yet few chosen to be preeminent. Free grace within the Church is thus indicated.",
+            "The different ages in the life of individuals: childhood, youth, manhood, old age, and the years of decrepitude."
+        ],
+        "Archibald T. Robertson": [
+            "The last first and the first last.",
+            "After all one's work does not rest wholly on the amount of time spent on it.",
+            "Even so hath Rabbi Bun bar Chija in twenty-eight years wrought more than many studious scholars in a hundred years."
+        ],
+        "John Gill": [
+            "So the last shall be first, and the first last.",
+            "But few among the Jews; as also in the Gentile world, comparatively speaking.",
+            "Even but a few of those that are outwardly called, are inwardly and effectually called by the powerful grace of God."
+        ],
+        "John Wesley": [
+            "So the last shall be first, and the first last.\" ",
+            "For many are called \u2014 All who hear the Gospel; but few chosen.",
+            "Only those who obey it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 20:16, Jesus conveys the message that the last shall be first and the first shall be last. This means that although those who have worked in the vineyard for a longer time may expect greater rewards, it is important not to be filled with a murmuring spirit. It is possible for those who have entered the vineyard late to possess a humble frame and admiration for the grace that has chosen and rewarded them. This parable also reminds us that not everyone who is called is chosen, and that the order in which individuals are called and chosen may be reversed in their final position in heaven. Therefore, we should not boast or consider ourselves superior, as God freely chooses whom He pleases and bestows rewards accordingly.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7820145491720027,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                27.52,
+                37.06,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus teaches that the last will be first and the first will be last. This means that those who have worked in the vineyard for a longer time may expect greater rewards, but they should not be filled with a murmuring spirit. The parable reminds us that not everyone who is called is chosen, and that the order of calling and chosen individuals may be reversed in their final position in heaven. God freely chooses whom He pleases and bestows rewards accordingly, so we should not boast.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8464580097757457,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                27.46,
+                37.53,
+                35.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's message in this verse is that the last shall be first and the first shall be last. This means that those who have worked for a longer time in the vineyard may expect greater rewards, but they should not grumble. The parable reminds us that not everyone called is chosen, and the order of calling and chosen individuals may be reversed in heaven. God freely chooses whom He pleases and allocates rewards accordingly, urging us not to boast.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.7881335473295996,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                26.37,
+                37.16,
+                36.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "According to Jesus, the last will be first and the first will be last. The rewards in the vineyard are proportional to the work, not the order of time spent. While many receive the invitations of the Gospel, not all are chosen for salvation. The parable teaches us to be humble, not to murmur or boast, and to share the prize with others. It is a reminder that God freely chooses whom He pleases and bestows rewards accordingly.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.640976830506558,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                26.54,
+                38.85,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this teaching, Jesus emphasizes that in the vineyard, the last shall be first and the first shall be last. This means that even those who come in late may receive equal treatment and rewards. While some may grumble, it is essential to avoid a murmuring spirit. The parable also highlights the distinction between being called and being chosen for salvation. It is a reminder that God calls whomever He pleases and bestows rewards accordingly, urging humility and a willingness to share the prize with others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6190430985371047,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                25.05,
+                38.08,
+                36.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

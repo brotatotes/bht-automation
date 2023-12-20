@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:37",
+    "verseRef": "Matthew 26:46",
+    "bestBHT": {
+        "bht": "With lifelike power, Jesus senses the approach of the betrayer, whether through sight, sound, or intuition. As the scene unfolds, Jesus instructs his disciples to rise and go, fully aware of the impending betrayal and the necessity of his imminent death. This moment showcases both Jesus' submission and determination, as he courageously advances to confront his betrayer. The gravity of the impending betrayal is highlighted, emphasizing Jesus' unwavering resolve and willingness to face death for the sake of his mission.",
+        "wordCount": 80,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.322098717280563,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+        "commentatorTierSimilarities": [
+            39.47,
+            22.22,
+            38.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Rise, let us be going -... Let us go wheresoever they shall lead us.",
+            "The time when 'I must die' is come.",
+            "It is no longer proper to attempt an escape, and no more time can be given to repose."
+        ],
+        "John Calvin": [
+            "He obtained by prayers and tears new strength from heaven.",
+            "He wished to labor anxiously, and with painful and difficult exertion, to gain a victory for us in his own person.",
+            "He not only does not retire or conceal himself, but cheerfully advances to death."
+        ],
+        "Philip Schaff": [
+            "Arise, i.e., rouse yourselves, not simply, stand up.",
+            "The conflict is over, the spirit of submission reigns; yet He is anxious that the trial of the moment of His betrayal should be over.",
+            "His advancing to meet His betrayer may have been to rejoin and protect the eight disciples at the entrance of the garden."
+        ],
+        "Archibald T. Robertson": [
+            "He is at hand (\u03b7\u03b3\u03b3\u03b9\u03ba\u03b5\u03bd). The same verb and tense used of the hour above, present perfect active of \u03b5\u03b3\u03b3\u03b9\u03b6\u03c9, to draw near, the very form used by John the Baptist of the coming of the kingdom of heaven (Matthew 3:2).\" ",
+            "Whether Jesus heard the approach of the betrayer with the crowd around him or saw the lights or just felt the proximity of the traitor before he was there (J. Weiss), we do not know and it matters little.\" ",
+            "The scene is pictured as it happened with lifelike power."
+        ],
+        "John Gill": [
+            "Rise, let us be going... to meet him: this was said... to express the fortitude of his mind as man; he was now rid of his fears, and free from those agonies and dreadful apprehensions of things...\" ",
+            "And this he spake with trepidity of soul, with greatness of mind, being no more concerned at it, than when he gave him the sop, and bid him do what he did quickly.",
+            "[A] 'behold' is prefixed to this... to express what an horrid, insolent, and unparalleled action that was, Judas was now about to be guilty of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene is vividly depicted as Jesus senses the approach of the betrayer, whether through hearing, sight, or instinct. With lifelike power, Jesus instructs his disciples to rise and go, fully aware of the impending betrayal and the necessity of his impending death. There is a sense of submission and resignation, yet also the anxious desire to overcome the trial that awaits. Jesus courageously advances to meet his betrayer, displaying the fortitude of his mind and his willingness to face death. This moment signifies Jesus' unwavering determination and the magnitude of the forthcoming betrayal.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.2990688897032219,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.54,
+            "commentatorTierSimilarities": [
+                36.08,
+                24.15,
+                39.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the betrayer approaches, Jesus discerns his proximity with a keen awareness. It is uncertain whether through sound, sight, or intuition, but the portrayal of the scene is vivid and lifelike. Jesus commands his disciples to rise and accompany him, fully cognizant of the imminent betrayal and the necessity of his impending death. In this moment, Jesus displays both submission and determination, bravely stepping forward to encounter his betrayer. The gravity of the impending betrayal is emphasized, underscoring Jesus' unwavering commitment and willingness to face death.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.247345537765019,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.82,
+            "commentatorTierSimilarities": [
+                40.29,
+                20.7,
+                39.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With lifelike power, Jesus senses the approach of the betrayer, whether through sight, sound, or intuition. As the scene unfolds, Jesus instructs his disciples to rise and go, fully aware of the impending betrayal and the necessity of his imminent death. This moment showcases both Jesus' submission and determination, as he courageously advances to confront his betrayer. The gravity of the impending betrayal is highlighted, emphasizing Jesus' unwavering resolve and willingness to face death for the sake of his mission.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.322098717280563,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                39.47,
+                22.22,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, perceiving the approach of the betrayer, is depicted with lifelike power, as if he could hear, see, or sense his presence. Whether it was the sound, lights, or simply an awareness, the details are uncertain but inconsequential. Jesus commands his disciples to rise and go, fully aware of the impending betrayal and the inevitability of his own death. This moment embodies Jesus' submission and determination, as he fearlessly steps forward to meet his betrayer, displaying unwavering resolve and acceptance of his imminent fate.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.289858287522388,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.23,
+            "commentatorTierSimilarities": [
+                41.26,
+                18.86,
+                39.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, fully aware of the betrayer's approach, senses it with lifelike power. Although the specific means of perception are unknown, they matter little. He commands his disciples to rise and join him, recognizing the impending betrayal and the certainty of his imminent death. This moment reveals Jesus' submission and determination as he fearlessly advances to face his betrayer. The gravity of the forthcoming betrayal is emphasized, highlighting Jesus' unswerving commitment and willingness to embrace death for the fulfillment of his mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.1297478472100753,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.91,
+            "commentatorTierSimilarities": [
+                37.64,
+                21.02,
+                41.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

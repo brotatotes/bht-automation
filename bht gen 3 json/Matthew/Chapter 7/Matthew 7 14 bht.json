@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:44:34",
+    "verseRef": "Matthew 7:14",
+    "bestBHT": {
+        "bht": "The way to destruction is attractive because of its ease and popularity, but it ultimately leads to ruin. In contrast, the way to eternal life is narrow and demanding, filled with trials and self-denial. Sadly, so few people find and choose this path, not because it is inaccessible or ordained by God, but because they are unwilling to come to Christ for life. The narrow way may be difficult, but it leads to the joy and fulfillment of eternal life.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.600436609475674,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+        "commentatorTierSimilarities": [
+            30.97,
+            34.54,
+            34.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason why the way to destruction is so broad, is because so few find their way into the narrow path of life.",
+            "The reason why so many perish is not that it is eo ordained by God, who will have all to come to the knowledge of the truth, but because so few will come to Christ, that they may have life.",
+            "strait] literally, restricted,\u2014crushed in, in breadth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole course is as difficult as the first step.",
+            "The recommendation of the broad way is the ease with which it is trodden and the abundance of company to be found in it.",
+            "The disadvantage of [the narrow way] lies in its narrowness and solicitude."
+        ],
+        "Philip Schaff": [
+            "Straitened is the way. Even after we pass through the gate the Christian course continues difficult, is a constant conflict and self-denial, but it leadeth unto life.",
+            "The way to destruction is broad \u2018because\u2019 it is used by so many.",
+            "Few are they that find the straitened way. It is not even discovered by most, much less entered upon. This not because God has made it so \u2018strait,\u2019 but because so few desire to find it."
+        ],
+        "John Gill": [
+            "The way is unpleasant to the flesh to walk in, being hedged up on each side with afflictions and tribulations.",
+            "The great encouragement to walk on in it is, because it is that way which leadeth unto life: unto eternal life.",
+            "There is but one way to heaven, and the generality of men neglect it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The way to destruction is attractive because of its ease and popularity, but it ultimately leads to ruin. In contrast, the way to eternal life is narrow and demanding, filled with trials and self-denial. Sadly, so few people find and choose this path, not because it is inaccessible or ordained by God, but because they are unwilling to come to Christ for life. The narrow way may be difficult, but it leads to the joy and fulfillment of eternal life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.600436609475674,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                30.97,
+                34.54,
+                34.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The path to destruction is alluring because of its ease and popularity. Many perish because they refuse to come to Christ and enter the narrow path that leads to life. This way, although restricted and arduous, is the only way that ultimately leads to eternal life. It requires constant self-denial and is often filled with afflictions and tribulations. Yet, despite its challenges, the narrow path is worth it because of the promise of everlasting life it holds.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.5924161459064299,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                31.17,
+                34.24,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The exclusive and slender path leading to life is overshadowed by the broad and enticing way that leads to destruction. This broad path is appealing due to its ease and the multitude of companions found on it. In contrast, the narrow way is constricted and demanding, causing distress. Regrettably, only a few discover and choose this path not because God designed it to be difficult, but because they fail to come to Christ, who grants life. Despite its narrowness and difficulties, the narrow path is the sole direction that leads to eternal life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5690332896603856,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                35.97,
+                33.29,
+                30.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The broad path leading to destruction entices many with its ease and abundance of companions. Conversely, the narrow and crushing way to life is discovered by only a few, not due to God's ordination, but because of the reluctance of people to come to Christ. This restricted path involves difficulty, solicitude, and constant self-denial. However, it offers the ultimate reward of eternal life, making it worth the hardships. The majority neglect the one true way to heaven, unaware of its unpleasant yet rewarding journey.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.449576355603172,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.54,
+            "commentatorTierSimilarities": [
+                31.5,
+                32.93,
+                35.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The path leading to destruction is broad and inviting, attracting many with its ease and popularity. In contrast, the narrow way to life is constricted and demanding, causing both physical and emotional strain. Sadly, only a few find and embrace this narrow path, not because it is inaccessible or predetermined by God, but because of their own unwillingness to come to Christ. Despite its challenges, the narrow path is the sole route that leads to eternal life, holding the promise of lasting fulfillment and joy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.55852534015855,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                33.48,
+                33.59,
+                32.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

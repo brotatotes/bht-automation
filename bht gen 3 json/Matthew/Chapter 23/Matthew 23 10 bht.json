@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:39",
+    "verseRef": "Matthew 23:10",
+    "bestBHT": {
+        "bht": "Jesus tells his disciples not to seek or receive empty titles that imply authority or superiority over others. He emphasizes that they should not be called masters or leaders, for there is only one true leader, Christ himself. Jesus wants his followers to avoid creating distinctions among themselves and to acknowledge that they are all equal before Him. The disciples are to be guided and directed by Christ, following His word and not their own dictates. They are called to lead others to a dependence on Christ, who is the true head of the Church.",
+        "wordCount": 95,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 1.8548528187501603,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+        "commentatorTierSimilarities": [
+            25.04,
+            34.15,
+            40.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Neither be ye called masters - That is, leaders, guides, for this is the literal meaning of the word.",
+            "They prohibit the disciples of Jesus from seeking or receiving mere empty titles, producing distinctions among themselves, implying authority to control the opinions and conduct of others, and claiming that others should acknowledge them to be superior to them.",
+            "They forbid us to give proper titles of civil office to men, or to render them the honor belonging to their station."
+        ],
+        "Marvin Vincent": [
+            "Masters [\u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03b1\u03b9] . Lit., leaders."
+        ],
+        "John Calvin": [
+            "For one is your Master, even Christ.\" ",
+            "The lawful order is, that God alone rule over us, and possess the power and authority of a Father.",
+            "Christ is the only head of the whole Church, because the whole body ought to be subject to him and obey him."
+        ],
+        "Philip Schaff": [
+            "One is your leader, even the Christ.",
+            "Hence the disciples were and ought to be called Christians, not by any human name.",
+            "A possible, but improbable, interpretation."
+        ],
+        "Archibald T. Robertson": [
+            "While \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2 represents \u03a1\u03b1\u03b2, \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03b5\u03c2 stands for the more honourable \u03a1\u03b1\u03b2\u03b2\u03b1\u03bd, -\u03b2\u03c9\u03bd\" (McNeile).",
+            "The use of these words here by Jesus like 'Jesus Christ' in his Prayer (John 17:3) is held by some to show that they were added by the evangelist to what Jesus actually said, since the Master would not have so described himself.",
+            "We must not empty the consciousness of Jesus too much."
+        ],
+        "John Gill": [
+            "It is their business to lead and direct souls to Christ, to guide their feet in the way of peace.",
+            "They are to guide them according to the word of God, and not their own dictates.",
+            "Direct men to a dependence on Christ, as head of the church, who is the one Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not seek or receive empty titles of leadership, for one is your true leader, even Christ. The word masters here emphasizes the honorable role of leaders and guides, distinguishing them from mere teachers. While some speculate whether these words were added by the evangelist, it is important not to diminish Jesus' consciousness and authority. The disciples of Jesus should not be divided by titles and authority but should recognize that they are all under the leadership of Christ. He is the head of the Church, guiding and directing souls to him, according to the word of God. Therefore, it is through Christ that we find true guidance and peace.",
+            "wordCount": 110,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6315683291150878,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                26.92,
+                30.97,
+                42.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not seek or receive empty titles of leadership, for one is your true leader, even Christ. The disciples of Jesus should not be divided by titles and authority but should recognize that they are all under the leadership of Christ. He is the head of the Church, guiding and directing souls to him, according to the word of God. Therefore, it is through Christ that we find true guidance and peace.",
+            "wordCount": 72,
+            "quoteTokenProportion": 54.9,
+            "qualityScore": 1.6117112826028583,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                21.66,
+                30.93,
+                47.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus tells his disciples not to seek or receive empty titles that imply authority or superiority over others. He emphasizes that they should not be called masters or leaders, for there is only one true leader, Christ himself. Jesus wants his followers to avoid creating distinctions among themselves and to acknowledge that they are all equal before Him. The disciples are to be guided and directed by Christ, following His word and not their own dictates. They are called to lead others to a dependence on Christ, who is the true head of the Church.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.8548528187501603,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                25.04,
+                34.15,
+                40.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructs his disciples not to seek or receive empty titles that imply superiority or authority over others. He tells them not to be called masters or leaders because there is only one true leader, Christ himself. Jesus wants his followers to recognize that they are all equal before Him and to avoid creating divisions among themselves. They are to be guided by Christ and lead others towards a dependence on Him as the true head of the Church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.8498579295384947,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                25.39,
+                33.17,
+                41.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not seek to be called leaders or masters, for there is only one true Leader - Christ. Jesus warns against the desire for meaningless titles and false displays of authority that create divisions among believers. Instead, we are called to recognize Christ as our sole leader and to avoid attributing undue honor to any human being. The responsibility of leaders within the Church is to guide and direct others towards Christ, adhering to His teachings and not their own opinions. Ultimately, we are called to be followers of Christ, not followers of human leaders.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.829075089507353,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                24.61,
+                36.13,
+                39.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:53:12",
+    "verseRef": "Matthew 25:32",
+    "bestBHT": {
+        "bht": "When the Son of Man returns in glory, all nations will gather before him, and he will separate them as a shepherd divides sheep from goats. The sheep, representing those who have displayed kindness and love, whether knowingly or unknowingly towards Christ, will be set apart from the goats, symbolizing those who have neglected or mistreated others. This powerful scene of separation reveals the divine insight and discernment of the Son of Man, emphasizing the significance of their treatment of Christ and their fellow human beings in the ultimate judgment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.944269283479735,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+        "commentatorTierSimilarities": [
+            34.28,
+            22.14,
+            43.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression all the nations implies all the nations of the world, as distinguished from the elect already gathered to Him.",
+            "Among these are 'the other sheep which He has, not of this fold.'",
+            "The sheep are those referred to in Rom. ii. 7, 10; the goats in ib. vv. 8, 9, where this same judgment according to works is spoken of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That this should be understood to mean the heathen nations, or all except believers in Christ, will seem amazing to any simple reader.\" ",
+            "But here we may just say, that if this scene does not describe a personal, public, final judgment on men, according to the treatment they have given to Christ\u2014and consequently men within the Christian pale\u2014we shall have to consider again whether our Lord's teaching on the greatest themes of human interest does indeed possess that incomparable simplicity and transparency of meaning which, by universal consent, has been ascribed to it.\" ",
+            "And he shall separate them\u2014now for the first time; the two classes having been mingled all along up to this awful moment."
+        ],
+        "Albert Barnes": [
+            "At his coming to judgment the world will be burned up, 2 Peter 3:10, 2 Peter 3:12; Revelation 20:11.",
+            "The dead in Christ...will be raised up from their graves, 1 Thessalonians 4:16.",
+            "Then shall the world be judged, the righteous saved, and the wicked punished."
+        ],
+        "Marvin Vincent": [
+            "Separate them [\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2]. Masculine, while the word nations is neuter. Nations are regarded as gathered collectively; but in contemplating the act of separation the Lord regards the individuals.",
+            "The bald division of men into sheep and goats is, in one sense, so easy as not to be worth performing; and in another sense it is so hard as only to be possible for something with supernatural insight.",
+            "Goats are an appropriate figure, because the goat was regarded as a comparatively worthless animal. Hence the point of the elder son's complaint in the parable of the Prodigal: Not so much as a kid (Luke 14:29). The diminutive [\u03b5\u03c1\u03b9\u03c6\u03b9\u03b1] expresses contempt."
+        ],
+        "John Calvin": [
+            "For they were satisfied with this single consideration, that their nation was delivered from the miseries with which it was then oppressed, so that it would be manifest that God had not in vain established his covenant with Abraham and his posterity.",
+            "Again, in order to persuade believers to holiness of life, he assures them that the good and the bad will not share alike; because he will bring with him the reward which is laid up for both.",
+            "The comparison appears to be borrowed from Ezekiel 34:18, where the Lord complains of the fierceness of the goats, which attack with their horns the poor sheep, and destroy the pastures, and pollute the water; and where the Lord expressly declares that he will take vengeance."
+        ],
+        "Philip Schaff": [
+            "Whether voluntarily or involuntarily is not stated; but all submit.",
+            "Christ is really the Shepherd of all mankind.",
+            "Together in the pasture, they are now divided."
+        ],
+        "Archibald T. Robertson": [
+            "This is a majestic picture with which to close the series of parables about readiness for the second coming. Here is the program when he does come.\" ",
+            "But the doubt is most wanton. Where is the second brain that could have invented anything so original and so sublime as vv. Matthew 25:35-40; Matthew 25:42-45?\" ",
+            "The shepherd stands at the gate and taps the sheep to go to the right and the goats to the left."
+        ],
+        "John Gill": [
+            "This collection of them before Christ, the righteous judge, will be made by the holy angels, who will come with him for this purpose...",
+            "But then the judge, who is of quick understanding, will easily discern the one from the other... he will as easily separate the one from the other, and more so, than any shepherd, among men, can part a flock consisting of sheep and goats.",
+            "Hypocrites in Zion shall now be no more, nor sinners stand any longer in the congregation of the righteous, nor both together as one body, and on one side in judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Son of Man comes in his glory, all the nations will be gathered before him and he will separate them like a shepherd separates sheep from goats. The sheep represent those who have shown kindness and love towards others, even unknowingly serving Christ himself. In contrast, the goats symbolize those who have neglected or mistreated others, ignoring Christ in the process. This scene depicts a final judgment on humanity, distinguishing the righteous from the wicked based on their treatment of Christ and their fellow human beings. Despite the simplicity of the division between sheep and goats, it is a monumental and supernatural act that only the Son of Man can perform. This powerful image of separation concludes a series of parables about readiness for Christ's second coming.",
+            "wordCount": 130,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.9693053338863957,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                35.99,
+                23.37,
+                40.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Son of Man comes in his glory, all the nations will be gathered before him and he will separate them like a shepherd separates sheep from goats. This scene portrays a final judgment, dividing the righteous and the wicked based on their treatment of Christ and others. The sheep symbolize those who have shown kindness and love, while the goats represent those who have neglected or mistreated others. This powerful and extraordinary act of separation is beyond human ability, revealing the divine insight and judgment of the Son of Man.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9067719332221735,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                33.99,
+                24.11,
+                41.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Son of Man comes, all the nations will be gathered before him for a final judgment. He will separate them as a shepherd divides the sheep from the goats. This separation is not limited to believers or non-believers, but encompasses all people in the world. The righteous, represented by the sheep, are those who have shown kindness and love to others, even unknowingly serving Christ himself. In contrast, the goats symbolize those who have neglected or mistreated others, failing to recognize Christ in their midst. The Son of Man's judgment is a profound and supernatural act of discernment that reveals his divine wisdom and authority.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.9225517019277583,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                33.13,
+                27.16,
+                39.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the final judgment, the Son of Man will gather all the nations and separate them as a shepherd divides sheep from goats. This separation includes people from all walks of life, believers and non-believers alike. The sheep represent those who have shown love and compassion to others, even unknowingly serving Christ himself. In contrast, the goats symbolize those who have neglected or mistreated others, failing to recognize Christ in their actions. This striking image emphasizes the profound and supernatural nature of the Son of Man's judgment, revealing his divine wisdom and insight.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8371775328641995,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                33.62,
+                24.79,
+                41.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the Son of Man returns in glory, all nations will gather before him, and he will separate them as a shepherd divides sheep from goats. The sheep, representing those who have displayed kindness and love, whether knowingly or unknowingly towards Christ, will be set apart from the goats, symbolizing those who have neglected or mistreated others. This powerful scene of separation reveals the divine insight and discernment of the Son of Man, emphasizing the significance of their treatment of Christ and their fellow human beings in the ultimate judgment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.944269283479735,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                34.28,
+                22.14,
+                43.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

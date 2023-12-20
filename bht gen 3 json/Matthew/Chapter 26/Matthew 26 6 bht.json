@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:13",
+    "verseRef": "Matthew 26:6",
+    "bestBHT": {
+        "bht": "Simon the leper, possibly already healed by Jesus, is mentioned as a guest at a dinner. While theories about his identity and the location of the house vary, it is clear that Simon held significance. The details of the anointing of Jesus differ among the Gospel accounts, but they do not contradict one another. This anointing event occurs as Jesus approaches Jerusalem, where he will soon suffer and die for sinners. It also demonstrates Jesus' power to heal and his willingness to dwell with those he heals. (75 words)",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.287414980253046,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.15,
+        "commentatorTierSimilarities": [
+            31.61,
+            33.47,
+            34.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Simon the leper... Not at this time a leper, or he could not be at his house receiving guests.",
+            "It is at least possible, that he may have been healed by our Lord.",
+            "He had been probably... absent with Jesus at Ephraim, and on this account, and naturally for other reasons, would be an object of interest, and one of the sitters at table."
+        ],
+        "John Calvin": [
+            "They did not venture to attack Christ by open violence, and to oppress him by stratagem was no easy matter; but now that Judas suggests to them a plan of which they had not thought, the very facility of execution leads them to adopt a different opinion.",
+            "As to its being said by John that his feet were anointed, while the other two Evangelists say that she anointed his head, this involves no contradiction.",
+            "Let us therefore hold it to be a settled point, that all the three Evangelists relate the same narrative."
+        ],
+        "Philip Schaff": [
+            "Probably already healed by Jesus, since otherwise he would have been unclean.",
+            "The two occurrences are clearly distinguished in many ways.",
+            "Both families may have occupied the same house; or Simon may have been the owner, and Lazarus his tenant."
+        ],
+        "Archibald T. Robertson": [
+            "All sorts of fantastic theories have arisen about it.",
+            "Some hold that it was Martha's house because she served and that Simon was either the father or husband of Martha, but Martha loved to serve and that proves nothing.",
+            "Some identify Mary of Bethany with the sinful woman in Matthew 26:7 and even with Mary Magdalene, both gratuitous and groundless propositions."
+        ],
+        "John Gill": [
+            "The time of Christ's death being at hand, he keeps nigh to Jerusalem, where he was to suffer and die, in the room and stead of sinners.",
+            "There were many lepers healed by Christ, which, among other things, was an evidence of his being the Messiah, and a proof of his deity.",
+            "Christ goes in and dwells with such whom he heals, and with such he is always welcome."
+        ],
+        "John Wesley": [
+            "Mark 14:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simon the leper, possibly already healed by Jesus, is mentioned in Matthew 26:6. The commentators speculate whether he may have been the owner of the house or related to Martha, but these theories are uncertain. Nonetheless, it is clear that Simon was an important person as he was a guest at the dinner. As for the anointing of Jesus, the Gospel accounts differ in certain details, such as whether it was his head or feet that were anointed, but this does not contradict their overall narrative. The anointing takes place as Jesus draws near to Jerusalem, where he will soon suffer and die for the salvation of sinners. This story also serves as evidence of Jesus' healing power and his willingness to dwell with those whom he heals. (51 words)",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.3649755009339728,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.73,
+            "commentatorTierSimilarities": [
+                33.81,
+                33.17,
+                33.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the account, Simon the leper, possibly healed by Jesus, is mentioned as a guest at a dinner. While theories about his identity and the location of the house vary, it is certain that Simon held significance. The details of the anointing of Jesus differ among the Gospel accounts, but they do not contradict one another. This anointing event occurs as Jesus approaches Jerusalem, where he will soon suffer and die for sinners. It also demonstrates Jesus' power to heal and his willingness to dwell with those he heals. (75 words)",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.2851619336382076,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.07,
+            "commentatorTierSimilarities": [
+                32.2,
+                32.95,
+                34.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon the leper, possibly one whom Jesus had already healed, was an important guest at the dinner. Speculations about his identity and the house's location exist but lack certainty. The accounts differ in the details of the anointing, but they do not contradict each other. This event occurs as Jesus approaches Jerusalem, where he will soon suffer and die for the salvation of sinners. It serves as evidence of Jesus' healing power and his willingness to dwell with those he heals. (78 words)",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.2471830311185381,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.81,
+            "commentatorTierSimilarities": [
+                31.53,
+                34.27,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the dinner, Simon the leper, possibly healed by Jesus, is an important guest. The identities of Simon and the location of the house remain uncertain. The accounts differ in the details of the anointing, but they do not contradict each other. As Jesus approaches Jerusalem for his imminent suffering and death, this event serves as evidence of his healing power and willingness to dwell with those he heals. (61 words)",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.2153043432360329,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.75,
+            "commentatorTierSimilarities": [
+                31.48,
+                36.62,
+                31.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon the leper, possibly already healed by Jesus, is mentioned as a guest at a dinner. While theories about his identity and the location of the house vary, it is clear that Simon held significance. The details of the anointing of Jesus differ among the Gospel accounts, but they do not contradict one another. This anointing event occurs as Jesus approaches Jerusalem, where he will soon suffer and die for sinners. It also demonstrates Jesus' power to heal and his willingness to dwell with those he heals. (75 words)",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.287414980253046,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.15,
+            "commentatorTierSimilarities": [
+                31.61,
+                33.47,
+                34.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

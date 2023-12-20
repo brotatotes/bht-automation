@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:45:00",
+    "verseRef": "Matthew 7:15",
+    "bestBHT": {
+        "bht": "Beware of false prophets who, even in Jesus' time, appeared in sheep's clothing but were inwardly ravening wolves. These deceptive individuals imitate the appearance of righteousness to deceive and exploit the flock. It is vital for believers to exercise caution and discernment, remaining vigilant against these imposters. Seek wisdom from the Lord to recognize their tricks and falsehoods. Though false prophets may continuously arise, God's promises will prevail, protecting His faithful followers from their destructive teachings.",
+        "wordCount": 78,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 2.014161496370863,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+        "commentatorTierSimilarities": [
+            28.98,
+            37.23,
+            33.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These false prophets, directly, refer to those who were soon to arise, to deceive, if possible, even the very elect.\" ",
+            "Indirectly, [they refer] to all such false teachers in all ages.",
+            "[They] put on the garb and manners of the sheep themselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beware\u2014But beware.",
+            "which come to you in sheep's clothing\u2014with a bland, gentle, plausible exterior.",
+            "but inwardly they are ravening wolves\u2014bent on devouring the flock for their own ends."
+        ],
+        "Albert Barnes": [
+            "A false prophet is a teacher of incorrect doctrine, or one falsely and unjustly laying claims to divine inspiration.",
+            "To come in sheep\u2019s clothing is to assume the appearance of sanctity and innocence, when the heart is evil.",
+            "Applied to the false teachers, it means that they assumed the appearance of holiness in order that they might the more readily get the property of the people."
+        ],
+        "John Calvin": [
+            "It is of the greatest consequence, undoubtedly, that we should suffer ourselves to be directed by good and faithful ministers of Christ: but as false teachers, on the other hand, make their appearance, if we do not carefully watch, and if we are not fortified by perseverance, we shall be easily carried off from the flock.",
+            "They ought rather to be aroused to keep watch: for it is not without reason that Christ enjoins them to be on their guard.",
+            "Now that we know that the Lord will not fail to perform his promises, whatever may be the attacks of Satan, let us go boldly to the Lord, asking from him the Spirit of wisdom, by whose influences he not only seals on our hearts the belief of his truth, but exposes the tricks and impositions of Satan, that we may not be deceived by them."
+        ],
+        "Philip Schaff": [
+            "Beware of false prophets, i.e.., teachers. Not only is the way straitened, but those who might leave the \u2018many\u2019 to find it are in danger from false teachers, such as would prevent them from finding it.",
+            "\u2018False prophets\u2019 are defined as those who do thus. They come \u2018to you,\u2019 to the professed disciples of Christ; more anxious to proselyte and pervert in the Church than to convert in the world, more meddlesome than missionary in their activity.",
+            "Inwardly, or from within, acting according to their impulses, they are ravening wolves. The old destructive malice remains."
+        ],
+        "Archibald T. Robertson": [
+            "Already false prophets were on hand when Jesus spoke on this occasion.",
+            "In outward appearance they look like sheep in the sheep's clothing which they wear, but within they are 'ravening wolves,' greedy for power, gain, self.",
+            "It is a tragedy that such men and women reappear through the ages and always find victims."
+        ],
+        "John Gill": [
+            "Beware of false prophets.... It may be queried, whether our Lord has not respect to the Scribes and Pharisees, who sat in Moses's chair, and taught, for doctrines, the commandments of men? and of whose doctrines he elsewhere bids men beware.\" ",
+            "They were repugnant to the word of God, and destructive to the souls of men; such as their doctrines of free will, justification by the works of the law, the traditions of the elders, c.\" ",
+            "When they were inwardly full of hypocrisy and iniquity, of rapine, oppression, and covetousness; and, under a pretence of religion, 'devoured widows' houses'."
+        ],
+        "John Wesley": [
+            "Beware of false prophets \u2014 Who in their preaching describe a broad way to heaven: it is their prophesying, their teaching the broad way, rather than their walking in it themselves, that is here chiefly spoken of.\" ",
+            "All those are false prophets, who teach any other way than that our Lord hath here marked out.",
+            "Wolves - Not feeding, but destroying souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of false prophets, for they come in sheep's clothing, appearing gentle and righteous on the outside but inwardly they are ravenous wolves, seeking to deceive and exploit. These false teachers have been present since Jesus' time and continue to emerge in every generation, preying on unsuspecting followers. They may claim to have divine inspiration or teach incorrect doctrine, disguising their true intentions with a fa\u00e7ade of holiness. It is crucial for believers to be vigilant and discerning, not easily swayed by these deceptive voices. Let us seek wisdom from the Lord to recognize and expose the tricks of Satan, relying on faithful ministers of Christ to guide us along the straight and narrow path.",
+            "wordCount": 116,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.0886883311807924,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                26.57,
+                38.77,
+                34.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of false prophets who come in sheep's clothing but are ravening wolves inwardly. They deceive and seek to exploit the flock, appearing sincere and holy on the outside. These imposters have been present throughout history, posing a threat to the unsuspecting. It is crucial for believers to be watchful and discerning, seeking guidance from faithful ministers. Let us rely on the Lord's wisdom to expose the tricks of Satan and remain on the straight and narrow path.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8755559165913631,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                30.24,
+                36.18,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of false prophets who, even in Jesus' time, appeared in sheep's clothing but were inwardly ravening wolves. These deceptive individuals imitate the appearance of righteousness to deceive and exploit the flock. It is vital for believers to exercise caution and discernment, remaining vigilant against these imposters. Seek wisdom from the Lord to recognize their tricks and falsehoods. Though false prophets may continuously arise, God's promises will prevail, protecting His faithful followers from their destructive teachings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.014161496370863,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                28.98,
+                37.23,
+                33.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of false prophets who come in sheep's clothing, outwardly appearing gentle and righteous, but inwardly they are ravening wolves, seeking to devour the flock for their own gain. These imposters don a guise of holiness in order to deceive and manipulate. They have always existed and continue to find victims throughout history. To protect ourselves, we must remain watchful and listen to the guidance of faithful ministers. Let us, with reliance on the Lord, ask for the Spirit of wisdom to expose their deceit and ensure we are not led astray.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8489454951201176,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                30.2,
+                36.97,
+                32.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of false prophets who come in sheep's clothing, outwardly appearing gentle and righteous, but inwardly they are greedy ravening wolves. These imposters seek to deceive and exploit the unsuspecting flock. Throughout history, they have emerged, finding victims with their misleading teachings. To safeguard ourselves, we must remain vigilant and heed the guidance of faithful ministers. Let us seek the Lord's wisdom to expose their deceitful tactics, ensuring we do not fall prey to their destructive influence.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9457614055614394,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.04,
+            "commentatorTierSimilarities": [
+                30.41,
+                36.26,
+                33.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

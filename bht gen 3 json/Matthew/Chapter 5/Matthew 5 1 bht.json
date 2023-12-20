@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:43:46",
+    "verseRef": "Matthew 5:1",
+    "bestBHT": {
+        "bht": "Jesus went up to the mountain, a central location that was suitable for addressing the multitude. Seated on the mount, Jesus called his disciples to him, as they formed the inner circle of those who sought to follow him. Like a rabbi, Jesus took on the position of the teacher, while his disciples sat attentively before him. The multitude, consisting of people from various regions, gathered around, creating an audience eager to learn from Jesus' teachings on a devout and holy life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.053130573138878,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+        "commentatorTierSimilarities": [
+            30.82,
+            31.84,
+            37.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The situation seems to modern travellers [see Stanley, Sinai and Palestine, p. 368] 'so strikingly to coincide with the intimations of the narrative, as almost to force the inference that in this instance the eye of those who selected the was for once rightly guided.'\" ",
+            "The platform at the top is evidently suitable for the collection of a multitude, and corresponds precisely to the 'level place' to which He would 'come down' as from one of its higher horns to address the people.\" ",
+            "Its situation is central both to the peasants of the Galilean hills, and the fishermen of the Galilean lake, between which it stands, and would therefore be a natural resort both to Jesus and His disciples when they retired for solitude from the shores of the sea, and also to the crowds who assembled 'from Galilee, from Decapolis, from Jerusalem, from Jud\u00e6a, and from beyond Jordan.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So charming is the whole landscape that the descriptions of it...are apt to be thought a little colored.\" ",
+            "When he was set\u2014had sat or seated Himself.",
+            "Though the latter only answered to the subjects of His kingdom, described in this discourse, there were drawn from time to time into this inner circle souls from the outer one, who, by the power of His matchless word, were constrained to forsake their all for the Lord Jesus."
+        ],
+        "Albert Barnes": [
+            "It is commonly called the 'Sermon on the Mount.'",
+            "He ascended the hill, doubtless, because it was more convenient to address the multitude from an eminence than if he were on the same level with them.",
+            "The Saviour could have sat there, however, in the midst of his hearers, for it affords a platform amply large enough for the accommodation of the hundreds who may have been present on that occasion."
+        ],
+        "Marvin Vincent": [
+            "The mountain itself cannot be identified.",
+            "Delitzsch calls the Mount of Beatitudes 'The Sinai of the New Testament.'",
+            "After the manner of the rabbis, he seated himself ere he began to teach."
+        ],
+        "John Calvin": [
+            "Those who think that Christ\u2019s sermon, which is here related, is different from the sermon contained in the sixth chapter of Luke\u2019s Gospel, rest their opinion on a very light and frivolous argument.",
+            "For the design of both Evangelists was, to collect into one place the leading points of the doctrine of Christ, which related to a devout and holy life.",
+            "Pious and modest readers ought to be satisfied with having a brief summary of the doctrine of Christ placed before their eyes, collected out of his many and various discourses, the first of which was that in which he spoke to his disciples about true happiness."
+        ],
+        "Philip Schaff": [
+            "He went up. Not to avoid them, but to gather from them a willing audience.",
+            "The usual posture of an Oriental teacher, and the natural one for familiar instruction.",
+            "His disciples came unto him. The Twelve had already been chosen... 'His disciples' may include all who came to be taught, as distinguished from the 'multitudes' who had come to see the miracles of healing."
+        ],
+        "Archibald T. Robertson": [
+            "Delitzsch calls the Mount of Beatitudes the Sinai of the New Testament\" (Vincent).",
+            "He apparently went up to get in closer contact with the disciples, 'seeing the multitudes'\" (Vincent).",
+            "There is no real difficulty in considering the Sermon on the Mount in Matthew and the Sermon on the Plain in Luke as one and the same\" (Vincent)."
+        ],
+        "John Gill": [
+            "The master sits at the head, or in the chief place, and the disciples before him in a circuit, like a crown; so that they all see the master, and hear his words.",
+            "From the days of Moses, to Rabban Gamaliel (the master of the Apostle Paul), they did not learn the law, unless standing; after Rabban Gamaliel died, sickness came into the world, and they learnt the law sitting.",
+            "The number of his disciples was larger than John's."
+        ],
+        "John Wesley": [
+            "And seeing the multitudes \u2014 At some distance, as they were coming to him from every quarter.\" ",
+            "He went up into the mountain \u2014 Which was near: where there was room for them all.",
+            "His disciples \u2014 not only his twelve disciples, but all who desired to learn of him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went up to the mountain, a central location between the Galilean hills and the Galilean lake, where he could gather a multitude on a level place. This setting, described as charming and resembling the narrative, seems to have been carefully selected. Seated on the mount, Jesus called his disciples to him, those who were drawn into the inner circle by the power of his words. Like a rabbi, he took the position of the teacher, while his disciples sat before him in a circle. The multitude, coming from various regions, gathered around, and Jesus began to teach. The Sermon on the Mount, and its parallel in Luke, are both accounts of Jesus summarizing his teachings on a devout and holy life, drawing together the main points of his doctrine for his disciples and all who desired to learn from him.",
+            "wordCount": 141,
+            "quoteTokenProportion": 39.33,
+            "qualityScore": 1.8928534649552322,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                33.58,
+                30.54,
+                35.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went up to the mountain, a central location between the Galilean hills and the Galilean lake, where he could gather a multitude on a level place. Seated on the mount, Jesus called his disciples to him, those who were drawn into the inner circle by the power of his words. Like a rabbi, he took the position of the teacher, while his disciples sat before him in a circle. The multitude, coming from various regions, gathered around, and Jesus began to teach. The Sermon on the Mount, and its parallel in Luke, are both accounts of Jesus summarizing his teachings on a devout and holy life, drawing together the main points of his doctrine for his disciples and all who desired to learn from him.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.006452941409072,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                33.06,
+                29.59,
+                37.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus went up to the mountain, a central location between the Galilean hills and the Galilean lake, where he could gather a multitude on a level place. Seated on the mount, Jesus called his disciples to him, those who were drawn into the inner circle by the power of his words. Like a rabbi, he took the position of the teacher, while his disciples sat before him in a circle. The multitude, coming from various regions, gathered around, and Jesus began to teach, summarizing his teachings on a devout and holy life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.021919789459157,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                33.64,
+                30.66,
+                35.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went up to the mountain, a central location between the Galilean hills and the Galilean lake, where he could gather a multitude on a level place. Seated on the mount, Jesus called his disciples to him, those who were drawn into the inner circle by the power of his words. Like a rabbi, he took the position of the teacher, while his disciples sat before him in a circle. The multitude, coming from various regions, gathered around, and Jesus began to teach, summarizing his teachings on a devout and holy life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.021919789459157,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                33.64,
+                30.66,
+                35.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus went up to the mountain, a central location that was suitable for addressing the multitude. Seated on the mount, Jesus called his disciples to him, as they formed the inner circle of those who sought to follow him. Like a rabbi, Jesus took on the position of the teacher, while his disciples sat attentively before him. The multitude, consisting of people from various regions, gathered around, creating an audience eager to learn from Jesus' teachings on a devout and holy life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.053130573138878,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                30.82,
+                31.84,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

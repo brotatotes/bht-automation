@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:46:22",
+    "verseRef": "Matthew 11:22",
+    "bestBHT": {
+        "bht": "Chorazin and Bethsaida, who witnessed mighty works yet did not repent, face a woe, while Tyre and Sidon will experience a more tolerable punishment on the day of judgment. The punishment of these city dwellers will be in proportion to their sins; the greater the sins, the more intolerable the condemnation and punishment. This reveals that not all sins are equal, and God's justice demands varying degrees of torment in hell.",
+        "wordCount": 72,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.5256309067966871,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+        "commentatorTierSimilarities": [
+            17.24,
+            22.7,
+            60.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22. But I say unto you, It shall be",
+            "\tmore tolerable for Tyre and Sidon at the day of judgment, than for",
+            "\tyou\u2014more endurable."
+        ],
+        "Marvin Vincent": [
+            "Chorazin and Bethsaida did not repent; therefore a woe lies against them.",
+            "Nevertheless they shall be more excusable than you.",
+            "You who have seen the mighty works which were not done among them."
+        ],
+        "Philip Schaff": [
+            "It shall be more tolerable, etc. An authoritative judgment as to the measure of human responsibility.",
+            "The final decision in the day of judgment would be His also."
+        ],
+        "John Gill": [
+            "Their punishment in another world will be more mild and moderate; they will not have such severe stings of conscience, nor have reason to make such bitter reflections on themselves.",
+            "All sins are not alike, nor will the punishment of them be the same; there will be degrees of torments in hell, and which the justice of God requires.",
+            "These words suppose, that the men of Tyre and Sidon will be punished for their many abominable sins, committed against the law and light of nature; but that the inhabitants of Chorazin and Bethsaida... as their sins are aggravated, their condemnation will be the greater, and their punishment the more intolerable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Chorazin and Bethsaida, despite witnessing the mighty works done in their midst, did not repent and thus incurred a woe upon themselves. However, Jesus declares that on the day of judgment, it will be more tolerable for Tyre and Sidon than for them. The punishment for the latter cities will be more severe due to the aggravation of their sins, while the former will receive a more moderate and mild punishment. This highlights the fact that not all sins are alike, and that there will be degrees of torments in hell, as the justice of God requires.",
+            "wordCount": 97,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.4200443034456018,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.56,
+            "commentatorTierSimilarities": [
+                20.85,
+                21.54,
+                57.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Chorazin and Bethsaida, who witnessed mighty works yet did not repent, face a woe, while Tyre and Sidon will experience a more tolerable punishment on the day of judgment. The punishment of these city dwellers will be in proportion to their sins; the greater the sins, the more intolerable the condemnation and punishment. This reveals that not all sins are equal, and God's justice demands varying degrees of torment in hell.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.5256309067966871,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                17.24,
+                22.7,
+                60.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite witnessing mighty works, Chorazin and Bethsaida did not repent, incurring a woe upon themselves, while the punishment for Tyre and Sidon will be more tolerable in the day of judgment. The severity of the punishment will correspond to the gravity of their sins, highlighting the justice of God. This suggests that not all sins are equal, and different levels of torment in hell will be appropriate according to the extent of one's transgressions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5152244255479115,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                17.94,
+                26.55,
+                55.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Chorazin and Bethsaida will face a more intolerable punishment on the day of judgment for their failure to repent despite witnessing mighty works. In contrast, Tyre and Sidon will incur a more tolerable punishment. The varying degrees of torment reflect the justice of God, as not all sins are alike. The severity of the punishment corresponds to the gravity of the sins committed, emphasizing the need for accountability and the consequences that await those who reject repentance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.429962659136377,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                17.25,
+                27.88,
+                54.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Chorazin and Bethsaida will face a more intolerable punishment in the day of judgment for not repenting, despite witnessing mighty works. However, Tyre and Sidon will encounter a more tolerable punishment. This serves as a reminder that not all sins are equal and that the justice of God demands varying degrees of torment in hell. The severity of the punishment corresponds to the gravity of the sins committed, emphasizing the need for accountability and the consequences that await those who reject repentance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4325277759469108,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                17.69,
+                27.03,
+                55.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

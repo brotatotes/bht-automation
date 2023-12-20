@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:46:15",
+    "verseRef": "Matthew 10:41",
+    "bestBHT": {
+        "bht": "Those who receive a prophet or a righteous person for the love of Christ will be blessed with a reward that matches the rank and character of the person received. This reward is not just earthly, but carries spiritual benefits and an everlasting reward. Even those who are not prophets or righteous themselves can find encouragement in the fact that acts of kindness towards these individuals will not go unnoticed by Christ. Even offering a simple cup of cold water will be rewarded.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.0966332990908345,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+        "commentatorTierSimilarities": [
+            30.95,
+            33.29,
+            35.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "a prophet\u2019s reward] either, such a reward as a prophet or a righteous man would receive for the like service,\u2014or, such a reward as a prophet or a righteous man shall receive as such.\" ",
+            "in the name of] i.e. because he is: i.e. \u2018for the love of Christ, whose prophet he is.'\" ",
+            "He who by receiving (see above) a prophet because he is a prophet, or a holy man because he is a holy man, recognizes, enters into, these states as appointed by Me, shall receive the blessedness of these states, shall derive all the spiritual benefits which these states bring with them, and share their everlasting reward."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that receiveth a prophet...shall receive a prophet's reward.",
+            "What an encouragement to those who are not prophets!",
+            "He that receiveth a righteous man in the name of a righteous man...shall receive a righteous man's reward."
+        ],
+        "John Calvin": [
+            "To receive a person in the name of a prophet, or in the name of a righteous man, means to do them good for the sake of honoring their doctrine, or of paying respect to piety.",
+            "I consider it simply as denoting the reward which corresponds to the rank of the person to whom kindness has been exercised; for Christ means that this will be a remarkable proof of the high estimation in which he holds his prophets, and indeed all his disciples.",
+            "By way of amplification, he promises a reward to the very meanest offices of kindness, such as giving them a cup of cold water."
+        ],
+        "Philip Schaff": [
+            "In the name of a prophet, i.e., \u2018because he is a prophet,\u2019 the original implying an inward impulse of love toward the object.",
+            "The prophet may be unworthy, but the love and the regard arise from the relation to Christ implied in his office.",
+            "Shall receive a prophet\u2019s reward\u00a0\u2013 a righteous man\u2019s reward. The reward they receive (not the reward they can give) on the principle of identification through love."
+        ],
+        "Archibald T. Robertson": [
+            "He that receiveth a prophet from no ulterior motive, but simply qua prophet would receive a reward in the coming age equal to that of his guest.",
+            "Just 'learners,' 'in the name of a disciple.'",
+            "Alford thinks that some children were present."
+        ],
+        "John Gill": [
+            "He that receiveth a prophet in the name of a prophet...shall receive a prophet's reward.",
+            "He that receiveth a righteous man in the name of a righteous man...shall receive a righteous man's reward.",
+            "A reward of grace, and not of debt; since both, in their way, serve the Lord Christ."
+        ],
+        "John Wesley": [
+            "He that entertaineth a prophet \u2014 That is, a preacher of the Gospel: In the name of a prophet - That is, because he is such, shall share in his reward."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who receive a prophet or a righteous person because of their office or righteousness will receive a reward that corresponds to the rank and character of the person being received. This reward is not merely temporal, but carries with it spiritual benefits and an everlasting reward. It is a blessedness that comes from recognizing and entering into these states as appointed by Christ. This serves as an encouragement to all who are not prophets or righteous themselves, showing that even acts of kindness towards those in these positions will not go unnoticed by Christ. Even the smallest acts of kindness, like offering a cup of cold water, will be rewarded.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.002823031320065,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                29.98,
+                33.21,
+                36.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who receive a prophet or a righteous person because of their office or righteousness will receive a reward corresponding to the rank and character of the person received. This reward is not merely temporal, but carries spiritual benefits and an everlasting reward. It is a blessedness that comes from recognizing and entering into these states as appointed by Christ. This is an encouragement to all, showing that even acts of kindness towards those in these positions will be rewarded, even the smallest acts like offering a cup of cold water.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.935499920382711,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                29.87,
+                33.0,
+                37.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who receive a prophet or a righteous person for the love of Christ will be blessed with a reward that matches the rank and character of the person received. This reward is not just earthly, but carries spiritual benefits and an everlasting reward. Even those who are not prophets or righteous themselves can find encouragement in the fact that acts of kindness towards these individuals will not go unnoticed by Christ. Even offering a simple cup of cold water will be rewarded.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0966332990908345,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                30.95,
+                33.29,
+                35.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who receive a prophet or a righteous person because of their office or righteousness will receive a reward that corresponds to the rank and character of the person received. This reward is not merely temporal, but carries spiritual benefits and an everlasting reward. It is a blessedness that comes from recognizing and entering into these states as appointed by Christ. This serves as an encouragement to all who are not prophets or righteous themselves, showing that even acts of kindness towards those in these positions will not go unnoticed by Christ. Even the smallest acts of kindness, like offering a cup of cold water, will be rewarded.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.00237131266296,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                30.12,
+                33.06,
+                36.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who receive a prophet or a righteous person because of their office or righteousness will receive a reward that corresponds to the rank and character of the person received. This reward is not merely temporal, but carries spiritual benefits and an everlasting reward. It is a blessedness that comes from recognizing and entering into these states as appointed by Christ. Acts of kindness towards prophets and righteous people, even the smallest gestures like offering a cup of cold water, will not go unnoticed and will be rewarded.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.076786746032768,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                29.98,
+                33.41,
+                36.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

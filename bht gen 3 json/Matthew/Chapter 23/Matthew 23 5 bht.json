@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:52:10",
+    "verseRef": "Matthew 23:5",
+    "bestBHT": {
+        "bht": "The scribes and Pharisees were driven by the desire for human applause, as evidenced by their showy displays of religiosity. They enlarged their phylacteries, strips of parchment with Scripture-texts worn during prayer, and made their garment borders wider. However, Jesus ridiculed their excessive concern for externalism and literalism, emphasizing the futility of their pretentious practices. These outward badges of religious fervor became dangerous when regarded as charms. Ultimately, their self-righteousness and ostentatious piety led to Jesus' crucifixion, exposing the emptiness of their rituals.",
+        "wordCount": 85,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 2.076765119016742,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+        "commentatorTierSimilarities": [
+            31.52,
+            35.96,
+            32.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But whatever they do perform, has but one motive.",
+            "Their use appears to have arisen from a superstitious interpretation.",
+            "The hems or fringes, were commanded to be worn for a memorial."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whatever good they do, or zeal they show, has but one motive\u2014human applause.\" ",
+            "They make broad their phylacteries\u2014strips of parchment with Scripture-texts on them, worn on the forehead, arm, and side, in time of prayer.\" ",
+            "And enlarge the borders of their garments\u2014fringes of their upper garments."
+        ],
+        "Albert Barnes": [
+            "Phylacteries were worn as amulets or charms, and were supposed to defend or preserve those who wore them from evil.",
+            "The Pharisees enlarged them, or made them wider than other people, either that they might make the letters larger or write more on them, to show, as they supposed, that they had special reverence for the law.",
+            "The Pharisees made them broader than other people wore them, to show that they had special respect for the law."
+        ],
+        "Marvin Vincent": [
+            "The scribes and Pharisees deport themselves with a view to being contemplated as actors in a theatre; so that men may fix their gaze upon them admiringly.",
+            "The phylacteries, called by the Rabbis tephillin, prayer-fillets, were worn on the left arm, toward the heart, and on the forehead. They were capsules containing on parchment these four passages of Scripture.",
+            "The black leather straps by which they were fastened were wound seven times round the arm and three times round the hand. They were reverenced by the Rabbis as highly as the scriptures, and, like them, might be rescued from the flames on a Sabbath."
+        ],
+        "John Calvin": [
+            "Thus not only is the ambition of the scribes and Pharisees reproved, but our Lord, after having condemned the transgression and contempt of the Law of God in their whole life, that they might not shield themselves by their pretended holiness, anticipates them by replying, that those things of which they boast are absolute trifles, and of no value whatever, because they spring from mere ostentation.",
+            "For it was impossible to treat the Law of God with greater contempt, than when they imagined that they kept it by pompous dress, or pronounced masks contrived for enacting a play to be a keeping of the Law.",
+            "Their example has been followed by the Popish priests, among whom robes are manifestly nothing more than the badges of proud tyranny."
+        ],
+        "Philip Schaff": [
+            "Self-righteousness rests on pride, and, inevitably becoming exhibitional, betrays its origin.",
+            "Similar external badges of professed religious feeling have been used in all ages, from the same motives and with the same tendency.",
+            "The Pharisees, however significant their ritualism, murdered Him to whom it pointed."
+        ],
+        "Archibald T. Robertson": [
+            "It is small wonder that Jesus ridiculed such minute concern for pretentious externalism and literalism.",
+            "The size of the phylacteries indexed the measure of zeal, and the wearing of large ones was apt to take the place of obedience.",
+            "Such things were useful as reminders; they were fatal when they were regarded as charms."
+        ],
+        "John Gill": [
+            "All their prayers, alms deeds, and fastings, were all done in a public manner, that men might behold them, and they might have applause and glory from them.",
+            "They neither attended to moral duties, nor ceremonious rites, nor the traditions of their fathers, any further than they could be seen by men in them, and keep up their credit and esteem among them.",
+            "The Pharisees, because they would be thought to be more holy and religious, and more observant of the law than others, wore these things broader than the rest of the people."
+        ],
+        "John Wesley": [
+            "These they supposed, as a kind of charm, would preserve them from danger. And hence they seem to have been called phylacteries, or preservatives.",
+            "The Jewish rabbis were also called father and master, by their several disciples, whom they required, 1. To believe implicitly what they affirmed, without asking any farther reason; 2. To obey implicitly what they enjoined, without seeking farther authority.",
+            "Our Lord, therefore, by forbidding us either to give or receive the title of rabbi, master, or father, forbids us either to receive any such reverence, or to pay any such to any but God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scribes and Pharisees in Matthew 23:5 were known for their outward displays of religiosity, but their actions were driven by a desire for human applause rather than a genuine devotion to God. They would make broad their phylacteries, which were strips of parchment with Scripture-texts worn on the forehead, arm, and side during prayer, as well as enlarge the borders of their garments to attract attention. These actions served as a means for them to be admired and contemplated in a theatrical manner. However, Jesus ridiculed their excessive concern for externalism and literalism, emphasizing that their minute focus on such pretentious practices was futile. The phylacteries, while useful reminders, became dangerous when regarded as charms or objects of reverence. The Pharisees' self-righteousness stemmed from pride and self-display, revealing that their external badges of religious fervor were rooted in arrogance. Ultimately, their ritualism and outward displays of piety led to the crucifixion of Jesus, exposing the hollowness of their practices.",
+            "wordCount": 162,
+            "quoteTokenProportion": 32.11,
+            "qualityScore": 2.020214814148124,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                30.96,
+                34.9,
+                34.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scribes and Pharisees in this passage sought acclaim and admiration for their religious actions, making their phylacteries and garment fringes more ostentatious. Jesus criticized their focus on external displays, as their motivation was human praise, not sincere devotion to God. These outward religious practices were intended to be reminders, but when treated as charms or sources of reverence, they became futile and dangerous. Ultimately, their self-righteousness led to the crucifixion of Jesus, exposing the emptiness of their rituals and pretentious piety.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.0990749748068858,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                27.55,
+                35.48,
+                36.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scribes and Pharisees showcased their religious fervor through elaborate displays, such as enlarging their phylacteries and borders of their garments. Yet, these actions were driven by a desire for human applause rather than genuine devotion to God. Although the phylacteries and fringes held symbolic significance, they were reduced to mere ostentation when treated as charms or objects of reverence. Jesus denounced their obsession with externalism, revealing the empty nature of their rituals and the danger of self-righteousness. Their outward displays ultimately led to Jesus' crucifixion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0353579316540076,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+            "commentatorTierSimilarities": [
+                29.39,
+                36.65,
+                33.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scribes and Pharisees sought human applause by making their phylacteries and border of garments more extravagant, rather than genuinely practicing their faith. These superficial showcases were done for admiration and appeared as actors on a theater stage. However, Jesus derided their focus on externalism and literalism, highlighting the insignificance and danger of such pretentious practices. The phylacteries, while meant as reminders, became worthless when regarded as charms. Ultimately, their self-righteousness and outward piety led to the crucifixion of Jesus, exposing the hollowness of their rituals.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9279968154824907,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                30.74,
+                35.1,
+                34.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scribes and Pharisees were driven by the desire for human applause, as evidenced by their showy displays of religiosity. They enlarged their phylacteries, strips of parchment with Scripture-texts worn during prayer, and made their garment borders wider. However, Jesus ridiculed their excessive concern for externalism and literalism, emphasizing the futility of their pretentious practices. These outward badges of religious fervor became dangerous when regarded as charms. Ultimately, their self-righteousness and ostentatious piety led to Jesus' crucifixion, exposing the emptiness of their rituals.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.076765119016742,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                31.52,
+                35.96,
+                32.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

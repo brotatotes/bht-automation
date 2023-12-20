@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:49:21",
+    "verseRef": "Matthew 16:23",
+    "bestBHT": {
+        "bht": "Peter, once the foundation stone of the church, is called Satan by Jesus. Jesus recognizes Peter's carnality, comparing his words to the temptation from the devil. Peter had become a stumbling block in Jesus' path to the cross, conflicting with God's plan. Jesus swiftly dismisses Peter, urging him to get behind him, emphasizing that his thoughts were not from God, but from man. Peter's well-meaning intentions had turned into a tool of temptation, highlighting the need to submit to God's will.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.0090613903960888,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+        "commentatorTierSimilarities": [
+            36.55,
+            34.85,
+            28.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As it was Peter\u2019s spiritual discernment, given from above, which made him a foundation-stone of the Church, so is it his carnality, proceeding from want of unity with the divine will, which makes him an adversary now."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Get thee behind me, Satan\u2014the same words as He had addressed to the Tempter; for He felt in it a satanic lure, a whisper from hell, to move Him from His purpose to suffer. So He shook off the Serpent, then coiling around Him, and 'felt no harm.' How quickly has the 'rock' turned to a devil!",
+            "Thou art an offence\u2014a stumbling-block. Unto me\u2014'Thou playest the Tempter, casting a stumbling-block in My way to the Cross. Could it succeed, where wert thou? and how should the Serpent's head be bruised?'",
+            "for thou savourest not\u2014thou thinkest not. The things that be of God, but those that be of men\u2014'Thou art carried away by human views of the way of setting up Messiah's kingdom, quite contrary to those of God.'"
+        ],
+        "Marvin Vincent": [
+            "Turned [\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03b9\u03c2] . Not toward Peter, but away from him.",
+            "Thou art not, as before, a noble block, lying in its right position as a massive foundation - stone. On the contrary, thou art like a stone quite out of its proper place, and lying right across the road in which I must go - lying as a stone of stumbling.",
+            "Thy thoughts and intents are not of God, but of men."
+        ],
+        "John Calvin": [
+            "Get thee behind me, Satan...Christ therefore throws his disciple to a distance from him, because, in his inconsiderate zeal, he acted the part of Satan.\" ",
+            "Thou art an offense to me; for thou relishest not those things which are of God, but those which are of men...Let us learn not to be too much attached to our own views, but submissively to embrace whatever the Lord approves.\" ",
+            "If we do not, of our own accord, resolve to shut ourselves out from the way of salvation by deadly obstacles, let us not desire to be wise in any other manner than from the mouth of God."
+        ],
+        "Philip Schaff": [
+            "Get thee behind me, \u2018avaunt,\u2019 \u2018begone.\u2019 Comp. chap. Matthew 4:10, where the same words are addressed to Satan himself.",
+            "Thou art a stumbling-block unto me, or \u2018stone of stumbling.\u2019 Perhaps a further allusion to Peter\u2019s name.",
+            "Thou mindest not the things of God, i.e., as represented by Christ, not regarding God\u2019s purpose in the foretold death."
+        ],
+        "Archibald T. Robertson": [
+            "None are more formidable instruments of temptation than well-meaning friends, who care more for our comfort than for our character\" (Bruce).",
+            "In Peter the banished Satan had once more returned\" (Plummer).",
+            "Thou art not, as before, a noble block, lying in its right position as a massive foundation stone. On the contrary, thou art like a stone quite out of its proper place, and lying right across the road in which I must go--lying as a stone of stumbling\" (Morison)."
+        ],
+        "John Gill": [
+            "But he turned....and said unto Peter, get thee behind me, Satan.",
+            "Thou art an offence unto me.",
+            "For thou savourest not the things that be of God, but those that be of men."
+        ],
+        "John Wesley": [
+            "Get thee behind me \u2014 Out of my sight. It is not improbable, Peter might step before him, to stop him.",
+            "Thou art acting the very part of Satan, both by endeavouring to hinder the redemption of mankind, and by giving me the most deadly advice that can ever spring from the pit of hell.",
+            "The proper answer to such an adviser is, Get thee behind me: That otherwise he will be an offence to us, an occasion of our stumbling, if not falling: That this advice always proceeds from the not relishing the things of God, but the things of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Peter, who was once the foundation stone of the church, is now rebuked by Jesus and called Satan. Jesus recognizes Peter's carnality and lack of unity with the divine will, comparing his words to the temptation from the devil. Peter had become a stumbling block in Jesus' path to the cross, with his human perspective conflicting with God's plan. Jesus swiftly dismisses Peter, urging him to get behind him, emphasizing that his thoughts were not from God, but from man. Peter's well-meaning intentions had turned into a tool of temptation, highlighting the need for us to submit to God's will rather than prioritizing comfort or personal views.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.027690384334278,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                37.53,
+                33.93,
+                28.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, once the foundation stone of the church, is called Satan by Jesus in this passage. Jesus recognizes Peter's carnality, comparing his words to the temptation from the devil. Peter had become a stumbling block in Jesus' path to the cross, with his human perspective conflicting with God's plan. Jesus swiftly dismisses Peter, urging him to get behind him, emphasizing that his thoughts were not from God, but from man. Peter's well-meaning intentions had turned into a tool of temptation, highlighting the need to submit to God's will.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.023138960851068,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                36.34,
+                34.71,
+                28.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, once the foundation stone of the church, is called Satan by Jesus. Jesus recognizes Peter's carnality, comparing his words to the temptation from the devil. Peter had become a stumbling block in Jesus' path to the cross, conflicting with God's plan. Jesus swiftly dismisses Peter, urging him to get behind him, emphasizing that his thoughts were not from God, but from man. Peter's well-meaning intentions had turned into a tool of temptation, highlighting the need to submit to God's will.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0090613903960888,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                36.55,
+                34.85,
+                28.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus rebukes Peter, once the foundation stone of the church, calling him Satan. Peter's carnality and lack of unity with God's will made him an adversary. His well-meaning intentions had turned him into a stumbling block and a tool of temptation. Jesus swiftly dismissed Peter, reminding him that his thoughts were not from God but from man. This incident highlights the importance of submitting to God's will and not prioritizing personal views over divine purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.8668267454668934,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                37.9,
+                33.53,
+                28.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus rebukes Peter, who was once the foundation stone of the church, calling him Satan. Peter's carnality and lack of unity with the divine will made him an adversary. Jesus quickly dismisses Peter as a stumbling block, urging him to get behind him. The rebuke is a reminder that Peter's thoughts were not from God, but from man. This incident emphasizes the need to submit to God's will rather than prioritizing personal views.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.9790828653145183,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                37.69,
+                34.43,
+                27.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:42:08",
+    "verseRef": "Matthew 1:9",
+    "bestBHT": {
+        "bht": "Ahaz, the father of Hezekiah, was a religious king who pleased God and was given an additional fifteen years to his life. His lineage is important because it connects to the prophecy of the Messiah from Isaiah 7:14. (29 words)",
+        "wordCount": 38,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.6661464431608306,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And Achaz begat Ezekias, or Hezekiah, 2 Kings 16:20 him Ahaz begat of Abi, the daughter of Zachariah.\" (41 words)",
+            "He was a very religious king, and had that singular favour from God to have fifteen years added to his days.\" (25 words)",
+            "the famous prophecy of the Messiah, Isaiah 7:14.\" (13 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ahaz, the father of Hezekiah, was a religious king who pleased God and was given an additional fifteen years to his life. His lineage is important because it connects to the prophecy of the Messiah from Isaiah 7:14. (29 words)",
+            "wordCount": 38,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6661464431608306,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ahaz, the father of Hezekiah, was a very religious king who had the singular favor from God of fifteen years added to his days. This lineage is significant as it connects to the well-known prophecy of the Messiah found in Isaiah 7:14. (37 words)",
+            "wordCount": 43,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6033044502584375,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ahaz, the father of Hezekiah, was a very religious king who had the singular favor from God of fifteen years added to his days. This lineage is significant as it connects to the well-known prophecy of the Messiah found in Isaiah 7:14. (37 words)",
+            "wordCount": 43,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6033044502584375,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ahaz begot Hezekiah, a highly devout king who received a unique blessing from God of fifteen additional years to his life. This connection to the lineage of Hezekiah is significant because it aligns with the renowned prophecy of the Messiah recorded in Isaiah 7:14. (47 words)",
+            "wordCount": 44,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.5045329998989716,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Ahaz, the father of Hezekiah, was a very religious king who had the singular favor from God of fifteen years added to his days. This lineage is significant as it connects to the well-known prophecy of the Messiah found in Isaiah 7:14. (37 words)",
+            "wordCount": 43,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6033044502584375,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

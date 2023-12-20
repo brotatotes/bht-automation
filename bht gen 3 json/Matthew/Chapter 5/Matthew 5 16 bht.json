@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:43:50",
+    "verseRef": "Matthew 5:16",
+    "bestBHT": {
+        "bht": "Let your light shine before others, not to glorify yourself, but to glorify your Father in heaven. The purpose of your light is not to call attention to yourself, but to be a beacon for others to see and glorify your Heavenly Father. When people witness your good works, they may be moved to love and serve God as well. Show the world the redeeming and transforming power of God through your life as a disciple of Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 48.98,
+        "qualityScore": 2.4305443558859965,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.16,
+        "commentatorTierSimilarities": [
+            36.74,
+            29.54,
+            33.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sense of this verse is as if it were 'that, seeing your good works they may&c.'... the latter verb, and not the former, carrying the purpose of the action.",
+            "The whole of this division of our Lord\u2019s sermon is addressed to all His followers, not exclusively to the ministers of his word.",
+            "But \u00e0 fortiori does it apply in its highest sense, to those who are, among Christians, selected to teach and be examples; who are as it were the towers and pinnacles of the city, not only not hid, but seen far and wide above the rest."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" ",
+            "Christians, being the light of the world, instead of hiding their light, are so to hold it forth before men that they may see what a life the disciples of Christ lead\" ",
+            "Seeing this, [others] may glorify their Father for so redeeming, transforming, and ennobling earth's sinful children, and opening to themselves the way to like redemption and transformation."
+        ],
+        "Albert Barnes": [
+            "Always, in all societies, in all business, at home and abroad, in prosperity and adversity, let it be seen that you are real Christians.",
+            "The proper motive to influence us is not simply that we may be seen, but it should be that our heavenly Father may be glorified.",
+            "No sincere and humble Christian lives in vain. The feeblest light at midnight is of use."
+        ],
+        "Marvin Vincent": [
+            "So shine your light before men.",
+            "Standing at the beginning of the sentence, it points back to the illustration just used.",
+            "Let your light shine in such a way that men may see."
+        ],
+        "John Calvin": [
+            "Let your light shine before men...to excite all to glorify God.\" ",
+            "The command...to seek concealment...is intended only to forbid ostentation.",
+            "We cannot, without offering an open and gross insult to God, extol free will, as if good works proceeded wholly, or in part, from its power."
+        ],
+        "Philip Schaff": [
+            "Not professions or teachings, but what men, with all their prejudices against Christ\u2019s people, are forced to acknowledge as real excellences.",
+            "The exhortation humbles in order to exalt: all good works, light-giving, purifying and preserving influences, come from God, to whom the glory belongs.",
+            "The statement of our world to our 'Father,' from whom our blessings come, shows us that in the world we may cause position in the world, while leading us above the Him to be glorified."
+        ],
+        "Archibald T. Robertson": [
+            "Thus men are to let their light shine, not to glorify themselves, but 'your Father in heaven.'",
+            "Light shines to see others by, not to call attention to itself.",
+            "Not to glorify themselves, but 'your Father in heaven.'"
+        ],
+        "John Gill": [
+            "The light of the Gospel...were to be openly declared...before men.",
+            "Hold forth, in the most open and conspicuous manner, the word of light and life.",
+            "When the ministration of the Gospel has been blessed...they may give praise to God, and bless his name for qualifying and sending such Gospel ministers."
+        ],
+        "John Wesley": [
+            "That they may see \u2014 and glorify - That is, that seeing your good works, they may be moved to love and serve God likewise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your light shine before others, not to glorify yourself, but to glorify your Father in heaven. Show the world the life of a disciple of Christ and let others see the redeeming and transforming power of God. When people witness your good works, they may be moved to love and serve God as well. Remember, the purpose of your light is not to call attention to yourself, but to be a beacon for others to see and glorify your Heavenly Father. So stand out among the crowd and let your light shine brightly, reflecting the goodness and grace of God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.367769886350886,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.07,
+            "commentatorTierSimilarities": [
+                37.26,
+                28.14,
+                34.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your light shine before others, not to glorify yourself, but to glorify your Father in heaven. The purpose of your light is not to call attention to yourself, but to be a beacon for others to see and glorify your Heavenly Father. When people witness your good works, they may be moved to love and serve God as well. Show the world the redeeming and transforming power of God through your life as a disciple of Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 2.4305443558859965,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.16,
+            "commentatorTierSimilarities": [
+                36.74,
+                29.54,
+                33.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your light shine before others, not to glorify yourself, but to glorify your Father in heaven. Show the world the life of a disciple of Christ and let others see the redeeming and transforming power of God. When people witness your good works, they may be moved to love and serve God as well. The purpose of your light is not to call attention to yourself, but to be a beacon for others to see and glorify your Heavenly Father. So stand out among the crowd and let your light shine brightly.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.347442147855295,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.39,
+            "commentatorTierSimilarities": [
+                38.43,
+                27.31,
+                34.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your light shine, showing the world the life of a disciple of Christ. Others may see your good works and be moved to love and serve God as well. Remember not to seek attention for yourself, but rather to glorify your Father in Heaven. Be a beacon, reflecting the redeeming and transforming power of God, causing others to give praise and bless His name. So let your light shine brightly, illuminating the way for others to find God's love and grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2738264621157445,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                35.77,
+                27.1,
+                37.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your light shine, showing the world the life of a disciple of Christ. Others may see your good works and be moved to love and serve God as well. Remember not to seek attention for yourself, but rather to glorify your Father in Heaven. Be a beacon, reflecting the redeeming and transforming power of God, causing others to give praise and bless His name. So let your light shine brightly, illuminating the way for others to find God's love and grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2738264621157445,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                35.77,
+                27.1,
+                37.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

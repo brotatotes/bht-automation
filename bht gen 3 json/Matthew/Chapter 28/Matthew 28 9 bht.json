@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:54:58",
+    "verseRef": "Matthew 28:9",
+    "bestBHT": {
+        "bht": "As the women met Jesus after his resurrection, they held onto his feet in fear and supplication, rejoicing at having found the one they loved. Jesus greeted them with a significant Hail, demonstrating the joy of his resurrection. They worshiped him, falling at his feet in reverence, recognizing him as the risen Messiah. This encounter allowed them to confirm the truth of his resurrection and share their firsthand witness with the disciples, increasing their understanding and bringing them great joy.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.226527953462111,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+        "commentatorTierSimilarities": [
+            24.74,
+            40.81,
+            34.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Neither St. Mark nor St. Luke recounts, or seems to have been aware of, this appearance.",
+            "St. Mark's account is evidently broken off suddenly; and St. Luke's appears to have been derived from one of those who went to Emmaus, who had evidently but an imperfect knowledge of what happened before they left the city.",
+            "They held him by the feet, partly in fear and as suppliants, for the Lord says, 'fear not,'\u2014but showing also the joy with which that fear was mixed\u2014joy at having recovered Him whom they loved."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All hail!\u2014the usual salute, but from the lips of Jesus bearing a higher signification.",
+            "How truly womanly!"
+        ],
+        "Albert Barnes": [
+            "Hail, rejoice; a term of salutation connected with the idea of joy at his resurrection, and at meeting them again.",
+            "This does not mean that they took hold of his feet, but only that they cast themselves down before him.",
+            "The word 'worship' seems to denote the homage due to the Messiah risen from the dead; regarded by them now in a proper light, and entitled to the honor which was due to God."
+        ],
+        "Marvin Vincent": [
+            "All hail [\u03c7\u03b1\u03b9\u03c1\u03b5\u03c4\u03b5] . The ordinary Greek form of salutation."
+        ],
+        "John Calvin": [
+            "The Lord, perceiving that Mary was too eager to embrace and kiss his fleet, orders her to retire; because it was proper to correct the superstition, and to point out the design of his resurrection.",
+            "Mary was withheld from perceiving [the design of his resurrection], partly by an earthly and carnal affection, and partly by foolish zeal.",
+            "At first the Lord permitted her to touch his feet, that nothing might be wanting to give her a full conviction."
+        ],
+        "Philip Schaff": [
+            "Behold, Jesus met them. This (the second) appearance is mentioned by Matthew only.",
+            "Took hold of his feet. In mingled fear and joy.",
+            "And worshipped him. Before the resurrection, \u2018worship\u2019 had been rendered to Jesus by strangers, not by the disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus met them... Came suddenly face to face with them as they brooded over the message of the angel and the fact of the empty tomb.\" ",
+            "His greeting was the ordinary 'Hail.' They fell at his feet and held them in reverence while they worshipped him.\" ",
+            "Jesus allowed this act of worship... It was a great moment of faith and cheer."
+        ],
+        "John Gill": [
+            "behold, Jesus met them: that they might be confirmed in what the angel had told them, and their fear might be removed, and their joy increased; and also be capable of reporting to the disciples not only what they had heard from the angel, but what they had seen themselves; they being now eyewitnesses, as well as earwitnesses of his resurrection",
+            "so souls in the way of their duty, as these women were, oftentimes meet with Jesus, and he with them, as they may expect, and indeed not otherwise",
+            "they threw themselves prostrate at his feet, in token of reverence and humility; and they laid hold on his feet, that they might know, and be assured that he was really risen, and that it was not a spirit, or a mere phantom and appearance; and they held him in affection to him, and as desirous of his continuance with them"
+        ],
+        "John Wesley": [
+            "Hail \u2014 The word in its primary sense means, \"Rejoice:\" in its secondary and more usual meaning, \"Happiness attend you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the women encountered Jesus after his resurrection, they clung to his feet, filled with a mixture of fear, joy, and reverence. Jesus greeted them with the customary Hail but with a higher significance, signifying his resurrection. In their act of worship, they held on to his feet as a sign of their desire for his presence and as a means of confirming his reality to themselves. This encounter brought confirmation, joy, and an increased understanding of Jesus' resurrection, enabling them to testify to the disciples with not just what they heard but also what they saw with their own eyes.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.2167846139667864,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+            "commentatorTierSimilarities": [
+                26.14,
+                37.84,
+                36.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the women met Jesus after his resurrection, they held onto his feet in fear and supplication, rejoicing at having found the one they loved. Jesus greeted them with a significant Hail, demonstrating the joy of his resurrection. They worshiped him, falling at his feet in reverence, recognizing him as the risen Messiah. This encounter allowed them to confirm the truth of his resurrection and share their firsthand witness with the disciples, increasing their understanding and bringing them great joy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.226527953462111,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+            "commentatorTierSimilarities": [
+                24.74,
+                40.81,
+                34.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The women, filled with fear and joy, grabbed hold of Jesus' feet, showing both their reverence and desire for his continued presence. Jesus greeted them with the customary Hail, but with a deeper meaning, acknowledging his resurrection. This act of worship allowed them to confirm his reality and strengthened their understanding of his resurrection, enabling them to bear witness to the disciples. Through their encounter, fear was dispelled, joy increased, and the women became both eyewitnesses and earwitnesses to the resurrection.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.1103831556768284,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                24.54,
+                38.8,
+                36.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women, in a mix of fear and joy, clung to Jesus' feet, demonstrating both reverence and the desire for his continued presence. Jesus greeted them with the customary Hail, but with a deeper significance, acknowledging his resurrection. This act of worship allowed them to confirm his reality and strengthened their understanding of the resurrection, enabling them to bear witness to the disciples. Through this encounter, fear dissipated, joy intensified, and the women became eyewitnesses as well as earwitnesses to the resurrection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.0942003049942306,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                24.83,
+                38.62,
+                36.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The women, in a mixture of fear and joy, clung to Jesus' feet, revealing their reverence and longing for his presence. Jesus greeted them with the customary Hail, which held a deeper meaning in light of his resurrection. This act of worship affirmed the reality of his resurrection and deepened their understanding, equipping them to testify to the disciples about what they had witnessed. As fear subsided and joy multiplied, the women emerged as both eyewitnesses and earwitnesses to the resurrection.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.116351051942969,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.71,
+            "commentatorTierSimilarities": [
+                25.04,
+                38.7,
+                36.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:50:18",
+    "verseRef": "Matthew 19:30",
+    "bestBHT": {
+        "bht": "Many times in the Bible, Jesus speaks in paradoxical enigmas, cautioning his disciples about their place in God's kingdom. This caution, with possible applications to Judas and all believers, serves as a reminder not to trust in appearances or present circumstances. It's a call to the perseverance of the runners in a race, urging believers not to lose courage in the midst of their journey towards the heavenly crown. Ultimately, this highlights the way God's kingdom operates, with the first being last and the last being first.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.2672147504807305,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.48,
+        "commentatorTierSimilarities": [
+            27.53,
+            39.42,
+            33.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Cautions them, referring perhaps especially to Judas, but with a view to all.",
+            "Many first should be last, and last first."
+        ],
+        "John Calvin": [
+            "And many that are first shall be last. This sentence was added in order to shake off the indolence of the flesh.",
+            "But Christ exhorts those who have begun well to vigorous perseverance, and at the same time gives warning, that it will be of no avail to runners to have begun with alacrity, if they lose courage in the midst of the course.",
+            "As often, therefore, as we call to mind the heavenly crown, we ought, as it were, to feel the application of fresh spurs, that we may not be more indolent for the future."
+        ],
+        "Philip Schaff": [
+            "But many shall be last that are first,; and first that are last.",
+            "A general truth in proverbial form; here a caution against trusting to appearances or to the permanence of present circumstances and conditions.",
+            "The promise must be accompanied by a caution, especially in view of the coming apostasy of Judas."
+        ],
+        "Archibald T. Robertson": [
+            "This paradoxical enigma... refers to ranks in the kingdom.",
+            "There are many other possible applications.",
+            "The following parable illustrates it."
+        ],
+        "John Gill": [
+            "But many that are first shall be last... and the last shall be first.\" ",
+            "The apostles, who were last in this world, being poor, mean, and abject, should be the first in the other.",
+            "The Jews, who were first in outward privileges, would be rejected of God for their unbelief, and contempt of the Messiah; and the Gentiles, who were last called, should be first, or chief, in embracing the Messiah, professing his Gospel, and supporting his interest."
+        ],
+        "John Wesley": [
+            "Many of those who were first called, shall be last - Shall have the lowest reward: those who came after them being preferred before them.",
+            "Possibly both the first and the last may be saved, though with different degrees of glory.",
+            "Though with different degrees of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many times in the Bible, Jesus speaks in paradoxical enigmas, cautioning his disciples about their place in God's kingdom. In Matthew 19:30, he warns that many who are first will be last and vice versa. This caution, with possible applications to Judas and all believers, serves as a reminder not to trust in appearances or present circumstances. It's a call to the perseverance of the runners in a race, urging believers not to lose courage in the midst of their journey towards the heavenly crown. Ultimately, this verse highlights the way God's kingdom operates, with the first being last and the last being first, and how those who may seem first in this world, like the apostles, will hold a higher position in the other.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.3341604721179103,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                27.02,
+                36.22,
+                36.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many times in the Bible, Jesus speaks in paradoxical enigmas, cautioning his disciples about their place in God's kingdom. This caution, with possible applications to Judas and all believers, serves as a reminder not to trust in appearances or present circumstances. It's a call to the perseverance of the runners in a race, urging believers not to lose courage in the midst of their journey towards the heavenly crown. Ultimately, this highlights the way God's kingdom operates, with the first being last and the last being first.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.2672147504807305,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.48,
+            "commentatorTierSimilarities": [
+                27.53,
+                39.42,
+                33.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus often speaks in paradoxical enigmas, cautioning his disciples about their place in God's kingdom. In Matthew 19:30, he warns that many who seem to be first will actually be last, and vice versa. This serves as a reminder not to trust in appearances or present circumstances. It is a call to persevere, to not lose courage in our journey towards the heavenly crown. Ultimately, this verse highlights God's kingdom and how it operates, with the first being last and the last being first.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.1813221714497844,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.62,
+            "commentatorTierSimilarities": [
+                25.29,
+                37.36,
+                37.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cautioning against complacency, Jesus warns that those who appear to be first may, in fact, be last in God's kingdom. This paradoxical enigma reminds us not to trust in appearances or present circumstances. Instead, we are called to persevere, to maintain our courage on our journey towards the heavenly crown. In God's kingdom, the order is reversed, with the first becoming last and the last becoming first. This truth impacts our understanding of reward and priority in God's ultimate plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.1104720250912226,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.27,
+            "commentatorTierSimilarities": [
+                21.03,
+                39.22,
+                39.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warns his disciples that those who appear to be at the forefront may actually find themselves last in God's kingdom. This enigmatic caution serves as a reminder not to rely solely on outward appearances or present circumstances. Instead, it urges believers to persevere with courage as they journey towards the heavenly crown. The reversal of positions in the kingdom demonstrates that God's ways are different from the world's, where the last shall be first and the first shall be last.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.189612008283024,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.9,
+            "commentatorTierSimilarities": [
+                21.92,
+                37.7,
+                40.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

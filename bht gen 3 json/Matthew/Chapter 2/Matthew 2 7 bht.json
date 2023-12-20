@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:42:33",
+    "verseRef": "Matthew 2:7",
+    "bestBHT": {
+        "bht": "Under the illusion of success, the treacherous Herod sees the opportunity to strike at the defenseless infant, as the unsuspecting Magi reveal the location of the Messiah's birth. Herod's cautiousness and secrecy are evident, as he cunningly disguises his intentions and interrogates the Magi to calculate the exact timing of the star's appearance, seeking to determine the age of the child. Little does he realize that his machinations will be thwarted, for God has a habit of confounding the plans of His enemies and protecting His chosen ones.",
+        "wordCount": 91,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.7893432359599761,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+        "commentatorTierSimilarities": [
+            37.3,
+            29.97,
+            32.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Herod has so far succeeded in his murderous design: he has tracked the spot where lies his victim, an unconscious babe.",
+            "The unsuspecting strangers tell him all. And now he thinks he is succeeding to a wish, and shall speedily clutch his victim.",
+            "Yet he is wary. He sends them as messengers from himself, and bids them come to him, that he may follow their pious example."
+        ],
+        "Albert Barnes": [
+            "Privily - Secretly, privately. He did this to ascertain the time when Jesus was born.",
+            "Diligently - Accurately, exactly. He took pains to learn the precise time when the star appeared.",
+            "He did this because he naturally concluded that the star appeared just at the time of his birth, and he wished to know precisely how old the child was."
+        ],
+        "John Calvin": [
+            "Let us learn, that a miracle was effected, in rescuing the Son of God from the jaws of the lion.\" ",
+            "Not less at the present day does God infatuate his enemies, so that a thousand schemes of injuring and ruining his Church do not occur to their minds, and even the opportunities which are at hand are not embraced.",
+            "He was seized with a spirit of giddiness, to attack God; and, on the other hand, his manner of acting was childish."
+        ],
+        "Philip Schaff": [
+            "Privately. This indicates his evil purpose, and is quite characteristic of political suspicion.",
+            "Learned of them earned. He probably drew some inference from what they told him, and took measures accordingly.",
+            "What time. This implies how long it had appeared, quite as much as, when it appeared."
+        ],
+        "Archibald T. Robertson": [
+            "He conceals his motives to the Magi.",
+            "He was anxious to see if the Jewish prophecy of the birthplace of the Messiah agreed with the indications of the star to the Magi.",
+            "The time of the appearing star is not 'the time when the star appeared,' but the age of the star's appearance."
+        ],
+        "John Gill": [
+            "He sifted them, and inquired of them with much accuracy, and exactness, the precise time of the star's appearing to them, how long ago it was when it was first observed by them...",
+            "That hereby he might exactly know the age of Christ, and the better execute the bloody design he had formed...",
+            "And the better detect an impostor, should another afterwards arise, and set up himself for the king of the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod, the cunning and deceitful ruler, is elated when the Magi reveal to him the birthplace of the Messiah, unaware of his sinister intentions. Careful not to reveal his true motive, Herod sends the Magi as his messengers, disguising his evil purpose to them. He is desperate to confirm if the prophecy and the indications of the star align, hoping to determine the age of the child. Privately and diligently, he interrogates them to extract precise details about the timing of the star's appearance. Yet, little does Herod know that God, in His sovereignty, will thwart his schemes, just as He has rescued His Son from the clutches of the enemy throughout history.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.8023460688375748,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                39.52,
+                31.17,
+                29.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Under the illusion of success, the treacherous Herod sees the opportunity to strike at the defenseless infant, as the unsuspecting Magi reveal the location of the Messiah's birth. Herod's cautiousness and secrecy are evident, as he cunningly disguises his intentions and interrogates the Magi to calculate the exact timing of the star's appearance, seeking to determine the age of the child. Little does he realize that his machinations will be thwarted, for God has a habit of confounding the plans of His enemies and protecting His chosen ones.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7893432359599761,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                37.3,
+                29.97,
+                32.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Herod's relentless pursuit to carry out his vile plot, he cunningly extracts crucial information from the Magi about the timing and age of the appearing star, meticulously calculating the age of Jesus. Oblivious to his impending defeat, Herod remains unaware of the divine intervention that will deliver the Son of God from his clutches. Similarly, today God continues to confound and hinder those who seek to harm His Church, even blinding them to the numerous opportunities lying in wait.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5436047973985025,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.67,
+            "commentatorTierSimilarities": [
+                35.68,
+                24.12,
+                40.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven by his malicious intent, Herod skillfully coerces the Magi into revealing the exact time of the star's appearance, hoping to ascertain the age of Jesus and carry out his sinister plot. Unbeknownst to him, God often perplexes His enemies, leaving them clueless about their schemes against His Church. Herod's audacious attempt to challenge God backfires, showcasing both his foolishness and the divine protection over the Son of God. Likewise, God continues to confound those who seek to harm His people to this day.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.539781647586187,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                33.48,
+                26.21,
+                40.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unaware of the treachery concealed within his heart, Herod interrogates the Magi, skillfully extracting from them the precise time of the star's appearance. In his relentless pursuit to execute his malicious plan, he seeks to determine the age of Jesus and identify any potential impostors. Little does he know that his wicked schemes will be confounded by God, who, throughout history, has foiled the plots of His enemies and protected His chosen ones from harm's way.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7416087776318179,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                36.37,
+                29.82,
+                33.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

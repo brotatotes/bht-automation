@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:51:24",
+    "verseRef": "Matthew 22:7",
+    "bestBHT": {
+        "bht": "The rejection of the king's invitation by some has provoked his anger and led to the dispatch of the Roman armies to destroy Jerusalem. Previously known as the city of the Great King, it is now designated as their city, indicating a significant change in status. This destruction represents God's judgment, executed through these armies. The parable serves as a warning that those who oppose the Gospel and reject the divine invitation will face severe consequences.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.9260065221489118,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+        "commentatorTierSimilarities": [
+            31.42,
+            40.47,
+            28.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The occurrence of this verse before the opening of the Feast to the Gentiles has perplexed some interpreters: but it is strictly exact.",
+            "His armies. The Roman armies; a similar expression for the unconscious instruments of God\u2019s anger is used.",
+            "Their city. No longer His, but their city. This is a startling introduction of the interpretation into the parable; we knew not before that they had a city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But when the king [...] heard thereof, he was wroth [...] at the affront put both on His Son, and on Himself who had deigned to invite them.",
+            "The Romans are here styled God's armies, just as the Assyrian is styled 'the rod of His anger', as being the executors of His judicial vengeance.",
+            "Ah! Jerusalem, once 'the city of the Great King', and even up almost to this time; but now it is 'their city'\u2014just as our Lord, a day or two after this, said of the temple, where God had so long dwelt, 'Behold your house is left unto you desolate'."
+        ],
+        "Albert Barnes": [
+            "They were murderers, having slain the prophets; and God was about to send forth the armies of the Romans under his providential direction, and to burn up their city.",
+            "Wroth - Angry; displeased."
+        ],
+        "Marvin Vincent": [
+            "Armies [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03c5\u03bc\u03b1\u03c4\u03b1] . Not in our grand sense of armies, but troops, soldiers. Compare Luke 23:11, where the word is rendered men of war; Rev., soldiers."
+        ],
+        "John Calvin": [
+            "Both concur in stating, that those who did not come at the appointed time were shut out, and deprived of the honor of being present at the banquet.",
+            "But this doctrine applies equally to us; for the same destruction which Christ denounces against the Jews awaits all the ungodly, who violently oppose the ministers of the Gospel.",
+            "Those who are so entirely occupied with earthly cares, as to set no value on the divine invitation, will at length perish miserably in famine and want; and therefore, whenever God calls us, let us be prepared and ready to follow."
+        ],
+        "Philip Schaff": [
+            "He sent his armies. The Roman armies which destroyed Jerusalem were the unconscious instruments of God\u2019s (the king\u2019s) wrath.",
+            "Destroyed these murderers. Both the indifferent and hostile, alike guilty.",
+            "Burned their city. Jerusalem is meant, no longer His, but \u2018their city.\u2019 The destruction precedes the invitation to the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "Armies (\u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03c5\u03bc\u03b1\u03c4\u03b1). Bands of soldiers, not grand armies. "
+        ],
+        "John Gill": [
+            "Christ, when he was here on earth, was sometimes provoked by the Jews, through their unbelief, their obstinacy, and the hardness of their hearts and was angry with them, being grieved for them...",
+            "...but the time of his vengeance was not yet come, more patience and forbearance were to be exercised towards them.",
+            "and by removing the sceptre from them, and all show of dominion and government, made it fully appear that he, the Messiah, was come."
+        ],
+        "John Wesley": [
+            "The king sending forth his troops \u2014 The Roman armies employed of God for that purpose.",
+            "Destroyed those murderers \u2014 Primarily the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse talks about a king who becomes angry when his invitation is rejected by those who were invited to the feast. In response, the king sends his armies, which refers to the Roman armies, to destroy their city. The city in question is Jerusalem, which had previously been known as the city of the Great King. However, now it is referred to as their city, signaling the loss of its special status. This destruction is seen as God's judgment and vengeance against those who had rejected the king's invitation and harmed his prophets. The commentators emphasize that this parable has wider implications, as it applies to all who oppose the Gospel and disregard the divine invitation. It serves as a warning that those who reject God's call will ultimately perish.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 1.8542051509400594,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                30.11,
+                39.1,
+                30.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage reveals a king's wrath when his invitation is scorned, leading him to unleash his armies, symbolizing the Romans, to destroy Jerusalem. Previously known as the city of the Great King, it is now referred to as their city, distancing it from its previous honor. The destruction serves as divine judgment, punishing those who rejected the king's invitation and persecuted his prophets. This parable applies to all who oppose the Gospel, warning that those who ignore God's call will face dire consequences.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.970892435236927,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                30.34,
+                39.62,
+                30.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, a king's anger is kindled upon hearing about the disrespectful rejection of his invitation. Consequently, he dispatches the Roman armies to destroy their city, Jerusalem. Previously known as the city of the Great King, it is now referred to as their city, signifying its loss of status. This destruction is viewed as a manifestation of God's wrath, aimed at all who refuse the divine invitation and harm his messengers. The parable serves as a cautionary tale for those who oppose the Gospel, emphasizing the dire consequences for such resistance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8748046134018561,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "commentatorTierSimilarities": [
+                29.4,
+                41.42,
+                29.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse depicts a king who is infuriated upon learning of the insult to his Son and himself by those who rejected his invitation. Hence, the Roman armies are dispatched as the instruments of God's anger, leading to the destruction of Jerusalem. Once known as the city of the Great King, it is now referred to as their city. This parable warns that those who disregard the divine invitation and oppose the Gospel will ultimately face divine judgment and endure devastating consequences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.918648900135119,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                31.74,
+                38.87,
+                29.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of the king's invitation by some has provoked his anger and led to the dispatch of the Roman armies to destroy Jerusalem. Previously known as the city of the Great King, it is now designated as their city, indicating a significant change in status. This destruction represents God's judgment, executed through these armies. The parable serves as a warning that those who oppose the Gospel and reject the divine invitation will face severe consequences.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9260065221489118,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                31.42,
+                40.47,
+                28.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

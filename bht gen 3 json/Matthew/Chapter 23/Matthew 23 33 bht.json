@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:52:12",
+    "verseRef": "Matthew 23:33",
+    "bestBHT": {
+        "bht": "Jesus confronts the Pharisees, labeling them as a brood of vipers and questioning their ability to escape the damnation of hell. These stinging words pierce through like whip-cords, resonating with the accusations they made against him. Their hypocrisy, malice, and wickedness align them with the devil himself. Jesus's harsh language serves as a wake-up call, urging them to repent before facing God's judgment. The condemnation he speaks of refers to the future punishment that awaits them, demonstrating the severity of their actions.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.7757673466979949,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+        "commentatorTierSimilarities": [
+            33.27,
+            29.82,
+            36.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?",
+            "The only difference between their condemnation now and then was, that now they were ripe for their doom, which they were not then."
+        ],
+        "Albert Barnes": [
+            "Generation of vipers - See the notes at Matthew 12:34.\" ",
+            "Damnation of hell - This refers, beyond all question, to future punishment.",
+            "This is the sternest language that Jesus ever used to wicked people."
+        ],
+        "John Calvin": [
+            "Christ, being about to close his discourse, kindles into more vehement indignation against them; as it is necessary to shake off by violence the flatteries in which hypocrites indulge, and to drag them, as it were, to the judgment seat of God, that they may be filled with alarm.",
+            "How harsh and intolerable this roughness of language must have been to these reverend instructors may easily be inferred from the long period during which they had held a peaceful dominion, so that no one dared to mutter against them.",
+            "He calls them serpents both in nature and in habits, and then threatens them with a punishment, which it will be in vain for them to attempt to escape, if they do not speedily repent."
+        ],
+        "Philip Schaff": [
+            "Ye serpents, ye brood of vipers, etc.",
+            "That was the first, and this the last recorded address to the unchanged Pharisees.",
+            "How shall ye escape the judgment of hell, i.e., the judgment which condemns to hell, Our Lord speaks as Judge."
+        ],
+        "Archibald T. Robertson": [
+            "These blistering words come as a climax and remind one of the Baptist and of the time when the Pharisees accused Jesus of being in league with Beelzebub. They cut to the bone like whip-cords.",
+            "Deliberate subjunctive. There is a curse in the Talmud somewhat like this: 'Woe to the house of Annas! Woe to their serpent-like hissings.'",
+            "Ye serpents, ye offspring of vipers."
+        ],
+        "John Gill": [
+            "Their fair outside, and specious pretences; their hypocrisy, malice, and wickedness; in which they were like to the old serpent, their father the devil.",
+            "The sense is, whither can ye flee? to whom, or what can you have recourse to, to screen you from the wrath to come?",
+            "The judgment, or damnation of hell, is a phrase often used... and intends future torment, and the everlasting vengeance and wrath of God, the unquenchable fire prepared for the devil and his angels, and which impenitent unbelieving sinners cannot escape."
+        ],
+        "John Wesley": [
+            "Ye serpents \u2014 Our Lord having now lost all hope of reclaiming these, speaks so as to affright others from the like sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You deceptive and wicked Pharisees, how can you possibly escape the punishment of hell? These scorching words delivered by Jesus cut deep, much like the accusations made against him by these religious leaders. He refers to them as a brood of vipers, reflecting their true nature and character. The condemnation Jesus warns of is not a mere earthly consequence; it is a reference to the future punishment that awaits them. Their outward appearance may be deceiving, but their hypocrisy, malice, and wickedness make them resemble the devil himself. There is no refuge or escape from the wrath to come if they do not repent. This is the final warning from Jesus to the unchanged Pharisees, a plea to awaken them from their sinful ways before facing the judgment of God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7911577871493503,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                33.61,
+                30.89,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You sly and wicked Pharisees, how can you evade the damnation of hell? These scathing words, reminiscent of the accusations they made against Jesus, strike at the core. Jesus likened them to a brood of vipers, highlighting their true nature. The condemnation he speaks of is not a temporary consequence, but a future punishment. Despite their outward appearance, their hypocrisy and malice align them with the devil. There is no escape from the impending wrath unless they repent. Jesus's final warning serves as a wake-up call to the stubborn Pharisees, urging them to change their ways before facing God's judgment.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.762575102821513,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                34.13,
+                30.91,
+                34.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus fiercely condemns the deceitful Pharisees as a brood of vipers, asking them how they can possibly escape the punishment of hell. His scorching words, reminiscent of the accusations made against him, penetrate deeply. Despite their outward facade, their hypocrisy and wickedness align them with the devil himself. This warning serves as a final plea before facing God's judgment, urging them to repent and abandon their sinful ways. The condemnation Jesus speaks of is not a mere earthly consequence, but a future punishment that awaits them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.7235463758147072,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                33.21,
+                29.72,
+                37.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confronts the Pharisees, labeling them as a brood of vipers and questioning their ability to escape the damnation of hell. These stinging words pierce through like whip-cords, resonating with the accusations they made against him. Their hypocrisy, malice, and wickedness align them with the devil himself. Jesus's harsh language serves as a wake-up call, urging them to repent before facing God's judgment. The condemnation he speaks of refers to the future punishment that awaits them, demonstrating the severity of their actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7757673466979949,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                33.27,
+                29.82,
+                36.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus denounces the deceitful Pharisees, likening them to a brood of vipers and questioning their chances of escaping the damnation of hell. His scathing words, reminiscent of the accusations made against him, penetrate deep like whip-cords. Their hypocritical nature and malicious intent align them with the devil himself. This sharp rebuke serves as a final appeal before facing the judgment of God, warning them of the future punishment that awaits if they fail to repent.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6955529438405414,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                33.79,
+                27.67,
+                38.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

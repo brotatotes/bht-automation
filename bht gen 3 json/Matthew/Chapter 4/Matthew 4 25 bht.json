@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:43:27",
+    "verseRef": "Matthew 4:25",
+    "bestBHT": {
+        "bht": "The crowds that gathered to hear Jesus teach and be healed by Him were immense and diverse, coming from all parts of Palestine, including Decapolis. This outpouring of people surpassed any political campaign and exemplified the significance Jesus Himself attached to this preaching circuit. The region of Decapolis, comprised of ten Greek cities, and the country beyond the Jordan held special importance in showcasing the vast reach and impact of Jesus' ministry. His popularity and the eagerness of the multitudes underscored the profound influence He wielded.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.5971521786343352,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+        "commentatorTierSimilarities": [
+            37.74,
+            34.75,
+            27.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Decapolis, a district principally east of the Jordan, so called from ten cities.",
+            "Beyond Jordan, Per\u00e6a. The country east of the Jordan, between the rivers Jabbok and Arnon.",
+            "See Jos. B.J. iii. 3. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus not only was all Palestine upheaved, but all the adjacent regions.\" ",
+            "But the more immediate object for which this is here mentioned is, to give the reader some idea both of the vast concourse and of the varied complexion of eager attendants upon the great Preacher,",
+            "On the importance which our Lord Himself attached to this first preaching circuit, and the preparation which He made for it."
+        ],
+        "Albert Barnes": [
+            "Decapolis was the name of a region of country in the bounds of the half-tribe of Manasseh, mainly on the east of Jordan.\" ",
+            "Geographers generally agree that Scythopolis was the chief of these cities.",
+            "These cities were inhabited chiefly by foreigners (Greeks) in the days of our Saviour, and not by Jews."
+        ],
+        "Philip Schaff": [
+            "Great multitudes, lit, 'many crowds.'",
+            "These came from all parts of Palestine; from Galilee, where he preached...",
+            "The compact style of the original requires the omission of 'from' (italicized in common version), except in the case of the locality last named, 'from Galilee and Decapolis and Jerusalem and Judea and from beyond the Jordan.'"
+        ],
+        "Archibald T. Robertson": [
+            "Great multitudes (\u03bf\u03c7\u03bb\u03bf \u03c0\u03bf\u03bb\u03bb\u03bf). Note the plural, not just one crowd, but crowds and crowds.",
+            "And from all parts of Palestine including Decapolis, the region of the Ten Greek Cities east of the Jordan.",
+            "No political campaign was equal to this outpouring of the people to hear Jesus and to be healed by Jesus."
+        ],
+        "John Gill": [
+            "The Greek word for 'multitude' is adopted into the Talmudic language, and is often used by the doctors; who have a tradition to this purpose, that 'there is no multitude less than sixty myriads'... but we are not to imagine, that when here, and elsewhere, a multitude is said to follow, or attend on Christ, that he had such a number of people after him as this; only that the number was very large.",
+            "The country beyond Jordan was not so much esteemed as what was properly the land of Canaan, or Israel; for the Jews say, 'the land of Israel is holier than all lands.'",
+            "This, they say, was not the land flowing with milk and honey."
+        ],
+        "John Wesley": [
+            "Decapolis \u2014 A tract of land on the east side of the sea of Galilee, in which were ten cities near each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 4:25, we see the immense impact of Jesus' ministry as multitudes flocked to hear Him. The significance of the region of Decapolis and the country beyond the Jordan is highlighted, indicating the vastness of the crowds and the varied background of the people who came to see Jesus. This initial preaching circuit was of great importance to Jesus, and it attracted people from all parts of Palestine, including Decapolis, which consisted of ten Greek cities east of the Jordan. The outpouring of people to hear and be healed by Jesus surpassed any political campaign, emphasizing the magnitude of His influence and the urgency with which the people sought Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.7031283018464805,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                34.65,
+                33.92,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' ministry resonated far and wide, drawing in multitudes from all parts of Palestine, including the region of Decapolis. The great concourse of eager attendees, encompassing diverse backgrounds and demographics, showcases the magnitude of Jesus' popularity. This initial preaching circuit held immense significance for Jesus, surpassing any political campaign in terms of the people's fervor to hear Him and receive healing. The impact of His message extended even beyond the Jordan, highlighting the widespread influence and the urgency with which individuals sought His presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.539135088690152,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                38.01,
+                35.03,
+                26.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowds that gathered to hear Jesus teach and be healed by Him were immense and diverse, coming from all parts of Palestine, including Decapolis. This outpouring of people surpassed any political campaign and exemplified the significance Jesus Himself attached to this preaching circuit. The region of Decapolis, comprised of ten Greek cities, and the country beyond the Jordan held special importance in showcasing the vast reach and impact of Jesus' ministry. His popularity and the eagerness of the multitudes underscored the profound influence He wielded.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.5971521786343352,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+            "commentatorTierSimilarities": [
+                37.74,
+                34.75,
+                27.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The multitude of people that gathered to hear Jesus teach and witness His healing power was extraordinary. They came from different parts of Palestine, including Decapolis, a district known for its ten Greek cities. This initial preaching circuit held immense importance to Jesus, surpassing any political campaign. The widespread attendance and diverse background of the crowd exemplify the broad impact and urgency with which people sought Jesus. The vast outreach of His ministry extended even beyond the Jordan, capturing the attention and hearts of many.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5076261352893647,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.47,
+            "commentatorTierSimilarities": [
+                35.55,
+                35.35,
+                29.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' ministry attracted great multitudes from all parts of Palestine, including Decapolis, a region comprised of ten Greek cities. The immense attendance at Jesus' preaching circuit signified the importance He placed on it and surpassed any political campaign. The diverse composition of the crowd highlighted the varied complexion and eager participation of attendees. The outpouring of people seeking to hear and be healed by Jesus demonstrated the profound impact and widespread allure of His teachings, making it a truly remarkable phenomenon.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.4488325406140778,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                37.66,
+                34.55,
+                27.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

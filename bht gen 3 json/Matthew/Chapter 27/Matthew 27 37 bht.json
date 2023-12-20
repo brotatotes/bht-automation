@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:22",
+    "verseRef": "Matthew 27:37",
+    "bestBHT": {
+        "bht": "The Gospel accounts differ in the inscription above Jesus' head on the cross, but all agree that he was accused as the King of the Jews. This title, meant as an accusation, actually affirmed Jesus' true identity as the long-awaited Messiah. The variations in the narratives do not undermine the reliability of the Gospel accounts, but rather highlight the distinctive perspectives of each writer. God orchestrated the inscription to be written in multiple languages, ensuring that the truth of Jesus' identity would be widely proclaimed.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.8200544062723312,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+        "commentatorTierSimilarities": [
+            36.08,
+            31.44,
+            32.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The advocates for the verbal and literal exactness of each gospel may here find an undoubled example of the absurdity of their view, which may serve to guide them in less plain and obvious cases.",
+            "A title was written, con-taining certain words; not four titles, all different, but one, differing probably from all of these four, but certainly from three of them.",
+            "Let us bear this in mind, when the narratives of words spoken, or events, differ in a similar manner."
+        ],
+        "Albert Barnes": [
+            "A man is often said to do what he directs others to do.",
+            "It was customary to set up over the heads of persons crucified the crime for which they suffered, and the name of the sufferer.",
+            "The evangelists all agree in the main point of the inscription, namely, that he was the King of the Jews."
+        ],
+        "Marvin Vincent": [
+            "Accusation [\u03b1\u03b9\u03c4\u03b9\u03b1\u03bd] . Lit., cause, and so rendered by Wyc. Tynd., cause of his death. The word accusation is compounded with the Latin causa, a cause. It is the cause of his condemnation and suffering."
+        ],
+        "John Calvin": [
+            "It did not happen without the providence of God, that the death of Christ was made known in three languages.",
+            "God had a higher end in view; for by this presage he caused it to be widely known that the death of his Son would be highly celebrated.",
+            "Pilate was unworthy to be employed by God as a witness for his Son; but what was afterwards to be accomplished by the true ministers was prefigured in Pilate."
+        ],
+        "Philip Schaff": [
+            "His accusation, put in a form which conveyed a sneer against His accusers.",
+            "Thus He died, with His proper title over His head.",
+            "The entire independence of all four Gospels is fully proven by this variation."
+        ],
+        "Archibald T. Robertson": [
+            "The title or placard of the crime... was now placed above the head of Jesus... This inscription gave the name and home, Jesus of Nazareth, and the charge on which he was convicted, the King of the Jews...\" ",
+            "The four reports all give the charge and vary in the others. The inscription in full was: This is Jesus of Nazareth the King of the Jews.",
+            "The accusation correctly told the facts of the condemnation."
+        ],
+        "John Gill": [
+            "It was what contained the sum and substance of what he was accused, and for which he was condemned, and suffered.",
+            "This title, or inscription, setting forth the person's crime, used to be carried before him, or put upon him, as he was led to execution.",
+            "Pilate wrote his accusation in this form, not so much in derision of Jesus; for by conversation with him he understood what sort of a king he was, as to the reproach of the Jews for crucifying him who was their king."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gospel accounts of the inscription above Jesus' head on the cross may differ in certain details, but they all agree on the main point: Jesus was being charged as the King of the Jews. This title, though meant as a sneering accusation, actually conveyed the truth that Jesus was indeed the Messiah, the long-awaited King. It is important to understand that the variations in the accounts do not diminish the accuracy or reliability of the Gospel narratives, but rather highlight the unique perspectives of each writer. God, in His providence, ensured that this important declaration of Jesus' identity would be proclaimed in multiple languages and recorded by different eyewitnesses.",
+            "wordCount": 111,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.7776861040220613,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                34.56,
+                29.61,
+                35.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inscription above Jesus' head on the cross varied among the Gospel accounts, but they all agreed that Jesus was accused of being the King of the Jews. Despite the variations, the core truth remained consistent. The inclusion of this accusation fulfilled the prophecy of Jesus as the long-awaited Messiah. The differing narratives should not be seen as a flaw, but rather as a testament to the unique perspectives of the Gospel writers. Through this inscription, God ensured that Jesus' identity as the King would be proclaimed in various languages and would be known by different eyewitnesses.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6022365686761897,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                36.46,
+                31.4,
+                32.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel accounts may differ in the details of the inscription above Jesus' head on the cross, but they unanimously declare him as the King of the Jews. This accusation, written in different forms yet conveying the same charge, fulfilled the prophecy of Jesus as the Messiah. The variations in the accounts should not be seen as inconsistencies but rather as unique perspectives of the Gospel writers. God orchestrated this inscription to be proclaimed in multiple languages, ensuring that the truth of Jesus' identity would be widely known.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7209427304360234,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                35.42,
+                31.05,
+                33.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel accounts differ in the inscription above Jesus' head on the cross, but all agree that he was accused as the King of the Jews. This title, meant as an accusation, actually affirmed Jesus' true identity as the long-awaited Messiah. The variations in the narratives do not undermine the reliability of the Gospel accounts, but rather highlight the distinctive perspectives of each writer. God orchestrated the inscription to be written in multiple languages, ensuring that the truth of Jesus' identity would be widely proclaimed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8200544062723312,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                36.08,
+                31.44,
+                32.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inscription above Jesus' head on the cross varied in the Gospel accounts, but they all agreed that he was accused as the King of the Jews. These variations should not be seen as discrepancies, but rather as testament to the unique perspectives of the Gospel writers. God orchestrated the inscription to be written in multiple languages, ensuring that the truth of Jesus' identity would be widely proclaimed. This title, although intended as an accusation, actually affirmed Jesus' true identity as the long-awaited Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7625278463676848,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                34.48,
+                31.25,
+                34.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

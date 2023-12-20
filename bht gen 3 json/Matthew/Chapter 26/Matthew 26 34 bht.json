@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:53:28",
+    "verseRef": "Matthew 26:34",
+    "bestBHT": {
+        "bht": "Peter's bold declaration is contrasted here as the most powerful climax, implying that these words were not spoken for the first time. It appears that Peter misunderstood the phrase as a mere indication of time and dismissed it as a display of the Lord's doubt. Yet, Peter stands as a representative of all disciples who deny or forget Christ, and the cock crowing in the night serves as a warning voice summoning them to repentance. Before the first cock crows, early in the night, Peter will deny Jesus, demonstrating his lack of faith.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.9334771543409932,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+        "commentatorTierSimilarities": [
+            36.39,
+            28.09,
+            35.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The contrast to Peter\u2019s boast, and the climax, is in these words the strongest; and the inference also comes out most clearly, that they likewise were not now said for the first time.",
+            "It is most likely that Peter understood this expression as only a mark of time, and therefore received it, as when it was spoken before, as merely an expression of distrust on the Lord\u2019s part.",
+            "Peter stands here as a representative of all disciples who deny or forget Christ\u2014and the watchful bird that cries in the night is that warning voice which \u2018speaketh once, yea twice,\u2019 to call them to repentance."
+        ],
+        "Marvin Vincent": [
+            "Before the cock crow. A little more graphic if the article is omitted, as in the Greek.\" ",
+            "Before a single cock shall be heard, early in the night, thou shalt deny me.",
+            "Dr. Thomson ('Land and Book') says that the barn - door fowls 'swarm round every door, share in the food of their possessors, are at home among the children in every room, roost overhead at night, and with their ceaseless crowing are the town - clock and the morning - bell to call up sleepers at early dawn.'"
+        ],
+        "Philip Schaff": [
+            "Before a cock crow twice...Our Lord meant the actual cock-crowing to be a warning for Peter.\" ",
+            "Deny knowing me...a denial of any relation to Christ, virtually a denial of faith in Him, as the Son of God.",
+            "In contrast with the previous confession."
+        ],
+        "John Gill": [
+            "Thou wilt deny that thou knowest me, that thou belongest to me, or hast any concern with me; and this thou wilt do not only once, but again and again, even three times.\" ",
+            "Before the cock crow a second time, which is most properly the cock crowing, Peter should three times deny his master.",
+            "So cock crowing and midnight are distinguished by the Jews... who also speak of the cocks crowing a first and second, and even a third time."
+        ],
+        "John Wesley": [
+            "Before cock crowing thou wilt deny me thrice \u2014 That is, before three in the morning, the usual time of cock crowing.\" ",
+            "Although one cock was heard to crow once, after Peter's first denial of his Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's boast is sharply contrasted as the strongest climax in these words, emphasizing that they were not said for the first time. Peter likely misunderstood the expression as simply a mark of time, disregarding it as a mere expression of the Lord's distrust. However, Peter serves as a representative of all disciples who deny or forget Christ, and the cock crowing in the night is a warning voice calling them to repentance. The article being omitted in the Greek makes the imagery more graphic, highlighting that before a single cock is heard, early in the night, Peter will deny Jesus. This denial of any relation to Christ is essentially a denial of faith in Him, contrasting with Peter's previous confession.",
+            "wordCount": 123,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.8603803465132729,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                36.14,
+                32.77,
+                31.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's boast is the climactic contrast, indicating that these words were not new. Peter likely misunderstood the expression as just a mark of time and disregarded it as a sign of the Lord's mistrust. Yet, Peter serves as a representative of all disciples who deny or forget Christ, and the cock crowing in the night is a warning voice calling them to repent. Without the article, the graphic image reveals that before a single cock is heard early in the night, Peter will deny Jesus, denying his faith in Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8384347978607511,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                37.21,
+                30.24,
+                32.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's boast is the strongest climax, emphasizing that these words were not new. It seems that Peter misunderstood the expression, regarding it simply as a mark of time and not recognizing the Lord's mistrust. However, Peter represents all disciples who deny or forget Christ, and the sound of the cock crowing serves as a warning voice calling them to repentance. Without the article, the vivid imagery depicts Peter's denial occurring before a single cock is heard early in the night, denying his faith in Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8168380918030689,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                37.19,
+                28.96,
+                33.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's bold declaration is contrasted here as the most powerful climax, implying that these words were not spoken for the first time. It appears that Peter misunderstood the phrase as a mere indication of time and dismissed it as a display of the Lord's doubt. Yet, Peter stands as a representative of all disciples who deny or forget Christ, and the cock crowing in the night serves as a warning voice summoning them to repentance. Before the first cock crows, early in the night, Peter will deny Jesus, demonstrating his lack of faith.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9334771543409932,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                36.39,
+                28.09,
+                35.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's boast stands in stark contrast as the strongest climax, indicating that these words were not new. Peter likely misunderstood the expression as simply marking time and disregarded it as a sign of the Lord's distrust. However, Peter acts as a representative of all disciples who deny or forget Christ, with the cock crowing serving as a warning voice calling them to repentance. The omission of the article in the Greek adds vividness, depicting Peter denying Jesus before a single cock is heard early in the night.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.881124302507522,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                37.31,
+                29.94,
+                32.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

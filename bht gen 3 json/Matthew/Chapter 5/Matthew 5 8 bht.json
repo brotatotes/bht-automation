@@ -1,0 +1,101 @@
+{
+    "timestamp": "12-19-2023 23:43:18",
+    "verseRef": "Matthew 5:8",
+    "bestBHT": {
+        "bht": "Blessed are those who, by faith and love, attain inner purity and see God with a clear and sympathetic vision. This purity of heart is more than just moral cleanliness; it is a cleanness from sin that allows one to truly see the Lord. Without holiness, no one can have the blessed privilege of the Beatific Vision, but those with pure hearts can experience this closeness to God both on earth and in eternity.",
+        "wordCount": 74,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.3322763643246436,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.89,
+        "commentatorTierSimilarities": [
+            33.96,
+            35.39,
+            30.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is no Levitical cleanness, nor mere moral purity, that is here meant; but that inner purity, which... is brought about by faith, has its fruit in love...",
+            "Pure in heart are those who have their 'hearts sprinkled from an evil conscience.'",
+            "There is an allusion to the nearer vision of God attained by progressive sanctification..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But oh, with what grand simplicity, brevity, and power is this great fundamental truth here expressed!",
+            "The inward vision thus clarified, and the whole inner man in sympathy with God, each looks upon the other with complacency and joy.",
+            "Then shall His servants serve Him: and they shall see His face; and His name shall be in their foreheads."
+        ],
+        "Albert Barnes": [
+            "Man looks on the outward appearance, but God looks on the heart.",
+            "They shall see God - There is a sense in which all will see God, Revelation 1:7. That is, they will behold him as a Judge, not as a Friend.",
+            "To see God means to be his friends and favorites, and to dwell with him in his kingdom."
+        ],
+        "John Calvin": [
+            "Purity of heart is universally acknowledged to be the mother of all virtues.",
+            "Hence those persons are commonly accounted happy, whose ingenuity is exercised in the successful practice of deceit.",
+            "Christ does not at all agree with carnal reason when he pronounces those to be happy, who take no delight in cunning, but converse sincerely with men."
+        ],
+        "Philip Schaff": [
+            "Either a single virtue, or total freedom from sin.",
+            "More than sincerity, or chastity of feeling, or outward purity, such as the Levitical law demanded and the hearers might have deemed sufficient, or the moral purity which philosophers enjoin; it is inward purity derived from God.",
+            "This vision of God begins when spiritual vision begins in the regenerate heart; it is perfected when in eternity we shall see Him face to face, perfect knowledge being combined with perfect love."
+        ],
+        "Archibald T. Robertson": [
+            "Without holiness no man will see the Lord in heaven.\" ",
+            "The Beatific Vision is only possible here on earth to those with pure hearts.",
+            "Sin befogs and beclouds the heart so that one cannot see God."
+        ],
+        "John Gill": [
+            "Blessed are the pure in heart...\" ",
+            "But such may be said to be so, who, though they have sin dwelling in them, are justified from all sin, by the righteousness of Christ...\" ",
+            "And happy they are, for they shall see God..."
+        ],
+        "John Wesley": [
+            "The pure in heart \u2014 The sanctified: they who love God with all their hearts.",
+            "They shall see God \u2014 In all things here; hereafter in glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who, by faith and love, attain inner purity and see God with a clear and sympathetic vision. This purity of heart goes beyond mere moral or Levitical cleanliness; it is a cleanness from sin that allows one to truly see the Lord. Having their hearts sprinkled from an evil conscience and in complete harmony with God, they are able to behold His face and carry His name in their foreheads. Without holiness, no one can have the blessed privilege of the Beatific Vision, but those with pure hearts can experience this closeness to God both on earth and in eternity.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.2956510521628015,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                34.27,
+                35.43,
+                30.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are those who, by faith and love, attain inner purity and see God with a clear and sympathetic vision. This purity of heart is more than just moral cleanliness; it is a cleanness from sin that allows one to truly see the Lord. Without holiness, no one can have the blessed privilege of the Beatific Vision, but those with pure hearts can experience this closeness to God both on earth and in eternity.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.3322763643246436,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.89,
+            "commentatorTierSimilarities": [
+                33.96,
+                35.39,
+                30.65
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

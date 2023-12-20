@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:46:51",
+    "verseRef": "Matthew 12:21",
+    "bestBHT": {
+        "bht": "The Gentiles will trust in the name of Christ, sharing in His grace and finding hope in Him. Through the preaching of the Gospel, multitudes have come to believe in Christ as their Savior and Redeemer. This fulfillment of the prophecy demonstrates the impact of the Good News on the Gentile world, as they embrace Christ and place their faith in Him. The name of Christ holds immense power, leading the Gentiles to find salvation through Him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 34.04,
+        "qualityScore": 1.546275239880188,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+        "commentatorTierSimilarities": [
+            28.44,
+            30.26,
+            41.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And in his name shall the Gentiles trust\u2014Part of His present audience were Gentiles\u2014from Tyre and Sidon\u2014first-fruits of the great Gentile harvest contemplated in the prophecy.",
+            "And the multitude... cometh together again... so that they could not so much as eat bread. And when His friends... heard of it, they went out to lay hold on Him; for they said, He is beside Himself.",
+            "For whether we be beside ourselves, it is to God."
+        ],
+        "John Calvin": [
+            "And in his name shall the Gentiles trust.\" ",
+            "The grace of Christ will be shared by the Gentiles."
+        ],
+        "Philip Schaff": [
+            "On the ground of what His name, as the Messiah, implies.",
+            "Those to whom He presented Himself as Judge would learn to trust Him in consequence of the gentle, patient dealing just spoken of.",
+            "Matthew here omits part of a verse in Isaiah and paraphrases the part he retains, but without any important variation in sense."
+        ],
+        "John Gill": [
+            "The passage, here cited, is somewhat different in Isaiah: for there it is, 'and the isles shall wait for his law'; but the difference, at least, in sense, is not so great as it may appear at first sight.",
+            "By 'the name' of Christ is meant his Gospel.",
+            "This began to have its accomplishment in the Idumeans, Tyrians, and Sidonians, now attending on the ministry of Christ; and has had a greater accomplishment since: the Gospel having been preached in the Gentile world, both upon the main land, and in the isles afar off; whereby multitudes have been brought to hope, and believe in Christ, as their Saviour and Redeemer."
+        ],
+        "John Wesley": [
+            "In his name \u2014 That is, in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 12:21, it is stated that And in his name shall the Gentiles trust. This signifies the great Gentile harvest that was foreseen in the prophecy. The grace of Christ will be shared by the Gentiles, who will place their trust and hope in Him as their Savior and Redeemer. This verse highlights the impact of the Gospel being preached in the Gentile world, as many are brought to believe in Christ and find salvation through Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.6453904257266412,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                28.84,
+                31.74,
+                39.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And in his name shall the Gentiles trust, as foretold in the prophecy. This Gospel message has had a profound impact on the Gentile world, leading many to hope and believe in Christ as their Savior and Redeemer. The grace of Christ is extended to all, including the Gentiles, who find solace and salvation in Him. This verse highlights the prevailing trust and confidence that the Gentiles place in the name of Christ, as they embrace the Gospel message and embrace Him as their source of hope and faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.4964359929816777,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+            "commentatorTierSimilarities": [
+                26.4,
+                31.05,
+                42.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And in his name shall the Gentiles trust, as prophesied, revealing the impact of the Gospel on the Gentile world. The grace of Christ extends to all, prompting many Gentiles to find hope and salvation in Him. This verse emphasizes the unwavering trust and confidence that the Gentiles place in the name of Christ, embracing Him as their source of hope and faith. The Gospel's influence has been realized through the preaching of the Good News, leading multitudes to believe in Christ as their Savior and Redeemer.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4966505458141592,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                27.21,
+                30.93,
+                41.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gentiles will put their trust in the name of Christ, fulfilling the prophecy. The Gospel will be spread to the Gentile world, offering them the grace of Christ. Many Gentiles will come to hope and believe in Christ as their Savior and Redeemer. This verse highlights the impact of preaching the Gospel to the Gentiles, leading them to place their faith and confidence in Christ. Through His name, the Gentiles find salvation and a source of unwavering hope.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.497427133397152,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                27.33,
+                29.57,
+                43.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gentiles will trust in the name of Christ, sharing in His grace and finding hope in Him. Through the preaching of the Gospel, multitudes have come to believe in Christ as their Savior and Redeemer. This fulfillment of the prophecy demonstrates the impact of the Good News on the Gentile world, as they embrace Christ and place their faith in Him. The name of Christ holds immense power, leading the Gentiles to find salvation through Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.546275239880188,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                28.44,
+                30.26,
+                41.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

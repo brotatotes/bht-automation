@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:50:06",
+    "verseRef": "Matthew 19:21",
+    "bestBHT": {
+        "bht": "Jesus takes the young man who desires perfection on a journey, starting with the command to come and follow Him. The goal is perfection, being perfect as God is perfect. Jesus reminds him that to truly obey and be perfect, he must sell his possessions, give to the poor, and have treasure in heaven. This goes beyond refraining from doing harm and includes loving and doing good to others. Jesus calls for complete obedience and renunciation of the world to follow Him.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.5925636906106964,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+        "commentatorTierSimilarities": [
+            28.4,
+            38.42,
+            33.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord takes him on his own shewing.",
+            "Supposing thy statement true, this topstone has yet to be laid on the fabric.",
+            "But then it is to be noticed, that part of that one thing is Come and follow me."
+        ],
+        "Philip Schaff": [
+            "One duty still remained to make his obedience complete, judged from his own point of view.",
+            "All we have belongs to Christ, but this command is not to be literally obeyed by every one.",
+            "Whenever property interferes with following Christ, it must be given up; and he who would be a Christian must be ready to relinquish it for Christ\u2019s sake."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus assumes that the young man really desires to be perfect.",
+            "Perfect as God is the goal.",
+            "It was a huge demand, for he was rich."
+        ],
+        "John Gill": [
+            "it was not enough to be possessed of negative holiness, and do no hurt to his neighbour, to his person, property, and estate, but he must love him, and do him good...",
+            "...sell that thou hast, and give to the poor, and thou shalt have treasure in heaven...",
+            "between these two, Mark puts, 'take up the cross'; all which to do, was much more than to sell what he had, and give to the poor; and indeed, in this branch lies Gospel perfection..."
+        ],
+        "John Wesley": [
+            "To be a real Christian: Sell what thou hast - He who reads the heart saw his bosom sin was love of the world; and knew he could not be saved from this, but by literally renouncing it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 19:21, Jesus takes the young man who desires perfection on a journey, starting with the command to come and follow Him. The goal is perfection, being perfect as God is perfect. This demand was particularly difficult for the young man to meet because he was wealthy. Jesus reminds him that to truly obey and be perfect, he must sell his possessions, give to the poor, and have treasure in heaven. This goes beyond simply refraining from doing harm to others, but also includes loving and doing good to them. Ultimately, Jesus calls for complete obedience and renunciation of the world for the sake of following Him.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.4921244196802756,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+            "commentatorTierSimilarities": [
+                28.43,
+                36.73,
+                34.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus takes the young man who desires perfection on a journey, starting with the command to come and follow Him. The goal is perfection, being perfect as God is perfect. Jesus reminds him that to truly obey and be perfect, he must sell his possessions, give to the poor, and have treasure in heaven. This goes beyond refraining from doing harm and includes loving and doing good to others. Jesus calls for complete obedience and renunciation of the world to follow Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5925636906106964,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                28.4,
+                38.42,
+                33.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus takes the young man who desires perfection on a journey towards being perfect as God is perfect. To truly obey and be perfect, the young man must sell his possessions, give to the poor, and have treasure in heaven. This goes beyond refraining from harm and entails loving and doing good to others. Jesus calls for complete obedience and renunciation of the world in order to follow Him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.5674756729704065,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                26.25,
+                37.78,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus takes the young man who desires perfection on a journey, starting with the command to come and follow Him. The goal is perfection, being perfect as God is perfect. This demand was particularly difficult for the young man to meet because he was wealthy. Jesus reminds him that to truly obey and be perfect, he must sell his possessions, give to the poor, and have treasure in heaven. This goes beyond simply refraining from doing harm to others, but also includes loving and doing good to them. Ultimately, Jesus calls for complete obedience and renunciation of the world for the sake of following Him.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.5173682596199742,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                29.05,
+                36.7,
+                34.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus takes the young man on a journey towards perfection, setting an ambitious standard of being perfect as God is perfect. The young man's wealth presents a significant obstacle to his obedience. Jesus challenges him to sell his possessions, give to the poor, and attain treasure in heaven. This command extends beyond refraining from harm to actively loving and doing good to others. Jesus requires complete obedience and renunciation of the world in order to follow Him faithfully.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4172056883330624,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                24.87,
+                39.33,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

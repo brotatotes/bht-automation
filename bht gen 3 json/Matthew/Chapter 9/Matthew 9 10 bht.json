@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:45:27",
+    "verseRef": "Matthew 9:10",
+    "bestBHT": {
+        "bht": "At Levi's feast, a strange medley of publicans and sinners gathered, while the Pharisees sharply criticized the breach of social norms. This event powerfully illustrates Christ's command to show kindness and hospitality. The Evangelist's modesty is evident, and Matthew's freedom from ostentation is showcased. Jesus gladly embraced every opportunity to bring salvation to the worst of sinners, demonstrating his genuine desire for their conversion.",
+        "wordCount": 68,
+        "quoteTokenProportion": 27.78,
+        "qualityScore": 1.54035254646831,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+        "commentatorTierSimilarities": [
+            26.61,
+            38.07,
+            35.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The modesty of our Evangelist signally appears here.",
+            "Whether this feast was made now, or not till afterwards, is a point of some importance in the order of events, and not agreed among harmonists.",
+            "In all such cases the word rendered 'sat' is 'reclined,' in allusion to the ancient mode of lying on couches at meals."
+        ],
+        "Albert Barnes": [
+            "To receive Christ hospitably and kindly was a commendable act, and it strongly evinces Matthew\u2019s freedom from ostentation that he has not himself mentioned the fact.",
+            "The character of a 'publican,' or tax-gatherer, among the Jews was commonly not very respectable... and there is no improbability in supposing that Matthew, before his conversion, had sustained the general character of such people.",
+            "It thus illustrates the command of the Saviour, as recorded by himself, Matthew 6:1-4."
+        ],
+        "Philip Schaff": [
+            "The arrangement of Matthew\u2019s narrative seems to have been occasioned by the fact that Jairus came to his house, where the Pharisees were objecting to the keeping company with publicans.",
+            "The mention of the feast required a notice of the call of the publican; and the call occurred during the powerful impression made by the healing of the paralytic.",
+            "The general character of the publicans may be inferred from their associates, \u2018sinners,\u2019 i.e., persons excommunicated and generally disreputable."
+        ],
+        "Archibald T. Robertson": [
+            "Publicans and sinners...often coupled together in common scorn.\" ",
+            "A strange medley at Levi's feast.",
+            "The Pharisees criticize sharply 'your teacher' for such a social breach."
+        ],
+        "John Gill": [
+            "That other publicans and sinners might have an opportunity of hearing Christ, and conversing with him, whom he invited to this feast; his bowels yearning towards them, and sincerely desiring their conversion, which is the nature of true grace.",
+            "When a soul is made a partaker of the grace of God, it is earnestly desirous that this might be the case of others, especially its sinful relations, friends, or companions; and it takes every opportunity of using, or bringing them under the means.",
+            "Christ... gladly embraced every opportunity of doing good to the souls of the worst of men; for such as these he came to call and save."
+        ],
+        "John Wesley": [
+            "The publicans, or collectors of the taxes which the Jews paid the Romans, were infamous for their illegal exactions.",
+            "Sinners - Open, notorious, sinners.",
+            "As Jesus sat at table in the house..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At Levi's feast, a strange medley of publicans and sinners gathered. The modesty of the Evangelist is evident in his account. The Pharisees criticized sharply, pointing out what they saw as a social breach. This event served as a powerful illustration of Christ's command to show kindness and hospitality, as well as Matthew's own freedom from ostentation. The call of Matthew the tax-gatherer, who had likely sustained the general disreputable character of publicans before his conversion, occurred during the time when Jairus came to his house, where the Pharisees objected to the company of publicans. Jesus gladly embraced every opportunity of doing good to the souls of the worst of men, for these were the ones he came to call and save.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.5852993100526587,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.05,
+            "commentatorTierSimilarities": [
+                27.45,
+                39.54,
+                33.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Levi's feast, a strange medley of publicans and sinners gathered. The modesty of the Evangelist is evident in his account. The Pharisees criticized sharply, pointing out what they saw as a social breach. This event served as a powerful illustration of Christ's command to show kindness and hospitality, as well as Matthew's own freedom from ostentation. Jesus gladly embraced every opportunity of doing good to the souls of the worst of men, for these were the ones he came to call and save.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5395699357968418,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                29.56,
+                36.02,
+                34.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A feast was held at Levi's house, bringing together a strange mix of publicans and sinners. The modesty of the Evangelist shines through in his account. The Pharisees sharply criticized the breach of social norms. This event powerfully illustrates Christ's command to show kindness and hospitality, and highlights Matthew's humility. Jesus delighted in the opportunity to bring salvation to the worst of sinners, embracing every chance to do good.",
+            "wordCount": 72,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.4800888876061817,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.56,
+            "commentatorTierSimilarities": [
+                30.93,
+                33.98,
+                35.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At Levi's feast, a strange medley of publicans and sinners gathered, while the Pharisees sharply criticized the breach of social norms. This event powerfully illustrates Christ's command to show kindness and hospitality. The Evangelist's modesty is evident, and Matthew's freedom from ostentation is showcased. Jesus gladly embraced every opportunity to bring salvation to the worst of sinners, demonstrating his genuine desire for their conversion.",
+            "wordCount": 68,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.54035254646831,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                26.61,
+                38.07,
+                35.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A feast was held at Levi's house, with a unique mix of publicans and sinners. The Evangelist's modesty is apparent in his account, as is the strong criticism from the Pharisees regarding the social breach. This event serves as a powerful illustration of Christ's command to show hospitality and kindness to all. Matthew's own humility is evidenced by his failure to mention his act of hosting Jesus. Jesus eagerly embraced every opportunity to bring salvation to the worst sinners, demonstrating his genuine desire for their conversion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4545981939942692,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
+            "commentatorTierSimilarities": [
+                24.45,
+                39.64,
+                35.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

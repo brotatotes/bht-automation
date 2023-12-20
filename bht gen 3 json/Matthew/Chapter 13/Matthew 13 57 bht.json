@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:48:00",
+    "verseRef": "Matthew 13:57",
+    "bestBHT": {
+        "bht": "The people in Jesus' hometown turned against him and were repelled by him because they found it difficult to accept someone so extraordinary coming from their midst. They were envious of his wisdom and too proud to be taught by him. Despite the well-known proverb that a prophet is not without honor in their own country, it is still extraordinary that Jesus, warmly received everywhere else, would be despised in his place of birth. This rejection reveals ingratitude towards God's familiar presence and should have recognized Jesus as divine.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.568580091876035,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+        "commentatorTierSimilarities": [
+            26.71,
+            34.42,
+            38.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "People always look with envy on those of their own rank who advance pretensions to uncommon wisdom or superior power.",
+            "A prophet is not without honour ... He was not an exception. Everywhere else he had been more honored than at home.",
+            "They were envious of his wisdom, and were too proud to be taught by him."
+        ],
+        "John Calvin": [
+            "It may, no doubt, be a general proverb, that those who are distinguished by eminent gifts are nowhere held in less estimation than in their own country.",
+            "This manifests the ingratitude of men, who, in proportion to the greater familiarity with which God exhibits himself to them, are the more bold to reject him in the influences of his Spirit.",
+            "It is truly extraordinary that a prophet of God, whom others warmly receive as a newly-arrived stranger, should be despised in the place where he was born."
+        ],
+        "Philip Schaff": [
+            "They were offended in him, made to stumble. They were led into error and sin with regard to Him.",
+            "A prophet is not without honor, etc. The rejection is accounted for by a proverbial expression, verified by human experience.",
+            "\u2018Familiarity breeds contempt,\u2019 \u2018Distance lends enchantment to the view,\u2019 are still more general expressions of the same principle."
+        ],
+        "Archibald T. Robertson": [
+            "They stumbled at him,\" \"They were repelled by him\" (Moffatt), \"They turned against him\" (Weymouth).",
+            "It was unpardonable for Jesus not to be commonplace like themselves.",
+            "Not without honour (\u03bf\u03c5\u03ba \u03b5\u03c3\u03c4\u03b9\u03bd \u03b1\u03c4\u03b9\u03bc\u03bf\u03c2). This is a proverb found in Jewish, Greek, and Roman writers."
+        ],
+        "John Gill": [
+            "It was a stumbling to them, how he came by his wisdom and power; since he had not these things from men of learning, and could not have them from his relatives: and therefore, rather than believe he had them of himself, or from God, they chose to indulge at least a suspicion, that he had them from the devil.\" ",
+            "if without the advantage of an education without human literature, and the instructions of men, he was able to expound the Scriptures, preach such doctrine, and deliver such words of wisdom, and confirm all this by miracles, and mighty works, they ought to have considered him as a divine person.\" ",
+            "showing, that a prophet, or any teacher, or preacher, generally speaking, is more esteemed among strangers, who have no personal pique, nor prejudices against him, and who judge of him, not by what he has been, but by his present abilities, doctrine, and conduct, than among his countrymen."
+        ],
+        "John Wesley": [
+            "They were offended at him \u2014 They looked on him as a mean, ignoble man, not worthy to be regarded. John 4:44; Luke 7:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Jesus' hometown turned against him and were repelled by him because they found it difficult to accept that someone so extraordinary could come from their own midst. They were envious of his wisdom and too proud to be taught by him. Even though the proverb a prophet is not without honor except in his own country was well-known, it is still extraordinary that a prophet of God, who is warmly received everywhere else, would be despised in the place where he was born. This rejection demonstrates the ingratitude of people, who, when God reveals himself in familiar ways, are bold enough to reject him. Nonetheless, Jesus' lack of education and human credentials did not preclude his divinity, but rather should have allowed his townspeople to see him as a divine person.",
+            "wordCount": 135,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.5445209599877856,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+            "commentatorTierSimilarities": [
+                26.25,
+                32.5,
+                41.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in Jesus' hometown were offended by him and turned against him because they couldn't comprehend how someone so extraordinary could come from their own midst. They were envious of his wisdom and too proud to be taught by him. Despite the proverb that a prophet is not without honor except in their own country, it is still remarkable that those who everywhere else warmly receive a prophet would despise them in their place of birth. This rejection reveals ingratitude towards God's familiar presence and should have recognized Jesus as a divine person.",
+            "wordCount": 96,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.5366176513140988,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                24.66,
+                34.71,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in Jesus' hometown turned against him and were repelled by him because they found it difficult to accept someone so extraordinary coming from their midst. They were envious of his wisdom and too proud to be taught by him. Despite the well-known proverb that a prophet is not without honor in their own country, it is still extraordinary that Jesus, warmly received everywhere else, would be despised in his place of birth. This rejection reveals ingratitude towards God's familiar presence and should have recognized Jesus as divine.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.568580091876035,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                26.71,
+                34.42,
+                38.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Jesus' hometown rejected him because they couldn't comprehend someone extraordinary emerging from their midst. Their envy of his wisdom and pride prevented them from being taught by him. Despite the familiar proverb about a prophet's lack of honor in their own country, it is astounding that Jesus, welcomed elsewhere, would be despised in his birthplace. This rejection reflects ingratitude towards God's familiar presence and should have acknowledged Jesus' divinity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.5228548153313644,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                28.3,
+                32.79,
+                38.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in Jesus' hometown turned against him because they struggled to accept his extraordinary nature. Envious of his wisdom and too proud to be taught, they rejected him. The proverb about a prophet lacking honor in their own country highlights the surprising rejection Jesus faced in his birthplace. This ingratitude towards familiar divine presence should have allowed them to recognize Jesus' divinity and the source of his profound abilities.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.4811386925093113,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                25.66,
+                35.02,
+                39.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

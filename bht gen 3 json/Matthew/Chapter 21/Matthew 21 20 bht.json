@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 23:50:34",
+    "verseRef": "Matthew 21:20",
+    "bestBHT": {
+        "bht": "The fig tree withered away immediately, astonishing the disciples who witnessed it and acknowledging the power of Christ. In awe of the event, Peter spoke on behalf of the rest, recollecting what Jesus had said to the tree the day before and expressing wonder at the swift fulfillment of his words. This was an amazing proof of Christ's power and an undeniable confirmation of his deity.",
+        "wordCount": 67,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.3221569595162723,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+        "commentatorTierSimilarities": [
+            38.68,
+            0.0,
+            61.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Before you can say 'come, ' and 'go, ' And breathe twice; and cry 'so so; ' Each one tripping on his toe Will be here.\" - Tempest, 4 1.",
+            "How did the fig - tree immediately wither away?\" - Rev."
+        ],
+        "John Gill": [
+            "...which was a considerable instance of his power and Godhead, all creatures, animate and inanimate, being at his command and disposal.",
+            "This was said by Peter, in the name of the rest, who recollecting what Jesus had said to it the day before, and observing how the event had answered his words so soon...",
+            "...expressing his wonder at it, and ascribing it to the power of Christ; of which this was an amazing proof and evidence."
+        ],
+        "John Wesley": [
+            "The disciples seeing it \u2014 As they went by, the next day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fig tree withered away immediately, astonishing the disciples who witnessed it and acknowledging the power of Christ. In awe of the event, Peter spoke on behalf of the rest, recalling Jesus' previous words to the tree and marveling at how quickly they were fulfilled. This demonstration of power and authority over all creation further reinforced Jesus' divine nature and the disciples' belief in him.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.289256304189689,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.21,
+            "commentatorTierSimilarities": [
+                38.9,
+                0.0,
+                61.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fig tree withered away immediately, astonishing the disciples who witnessed it and acknowledging the power of Christ. In awe of the event, Peter spoke on behalf of the rest, recollecting what Jesus had said to the tree the day before and expressing wonder at the swift fulfillment of his words. This was an amazing proof of Christ's power and an undeniable confirmation of his deity.",
+            "wordCount": 67,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3221569595162723,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                38.68,
+                0.0,
+                61.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the passage, the fig tree withers away instantly, leaving the disciples astounded and recognizing the authority of Christ. Peter, speaking on behalf of his companions, reflects on Jesus' previous words to the tree and marvels at how quickly they were fulfilled. This remarkable demonstration of power not only confirmed Christ's divinity but also showcased his complete control over all creation.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.1200440687059934,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.59,
+            "commentatorTierSimilarities": [
+                38.7,
+                0.0,
+                61.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fig tree immediately withers away, leaving the disciples stunned and acknowledging the power of Christ. Peter, speaking on behalf of the others, recalls Jesus' previous words to the tree and is amazed by the rapid fulfillment of his statement. This astonishing event serves as indisputable evidence of Christ's authority and further reinforces his divine nature.",
+            "wordCount": 57,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.183438434780997,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.69,
+            "commentatorTierSimilarities": [
+                41.96,
+                0.0,
+                58.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fig tree withers away instantly, astonishing the disciples who witnessed it and acknowledging the power of Christ. In awe of the event, Peter recalls what Jesus had said to the tree the day before and marvels at the swift fulfillment of his words. This was an amazing proof of Christ's power and an undeniable confirmation of his divine nature.",
+            "wordCount": 61,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.3018658233975473,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "commentatorTierSimilarities": [
+                39.55,
+                0.0,
+                60.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 23:44:55",
+    "verseRef": "Matthew 7:13",
+    "bestBHT": {
+        "bht": "The difficulty of entering through the narrow gate lies in triumphing over natural inclinations. Many are lured towards the wide gate that leads to destruction. The narrow way is compressed and represents a path filled with challenges. Despite the alluring lights of the broad way, it ultimately leads to destruction. Choosing the narrow gate means embarking on the road that leads to true life, albeit with straits and afflictions.",
+        "wordCount": 69,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8563039319419627,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+        "commentatorTierSimilarities": [
+            32.73,
+            31.37,
+            35.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Enter ye in at the strait",
+            "gate\u2014as if hardly wide enough to admit one at all. This expresses the difficulty of the first right step in religion, involving, as it does, a triumph over all our natural inclinations.\" ",
+            "Hence the still stronger expression in Luke ( :-), 'Strive to enter in at the strait gate.'",
+            "that leadeth to destruction, and\u2014thus lured 'many there be which go in thereat.'"
+        ],
+        "Marvin Vincent": [
+            "Strait gate [\u03c3\u03c4\u03b5\u03bd\u03b7\u03c2 \u03c0\u03c5\u03bb\u03b7\u03c2] . Rev., narrow.",
+            "This is the way which leadeth into true culture.",
+            "Note that the gate is not at the end, but at the beginning of the road."
+        ],
+        "John Calvin": [
+            "Lest we should be captivated, on the other hand, by the allurements of a licentious and dissolute life, and wander as the lust of the flesh draws us, he declares that they rush headlong to death, who choose to walk along the broad road, and through the wide gate, instead of keeping by the strait gate, and narrow way, which lead to life.",
+            "But though the doctrine of Christ confines and hems us in, reduces our life to a narrow road, separates us from the crowd, and unites us to a few companions, yet this harshness ought not to prevent us from striving to obtain life.",
+            "I have therefore thought it best to introduce here the whole passage from Luke, which corresponds to this sentence. While I have been careful to inform my readers, as to the order of time which is observed by Luke, they will forgive me, I hope, for not being more exact than Matthew in the arrangement of the doctrine."
+        ],
+        "Philip Schaff": [
+            "Enter ye in by, or through, the narrow gate. The 'gate' is mentioned first; the way afterwards.",
+            "To follow our natural tendencies is to pursue the broad way.",
+            "Carnal Christianity passes on to similar judgment."
+        ],
+        "Archibald T. Robertson": [
+            "The narrow gate\" is repeated in verse Matthew 7:14 and straitened the way (\u03c4\u03b5\u03b8\u03bb\u03b9\u03bc\u03bc\u03b5\u03bd\u03b7 \u03b7 \u03bf\u03b4\u03bf\u03c2) added. The way is 'compressed,' narrowed as in a defile between high rocks, a tight place like \u03c3\u03c4\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03b9\u03b1 in Romans 8:35.\" ",
+            "The way that leads to life involves straits and afflictions.\" ",
+            "The broad way\" is in every city, town, village, with the glaring white lights that lure to destruction."
+        ],
+        "John Gill": [
+            "By the 'strait gate' is meant Christ himself; who...is into the church below, and into all the ordinances and privileges of it...",
+            "The gate of carnal lusts, and worldly pleasures, stands wide open, and many there be which go in thereat; even all men in a state of nature...",
+            "...the way of the ungodly is 'broad', smooth, easy, and every way agreeable to the flesh; it takes in a large compass of vices, and has in it abundance of company; but its end is destruction."
+        ],
+        "John Wesley": [
+            "The strait gate \u2014 The holiness described in the foregoing chapters. And this is the narrow way.",
+            "Wide is the gate, and many there are that go in through it \u2014 They need not seek for this; they come to it of course.",
+            "Many go in through it, because strait is the other gate \u2014 Therefore they do not care for it; they like a wider gate. Luke 13:24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The strait gate in Matthew 7:13 is depicted as hardly wide enough to admit even one person, emphasizing the difficulty of taking the first step in religion and triumphing over natural inclinations. This gate leads to destruction, and many are lured into it. The narrow gate is repeated in verse 14, emphasizing the compressed and tight path it represents. While the broad way with its alluring lights may be tempting, it ultimately leads to destruction. To enter through the narrow gate is to embark on the road that leads to true life, even though it may involve straits and afflictions.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9279373943291662,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                32.73,
+                28.59,
+                38.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The narrow gate in the passage symbolizes the difficulty of taking the first step in religion and triumphing over natural inclinations. It leads to life, but many are lured towards the wide gate that ultimately leads to destruction. The narrow way is compressed and represents a path filled with challenges. Though the broad way may seem tempting with its alluring lights, it leads to destruction. Choosing the narrow gate means embarking on the road that leads to true life, despite the straits and afflictions it may entail.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8494056279389448,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+            "commentatorTierSimilarities": [
+                32.3,
+                29.71,
+                37.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The difficulty of entering through the narrow gate lies in triumphing over natural inclinations. Many are lured towards the wide gate that leads to destruction. The narrow way is compressed and represents a path filled with challenges. Despite the alluring lights of the broad way, it ultimately leads to destruction. Choosing the narrow gate means embarking on the road that leads to true life, albeit with straits and afflictions.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8563039319419627,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                32.73,
+                31.37,
+                35.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The narrow gate in Matthew 7:13 symbolizes the initial difficulty of taking the first right step in religion, requiring triumph over natural inclinations. Many are enticed into the wide gate that leads to destruction. The narrow way is a compressed, tight path, involving straits and afflictions. Although the broad way with its alluring lights is easily accessible, it ultimately leads to ruin. Choosing the narrow gate is embarking on the road that leads to true life, despite the challenges it entails.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8426814875339979,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                32.28,
+                30.19,
+                37.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The narrow gate represents the difficulty of the first step in religion, requiring a triumph over our natural inclinations. Many are lured into the wide gate that leads to destruction. The narrow way is compressed and tight, involving straits and afflictions. Although the broad way with its alluring lights is easily accessible, it ultimately leads to ruin. Choosing the narrow gate means embarking on the road that leads to true life, navigating through challenges and trials.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7759784025582297,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                32.12,
+                30.49,
+                37.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

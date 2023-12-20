@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:48:10",
+    "verseRef": "Matthew 14:23",
+    "bestBHT": {
+        "bht": "In a moment of need, Jesus sought the Father's sympathy. The disciples misunderstood him, and the masses were filled with misguided enthusiasm. Recognizing the temptation to be made a king, Jesus turned to prayer as the solution. He retreated to a solitary place, emphasizing the importance of freeing the mind from worldly distractions and fixing it on heaven. By pouring out his heart to the Father, Jesus exemplified the diligence of seeking guidance for himself and others.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.5809909750013502,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+        "commentatorTierSimilarities": [
+            35.12,
+            37.81,
+            27.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "Though Christ was in no danger of this fault, yet he intended to warn us by his example, that we ought to be exceedingly careful to avail ourselves of every assistance for setting our minds free from all the snares of the world, that we may look direct towards heaven.",
+            "Now in this respect solitude has a powerful influence, by disposing those who engage in prayer, when God is their only witness, to be more on their guard, to pour their heart into his bosom, to be more diligent in self-examination.",
+            "That permission to pray in all places does not hinder them from engaging in secret prayer at proper seasons."
+        ],
+        "Philip Schaff": [
+            "The attempt to make Him a king was a temptation to be met by prayer.",
+            "Alone with His Father. Prayer succeeded and preceded His labors for men.",
+            "Prayer succeeded and preceded His labors for men."
+        ],
+        "Archibald T. Robertson": [
+            "If ever he needed the Father's sympathy, it was now.",
+            "The masses were wild with enthusiasm and the disciples wholly misunderstood him.",
+            "The Father alone could offer help now."
+        ],
+        "John Gill": [
+            "This he chose as a proper place for prayer, where he could be retired, and alone, have his thoughts free, and, as man, pour out his soul to his Father, on his own account, and on the behalf of others.",
+            "His going up into a mountain and praying there, were quite contrary to the canons of the Jews; which forbid praying in places ever so little raised.",
+            "But Christ did not look upon himself obliged, by these traditions of the elders; but chose such places, whether high or low, which were most private and retired."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Finding himself in a challenging situation, Jesus sought solace in the sympathy of the Father, recognizing that the disciples misunderstood him and the masses were filled with misguided enthusiasm. He understood the temptation to be made into a king and knew that prayer was the answer to overcoming it. By retreating to a solitary place to pray, Jesus demonstrated the importance of seeking God's assistance in freeing our minds from worldly distractions and focusing our gaze towards heaven. In this secluded space, Jesus poured out his heart to the Father, engaging in self-examination and diligently seeking guidance for himself and others. Despite going against traditional Jewish practices, Jesus chose secluded locations for prayer, emphasizing the significance of privacy and solitude in connecting with God.",
+            "wordCount": 126,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.455526193497051,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                23.03,
+                39.01,
+                37.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a situation where Jesus desperately needed the Father's sympathy and faced a misunderstood discipleship, he understood the temptation of being made a king and found prayer to be the solution. Seeking a solitary place to pray, he exemplified the need to rid our minds of worldly distractions and look towards heaven. Jesus poured out his heart to the Father, engaging in self-examination and diligently seeking guidance for himself and others. He defied traditional Jewish practices, highlighting the significance of privacy and solitude in connecting with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.489479824224886,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                24.07,
+                38.98,
+                36.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a time where Jesus needed the Father's sympathy, he found solace in prayer. With the masses filled with misguided enthusiasm and the disciples misunderstanding him, Jesus recognized the temptation to be made a king. Seeking a secluded place to pray, he emphasized the importance of freeing our minds from worldly snares and directing our focus towards heaven. By pouring his heart out to the Father and engaging in self-examination, Jesus exemplified the diligence and necessity of seeking guidance both for himself and others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5757808163938418,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                29.71,
+                37.27,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of misunderstanding and temptation, Jesus turned to the Father for solace and guidance. The masses were captivated by misguided enthusiasm, while the disciples failed to comprehend his true purpose. Seeking a secluded place for prayer, Jesus demonstrated the importance of disconnecting from the distractions of the world to focus solely on heaven. By pouring his heart out to the Father, Jesus showed the significance of self-examination and diligent seeking of assistance, not only for himself but also for others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.418466276516794,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                30.63,
+                36.39,
+                32.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a moment of need, Jesus sought the Father's sympathy. The disciples misunderstood him, and the masses were filled with misguided enthusiasm. Recognizing the temptation to be made a king, Jesus turned to prayer as the solution. He retreated to a solitary place, emphasizing the importance of freeing the mind from worldly distractions and fixing it on heaven. By pouring out his heart to the Father, Jesus exemplified the diligence of seeking guidance for himself and others.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5809909750013502,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "commentatorTierSimilarities": [
+                35.12,
+                37.81,
+                27.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

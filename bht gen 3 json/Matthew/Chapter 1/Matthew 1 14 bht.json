@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 23:42:09",
+    "verseRef": "Matthew 1:14",
+    "bestBHT": {
+        "bht": "This verse illuminates the brevity of human life in the context of biblical genealogies, where generations are condensed into a countable number. It serves as a humbling reminder of the transitory nature of our existence, prompting us to make the most of the time we have been given. It emphasizes the significance of recognizing our place in God's larger plan and encourages us to live purposefully, mindful of the fleeting nature of our lives.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 0.3044354862027001,
+        "qualityScoreNormalizedComparedToV2BHTs": 1.47,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            ":-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse highlights the significance of the time between generations in biblical genealogies, illustrating the brevity of each individual's life in the grand context of history. The brevity of human life is emphasized here, as the many generations are reduced to a countable number. This passage reminds us of the transitory nature of our existence and the importance of making the most of the time we have been given. It serves as a humbling reminder that our lives are but a small part of God's larger plan.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 0.23604300765222624,
+            "qualityScoreNormalizedComparedToV2BHTs": -0.81,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This verse illuminates the brevity of human life in the context of biblical genealogies. It reminds us that our existence is fleeting, as generations are condensed into a countable number. This serves as a humbling reminder of the transitory nature of our lives and calls us to make the most of the time we have been given. It underscores the importance of recognizing our place in God's broader plan.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 0.16654267867929057,
+            "qualityScoreNormalizedComparedToV2BHTs": -3.12,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage sheds light on the brevity of human life within biblical genealogies, emphasizing the transitory nature of existence. It serves as a reminder to seize the opportunity and make the most of the limited time we have. The compressed timelines of generations underscore the significance of each individual's role in God's greater plan. It prompts us to reflect on our place in the larger scope of history and to live with intention and purpose.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.10455491168326453,
+            "qualityScoreNormalizedComparedToV2BHTs": -5.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse illuminates the brevity of human life in the context of biblical genealogies, where generations are condensed into a countable number. It serves as a humbling reminder of the transitory nature of our existence, prompting us to make the most of the time we have been given. It emphasizes the significance of recognizing our place in God's larger plan and encourages us to live purposefully, mindful of the fleeting nature of our lives.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 0.3044354862027001,
+            "qualityScoreNormalizedComparedToV2BHTs": 1.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse highlights the brevity of human life within biblical genealogies, emphasizing the transitory nature of our existence. It serves as a reminder to make the most of the limited time we have been given and to recognize our place within God's larger plan. The compressed timelines of generations remind us of the fleeting nature of our lives and call us to live with intention and purpose. It is a humbling reflection on the significance of our role in the grand scope of history.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 0.2311757128489645,
+            "qualityScoreNormalizedComparedToV2BHTs": -0.97,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:42:20",
+    "verseRef": "Matthew 2:14",
+    "bestBHT": {
+        "bht": "When Joseph arose from his sleep, he wasted no time in taking the young child and his mother by night to depart for Egypt, promptly obeying God's command. Through their nighttime departure, Joseph concealed their escape and ensured their safety. This immediate response showcased Joseph's genuine faith and commitment to protecting the child. Though some speculate that Jesus may have been around two years old at this time, accusations of Jesus performing miracles through magic and stealing knowledge from the Egyptians arose, yet Joseph's expeditious obedience held steadfast.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.2192731332275883,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+        "commentatorTierSimilarities": [
+            23.98,
+            30.46,
+            45.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14. When he arose, he took the young",
+            "\tchild and his mother by night, and departed into Egypt\u2014doubtless",
+            "\tthe same night."
+        ],
+        "Albert Barnes": [
+            "Having arisen; that is, he arose immediately after awaking from his dream, and prepared at once to obey the command.",
+            "Thus he showed his prompt obedience to the command.",
+            "At the same time so concealed his departure as to render himself and Mary and the child safe from pursuit."
+        ],
+        "Philip Schaff": [
+            "Implying immediate obedience; characteristic of genuine faith.",
+            "By night, i.e., the same night.",
+            "Departed, or, 'withdrew,' the same word which was used respecting the Magi."
+        ],
+        "John Gill": [
+            "Joseph was very punctual and expeditious in obeying the command of God...",
+            "...rather Jesus must be about two years of age, whether something under, or over, it matters not, when Joseph with him departed into Egypt...",
+            "To which wicked accusation Arnobius seems to refer, when he says, 'perhaps we may meet with many other of these reproachful and childish sayings; as that he was a magician, that he performed all these things by secret arts, and that he stole strange sciences, and the names of mighty angels, out of the temples of the Egyptians.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Joseph awoke from his dream, he immediately rose and took the young child and his mother, Mary, by night to depart for Egypt, obeying God's command promptly. By leaving in the darkness, he concealed their departure and ensured their safety. Joseph's quick obedience displayed his genuine faith. Some suggest that Jesus may have been around two years old at this time, as Arnobius mentions the accusations of Jesus performing miracles through magic and stealing knowledge from the Egyptians. Nevertheless, Joseph's expeditious response to God's command highlights his unwavering commitment to protect the child.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.1015307319476233,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.97,
+            "commentatorTierSimilarities": [
+                18.08,
+                34.64,
+                47.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Joseph arose, he immediately took the young child and his mother by night and departed for Egypt, demonstrating his prompt obedience to God's command. His swift action concealed their departure and ensured their safety. This immediate response showcased Joseph's genuine faith and commitment to protecting the child. While some speculate that Jesus may have been around two years old at this time, accusations of Jesus performing miracles through magic and stealing knowledge from the Egyptians arise. Nonetheless, Joseph's expeditious obedience remains a testament to his unwavering devotion.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.0936072132969081,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.71,
+            "commentatorTierSimilarities": [
+                19.12,
+                34.89,
+                45.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Joseph arose from his sleep, he wasted no time in taking the young child and his mother by night to depart for Egypt, promptly obeying God's command. Through their nighttime departure, Joseph concealed their escape and ensured their safety. This immediate response showcased Joseph's genuine faith and commitment to protecting the child. Though some speculate that Jesus may have been around two years old at this time, accusations of Jesus performing miracles through magic and stealing knowledge from the Egyptians arose, yet Joseph's expeditious obedience held steadfast.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.2192731332275883,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+            "commentatorTierSimilarities": [
+                23.98,
+                30.46,
+                45.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prompted by a divine revelation, Joseph swiftly arose and took the young child and his mother by night to depart for Egypt, carefully concealing their escape. This immediate response exemplified Joseph's genuine faith and demonstrated his unwavering commitment to safeguarding the child. While some conjecture that Jesus may have been around two years old at the time, accusations of Jesus performing miracles through magic and acquiring forbidden knowledge from the Egyptians surfaced. Nevertheless, Joseph's expeditious obedience reflected his steadfast devotion to fulfilling God's instructions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.080226588242668,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.26,
+            "commentatorTierSimilarities": [
+                19.23,
+                30.64,
+                50.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In immediate response to a divine command, Joseph promptly arose and departed for Egypt, taking the young child and his mother by night. His swift obedience and cautious departure concealed their escape and ensured their safety. This prompt action revealed Joseph's genuine faith and unwavering commitment to protecting the child. Though Jesus may have been around two years old, accusations of his alleged magical abilities and theft of knowledge from the Egyptians emerged. Nonetheless, Joseph's expeditious obedience reflects his steadfast devotion to God's will.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.1126716926629596,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.34,
+            "commentatorTierSimilarities": [
+                20.53,
+                34.12,
+                45.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

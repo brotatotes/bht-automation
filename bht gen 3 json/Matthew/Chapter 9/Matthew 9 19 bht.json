@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:45:16",
+    "verseRef": "Matthew 9:19",
+    "bestBHT": {
+        "bht": "A chief man of the city came to Jesus, attracting an unusual interest from the crowds. Though seemingly insignificant, there were some for whom this case resonated deeply. Purposefully approaching Jesus from behind, a woman touched the fringe of his garment, a minimal contact. Immediately, he responded, overlooking any negative treatment and accompanying her without delay.",
+        "wordCount": 56,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.1845500986880138,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.73,
+        "commentatorTierSimilarities": [
+            0.0,
+            60.92,
+            39.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Crowds usually attended Him, but the presence of the chief man of the city would excite unusual interest.",
+            "However commonplace the case may seem to many, there are some in whose experience when clearly seen and seriously attended to, it touches a mysterious cord of painful sympathy.",
+            "Hence she purposely came behind him, or 'came to Him from behind,' and touched the border, or 'fringe,' of his garment. The edge of the outer robe which He wore. This was the slightest contact possible."
+        ],
+        "John Gill": [
+            "Immediately, without delay, or any more ado.",
+            "He did not upbraid him with the treatment he and his followers met with.",
+            "These things he overlooked, and at once got up from Matthew's table, and went along with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A chief man of the city, attended by a crowd, sought out Jesus for help. Although the case may seem commonplace, it deeply resonated with the woman seeking healing. She discreetly touched the border of Jesus' garment, the slightest contact possible. Immediately, without delay, Jesus responded and went along with her. He did not hold any grudges against her or question her actions but instead offered his assistance willingly.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.025228994044762,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.43,
+                43.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A prominent figure, accompanied by a multitude, approached Jesus for aid. Though some might view the situation as ordinary, there were those who found it profoundly relatable, evoking an enigmatic surge of sympathy. Consequently, an anonymous woman deliberately sought Jesus from behind and lightly touched the border of his garment, a mere brush. In response, Jesus promptly acknowledged her, disregarding any ill treatment he or his followers encountered, and immediately rose from the table, joining her on her journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.0640193291853073,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                65.49,
+                34.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A chief man of the city came to Jesus, attracting an unusual interest from the crowds. Though seemingly insignificant, there were some for whom this case resonated deeply. Purposefully approaching Jesus from behind, a woman touched the fringe of his garment, a minimal contact. Immediately, he responded, overlooking any negative treatment and accompanying her without delay.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.1845500986880138,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.92,
+                39.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A prominent individual from the city sought Jesus, stirring up great interest among the crowds. Although the situation may appear ordinary to some, it profoundly resonated with certain individuals, invoking a mysterious and poignant sympathy. Purposefully approaching Jesus from behind, the woman discreetly touched the border of his garment, the slightest possible contact. Immediately, Jesus responded, overlooking any mistreatment and without delay, he rose from his table and went with her.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1243259557223428,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                67.29,
+                32.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A distinguished figure, accompanied by a throng of people, approached Jesus, engendering exceptional curiosity. While this case may seem commonplace, it deeply touched the hearts of those with a keen understanding, invoking a profound and sympathetic response. Purposefully coming from behind, a woman gently brushed the fringe of Jesus' garment, the most minimal contact possible. Instantaneously, Jesus responded, disregarding any reproach or mistreatment, and promptly rose from his place and proceeded with her.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.0568205720621622,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                66.45,
+                33.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

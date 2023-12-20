@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:45",
+    "verseRef": "Matthew 26:49",
+    "bestBHT": {
+        "bht": "Judas, in a studied and prearranged sign, eagerly and ostentatiously kissed Jesus to appear deeply grieved at their separation. This deceitful act of embracing and kissing was meant to show respect and love for Jesus, as Judas addressed Him as Rabbi and wished Him health, prosperity, and happiness. However, Jesus saw through this act of ostentation and responded accordingly, recognizing the treachery behind Judas's calculated kiss.",
+        "wordCount": 67,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7088708509446628,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+        "commentatorTierSimilarities": [
+            27.68,
+            32.41,
+            39.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The purpose of the kiss, supposing it to have taken place after John vv. 4\u20138, [...] has been doubted. Yet I think on a review of what had happened, it is very intelligible.",
+            "The kiss would be necessary in the course of their military duty, as their authorization,\u2014notwithstanding the previous declaration by Jesus of Himself.",
+            "The word in the original implies, 'kissed him eagerly,' with ostentation, as a studied and prearranged sign."
+        ],
+        "Marvin Vincent": [
+            "The compound verb has the force of an emphatic, ostentatious salute.",
+            "The same word is used of the tender caressing of the Lord 's feet by the woman in the Pharisee 's house, of the father 's embrace of the returned prodigal, and of the farewell of the Ephesian elders to Paul.",
+            "Meyer says embraced and kissed."
+        ],
+        "John Calvin": [
+            "I have no doubt that Judas, as if trembling for his Master's danger, pretended by these words to have some feeling of compassion.",
+            "Though it was a very common practice among the Jews to welcome friends with a kiss, yet as Judas had left Christ but a little before, he seems now \u2014 as if he had become suddenly alarmed at his danger \u2014 to give the last kiss to his Master.",
+            "Thus he excels the rest in the appearance of affection, when he appears to be deeply grieved at being separated from his Master; but how little he gained by his deception is evident from Christ's reply."
+        ],
+        "Philip Schaff": [
+            "Hail, Rabbi. A deceitful address.",
+            "Kissed him. A stronger word than that used in the last verse... a caressing, corresponding with the purpose of Judas to make sure, and with the excitement of his feelings.",
+            "The sign was the simple kissing; but the performance was more emphatic."
+        ],
+        "John Gill": [
+            "The salutation he gave him was wishing him all health, prosperity, and happiness. The Syriac version renders it, 'peace, Rabbi'; and the Persic, 'peace be upon thee, Rabbi'; which was the very form of salutation the disciples of the wise men gave to their Rabbins.",
+            "In Mark 14:45, the word 'Rabbi' is repeated, this being usual in the salutation of the Jewish doctors; and the rather used by Judas under a pretence of doing him the greater honour, and of showing the highest respect, and strongest affection for him.",
+            "Yet, I can hardly think that this was done out of open contempt and derision; but under a pretence of respect and love; and even as being concerned for his present case, and as condoling him under the circumstances he was now likely to be in."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, under the pretense of showing respect and love for Jesus, eagerly and ostentatiously kissed Him, as if deeply grieved at being separated from his Master. This kiss was not a sincere act but a deceitful gesture, as Judas had left Jesus not long before. By using the term Rabbi and wishing Him health, prosperity, and happiness, Judas attempted to appear affectionate towards Jesus. However, Jesus saw through this deception and responded accordingly. Judas's kiss, though a common practice of greeting among the Jews, was ultimately a calculated and treacherous act.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6131388678303877,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                25.65,
+                33.21,
+                41.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, in a studied and prearranged sign, eagerly and ostentatiously kissed Jesus to appear deeply grieved at their separation. This deceitful act of embracing and kissing was meant to show respect and love for Jesus, as Judas addressed Him as Rabbi and wished Him health, prosperity, and happiness. However, Jesus saw through this act of ostentation and responded accordingly, recognizing the treachery behind Judas's calculated kiss.",
+            "wordCount": 67,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7088708509446628,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+            "commentatorTierSimilarities": [
+                27.68,
+                32.41,
+                39.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas' purpose in the kiss, after reviewing what had happened, becomes intelligible. It was an ostentatious and prearranged sign, an emphatic and studied salute. Although the kiss was a common practice of greeting, Judas used it deceptively, pretending affection and concern for Jesus. By addressing Him as Rabbi and wishing Him health and prosperity, Judas aimed to appear deeply grieved at being separated from his Master. Nonetheless, Jesus saw through this calculated act and responded accordingly.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5580312990452807,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.15,
+            "commentatorTierSimilarities": [
+                30.45,
+                33.02,
+                36.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas' motive behind the kiss becomes clear upon reflection. It was an ostentatious, studied sign, showing an eager and prearranged embrace. This act of affection, where Judas addressed Jesus as Rabbi and wished Him health and prosperity, was likely a deception rather than genuine concern. Despite the common practice of greeting with a kiss, Judas's calculated kiss was a treacherous gesture that Jesus saw through, revealing the true nature of his intentions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.672070576158068,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                27.95,
+                34.99,
+                37.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas's purpose in the kiss, after considering the events that transpired, becomes clear. It was an ostentatious and prearranged sign\u2014a deliberate and emphatic salute. This act of embracing and kissing Jesus served as a calculated gesture, pretending affection and concern. Judas addressed Jesus as Rabbi, wishing Him health, prosperity, and happiness, in an attempt to appear deeply grieved by their separation. However, Jesus discerned the deceit behind Judas's kiss and responded accordingly.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5251691264318752,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                32.36,
+                33.41,
+                34.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

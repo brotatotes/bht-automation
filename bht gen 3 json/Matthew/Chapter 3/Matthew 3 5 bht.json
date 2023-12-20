@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:42:45",
+    "verseRef": "Matthew 3:5",
+    "bestBHT": {
+        "bht": "The region around the Jordan River, which included parts of Per\u00e6a, Samaria, Galilee, and Gaulonitis, witnessed a remarkable gathering of people who responded to the cry of John the Baptist, the great preacher of repentance and herald of the Messiah. From the heart of the city to the outskirts of Judea, a multitude of trooping penitents and eager expectants were drawn to John's message. His unique appearance, austere lifestyle, and the anticipation of a prophet after a long hiatus drew large crowds, including self-righteous Jews, to the wilderness for baptism.",
+        "wordCount": 92,
+        "quoteTokenProportion": 20.31,
+        "qualityScore": 1.6584635399202632,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+        "commentatorTierSimilarities": [
+            35.47,
+            27.32,
+            37.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All the region round about Jordan means all the neighbourhood of Jordan.\" ",
+            "Parts of Per\u00e6a, Samaria, Galilee, and Gaulonitis come under this denomination.",
+            "There need be no surprise at such multitudes going out to John."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From the metropolitan center to the extremities of the Judean province the cry of this great preacher of repentance and herald of the approaching Messiah brought trooping penitents and eager expectants.",
+            "The cry of this great preacher of repentance and herald of the approaching Messiah brought trooping penitents and eager expectants.",
+            "Trooping penitents and eager expectants."
+        ],
+        "Albert Barnes": [
+            "All Judea - Many people from Judea. It does not mean that literally all the people went, but that great multitudes went. It was general.",
+            "Judea was situated on the west side of the Jordan.",
+            "Region about Jordan - On the east and west side of the river. Near to Jordan."
+        ],
+        "Philip Schaff": [
+            "The inhabitants of the capital city are first referred to.",
+            "All Judea, the multitude was great enough to justify this expression.",
+            "John\u2019s spiritual power was so great, that it became quite the fashion, even among the self-righteous Jews, to go out into the wilderness to be baptized."
+        ],
+        "John Gill": [
+            "The uncommon appearance of this person, the oddness of his dress, the austerity of his life, together with the awfulness and importance of his doctrine...\" ",
+            "...the Jews having had no prophet for some hundreds of years, and imagining he might be the Messiah, quickly drew large numbers of people to him.",
+            "Some copies read 'all Jerusalem': that is, the inhabitants of that city, a very large number of them; and 'all Judea', a great number of people from all parts of that country. 'All' is here put for 'many'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The region surrounding the Jordan River was teeming with people who flocked to hear the cry of John the Baptist, the great preacher of repentance and messenger of the coming Messiah. Multitudes from all over Judea, Samaria, Galilee, and Gaulonitis came to the outskirts of the Jordan, attracted by the powerful spiritual presence of John and the significance of his message. The sheer number of trooping penitents and eager expectants, including even the self-righteous Jews, demonstrated the profound impact of John's ministry. The uncommon appearance and austere life of John, coupled with the anticipation of a long-awaited prophet, drew large crowds who believed he might be the Messiah.",
+            "wordCount": 111,
+            "quoteTokenProportion": 22.67,
+            "qualityScore": 1.6825908144730755,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
+            "commentatorTierSimilarities": [
+                32.24,
+                26.81,
+                40.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The region surrounding the Jordan River, encompassing parts of Per\u00e6a, Samaria, Galilee, and Gaulonitis, was a magnet for people drawn by the voice of John the Baptist, the great preacher of repentance and herald of the approaching Messiah. From the metropolitan center to the far reaches of Judea, troves of penitents and expectants journeyed to hear his cry, illustrating the immense reach and impact of his powerful message. The remarkable appearance, austere lifestyle, and prophetic expectations surrounding John compelled even the self-righteous Jews to join the throngs in the wilderness seeking baptism.",
+            "wordCount": 93,
+            "quoteTokenProportion": 18.18,
+            "qualityScore": 1.5669699350135393,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                36.77,
+                26.4,
+                36.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The region surrounding the Jordan River, including parts of Per\u00e6a, Samaria, Galilee, and Gaulonitis, witnessed an influx of people from all over, as the cry of John the Baptist, the great preacher and herald of the Messiah, drew trooping penitents and eager expectants. From the metropolitan center to the far corners of Judea, the powerful message of repentance resonated, causing even the self-righteous Jews to venture into the wilderness for baptism. The extraordinary appearance and austere lifestyle of John, combined with the anticipation of a long-awaited prophet, compelled large crowds to gather.",
+            "wordCount": 94,
+            "quoteTokenProportion": 20.59,
+            "qualityScore": 1.6001844423544052,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
+            "commentatorTierSimilarities": [
+                35.11,
+                25.45,
+                39.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The region around the Jordan River, which included parts of Per\u00e6a, Samaria, Galilee, and Gaulonitis, witnessed a remarkable gathering of people who responded to the cry of John the Baptist, the great preacher of repentance and herald of the Messiah. From the heart of the city to the outskirts of Judea, a multitude of trooping penitents and eager expectants were drawn to John's message. His unique appearance, austere lifestyle, and the anticipation of a prophet after a long hiatus drew large crowds, including self-righteous Jews, to the wilderness for baptism.",
+            "wordCount": 92,
+            "quoteTokenProportion": 20.31,
+            "qualityScore": 1.6584635399202632,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                35.47,
+                27.32,
+                37.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The region surrounding the Jordan River, encompassing Per\u00e6a, Samaria, Galilee, and Gaulonitis, witnessed the immense impact of John the Baptist's preaching. People from all over, including the self-righteous Jews, were drawn to his cry for repentance. Crowds of trooping penitents and expectants flocked to John, recognizing the significance of his message as he served as the harbinger of the coming Messiah. Despite the absence of prophets for centuries, the oddness of his appearance and the importance of his doctrine quickly attracted large numbers of people who speculated that John might be the long-awaited Messiah.",
+            "wordCount": 97,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.5776786306334505,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "commentatorTierSimilarities": [
+                29.84,
+                25.78,
+                44.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

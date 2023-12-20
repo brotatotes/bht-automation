@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:49:24",
+    "verseRef": "Matthew 16:19",
+    "bestBHT": {
+        "bht": "Peter, the first to admit both Jews and Gentiles into the Church, used the power of the keys to open the door of salvation. The binding and loosing pertain to the power of legislation given to the apostles, rather than the remission and retention of sins. The claim of supreme authority by the papacy is baseless, as there is no evidence of Peter having any authority above the other apostles. Peter's role was to open the gates of the Church to the Gentiles and declare the confession of the church.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.4876627535593996,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.05,
+        "commentatorTierSimilarities": [
+            37.61,
+            34.95,
+            27.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Another personal promise to Peter, remarkably fulfilled in his being the first to admit both Jews and Gentiles into the Church; thus using the power of the keys to open the door of salvation.",
+            "But strictly considered, the binding and loosing belong to the power of legislation in the Church committed to the Apostles, in accordance with the Jewish way of using the words bind and loose for prohibit and allow.",
+            "They cannot relate to the remission and retention of sins, for though to loose sins certainly appears to mean to forgive sins, to bind sins for retaining them would be altogether without example, and, I may add, would bear no meaning in the interpretation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whatever this means, it was soon expressly extended to all the apostles.\" ",
+            "The claim of supreme authority in the Church, made for Peter by the Church of Rome, and then arrogated to themselves by the popes as the legitimate successors of St. Peter, is baseless and impudent.\" ",
+            "One thing is clear, that not in all the New Testament is there the vestige of any authority either claimed or exercised by Peter, or conceded to him, above the rest of the apostles\u2014a thing conclusive against the Romish claims in behalf of that apostle."
+        ],
+        "Marvin Vincent": [
+            "Even as he had been the first to utter the confession of the church, so was he also privileged to be the first to open its hitherto closed gates to the Gentiles.",
+            "These powers Christ now transferred, and that not in their pretension, but in their reality, to this apostles; the first, here, to Peter, as their representative, the second, after his resurrection, to the church.",
+            "The power of binding and loosing...is shown to be of necessity a power of a collegiate nature, so that Peter is not to be regarded as exclusively endowed with it, either in whole or in part, but is simply to be looked upon as first among his equals."
+        ],
+        "John Calvin": [
+            "The comparison of the keys is very properly applied to the office of teaching; as when Christ says (Luke 11:52) that the scribes and Pharisees, in like manner, have the key of the kingdom of heaven, because they are expounders of the law.",
+            "It is a wonderful consolation to devout minds to know that the message of salvation brought to them by a poor mortal man is ratified before God.",
+            "Certainly, if it were true that Christ has left nothing undone to exalt the heirs of Peter, still he was not so lavish as to part with his own honor to bestow it on apostates."
+        ],
+        "Philip Schaff": [
+            "Peter first admitted Jews (on the day of Pentecost) and Gentiles (Cornelius) to the Church; and first excluded (Ananias and Sapphira; Simon Magus).",
+            "The keys of the kingdom of heaven...are not the keys of the Church but 'of the kingdom of heaven.'",
+            "The power seems to be judicial also...this promise also is, in its full sense, applicable only to the Apostles."
+        ],
+        "Archibald T. Robertson": [
+            "The same power here given to Peter belongs to every disciple of Jesus in all the ages.",
+            "Peter held the keys precisely as every preacher and teacher does.",
+            "Every preacher uses the keys of the kingdom when he proclaims the terms of salvation in Christ."
+        ],
+        "John Gill": [
+            "By the kingdom of heaven is meant the Gospel, which comes from heaven, declares the king Messiah to be come, speaks of things concerning his kingdom, is the means of setting it up, and enlarging it, displays the riches of his grace, and gives an account of the kingdom of heaven, and of persons' right unto it, and meetness for it.",
+            "Keys are the ensigns of treasurers, and of stewards, and such the ministers of the Gospel are; they have the rich treasure of the word under their care, put into their earthen vessels to open and lay before others; and they are stewards of the mysteries and manifold grace of God, and of these things they have the keys.",
+            "The sense of the words is this, that Peter, and so the rest of the apostles, should be empowered with authority from him, and so directed by his Holy Spirit, that whatever they bound, that is, declared to be forbidden, and unlawful, should be so: and that whatever they loosed, that is, declared to be lawful, and free of use, should be so; and accordingly they bound some things which before were loosed, and loosed some things which before were bound."
+        ],
+        "John Wesley": [
+            "I will give thee the keys of the kingdom of heaven.\" ",
+            "To him were first given the keys both of doctrine and discipline.",
+            "Under the term of binding and loosing are contained all those acts of discipline which Peter and his brethren performed as apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter received a personal promise from Jesus in Matthew 16:19. As the first to admit both Jews and Gentiles into the Church, Peter used the keys of the kingdom to open the door of salvation. Some interpret the binding and loosing as referring to the power of legislation in the Church, while others argue that it pertains to the forgiveness of sins. Regardless, it is clear that Peter's authority was not exclusive, as the power was soon extended to all the apostles. The claim of supreme authority by the papacy is baseless, as there is no evidence of Peter having any authority above the other apostles. Instead, Peter's role was to be the first to declare the confession of the church and open its gates. The power of binding and loosing is not limited to Peter but belongs to every disciple of Jesus. Preachers and teachers also exercise this power when they proclaim the terms of salvation.",
+            "wordCount": 158,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 2.3545311605048496,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+            "commentatorTierSimilarities": [
+                38.59,
+                34.05,
+                27.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, as the first to admit both Jews and Gentiles into the Church, used the keys of the kingdom to open the door of salvation. The binding and loosing can be seen as either pertaining to legislative power or the forgiveness of sins. However, it is clear that Peter's authority was not exclusive and was soon extended to all the apostles. The claim of supreme authority by the papacy is baseless, as there is no evidence of Peter having any authority above the other apostles. Instead, Peter's role was to be the first to declare the confession of the church and open its gates to the Gentiles.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.380140234353604,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.48,
+            "commentatorTierSimilarities": [
+                37.29,
+                35.11,
+                27.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, the first to admit both Jews and Gentiles into the Church, used the power of the keys to open the door of salvation. The binding and loosing can be understood as the power of legislation in the Church. It is clear that Peter's authority was not exclusive, as the power was soon extended to all the apostles. The claim of supreme authority by the papacy is baseless, as there is no evidence of Peter having any authority above the other apostles. Instead, Peter's role was to open the previously closed gates of the Church to the Gentiles.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.39713696885615,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.04,
+            "commentatorTierSimilarities": [
+                37.93,
+                36.51,
+                25.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, as the first to admit both Jews and Gentiles into the Church, used the power of the keys to open the door of salvation. The binding and loosing can be interpreted as the power of legislation in the Church, given to the apostles. However, it is clear that Peter's authority was not exclusive, as the power was extended to all the apostles. The claim of supreme authority by the papacy is unfounded, as there is no evidence of Peter having any authority above the other apostles. Instead, Peter's role was to open the gates of the Church to the Gentiles, proclaiming the confession of the church.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.5012446201181837,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.51,
+            "commentatorTierSimilarities": [
+                37.89,
+                36.63,
+                25.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, the first to admit both Jews and Gentiles into the Church, used the power of the keys to open the door of salvation. The binding and loosing pertain to the power of legislation given to the apostles, rather than the remission and retention of sins. The claim of supreme authority by the papacy is baseless, as there is no evidence of Peter having any authority above the other apostles. Peter's role was to open the gates of the Church to the Gentiles and declare the confession of the church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.4876627535593996,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.05,
+            "commentatorTierSimilarities": [
+                37.61,
+                34.95,
+                27.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

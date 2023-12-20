@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:53:01",
+    "verseRef": "Matthew 26:4",
+    "bestBHT": {
+        "bht": "The chief priests and scribes, in their puzzled state of mind, sought to take Jesus by subtilty and kill him. They were grappling with the challenge of capturing him, as they were aware of his influential following among the Galilean crowds, evident from the Triumphal Entry and the temple debates. Their previous attempts on his life had proven unsuccessful, prompting them to meet together and devise a cunning scheme to ensure their success in apprehending and retaining him, fulfilling the words of Psalms 2:2 to some extent.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.253187277607342,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.01,
+        "commentatorTierSimilarities": [
+            49.76,
+            15.95,
+            34.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 26:4. By subtlety. On account of the impression made by our Lord upon the people, which still continued (Luke 21:38).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They took counsel together...indicating their puzzled state of mind.\" ",
+            "Their problem now is how to take Jesus by subtilty and kill him.\" ",
+            "The Triumphal Entry and the Tuesday debate in the temple revealed the powerful following that Jesus had among the crowds from Galilee."
+        ],
+        "John Gill": [
+            "The Jews had often attempted his life, but he escaped out of their hands.",
+            "They therefore meet and consult together, to form some scheme, and make use of some stratagem, that they might lay hold on him, and keep him.",
+            "Hereby Psalms 2:2, had its accomplishment, at least in part."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests and the scribes were puzzled and worried about how to subdue Jesus and kill him. They were aware of his powerful following among the crowds from Galilee, as evidenced by the Triumphal Entry and the debate in the temple. Their past attempts to take his life had failed, so now they gathered together to devise a plan and use cunning strategies to capture and keep him. In doing so, they fulfilled the words of Psalms 2:2, though only partially.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.226692478186517,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.13,
+            "commentatorTierSimilarities": [
+                45.2,
+                18.86,
+                35.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests and scribes, puzzled by Jesus' influence and following, struggled to find a subtle way to seize and eliminate him. Their past attempts had been unsuccessful, leading them to strategize together and devise a plan to capture and hold him. This fulfillment of Psalms 2:2 was a partial realization of their intentions, as the strong support Jesus enjoyed among the Galilean crowds was evident during the Triumphal Entry and the temple debates.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.0742958065068229,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.06,
+            "commentatorTierSimilarities": [
+                46.65,
+                17.07,
+                36.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests and scribes, in their puzzled state of mind, sought to take Jesus by subtilty and kill him. They were grappling with the challenge of capturing him, as they were aware of his influential following among the Galilean crowds, evident from the Triumphal Entry and the temple debates. Their previous attempts on his life had proven unsuccessful, prompting them to meet together and devise a cunning scheme to ensure their success in apprehending and retaining him, fulfilling the words of Psalms 2:2 to some extent.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.253187277607342,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.01,
+            "commentatorTierSimilarities": [
+                49.76,
+                15.95,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and scribes were puzzled and determined to take Jesus by subtilty and kill him, considering his significant following among the people. Their failed attempts to seize him in the past led them to plot and strategize together, seeking a cunning plan to apprehend and retain him. In this way, they fulfilled the prophecy of Psalms 2:2, even if only partially, as they aimed to lay hold of Jesus and ensure their success.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.2276309821119566,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "commentatorTierSimilarities": [
+                42.03,
+                19.48,
+                38.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and scribes, in their puzzled state of mind, sought a subtle way to capture Jesus and eliminate him, given his influential following among the Galilean crowds. Their previous attempts on his life had proved futile, motivating them to collaborate and devise a cunning scheme to apprehend and detain him. In doing so, they partially fulfilled the prophecy of Psalms 2:2, as they aimed to lay hold of Jesus and secure their desired outcome.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.1973673553745314,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.16,
+            "commentatorTierSimilarities": [
+                41.07,
+                19.81,
+                39.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

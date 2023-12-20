@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:48:43",
+    "verseRef": "Matthew 16:12",
+    "bestBHT": {
+        "bht": "By using the metaphor of leaven, Jesus referred to teachings, specifically those of the Pharisees and Sadducees. The leaven symbolized how teachings permeate and shape beliefs. The Pharisees' leaven was hypocrisy, while the Sadducees espoused liberal beliefs. Jesus warned against mixing personal inventions with God's word, emphasizing the need to discern true teachings. He sought to expose and diminish the doctrine of the Pharisees and Sadducees, highlighting the importance of adhering to the pure and uncorrupted word of God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 27.08,
+        "qualityScore": 2.2715816036367307,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+        "commentatorTierSimilarities": [
+            38.19,
+            31.16,
+            30.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "The word leaven is very evidently used by Christ as contrasted with the pure and uncorrupted word of God.",
+            "The naked truth of God, and the inventions which men contrive out of their own brain, are unquestionably the two things that are contrasted.",
+            "All who mingle their own inventions with the word of God, or who advance anything that does not belong to it, must be rejected, how honorable soever may be their rank, or whatever proud titles they may wear."
+        ],
+        "Philip Schaff": [
+            "The leaven of the Pharisees is 'hypocrisy.' But the Sadducees, the 'liberal Jews' of that age, went to the other extreme.",
+            "Without Him strict morality ('Pharisees') and free inquiry ('Sadducees') inevitably become hypocritical.",
+            "Principles, tendencies, 'teachings,' are most permeating, and if evil, most dangerous."
+        ],
+        "Archibald T. Robertson": [
+            "They saw the point after this elaborate rebuke and explanation that by 'leaven' Jesus meant 'teaching.'"
+        ],
+        "John Gill": [
+            "They perceived that he did not speak of [leaven in bread], but of the doctrine of the Pharisees and of the Sadducees.",
+            "[Christ] calls their doctrine [leaven in the lump], because it proceeded from thence, and was agreeable thereunto.",
+            "[Jesus] uses the phrase on purpose to expose it [the doctrine of the Pharisees and Sadducees] and bring it into neglect and contempt."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus used the metaphor of leaven to refer to teachings, specifically the teachings of the Pharisees and Sadducees. Just as leaven permeates and influences the entire lump of dough, so do teachings and principles affect and shape a person's beliefs and actions. The leaven of the Pharisees was hypocrisy, while the Sadducees swung to the extreme of liberal beliefs. Jesus cautioned against the dangers of mixing one's own inventions and teachings with the pure word of God. It is important to discern teachings that are in line with God's truth and reject those that are contrary to it.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.143656060859026,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.62,
+            "commentatorTierSimilarities": [
+                37.0,
+                32.81,
+                30.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus used the metaphor of leaven to refer to teachings, specifically the teachings of the Pharisees and Sadducees. The Pharisees' leaven was hypocrisy, while the Sadducees erred on the side of liberal beliefs. Principles and teachings have a permeating and dangerous influence. It is important to discern and reject teachings that are mixed with human inventions and do not align with the pure word of God. Jesus exposed and brought the doctrine of the Pharisees and Sadducees into neglect and contempt.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1341125377073977,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.3,
+            "commentatorTierSimilarities": [
+                34.25,
+                35.42,
+                30.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus used the metaphor of leaven to refer to teachings, particularly those of the Pharisees and Sadducees. The leaven symbolized how teachings and principles permeate and shape a person's beliefs and actions. The leaven of the Pharisees was hypocrisy, while the Sadducees embodied liberal beliefs. Jesus warned against mixing one's own inventions with the pure word of God and emphasized the importance of discerning true teachings. He exposed and aimed to bring the doctrine of the Pharisees and Sadducees into neglect and contempt.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.22389713387693,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.29,
+            "commentatorTierSimilarities": [
+                36.75,
+                32.23,
+                31.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By using the metaphor of leaven, Jesus referred to teachings, specifically those of the Pharisees and Sadducees. The leaven symbolized how teachings permeate and shape beliefs. The Pharisees' leaven was hypocrisy, while the Sadducees espoused liberal beliefs. Jesus warned against mixing personal inventions with God's word, emphasizing the need to discern true teachings. He sought to expose and diminish the doctrine of the Pharisees and Sadducees, highlighting the importance of adhering to the pure and uncorrupted word of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.2715816036367307,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+            "commentatorTierSimilarities": [
+                38.19,
+                31.16,
+                30.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus used the metaphor of leaven to reveal that the teachings of the Pharisees and Sadducees were like leaven that permeated and affected everything. The Pharisees' leaven was hypocrisy, while the Sadducees embraced liberal beliefs. These teachings had a dangerous influence, contrasting with the pure and uncorrupted word of God. Jesus exposed and aimed to bring into neglect and contempt the doctrine that stemmed from their teachings. He emphasized the need to discern between what aligns with God's truth and what does not.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2034563115712684,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                37.92,
+                31.37,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

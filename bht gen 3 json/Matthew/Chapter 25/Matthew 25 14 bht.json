@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:52:55",
+    "verseRef": "Matthew 25:14",
+    "bestBHT": {
+        "bht": "In this parable, the kingdom of heaven is likened to a man about to travel to a distant country. This man represents Christ, who entrusts his servants, all who submit themselves to him, with various gifts and abilities, both natural and spiritual. Everything that belongs to his people, all that can be used for his glory, is claimed by him and should be devoted to his service. The parable emphasizes the need for Christians to actively use and multiply their talents for the cause of the kingdom.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.0117789797156154,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+        "commentatorTierSimilarities": [
+            29.22,
+            37.32,
+            33.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have this parable and the preceding one alluded to in very few words by Mark xiii. 34\u201336.",
+            "In it we have the active side of the Christian life, and its danger, set before us, as in the last the contemplative side.",
+            "The parable is still concerned with Christians (his own servants), and not the world at large."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the kingdom of heaven is as a man\u2014The ellipsis is better supplied by our translators in the corresponding passage of Mark...[For the Son of man is] as a man.",
+            "Between master and slaves this was not uncommon in ancient times. Christ's 'servants' here mean all who, by their Christian profession, stand in the relation to Him of entire subjection.",
+            "His 'goods' mean all their gifts and endowments, whether original or acquired, natural or spiritual...Christ has a claim to everything which belongs to His people, everything which may be turned to good, and He demands its appropriation to His service."
+        ],
+        "Albert Barnes": [
+            "The design of the parable is to teach that those who improve their talents or faculties in the cause of religion...shall be proportionally rewarded.",
+            "The kingdom of heaven is like such a man - that is, 'God deals with people in his government as such a man did.'",
+            "He has given to all talents to improve."
+        ],
+        "Marvin Vincent": [
+            "Travelling [\u03b1\u03c0\u03bf\u03b4\u03b7\u03bc\u03c9\u03bd] . The sense is more nearly about to travel, like our going abroad."
+        ],
+        "Philip Schaff": [
+            "The events illustrated in the previous parable, \u2018The kingdom of heaven\u2019 is not specific enough.",
+            "Here Christ is represented as a man of wealth; in Luke as a nobleman gone to receive a kingdom.",
+            "The spiritual blessings which are \u2018his;\u2019 more general than chap. Matthew 24:45, where the office of the ministry is plainly referred to."
+        ],
+        "Archibald T. Robertson": [
+            "The kingdom of heaven is as when.",
+            "This Parable of the Talents is quite similar to the Parable of the Pounds in Luke 19:11-28, but they are not variations of the same story.",
+            "Some scholars credit Jesus with very little versatility."
+        ],
+        "John Gill": [
+            "For [the kingdom of heaven] is as a man travelling... this man is said to travel into a far country; by which heaven is designed.",
+            "By 'his own servants' are meant... ministers of the word, who are eminently the servants of Christ, his own...",
+            "And delivered unto them his goods; the Gospel, that rich treasure of divine truths, the dispensation of it, and gifts to preach it; all which are Christ's goods and his gifts, and not man's."
+        ],
+        "John Wesley": [
+            "May God give all such in this their day, ears to hear and hearts to understand it!",
+            "The kingdom of heaven - That is, the King of heaven, Christ.",
+            "The final reward of a harmless man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this parable, the kingdom of heaven is likened to a man who is about to travel to a far country. The man represents Christ who has entrusted his servants, all who submit themselves to him, with various gifts and abilities, both natural and spiritual. Everything that belongs to his people, all that can be used for his glory, is claimed by him and should be devoted to his service. The parable emphasizes the need for Christians to actively use and multiply their talents for the cause of the kingdom. Those who faithfully improve what they have been given will be rewarded accordingly, while those who fail to do so will face consequences. This parable contrasts with the previous one, which focused on the contemplative side of the Christian life, to demonstrate the danger of neglecting our responsibilities. May we all carefully consider the implications of this parable and devote ourselves wholeheartedly to the service of our King.",
+            "wordCount": 158,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9125514641619064,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                31.6,
+                37.29,
+                31.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this parable, the kingdom of heaven is likened to a man who is about to travel to a far country. Christ, represented as the man, entrusts his servants with gifts and talents to be used for His service. The parable teaches the importance of actively using and multiplying these gifts. Those who faithfully improve what they have been given will be rewarded, while those who neglect their responsibilities will face consequences. It is a reminder for all Christians to wholeheartedly serve and utilize the resources God has given them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.8561207024086366,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                28.93,
+                36.75,
+                34.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, the kingdom of heaven is illustrated through the story of a man preparing to travel to a distant country. The man symbolizes Christ, who entrusts his servants with various gifts and endowments to be used for His service. The parable emphasizes the need for active engagement and multiplication of these talents. Those who faithfully improve what they have been given will be rewarded, while those who neglect their responsibilities will face consequences. It is a reminder for all Christians to utilize their God-given resources in service to Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7740840001814235,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                29.37,
+                37.23,
+                33.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this parable, the kingdom of heaven is compared to a man who is preparing to travel to a distant country. This man represents Christ, who entrusts his own servants with various gifts and talents to be used for his service. These gifts include both natural and spiritual endowments, and everything that belongs to his people is claimed by him and should be devoted to his service. The parable emphasizes the importance of actively using and multiplying these gifts for the advancement of the kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.955537684965242,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                28.03,
+                37.0,
+                34.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this parable, the kingdom of heaven is likened to a man about to travel to a distant country. This man represents Christ, who entrusts his servants, all who submit themselves to him, with various gifts and abilities, both natural and spiritual. Everything that belongs to his people, all that can be used for his glory, is claimed by him and should be devoted to his service. The parable emphasizes the need for Christians to actively use and multiply their talents for the cause of the kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0117789797156154,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                29.22,
+                37.32,
+                33.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

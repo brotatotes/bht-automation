@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:50:46",
+    "verseRef": "Matthew 21:27",
+    "bestBHT": {
+        "bht": "The reply of Neither tell I you from our Lord is a response not only to their words but also to their inward thoughts and disregard for the truth. This response displays the composure and wisdom of our Lord, who takes advantage of their surprise and silence to proceed with two parables. Their deliberate lie and opposition against their own conscience showcases their ignorance. Since they failed to provide a direct answer, our Lord sees no obligation to reveal his authority and the source from whence he had it.",
+        "wordCount": 89,
+        "quoteTokenProportion": 48.44,
+        "qualityScore": 1.8458844058687847,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+        "commentatorTierSimilarities": [
+            38.36,
+            31.41,
+            30.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The neither tell I you of our Lord is an answer, not to their outward words, \u201cwe cannot tell,\u201d but to their inward thoughts, \u201cwe will not tell.\u201d"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the truth itself they cared nothing whatever.\" ",
+            "What composure and dignity of wisdom does our Lord here display.",
+            "Taking advantage of the surprise, silence, and awe produced by this reply, our Lord followed it up immediately by the two following parables."
+        ],
+        "Philip Schaff": [
+            "We know not. A falsehood; as Matthew 21:25-26, show.",
+            "Christ answers their thought: we will not tell. This refusal is similar to that made when a sign from heaven was demanded (chap. Matthew 12:38 ff.).",
+            "The answer assumes their proven and confessed incompetency to decide on the authority of a prophet, and consequently His superiority to their questioning. Such a defeat increased their opposition."
+        ],
+        "John Gill": [
+            "They chose rather therefore to speak against their own consciences, and tell a wilful lie, and incur the reproach of ignorance.",
+            "But now being reduced to this wretched condition, contrary to their office and character, declare they did not know, and could not tell from whence John had his commission, and who gave him his authority.",
+            "Since, according to the proposal of Christ, and the agreement he entered into with them, they did not give him a direct answer to his question, he looked upon himself under no obligation to inform them, what was his authority, and from whence he had it."
+        ],
+        "John Wesley": [
+            "Neither tell I you \u2014 Not again, in express terms: he had often told them before, and they would not believe him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The response of Neither tell I you from our Lord is not just a reply to their words, but a response to their inner thoughts and rejection of the truth. It reveals their complete disregard for the truth itself. In this moment, our Lord exhibits composure and wisdom, taking advantage of their surprise and silence to proceed with the following parables. This refusal to answer is similar to previous instances when signs were demanded, showcasing His superiority and their defeated opposition. Their deliberate choice to lie and oppose their own consciences only further highlights their ignorance and incompetence to decide on the authority of a prophet. Thus, since they did not provide a direct answer, our Lord saw no obligation to reveal his own authority.",
+            "wordCount": 125,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.702738880689847,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                35.55,
+                36.16,
+                28.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reply of Neither tell I you from our Lord serves as a response to not only their words but also their inner thoughts and rejection of the truth. Displaying composure and wisdom, our Lord capitalizes on their surprise and silence by following up with two parables. Their deliberate falsehood and opposition against their own consciences only highlight their ignorance. Declining to provide a direct answer, our Lord considers it unnecessary to disclose his authority since they failed to do so themselves.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8065161292703,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                38.41,
+                33.18,
+                28.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reply of Neither tell I you from our Lord is a response not only to their words but also to their inward thoughts and disregard for the truth. This response displays the composure and wisdom of our Lord, who takes advantage of their surprise and silence to proceed with two parables. Their deliberate lie and opposition against their own conscience showcases their ignorance. Since they failed to provide a direct answer, our Lord sees no obligation to reveal his authority and the source from whence he had it.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.8458844058687847,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                38.36,
+                31.41,
+                30.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In reply to their inward thoughts and rejection of the truth, our Lord's response of Neither tell I you displays composure and wisdom. Seizing the opportunity created by their surprise and silence, our Lord proceeds with two parables. Their deliberate falsehood and disregard for their own consciences expose their ignorance. Consequently, since they failed to provide a direct answer, our Lord sees no obligation to disclose the authority and source of his commission.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.681332112792688,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                38.75,
+                32.79,
+                28.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The response of Neither tell I you from our Lord is not just a reply to their words, but a response to their inner thoughts and rejection of the truth. It reveals their complete disregard for the truth itself. In this moment, our Lord exhibits composure and wisdom, taking advantage of their surprise and silence to proceed with the following parables. This refusal to answer is similar to previous instances when signs were demanded, showcasing His superiority and their defeated opposition. Their deliberate choice to lie and oppose their own consciences only further highlights their ignorance and incompetence to decide on the authority of a prophet. Thus, since they did not provide a direct answer, our Lord saw no obligation to reveal his own authority.",
+            "wordCount": 125,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.702738880689847,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                35.55,
+                36.16,
+                28.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

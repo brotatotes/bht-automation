@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:51:43",
+    "verseRef": "Matthew 23:31",
+    "bestBHT": {
+        "bht": "The Pharisees were witnesses to themselves, acknowledging that they were the children of those who killed the prophets. Their actions and hypocrisy demonstrated that they inherited the same spirit and principles as their ancestors. The Pharisees, in their attempts to appear pious, failed to truly understand their own condition and the gravity of their fathers' crimes. Their acknowledgment of their ancestors' actions was not meant to reproach them, but rather to elevate their own character. However, their practices exposed their true nature, aligning them morally and spiritually with their predecessors.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.8760506055315127,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+        "commentatorTierSimilarities": [
+            0.0,
+            46.89,
+            53.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Ye be witnesses unto yourselves - The emphasis, here, lies in the words 'to yourselves.' It is an appeal to their conscience.",
+            "It was not by their building the tombs that they were witnesses that they were the children of those who killed the prophets; but that, in spite of all this pretence of piety, under all this cloak of profession, they knew in their consciences, and were witnesses to themselves, that it was mere hypocrisy.",
+            "Children of them... - Resembling them; approving their conduct; inheriting their feelings."
+        ],
+        "Philip Schaff": [
+            "You acknowledge the sins of your fathers, but hypocritically deny your own, adding hypocrisy to impiety.",
+            "Ye witness to yourselves, your own consciences condemning you, that ye are the sons (morally as well as naturally) of them that slew the prophets.",
+            "Doing this in appearance only, the Pharisees showed that they had no true conception of either their own condition, or the crime of their fathers."
+        ],
+        "John Gill": [
+            "For what they said was a plain acknowledgment, and a full confession, what their fathers had done, and whose offspring they were.",
+            "They plainly owned, that their fathers killed the prophets, and that they descended from them; though they meant not so much to reproach their ancestors, as to give themselves a greater character.",
+            "Their practices showed them to be of the same spirit and principles with their progenitors."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the Pharisees were witnesses to themselves, acknowledging that they were the children of those who killed the prophets. Their actions and hypocrisy demonstrated that they inherited the same spirit and principles as their ancestors. The Pharisees, in their attempts to appear pious, failed to truly understand their own condition and the gravity of their fathers' crimes. Their acknowledgment of their ancestors' actions was not meant to reproach them, but rather to elevate their own character. However, their practices exposed their true nature, aligning them morally and spiritually with their predecessors.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8699859946650033,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.93,
+                53.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, in their facade of piety, admitted the sins of their fathers and their connection as descendants. This acknowledgment exposed their own hypocrisy and aligned them morally and spiritually with their ancestors. Despite seeking to elevate their character, their actions betrayed their true nature. Their lack of understanding of both their condition and the severity of their fathers' crimes further highlighted their own ignorance.",
+            "wordCount": 65,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.6590635962643996,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.56,
+                51.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, by witnessing to themselves, admitted that they descended from those who had killed the prophets. Their outward display of righteousness was merely a pretense, exposing their hypocrisy and their true connection to their forefathers. Their practices demonstrated that they shared the same spirit and principles as those who came before them. Despite their attempt to distance themselves from their ancestors, their actions showcased that they were morally and spiritually aligned with them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7727735874870383,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.15,
+                56.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees were witnesses to themselves, acknowledging that they were the children of those who killed the prophets. Their actions and hypocrisy demonstrated that they inherited the same spirit and principles as their ancestors. The Pharisees, in their attempts to appear pious, failed to truly understand their own condition and the gravity of their fathers' crimes. Their acknowledgment of their ancestors' actions was not meant to reproach them, but rather to elevate their own character. However, their practices exposed their true nature, aligning them morally and spiritually with their predecessors.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8760506055315127,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.89,
+                53.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, in their pretense of piety, admitted their connection as descendants of those who killed the prophets. Their hypocrisy betrayed their shared spirit and principles with their ancestors. Their misunderstanding of their own condition and their ancestors' crimes was showcased through their acknowledgment, which aimed to elevate their character. Nonetheless, their true nature was revealed through their actions, aligning them morally and spiritually with their forefathers.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.8087281965731126,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.48,
+                53.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

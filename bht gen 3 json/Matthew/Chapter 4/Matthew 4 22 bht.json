@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:43:18",
+    "verseRef": "Matthew 4:22",
+    "bestBHT": {
+        "bht": "When Jesus called the disciples, they left their father and the fishing business to follow Him. Their immediate obedience demonstrated their devotion to Christ and willingness to prioritize Him above all else. Their act of leaving behind worldly affairs serves as a challenge for believers to be willing to renounce everything, if necessary, to follow Jesus. The power of Christ's voice and the commendation of their docility emphasize the importance of ready obedience in answering His call. Their example also encourages ministers to wholeheartedly devote themselves to their calling in the Church.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.2267242461683985,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.13,
+        "commentatorTierSimilarities": [
+            20.92,
+            30.24,
+            48.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They left their father Zebedee in the ship with the hired servants.",
+            "Was this the same calling as that recorded in Mark 1:20-? Clearly not.",
+            "Here, our Lord had made no public appearance in Galilee, and so had gathered none around Him; He is walking solitary by the shores of the lake when He accosts the two pairs of fishermen."
+        ],
+        "Albert Barnes": [
+            "If necessary, we should leave father, and mother, and every friend.\" ",
+            "We should be the followers of Jesus.\" ",
+            "Every child in a Sunday school ought to be a Christian; and then should strive and pray that God would convert his parents, and make them Christians too."
+        ],
+        "John Calvin": [
+            "The first thing that strikes us here is the power of Christ\u2019s voice.",
+            "The second is, the commendation bestowed on the docility and ready obedience of his disciples, who prefer the call of Christ to all worldly affairs.",
+            "The ministers of the Word ought, in a particular manner, to be directed by this example, to lay aside all other occupations, and to devote themselves unreservedly to the Church, to which they are appointed."
+        ],
+        "Philip Schaff": [
+            "Renounce every human tie, if necessary, to follow Christ.",
+            "Yet human ties are not severed by following Christ.",
+            "The brothers remained brethren in the Lord, and these four companions in fishing were joined most closely as \u2018fishers of men.'"
+        ],
+        "John Gill": [
+            "They not only left their nets, but their ship too; which was of much more value.\" ",
+            "They complied with the call of Christ to his people and thereby proved that they were sincerely his followers.\" ",
+            "They might expect the gracious promise of Christ to be made good unto them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples left their father and the fishing business to follow Jesus. This wasn't just a casual calling; it was a call that required a complete commitment. They recognized the power in Jesus' voice and saw the importance of obeying His call. They were ready to leave behind all worldly affairs and dedicate themselves to the work of spreading the Gospel. Their example serves as a challenge for all believers to prioritize their relationship with Christ above everything else, even familial ties.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.1936183445871824,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.03,
+            "commentatorTierSimilarities": [
+                27.65,
+                29.97,
+                42.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples responded to Jesus' call with a profound obedience, leaving behind their father and livelihood to follow Him. Their actions demonstrated their sincere devotion to Christ and their willingness to prioritize Him above all else. The power of Christ's voice was evident in their immediate response. This serves as a challenge to all believers, showing the importance of being willing to renounce worldly ties for the sake of following Jesus and being devoted to the work of spreading the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.1429393309647857,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.35,
+            "commentatorTierSimilarities": [
+                18.34,
+                31.28,
+                50.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples left everything behind to follow Jesus, forsaking their livelihood and family ties. They recognized the power in Christ's voice and were commended for their ready obedience. This example serves as an encouragement for ministers of the Word to devote themselves wholeheartedly to the Church and prioritize their calling above all other occupations. By leaving their nets and ship, the disciples proved their sincere discipleship, expecting the gracious promises of Christ to be fulfilled in their lives.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.225417542539208,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.09,
+            "commentatorTierSimilarities": [
+                18.6,
+                29.95,
+                51.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus called the disciples, they left their father and the fishing business to follow Him. Their immediate obedience demonstrated their devotion to Christ and willingness to prioritize Him above all else. Their act of leaving behind worldly affairs serves as a challenge for believers to be willing to renounce everything, if necessary, to follow Jesus. The power of Christ's voice and the commendation of their docility emphasize the importance of ready obedience in answering His call. Their example also encourages ministers to wholeheartedly devote themselves to their calling in the Church.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.2267242461683985,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.13,
+            "commentatorTierSimilarities": [
+                20.92,
+                30.24,
+                48.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples responded to Jesus' call by leaving behind their father and the fishing business to follow Him. Their willingness to renounce worldly affairs in order to prioritize Jesus serves as a challenge for believers. The power of Christ's voice, their ready obedience, and the commendation of their docility emphasize the importance of answering His call wholeheartedly. Their example encourages ministers to devote themselves fully to their calling in the Church, demonstrating their sincere discipleship and expectation of God's gracious promises.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.219171474306044,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+            "commentatorTierSimilarities": [
+                20.44,
+                28.39,
+                51.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

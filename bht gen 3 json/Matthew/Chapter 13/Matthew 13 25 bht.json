@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:47:37",
+    "verseRef": "Matthew 13:25",
+    "bestBHT": {
+        "bht": "The enemy sowed tares among the wheat, hiding their destructive nature until they resembled the true crop. This malicious act, practiced in the East and also seen in England today, poses a dangerous risk to the church and believers. These tares initially look like genuine wheat, having a form of godliness and an appearance of grace, but ultimately prove to be unfruitful and destined for destruction. It is vital for believers to remain vigilant, recognizing and guarding against those who may outwardly appear as true followers but lack genuine faith.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.5836526425794113,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+        "commentatorTierSimilarities": [
+            27.94,
+            26.6,
+            45.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the tares appeared when the wheat came into ear, having been previously not noticeable.",
+            "Our Lord was speaking of an act of malice practised in the East:\u2014persons of revengeful disposition watch the ground of a neighbour being ploughed, and in the night following sow destructive weeds.",
+            "The practice is not unknown even in England at present."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25, 38, 39. But while men slept, his",
+            "\tenemy came and sowed tares among the wheat, and went his way\u2014(See",
+            "\ton Matthew 13:1)."
+        ],
+        "Marvin Vincent": [
+            "Sowed [\u03b5\u03c0\u03b5\u03c3\u03c0\u03b5\u03b9\u03c1\u03b5\u03bd] . The preposition ejpi, upon, indicates sowing over what was previously sown. Rev., \"sowed also."
+        ],
+        "Philip Schaff": [
+            "But while men slept, i.e., \u2018at night,\u2019 the opportune time for such an act of malice.",
+            "Tares,' 'darnel' or bastard wheat, looking like wheat, but with a fruit which is injurious in its effects.",
+            "An act of malice not unexampled."
+        ],
+        "Archibald T. Robertson": [
+            "The enemy deliberately sowed 'the darnel' over the wheat, 'in the midst of the wheat.'\" (29 words)",
+            "This bearded darnel, lolium temulentum, is common in Palestine and resembles wheat except that the grains are black.\" (22 words)",
+            "In its earlier stages it is indistinguishable from the wheat stalks so that it has to remain till near the harvest.\" (20 words)"
+        ],
+        "John Gill": [
+            "Such a case with the church, and good men, is very dangerous, as it exposes to every sin and snare; renders them liable to lose the presence of Christ, their liveliness and comfort; and tends to poverty and leanness of soul.",
+            "He [the devil] is an enemy to Christ personally, and showed himself to be so in his infancy, by stirring up Herod to seek his life: and, when grown up, by instigating the Jews to contrive his death.",
+            "At first they look like wheat, like true believers, have a show of religion, a form of godliness, an appearance of grace, but are destitute of it; and prove tares, unfruitful, unprofitable, and of no account, yea hurtful, and whose end is to be burned."
+        ],
+        "John Wesley": [
+            "They ought to have watched: the Lord of the field sleepeth not.",
+            "This is very like wheat, and commonly grows among wheat rather than among other grain.",
+            "Tares or vetches are of the pulse kind, and bear no resemblance to wheat."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:25, Jesus speaks of the enemy who sowed tares among the wheat while men slept. This act of malice, practiced in the East, involved sowing destructive weeds in the neighbor's plowed field. The bearded darnel, which resembles wheat but has black grains, can remain indistinguishable from the wheat until near the harvest. This dangerous situation exposes the church and good believers to various sins and snares, causing the potential loss of Christ's presence, liveliness, and comfort. It also leads to spiritual poverty and leanness. It is crucial to remain vigilant, for the enemy seeks to harm Christ personally and destroy true believers by instigating sin and death. These tares, initially looking like wheat, lack true grace and bear no fruit, making them unfruitful, unprofitable, and destined to be burned.",
+            "wordCount": 132,
+            "quoteTokenProportion": 26.04,
+            "qualityScore": 1.6087074921477291,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                30.28,
+                28.85,
+                40.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, tares are described as appearing when the wheat comes into ear, being unnoticed previously. The enemy deliberately sowed the darnel among the wheat, as it resembles wheat until near harvest. This act of malice, common in the East and even present in England today, is a danger to the church and believers, exposing them to sin and causing spiritual poverty. It is important to remain vigilant and not allow the enemy to sow destructive weeds that resemble true believers but lack genuine grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.823907533694558,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                35.62,
+                28.63,
+                35.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wheat field in Matthew 13:25 was infiltrated by tares, a type of destructive weed. The enemy deliberately sowed these tares among the wheat, cleverly disguising them as they resembled the wheat until nearing harvest. This malicious act, known in the East and even in present-day England, poses a great danger to the church and true believers. They must remain alert and not let these seemingly genuine but ultimately unfruitful and harmful tares emerge among them, leading to spiritual poverty and loss of Christ's presence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.7023484863952483,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.95,
+            "commentatorTierSimilarities": [
+                32.81,
+                26.1,
+                41.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The enemy cunningly sowed tares among the wheat in Matthew 13, deliberately camouflaging them until they resembled the wheat itself. This act of malice, prevalent in the East and even in present-day England, poses a significant threat to the church and genuine believers. These tares appear as true believers, with an outer show of religion and an appearance of grace, but they lack true fruitfulness and ultimately prove to be unprofitable and harmful. It is essential to remain vigilant and not let these false believers undermine the true faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5544870129110073,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                26.81,
+                27.08,
+                46.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The enemy sowed tares among the wheat, hiding their destructive nature until they resembled the true crop. This malicious act, practiced in the East and also seen in England today, poses a dangerous risk to the church and believers. These tares initially look like genuine wheat, having a form of godliness and an appearance of grace, but ultimately prove to be unfruitful and destined for destruction. It is vital for believers to remain vigilant, recognizing and guarding against those who may outwardly appear as true followers but lack genuine faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.5836526425794113,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+            "commentatorTierSimilarities": [
+                27.94,
+                26.6,
+                45.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

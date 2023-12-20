@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:50:25",
+    "verseRef": "Matthew 20:33",
+    "bestBHT": {
+        "bht": "The blind men exemplify unwavering faith in Jesus as the prophesied Messiah who can miraculously restore their sight. Their request for the opening of their eyes, rather than seeking material assistance, demonstrates their trust in Jesus to meet their needs in a profound way. This demonstrates their deep conviction that Jesus possesses the power to achieve what seems impossible to human beings. Their bold faith in Jesus as the fulfiller of prophecies highlights His divine authority and ability to perform extraordinary miracles.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.644694292245279,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The opening of the eyes of the blind was prophesied of, as what should be done in the days of the Messiah, and by him, as an evidence of his being that person.\" (34 words)",
+            "They do not ask for alms, but for the recovery of their sight; which being granted, they would be able to get their bread in another way.\" (27 words)",
+            "Their request shows, that they made no doubt of it, but firmly believed that Christ was able to do this for them, though the thing was impossible to be done by man.\" (31 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The blind men in this verse display a strong faith in Jesus, believing Him to be the long-awaited Messiah who is capable of granting them the restoration of their sight. Their request is not for alms, but for the opening of their eyes, demonstrating their trust in Jesus to provide for them in a different way once they can see. Their unwavering belief in His ability to perform this miracle highlights Jesus' role as the prophesied Messiah with the power to bring about such a miraculous transformation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9420998258019695,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The blind men's plea for the restoration of their sight reveals their firm conviction that Jesus, as the prophesied Messiah, possesses the ability to accomplish the impossible. Rather than begging for charity, they seek an extraordinary transformation that would enable them to provide for themselves in a new way. Their unwavering faith in Jesus underscores His identity as the long-awaited Messiah and His capacity to fulfill the prophetic promises associated with the opening of the eyes of the blind.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5671331266962767,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blind men exemplify unwavering faith in Jesus as the prophesied Messiah who can miraculously restore their sight. Their request for the opening of their eyes, rather than seeking material assistance, demonstrates their trust in Jesus to meet their needs in a profound way. This demonstrates their deep conviction that Jesus possesses the power to achieve what seems impossible to human beings. Their bold faith in Jesus as the fulfiller of prophecies highlights His divine authority and ability to perform extraordinary miracles.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.644694292245279,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind men's plea for the restoration of their sight reveals their unwavering belief that Jesus, as the prophesied Messiah, has the power to perform miracles. Instead of asking for charity, they seek the ability to provide for themselves in a new way once their sight is restored. Their request demonstrates their firm conviction that Jesus can accomplish what is seemingly impossible for human beings. Their faith in Jesus as the Messiah emphasizes His role as the fulfiller of prophecies and His capacity to perform extraordinary acts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.6294684594386601,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blind men's request for the restoration of their sight exemplifies their unshakable faith in Jesus as the promised Messiah. Instead of seeking material assistance, they boldly petition Jesus for the miracle of vision. This demonstrates their firm belief in His ability to accomplish the impossible, given that human efforts would fall short. Their unwavering confidence showcases Jesus as the fulfillment of prophetic promises regarding the healing of the blind.",
+            "wordCount": 71,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 1.4457817970544506,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

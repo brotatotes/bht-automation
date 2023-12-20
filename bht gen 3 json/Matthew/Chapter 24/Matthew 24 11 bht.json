@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:52:05",
+    "verseRef": "Matthew 24:11",
+    "bestBHT": {
+        "bht": "False prophets, warned against by Jesus Himself, still exist today. They are the ones who claim to be prophets or foretellers of future events. Throughout history, starting from the time of the siege of Jerusalem, there have always been those who deceive others with their false teachings. Pious minds need not be dismayed by these imposters, but rather stand firm against their attacks. Believers must be anchored in God, unshaken by the multitude going astray, in order to resist the influence of these false prophets and remain rooted in Christ.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 2.1063543997472007,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+        "commentatorTierSimilarities": [
+            44.02,
+            29.43,
+            26.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Many men pretending to be prophets or foretellers of future events.",
+            "This refers not to the false 'Messiahs' of which he had spoken, but to prophets who should appear during the siege of the city.",
+            "The tyrannical zealots who ruled the city suborned 'many false prophets' to declare that aid would be given to the people from heaven."
+        ],
+        "John Calvin": [
+            "There is therefore no reason why error, and certain impostures of the devil and corruptions of piety, should strike pious minds with dismay.",
+            "No man is properly founded on Christ, who has not learned that we must stand firm against such attacks.",
+            "The multitude of those who are going astray is like a violent tempest, which compels us to leave the course, if we are not firmly fixed on God."
+        ],
+        "Philip Schaff": [
+            "Many false prophets.",
+            "In the Apostolic times such teachers appeared.",
+            "The same moral phenomena will mark an analogous period."
+        ],
+        "Archibald T. Robertson": [
+            "False prophets (\u03c8\u03b5\u03c5\u03b4\u03bf\u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03b1). Jesus had warned against them in the Sermon on the Mount (Matthew 7:15). They are still coming. "
+        ],
+        "John Gill": [
+            "And many false prophets shall rise,.... Out of, from among the churches of Christ; at least under the name of Christians.\" ",
+            "False teachers are here meant, men of heretical principles, pretending to a spirit of prophecy, and to new revelations, and a better understanding of the Scriptures.",
+            "Who followed their pernicious ways, being imposed upon and seduced by their fair words, specious pretences, and licentious practices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "False prophets, warned against by Jesus Himself, continue to plague believers even today. These imposters claim to be prophets or foretellers of future events, leading many astray. Throughout history, from the time of the siege of Jerusalem to the Apostolic times and beyond, there have been those who deceive others with their false teachings. In the face of this, pious minds need not be dismayed, but rather stand firm against such attacks. It is crucial for believers to be firmly fixed on God, unswayed by the multitude going astray, for only then can we navigate the violent tempest of false prophets and remain grounded in Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.0375702196776415,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                42.1,
+                29.01,
+                28.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "False prophets, warned against by Jesus Himself, continue to plague believers. These imposters claim to be prophets or foretellers, leading many astray. From the siege of Jerusalem to the Apostolic times, there have been those who deceive with false teachings. Pious minds need not be dismayed, but stand firm against attacks. Believers must be fixed on God, unswayed by the multitude going astray, to navigate the tempest of false prophets and stay grounded in Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.10425739827065,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                42.44,
+                28.52,
+                29.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "False prophets, warned against by Jesus Himself, still exist today. They are the ones who claim to be prophets or foretellers of future events. Throughout history, starting from the time of the siege of Jerusalem, there have always been those who deceive others with their false teachings. Pious minds need not be dismayed by these imposters, but rather stand firm against their attacks. Believers must be anchored in God, unshaken by the multitude going astray, in order to resist the influence of these false prophets and remain rooted in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.1063543997472007,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                44.02,
+                29.43,
+                26.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "False prophets, warned against in the Sermon on the Mount, continue to arise and mislead. They claim to be prophets, foretelling future events and deceiving many. Such imposters appeared during the siege of Jerusalem, and even in the Apostolic times. Pious minds need not be dismayed, but must stand firm and fixed on God. Amidst the multitude led astray, believers must navigate this tempest by remaining anchored in Christ.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.8355451913161547,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                42.7,
+                29.69,
+                27.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "False prophets, as warned by Jesus, remain an ever-present threat. These impostors claim to be prophets, leading many astray. From the siege of Jerusalem to the present day, such deceivers have emerged. However, pious individuals need not be disheartened, but rather should stand firm against these attacks. By remaining firmly grounded in God, believers can resist the allure of the multitude going astray and stay rooted in Christ, steering clear of the dangers posed by false prophets.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7997141900155373,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                43.88,
+                28.23,
+                27.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

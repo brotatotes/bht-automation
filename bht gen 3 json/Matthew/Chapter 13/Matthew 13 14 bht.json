@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:47:35",
+    "verseRef": "Matthew 13:14",
+    "bestBHT": {
+        "bht": "By hearing ye shall hear, and shall not understand, &amp;c.\u2014They were thus judicially sealed up under the darkness and obduracy which they deliberately preferred to the light and healing which Jesus brought nigh to them. The prophecy of Isaiah is fully satisfied in the conduct of the Pharisees and Jesus himself points it out. Let us not wonder if that judgment, which God displayed through the ministration of the Prophet, is likewise fulfilled at the present day.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.103238039073428,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+        "commentatorTierSimilarities": [
+            29.64,
+            37.35,
+            33.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prophecy is cited verbatim from the LXX, which changes the imperative of the Hebrew ( \u2018Make the heart of this people fat,\u2019&c., E.V.) into the indicative, as bearing the same meaning.",
+            "is fulfilled] is being fulfilled, \u2018finds one of the stages of its fulfilment:\u2019 a partial one having taken place in the contemporaries of the prophet.",
+            "in them properly signifies relation, \u2018with regard to them.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And in them is fulfilled\u2014rather, 'is fulfilling,' or 'is receiving its fulfilment.'\" ",
+            "By hearing ye shall hear, and shall not understand, &amp;c.\u2014They were thus judicially sealed up under the darkness and obduracy which they deliberately preferred to the light and healing which Jesus brought nigh to them."
+        ],
+        "Marvin Vincent": [
+            "Is fulfilled [\u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03bf\u03c5\u03c4\u03b1\u03b9] . Rather of something in progress : is being fulfilled or in process of fulfilment."
+        ],
+        "John Calvin": [
+            "God enlightens to salvation, and that by a peculiar gift, those whom He has freely chosen; and that all the reprobate are deprived of the light of life, whether God withholds his word from them, or keeps their eyes and ears closed, that they do not hear or see.",
+            "All who have been given over to a reprobate mind do voluntarily, and from inward malice, blind and harden themselves.",
+            "Let them not wonder if that judgment, which God anciently displayed through the ministration of the Prophet, is likewise fulfilled at the present day. At the same time, we ought to be extremely careful, that the fruit of the Gospel be not lost through our negligence."
+        ],
+        "Philip Schaff": [
+            "It fulfilled. A stronger word than that commonly used; a complete fulfillment, which may or may not have been preceded by a partial one.",
+            "The sense of the original prophecy is given, but not its form. In Isaiah is a command; here a strong prediction, indicating that judgment is a result of what is done by man as well as what is done to man.",
+            "By hearing, etc. The sense of the original prophecy is given, but not its form. In Isaiah is a command; here a strong prediction, indicating that judgment is a result of what is done by man as well as what is done to man."
+        ],
+        "Archibald T. Robertson": [
+            "The prophecy of Isaiah is fully satisfied in the conduct of the Pharisees and Jesus himself points it out.\" ",
+            "Note two ways of reproducing the Hebrew idiom (infinitive absolute), one by \u03b1\u03ba\u03bf\u03b7 the other by \u03b2\u03bb\u03b5\u03c0\u03bf\u03bd\u03c4\u03b5\u03c2.",
+            "Note also the strong negative \u03bf\u03c5 \u03bc\u03b7 with aorist subjunctive."
+        ],
+        "John Gill": [
+            "The sense of the prophecy is, with respect to the times of the Messiah, that the Jews, whilst hearing the sermons preached by him, whether with, or without parables, should hear his voice, and the sound of it, but not understand his words internally, spiritually, and experimentally; and whilst they saw, with the eyes of their bodies, the miracles he wrought, they should see the facts done, which could not be denied and gainsayed by them, but should not take in the clear evidence, full proof, and certain demonstration given thereby, of his Messiahship.",
+            "The words run in the imperative, 'hear ye, see ye,' but are here rendered in the future, 'shall hear, shall see,' which rendering of the words is supported and established by the version of the Septuagint, by the Chaldee paraphrase, and by many Jewish commentators.",
+            "The prophecy was to have, and had, its accomplishment over and over again in that people."
+        ],
+        "John Wesley": [
+            "Ye will surely hear. All possible means will be given you: yet they will profit you nothing.\" ",
+            "Your heart is sensual, stupid, and insensible; your spiritual senses are shut up.",
+            "You have closed your eyes against the light; as being unwilling to understand the things of God, and afraid, not desirous that he should heal you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophecy of Isaiah is being fulfilled in the conduct of those who hear the sermons of Jesus but do not truly understand his words internally and spiritually. They see the miracles he performs, but do not grasp the clear evidence and full proof of his Messiahship. Their hearts are closed to the light, as they willingly blind themselves and harden their hearts against God's truth. Let us not neglect the fruit of the Gospel, but instead embrace the enlightenment and healing that God freely offers to those whom He has chosen.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7390065258390057,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                22.87,
+                32.1,
+                45.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophecy of Isaiah is fulfilled in the conduct of those who hear the sermons of Jesus, seeing the miracles He performs but not understanding the true meaning. Their hearts are hardened, closing their eyes against the light of God's truth. This judgment is a result of their own actions and choices. Let us not neglect the fruit of the Gospel, but instead embrace the enlightenment and healing that God freely offers to His chosen ones.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7014485474480334,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                24.26,
+                35.93,
+                39.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By hearing ye shall hear, and shall not understand, &amp;c.\u2014They were thus judicially sealed up under the darkness and obduracy which they deliberately preferred to the light and healing which Jesus brought nigh to them. The prophecy of Isaiah is fully satisfied in the conduct of the Pharisees and Jesus himself points it out. Let us not wonder if that judgment, which God displayed through the ministration of the Prophet, is likewise fulfilled at the present day.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.103238039073428,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                29.64,
+                37.35,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy of Isaiah is being fulfilled in the conduct of those who hear the sermons of Jesus but do not truly understand his words internally and spiritually. They see the miracles he performs, but do not grasp the clear evidence and full proof of his Messiahship. Their hearts are closed to the light, as they willingly blind themselves and harden their hearts against God's truth. Let us not neglect the fruit of the Gospel, but instead embrace the enlightenment and healing that God freely offers to those whom He has chosen.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7390065258390057,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                22.87,
+                32.1,
+                45.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy of Isaiah finds its fulfillment in those who hear Jesus' sermons and witness His miracles yet fail to grasp the true spiritual meaning. Their hearts are closed, deliberately choosing darkness over the light and healing offered by Jesus. This judgment is a result of their own actions and choices. Let us not neglect the fruits of the Gospel but instead embrace the enlightenment and healing freely given by God to His chosen ones.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7227282524496876,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                25.3,
+                34.87,
+                39.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

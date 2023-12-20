@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:47:34",
+    "verseRef": "Matthew 13:20",
+    "bestBHT": {
+        "bht": "In this case, there is a surface disposition easily stirred and excited, but beneath lies a heart harder than the trodden path. This person embraces the Gospel with great joy, but lacks deep spiritual conviction or conflict. Their faith is like a quickly sprouting plant that withers and is destroyed. It is crucial to examine ourselves thoroughly so that our enthusiasm for the Word does not fade. Let us strive for a true faith, one that remains firm and perseveres, rather than a fleeting, superficial reception of God's message.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.72,
+        "qualityScore": 1.4623103783920022,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+        "commentatorTierSimilarities": [
+            29.17,
+            45.44,
+            25.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this second case, the surface of the mind and disposition is easily stirred, soon excited: but beneath lies a heart even harder than the trodden way.",
+            "So the plant, springing up under the false heat of excitement, having no root struck down into the depths of the being, is, when the real heat from without arises, which is intended to strengthen and forward the healthy-rooted plant, withered and destroyed.",
+            "...withered and destroyed."
+        ],
+        "John Calvin": [
+            "We see too many of this class in our own day, who eagerly embrace the Gospel, and shortly afterwards fall off; for they have not the lively affection that is necessary to give them firmness and perseverance.",
+            "Let every one then examine himself thoroughly, that the alacrity which gives out a bright flame may not quickly go out, as the saying is, like a fire of tow.",
+            "Great commendation is due, no doubt, to that promptitude, which receives the word of God with joy, and without delay, as soon as it is published; but let us learn, that nothing has been done, till faith acquires true firmness, that it may not wither in the first blade."
+        ],
+        "Philip Schaff": [
+            "The effect is immediate and apparently good; but beneath the surface easily stirred, is a soil harder than the trodden path.",
+            "Great joy without deep spiritual conviction or conflict.",
+            "Great joy without deep spiritual conviction or conflict."
+        ],
+        "John Gill": [
+            "He is one that not only constantly attends upon it, but he receives it.",
+            "He gives an assent to it, he believes in it historically, makes a profession of his faith in it.",
+            "His profession is taken up in haste, immediately, upon a flash of affection, and a little head knowledge, it does not last long, nor prove honourable."
+        ],
+        "John Wesley": [
+            "The seed sown on stony places, therefore sprang up soon, because it did not sink deep.\" ",
+            "He receiveth it with joy \u2014 Perhaps with transport, with ecstacy.",
+            "Struck with the beauty of truth, and drawn by the preventing grace of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The second case in this verse describes someone whose surface disposition is easily stirred and excited, but underneath lies a heart that is even harder than the trodden path. This person eagerly embraces the Gospel and displays great joy, but lacks deep spiritual conviction or conflict. Their faith is like a plant that springs up quickly but withers and is destroyed. It is important for us to examine ourselves thoroughly so that our enthusiasm for the Word of God does not quickly fade away. We should strive for true faith, one that acquires firmness and does not wither in the first blade. Let us not be like those who receive the Word with joy but lack the depth of understanding and commitment that is necessary for perseverance.",
+            "wordCount": 127,
+            "quoteTokenProportion": 37.08,
+            "qualityScore": 1.4398960952354691,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.22,
+            "commentatorTierSimilarities": [
+                30.17,
+                40.36,
+                29.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The second case in this passage reveals someone with a surface disposition easily stirred and excited, but underneath lies a heart harder than the trodden path. This individual eagerly embraces the Gospel, displaying great joy without deep spiritual conviction or conflict. Their faith is like a quickly sprouting plant, but it withers and is destroyed. We should examine ourselves thoroughly so that our enthusiasm for the Word does not fade away. Let us seek a true faith with firmness and perseverance, instead of a fleeting, superficial reception of God's message.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.4059886930688266,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                28.8,
+                44.09,
+                27.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this case, there is a surface disposition easily stirred and excited, but beneath lies a heart harder than the trodden path. This person embraces the Gospel with great joy, but lacks deep spiritual conviction or conflict. Their faith is like a quickly sprouting plant that withers and is destroyed. It is crucial to examine ourselves thoroughly so that our enthusiasm for the Word does not fade. Let us strive for a true faith, one that remains firm and perseveres, rather than a fleeting, superficial reception of God's message.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.4623103783920022,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                29.17,
+                45.44,
+                25.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The second case in this instance portrays someone whose surface disposition is easily stirred and excited, but underneath lies a heart even harder than the trodden path. This person eagerly embraces the Gospel, displaying great joy, but lacks deep spiritual conviction or conflict. Their faith is like a quickly sprouting plant, withering and destroyed. To avoid being like these individuals, we must examine ourselves thoroughly so that our enthusiasm for the Word does not quickly fade away. Let us strive for a true, lasting faith that perseveres through challenges and remains steadfast.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.4301108288028381,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                32.85,
+                41.75,
+                25.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The second situation described here conveys someone whose surface disposition is easily stirred and excited, while possessing a heart harder than the trodden path. This individual swiftly embraces the Gospel with great joy, but lacks deep spiritual conviction or conflict. Their faith resembles a plant that springs up quickly, only to wither and be destroyed. We must thoroughly examine ourselves to ensure that our initial enthusiasm for the Word does not quickly fade. Let us strive for a steadfast and enduring faith, avoiding a mere superficial reception of God's message.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.3963744250828025,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.77,
+            "commentatorTierSimilarities": [
+                30.73,
+                42.66,
+                26.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

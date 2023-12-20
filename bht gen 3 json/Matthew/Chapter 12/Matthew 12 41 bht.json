@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:18",
+    "verseRef": "Matthew 12:41",
+    "bestBHT": {
+        "bht": "The preaching of the Son of Man after His resurrection, by His Spirit in His Apostles, is a sign greater than Jonas' preaching to the Ninevites. The Gospel revealed and preached by Jesus Himself is of utmost importance and should be earnestly attended to. The Lord's preaching and wisdom surpass that of any mortal, proclaiming His supreme dignity. The rise of the Ninevites in judgment with this generation will serve as witnesses to their repentance, condemning those who do not believe.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.8316496158989701,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+        "commentatorTierSimilarities": [
+            41.48,
+            23.2,
+            35.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But the preaching of Jonas to the Ninevites was a sign after his resurrection: so shall the preaching of the Son of Man by His Spirit in His Apostles be after His resurrection.",
+            "No matter so worthy of arousing repentance had ever been revealed or preached as the Gospel: no matter so worthy of exciting the earnest attention of all.",
+            "And the Lord Himself, the Announcer of this Gospel, is greater than all the sons of men: his preaching, greater than that of Jonah: his wisdom, than that of Solomon."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The men of Nineveh shall rise in judgment with this generation, c.\u2014The Ninevites, though heathens, repented at a man's preaching while they, God's covenant-people, repented not at the preaching of the Son of God\u2014whose supreme dignity is rather implied here than expressed.",
+            "The Ninevites, though heathens, repented at a man's preaching while they, God's covenant-people, repented not at the preaching of the Son of God.",
+            "The supreme dignity of the Son of God is rather implied here than expressed."
+        ],
+        "Marvin Vincent": [
+            "Shall rise up [\u03b1\u03bd\u03b1\u03c3\u03c4\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9]. Rev., stand up. Come forward as witnessed.",
+            "There is no reference to rising from the dead.",
+            "A greater [\u03c0\u03bb\u03b5\u03b9\u03bf\u03bd]. Lit., something more."
+        ],
+        "John Calvin": [
+            "Ungodly men, who never had heard a word of the true God, repented at the voice of an unknown and foreign person.",
+            "This country, which is the sanctuary of heavenly doctrine, hears not the Son of God, and the promised Redeemer.",
+            "If they [the Jews] had beheld Christ with pure eyes, they must have acknowledged that he was a teacher sent from heaven and the Messiah."
+        ],
+        "Philip Schaff": [
+            "The men of Nineveh shall rise, i.e., as witnesses, by their example.",
+            "In the judgment, not 'in judgment.'",
+            "With this generation, i.e., at the same time, not necessarily against them, although this would be the result."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is something greater than the temple, than Jonah, than Solomon.",
+            "You will continue to disbelieve in spite of all I can say or do, and at last you will put me to death.",
+            "But I will rise again, a sign for your confusion, if not for your conversion."
+        ],
+        "John Gill": [
+            "The men of Nineveh shall rise in judgment... and shall condemn them; not as judges of them, but by their example and practices, which will be brought above board, and observed as an aggravation of the guilt and condemnation of the Jews.",
+            "So the lives and conversations of the saints condemn the wicked now, and will do hereafter.",
+            "The Ninevites, though a Heathenish people, having but forty days allowed them to repent in, upon Jonas's preaching, repented immediately; whereas the Jews, though God's professing people... yet did not at all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The preaching of the Son of Man by His Spirit in His Apostles after His resurrection is a sign that is even greater than the preaching of Jonas to the Ninevites. The Gospel, revealed and preached by Jesus Himself, is of utmost importance and should be earnestly attended to by all. The Lord's preaching and wisdom surpass that of any mortal, including Jonas and Solomon. The comparison between the repentance of the Ninevites, who were heathens, and the lack of repentance by God's covenant people highlights the supreme dignity of the Son of God. The rise of the Ninevites in judgment with the current generation signifies that they will come forward as witnesses, testifying to their repentance and causing condemnation for those who fail to believe.",
+            "wordCount": 128,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7747060648484596,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.35,
+            "commentatorTierSimilarities": [
+                41.19,
+                17.73,
+                41.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The preaching of the Son of Man after His resurrection, by His Spirit in His Apostles, is a sign greater than Jonas' preaching to the Ninevites. The Gospel revealed and preached by Jesus Himself is of utmost importance and should be earnestly attended to. The Lord's preaching and wisdom surpass that of any mortal, proclaiming His supreme dignity. The rise of the Ninevites in judgment with this generation will serve as witnesses to their repentance, condemning those who do not believe.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8316496158989701,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                41.48,
+                23.2,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The preaching of the Son of Man in His Apostles after His resurrection is a greater sign than the preaching of Jonas to the Ninevites. The Gospel revealed and preached by Jesus Himself is of utmost importance and should receive earnest attention. The Lord's preaching and wisdom surpass that of Jonas and Solomon, emphasizing His supreme dignity. The rise of the Ninevites in judgment with this generation will serve as witnesses, testifying to their repentance, and bringing condemnation to those who do not believe.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7900257611361532,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                42.26,
+                19.18,
+                38.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The preaching of the Son of Man, carried out by His Apostles after His resurrection, is a greater sign than Jonas' preaching to the Ninevites. The Gospel revealed by Jesus Himself is of paramount importance and warrants earnest attention from all. The Lord's preaching and wisdom exceed that of any mortal, including Jonas and Solomon, highlighting His supreme dignity. The rise of the Ninevites in judgment with this generation will establish them as witnesses, attesting to their repentance, and condemning those who fail to believe.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7588652212665545,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                40.75,
+                20.87,
+                38.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The preaching of the Son of Man through His Apostles after His resurrection is a greater sign than Jonas' preaching to the Ninevites. The Gospel proclaimed by Jesus Himself is incredibly significant and deserves earnest attention. The Lord's preaching and wisdom surpass that of any mortal, emphasizing His supreme dignity. The rise of the Ninevites in judgment alongside this generation will serve as witnesses, testifying to their repentance and condemning those who reject belief.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7846015862875744,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                42.1,
+                20.62,
+                37.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

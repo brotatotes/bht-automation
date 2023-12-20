@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:46:55",
+    "verseRef": "Matthew 12:19",
+    "bestBHT": {
+        "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. In this portrayal of Christ, we witness a humble and gentle Judge who refrains from engaging in public conflicts or seeking attention. He chooses to withdraw instead of prolonging fruitless disputes and willingly endures mistreatment without complaint. This exemplifies His immeasurable goodness, as He graciously condescends to our weaknesses. Christ's quiet and peaceful approach should be embraced with joy, as it showcases His remarkable humility and gentleness.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.504603869483766,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+        "commentatorTierSimilarities": [
+            34.75,
+            29.74,
+            35.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "19. He shall not strive nor cry;",
+            "\tneither shall any man hear his voice in the streets."
+        ],
+        "John Calvin": [
+            "Were Christ to appear in his glory, what else could be expected, but that it would altogether swallow us up? What wickedness then is it to be less willing to receive him, when on our account he descends from his elevation?\" ",
+            "Each of us is conscious of his own weakness; and therefore we ought to consider of what importance it is that Christ should treat us with kindness.\" ",
+            "When Christ is thus pleased to condescend to our weakness, let his unspeakable goodness be embraced by us with joy."
+        ],
+        "Philip Schaff": [
+            "He shall not strive, nor cry, etc. Not a combatant nor a noisy declaimer in public places, but meek and retiring.",
+            "He presents Himself as Judge and yet is meek; He is meek, does not strive, and yet shall be victor.",
+            "The lessons are obvious."
+        ],
+        "John Gill": [
+            "He shall not strive... but shall choose rather to withdraw, than to carry on a controversy to a great length, to little purpose.\" ",
+            "He shall not complain, or bring in any charge, or accusation against any, but choose rather to suffer wrong, than to contend.\" ",
+            "He silently put up all abuses, and patiently bore every affront, and behaved peaceably, quietly, committing himself and cause to a righteous God."
+        ],
+        "John Wesley": [
+            "He shall not be contentious, noisy, or ostentatious.",
+            "But gentle, quiet, and lowly.",
+            "Each word rises above the other, expressing a still higher degree of humility and gentleness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. In this verse, we see that Christ presents Himself as a meek and humble Judge, who does not engage in public disputes or make a scene. He chooses to withdraw rather than prolong unproductive arguments and willingly endures wrongs without complaint. This remarkable display of gentleness and lowliness is a testament to His unspeakable goodness and kindness towards us, and it is an example that we should embrace with joy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.6185607892259966,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                34.59,
+                33.57,
+                31.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. In this passage, Christ is portrayed as a meek and humble Judge. He refrains from engaging in public disputes or making a scene, demonstrating a remarkable level of gentleness and lowliness. Rather than prolonging unproductive arguments, He chooses to withdraw and willingly endures wrongs without complaint. This display of unspeakable goodness and kindness serves as a powerful example for us to embrace and rejoice in.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4513414542400793,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                33.87,
+                33.49,
+                32.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. In this description of Christ, we are presented with a gentle and humble Judge who avoids public confrontations or making a scene. His meekness and quiet demeanor stand out, as He chooses to withdraw rather than prolong unproductive disputes. This act of enduring wrongs without complaint exhibits His extraordinary kindness and goodness towards us. We are encouraged to embrace this example with joy, recognizing the significance of Christ's compassionate treatment of our weaknesses.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.3892634879256955,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.54,
+            "commentatorTierSimilarities": [
+                33.01,
+                30.71,
+                36.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. In this portrayal of Christ, we witness a humble and gentle Judge who refrains from engaging in public conflicts or seeking attention. He chooses to withdraw instead of prolonging fruitless disputes and willingly endures mistreatment without complaint. This exemplifies His immeasurable goodness, as He graciously condescends to our weaknesses. Christ's quiet and peaceful approach should be embraced with joy, as it showcases His remarkable humility and gentleness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.504603869483766,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                34.75,
+                29.74,
+                35.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He shall not strive nor cry; neither shall any man hear his voice in the streets. This verse portrays Christ as a humble and meek Judge. He does not engage in public disputes or seek attention, choosing to withdraw rather than prolong unproductive arguments. Christ willingly endures wrongs without complaint and exemplifies extraordinary goodness and kindness. His quiet and gentle demeanor should be embraced with joy, as it demonstrates His remarkable humility and compassion towards us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.546827850719173,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                34.03,
+                33.4,
+                32.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

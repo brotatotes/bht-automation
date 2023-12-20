@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:51:23",
+    "verseRef": "Matthew 22:9",
+    "bestBHT": {
+        "bht": "The call to spread the gospel extends to all people, not just the religious few. The highways represent the gathering places of society, where individuals of all backgrounds can be found. This includes the main streets, crossroads, and squares of the city, as well as the outlets and thoroughfares of the countryside. The invitation to the marriage feast is extended to everyone, regardless of their social status or past, emphasizing the inclusive nature of God's kingdom and His desire for all to partake in the blessings of salvation.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.5859646723352099,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+        "commentatorTierSimilarities": [
+            29.5,
+            40.18,
+            30.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The highways here spoken of are the places of resort at the meetings of streets, the squares, or confluences of ways.",
+            "De Wette and Meyer are wrong in saying that they are not in the city, 'for that was destroyed:\u2019 it is not the city of the murderers, but that in which the feast is supposed to be held, which is spoken of.",
+            "Not Jerusalem, but God\u2019s world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Go ye therefore into the highways\u2014the great outlets and thoroughfares, whether of town or country, where human beings are to be found.",
+            "And as many as ye shall find, bid to the marriage\u2014that is, just as they are."
+        ],
+        "Albert Barnes": [
+            "The highways - Literally, the 'exit' or 'going out' of the 'paths or roads.' It means the square or principal street, into which a number of smaller streets enter; a place, therefore, of confluence, where many persons would be seen, and persons of all descriptions.",
+            "By this is represented the offering of the gospel to the Gentiles.",
+            "They were commonly regarded among the Jews as living in highways and hedges cast out and despised."
+        ],
+        "Marvin Vincent": [
+            "Highways [\u03b4\u03b9\u03b5\u03be\u03bf\u03b4\u03bf\u03c5\u03c2] . Literally, the word means a way out through; passage, outlet, thoroughfare. The idea of crossings grows out of the junction of the smaller cross - ways with the trunk roads."
+        ],
+        "John Calvin": [
+            "Their place is supplied by others, by the mean and despised common people.",
+            "He compares the Gentiles to the poor, the blind, and the lame.",
+            "This dishonor was the completion of the divine vengeance on the Jews, when God cut them off, and ingrafted wild branches into the stock of the olive-tree."
+        ],
+        "Philip Schaff": [
+            "The partings of the highways. Places where streets meet, public squares, etc., in the king\u2019s city, God\u2019s world, not Jerusalem.",
+            "Some refer it to the outlets of country-roads, of highways, in the English sense, applying it to the going out into the distant world to invite the Gentiles.",
+            "In Luke 14:23, where \u2018hedges\u2019 is added, the latter meaning is evident."
+        ],
+        "Archibald T. Robertson": [
+            "The partings of the highways.\" ",
+            "\u0394\u03b9\u03bf\u03b4\u03bf are cross-streets, while \u03b4\u03b9\u03b5\u03be\u03bf\u03b4\u03bf (double compound) seem to be main streets leading out of the city where also side-streets may branch off, 'by-ways'.\" ",
+            "Vulgate, exitus viarum."
+        ],
+        "John Gill": [
+            "Go ye therefore into the highways... and may denote their being the vilest of sinners, and as having nothing to recommend them to the divine favour.\" ",
+            "...and as many as ye shall find, bid to the marriage; to the marriage feast.\" ",
+            "Their orders were to go into all the world, and preach the Gospel to every creature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse signifies the call to spread the gospel to all people, not just the elite or religious few. The highways represent the places where people gather in society, where individuals of all backgrounds can be found. This includes the main streets, crossroads, and squares of the city, as well as the outlets and thoroughfares of the countryside. The invitation to the marriage feast is extended to everyone, regardless of their social status or past, as those who are found are to be bid to the feast just as they are. This emphasizes the inclusive nature of God's kingdom and His desire for all to partake in the blessings of salvation.",
+            "wordCount": 112,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.6087506002680543,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                28.19,
+                38.71,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The call to spread the gospel extends to all people, not just the religious few. The highways represent the gathering places of society, where individuals of all backgrounds can be found. This includes the main streets, crossroads, and squares of the city, as well as the outlets and thoroughfares of the countryside. The invitation to the marriage feast is extended to everyone, regardless of their social status or past, emphasizing the inclusive nature of God's kingdom and His desire for all to partake in the blessings of salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5859646723352099,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                29.5,
+                40.18,
+                30.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The call to spread the gospel to all people is symbolized by the invitation to the marriage feast. The highways represent the gathering places where people from all walks of life can be found. This includes the main streets, squares, and outlets of the city or countryside. The invitation is extended to everyone, regardless of social status, as it emphasizes the inclusive nature of God's kingdom. The call is to reach out to people as they are, welcoming them to partake in the blessings of salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5280141894566728,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                26.14,
+                40.88,
+                32.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The call to spread the gospel is a universal one, reaching out to people from all walks of life. The highways mentioned in the passage refer to the bustling gathering places where individuals of various backgrounds can be found. This includes the main streets, squares, and outlets of the city or countryside. The invitation to the marriage feast is extended to all, disregarding social status or previous history. It highlights the all-inclusive nature of God's kingdom, beckoning everyone to partake in the blessings of salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.520084484969482,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.89,
+            "commentatorTierSimilarities": [
+                27.71,
+                42.3,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The call to spread the gospel is universal, inviting people from all walks of life. The highways represent the gathering places where individuals of diverse backgrounds can be found, including the main streets, squares, and outlets. The invitation to the marriage feast is extended to all, regardless of social status or past, emphasizing the inclusive nature of God's kingdom. The command is to go out and invite people as they are, recognizing that everyone is worthy to partake in the blessings of salvation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5547138717248674,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                22.25,
+                41.5,
+                36.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

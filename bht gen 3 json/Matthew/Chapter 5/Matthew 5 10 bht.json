@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:43:45",
+    "verseRef": "Matthew 5:10",
+    "bestBHT": {
+        "bht": "Those who are persecuted for righteousness' sake are truly blessed, as these words of Jesus reiterate. It is a striking notion for those who are influenced by the spirit of the world, as it challenges their whole system of thought and action. Yet, it is a courageous act to dare to be righteous in the face of opposition. Persecution becomes evidence that one is living a righteous life, setting them apart from the world. Despite the hostility and torment, the saints find happiness in their distinctive and righteous ways.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.8129491284187154,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+        "commentatorTierSimilarities": [
+            29.93,
+            33.56,
+            36.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Persecuted.\" ",
+            "The repetition of the promise in ver. 8 is a close of the string of promises as it began."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+            "But more particularly, the seven characters here described are all in the teeth of the spirit of the world, insomuch that such hearers of this discourse as breathed that spirit must have been startled, and had their whole system of thought and action rudely dashed.",
+            "But blessed are they who, in spite of this, dare to be righteous."
+        ],
+        "Albert Barnes": [
+            "Blessed are they which are persecuted...for righteousness' sake.\" ",
+            "If, in the honest effort to be Christians, and to live the life of Christians, others persecute and revile us, we are to consider this as a blessing.",
+            "Theirs is the kingdom of heaven - They have evidence that they are Christians, and that they will be brought to heaven."
+        ],
+        "John Calvin": [
+            "We cannot be Christ\u2019s soldiers on any other condition, than to have the greater part of the world rising in hostility against us, and pursuing us even to death.",
+            "It is, no doubt, monstrous and unnatural, that men, who study to live a righteous life, should be attacked and tormented in a way which they do not deserve.",
+            "By this mark Christ distinguishes his own martyrs from criminals and malefactors."
+        ],
+        "Philip Schaff": [
+            "The effort to spread the gospel of peace provokes the hostility of men.\" ",
+            "Righteous living does the same, however men may be compelled to admit its excellence.\" ",
+            "The 'persecuted' are probably capable of receiving a higher blessing."
+        ],
+        "Archibald T. Robertson": [
+            "That have been persecuted for righteousness' sake.",
+            "Posing as persecuted is a favourite stunt.",
+            "The kingdom of heaven belongs only to those who suffer for the sake of goodness, not who are guilty of wrong."
+        ],
+        "John Gill": [
+            "Blessed are they which are persecuted... for righteousness sake.",
+            "Saints, by living righteously, separate themselves from [the men of the world], and profess themselves not to belong to them.",
+            "Persecution is either verbal with the tongue... or real, by deeds... and yet the saints, though thus used, or rather abused, are happy."
+        ],
+        "John Wesley": [
+            "He that is truly a righteous man, he that mourns, and he that is pure in heart, yea, all that will live godly in Christ Jesus, shall suffer persecution, 2 Timothy 3:12.",
+            "The world will always say, Away with such fellows from the earth. They are made to reprove our thoughts.",
+            "Their lives are not like other men's; their ways are of another fashion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who are persecuted for righteousness' sake. The repetition of this promise at the end of the string of promises in this verse signifies its importance. These words of Jesus may have startled those who were influenced by the spirit of the world, as these characters described here go against the norm. However, it is a blessing for those who dare to be righteous and suffer for it. This distinguishes the saints from the world, as they are persecuted for living differently. The world will always reject and persecute those who challenge its ways, but the kingdom of heaven belongs to those who suffer for the sake of goodness.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.947213591694736,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                33.08,
+                33.72,
+                33.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are persecuted for righteousness' sake are truly blessed, as these words of Jesus reiterate. It is a striking notion for those who are influenced by the spirit of the world, as it challenges their whole system of thought and action. Yet, it is a courageous act to dare to be righteous in the face of opposition. Persecution becomes evidence that one is living a righteous life, setting them apart from the world. Despite the hostility and torment, the saints find happiness in their distinctive and righteous ways.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8129491284187154,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                29.93,
+                33.56,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blessing of being persecuted for righteousness' sake is emphasized by Jesus, bringing closure to a series of promises. This challenges the spirit of the world and startles those influenced by it. To be righteous, even in the face of opposition, is a courageous act that sets believers apart. Despite the unfairness of persecution, it distinguishes the saints from criminals and malefactors. It is a mark of righteousness that invites the hostility and torment of the world, yet brings true happiness and separation from the ways of men.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.6893408016054607,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                31.52,
+                31.78,
+                36.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Persecution for righteousness' sake is a significant blessing declared by Jesus, concluding a series of promises. It challenges the prevailing spirit of the world and startles those who adhere to it. Those who dare to be righteous, despite opposition, stand apart from others. The unjust treatment they face distinguishes them from wrongdoers. Although persecution may seem unnatural, it marks the righteous and exposes the hostility of the world. The saints find happiness in living differently and highlighting the flaw in worldly thinking and behavior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6919719398591355,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                29.35,
+                34.47,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Persecution for righteousness' sake is a blessing that challenges the norms of the world, as Jesus reiterates. It startles those influenced by the prevailing spirit, for it goes against their system of thought and action. However, the saints who dare to be righteous and suffer for it separate themselves from the world and testify to their commitment to goodness. Although persecution may be unjust and undeserved, it distinguishes them as followers of Christ, exposing the discord between their lives and the ways of the world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7945524800597754,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "commentatorTierSimilarities": [
+                27.62,
+                33.28,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

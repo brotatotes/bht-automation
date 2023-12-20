@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:53:44",
+    "verseRef": "Matthew 26:52",
+    "bestBHT": {
+        "bht": "When Peter raised his sword, Jesus firmly scolded him for misconstruing His previous teachings on nonviolence. Jesus explicitly stated that resorting to violence leads to destruction. He condemned offensive war entirely, promoting the pursuit of peace instead. As a spiritual entity, the Church is called to employ spiritual weapons rather than resorting to violence. This portion reinforces the prohibition against private individuals wielding the sword, except when authorized appropriately. Ultimately, Jesus wanted to instruct His followers to renounce violence and trust in God's justice and retribution.",
+        "wordCount": 87,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.8320275785017905,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+        "commentatorTierSimilarities": [
+            32.43,
+            34.28,
+            33.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Put up again. Peter was still brandishing his sword."
+        ],
+        "John Calvin": [
+            "By these words, Christ confirms the precept of the Law, which forbids private individuals to use the sword.",
+            "If, in such a case of moderate defense, an exception was not allowed, Christ appears to tie up the hands of all.",
+            "As this is of rare occurrence, or rather, as it scarcely ever happens, Christ properly reminds his people of the general rule, that they should entirely abstain from using the sword."
+        ],
+        "Philip Schaff": [
+            "For all they that take the sword. A general proposition in regard to unwarranted recourse to measures of violence.",
+            "Shall perish with the sword. The special reference is to Peter.",
+            "The great lesson is: The Church, a spiritual body, may use spiritual weapons only; never carnal and violent measures."
+        ],
+        "Archibald T. Robertson": [
+            "Turn back thy sword into its place. It was a stern rebuke for Peter who had misunderstood the teaching of Jesus in Luke 22:38 as well as in Matthew 5:39 (cf. John 18:36).",
+            "The reason given by Jesus has had innumerable illustrations in human history. The sword calls for the sword. Offensive war is here given flat condemnation.",
+            "The will to peace is the first step towards peace, the outlawing of war. Our American cities are often ruled by gangsters who kill each other off."
+        ],
+        "John Gill": [
+            "This Christ said not only to rebuke Peter for his rashness, but to soften the minds of the multitude, who must be enraged at such an action.",
+            "For all they that take the sword, shall perish with the sword. This is not to be understood of magistrates who bear not the sword in vain, but of private persons that use the sword for private revenge.",
+            "And as an argument to make and keep Peter easy and quiet, and exercise patience, since, in a little time, God would avenge himself of them; and that the Jews, who now made use of the sword of the Roman soldiers, would perish by the sword of the Romans."
+        ],
+        "John Wesley": [
+            "All they that take the sword \u2014 Without God's giving it them: without sufficient authority."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Peter resorted to violence by brandishing his sword, Jesus sternly rebuked him. Jesus explained that those who resort to violence will in turn face violence themselves. Offensive war is blatantly condemned, and the will for peace is the initial step towards achieving it. The Church, as a spiritual body, is called to use spiritual weapons rather than carnal and violent measures. This teaching reaffirms the precept of the Law that prohibits individuals from taking up the sword, unless they have been granted the appropriate authority. Ultimately, Jesus wanted to remind his followers to abstain from employing violence and to trust in God's justice and vengeance.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.8723990277022418,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                32.29,
+                35.29,
+                32.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Peter brandished his sword, Jesus sternly reproached him for misunderstanding His teachings on nonviolence. Jesus declared that resorting to violence leads to destruction. Offensive war is unequivocally condemned, emphasizing the necessity of pursuing peace. The Church, as a spiritual body, must use spiritual weapons rather than violent means. This passage confirms the prohibition on private individuals using the sword, except in cases of legitimate authority. Jesus sought to teach His followers to abstain from violence and trust in God's justice.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8399995834478169,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                32.78,
+                34.51,
+                32.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Peter raised his sword, Jesus firmly scolded him for misconstruing His previous teachings on nonviolence. Jesus explicitly stated that resorting to violence leads to destruction. He condemned offensive war entirely, promoting the pursuit of peace instead. As a spiritual entity, the Church is called to employ spiritual weapons rather than resorting to violence. This portion reinforces the prohibition against private individuals wielding the sword, except when authorized appropriately. Ultimately, Jesus wanted to instruct His followers to renounce violence and trust in God's justice and retribution.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8320275785017905,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                32.43,
+                34.28,
+                33.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Peter impulsively drew his sword, Jesus swiftly reprimanded him, revealing his misunderstanding of Jesus's teachings on non-violence. Jesus emphasized that those who resort to violence will face the same fate. Offensive war is strongly condemned, underscoring the imperative of pursuing peace. The Church, as a spiritual institution, should utilize spiritual tools rather than resorting to carnal and violent actions. This teaching reaffirms the prohibition on individuals taking up the sword, unless properly authorized. Jesus sought to remind his followers to abstain from violence and trust in divine justice.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7793142354807647,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                31.48,
+                34.69,
+                33.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Peter impulsively wielded his sword, Jesus sternly rebuked him for misunderstanding His teachings on nonviolence. Jesus unequivocally stated that those who resort to violence will perish by it. He condemned offensive war and emphasized the need for a desire for peace as the first step towards achieving it. The Church, as a spiritual body, is called to employ spiritual weapons exclusively, rejecting carnal and violent measures. This passage reinforces the prohibition on individuals using the sword, unless duly authorized. Ultimately, Jesus aimed to teach His disciples to abstain from violence and trust in Divine justice.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.8207560016568798,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                31.61,
+                34.71,
+                33.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

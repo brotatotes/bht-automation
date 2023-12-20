@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:46:24",
+    "verseRef": "Matthew 11:19",
+    "bestBHT": {
+        "bht": "The children of wisdom oppose the wayward children, justifying the wisdom of God displayed through the conduct of John and Jesus. The childlike and humble faith of the children of wisdom corresponds to their works and validates the wisdom of God's method. Despite the contradictory accusations and worldly judgments, those who truly understand wisdom acknowledge how Jesus' familiar and approachable demeanor serves a purpose in the divine plan, even in the face of being labeled a gluttonous winebibber.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.0,
+        "qualityScore": 2.1971166333798937,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+        "commentatorTierSimilarities": [
+            34.97,
+            38.11,
+            26.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The waywardness above described was not universal, but that the children of wisdom were led to receive and justify the Wisdom of God, who did these things.",
+            "The children of wisdom are opposed to the wayward children above, the child like to the childish.",
+            "This verse serves as an introduction to the saying in verse 25."
+        ],
+        "Philip Schaff": [
+            "Our Lord used wine, as those about Him did. There was nothing singular in His social habits as the Son of man. But the generation which had denounced asceticism in John, at once magnified this into a crime.",
+            "Thoroughly worldly people seek to parry the claims of spiritual truth by assailing its teachers, in childish petulance, with such contradictory accusations.",
+            "The judgments of the world are childish, those of the children of wisdom are childlike, in humility and faith, and their 'works' correspond. The result in their case has justified the wisdom of God\u2019s method."
+        ],
+        "Archibald T. Robertson": [
+            "Wisdom is justified by her works.\"  ",
+            "God's wisdom has planned the different conduct of both John and Jesus.",
+            "The plan of God is justified by results."
+        ],
+        "John Gill": [
+            "Behold a man gluttonous, a voracious man, an epicurean, one that indulges his appetite to a very great degree, and in a scandalous manner.",
+            "A winebibber, a common tippler, one that drinks to excess; whom the Rabbins call, who is one, they say, that drinks up his cup at one draught; one that is given to wine, and is greedy of it.",
+            "But wisdom is justified of her children; either the wisdom of God, in making use of ministers of a different disposition and deportment, whereby some are gained, and others left inexcusable."
+        ],
+        "John Wesley": [
+            "The Son of man came eating and drinking \u2014 Conversing in a free, familiar way.",
+            "Wisdom is justified by her children \u2014 That is, my wisdom herein is acknowledged by those who are truly wise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The children of wisdom, in contrast to the wayward, childlike children, recognize and justify the wisdom of God. The conduct of both John and Jesus, guided by God's plan, demonstrates how wisdom is justified by her works. Despite the worldly judgments and contradictory accusations, the childlike and humble faith of the children of wisdom corresponds to their works, ultimately justifying the wisdom of God's method. So, while some may accuse Jesus of being a gluttonous winebibber, those who truly understand wisdom acknowledge that his familiar and approachable demeanor serves a purpose in the divine plan.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.191228014180715,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+            "commentatorTierSimilarities": [
+                36.42,
+                36.17,
+                27.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The children of wisdom recognize and justify the wisdom of God displayed in the conduct of John and Jesus. Despite worldly judgments and contradictory accusations, the childlike faith and humble works of the children of wisdom validate the wisdom of God's method. While some may accuse Jesus of being a gluttonous winebibber, those who truly understand wisdom acknowledge that his familiar and approachable demeanor serves a purpose in the divine plan.",
+            "wordCount": 72,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.1320739700835833,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                34.41,
+                37.55,
+                28.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The children of wisdom oppose the wayward children, justifying the wisdom of God displayed through the conduct of John and Jesus. The childlike and humble faith of the children of wisdom corresponds to their works and validates the wisdom of God's method. Despite the contradictory accusations and worldly judgments, those who truly understand wisdom acknowledge how Jesus' familiar and approachable demeanor serves a purpose in the divine plan, even in the face of being labeled a gluttonous winebibber.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 2.1971166333798937,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                34.97,
+                38.11,
+                26.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The children of wisdom acknowledge and justify the wisdom of God revealed through the conduct of John and Jesus. Their childlike faith and humble works correspond, validating the wisdom of God's method. In the midst of contradictory judgments and accusations, those who truly understand wisdom recognize that Jesus' familiar and approachable demeanor has a purpose in the divine plan. Even though some may label him as a gluttonous winebibber, the children of wisdom acknowledge that his actions align with God's wisdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.098251910411605,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                35.36,
+                36.7,
+                27.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The children of wisdom validate the wisdom of God seen in the conduct of John and Jesus. Their humble and childlike faith corresponds to their works, justifying the divine plan. Despite contradictory judgments, they acknowledge that Jesus' familiar and approachable demeanor has a purpose in the divine plan. Though some label him as a gluttonous winebibber, the children of wisdom recognize that his actions align with God's wisdom.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.9049014027956757,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                36.83,
+                35.85,
+                27.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

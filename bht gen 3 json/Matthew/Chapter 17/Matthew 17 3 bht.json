@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:49:15",
+    "verseRef": "Matthew 17:3",
+    "bestBHT": {
+        "bht": "On the mount of transfiguration, Jesus is comforted by the presence of Moses and Elijah, representing the law and prophecy. Their mysterious deaths and their focus on Jesus' upcoming sacrifice show the significance of his role as the fulfillment of the law and the prophets. Their appearance, along with God speaking from heaven, is a demonstration that Christ alone is the end of the Law and the Prophets. This divine encounter helps Jesus prepare for the journey to Jerusalem and the fulfillment of his mission.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.017310499978969,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+        "commentatorTierSimilarities": [
+            27.76,
+            31.27,
+            40.97
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There need be no question concerning the manner of the recognition of Moses and Elias by the disciples: it may have been intuitive and immediate.",
+            "We can certainly not answer with Olshausen, that it may have arisen from subsequent information derived from our Lord, for Peter's words in the next verse preclude this.",
+            "St. Luke adds, 'who appeared in glory, and spake of his decease, which he should accomplish in Jerusalem.'"
+        ],
+        "Albert Barnes": [
+            "Moses, a distinguished servant of God, by whom the law was given, and whose institutions typified the Messiah.",
+            "Elijah had been honored eminently by being thus translated, and still more by being made the model of the forerunner of the Messiah.",
+            "By faith in that death they had been saved; and now that the Redeemer of mankind was about to die, it is no wonder that this was the burden of his and their thoughts."
+        ],
+        "John Calvin": [
+            "God, who brought them forward, gave also signs and tokens by which they were enabled to know them.",
+            "It was intended to demonstrate that Christ alone is the end of the Law and of the Prophets.",
+            "At the time when the ancient prophets uttered their predictions concerning the death of Christ, he himself, who was the eternal wisdom of God, was sitting on the invisible throne of his glory."
+        ],
+        "Philip Schaff": [
+            "These persons were really present. It was not a vision, as is plain from the account of Luke.",
+            "Both were forerunners of the Messiah, and had also fasted forty days. They came from the invisible world, appearing 'in glory', in a glorified form.",
+            "Even on the mount of transfiguration the cross is in the foreground, and these Old Testament saints were probably then instructed in regard to it."
+        ],
+        "Archibald T. Robertson": [
+            "Sufficient objectivity is guaranteed by the vision being enjoyed by all three\" (Bruce).",
+            "Both had mystery connected with their deaths. One represented law, the other prophecy, while Jesus represented the gospel (grace).",
+            "Jesus needed comfort and he gets it from fellowship with Moses and Elijah."
+        ],
+        "John Gill": [
+            "The appearance of these two with Christ, was to show, that Christ is the end of the law and prophets; that there is an entire agreement between him and them, and that they have their full accomplishment in him.",
+            "The Jews have a notion that Moses is not dead, but is ascended, and stands and ministers to God, in the highest heavens.",
+            "What Moses and Elias were talking with our Lord about, is expressed by Luke."
+        ],
+        "John Wesley": [
+            "Moses, the giver of the law, Elijah, the most zealous of all the prophets, and God speaking from heaven, all bore witness to him.",
+            ""
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the mount of transfiguration, Jesus is comforted by the presence of Moses and Elijah, representing the law and prophecy. Their mysterious deaths and their focus on Jesus' upcoming sacrifice show the significance of his role as the fulfillment of the law and the prophets. Their appearance, along with God speaking from heaven, is a demonstration that Christ alone is the end of the Law and the Prophets. This divine encounter helps Jesus prepare for the journey to Jerusalem and the fulfillment of his mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.017310499978969,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                27.76,
+                31.27,
+                40.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the mount of transfiguration, Jesus finds comfort and fellowship with Moses and Elijah. Their presence signifies Jesus' role as the fulfillment of the law and the prophets. Through their mysterious deaths and focus on Jesus' upcoming sacrifice, they emphasize the significance of his mission. This encounter, along with God's presence, demonstrates that Christ alone is the culmination of the Law and the Prophets. It serves as a preparation for Jesus as he faces his journey to Jerusalem and the accomplishment of his purpose.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9484900677498538,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                29.54,
+                32.25,
+                38.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the mount of transfiguration, Jesus is comforted by fellowship with Moses and Elijah. Their presence represents the fulfillment of the law and prophecy, highlighting the significance of Jesus' role as the embodiment of grace. This divine encounter shows that Christ alone is the end goal of the Law and the Prophets. Moses and Elijah, both with their own mysterious deaths, join Jesus in discussing his impending sacrifice. United on the mountaintop, they offer Jesus the encouragement and strength he needs for his journey to Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9871925670277024,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                30.76,
+                31.62,
+                37.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the mount of transfiguration, Jesus receives comfort and fellowship from Moses and Elijah. Their presence signifies Jesus' fulfillment of the law and the prophets, highlighting the harmonious agreement between them. With their mysterious deaths and focus on Jesus' upcoming sacrifice, they emphasize the centrality of his mission. This divine encounter assures Jesus that he is the end goal of the Law and the Prophets. United on the mountaintop, they provide Jesus with solace and encouragement as he prepares for his journey to Jerusalem.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.8380432962961306,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                31.0,
+                31.44,
+                37.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the transfiguration on the mount, Jesus finds comfort in the company of Moses and Elijah. Their presence represents the fulfillment of the law and prophecy, emphasizing Jesus' role as the embodiment of grace. With their enigmatic deaths and focus on Jesus' imminent sacrifice, they underscore the significance of his mission. This divine encounter serves as a testament to the fact that Christ alone is the culmination of the Law and the Prophets. Moses and Elijah's presence offers solace to Jesus as he prepares for his journey to Jerusalem.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9456257162700195,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                29.64,
+                33.6,
+                36.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

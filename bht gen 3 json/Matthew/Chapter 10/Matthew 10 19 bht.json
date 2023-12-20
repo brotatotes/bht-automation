@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:46:02",
+    "verseRef": "Matthew 10:19",
+    "bestBHT": {
+        "bht": "When facing the prospect of defending their faith, Jesus instructed his disciples not to be anxious or solicitous about their speech, emphasizing the importance of real heroism and loyalty to Him. Rather than worrying about how or what to speak, believers were assured that in that same moment, the Spirit would provide them with the most fitting words. The Lord's promise of divine assistance was meant to alleviate their fears and objections, empowering them with eloquence beyond what they could have prepared on their own.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.5544028264155374,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+        "commentatorTierSimilarities": [
+            24.06,
+            16.7,
+            59.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19. take not anxious (or distracting) thought] A spiritual prohibition, answering to the literal one in vv. 9, 10. See Exodus iv. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But when they deliver you up, take no thought\u2014be not solicitous or anxious.",
+            "how or what ye shall speak\u2014that is, either in what manner ye shall make your defense, or of what matter it shall consist.",
+            "for it shall be given you in that same hour what ye shall speak."
+        ],
+        "Marvin Vincent": [
+            "Be not anxious.",
+            "In that selfsame hour.",
+            "Many feel most strongly their spiritual power when the hour comes to impart it to others."
+        ],
+        "John Calvin": [
+            "In vain would Christ have given a hundred exhortations to the disciples, if he had not, at the same time, promised that God would be with them, and that through his power they would assuredly be victorious.\" ",
+            "The Spirit will suggest words to them. The more a man distrusts himself through consciousness of his own weakness, the more is he alarmed, unless he expect assistance from another quarter.",
+            "Frequently does it happen that the Lord leaves believers destitute of the gift of eloquence, so long as he does not require that they give him a testimony, but, when the necessity for it arrives, those who formerly appeared to be dumb are endued by him with more than ordinary eloquence."
+        ],
+        "Philip Schaff": [
+            "Be not anxious, i.e., do not be unduly concerned.",
+            "How or what, neither about the form nor the substance.",
+            "The promise is: what ye shall speak shall be given."
+        ],
+        "Archibald T. Robertson": [
+            "Be not anxious... 'Do not become anxious.'",
+            "The injunction applied to cases when preparation of a speech would be impossible.",
+            "Christ is not talking about preparation of sermons... real heroism with full loyalty to Christ."
+        ],
+        "John Gill": [
+            "Now, in order to remove these their fears and objections, and to strengthen and comfort their minds, our Lord bids them, when this would be their ease, that the Jews would deliver them to the Roman magistrates, to take no thought how, or what ye shall speak.",
+            "They should have no occasion, as orators do, to take pains, and rack their thoughts, to prepare a studied, elaborate oration, dressed with all the flowers of rhetoric, filled with the most moving and powerful arguments, and clothed with diction of the strictest propriety and elegance; for they should want neither words, nor things.",
+            "Immediate assistance should be afforded them either by his father, or himself; or rather, the blessed Spirit, who would suggest unto them, at once, things, the most proper to be said, and help them to deliver them in the most proper manner: and these are the most convincing arguments, and that the best elocution, which the Spirit of God helps men to."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When faced with the daunting task of speaking in defense of their faith, Jesus reassured his disciples not to be anxious or solicitous about what or how they should speak. The injunction to take not anxious thought applied to situations where the preparation of a speech would be impossible, as Christ emphasized the importance of real heroism and full loyalty to Him. Believers should not be unduly concerned about the form or substance of their words, for in that very hour, the Spirit would inspire and suggest the most fitting words to them. The Lord promised his disciples that God's presence and power would accompany them, providing them with more than ordinary eloquence when the need arose.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 1.730503056883978,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                26.16,
+                21.89,
+                51.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When facing the prospect of defending their faith, Jesus instructed his disciples not to be anxious or solicitous about their speech, emphasizing the importance of real heroism and loyalty to Him. Rather than worrying about how or what to speak, believers were assured that in that same moment, the Spirit would provide them with the most fitting words. The Lord's promise of divine assistance was meant to alleviate their fears and objections, empowering them with eloquence beyond what they could have prepared on their own.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.5544028264155374,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                24.06,
+                16.7,
+                59.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When confronted with the task of defending their faith, Jesus told His disciples not to be anxious or distracted about what or how they should speak. The command to take not anxious thought mirrored the literal instruction given earlier in the passage. Christ emphasized the importance of remaining loyal to Him and displayed confidence in God's provision. He promised that, in moments of need, the Spirit would guide their words, granting them eloquence and the ability to effectively communicate their message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5040535284422671,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "commentatorTierSimilarities": [
+                26.85,
+                22.43,
+                50.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When faced with defending their faith, Jesus instructed His disciples not to worry or be anxious about what they would say. He emphasized the importance of remaining loyal to Him and highlighted that God would provide guidance and assistance in their speech. Rather than becoming anxious, believers should trust in the immediate assistance of the Spirit, who would suggest the most appropriate words and help deliver them effectively. Through divine empowerment, the disciples would be equipped with the necessary eloquence and arguments to fulfill their mission.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.418504969516021,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                23.26,
+                15.77,
+                60.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When called upon to defend their faith, Jesus encouraged His disciples not to be anxious or solicitous about their words. Christ emphasized the importance of complete loyalty to Him and true heroism that goes beyond mere preparation of speeches. Believers should not distress themselves about the form or content of their defense, for in that very hour, the Spirit would inspire and provide them with the most suitable words. The disciples were assured of God's presence and power, granting them eloquence and conviction beyond their own abilities.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5158193377027867,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                24.88,
+                20.25,
+                54.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

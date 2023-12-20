@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:44:12",
+    "verseRef": "Matthew 6:15",
+    "bestBHT": {
+        "bht": "Forgiving others is not just a mere formality in our spiritual life; it is a genuine reflection of the reality before God. It is closely tied to our experience of God's forgiveness for our sins. If we refuse to forgive, it raises doubts about whether we truly grasp the grace and goodness of God's forgiveness. As we approach God in prayer, our forgiveness of others is directly connected to how we ourselves are forgiven. Refusing to forgive hinders our experience of God's forgiveness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.7476770796855539,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+        "commentatorTierSimilarities": [
+            38.39,
+            0.0,
+            61.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest.",
+            "Another department of the spiritual life, in which reality in the sight of God, and not appearance in the sight of man, must be our object.",
+            "They clearly recognize [fasting] as a solemn duty, ranking it with almsgiving and prayer; but requiring it, like them, to spring out of reality, not mere formal prescription."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if ye forgive not, &c.\" ",
+            "Having concluded His supplementary directions on the subject of prayer with this Divine Pattern, our Lord now returns to the subject of Unostentatiousness in our deeds of righteousness.",
+            "To give one more illustration of it, in the matter of fasting."
+        ],
+        "John Gill": [
+            "Had they any right apprehensions of the grace and goodness of God, in the forgiveness of their sins, this would influence their minds, and engage their hearts to forgive such who have offended them.",
+            "It is a plain case, that your Father has not given you a true sense of the pardon of your sins, nor can you be certain that he will; nor have you any reason to expect it, when you are so cruel and revengeful to others.",
+            "If men, who are upon an equal foot with each other, should not forgive one another, how should it be expected that our Father which is in heaven, who is so much above, and no ways obliged to us, should forgive us?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Forgiving others is not just a mere formality or appearance in the sight of man, but a genuine reflection of the reality of our spiritual life before God. It is an essential aspect of our relationship with Him, just like prayer and almsgiving. In fact, the ability to forgive others is closely tied to our own experience of God's forgiveness for our sins. If we refuse to forgive, it raises doubts about whether we truly grasp the grace and goodness of God's forgiveness in our own lives. As we approach God in prayer, we must remember that our forgiveness of others is directly connected to how we ourselves are forgiven. If we harbor bitterness and refuse to forgive, we should not expect to experience the fullness of God's forgiveness.",
+            "wordCount": 132,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.6949360254681773,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+            "commentatorTierSimilarities": [
+                38.43,
+                0.0,
+                61.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Forgiving others is not just a mere formality in our spiritual life; it is a genuine reflection of the reality before God. It is closely tied to our experience of God's forgiveness for our sins. If we refuse to forgive, it raises doubts about whether we truly grasp the grace and goodness of God's forgiveness. As we approach God in prayer, our forgiveness of others is directly connected to how we ourselves are forgiven. Refusing to forgive hinders our experience of God's forgiveness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7476770796855539,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                38.39,
+                0.0,
+                61.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Forgiving others is not just a mere formality or appearance before man, but a genuine reflection of the reality in our spiritual life before God. It is closely tied to our experience of God's forgiveness for our sins. If we refuse to forgive, it raises doubts about whether we truly grasp the grace and goodness of God's forgiveness. Our ability to forgive others is directly connected to how we ourselves are forgiven. As we approach God in prayer, our forgiveness of others should be a priority.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.6778232903665067,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.13,
+            "commentatorTierSimilarities": [
+                39.28,
+                0.0,
+                60.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Forgiveness is not just a mere formality, but a reflection of our spiritual reality before God. It is intricately linked to our experience of God's forgiveness. Refusing to forgive others raises doubts about our understanding of God's grace. Our ability to forgive is directly connected to our own forgiveness. When we approach God in prayer, we must prioritize forgiveness, as it is an essential aspect of our relationship with Him. Failure to forgive hinders our experience of God's forgiveness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6665236072955272,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                38.76,
+                0.0,
+                61.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Forgiving others is not just an external display for others to see, but a reflection of our genuine relationship with God. Our ability to forgive is deeply connected to our understanding of God's forgiveness in our own lives. When we come before God in prayer, we must prioritize forgiveness, knowing that our forgiveness of others is intertwined with our own experience of being forgiven. Refusing to forgive hinders our ability to fully experience and receive God's forgiveness for ourselves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.7227935333581315,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                37.81,
+                0.0,
+                62.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

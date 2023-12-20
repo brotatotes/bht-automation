@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:48:25",
+    "verseRef": "Matthew 15:18",
+    "bestBHT": {
+        "bht": "Our words serve as a true index of our character, originating from the heart. Jesus's reference to the heart includes the entire inward life, encompassing not only emotions but also evil thoughts that manifest in words and deeds. As seen through the Pharisees' contentious quibblings, such words are a product of evil hearts. Therefore, what is spoken reveals the true nature of the heart, while sinful words and actions stem from the corrupt fountain within, further polluting human nature.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8712433542118414,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+        "commentatorTierSimilarities": [
+            50.71,
+            19.51,
+            29.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 15:18. Expresses in another form the same thought, indicating plainly that the heart is unaffected by what goes into the mouth, while what comes out of the mouth indicates what is in the heart.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Spoken words come out of the heart and so are a true index of character.",
+            "By 'heart' Jesus means not just the emotional nature, but the entire man, the inward life of 'evil thoughts' that issue in words and deeds.",
+            "The captious quibblings of the Pharisees, for instance, had come out of evil hearts."
+        ],
+        "John Gill": [
+            "But those things which proceed out of the mouth...come forth from the heart: are first conceived and formed there, and then come forth from thence.\" ",
+            "The heart is the corrupt fountain from whence all moral defilement flows.",
+            "Sinful words and actions are the impure streams, which spring from thence, and increase the moral pollution of human nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our words reveal the true state of our hearts, serving as an index of our character. When Jesus speaks of the heart, He is not referring solely to emotions, but to the entirety of a person's inward life and the evil thoughts that manifest in words and actions. The Pharisees' contentious quibblings stemmed from evil hearts. This highlights the principle that what comes out of our mouths reflects what is truly within us, while what we consume has no lasting impact on our hearts. It is from the heart, which is often a corrupt fountain, that sinful words and actions flow, further polluting our human nature.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.698259693770832,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                46.37,
+                23.27,
+                30.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our words are a true indicator of our character, flowing from the depths of the heart. Jesus teaches that it is not what enters the mouth but what comes out of it that reveals the state of the heart. He refers to the heart as the complete inner being, encompassing both emotions and the evil thoughts that translate into words and actions. The Pharisees' contentious quibbles exemplify the manifestation of evil from their hearts. Sinful words and actions stem from the impure fountain of the heart, exacerbating the moral pollution of human nature.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6937098045855876,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.66,
+            "commentatorTierSimilarities": [
+                45.31,
+                22.22,
+                32.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our words serve as a true reflection of our character, originating from the depths of the heart. Jesus emphasizes that it is not what we consume but what proceeds from our mouths that reveals the condition of our hearts. When He speaks of the heart, He does not solely refer to emotions. Rather, He speaks of the entirety of a person's inward life, including the evil thoughts that find expression in words and actions. The Pharisees' contentious quibblings were a clear manifestation of the wickedness within their hearts. Sinful words and deeds stem from the corrupt fountain of the heart, further polluting human nature.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.609844021064565,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                45.99,
+                24.36,
+                29.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our words are a true index of our character, as they originate from the heart. In this context, the term heart encompasses the entire person, including the emotional nature and the evil thoughts that give rise to words and actions. The Pharisees, for instance, demonstrated the manifestation of evil hearts through their captious quibblings. Thus, what proceeds from our mouths reveals the true state of our hearts. Sinful words and actions are like impure streams that flow from the corrupt fountain of the heart, exacerbating the moral pollution of human nature.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.799737265903107,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                45.59,
+                19.75,
+                34.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our words serve as a true index of our character, originating from the heart. Jesus's reference to the heart includes the entire inward life, encompassing not only emotions but also evil thoughts that manifest in words and deeds. As seen through the Pharisees' contentious quibblings, such words are a product of evil hearts. Therefore, what is spoken reveals the true nature of the heart, while sinful words and actions stem from the corrupt fountain within, further polluting human nature.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8712433542118414,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                50.71,
+                19.51,
+                29.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:46:54",
+    "verseRef": "Matthew 12:1",
+    "bestBHT": {
+        "bht": "Jesus and his disciples went through the cornfields, plucking and eating the grain on the Sabbath day. While some questioned their actions, Jesus defended them, explaining the necessity due to a shortage of provisions. The term cornfields refers to fields of grain, not the maize we know today. The specific time is uncertain, but it likely happened in early April when barley ripens. Jesus reminds us that observing the Sabbath should not be burdened by legalistic rules, but should be about rest and worship.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.6766008939176156,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+        "commentatorTierSimilarities": [
+            34.23,
+            32.94,
+            32.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Jesus defends their plucking the corn-ears and eating them on the plea of necessity.",
+            "Not as one may be before his regular meals; but evidently from shortness of provisions.",
+            "Jesus went... through the cornfields... and began to pluck the ears of corn, and to eat."
+        ],
+        "Albert Barnes": [
+            "The Sabbath in the week following would be the 'second Sabbath' after this first one in the reckoning, and this was doubtless the time mentioned when Christ went through the fields.",
+            "Barley is in full ear in the beginning of April. There is no improbability, therefore, in this narrative on account of the season of the year.",
+            "The word 'corn' was applied, as it is still in England, to wheat, rye, oats, and barley."
+        ],
+        "Marvin Vincent": [
+            "Time [\u03ba\u03b1\u03b9\u03c1\u03c9]. The word implies a particular time; as related to some event, a convenient, appropriate time; absolutely, a particular point of time, or a particular season, like spring or winter.",
+            "Corn [\u03c3\u03c0\u03bf\u03c1\u03b9\u03bc\u03c9\u03bd]. From speirw, to sow. Properly, as Rev., corn - fields."
+        ],
+        "John Calvin": [
+            "The keeping of the Sabbath was, indeed, a holy thing, but not such a manner of keeping it as they imagined, so that one could scarcely move a finger without making the conscience tremble.",
+            "It is the invariable practice of hypocrites to allow themselves liberty in matters of the greatest consequence, and to pay close attention to ceremonial observances.",
+            "It is proper for us to observe the feelings by which they were animated, lest any one should be distressed by the fact, that the very Doctors of the Law were so hostile to Christ."
+        ],
+        "Philip Schaff": [
+            "The grain was probably barley, which ripens in April in that region and is usually harvested in May.",
+            "His disciples. Not the \u2018Twelve\u2019 exclusively, probably including most of them.",
+            "The word \u2018began\u2019 hints that they were interrupted by the objection of the Pharisees."
+        ],
+        "Archibald T. Robertson": [
+            "On the sabbath day through the cornfields.",
+            "The word 'cornfields' does not mean our maize or Indian corn, but simply fields of grain.",
+            "The word \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2 means a definite and particular time, but we cannot fix it."
+        ],
+        "John Gill": [
+            "It being on a sabbath day, it is very probable, that Christ and his disciples were going to some public place of worship.",
+            "And his disciples were an hungered; it being in the morning before they had broke their fast.",
+            "They plucked off the ears of corn, either barley or wheat, and rubbed them in their hands, to get the grain clear of the husk, or beard, and eat them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus and his disciples were walking through the cornfields, plucking the ears of corn to eat. This happened on the Sabbath day, and while some might question their actions, Jesus defended their actions as necessary due to a shortage of provisions. The word cornfields here refers to fields of grain, not maize or Indian corn. The specific time is not clear, but it is plausible that it was during the beginning of April when barley is in full ear in that region. It is important to understand the context and the Pharisees' objection, as they were strict in their interpretation of Sabbath observance. However, Jesus teaches us that observing the Sabbath does not mean being burdened by unnecessary rules and rituals, but rather embracing the spirit of rest and worship.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 1.7221463543870252,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "commentatorTierSimilarities": [
+                33.49,
+                32.19,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus and his disciples went through the cornfields, plucking and eating the grain on the Sabbath day. While some questioned their actions, Jesus defended them, explaining the necessity due to a shortage of provisions. The term cornfields refers to fields of grain, not the maize we know today. The specific time is uncertain, but it likely happened in early April when barley ripens. Jesus reminds us that observing the Sabbath should not be burdened by legalistic rules, but should be about rest and worship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.6766008939176156,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+            "commentatorTierSimilarities": [
+                34.23,
+                32.94,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus and his disciples walked through the cornfields, plucking and eating the grain on the Sabbath. Jesus defended their actions, emphasizing the necessity due to a shortage of provisions. This incident happened in the spring, when barley ripens in the region. The term cornfields refers to fields of grain, not maize. It is important to understand the context of the Pharisees' objection, as they had strict interpretations of Sabbath observance. Jesus teaches us that observing the Sabbath is not about rigid rules, but about rest and worship.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.5187079149396872,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                32.64,
+                33.49,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus and his disciples went through the cornfields, plucking the ears of grain to eat on the Sabbath. Jesus defended their actions, citing the necessity due to limited provisions. The term cornfields refers to fields of grain, not maize. The exact time is uncertain, but it likely occurred in early April when barley ripens. This incident challenges the strict interpretation of Sabbath observance held by the Pharisees. It teaches us that observing the Sabbath is about rest and worship, not rigid legalistic rules.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5692344262527744,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                31.75,
+                33.85,
+                34.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus and his disciples walked through the cornfields and plucked the ears of corn to eat on the Sabbath day. Jesus defended their actions as necessary due to a shortage of provisions. The term cornfields refers to fields of grain, not maize. While the specific time is unclear, it likely occurred in early April when barley ripens in the region. This event challenges the strict interpretation of Sabbath observance held by the Pharisees, highlighting the true meaning of observing the Sabbath: rest and worship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.6202200474781125,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                35.41,
+                34.14,
+                30.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

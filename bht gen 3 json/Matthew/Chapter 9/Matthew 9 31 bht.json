@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:45:24",
+    "verseRef": "Matthew 9:31",
+    "bestBHT": {
+        "bht": "Despite being told to keep quiet, the demoniacs were so overwhelmed with joy that they couldn't help but spread Jesus' fame throughout the land. Although their disobedience tarnished their faith, it was motivated by a sincere desire to honor and glorify Him. Their actions serve as a reminder that our zeal should be guided by Christ's will rather than our own impulses, ensuring that we prioritize His glory above all else.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.079488750479157,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.24,
+        "commentatorTierSimilarities": [
+            13.74,
+            36.87,
+            49.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "31. But they, when they were",
+            "\tdeparted, spread abroad his fame in all that country\u2014(See on :-). ",
+            "\t",
+            "A Dumb Demoniac Healed ( :-)."
+        ],
+        "Albert Barnes": [
+            "They were so filled with joy that they could not repress their feelings.",
+            "In this, however, they violated the express command of the Saviour.",
+            "But he was not responsible for that."
+        ],
+        "Philip Schaff": [
+            "Their disobedience was undoubtedly wrong. They brought Him no glory, but tarnished their faith.",
+            "Zeal which is not according to knowledge, fails to keep silent, even when authoritatively told to do so.",
+            "Over-zealous people are slow to discriminate between notoriety and success."
+        ],
+        "John Gill": [
+            "They spread abroad his fame in all that country.",
+            "This they did, not in contempt of Christ and his orders; but rather out of gratitude to their benefactor, and through an honest zeal to spread his honour and glory.",
+            "Not our affection, but Christ's will, is to be the rule of our actions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the demoniacs were healed, their joy was so overwhelming that they couldn't help but spread the news of Jesus' miraculous power throughout the land. While their disobedience in going against Jesus' command of silence was wrong and tarnished their faith, their actions were motivated by gratitude for their deliverance and a genuine desire to honor and glorify Him. It is a reminder that our actions should always be guided by Christ's will, not our own impulses or misguided zeal.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 0.9261275710083788,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.14,
+            "commentatorTierSimilarities": [
+                9.65,
+                35.48,
+                54.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The healed demoniacs, filled with overwhelming joy, couldn't contain themselves and spread Jesus' fame throughout the land, disregarding his command to keep it quiet. While their disobedience tarnished their faith, it was motivated by gratitude and a sincere desire to honor and glorify Christ. Their actions serve as a reminder that we should always follow Christ's will, not our own impulses or misguided zeal - for it is His will that should guide our actions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.0326539911611192,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.68,
+            "commentatorTierSimilarities": [
+                12.68,
+                33.45,
+                53.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After their healing, the demoniacs were filled with uncontainable joy, leading them to spread the fame of Jesus throughout the land, even in defiance of His command to remain silent. Although their disobedience may have tarnished their faith, their action stemmed from a deep sense of gratitude towards their deliverer and a sincere desire to honor and glorify Him. Their example serves as a reminder that our actions should be guided by Christ's will, rather than our own impulsive zeal, ensuring that His glory remains at the forefront.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.0213360624985177,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.3,
+            "commentatorTierSimilarities": [
+                10.7,
+                34.21,
+                55.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demoniacs, consumed with exuberant joy, boldly spread Jesus' fame throughout the land, defying His command for silence. While their disobedience may have stained their faith, their actions were rooted in profound gratitude and a genuine desire to honor and magnify Him. They convey an important lesson: our actions should be driven by the will of Christ, not our own misguided zeal, ensuring that His glory remains the ultimate priority in all that we do.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 0.979057014905062,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.9,
+            "commentatorTierSimilarities": [
+                9.82,
+                34.2,
+                55.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite being told to keep quiet, the demoniacs were so overwhelmed with joy that they couldn't help but spread Jesus' fame throughout the land. Although their disobedience tarnished their faith, it was motivated by a sincere desire to honor and glorify Him. Their actions serve as a reminder that our zeal should be guided by Christ's will rather than our own impulses, ensuring that we prioritize His glory above all else.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.079488750479157,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.24,
+            "commentatorTierSimilarities": [
+                13.74,
+                36.87,
+                49.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

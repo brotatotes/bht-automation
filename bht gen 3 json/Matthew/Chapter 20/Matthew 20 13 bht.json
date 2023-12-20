@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:50:23",
+    "verseRef": "Matthew 20:13",
+    "bestBHT": {
+        "bht": "When Jesus addresses the workers as Friend, it carries a deeper meaning than a simple friendly word. He uses the same term to refer to those lacking the wedding garment or when confronting Judas. By reminding the workers that they agreed to a specific payment, Jesus implies that it is not unjust to give others the same. Christians have the freedom to distribute their resources as they see fit, as long as they fulfill their obligations. Ultimately, it is God who decides and His ways are righteous.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.426117362054673,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+        "commentatorTierSimilarities": [
+            17.42,
+            31.24,
+            51.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Friend, at first sight a friendly word merely, assumes a more solemn aspect.\" ",
+            "used in ch. xxii. 12 to the guest who had not the wedding garment",
+            "in ch. xxvi. 50 by our Lord to Judas."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Friend, I do thee no wrong.\" ",
+            "Didst not thou agree with me for a penny?\" ",
+            "Didst not thou agree with me for a penny? &c."
+        ],
+        "Albert Barnes": [
+            "I have paid all that I promised. If I choose to give a penny to another man if he labors little or not at all if I should choose to give all my property away to others, it would not affect this contract with you: it is fully met.",
+            "So, if Christians are just, and pay their lawful debts, and injure no one, the world has no right to complain if they give the rest of their property to the poor, or devote it to send the gospel to the pagan, or to release the prisoner or the captive.",
+            "They are answerable, not to people, but to God, and infidels, and worldly people, and cold professors in the church have no right to interfere."
+        ],
+        "Marvin Vincent": [
+            "One. Representing the whole body. ",
+            "Friend [\u03b5\u03c4\u03b1\u03b9\u03c1\u03b5] . Lit., companion, comrade."
+        ],
+        "Philip Schaff": [
+            "Matthew 20:13. Didst thou not agree with me? The legal claim is answered in a legal way.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Friend\" (\u03b5\u03c4\u03b1\u03b9\u03c1\u03b5). Comrade. So a kindly reply to this man in place of an address to the whole gang.",
+            "The word survives in modern Greek.",
+            "Hosea 13:15."
+        ],
+        "John Gill": [
+            "And indeed the Lord does no wrong to any, by the distinction which he makes among his creatures: he is righteous in all his ways, and holy in all his works...\" ",
+            "He does no injury to the evil angels, by choosing the good angels, and confirming them in the estate in which they were created...",
+            "There is no unrighteousness in him, nor does he do any wrong to any, when, like the potter, out of the same clay, he makes one vessel to honour, and another to dishonour..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus says Friend to the workers who had labored the longest in Matthew 20:13, the term carries more weight than just a friendly word. It is a reminder of the solemnity of the situation, as it is used elsewhere in the Bible to address those who are lacking the required garment or even to confront Judas. Jesus is reminding the workers that they had agreed to work for a denarius, so it would not be unjust to give others the same payment. Christians, too, have the freedom to distribute their resources as they see fit, as long as they fulfill their obligations justly. Ultimately, God is the one who decides and He is righteous in His ways.",
+            "wordCount": 117,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 1.442392283176383,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.3,
+            "commentatorTierSimilarities": [
+                16.44,
+                34.79,
+                48.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus addresses the workers as Friend, it carries a deeper meaning than a simple friendly word. He uses the same term to refer to those lacking the wedding garment or when confronting Judas. By reminding the workers that they agreed to a specific payment, Jesus implies that it is not unjust to give others the same. Christians have the freedom to distribute their resources as they see fit, as long as they fulfill their obligations. Ultimately, it is God who decides and His ways are righteous.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.426117362054673,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                17.42,
+                31.24,
+                51.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus addresses the workers as Friend, it carries a deeper meaning than a simple friendly word. He uses the same term to refer to those lacking the wedding garment or when addressing Judas. By reminding the workers that they agreed to a specific payment, Jesus implies that it is not unjust to give others the same. Christians have the freedom to distribute their resources as they see fit, as long as they fulfill their obligations. Ultimately, it is God who decides, and His ways are righteous.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4258066562248475,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
+            "commentatorTierSimilarities": [
+                17.37,
+                31.41,
+                51.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus addresses the workers as Friend in Matthew 20:13, it carries a solemn weight, as it is used in other instances such as when the wedding guest lacks the appropriate garment and when Jesus confronts Judas. By reminding the workers that they agreed on the payment, Jesus suggests that it is not unjust to give others the same. Christians, too, have the freedom to distribute their resources as they see fit, as long as they fulfill their obligations justly. Ultimately, God's righteous ways determine the outcome.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4072694214522792,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.13,
+            "commentatorTierSimilarities": [
+                14.78,
+                35.84,
+                49.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus addresses the workers as Friend, it carries a solemn significance. This term is used to address those lacking the required garment and when confronting Judas. By reminding the workers of their agreement, Jesus implies it is not unjust to give others the same payment. Christians have the freedom to distribute their resources as they see fit, as long as they meet their obligations. Ultimately, God's righteousness prevails in His decisions, making His ways just and holy.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.354168706853999,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.37,
+            "commentatorTierSimilarities": [
+                16.24,
+                31.44,
+                52.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

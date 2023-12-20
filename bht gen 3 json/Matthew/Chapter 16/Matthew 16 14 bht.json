@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:48:51",
+    "verseRef": "Matthew 16:14",
+    "bestBHT": {
+        "bht": "The people held diverse opinions about Jesus, considering Him to be the Son of David or John the Baptist. However, their understanding was limited and they were only superficially following Him, looking for a political Messiah. Some recognized Him as a remarkable figure, while others believed in the tradition that Jeremiah or another prophet would rise again before the Messiah came. Their diverse opinions hindered them from attaining true knowledge of Jesus, failing to recognize His divinity due to His humble background and appearance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.9364895925553283,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+        "commentatorTierSimilarities": [
+            31.13,
+            36.29,
+            32.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is no contradiction to this verdict that some called him the Son of David.",
+            "Either these were or were about to become His disciples, or are quoted as examples of rare faith.",
+            "On our Lord\u2019s being taken for John the Baptist, see ch. xiv. 2, from which this would appear to be the opinion of the Herodians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Some say that thou art John the Baptist\u2014risen from the dead.",
+            "Was this theory suggested by a supposed resemblance between the 'Man of Sorrows' and 'the weeping prophet?'",
+            "That He was a prophetical person, resembling those of old."
+        ],
+        "John Calvin": [
+            "Hence we perceive how great is the weakness of the human mind; for not only is it unable of itself to understand what is right or true, but even out of true principles it coins errors.",
+            "Though Christ is the only standard of harmony and peace, by which God gathers the whole world to himself, the greater part of men seize on this subject as the occasion of prolonged strife.",
+            "But though, at the time of Christ\u2019s coming, the Jews were divided in this manner, such a diversity of opinions ought not to have hindered the godly from desiring to attain the pure knowledge of him."
+        ],
+        "Philip Schaff": [
+            "The people had never been fully convinced that He was the Messiah. In the presence of opposition they only held that He was a remarkable personage.",
+            "Some really believed that the old prophets would reappear in another form. As His preaching became more denunciatory, they would think of Jeremiah.",
+            "The whole verse shows the change in popular opinion throughout Galilee."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was not much concerned by their answers to this question. He knew by now that the Pharisees and Sadducees were bitterly hostile to him.\" ",
+            "The masses were only superficially following him and they looked for a political Messiah and had vague ideas about him.",
+            "How much did the disciples understand and how far have they come in their development of faith? Are they still loyal?"
+        ],
+        "John Gill": [
+            "These were the common people, the multitude that followed Christ from place to place, and had a great opinion of him on account of his ministry, and miracles.",
+            "But still they came short of the true knowledge of him; they did not know him to be a divine person, which his works and miracles proved him to be.",
+            "The chief reason why they could not entertain such a thought of him, seems to be the mean figure he made in the world, being of a low extract, in strait circumstances of life, regarded only by the poorer sort."
+        ],
+        "John Wesley": [
+            "There was at that time a current tradition among the Jews, that either Jeremiah, or some other of the ancient prophets would rise again before the Messiah came.",
+            "Jeremiah, or one of the prophets...",
+            "A current tradition among the Jews..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people had varying opinions about Jesus, labeling Him as the Son of David or John the Baptist, even suggesting that He was a prophetical person resembling those of old. However, their understanding of Him was limited, as they were only superficially following Him and looking for a political Messiah. Despite opposition, some recognized Him as a remarkable figure, while others believed in the old Jewish tradition that Jeremiah or another prophet would rise again before the Messiah came. Their diverse opinions hindered them from attaining a true knowledge of Jesus, and they failed to recognize Him as a divine person due to His humble background and appearance.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0270725649316788,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                30.93,
+                37.06,
+                32.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people held diverse opinions about Jesus, considering Him to be the Son of David or John the Baptist. However, their understanding was limited and they were only superficially following Him, looking for a political Messiah. Some recognized Him as a remarkable figure, while others believed in the tradition that Jeremiah or another prophet would rise again before the Messiah came. Their diverse opinions hindered them from attaining true knowledge of Jesus, failing to recognize His divinity due to His humble background and appearance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9364895925553283,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                31.13,
+                36.29,
+                32.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people had varied opinions about Jesus, some calling Him the Son of David, others thinking He was John the Baptist or a prophetical figure. Their understanding was limited and superficial, as they expected a political Messiah and lacked true knowledge of His divinity. Their diverse views hindered them from recognizing Him as a divine person, partly due to His humble background. Some even believed in the tradition that Jeremiah or another prophet would rise before the coming of the Messiah.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8722799701952546,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                31.11,
+                37.07,
+                31.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people held differing opinions about Jesus, calling Him the Son of David, John the Baptist, or a prophetical figure. Their understanding was limited, and they were only superficially following Him, expecting a political Messiah. Their diverse views hindered them from recognizing His divinity, partly due to His humble background. Some even believed in the tradition that Jeremiah or another prophet would rise before the coming of the Messiah. This lack of true knowledge prevented the masses from fully grasping Jesus' identity and hindered their development of faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8499373281648097,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                32.56,
+                37.15,
+                30.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people had varied opinions about Jesus, some calling Him the Son of David or John the Baptist, while others saw Him as a prophetical figure resembling those of old. However, their understanding was limited and superficial, as they were seeking a political Messiah and lacked a true knowledge of His divine nature. Their differing views stemmed from the weakness of the human mind and hindered them from recognizing Jesus' true identity, despite His works and miracles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8105082120416278,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                33.22,
+                32.85,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:43:04",
+    "verseRef": "Matthew 3:7",
+    "bestBHT": {
+        "bht": "The Pharisees and Sadducees, known for their hypocritical superstition and carnal unbelief, were denounced by John the Baptist as a viper brood, signifying the deadly influence they had on society. He recognized that their presence at the Jordan was motivated by the popularity of his movement rather than genuine spiritual concerns. John warned them to flee from the wrath to come, not just for Gentiles, but for all unprepared for the kingdom of heaven. Understanding the theological backdrop of that time is crucial to grasp the significance of John's message.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.7827079950700129,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+        "commentatorTierSimilarities": [
+            49.06,
+            28.87,
+            22.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The character of the sect as a whole was hypocrisy; the outside acknowledgment and honouring of God and his law, but inward and practical denial of Him; which rendered them the enemies of the simplicity and genuineness which characterized our Lord\u2019s teaching.\" ",
+            "The denial of a future state does not appear to have been an original tenet of Sadduceism, but to have sprung from its abuse. The particular side of religionism represented by the Sadducees was bare literal moral conformity, without any higher views or hopes.",
+            "The two sects, mutually hostile, are found frequently in the Gospels united in opposition to our Lord; the Pharisees representing hypocritical superstition; the Sadducees, carnal unbelief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Viper brood, expressing the deadly influence of both sects alike upon the community.",
+            "What can have brought you hither? John more than suspected it was not so much their own spiritual anxieties as the popularity of his movement that had drawn them thither.",
+            "In this view of it, how striking is the word he employs to express that step\u2014fleeing from it\u2014as of one who, beholding a tide of fiery wrath rolling rapidly towards him, sees in instant flight his only escape!"
+        ],
+        "Albert Barnes": [
+            "They were a corrupt, hypocritical, office-seeking, haughty class of men.",
+            "The Essenes...were generally more pure...an unambitious, a modest, and retiring sort of people.",
+            "In the phrase 'generation of vipers'...the viper is the symbol of wickedness, of envenomed malice."
+        ],
+        "John Calvin": [
+            "Nothing can be more unequal, in this respect, than a constant equality.",
+            "Those whose habits of uttering falsehood to God, and of deceiving themselves, lead them to hold out hypocrisy and pretension, instead of the reality, ought to be urged, with greater sharpness than other men, to true repentance.",
+            "There is an astonishing pertinacity, as I have said, in hypocrites; and, until they have been flayed by violence, they obstinately keep their skin."
+        ],
+        "Philip Schaff": [
+            "The Pharisees and Sadducees. Two opposing parties, here classed together in the same unworthy category...The Pharisees were the upholders of strict orthodox Judaism...The Sadducees represent the opposite tendency of skepticism, rationalism, and unbelief.",
+            "A third school existed, the Essenes...They may be called the Jewish mystics, and represent a tendency less universal than the other two schools.",
+            "The fear of these times rather than of the future judgment moved the Pharisees and Sadducees, while John himself foretold the fate of the Jewish nation as part of the 'impending wrath.'"
+        ],
+        "Archibald T. Robertson": [
+            "One cannot properly understand the theological atmosphere of Palestine at this time without an adequate knowledge of both Pharisees and Sadducees.",
+            "John clearly grasped the significance of this movement on the part of the Pharisees and Sadducees who had followed the crowds to the Jordan.",
+            "'The coming wrath' was not just for Gentiles as the Jews supposed, but for all who were not prepared for the kingdom of heaven."
+        ],
+        "John Gill": [
+            "O generation of vipers!... full of the deadly poison of hypocrisy, malice, and error.",
+            "Who hath warned you to flee from the wrath to come?",
+            "Wrath to come... not meant hell fire, everlasting destruction... but temporal calamity and destruction, the wrath which in a little time came upon that nation to the uttermost."
+        ],
+        "John Wesley": [
+            "Ye brood of vipers.\" ",
+            "The crafty Herod is styled a fox.",
+            "Terms which are not the random language of passion, but a judicious designation of the persons meant by them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Sadducees were two opposing sects in Jewish society at the time. While the Pharisees represented hypocritical superstition, the Sadducees embodied carnal unbelief. John the Baptist, recognizing their false ideologies and their lack of true repentance, called them a viper brood as a metaphor for the deadly influence they had on the community. John understood that their presence was not driven by genuine spiritual concerns, but by the popularity of his movement. His warning to flee from the wrath to come was not just directed at Gentiles, but at all those who were not prepared for the kingdom of heaven. It is important to understand the theological atmosphere of that time, with the presence of both the Pharisees and the Sadducees, in order to grasp the significance of John's message.",
+            "wordCount": 133,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.995301171785273,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                46.4,
+                33.42,
+                20.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Sadducees were two opposing sects in Jewish society, characterized by hypocritical superstition and carnal unbelief respectively. John the Baptist referred to them as a viper brood, highlighting their deadly influence on the community. He recognized that they were drawn to his movement not out of genuine spiritual concern, but because of its popularity. John's warning to flee from the wrath to come was directed not only at Gentiles, but at all those unprepared for the kingdom of heaven. Understanding the theological context of the time is key in comprehending John's message.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.772172134962319,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                46.63,
+                32.14,
+                21.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees and Sadducees, representing hypocritical superstition and carnal unbelief respectively, were referred to as a viper brood by John the Baptist, emphasizing their deadly influence on the community. He recognized that their presence at the Jordan was driven by the popularity of his movement rather than genuine spiritual concerns. John warned them to flee from the wrath to come, not only for Gentiles, but for all those unprepared for the kingdom of heaven. Understanding the theological atmosphere of that time is crucial to fully grasp the significance of John's message.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.7825701027476302,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                50.17,
+                29.17,
+                20.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Sadducees, known for their hypocritical superstition and carnal unbelief, were denounced by John the Baptist as a viper brood, signifying the deadly influence they had on society. He recognized that their presence at the Jordan was motivated by the popularity of his movement rather than genuine spiritual concerns. John warned them to flee from the wrath to come, not just for Gentiles, but for all unprepared for the kingdom of heaven. Understanding the theological backdrop of that time is crucial to grasp the significance of John's message.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7827079950700129,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                49.06,
+                28.87,
+                22.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Sadducees, representing hypocritical superstition and carnal unbelief respectively, were labeled as a viper brood by John the Baptist, alluding to their deadly influence on the community. Amidst the crowds drawn to the Jordan, John saw through their self-serving motives, prompting him to ask, Who hath warned you to flee from the wrath to come? John's warning encompassed not only Gentiles, but anyone unprepared for the kingdom of heaven. To fully understand the significance of his message, it is essential to grasp the theological backdrop of that time.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7552266747953849,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                47.62,
+                30.19,
+                22.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

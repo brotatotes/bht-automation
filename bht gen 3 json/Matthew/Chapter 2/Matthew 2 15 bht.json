@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:51",
+    "verseRef": "Matthew 2:15",
+    "bestBHT": {
+        "bht": "Jesus' recall from Egypt fulfilled the prophecy in Hosea where God called His people out of Egypt. By quoting directly from the Hebrew text, Matthew emphasizes the purpose behind the fulfillment. Joseph's obedience to God's warning in a dream ensured the safety of Mary and Jesus in Egypt until Herod's death. This reveals the deeper relation between Christ and His people, underscoring God's providential care even in the formation of Egyptian civilization, demonstrating that God never forsakes the Gentile world.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.16670707189597,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+        "commentatorTierSimilarities": [
+            37.1,
+            36.43,
+            26.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It seems to have been a received axiom of interpretation (which has, by its adoption in the N.T., received the sanction of the Holy Spirit Himself, and now stands for our guidance), that the subject of all allusions, the represented in all parables and dark sayings, was He who was to come, or the circumstances attendant on His advent and reign.",
+            "The words are written in Hosea of the children of Israel, and are rendered from the Hebrew.",
+            "That it might be fulfilled must not be explained away: it never denotes the event or mere result, but always the purpose."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that it might be fulfilled which was spoken of the Lord by the prophet, saying\u2014",
+            "Our Evangelist here quotes directly from the Hebrew, warily departing from the Septuagint.",
+            "Viewing the words in this light, even if our Evangelist had not applied them to the recall from Egypt of God's own beloved, Only-begotten Son, the application would have been irresistibly made by all who have learnt to pierce beneath the surface to the deeper relations which Christ bears to His people, and both to God."
+        ],
+        "Albert Barnes": [
+            "The best chronologers have supposed that he died somewhere between two and four years after the birth of Christ, but at what particular time cannot now be determined.",
+            "Nor can it be ascertained at what age Jesus was taken into Egypt. It seems probable that he was supposed to be a year old (see Matthew 2:16), and of course the time that he remained in Egypt was not long.",
+            "That it might be fulfilled ... This language is recorded in Hosea 11:1. It there evidently speaks of God\u2019s calling His people out of Egypt, under Moses. See Exodus 4:22-23. It might be said to be fulfilled in his calling Jesus from Egypt because the words in Hosea aptly expressed this also."
+        ],
+        "John Calvin": [
+            "When Israel was yet a child, I brought him out of that wretched bondage in which he had been plunged. He was formerly like a dead man, and Egypt served him for a grave; but I drew him out of it as from the womb, and brought him into the light of life.\u201d",
+            "And justly does the Lord speak in this manner; for that deliverance was a sort of birth of the nation. Then were openly produced letters of adoption, when, by the promulgation of the law, they became 'the Lord\u2019s portion,' 'a royal priesthood, and a holy nation;' when they were separated from the other nations, and when, in short, God 'set up his tabernacle' to dwell in the midst of them.",
+            "The grace and power of God became more illustrious, and his wonderful purpose was more distinctly seen, when light came out of darkness, and life out of hell."
+        ],
+        "Philip Schaff": [
+            "It seems to have been a settled axiom of interpretation...that the subject of all allusions...was He who was to come, or the circumstances attendant on His advent or reign.\" ",
+            "The place of Egypt in history should not be forgotten... God did not forsake the Gentile world, though it forsook Him.",
+            "His providential care was as really present in the formation of that civilization which issued from Egypt, as in the occurrences which led Israel and Jesus thither."
+        ],
+        "Archibald T. Robertson": [
+            "Joseph was warned in a dream to take Mary and the child along.\" ",
+            "In Egypt Joseph was to keep Mary and Jesus till the death of Herod the monster.\" ",
+            "Matthew quotes Hosea 11:1 to show that this was in fulfilment of God's purpose to call his Son out of Egypt."
+        ],
+        "John Gill": [
+            "This is the natural and unconstrained sense of these words, which justifies the Evangelist in his citation and application of them to Christ's going to Egypt, and his return from thence.",
+            "who will be obliged to retire there for some time; I will make him king, set him upon the throne, who shall execute justice, and reign for ever and ever",
+            "This is the natural and unconstrained sense of these words, which justifies the Evangelist in his citation and application of them to Christ's going to Egypt, and his return from thence"
+        ],
+        "John Wesley": [
+            "That it might be fulfilled \u2014 That is, whereby was fulfilled.",
+            "Which was spoken of the Lord by the prophet \u2014 on another occasion.",
+            "Christ being in a far higher sense the Son of God than Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 2:15, the events surrounding the recall from Egypt of God's own beloved, Only-begotten Son, Jesus, fulfilled the Scripture in Hosea 11:1. The words from Hosea aptly express God's calling His people out of Egypt under Moses, but can also be applied to Jesus. The application of these words to Jesus is justified because they reveal the deeper relations which Christ bears to His people and to God. By quoting directly from Hosea in the original Hebrew, Matthew emphasizes the purpose behind the fulfillment of the prophecy. Joseph's obedience to God's warning in a dream ensured that Mary and Jesus remained safe in Egypt until the death of Herod the monster. This passage underscores the providential care of God throughout history, even in the formation of the Egyptian civilization, showing that God did not forsake the Gentile world.",
+            "wordCount": 142,
+            "quoteTokenProportion": 33.71,
+            "qualityScore": 2.2594006019708566,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                36.81,
+                36.32,
+                26.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the recall from Egypt of God's own beloved Son, Jesus, the fulfillment of Hosea's words reveals the deeper relation between Christ and His people. By quoting directly from the Hebrew text, Matthew emphasizes the purpose behind the prophecy. Joseph's obedience to God's warning in a dream ensured the safety of Mary and Jesus in Egypt until the death of Herod the monster. This passage underscores the providential care of God throughout history, even in the formation of the Egyptian civilization, showing that God did not forsake the Gentile world.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 2.218637480751296,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.11,
+            "commentatorTierSimilarities": [
+                37.88,
+                35.49,
+                26.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' recall from Egypt fulfilled the prophecy in Hosea where God called His people out of Egypt. By quoting directly from the Hebrew text, Matthew emphasizes the purpose behind the fulfillment. Joseph's obedience to God's warning in a dream ensured the safety of Mary and Jesus in Egypt until Herod's death. This reveals the deeper relation between Christ and His people, underscoring God's providential care even in the formation of Egyptian civilization, demonstrating that God never forsakes the Gentile world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.16670707189597,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+            "commentatorTierSimilarities": [
+                37.1,
+                36.43,
+                26.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' recall from Egypt fulfilled the prophecy in Hosea. Matthew quotes directly from the Hebrew text to emphasize the purpose behind the fulfillment. Joseph's obedience to God's warning ensured the safety of Mary and Jesus in Egypt until Herod's death. This demonstrates the deeper relation between Christ and His people, highlighting God's providential care in the formation of Egyptian civilization, and showing that God never forsakes the Gentile world.",
+            "wordCount": 73,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.1568437152039728,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                38.12,
+                35.75,
+                26.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In recalling Jesus from Egypt, the fulfillment of the prophecy in Hosea reveals the deeper relation between Christ and His people. Matthew quotes directly from the Hebrew text, emphasizing the purpose behind the fulfillment. Joseph's obedience to God's warning in a dream ensured the safety of Mary and Jesus until the death of Herod. This demonstrates God's providential care throughout history, even in the formation of Egyptian civilization, underscoring that God never forsakes the Gentile world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.112478755729943,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                38.43,
+                35.32,
+                26.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:50:33",
+    "verseRef": "Matthew 20:29",
+    "bestBHT": {
+        "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Mark and Luke mention only one blind man, Bartimaeus, but their narratives closely align, suggesting they recount the same event. The blind man was likely not initially heard due to the noise of the crowd. Positioned in Jesus' path as He departed from Jericho, his affliction became even more remarkable. Jesus' departure with His disciples was accompanied by a multitude, some possibly expecting Him to establish His kingdom.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.4335568793926254,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+        "commentatorTierSimilarities": [
+            43.83,
+            22.73,
+            33.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "But all the circumstances agree so completely, that no person of sound judgment will believe them to be different narratives.",
+            "My conjecture is, that, while Christ was approaching to the city, the blind man cried out, but that, as he was not heard on account of the noise, he placed himself in the way, as they were departing from the city, and then was at length called by Christ.",
+            "Hence it appears that the miracle was more remarkable in his person, because his calamity had been generally known."
+        ],
+        "Philip Schaff": [
+            "Jericho was in the tribe of Benjamin on the borders of Ephraim, about two hours journey from the Jordan, and the road thence to Jerusalem was difficult and dangerous.\" ",
+            "The district was a blooming oasis in the midst of an extended sandy plain, watered and fruitful, rich in palms, roses, and balsam: hence probably the name ('the fragrant city').",
+            "Herod the Great beautified it, and it was one of the most pleasant places in the land."
+        ],
+        "Archibald T. Robertson": [
+            "The two blind men were apparently between the two towns.",
+            "Mark (Mark 10:46) and Luke (Luke 18:35) mention only one blind man, Bartimaeus (Mark).",
+            "In Kentucky there are two towns about a half mile apart both called Pleasureville (one Old Pleasureville, the other New Pleasureville)."
+        ],
+        "John Gill": [
+            "When Jesus departed from Jericho... with his disciples... a great multitude followed him out of the city.\" ",
+            "They might be in some expectation he would set up his kingdom.",
+            "Contrary to all copies and versions."
+        ],
+        "John Wesley": [
+            "Mark 10:46; Luke 18:35."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Though Mark and Luke only mention one blind man, Bartimaeus, their narratives align so closely that it is reasonable to consider them to be different accounts of the same event. Perhaps the noise of the crowd prevented the blind man from being heard initially, prompting him to position himself in the way as Jesus departed from the city. In this way, the blind man's affliction became all the more remarkable, given that his condition was well-known. Jesus' departure from Jericho with his disciples was accompanied by a great multitude, some perhaps expecting him to establish his kingdom.",
+            "wordCount": 114,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 1.4282403006488686,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.83,
+            "commentatorTierSimilarities": [
+                44.04,
+                21.38,
+                34.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Mark and Luke mention only one blind man, Bartimaeus, but the similarities in their narratives suggest that they recount the same event. The blind man may have been initially unheard due to the noise of the crowd. Determined, he positioned himself in Jesus' path as He departed from Jericho, making his affliction more remarkable. Jesus' departure with His disciples was accompanied by a multitude, some possibly anticipating His kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.3953613566756369,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.74,
+            "commentatorTierSimilarities": [
+                46.34,
+                19.27,
+                34.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Mark and Luke mention only one blind man, Bartimaeus, but their narratives closely align, suggesting they recount the same event. The blind man may not have been initially heard due to the noise of the crowd. Positioned in Jesus' path as He departed from Jericho, his affliction became all the more remarkable. Accompanied by a multitude, Jesus' departure may have sparked expectations of His kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.3845216514547007,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.38,
+            "commentatorTierSimilarities": [
+                45.12,
+                21.7,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Mark and Luke mention only one blind man, Bartimaeus, but their narratives closely align, suggesting they recount the same event. The blind man may have not been initially heard due to the noise of the crowd. Positioned in Jesus' path as He departed from Jericho, his affliction became all the more remarkable. Jesus' departure with His disciples was accompanied by a multitude, some possibly anticipating His kingdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.4249449192031527,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                44.8,
+                21.87,
+                33.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus approached the two blind men between the towns, they cried out for mercy. Mark and Luke mention only one blind man, Bartimaeus, but their narratives closely align, suggesting they recount the same event. The blind man was likely not initially heard due to the noise of the crowd. Positioned in Jesus' path as He departed from Jericho, his affliction became even more remarkable. Jesus' departure with His disciples was accompanied by a multitude, some possibly expecting Him to establish His kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.4335568793926254,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                43.83,
+                22.73,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

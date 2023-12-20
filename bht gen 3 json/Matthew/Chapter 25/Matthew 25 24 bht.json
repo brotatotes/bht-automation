@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 23:53:10",
+    "verseRef": "Matthew 25:24",
+    "bestBHT": {
+        "bht": "The excuse that men make of human infirmity and inability to keep God's commands is self-convicting and false at heart. In this parable, the servant's belief that the master is a hard and harsh man reflects the secret thoughts of those who view God as a difficult Master and place blame on Him for their own fruitlessness. However, God is not a hard and exacting Master, but rather one who graciously gives His gifts and empowers His servants.",
+        "wordCount": 81,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.1637325216574625,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+        "commentatorTierSimilarities": [
+            26.15,
+            33.47,
+            40.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This sets forth the excuse which men are perpetually making of human infirmity and inability to keep God\u2019s commands, when they never apply to that grace which might enable them to do so\u2014an excuse, as here, self-convicting, and false at heart.",
+            "Reaping where thou hast not sown] The connexion of thought in this our Lord\u2019s last parable, with His first (ch. xiii. 3\u20139), is remarkable.",
+            "He looks for fruit where He has sown\u2014this is truth: but not beyond the power of the soil by Him enabled\u2014this is man\u2019s lie, to encourage himself in idleness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I knew thee that thou art an hard man\u2014harsh.",
+            "The sense is obvious: 'I knew thou wast one whom it was impossible to serve, one whom nothing would please: exacting what was impracticable, and dissatisfied with what was attainable.'",
+            "Thus do men secretly think of God as a hard Master, and virtually throw on Him the blame of their fruitlessness."
+        ],
+        "Albert Barnes": [
+            "The design of this part of the parable is to show that no one is excused for neglecting his duty because he has few talents.",
+            "Of a sordid, griping disposition; taking advantage of the poor, and oppressing them.",
+            "This is indicative of an avaricious and overbearing disposition; compelling the poor to sow for him, and reaping all the benefit himself."
+        ],
+        "Marvin Vincent": [
+            "Hard [\u03c3\u03ba\u03bb\u03b7\u03c1\u03bf\u03c2] . Stronger than the austere [\u03b1\u03c5\u03c3\u03c4\u03b7\u03c1\u03bf\u03c2] of Luke 19:21 (see there), which is sometimes used in a good sense, as this never is.\" ",
+            "The word,\" as Trench observes \"could scarcely be applied to the measured and orderly scattering of the sower's seed. It is rather the dispersing, making to fly in every direction.",
+            "Hence used of the pursuit of a routed enemy (Luke 1:51); of the prodigal scattering his good; making the money fly, as we say (Luke 14:13); of the wolf scattering the sheep (Matthew 26:31)."
+        ],
+        "John Calvin": [
+            "This harshness has nothing to do with the substance of the parable.",
+            "Christ only means, that there will be no excuse for the indolence of those who both conceal the gifts of God, and waste their time in idleness.",
+            "No manner of life is more praiseworthy in the sight of God, than that which yields some advantage to human society."
+        ],
+        "Philip Schaff": [
+            "Men represent God as demanding from them what they cannot perform.",
+            "In the parable, and in reality, the excuse is inconsistent and self-convicting.",
+            "'This is man's lie, to encourage himself in idleness.'"
+        ],
+        "Archibald T. Robertson": [
+            "Note the perfect active participle to emphasize the fact that he still had it.",
+            "Experimental knowledge (\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9) and proleptical use of \u03c3\u03b5.",
+            "Harsh, stern, rough man, worse than \u03b1\u03c5\u03c3\u03c4\u03b7\u03c1\u03bf\u03c2 in Luke 19:21, grasping and ungenerous."
+        ],
+        "John Gill": [
+            "if he had, he would have had a true affection for him, faith in him, and would have observed his commands; and he would also have appeared altogether lovely to him, and of an amiable character, and not in such a light as he represents him",
+            "but this wicked servant goes on to traduce him, and adds, reaping where thou hast not sown, and gathering where thou hast not strawed",
+            "Christ is neither niggardly, nor exacting; he requires nothing that is not his, and gives his grace, and bestows his gifts liberally, and upbraids not; nor does he call any to service, of whatsoever sort, but he gives them grace, strength, and abilities, proportionate to it"
+        ],
+        "John Wesley": [
+            "He never knew God, who thinks him a hard master.",
+            "Reaping where thou hast not sown... So does every obstinate sinner, in one kind or other, lay the blame of his own sins on God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This parable highlights the excuse that people often make, claiming human infirmity as the reason for not keeping God's commands. However, this excuse is false at heart because God provides the grace needed to follow His commands. Some see a connection between this parable and the first one in Matthew, emphasizing that God expects fruit where He has sown. However, this expectation is not beyond the capability of those enabled by God. The servant, in his belief that his master is a hard and harsh man, reflects the secret thoughts of men who view God as a difficult Master and place blame on Him for their own fruitlessness. It is important to note that the word used to describe the master as hard carries a stronger negative connotation than the word used in Luke 19:21. In reality, God is not a hard and exacting Master but rather one who graciously gives His gifts and empowers His servants.",
+            "wordCount": 157,
+            "quoteTokenProportion": 40.21,
+            "qualityScore": 1.9570693990188164,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                28.15,
+                32.04,
+                39.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This parable reveals the false excuse people often make of human inability to keep God's commands. They fail to recognize the grace that God provides to enable them. The servant's belief that his master is a hard and harsh man reflects how some secretly view God, blaming Him for their own fruitlessness. However, the stronger word used to describe the master signifies that God is not an exacting Master, but rather one who generously gives His gifts and empowers His servants.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.034229567427488,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                25.91,
+                34.55,
+                39.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The excuse that men make of human infirmity and inability to keep God's commands is self-convicting and false at heart. In this parable, the servant's belief that the master is a hard and harsh man reflects the secret thoughts of those who view God as a difficult Master and place blame on Him for their own fruitlessness. However, God is not a hard and exacting Master, but rather one who graciously gives His gifts and empowers His servants.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1637325216574625,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                26.15,
+                33.47,
+                40.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This parable reveals the false excuse of human infirmity to keep God's commands, which is self-convicting and false at heart. The servant's belief that his master is a harsh and hard man reflects the secret thoughts of those who view God as a difficult Master, placing blame on Him for their fruitlessness. However, God is not an exacting and hard Master. He generously gives His gifts, empowers His servants, and requires nothing beyond what He has enabled them to do.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9664678011952992,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                24.84,
+                33.62,
+                41.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This parable exposes the common excuse of human infirmity in keeping God's commands, which is self-convicting and false at heart. The servant's perception of the master as a harsh and hard man reflects the secret thoughts of those who view God as a difficult Master, blaming Him for their own fruitlessness. However, God is not an exacting and hard Master. He freely gives His gifts, empowers His servants, and only expects what He has equipped them to accomplish.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9249111906312142,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                24.47,
+                33.82,
+                41.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

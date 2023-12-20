@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:52:04",
+    "verseRef": "Matthew 23:30",
+    "bestBHT": {
+        "bht": "Your ancestors portrayed piety by constructing tombs for the prophets, but Jesus exposes their hypocrisy. He confirms the moral connection they deny and reveals their true nature through their smooth words and devilish actions. By shedding innocent blood, they mimic the sacrilegious fury of their forefathers. Jesus warns them that their supposed reverence for the past prophets only serves to cover their crimes against the present ones. Their appeals of innocence are futile, as their actions reflect their true identity as the genuine offspring of those who killed the prophets.",
+        "wordCount": 90,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.374620051959414,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+        "commentatorTierSimilarities": [
+            0.0,
+            39.29,
+            60.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "They professed to say by rebuilding their tombs.",
+            "This, in building and ornamenting tombs, was a profession of extraordinary piety.",
+            "Our Lord showed them it was mere pretence."
+        ],
+        "John Calvin": [
+            "You look upon the veneration which you pay to the deceased prophets as some sort of expiation for the wickedness of your fathers. Now then I have this to urge, that it is in vain for you to boast of a sacred ancestry, since you are descended from wicked and ungodly parents.",
+            "Go now, and screen your crimes by the piety of those whose hands, you acknowledge, were stained with innocent blood.",
+            "But it is an additional and far more heinous crime, that the sacrilegious fury of the fathers, which you condemn by raising sepulchers for the dead, is imitated by you in the murder of the living."
+        ],
+        "Philip Schaff": [
+            "Their \u2018fathers\u2019 by natural lineage. The moral relationship they deny, but our Lord affirms it.",
+            "The moral relationship they deny, but our Lord affirms it.",
+            "Our Lord affirms it."
+        ],
+        "John Gill": [
+            "And say, if we had been in the days of our fathers... we would not have been partakers with them in the blood of the prophets.\" ",
+            "Would not have joined them in persecuting the prophets, and in shedding their blood, and putting them to death.",
+            "But would have received them as the prophets of the Lord, have hearkened to their advice and message, and have honored and obeyed them as such."
+        ],
+        "John Wesley": [
+            "By your smooth words as well as devilish actions: that ye are the genuine sons of them who killed the prophets of their own times, while they professed the utmost veneration for those of past ages.",
+            "From the3d to the30th verse is exposed every thing that commonly passes in the world for religion, whereby the pretenders to it keep both themselves and others from entering into the kingdom of God.",
+            "A specious face of virtue and piety, covering the deepest hypocrisy and villany."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your ancestors built tombs for the prophets, claiming to honor them and distance themselves from their wickedness. However, Jesus exposes this as mere pretense and hypocrisy. He reveals that you are descended from wicked and ungodly parents, and your actions mirror theirs. Instead of using the veneration of the prophets as a cover for your crimes, you should heed their messages and honor them by obeying their teachings. Jesus unveils the false face of religiosity that masks deep hypocrisy and deceit, keeping people from truly entering the kingdom of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2973235791520785,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.28,
+                63.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your ancestors claimed piety by building tombs for the prophets, but Jesus exposes their hypocrisy. He affirms the moral relationship between them and their wicked ancestors, denying their pretense. By professing veneration for the deceased prophets while shedding the blood of the living, they reveal their true nature. Jesus warns them that their smooth words and devilish actions affirm their lineage as those who killed the prophets. This passage exposes the false face of religiosity, hindering entry into the kingdom of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.3731713106045744,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                41.49,
+                58.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Your ancestors portrayed piety by constructing tombs for the prophets, but Jesus exposes their hypocrisy. He confirms the moral connection they deny and reveals their true nature through their smooth words and devilish actions. By shedding innocent blood, they mimic the sacrilegious fury of their forefathers. Jesus warns them that their supposed reverence for the past prophets only serves to cover their crimes against the present ones. Their appeals of innocence are futile, as their actions reflect their true identity as the genuine offspring of those who killed the prophets.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.374620051959414,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.29,
+                60.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Your ancestors constructed tombs for the prophets, professing to distance themselves from their wickedness. However, Jesus exposes their hypocrisy, affirming the moral relationship they deny. He reveals that they are descendants of ungodly parents, whose sacrilegious fury is imitated through their actions. Jesus warns them that their smooth words cannot hide their true nature as the genuine offspring of those who killed the prophets. He exposes the fa\u00e7ade of piety, which conceals deep hypocrisy, preventing them from entering the kingdom of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3633125349431403,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.99,
+                57.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Your ancestors built tombs for the prophets, claiming to honor them and distance themselves from their wickedness. However, Jesus exposes this as mere pretense. He affirms the moral relationship they deny and warns that their smooth words and devilish actions reveal their true nature. By shedding innocent blood, they imitate the sacrilegious fury of their forefathers. Jesus unmasks their feigned piety, highlighting the deep hypocrisy and villainy that hinders them, and others, from entering the kingdom of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3367013944495185,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.58,
+                55.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

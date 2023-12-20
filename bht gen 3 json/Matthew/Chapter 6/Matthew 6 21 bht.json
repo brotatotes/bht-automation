@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:20",
+    "verseRef": "Matthew 6:21",
+    "bestBHT": {
+        "bht": "The heart is, where the treasure is - a divided affection between earthly riches and heavenly rewards. Our happiness in this world is uncertain and short-lived if we place our treasure on earth. However, if our treasure is in the hands of God, our hearts will be settled on Him, our desires after heavenly things. Our conversation will be in heaven, reflecting the eternal happiness we will find there.",
+        "wordCount": 69,
+        "quoteTokenProportion": 42.22,
+        "qualityScore": 1.8055122135300679,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+        "commentatorTierSimilarities": [
+            37.91,
+            25.72,
+            36.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The heart is, where the treasure is.",
+            "I will have a treasure on earth and a treasure in heaven also: a divided affection.",
+            "This is dealt with, and its impracticability shewn by a parable from nature."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For where your treasure is\u2014that which ye value most. there will your heart be also.\" ",
+            "'What a man loves,' says LUTHER, quoted by THOLUCK, 'that is his God. For he carries it in his heart, he goes about with it night and day, he sleeps and wakes with it; be it what it may\u2014wealth or pelf, pleasure or renown.'",
+            "But because 'laying up' is not in itself sinful, nay, in some cases enjoined (:-), and honest industry and sagacious enterprise are usually rewarded with prosperity, many flatter themselves that all is right between them and God, while their closest attention, anxiety, zeal, and time are exhausted upon these earthly pursuits."
+        ],
+        "John Calvin": [
+            "By this statement Christ proves that they are unhappy men who have their treasures laid up on the earth: because their happiness is uncertain and of short duration.",
+            "Hence it follows, that they who desire to be happy in the world renounce heaven.",
+            "If we were honestly and firmly convinced that our happiness is in heaven, it would be easy for us to trample upon the world, to despise earthly blessings, and to rise towards heaven."
+        ],
+        "Philip Schaff": [
+            "The dedication of the heart to God is the underlying thought...the particular teachings are based.\" ",
+            "The precepts are for those who hope to become subjects of the kingdom of heaven.\" ",
+            "People take more interest in the Church, if they sustain it by purse and personal effort."
+        ],
+        "John Gill": [
+            "if your treasure is on earth, and lies in earthly things, your hearts will be set upon them, and be in them, in your bags, your coffers and storehouses; and so your souls will be in danger of being lost; which loss will be an irreparable one, though you should gain the whole world.",
+            "But if your treasure is put into the hands of God, your hearts will be with him, and be settled on him; your desires will be after heavenly things; your affections will be set on things above.",
+            "your conversation will be in heaven, whilst you are on earth; and that will be the place and seat of your happiness, to all eternity."
+        ],
+        "John Wesley": [
+            "Luke 11:34."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Where our hearts are, our true treasure lies - a divided affection between earthly riches and heavenly rewards. Some may rationalize their focus on worldly pursuits, but the truth remains that our happiness and security in this world is uncertain and short-lived. If we truly believe that our ultimate happiness is found in heaven, we would easily sacrifice earthly desires and rise towards heavenly aspirations. If our hearts are fixated on earthly treasures, our souls are at risk of being lost. However, if our treasure is entrusted to God, our hearts will be anchored in Him, our desires directed towards heavenly things, and our eternal happiness assured. Let us remember that our conversation must reflect the treasures we hold: in heaven, while on earth.",
+            "wordCount": 124,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.736183942661646,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                35.62,
+                27.48,
+                36.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heart is, where the treasure is - a divided affection between earthly riches and heavenly rewards. Our happiness in this world is uncertain and short-lived if we place our treasure on earth. However, if our treasure is in the hands of God, our hearts will be settled on Him, our desires after heavenly things. Our conversation will be in heaven, reflecting the eternal happiness we will find there.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.8055122135300679,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                37.91,
+                25.72,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Where our hearts are, our true treasure lies - a divided affection between earthly riches and heavenly rewards. Our happiness in this world is uncertain and short-lived if we have our treasures laid up on the earth. Yet if we believe that our true happiness is in heaven, we can easily renounce the allurements of the world and set our affections on things above. Let our hearts be with God and our conversation be in heaven, where our eternal happiness awaits.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.725339678297817,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                36.68,
+                23.1,
+                40.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "According to Luther, 'What a man loves, that is his God.' When our hearts are fixed on earthly treasures, our souls are in danger of being lost, no matter how much we gain in this world. However, if we place our treasure in the hands of God, our hearts will be settled on Him and our desires directed towards heavenly things. Our conversation will reflect our heavenly treasure, leading us to eternal happiness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.6651311576491452,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                36.42,
+                29.0,
+                34.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If we carry in our hearts what we love and value the most, that becomes our God, as Luther aptly expressed. Those who have their treasures laid up on earth are unhappy because their happiness is uncertain and fleeting. To be truly happy, we must renounce the allurements of the world and desire the treasures of heaven. By entrusting our treasure to God, our hearts will be anchored in Him, our desires set on heavenly things, and our eternal happiness assured.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7695759996189169,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                36.81,
+                24.96,
+                38.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

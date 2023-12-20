@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:10",
+    "verseRef": "Matthew 24:3",
+    "bestBHT": {
+        "bht": "The disciples question Jesus about the signs of his coming and the end of the world, but Jesus warns against the misconception of immediate fulfillment. He highlights the importance of recognizing the parallels between the Jewish and Christian Church in understanding this chapter. Jesus uses the destruction of the temple and Jerusalem as a symbol of his second coming and the world's end. He paints a comprehensive picture, interweaving descriptions of Jerusalem's downfall and the ultimate end, to impart the lessons of warning and readiness for his coming.",
+        "wordCount": 90,
+        "quoteTokenProportion": 28.3,
+        "qualityScore": 1.8938151729584014,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+        "commentatorTierSimilarities": [
+            38.97,
+            34.5,
+            26.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Against this mistake He warns them, vv. 6, 14,\u2014Luke ver. 24,\u2014and also in the two first parables in our ch. xxv.",
+            "The view of the Jewish Church and its fortunes, as representing the Christian Church and its history, is one key to the interpretation of this chapter.",
+            "Regarding Scripture prophecy as I do as a whole, and the same great process of events to be denoted by it all, it will be but waste labour to be continually at issue, in the notes of this and the succeeding chapter, with those who hold that the Gospel prophecies are inconsistent, in their description of the end, with those after the Ascension, and those again with the millennial ones of the Apocalypse."
+        ],
+        "Albert Barnes": [
+            "He sat upon the Mount of Olives - See the notes at Matthew 21:1. From that mount there was a magnificent view of the whole city.",
+            "To these questions He replies in this and the following chapters. This He does, not by noticing them distinctly, but by intermingling the descriptions of the destruction of Jerusalem and of the end of the world, so that it is sometimes difficult to tell to what particular subject his remarks apply.",
+            "Sign of thy coming - Evidence that thou art coming. By what token shall we know that thou art coming?"
+        ],
+        "Marvin Vincent": [
+            "Coming [\u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1\u03c2] . Originally, presence, from pareinai, to be present.",
+            "Of the second coming of Christ : James 5:8; 1 John 2:28; 2 Peter 3:4; 1 Thessalonians 4:15.",
+            "They do not ask the signs of the Messiah 's coming at the end of all time, to judge the world."
+        ],
+        "John Calvin": [
+            "They associate the coming of Christ and the end of the world as things inseparable from each other.\" ",
+            "A foolish hope which they entertained, as to the immediate reign of Christ, drove them to hasten to the attainment of happiness and rest, without attending to the means.\" ",
+            "Scarcely one person in a hundred is to be found who does not labor under a very similar disease. For since all men naturally shrink from annoyances, combats, and every kind of cross, the dislike of these things urges them, without moderation and without hope, to rush forward unseasonably to the fruit of hope."
+        ],
+        "Philip Schaff": [
+            "The mount of Olives. Opposite the temple. The siege of Jerusalem began from this place, and at the same season of the year.",
+            "The disciples...the four fishermen first called and first named in all the lists, the confidential disciples.",
+            "The sign of thy coming, and of the end of the world? They identified these, and joined them with the destruction of Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "It is sufficient for our purpose to think of Jesus as using the destruction of the temple and of Jerusalem which did happen in that generation in A.D. 70, as also a symbol of his own second coming and of the end of the world.",
+            "In a painting the artist by skilful perspective may give on the same surface the inside of a room, the fields outside the window, and the sky far beyond.",
+            "It is enough if we get the picture as a whole as it is here drawn with its lessons of warning to be ready for his coming and the end."
+        ],
+        "John Gill": [
+            "This place, very probably, our Lord chose to sit in, that he might give his disciples an occasion to discourse more largely with him on this subject...",
+            "It might not be thought so proper, to ask the following questions before them, and they might suppose that Christ would not be so ready to give an answer to them plainly...",
+            "They wanted to be informed, by what sign they might know, when he would set up his temporal kingdom; for since the temple was to be destroyed, they might hope a new one would be built..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 24:3, the disciples ask Jesus about the signs of his coming and the end of the world. Jesus warns them against the mistake of thinking that these events will happen immediately, emphasizing the importance of understanding the parallels between the Jewish Church and the Christian Church in interpreting this chapter. He uses the destruction of the temple and Jerusalem as a symbol of his own second coming and the end of the world. Jesus paints a picture of these events, intermingling descriptions of the destruction of Jerusalem and the end of the world, to convey the lessons of warning and readiness for his coming. By doing so, he addresses the disciples' desire for evidence of his coming and the end of the world. Overall, Jesus aims to discourage the disciples from having a foolish hope for immediate reign and encourages them to pay attention to the means of attaining true happiness and rest.",
+            "wordCount": 154,
+            "quoteTokenProportion": 29.11,
+            "qualityScore": 1.9287897697453458,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                35.28,
+                34.62,
+                30.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples seek signs of Jesus' coming and the end of the world, but Jesus warns against the mistake of expecting immediate fulfillment. Understanding the parallels between the Jewish and Christian Church is key to interpreting this chapter. By using the destruction of the temple and Jerusalem as a symbol of his second coming and the end, Jesus encourages readiness and warns against a foolish hope for immediate reign. He paints a picture, intermingling descriptions of Jerusalem's destruction and the end, to convey the lessons of warning and readiness for his coming.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.8889762517075552,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                39.06,
+                32.26,
+                28.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples inquire about the signs of Jesus' coming and the end of the world, but Jesus cautions against the mistaken belief in their immediate occurrence. To interpret this chapter, understanding the correlation between the Jewish Church and the Christian Church is crucial. Jesus employs the destruction of the temple and Jerusalem as a metaphor for his second coming and the world's end. By combining imagery of the temple's destruction and the ultimate end, Jesus imparts cautionary lessons on readiness for his arrival.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.8482492038962604,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.8,
+            "commentatorTierSimilarities": [
+                38.93,
+                34.2,
+                26.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples question Jesus about the signs of his coming and the end of the world, but Jesus warns against the misconception of immediate fulfillment. He highlights the importance of recognizing the parallels between the Jewish and Christian Church in understanding this chapter. Jesus uses the destruction of the temple and Jerusalem as a symbol of his second coming and the world's end. He paints a comprehensive picture, interweaving descriptions of Jerusalem's downfall and the ultimate end, to impart the lessons of warning and readiness for his coming.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.8938151729584014,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                38.97,
+                34.5,
+                26.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples ask Jesus for signs of his coming and the end of the world, but Jesus cautions against expecting immediate fulfillment. He emphasizes the correlation between the Jewish and Christian Church in interpreting this chapter. Jesus uses the destruction of the temple and Jerusalem as a metaphor for his second coming and the end of the world. By blending imagery of the temple's demise and the ultimate end, Jesus conveys the lessons of alertness and preparedness for his arrival.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.8707337140910218,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                38.6,
+                34.37,
+                27.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

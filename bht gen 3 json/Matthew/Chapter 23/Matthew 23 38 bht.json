@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:52:07",
+    "verseRef": "Matthew 23:38",
+    "bestBHT": {
+        "bht": "Let us depart hence, said primarily of the temple, then of Jerusalem, and then of the whole land in which ye dwell. Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. The temple, formerly the house of God, is now only theirs, abandoned by God, their crimes leading to its desolation and the destruction of the city they dwell in.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.8000522142389332,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+        "commentatorTierSimilarities": [
+            24.29,
+            34.47,
+            41.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let us depart hence.\" your house\u2014no more God's, but your house\u2014said primarily of the temple",
+            "then of Jerusalem,",
+            "and then of the whole land in which ye dwell."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold, your house\u2014the",
+            "temple, beyond all doubt; but their house now, not the",
+            "Lord's.\" ",
+            "is left unto you",
+            "desolate\u2014deserted, that is, of its Divine Inhabitant.",
+            "But who",
+            "is that? Hear the next words:"
+        ],
+        "Albert Barnes": [
+            "Your house - The temple. The house of worship of the Jews. The chief ornament of Jerusalem.",
+            "Desolate - About to be desolate or destroyed.",
+            "To be forsaken as a place of worship, and delivered into the hands of the Romans, and destroyed."
+        ],
+        "John Calvin": [
+            "He threatens the destruction of the temple, and the dissolution of the whole frame of civil government.",
+            "They were so blinded by a foolish confidence in the temple, and its outward service, that they thought that God was bound to them.",
+            "It is in vain for them to boast of the presence of God, whom they had driven away by their crimes."
+        ],
+        "Philip Schaff": [
+            "Your house, the temple, which is no longer God's house, but yours.",
+            "Desolate, a spiritual ruin to be followed by temporal ruin.",
+            "Our Lord shortly afterwards left the temple, as a sign that this had taken place."
+        ],
+        "John Gill": [
+            "Behold your house is left unto you desolate. Signifying that the city in which they dwelt...would...be destroyed, and become a desert...\" ",
+            "...the temple, formerly the house of God, but now only their's, and in which they trusted, would be abandoned by God...",
+            "...the Messiah, the proprietor of it, and who was now in it, would then take his leave of it, and never more return to it..."
+        ],
+        "John Wesley": [
+            "Behold your house \u2014 The temple, which is now your house, not God's.",
+            "Is left unto you - Our Lord spake this as he was going out of it for the last time.",
+            "Desolate - Forsaken of God and his Christ, and sentenced to utter destruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's; the temple, which is no longer God's house, but yours. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. Desolate, a spiritual ruin to be followed by temporal ruin. Your house is left unto you desolate. The Messiah, the proprietor of it, and who was now in it, would then take his leave of it, and never more return to it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 1.6747814559748941,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.03,
+            "commentatorTierSimilarities": [
+                19.48,
+                40.12,
+                40.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. Desolate, a spiritual ruin to be followed by temporal ruin. Your house is left unto you desolate. The Messiah, the proprietor of it, and who was now in it, would then take his leave of it, and never more return to it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 56.36,
+            "qualityScore": 1.6496400937606197,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                19.81,
+                39.82,
+                40.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us depart hence, said primarily of the temple, then of Jerusalem, and then of the whole land in which ye dwell. Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. Signifying that the city in which they dwelt...would...be destroyed, and become a desert, the temple, formerly the house of God, but now only theirs, and in which they trusted, would be abandoned by God, their crimes leading to its desolation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7932503217929194,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                24.36,
+                34.17,
+                41.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us depart hence, said primarily of the temple, then of Jerusalem, and then of the whole land in which ye dwell. Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. Signifying that the city in which they dwelt...would...be destroyed, and become a desert, the temple, formerly the house of God, but now only theirs, and in which they trusted, would be abandoned by God, their crimes leading to its desolation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7932503217929194,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                24.36,
+                34.17,
+                41.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us depart hence, said primarily of the temple, then of Jerusalem, and then of the whole land in which ye dwell. Behold, your house\u2014the temple, beyond all doubt; but their house now, not the Lord's. It is in vain for them to boast of the presence of God, whom they had driven away by their crimes. The temple, formerly the house of God, is now only theirs, abandoned by God, their crimes leading to its desolation and the destruction of the city they dwell in.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.8000522142389332,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                24.29,
+                34.47,
+                41.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

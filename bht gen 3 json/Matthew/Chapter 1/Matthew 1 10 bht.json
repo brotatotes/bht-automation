@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:42:08",
+    "verseRef": "Matthew 1:10",
+    "bestBHT": {
+        "bht": "Manasseh, a prince infamous for his sinful ways, was noteworthy not only for his transgressions but also for the deep remorse he expressed as a result of them. Josiah, on the other hand, was a righteous and devout king who fulfilled prophecies made about him long before he was even born.",
+        "wordCount": 51,
+        "quoteTokenProportion": 52.38,
+        "qualityScore": 1.9645832868723119,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "He [Manasseh] was very remarkable both for his sins, and for his humiliation on account of them.",
+            "He [Manasseh] was a very wicked prince.",
+            "He [Josiah] was a very pious king, and was prophesied of by name some hundreds of years before he was born."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Manasseh, though infamous for his sins, did experience deep remorse and repentance for his actions. He stood out as a wicked prince but also as one who humbled himself before God. On the other hand, Josiah, a righteous king, fulfilled prophecies spoken about him long before his birth, showcasing his devoutness and piety.",
+            "wordCount": 53,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7196518540137937,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite Manasseh's notoriety for his wickedness, what made him truly remarkable was his genuine repentance and humility before God. In contrast, Josiah, known for his devoutness as a pious king, fulfilled prophecies that had foretold his birth generations prior.",
+            "wordCount": 40,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.6326220806073533,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Manasseh, although infamous for his sins, was also known for his remarkable journey of humility and repentance. On the other hand, Josiah stood out as a very pious king, fulfilling long-standing prophecies about his life and reign.",
+            "wordCount": 38,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.000899056850979,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Manasseh, a prince infamous for his sinful ways, was noteworthy not only for his transgressions but also for the deep remorse he expressed as a result of them. Josiah, on the other hand, was a righteous and devout king who fulfilled prophecies made about him long before he was even born.",
+            "wordCount": 51,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.9645832868723119,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Manasseh stands out for both his notorious sins and his subsequent repentance, displaying a striking contrast in his life. Despite being a wicked prince, he humbled himself in recognition of his transgressions. Conversely, Josiah, a remarkably righteous king, was foretold by name centuries prior to his birth, highlighting his piety and divine providence. This verse conveys the significance of individuals' actions, whether for their evil or righteous deeds, and the profound impact they can have on history.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.3563331496689317,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.44,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:48:36",
+    "verseRef": "Matthew 15:19",
+    "bestBHT": {
+        "bht": "Evil thoughts and actions emerge from the heart, leading to detractions, debates, and a disheartening list of sins. To attain wholeness, the soul must be healed, for it serves as the origin of both good and evil. Renouncing wicked thoughts and desires is crucial, as they give birth to a variety of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable underscores the necessity of guarding against evil.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6515637648118453,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+        "commentatorTierSimilarities": [
+            24.3,
+            34.34,
+            41.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The first shape which the evil that is in the heart takes, when it begins actively to stir, is that of 'considerations' or 'reasonings' on certain suggested actions.",
+            "Detractions, whether directed against God or man; here the reference seems to be to the latter.",
+            "How appalling is this black catalogue!"
+        ],
+        "Marvin Vincent": [
+            "For all good and evil, whether in the body or in human nature, originates, as he declared, in the soul.\" ",
+            "If the head and body are to be well, you must begin by curing the soul.",
+            "Thoughts, lit., reasonings or disputings, like the captious questioning of the Pharisees about washing hands."
+        ],
+        "John Calvin": [
+            "Out of the heart of man proceeds all that is sinful and that corrupts by its pollution.",
+            "To say that an evil eye proceeds from the heart is not strictly accurate, but it means, that an unholy heart pollutes the eyes by making them the ministers, or organs, of wicked desires.",
+            "The heart of man is the seat and the source of all evils."
+        ],
+        "Philip Schaff": [
+            "For out of the heart proceed evil thoughts, i.e., reasonings, purposes, not mere notions.",
+            "The criminality of acts proceeds from the purpose; for these acts man is responsible.",
+            "The plural form indicates that these sins are common and notorious."
+        ],
+        "John Gill": [
+            "The thoughts of sin are evil, are to be hated, forsaken, and for which men are accountable to God.",
+            "All wicked imaginations, carnal reasonings, lustful desires, and malicious contrivances, are here included; which take their rise from, and are devised, and forged, in the corrupt heart of man.",
+            "Uncleanness committed between married persons, both in thought, and deed."
+        ],
+        "John Wesley": [
+            "First evil thoughts \u2014 then murders - and the rest.",
+            "Railings \u2014 The Greek word includes all reviling, backbiting, and evil speaking."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the root of evil lies in the heart, manifesting as reasonings and actions directed against both God and man. This dark reality includes detractions, debates, and a list of sins that originates from the corrupt soul. Therefore, the healing of the head and body begins with the cure of the soul, addressing the wicked imaginations, lustful desires, and malicious contrivances that arise within the heart. It is important to recognize that these sins are not mere notions, but purposeful acts for which individuals are accountable. This passage emphasizes the need to guard against evil thoughts and desires, as they can lead to a multitude of sins, such as murders and railings.",
+            "wordCount": 115,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6643500897386965,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "commentatorTierSimilarities": [
+                25.2,
+                34.85,
+                39.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The evil in the heart begins with reasonings and actions against both God and man. These include detractions, debates, and a myriad of sins that originate from the corrupt soul. To achieve wholeness, the soul must be healed, for all good and evil stem from it. This entails forsaking wicked thoughts and desires, as they give rise to various transgressions, such as murder and railings. It is vital to acknowledge that these sins are purposeful acts, for which individuals are accountable.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6278268325027845,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                24.78,
+                34.24,
+                40.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The root of evil lies in reasonings and actions originating from the heart, including detractions and a disturbing array of sins. To achieve true well-being, the soul must be healed, for it is the source of all good and evil. It is crucial to renounce wicked thoughts and desires, as they lead to a multitude of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable highlights the importance of guarding against evil.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6178276718107367,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                24.57,
+                33.82,
+                41.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The evil that resides in the heart finds expression through reasonings and actions, including detractions and a distressing array of sins. To achieve wholeness, the soul requires healing as it serves as the source of all good and evil. It is essential to reject wicked thoughts and desires, as they give rise to a multitude of transgressions, including murder and railings. Being mindful that these sins are purposeful acts for which individuals are responsible underscores the need to guard against evil.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.63358004558739,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.66,
+            "commentatorTierSimilarities": [
+                23.89,
+                34.66,
+                41.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Evil thoughts and actions emerge from the heart, leading to detractions, debates, and a disheartening list of sins. To attain wholeness, the soul must be healed, for it serves as the origin of both good and evil. Renouncing wicked thoughts and desires is crucial, as they give birth to a variety of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable underscores the necessity of guarding against evil.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6515637648118453,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "commentatorTierSimilarities": [
+                24.3,
+                34.34,
+                41.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

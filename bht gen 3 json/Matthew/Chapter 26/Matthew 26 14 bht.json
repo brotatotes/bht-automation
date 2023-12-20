@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:53:13",
+    "verseRef": "Matthew 26:14",
+    "bestBHT": {
+        "bht": "Judas Iscariot's motive for betraying Jesus was driven by his love of money, showing the power of wicked desires to blind the mind. Though outwardly similar to the other disciples, Judas allowed his greed to be easily influenced by Satan. The significance of Jesus mentioning His burial should have softened Judas's heart, yet it only revealed his moral blindness. Judas's betrayal, as one of the twelve apostles, was especially devastating, as he relentlessly pursued his plan to deliver Jesus into the hands of His enemies.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.5903081139185629,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+        "commentatorTierSimilarities": [
+            0.0,
+            58.98,
+            41.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "The bare mention of the burying ought to have softened a heart of iron; for it would have been easy to infer from it, that Christ offered himself as a sacrifice for the salvation of the human race.",
+            "But we see in this mirror how great is the blindness of wicked desires, and how powerfully they fascinate the mind.",
+            "To inquire here whether or not Satan entered into Judas bodily is an idle speculation. We ought rather to consider how fearfully monstrous it is, that men formed after the image of God, and appointed to be temples for the Holy Spirit, should not only be turned into filthy stables or sinks, but should become the wretched abodes of Satan."
+        ],
+        "Philip Schaff": [
+            "The principal motive, as is inferred from the strong expression of John (John 12:6), was avarice.",
+            "The character of Judas laid him open to this Satanic influence, and nothing could do this more effectually than love of gain.",
+            "The rest were neither well instructed nor highly spiritual, and in outward appearance Judas was probably equal to any of them."
+        ],
+        "John Gill": [
+            "He was not an open enemy, nor one of Christ's common hearers, nor one of the seventy disciples, but one of his twelve apostles.",
+            "It was one of these that meditated the delivery of him into the hands of his enemies, and never left pursuing his scheme till he had effected it.",
+            "They were glad; for nothing could have fallen out more to their wishes, who were met together on this design."
+        ],
+        "John Wesley": [
+            "Mark 14:10; Luke 22:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas Iscariot's betrayal of Jesus for thirty pieces of silver was primarily motivated by his love of money and his greed. Though the other disciples may not have been highly spiritual or well-instructed, Judas's outward appearance would have made him indistinguishable from his fellow apostles. Despite witnessing Jesus's miracles and teachings, Judas's heart was hardened by his wicked desires, and he was easily influenced by Satan. The fact that Jesus's death was being foretold in His mention of His burial should have softened Judas's heart, but instead, he allowed his desire for wealth to blind him. It is important to note that Judas was not a mere acquaintance of Jesus, but one of His twelve chosen apostles, which makes his betrayal all the more devastating.",
+            "wordCount": 132,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5943421071935988,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.27,
+                38.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas Iscariot's betrayal of Jesus for monetary gain reveals his avarice, driven by a love of money. Though outwardly similar to the other disciples, Judas's heart was susceptible to Satanic influence due to his greed. Despite witnessing Jesus's miracles, Judas's wicked desires blinded him to the significance of Jesus's mention of His burial as a sacrifice for humanity. As one of the chosen twelve apostles, Judas's betrayal was particularly devastating, as he pursued his scheme to deliver Jesus to His enemies.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.4510403257213313,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.98,
+                38.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas Iscariot's motive for betraying Jesus was rooted in his love for money, as evidenced by his acceptance of thirty pieces of silver. While the other disciples may not have been spiritually mature or well-informed, Judas, outwardly indistinguishable from them, succumbed to the allure of greed. His heart, blinded by wicked desires, allowed Satan to exert control over him. Although Jesus's mention of His burial should have softened Judas's heart, it instead further exposed his moral blindness. Judas, one of the twelve apostles, pursued his plan to deliver Jesus into the hands of His enemies.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.4273848153466597,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.85,
+                41.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas Iscariot's betrayal of Jesus, motivated by his love for money and avarice, highlights the power of wicked desires and the ease with which they can blind the human mind. Despite witnessing Jesus's miracles, Judas allowed greed to influence his actions, ultimately leading him to deliver Jesus into the hands of His enemies. The fact that Judas, one of the twelve apostles, would betray Jesus highlights the magnitude of his betrayal and the devastating impact it had on the unfolding events.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.570644412710442,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                62.72,
+                37.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas Iscariot's motive for betraying Jesus was driven by his love of money, showing the power of wicked desires to blind the mind. Though outwardly similar to the other disciples, Judas allowed his greed to be easily influenced by Satan. The significance of Jesus mentioning His burial should have softened Judas's heart, yet it only revealed his moral blindness. Judas's betrayal, as one of the twelve apostles, was especially devastating, as he relentlessly pursued his plan to deliver Jesus into the hands of His enemies.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5903081139185629,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.98,
+                41.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

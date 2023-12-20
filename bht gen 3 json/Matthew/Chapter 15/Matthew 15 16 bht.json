@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:48:30",
+    "verseRef": "Matthew 15:16",
+    "bestBHT": {
+        "bht": "The disciples, who have been with Jesus for a long time and received much instruction, are reproved for their lack of understanding. Jesus is grieved by their slowness of spiritual apprehension, expecting them to grasp his teachings better. He questions if they are also lacking in spiritual insight, similar to the Pharisees, despite their extensive exposure to his teachings. Jesus emphasizes the need for them to possess spiritual intelligence and sense, having heard so many discourses from him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.634264473474965,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+        "commentatorTierSimilarities": [
+            48.14,
+            17.98,
+            33.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] The saying in ver. 11 was spoken for the multitude, who were exhorted \u201cHear and understand:\u201d much more then ought the disciples to have understood it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Slowness of spiritual apprehension in His genuine disciples grieves the Saviour.",
+            "From others He expects no better.",
+            "Are ye also yet without understanding?"
+        ],
+        "Philip Schaff": [
+            "Matthew 15:16. Even yet. After all the instruction received.",
+            "\t",
+            " Are ye also. As well as the multitude (Matthew 15:10).",
+            "\t",
+            " Without understanding , literally \u2018unintelligent.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Are ye also even yet without understanding?\" - \u0391\u03ba\u03bc\u03b7\u03bd \u03ba\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b1\u03c3\u03c5\u03bd\u03b5\u03c4\u03bf \u03b5\u03c3\u03c4\u03b5. ",
+            "In spite of all my teaching, are ye also like the Pharisees without spiritual insight and grasp?\" ",
+            "One must never forget that the disciples lived in a Pharisaic environment. Their religious world-outlook was Pharisaic. They were lacking in spiritual intelligence or sense, 'totally ignorant' (Moffatt)."
+        ],
+        "John Gill": [
+            "As wondering at, and as being displeased with, and as reproving them for their dulness and ignorance.",
+            "Are ye also yet without understanding? you, my disciples, as well as the Scribes and Pharisees.",
+            "You, who have been with me so long, who have heard so many discourses from me, who for so long a time have been instructed by me, both in private, and in public; and yet do not understand what is so plain and easy, that has nothing of difficulty in it, but what might easily be accounted for."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, having been with Jesus for a significant amount of time and having heard numerous teachings from him, are reproved by him for their lack of understanding. The slowness of their spiritual apprehension grieves Jesus, as he expected them to grasp and comprehend his teachings better. He questions if they are also lacking in spiritual insight like the Pharisees, emphasizing their need for deeper understanding. Despite being in a Pharisaic environment and influenced by that religious world-outlook, Jesus expects them to possess spiritual intelligence and sense.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5673058483069737,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                48.79,
+                15.52,
+                35.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, having been instructed by Jesus for a long time, are reproved for their lack of understanding. Jesus expected them to grasp his teachings better and expresses disappointment at their slowness of spiritual apprehension. He questions if they are also lacking in spiritual insight like the Pharisees, despite living in a Pharisaic environment. Jesus emphasizes the need for them to possess spiritual intelligence and sense, having been with him and heard his discourses for so long.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.589102443698694,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                47.34,
+                15.15,
+                37.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, who have been with Jesus for a long time and received much instruction, are reproved for their lack of understanding. Jesus is grieved by their slowness of spiritual apprehension, expecting them to grasp his teachings better. He questions if they are also lacking in spiritual insight, similar to the Pharisees, despite their extensive exposure to his teachings. Jesus emphasizes the need for them to possess spiritual intelligence and sense, having heard so many discourses from him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.634264473474965,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                48.14,
+                17.98,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite being with Jesus for a long time and hearing numerous teachings, the disciples are reproved for their lack of understanding. Jesus expresses disappointment at their slow spiritual apprehension, expecting them to grasp his teachings better. He questions if they are also lacking in spiritual insight like the Pharisees, emphasizing the need for them to possess spiritual intelligence and sense. Living in a Pharisaic environment, the disciples' spiritual ignorance is evident, despite their extensive exposure to Jesus' instruction.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.6234556432582552,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                48.36,
+                15.85,
+                35.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reproves the disciples for their lack of understanding, as they should have comprehended his teachings better, considering the time spent with him and the instruction they received. Their slowness of spiritual apprehension grieves Jesus, who expected them to possess spiritual intelligence and sense. He questions if they also lack spiritual insight like the Pharisees, highlighting the disciples' need for a deeper understanding. Despite living in a Pharisaic environment and having heard many discourses from Jesus, they remain ignorant spiritually.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6337857897852421,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                46.34,
+                15.43,
+                38.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

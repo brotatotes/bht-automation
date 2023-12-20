@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:47",
+    "verseRef": "Matthew 23:14",
+    "bestBHT": {
+        "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... The scribes and Pharisees took advantage of the helpless widows, exploiting their confiding nature to seize their property. This behavior is reminiscent of the Romish clergy, who are described as the successors of these scribes. Not only did they defraud the widows, but they also made a pretense of piety, engaging in long prayers as a cover for their deceit. Jesus condemns them for their insincerity and warns of the greater damnation that awaits them. Their actions reveal the impurity that tainted even their worship of God.",
+        "wordCount": 99,
+        "quoteTokenProportion": 36.23,
+        "qualityScore": 1.7485424474024898,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+        "commentatorTierSimilarities": [
+            51.37,
+            22.29,
+            26.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses...\" ",
+            "Taking advantage of the helpless condition and confiding character of 'widows,' they contrived to obtain possession of their property...\" ",
+            "What a lifelike description of the Romish clergy, the true successors of those scribes!"
+        ],
+        "Albert Barnes": [
+            "They claimed a very exact knowledge of the law and a perfect observance of it... and then took advantage of them and defrauded them.\" ",
+            "Their prayers are said to have been often three hours in length... meditate an hour, then pray an hour, and then meditate another hour.\" ",
+            "Public prayers should... be short, and always to the point."
+        ],
+        "John Calvin": [
+            "He not only accuses them of open crimes which demand hatred and detestation, but even tears away the disguises of virtues, by which they deceived the common people.",
+            "Christ says that the Pharisees and scribes were so impure, that even the chief part of the worship of God was not used by them without committing sin.",
+            "For when men aim at gain by means of hired prayers, the more fervent the appearance of what they call devotion becomes, the more is the name of God profaned."
+        ],
+        "Philip Schaff": [
+            "Ye devour widows\u2019 houses, i.e., seize upon the property of the unprotected, here represented by a particular class.",
+            "For a pretence ye make long prayer. The guilt was thus aggravated and the greater damnation, or \u2018condemnation,\u2019 is threatened.",
+            "There are many ways of swindling the defenceless, but to do it with pretended piety, is worst of all."
+        ],
+        "John Gill": [
+            "These greedy dogs, as Isaiah calls them, who could never have enough, easily imposed upon them, wormed them out of all their substance, stripped them bare of the necessaries of life.",
+            "Hence it appears, that there are degrees of punishment in hell, and that hypocrites, and all such who oppress the poor, under the mask of godliness, supposing gain to be that, will be partakers of the greatest degree of it.",
+            "Instead of a long and happy life, he shall have a long damnation."
+        ],
+        "John Wesley": [
+            "Mark 12:40; Luke 20:47."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... The scribes and Pharisees took advantage of the helpless widows, exploiting their confiding nature to seize their property. This behavior is reminiscent of the Romish clergy, who are described as the successors of these scribes. Not only did they defraud the widows, but they also made a pretense of piety, engaging in long prayers as a cover for their deceit. Jesus condemns them for their insincerity and warns of the greater damnation that awaits them. Their actions reveal the impurity that tainted even their worship of God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.7485424474024898,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                51.37,
+                22.29,
+                26.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... These religious leaders took advantage of vulnerable widows, exploiting their trust and seizing their property. This portrayal draws parallels to the Roman Catholic clergy, who also exploit the faithful. They not only defrauded the widows but also used lengthy prayers as a guise for their deceit. Jesus condemns their hypocrisy and warns of severe punishment. Their actions demonstrate their impurity, even in their worship of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5930160473150612,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                50.18,
+                23.86,
+                25.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... The scribes and Pharisees took advantage of the helpless widows, exploiting their confiding nature to seize their property. This behavior is reminiscent of the Romish clergy, who are described as the successors of these scribes. Not only did they defraud the widows, but they also made a pretense of piety, engaging in long prayers as a cover for their deceit. Jesus condemns them for their insincerity and warns of the greater damnation that awaits them. Their actions reveal the impurity that tainted even their worship of God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.7485424474024898,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                51.37,
+                22.29,
+                26.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... The scribes and Pharisees, much like the Romish clergy, took advantage of vulnerable widows by exploiting their trust and seizing their property. Not only did they defraud these widows, but they also engaged in long prayers as a pretense of piety. Jesus condemns their insincerity, warning of the severe punishment that awaits them. Their actions reveal the impurity that tainted even their worship of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7391215844574077,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                49.94,
+                24.63,
+                25.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses... These religious leaders exploited the vulnerable widows, seizing their property and taking advantage of their trusting nature. The Romish clergy is likened to these scribes, continuing the pattern of deceiving the faithful. Not only did they defraud the widows, but they also concealed their actions with lengthy prayers. Jesus condemns their hypocrisy and warns of a greater damnation awaiting them. Their actions expose the impurity that tainted their supposed worship of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.6814735279158284,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                50.54,
+                23.42,
+                26.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

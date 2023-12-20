@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:46:59",
+    "verseRef": "Matthew 12:5",
+    "bestBHT": {
+        "bht": "The priests in the temple profane the Sabbath by doing necessary work and yet are blameless. The law itself ordains work on the Sabbath as a duty. The double offerings and preparation of showbread require a significant amount of servile work. Even circumcision, a religious duty, must be performed by the priests on the Sabbath. These examples show that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they perform the duties of godliness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.499334147070299,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.44,
+        "commentatorTierSimilarities": [
+            35.12,
+            36.02,
+            28.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The priests were ordered to offer double offerings on the Sabbath... In performing these commands they must commit many of what the Pharisees would call profanations of the Sabbath.\" ",
+            "The sacred history furnishes examples of exception to the law of the Sabbath from necessity.",
+            "The Law itself ordains work to be done on the Sabbath as a duty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Or have ye not read in the law, how that on the Sabbath days the priests in the temple profane the Sabbath\u2014by doing 'servile work' and are blameless?\" ",
+            "The double offerings required on the Sabbath day could not be presented, and the new-baked showbread could not be prepared and presented every Sabbath morning, without a good deal of servile work on the part of the priests.",
+            "Not to speak of circumcision, which, when the child's eighth day happened to fall on a Sabbath, had to be performed by the priests on that day."
+        ],
+        "John Calvin": [
+            "Hence it follows, that the duties of piety are in no degree inconsistent with each other.",
+            "The holiness of the true and spiritual temple has greater efficacy, in exempting its worshippers from all blame, while they are discharging the duties of godliness.",
+            "Christ admits that to be true which might appear to be so in the eye of ignorant persons, and rests satisfied with proving, that the labors performed in the temple are not offensive to God."
+        ],
+        "Philip Schaff": [
+            "The priests in the temple profane the Sabbath and are blameless?",
+            "That construction of the law which condemned His disciples, would condemn this as a profanation, yet the priests were blameless.",
+            "Works of necessity on the Sabbath are not only permitted, but may become a duty."
+        ],
+        "John Gill": [
+            "that slaying drives away the sabbath",
+            "what was possible to be done on the evening of the sabbath, did not drive away the sabbath; but what was not possible to be done on the sabbath eve, did drive away the sabbath",
+            "there is no prohibition in the sanctuary; 'that which is forbidden to be done on the sabbath, is lawful to be done in the sanctuary'"
+        ],
+        "John Wesley": [
+            "The priests in the temple profane the Sabbath \u2014 That is, do their ordinary work on this, as on a common day, cleansing all things, and preparing the sacrifices.",
+            "A greater than the temple \u2014 If therefore the Sabbath must give way to the temple, much more must it give way to me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The priests of the temple were commanded to perform many tasks on the Sabbath that the Pharisees would consider violations of the Sabbath. However, the sacred history provides examples of exceptions to the Sabbath law based on necessity. The Law itself allows for work to be done on the Sabbath as a duty. Jesus asks the Pharisees if they have not read in the law how the priests in the temple profane the Sabbath and yet are blameless. The double offerings and the preparation of the showbread required a significant amount of work on the Sabbath for the priests. Even circumcision, which is a religious duty, had to be performed on the Sabbath when the eighth day of a child fell on that day. It is clear that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they perform the duties of godliness. Therefore, it is evident that the labors performed in the temple are not offensive to God and do not violate the Sabbath.",
+            "wordCount": 178,
+            "quoteTokenProportion": 42.39,
+            "qualityScore": 2.786497896030207,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.99,
+            "commentatorTierSimilarities": [
+                36.44,
+                34.29,
+                29.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The priests in the temple profane the Sabbath by doing necessary work and yet are blameless, as the law itself ordains work on the Sabbath as a duty. The double offerings and preparation of showbread require a significant amount of servile work. Even circumcision, a religious duty, must be performed by the priests on the Sabbath. These examples show that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they perform the duties of godliness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.3767276337614756,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+            "commentatorTierSimilarities": [
+                34.83,
+                35.57,
+                29.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The priests in the temple profane the Sabbath by doing necessary work and yet are blameless. The law itself ordains work on the Sabbath as a duty. The double offerings and preparation of showbread require a significant amount of servile work. Even circumcision, a religious duty, must be performed by the priests on the Sabbath. These examples show that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they perform the duties of godliness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.499334147070299,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.44,
+            "commentatorTierSimilarities": [
+                35.12,
+                36.02,
+                28.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The priests in the temple profane the Sabbath by doing necessary work and yet are blameless. The law itself ordains work on the Sabbath as a duty. The double offerings and preparation of showbread require a significant amount of servile work. Even circumcision, a religious duty, must be performed by the priests on the Sabbath. These examples demonstrate that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they discharge the duties of godliness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4754276729311666,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.65,
+            "commentatorTierSimilarities": [
+                35.28,
+                35.94,
+                28.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priests in the temple profane the Sabbath by doing necessary work and yet are blameless. The law itself ordains work on the Sabbath as a duty. The double offerings and preparation of showbread require a significant amount of servile work. Even circumcision, a religious duty, must be performed by the priests on the Sabbath. These examples demonstrate that the duties of piety are not inconsistent with each other. The holiness of the spiritual temple exempts its worshippers from blame while they discharge the duties of godliness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4754276729311666,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.65,
+            "commentatorTierSimilarities": [
+                35.28,
+                35.94,
+                28.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

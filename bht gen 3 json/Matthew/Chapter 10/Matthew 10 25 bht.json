@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:15",
+    "verseRef": "Matthew 10:25",
+    "bestBHT": {
+        "bht": "A disciple should not be surprised or disturbed if they are called names like Beelzebub, the prince of the devils, just as Jesus was accused. Jesus tells his disciples that they should expect to share in his sufferings, for he is their master and they are his servants. The disciples are closely bound to Jesus and should not expect to fare better than him, but rather think it is enough if they do not fare worse. If they are called by harsh names, even by the devil himself, they should not be offended, because their master, Jesus, was called the prince of demons. The disciples should not be surprised by the certainty of reproach and persecution, for they cannot be above their Lord.",
+        "wordCount": 123,
+        "quoteTokenProportion": 52.24,
+        "qualityScore": 2.0590228469020575,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+        "commentatorTierSimilarities": [
+            34.3,
+            30.29,
+            35.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beelzebub] (or\u2014bul) (Either \u2018lord of dung,\u2019\u2014or, as in 2 Kings i. 2, \u2018lord of flies,\u201d\u2014a god worshipped at Ekron by the Philistines; there is however another derivation more probable than either of these, from baal, lord, and zeboul, a house, by which it would exactly correspond to the term used.)",
+            "A name by which the prince of the devils was called by the Jews, ch, xii. 24,\u2014to which accusation, probably an usual one (see ch. ix. 34), and that in John viii. 48, our Lord probably refers.",
+            "In those places they had not literally called Him Beelzebub, but He speaks of their mind and intention in those charges. They may however have literally done so on other unrecorded occasions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is enough for the disciple that he be as his master, and the servant as his lord.\" ",
+            "In all these relations, He says here, He and they are so bound up together that they cannot look to fare better than He, and should think it enough if they fare no worse.\" ",
+            "They have called the master of the house Beelzebul... Here it is used to denote the most opprobrious language which could be applied by one to another."
+        ],
+        "Marvin Vincent": [
+            "Jesus calls himself 'the Master of the house,' and the Jews apply to him the corresponding title of the Devil.",
+            "The Lord of the temple was to them the chief of idolatrous worship; the representative of God, that of the worst of demons.",
+            "Beelzebul was Beelzibbul. What, then, might his household expect at their hands?"
+        ],
+        "John Calvin": [
+            "Nothing, therefore, can be more unreasonable than to wish to be accounted believers, and yet to murmur against God when he conforms us to the image of his Son, whom he has placed over all his family.",
+            "To what sort of delicacy do we pretend, if we wish to hold a place in his house, and to be above the Lord himself?",
+            "The general meaning is, that we carry our delicacy and tenderness to excess, if we account it a hardship to endure reproaches to which our Prince willingly submitted."
+        ],
+        "Philip Schaff": [
+            "Beelzebub, more correctly \u2018Beelzebul.\u2019 The former (\u2018lord of flies\u2019) was the name of a Philistine idol.",
+            "\u2018Beelzebul\u2019 means either, ( 1 ) \u2018lord of dung,\u2019 the word being changed from Beelzebub to Beelzebul to admit of this contemptuous sense; or ( 2 ) \u2018lord of the habitation.\u2019",
+            "This view agrees with the allusions to a \u2018house\u2019 in connection with the casting out of devils, in chap. Matthew 12:25; Matthew 12:29; Matthew 12:44-45."
+        ],
+        "Archibald T. Robertson": [
+            "Beelzebub...whether 'lord of a dwelling' with a pun on 'the master of the house' or 'lord of flies' or 'lord of dung' or 'lord of idolatrous sacrifices.' It is evidently a term of reproach.",
+            "An opprobrious epithet; exact form of the word and meaning of the name have given more trouble to commentators than it is all worth.",
+            "See Matthew 12:24."
+        ],
+        "John Gill": [
+            "A disciple should think himself very well off, be entirely satisfied, yea, abundantly thankful, if he meets with no worse treatment than his master.",
+            "If Christians are called by ever such hard names, even devils, they should not be disturbed at it; since their lord and master was called the prince of them.",
+            "It should be no cause of stumbling and offence, if those of a lower class in the family should be so stigmatized."
+        ],
+        "John Wesley": [
+            "How much more \u2014 This cannot refer to the quantity of reproach and persecution: (for in this the servant cannot be above his lord:) but only to the certainty of it.",
+            "(for in this the servant cannot be above his lord:)",
+            "but only to the certainty of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A disciple of Jesus should not be surprised or disturbed if they are called names like Beelzebub, the prince of the devils, just as Jesus was accused. Jesus tells his disciples that they should expect to share in his sufferings, for he is their master and they are his servants. The disciples are closely bound to Jesus and should not expect to fare better than him, but rather think it is enough if they do not fare worse. If they are called by harsh names, even by the devil himself, they should not be offended, because their master, Jesus, was called the prince of demons. The disciples should not be surprised by the certainty of reproach and persecution, for they cannot be above their Lord.",
+            "wordCount": 125,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 2.046845473460776,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.4,
+            "commentatorTierSimilarities": [
+                34.38,
+                30.17,
+                35.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A disciple should not be disturbed if they are called names like Beelzebub, for Jesus himself was accused of being the prince of the devils. Jesus tells his disciples that they should expect to share in his sufferings; as his followers, they should not anticipate better treatment than their master. Instead, they should be satisfied if they do not fare worse. Even if they are called harsh names, like the prince of demons, they should not be offended, as their master, Jesus, was likewise accused.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.886560628997243,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                33.77,
+                30.24,
+                35.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A disciple should not be disturbed or offended if they are called names like Beelzebub, for Jesus himself was accused of being the prince of the devils. Jesus teaches his disciples that they should anticipate sharing in his sufferings and not expect better treatment than their master. They should be content if they do not fare worse. Even if they are called harsh names, such as the prince of demons, they should not be offended, for Jesus was similarly accused.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.861899838422257,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                33.31,
+                31.11,
+                35.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A disciple should not be surprised or disturbed if they are called names like Beelzebub, the prince of the devils, just as Jesus was accused. Jesus tells his disciples that they should expect to share in his sufferings, for he is their master and they are his servants. The disciples are closely bound to Jesus and should not expect to fare better than him, but rather think it is enough if they do not fare worse. If they are called by harsh names, even by the devil himself, they should not be offended, because their master, Jesus, was called the prince of demons. The disciples should not be surprised by the certainty of reproach and persecution, for they cannot be above their Lord.",
+            "wordCount": 123,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 2.0590228469020575,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                34.3,
+                30.29,
+                35.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A disciple should not be surprised if they are called Beelzebub, the prince of demons, just as Jesus was accused. Jesus teaches his disciples that they should anticipate sharing in his sufferings, as he is their master and they are his servants. The disciples should not expect to fare better than Jesus, but rather be content if they do not fare worse. Even if they are called by derogatory names, like the prince of demons, they should not be offended, knowing that Jesus himself faced similar accusations.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.9905166792244429,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                34.22,
+                32.26,
+                33.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:15",
+    "verseRef": "Matthew 26:3",
+    "bestBHT": {
+        "bht": "In the open court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law of the high priest Simon ben Kamith, the high priest himself. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. Though the meeting was held in the palace, the term refers to the open court or hall, commonly used as a meeting place. This meeting, led by Caiaphas, ultimately resulted in their decision to put Jesus to death.",
+        "wordCount": 99,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.5954001576298666,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+        "commentatorTierSimilarities": [
+            33.61,
+            31.23,
+            35.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "who was called does not mean who was \u2018surnamed,\u2019 but (see ver. 14) implies that some name is to follow, which is more than, or different from, the real one of the person.",
+            "Valerius Gratus, Procurator of Jud\u00e6a, had appointed him instead of Simon ben Kamith.",
+            "He continued through the procuratorship of Pontius Pilate, and was displaced by the proconsul Vitellius, A.D. 37."
+        ],
+        "Marvin Vincent": [
+            "Palace [\u03b1\u03c5\u03bb\u03b7\u03bd]...never means palace in the New Testament.",
+            "It is the court, the open court or hall, forming the center of an oriental building, and often used as a meeting-place.",
+            "Rev., court. Wyc., hall."
+        ],
+        "John Calvin": [
+            "Matthew does not mean that they assembled during the two days, but introduces this narrative to show, that Christ was not led by any opinion of man to fix the day of his death.",
+            "The meaning therefore is, that by the spirit of prophecy he spoke of his own death, which no man could have suspected to be so near at hand.",
+            "And at that time it was decided, at the instigation of Caiaphas, that he should be put to death, because they could not succeed against him in any other way."
+        ],
+        "Philip Schaff": [
+            "The uncertainty of His enemies, despite their hostile desire, is in contrast with His clear statement of what would come to pass.",
+            "The office was hereditary in the family of Aaron, and held for life; but Antiochus Epiphanes (B. C. 160 ) sold it to the highest bidders, and the Romans removed the incumbent at pleasure.",
+            "Though of the party most hostile to the Romans, he and his associates raised the cry: \u2018We have no king but Cesar\u2019 (John 19:15)."
+        ],
+        "Archibald T. Robertson": [
+            "A meeting of the Sanhedrin as these two groups indicate.\" (20 words)",
+            "Here in this open court this informal meeting was held.\" (13 words)",
+            "His father-in-law Annas had been high priest A.D. 6 to 15 and was still called high priest by many.\" (23 words)"
+        ],
+        "John Gill": [
+            "By 'the chief priests' are meant, either such who had been high priests, or such as were the heads of the twenty four courses of the priests; or rather, the principal men of the priesthood.",
+            "These were the civil magistrates; so that this assembly consisted both of ecclesiastics and laymen, as the sanhedrim did, of priests, Levites, and Israelites.",
+            "They chose not to meet there, but at the high priest's palace, because of privacy, that it might not be known they were together, and about any affair of moment."
+        ],
+        "John Wesley": [
+            "The chief priests and the scribes and the elders of the people \u2014 (Heads of families.)\" ",
+            "These together constituted the sanhedrim, or great council,\" ",
+            "which had the supreme authority, both in civil and ecclesiastical affairs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the open court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law of the high priest Simon ben Kamith, the high priest himself. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. Though the meeting was held in the palace, the term refers to the open court or hall, commonly used as a meeting place. This meeting, led by Caiaphas, ultimately resulted in their decision to put Jesus to death.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5954001576298666,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+            "commentatorTierSimilarities": [
+                33.61,
+                31.23,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the open court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law of the high priest Simon ben Kamith, the high priest himself. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. This meeting, led by Caiaphas, ultimately resulted in their decision to put Jesus to death.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.5714582050684993,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.59,
+            "commentatorTierSimilarities": [
+                29.65,
+                32.67,
+                37.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law of the high priest, the high priest himself. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. This meeting, led by Caiaphas, ultimately resulted in their decision to put Jesus to death.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.571947566878307,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                28.85,
+                32.24,
+                38.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the open court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law of the high priest Simon ben Kamith, the high priest himself. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. Though the meeting was held in the palace, the term refers to the open court or hall, commonly used as a meeting place. This meeting, led by Caiaphas, ultimately resulted in their decision to put Jesus to death.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5954001576298666,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+            "commentatorTierSimilarities": [
+                33.61,
+                31.23,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the open court, an informal meeting was held by the Sanhedrin, consisting of the chief priests, scribes, and elders of the people. Some even called Annas, the father-in-law, the high priest. The uncertainty and hostility of Christ's enemies were in contrast to His clear knowledge of His impending death. Led by Caiaphas, this meeting in the palace resulted in their decision to put Jesus to death.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.5817274911831212,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                30.3,
+                33.43,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

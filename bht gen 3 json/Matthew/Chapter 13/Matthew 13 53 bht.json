@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:47:41",
+    "verseRef": "Matthew 13:53",
+    "bestBHT": {
+        "bht": "After teaching in Judea, Jesus returned to the Galileans but faced rejection from his countrymen due to his humble background and limited education. The second rejection in Nazareth revealed that the inhabitants had not changed their contempt towards him. Having finished his parables, Jesus departed from there and crossed back to his own country of Nazareth from Capernaum. However, he was met with no better success than before, indicating the persistent refusal to accept him.",
+        "wordCount": 75,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.2005347181767192,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.26,
+        "commentatorTierSimilarities": [
+            31.5,
+            24.99,
+            43.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "53. And it came to pass, that, when",
+            "\tJesus had finished these parables, he departed thence."
+        ],
+        "John Calvin": [
+            "After having taught for some time in Judea, he returned again to the Galileans, but did not receive from them kind treatment.",
+            "Christ's countrymen, when they perceived that his family was mean and despised, and that he had been poorly educated, were at first so much offended as to murmur at his doctrine.",
+            "This second rejection of Christ shows that the space of time which had intervened had not effected a reformation on the inhabitants of Nazareth, but that the same contempt was constantly thrown as an obstacle in the way, to prevent them from hearing Christ."
+        ],
+        "Philip Schaff": [
+            "Matthew 13:53. He departed thence. The departure was to Gadara (comp. chap. Matthew 8:18; Mark 6:35 ff.); a number of events intervening between this and the second visit to Nazareth.",
+            "\t"
+        ],
+        "John Gill": [
+            "Jesus had finished these parables...",
+            "...he departed thence...",
+            "...where he had some time been."
+        ],
+        "John Wesley": [
+            "He departed thence \u2014 He crossed the lake from Capernaum",
+            "came once more into his own country - Nazareth",
+            "but with no better success than he had had there before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After having taught for some time in Judea, Jesus returned again to the Galileans but did not receive kind treatment. His countrymen were initially offended by his humble background and poor education, murmuring at his doctrine. This second rejection of Christ demonstrates that the space of time that had passed had not led to a change of heart in the inhabitants of Nazareth. Jesus had finished teaching his parables and, unfazed by their rejection, he departed from there, crossing the lake from Capernaum, and returned to his own country of Nazareth. However, he was met with no better success than before.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.086896850385453,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.48,
+            "commentatorTierSimilarities": [
+                29.88,
+                22.08,
+                48.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After having taught for some time in Judea, Jesus returned to the Galileans only to be met with contempt from his countrymen who were offended by his humble background and poor education. Despite their rejection, Jesus departed and crossed the lake from Capernaum back to his own country of Nazareth, but with no better success than before, indicating that the inhabitants had not undergone a change of heart.",
+            "wordCount": 68,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.1132240908063933,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.36,
+            "commentatorTierSimilarities": [
+                22.41,
+                28.05,
+                49.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After teaching in Judea, Jesus returned to the Galileans and faced rejection from his countrymen who were offended by his humble background and poor education. This second rejection in Nazareth revealed that the inhabitants had not changed their contempt towards him despite the passage of time. Jesus had finished teaching his parables and left from there, crossing the lake from Capernaum back to his own country of Nazareth. However, he encountered no better success than before in his hometown.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.1492999760965223,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.56,
+            "commentatorTierSimilarities": [
+                29.7,
+                25.81,
+                44.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After teaching in Judea, Jesus returned to the Galileans, but his countrymen were offended by his background and education. This second rejection in Nazareth indicated that the inhabitants had not changed their contempt towards him. Jesus had finished teaching his parables and departed from there, crossing the lake from Capernaum back to his own country of Nazareth. However, he encountered no better success than before in his hometown.",
+            "wordCount": 68,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.1984944687654129,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.19,
+            "commentatorTierSimilarities": [
+                31.73,
+                24.14,
+                44.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After teaching in Judea, Jesus returned to the Galileans but faced rejection from his countrymen due to his humble background and limited education. The second rejection in Nazareth revealed that the inhabitants had not changed their contempt towards him. Having finished his parables, Jesus departed from there and crossed back to his own country of Nazareth from Capernaum. However, he was met with no better success than before, indicating the persistent refusal to accept him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.2005347181767192,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.26,
+            "commentatorTierSimilarities": [
+                31.5,
+                24.99,
+                43.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

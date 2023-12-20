@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:42:47",
+    "verseRef": "Matthew 1:3",
+    "bestBHT": {
+        "bht": "The inclusion of these women in the genealogy serves multiple purposes. It addresses objections to Jesus' birth, highlights God's grace reaching out to Gentiles and sinners, and establishes the connection between Jesus and the Messianic throne of David. Though there may be omissions, the mention of Tamar confirms the genealogy's accuracy and showcases God's plan to save Gentiles through the Messiah. This genealogy signifies the unsearchable riches of God's grace and exemplifies the astonishing goodness of God working through imperfect individuals.",
+        "wordCount": 85,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 1.6455534726316998,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+        "commentatorTierSimilarities": [
+            31.74,
+            33.79,
+            34.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason for the women (Thamar, Rahab, Ruth, and Bathsheba) being mentioned, has been variously assigned: it might be, to meet the objection of the Jews to our Lord\u2019s birth: or for the sake of minute accuracy.",
+            "It most probably is, that the Evangelist omitted what was ordinary, but stated what was doubtful or singular.",
+            "It has been suggested, that as these women are of Gentile origin or dubious character, they may be mentioned as introducing the calling of Gentiles and sinners by our Lord: also, that they may serve as types of the mother of our Lord, and are consequently named in the course of the genealogy, as she is at the end of it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This feature in the present genealogy\u2014herein differing from that given by Luke\u2014comes well from him who styles himself in his list of the Twelve, what none of the other lists do, 'Matthew the publican'; as if thereby to hold forth, at the very outset, the unsearchable riches of that grace which could not only fetch in 'them that are afar off,' but teach down even to 'publicans and harlots,' and raise them to 'sit with the princes of his people.'\" ",
+            "David is here twice emphatically styled 'David the king,' as not only the first of that royal line from which Messiah was to descend, but the one king of all that line from which the throne that Messiah was to occupy took its name\u2014'the throne of David.'",
+            "It will be observed that Rachab is here represented as the great-grandmother of David\u2014a thing not beyond possibility indeed, but extremely improbable, there being about four centuries between them. There can hardly be a doubt that one or two intermediate links are omitted."
+        ],
+        "John Calvin": [
+            "He came into the world to empty himself, to be a worm, and no man; a reproach of men, and despised of the people.",
+            "He therefore did not refuse to admit a stain into his genealogy, arising from incestuous intercourse which took place among his ancestors.",
+            "The astonishing goodness of God strove with the sin of both; so that, nevertheless, this adulterous seed came to possess the scepter."
+        ],
+        "Philip Schaff": [
+            "The mention of this name not only proves the correctness of the genealogy, but tends to humble Jewish pride and exalt the grace of God.",
+            "Tamar, a heathen woman, guilty of intentional incest.",
+            "The Jews and some commentators seek to excuse her, but the stain must be admitted."
+        ],
+        "John Gill": [
+            "The line of the Messiah was in Phares, and very rightly is he put in the genealogy of Christ, the Jews themselves being witnesses; who expressly say, that 'the Messiah comes from him.'",
+            "Thamar, daughter-in-law to Judah; who, though she was a Canaanitish woman, has the honour to be named in the genealogy of Christ, who came to save Gentiles as well as Jews.",
+            "The Jews themselves frequently acknowledge that the Messiah was to spring from her: they say, 'there are two women from whom come David the king, and Solomon, and the king Messiah; and these two are Thamar and Ruth.'"
+        ],
+        "John Wesley": [
+            "Of Thamar \u2014 St. Matthew adds the names of those women also, that were remarkable in the sacred history."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reason for mentioning the women in the genealogy is to address the objection of the Jews to Jesus' birth and to provide accurate and unique details. These women, who are of Gentile origin or dubious character, may serve as types of the mother of Jesus and they introduce the calling of Gentiles and sinners by our Lord. Through this genealogy, Matthew emphasizes the unsearchable riches of God's grace, as exemplified by Jesus' ability to reach out to even the publicans and harlots and bring them into the lineage of David. By including these women and David's emphatic title as David the king, Matthew establishes the connection between Jesus and the Messianic throne. Although there may be omissions in the genealogy, the correctness of the list is proven by the mention of Tamar, who played a significant role in the line of the Messiah. This highlights the astonishing goodness of God, as He chose to pass His inheritance through those who had stains in their genealogy. Ultimately, this genealogy showcases God's purpose to save Gentiles as well as Jews through the Messiah.",
+            "wordCount": 185,
+            "quoteTokenProportion": 32.04,
+            "qualityScore": 1.7928685847967751,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "commentatorTierSimilarities": [
+                34.19,
+                30.09,
+                35.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inclusion of these women in the genealogy addresses the objection of the Jews to Jesus' birth and highlights God's grace in reaching out to Gentiles and sinners. Matthew purposefully emphasizes the unsearchable riches of God's grace by including them, showcasing Jesus' ability to transform even publicans and harlots. Through this genealogy, Matthew establishes the connection between Jesus and the Messianic throne, as David is twice titled David the king. Despite potential gaps in the genealogy, the mention of Tamar proves the correctness of the list and illustrates God's purpose to save Gentiles through the Messiah.",
+            "wordCount": 99,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.8316189071575808,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                33.98,
+                31.62,
+                34.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The inclusion of these women in the genealogy serves multiple purposes, such as addressing the objections of the Jews to Jesus' birth and highlighting the unsearchable riches of God's grace. By featuring women of Gentile origin or dubious character, Matthew may be suggesting the calling of Gentiles and sinners by Jesus. Additionally, the repeated reference to David as David the king signifies his significance in the line of Jesus, who would occupy the throne of David. Despite potential omissions or doubts, the mention of Tamar in the genealogy confirms its accuracy and emphasizes God's plan to save Gentiles through the Messiah.",
+            "wordCount": 103,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.9025275587528578,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                36.47,
+                29.88,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The presence of these women in the genealogy addresses Jewish objections to Jesus' birth and showcases the profound grace of God. Matthew intentionally includes women of Gentile origin or dubious character to symbolize the calling of Gentiles and sinners by Jesus. By emphasizing David's title as David the king, Matthew establishes the connection between Jesus and the Messianic throne. Despite potential omissions, the mention of Tamar confirms the genealogy's accuracy and highlights God's plan to save Gentiles through the Messiah. This lineage exemplifies the unsearchable riches of God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 20.34,
+            "qualityScore": 1.761589348898921,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+            "commentatorTierSimilarities": [
+                32.68,
+                33.43,
+                33.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusion of these women in the genealogy serves multiple purposes. It addresses objections to Jesus' birth, highlights God's grace reaching out to Gentiles and sinners, and establishes the connection between Jesus and the Messianic throne of David. Though there may be omissions, the mention of Tamar confirms the genealogy's accuracy and showcases God's plan to save Gentiles through the Messiah. This genealogy signifies the unsearchable riches of God's grace and exemplifies the astonishing goodness of God working through imperfect individuals.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.6455534726316998,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "commentatorTierSimilarities": [
+                31.74,
+                33.79,
+                34.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

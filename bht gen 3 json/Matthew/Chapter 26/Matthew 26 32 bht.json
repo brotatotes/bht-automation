@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:30",
+    "verseRef": "Matthew 26:32",
+    "bestBHT": {
+        "bht": "In this promise to go before his disciples into Galilee after his resurrection, Jesus links himself to the figure of a shepherd. Despite their momentary scattering, this prediction encourages the disciples to rise above the offense, as God recognizes and gathers his sheep, extending his hand towards them. This assurance is meant to console them, assuring them that although Jesus will be apprehended, condemned, crucified, and laid in the grave, he will rise again. His appearance as their shepherd in Galilee showcases his unwavering commitment to his followers.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.667954522208007,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+        "commentatorTierSimilarities": [
+            25.58,
+            31.1,
+            43.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this announcement our Lord seems to have in mind the remainder of the verse in Zechariah: 'and I will turn mine hand upon the little ones.'",
+            "Our Lord gives the announcement of its fulfilment, in a promise to precede them (a pastoral office, see John x. 4) into Galilee.",
+            "Whither they should naturally return after the feast was over: see ch. xxviii. 7, 10, 16."
+        ],
+        "Marvin Vincent": [
+            "I will go before you, as a shepherd before his flock.",
+            "The thought links itself with what Christ had just said about the shepherd and the sheep.",
+            "Compare John 10:4."
+        ],
+        "John Calvin": [
+            "By this prediction he encourages them to rise above the offense, because God does not cease to recognize as his sheep those who are driven out and scattered in every direction for a time.",
+            "And yet this scattering did not prevent the Lord from gathering his sheep at length, by stretching out his hand towards them.",
+            "But yet let the promise which is added exhilarate and support you, that God will stretch out his hand, to bring back to Him the scattered sheep."
+        ],
+        "Philip Schaff": [
+            "But after I am raised up. The resurrection is again announced.",
+            "I will go before you. The figure of a shepherd is continued.",
+            "Into Galilee. In Galilee He collected His disciples: chap. Matthew 28:16; John 21:0, 1 Corinthians 15:6. This gathering was the pastoral work after the resurrection, hence the other interviews in Jerusalem are not referred to."
+        ],
+        "John Gill": [
+            "This he says for their comfort, that though he, their shepherd, should be apprehended, condemned, and crucified, should be smitten with death, and be laid in the grave, yet he should rise again.\" ",
+            "He would after his resurrection, appear to them, be at the head of them, and go before them, as a shepherd goes before his sheep.",
+            "I will go before you into Galilee; the native place of most, if not all of them."
+        ],
+        "John Wesley": [
+            "But notwithstanding this, after I am risen I will go before you (as a shepherd before his sheep) into Galilee. Though you forsake me, I will not for this forsake you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, Jesus announces the fulfillment of the verse in Zechariah, symbolizing his pastoral care for his disciples. He promises to go before them into Galilee after his resurrection, just as a shepherd leads his flock. Despite their momentary scattering, this prediction assures the disciples that God will gather them back to himself, extending his hand to bring them back. This promise serves as a source of comfort, assuring them that even though Jesus will be betrayed, condemned, and crucified, he will rise again. His appearance to them in Galilee after his resurrection signifies his unwavering commitment to them, just as a shepherd goes before his sheep.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7695478429748457,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                27.37,
+                29.51,
+                43.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' announcement embodies the fulfillment of the verse in Zechariah and signifies his role as a shepherd. Promising to go before his disciples into Galilee after his resurrection, he assures them of God's unwavering care, despite their temporary scattering. This assurance provides comfort for the disciples, as it affirms that even though Jesus will be betrayed, condemned, and crucified, he will rise again. His appearance in Galilee demonstrates his steadfast commitment to them, akin to a shepherd leading his sheep.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6719825720028199,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                27.35,
+                30.57,
+                42.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' promise to go before his disciples into Galilee after his resurrection reflects his role as a shepherd caring for his flock. Despite their momentary scattering, the disciples can take comfort in God's recognition of them as his sheep and his willingness to gather them back to Himself. This assurance is especially significant as Jesus reveals that although he will face betrayal, condemnation, and crucifixion, he will rise again. His planned appearance in Galilee underscores his commitment to his followers, reminiscent of a shepherd leading his sheep.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.6209265860614843,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                26.43,
+                28.9,
+                44.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' promise to go before his disciples into Galilee after his resurrection echoes the image of a shepherd leading his flock, as mentioned in the previous teachings. Despite their temporary scattering, this announcement serves as a reassurance that God will gather the scattered sheep back to Himself. The disciples can find comfort in knowing that, even though Jesus will face betrayal, condemnations, and death, he will rise again. This declaration underscores Jesus' unwavering commitment to his followers, resembling a shepherd's guiding presence before his sheep.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6435677420477595,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                26.71,
+                29.04,
+                44.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this promise to go before his disciples into Galilee after his resurrection, Jesus links himself to the figure of a shepherd. Despite their momentary scattering, this prediction encourages the disciples to rise above the offense, as God recognizes and gathers his sheep, extending his hand towards them. This assurance is meant to console them, assuring them that although Jesus will be apprehended, condemned, crucified, and laid in the grave, he will rise again. His appearance as their shepherd in Galilee showcases his unwavering commitment to his followers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.667954522208007,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                25.58,
+                31.1,
+                43.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

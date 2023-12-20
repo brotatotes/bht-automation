@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:51:24",
+    "verseRef": "Matthew 22:2",
+    "bestBHT": {
+        "bht": "The interpretation of this parable is that it represents the great marriage supper of the Son of God, symbolizing His fall and complete union to His Bride, the Church, in glory. This imagery of grace emphasizes the reconciling role of Jesus, who serves as both the last and greatest of the prophets and teachers, and the heir to the union between Jehovah and His people. The plural form wedding festivities portrays a grand celebration, echoing the splendor of the event.",
+        "wordCount": 80,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 2.2408647215573656,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.85,
+        "commentatorTierSimilarities": [
+            33.64,
+            33.13,
+            33.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The interpretation is, the great marriage supper (Rev. xix. 9) of the Son of God: i.e. His fall and complete union to His Bride the Church in glory.\" (Quote 1)",
+            "The difficulty, of the totality of the guests in this case constituting the Bride, may be lessened by regarding the ceremony as an enthronization, in which the people are regarded as being espoused to their prince.\" (Quote 2)",
+            "On the whole imagery, compare Ps. xlv.\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ is rather the last and greatest of the line of its prophets and teachers than the founder of a new kingdom.",
+            "In that, God appears demanding something from men; in this, a parable of grace, God appears more as giving something to them.",
+            "These apparent contradictions are resolved in this parable; and Jesus, in claiming to be this King's Son, serves Himself Heir to all that the prophets and sweet singers of Israel held forth as to Jehovah's ineffably near and endearing union to His people."
+        ],
+        "Albert Barnes": [
+            "The idea here is, 'God deals with man in his kingdom, or in regard to the dispensation of the gospel, as a certain king did,' etc.",
+            "This parable refers, undoubtedly, to the rejection of the Jews and to the calling of the Gentiles.",
+            "The gospel, with all its privileges, was offered to the Jewish people; but through their wickedness and pride they rejected it, and all its blessings were offered to the Gentiles and accepted."
+        ],
+        "Marvin Vincent": [
+            "Made a marriage [\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd] . But the phrase refers to the marriage - feast, rather than to the marriage - ceremony. In Esther 9:22, the word is used of feasting without any reference to a marriage. Rev., a marriage - feast."
+        ],
+        "John Calvin": [
+            "Christ now brings it as a reproach against the Jews, that they gave utterance to beautiful expressions about the kingdom of God, but, when God kindly and gently invited them, they rejected his grace with disdain.",
+            "God bestowed on the Jews distinguished honor, by providing for them, as it were, a hospitable table; but they despised the honor which had been conferred upon them.",
+            "The allusion is to a practice customary among men, that those who intended to make a marriage drew up a list of the persons whom they intended to have as guests, and afterwards sent invitations to them by their servants. In like manner, God elected the Jews in preference to others, as if they had been his familiar friends, and afterwards called them by the prophets to partake of the promised redemption, which was, as it were, to feast at a marriage."
+        ],
+        "Philip Schaff": [
+            "It was Christ\u2019s marriage, i.e., with His covenant people, according to the imagery of the Old Testament.",
+            "The Church is the Bride, and this marriage feast is the union of Christ and His Church in glory.",
+            "Believers, as individuals, are guests, the Church as an ideal whole is the Bride."
+        ],
+        "Archibald T. Robertson": [
+            "The plural, as here (Matthew 22:2; Matthew 22:3; Matthew 22:4; Matthew 22:9), is very common in the papyri for the wedding festivities (the several acts of feasting) which lasted for days, seven in Judges 14:17.",
+            "The very phrase here, \u03b3\u03b1\u03bc\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b9\u03b5\u03b9\u03bd, occurs in the Doric of Thera about B.C. 200.",
+            "The singular \u03b3\u03b1\u03bc\u03bf\u03c2 is common in the papyri for the wedding contract, but Field (Notes, p. 16) sees no difference between the singular here in Matthew 22:8 and the plural (see also Genesis 29:22; Esther 9:22; Macc. 10:58)."
+        ],
+        "John Gill": [
+            "The design of which is to express the great love of God the Father, who is represented by this certain king, in espousing any of the children of men to his own son.",
+            "The view of it is to set forth the plenteous provisions of grace made under the Gospel dispensation in the word and ordinances.",
+            "The bride is the church, which consists of a set of persons chosen by God, in Christ, before the foundation of the world; who were considered as sinless creatures, and viewed as such when first betrothed to Christ in the everlasting covenant."
+        ],
+        "John Wesley": [
+            "A king, who made a marriage feast for his son \u2014 So did God, when he brought his first - begotten into the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The interpretation of this verse is that it represents the great marriage supper of the Son of God, symbolizing His fall and complete union to His Bride, the Church, in glory. This imagery is reminiscent of the psalms and portrays God demanding something from His people and giving something to them. The use of the plural form wedding festivities suggests a multi-day celebration, emphasizing the grandeur of the event. This parable serves to reconcile the apparent contradictions in Jesus being both the King's Son and the heir to all that the prophets and sweet singers of Israel spoke of regarding Jehovah's endearing union with His people. Overall, this parable highlights the union between Christ and His Church, making it a profound depiction of grace and love.",
+            "wordCount": 129,
+            "quoteTokenProportion": 25.64,
+            "qualityScore": 2.1723719379459068,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                31.9,
+                35.25,
+                32.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The interpretation of this parable is that it represents the great marriage supper of the Son of God, symbolizing His fall and complete union to His Bride, the Church, in glory. This imagery portrays God demanding something from His people and giving something to them. The plural form wedding festivities suggests a multi-day celebration, emphasizing the grandeur of the event. This parable serves to reconcile the contradictions in Jesus being both the King's Son and the heir to all that the prophets and sweet singers of Israel spoke of regarding Jehovah's union with His people.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.14794229118431,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
+            "commentatorTierSimilarities": [
+                32.48,
+                33.76,
+                33.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The interpretation of this parable is that it represents the great marriage supper of the Son of God, symbolizing His fall and complete union to His Bride, the Church, in glory. This imagery of grace emphasizes the reconciling role of Jesus, who serves as both the last and greatest of the prophets and teachers, and the heir to the union between Jehovah and His people. The plural form wedding festivities portrays a grand celebration, echoing the splendor of the event.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.2408647215573656,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.85,
+            "commentatorTierSimilarities": [
+                33.64,
+                33.13,
+                33.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This parable illustrates the great marriage supper of the Son of God, signifying His union with His Bride, the Church, in glory. The imagery portrays God demanding and giving something to His people, resolving apparent contradictions. The plural form wedding festivities highlights the multi-day celebration, emphasizing its grandeur. The parable showcases Jesus as the last and greatest of the prophets and teachers, serving as the heir to Jehovah's endearing union with His people. Ultimately, this parable beautifully captures the grace and love between Christ and His Church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 22.03,
+            "qualityScore": 2.14515001385786,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                31.1,
+                35.18,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This parable showcases the marriage supper of the Son of God, portraying His fall and union with the Church in glory. The plural wedding festivities emphasizes the multi-day celebration, while reconciling the apparent contradictions. Jesus serves as the last and greatest prophet, claiming His role as the heir to Jehovah's union with His people. This parable beautifully captures the grace and love between Christ and His Church, emphasizing God's giving and demanding in the relationship.",
+            "wordCount": 78,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 2.2339344270050283,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                31.18,
+                34.92,
+                33.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:38",
+    "verseRef": "Matthew 26:39",
+    "bestBHT": {
+        "bht": "In this moment of fervent prayer, Jesus reveals his tender love and divinity as he pleads with the Father to remove the bitter cup that awaits him. Falling to the ground, he seeks strength to face the battle that he cannot fight in the presence of his disciples. This prayer emphasizes the immense sacrifice he is about to endure and his role as the mediator between humanity and God. Though the cup would not pass from him, God eases the severity of his inner turmoil, displaying His mercy and goodness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.5129725328617663,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+        "commentatorTierSimilarities": [
+            30.83,
+            30.69,
+            38.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was in truth a different prayer from that which went before, which John has recorded.",
+            "The very tenderness of filial love.",
+            "The Monothelite heresy, which held but one will in the Lord Jesus, is here plainly convicted of error."
+        ],
+        "John Calvin": [
+            "By the very gesture of falling on the earth, Christ manifested his deep earnestness in prayer.",
+            "When Christ says, in the Gospel by Matthew, that all things are possible to God, he does not intend by these words to bring the power of God into conflict with unchangeable truth and firmness; but as there was no hope\u2014which is usually the case when affairs are desperate\u2014he throws himself on the power of God.",
+            "For in us all the affections of the flesh, when strongly excited, break out into rebellion, or, at least, have some mixture of pollution; but Christ, amidst the utmost vehemence of grief or fear, restrained himself within proper bounds."
+        ],
+        "Philip Schaff": [
+            "Into the Holy of Holies He goes alone.",
+            "The bitterness of this cup was so great, that He desired its removal, but even this desire was subordinated to the holy will of His Father.",
+            "The sorrows were necessary, not for Him, but for us."
+        ],
+        "Archibald T. Robertson": [
+            "As if he could not fight the battle in their immediate presence.",
+            "Jesus had used it of his coming death when James and John came to him with their ambitious request, 'the cup which I am about to drink'.",
+            "Here Jesus won the power to go on to Calvary."
+        ],
+        "John Gill": [
+            "Christ now addresses him in prayer in his human nature, as standing in this relation to him as the Son of God, both to express his reverence of him, and what freedom and boldness he might use with him; what confidence he might put in him; and what expectation he might have of being heard and regarded by him; and what submission and resignation of will was due from himself unto him.",
+            "His prayer bespeaks him to be in a condition which neither they, nor any mortal creature were ever in.",
+            "This, as mediator, he engaged to do, and came down from heaven for that purpose, took delight in doing it, and has completely finished it."
+        ],
+        "John Wesley": [
+            "And going a little farther...so that the apostles could both see and hear him still.",
+            "If it be possible, let this cup pass from me...it did pass from him quickly.",
+            "God did take away the terror and severity of that inward conflict."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this moment of fervent prayer, Jesus reveals not only his tender love but also his divinity, as he prays to his Father to remove the bitter cup that awaits him. He falls to the ground, earnestly seeking the strength to face the imminent battle that he cannot fight in the presence of his disciples. This prayer echoes his previous reference to the cup, emphasizing the immense sacrifice he is about to endure. Through this powerful plea, Jesus gains the strength and resolve necessary to carry the weight of our sins to Calvary. In his humanity, he shows reverence, freedom, boldness, and submission to his Father, exemplifying the perfect union of human and divine natures within him. Although the cup would not pass from him, God would ease the severity of his inner turmoil, demonstrating his goodness and mercy.",
+            "wordCount": 139,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.4719247016016626,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.28,
+            "commentatorTierSimilarities": [
+                30.93,
+                30.4,
+                38.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this moment of fervent prayer, Jesus reveals his tender love and divinity as he pleads with the Father to remove the bitter cup that awaits him. Falling to the ground, he seeks strength to face the battle that he cannot fight in the presence of his disciples. This prayer emphasizes the immense sacrifice he is about to endure and his role as the mediator between humanity and God. Though the cup would not pass from him, God eases the severity of his inner turmoil, displaying His mercy and goodness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5129725328617663,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                30.83,
+                30.69,
+                38.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this moment of prayer, Jesus reveals his tender love and divinity as he pleads with the Father to remove the bitter cup that awaits him. As he falls to the ground, seeking strength and displaying his earnestness, he exemplifies the perfect union of his human and divine natures. Although the cup would not pass from him, God eases the severity of his inner turmoil and empowers him to complete the mission he came to fulfill.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.4515786905490433,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                25.92,
+                34.55,
+                39.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this moment of fervent prayer, Jesus reveals not only his tender love but also his divinity, as he prays to his Father to remove the bitter cup that awaits him. He falls to the ground, earnestly seeking the strength to face the imminent battle that he cannot fight in the presence of his disciples. This prayer echoes his previous reference to the cup, emphasizing the immense sacrifice he is about to endure. Through this powerful plea, Jesus gains the strength and resolve necessary to carry the weight of our sins to Calvary. In his humanity, he shows reverence, freedom, boldness, and submission to his Father, exemplifying the perfect union of human and divine natures within him. Although the cup would not pass from him, God would ease the severity of his inner turmoil, demonstrating his goodness and mercy.",
+            "wordCount": 139,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.4719247016016626,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.28,
+            "commentatorTierSimilarities": [
+                30.93,
+                30.4,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this moment of intense prayer, Jesus reveals his tender love and divinity as he pleads with the Father to remove the bitter cup that awaits him. Falling to the ground, he earnestly seeks the strength to face the impending battle, unable to do so in the presence of his disciples. This prayer underscores the magnitude of sacrifice he is about to endure and his role as the mediator between humanity and God. Though the cup would not pass from him, God assuages the severity of his inner turmoil, showcasing his mercy and goodness.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5083388904763302,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                29.39,
+                30.63,
+                39.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

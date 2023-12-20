@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:52:42",
+    "verseRef": "Matthew 25:16",
+    "bestBHT": {
+        "bht": "The servant who received the five talents promptly put forth his labor and traded with them, making other five talents. This parable underlines the contrast between the waiting virgins and the working servants, indicating that the servants actively engage in their tasks to make a profit. The ministers of the Gospel are likened to traders, working not for themselves but for Christ and the salvation of souls. They diligently apply themselves to their work through prayer, preaching, and administering ordinances, with success following their efforts.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.2647101986981784,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+        "commentatorTierSimilarities": [
+            27.65,
+            0.0,
+            72.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. Then he that had received the",
+            "\tfive talents went and traded with the same\u2014expressive of the",
+            "\tactivity which he put forth and the labor he bestowed. ",
+            "\t",
+            "and made them other five",
+            "\ttalents."
+        ],
+        "Marvin Vincent": [
+            "Straightway he that had received, etc., indicating promptness on the servant's part.",
+            "The virgins wait, the servants work.",
+            "The word is used in our sense of make money."
+        ],
+        "Archibald T. Robertson": [
+            "The business temper of this slave is shown by his promptness.",
+            "The virgins wait, the servants work\" (Vincent).",
+            "This gain was a hundred per cent."
+        ],
+        "John Gill": [
+            "They went forth with courage and boldness, not in their own name and strength, but in the name and strength of Christ, who sent them, and promised them his presence and assistance, on which they depended.",
+            "The ministers of the Gospel are traders, not in their own name, nor on their own stock, and for themselves, but for Christ, and for the good of immortal souls.",
+            "They closely attend unto, and work at, their business and employment; by constant reading, and diligent search into the word of God; by studious meditation on it; by frequent prayer; and continual preaching the Gospel, and administering ordinances; and their success follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servant who received the five talents promptly put forth his labor and traded with them, making other five talents. His business-like attitude and promptness are highlighted, emphasizing his active involvement and dedication. This parable underlines the contrast between the waiting virgins and the working servants, indicating that the servants actively engage in their tasks to make a profit. The significance of the term traded is to make money, pointing to the gain of a hundred percent. The ministers of the Gospel are likened to traders, working not for themselves but for Christ and the salvation of souls. They diligently apply themselves to their work through prayer, preaching, and administering ordinances, with success following their efforts.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.17599008418247,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.45,
+            "commentatorTierSimilarities": [
+                31.69,
+                0.0,
+                68.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant who received the five talents promptly traded with them, making another five talents. His business-like attitude and promptness emphasize his active involvement and dedication. This parable contrasts the waiting virgins with the working servants, highlighting the servants' active engagement to make a profit. The ministers of the Gospel are likened to traders, diligently working not for themselves but for Christ and the salvation of souls. Their success follows their diligent application through prayer, preaching, and administering ordinances.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.1623753445574185,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.99,
+            "commentatorTierSimilarities": [
+                28.96,
+                0.0,
+                71.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant who received the five talents promptly put forth his labor and traded with them, making other five talents. This parable underlines the contrast between the waiting virgins and the working servants, indicating that the servants actively engage in their tasks to make a profit. The ministers of the Gospel are likened to traders, working not for themselves but for Christ and the salvation of souls. They diligently apply themselves to their work through prayer, preaching, and administering ordinances, with success following their efforts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.2647101986981784,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+            "commentatorTierSimilarities": [
+                27.65,
+                0.0,
+                72.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant who received the five talents promptly traded with them, making another five talents. His business-like attitude and promptness highlight his active involvement and dedication. This parable contrasts the waiting virgins with the working servants, emphasizing that the servants actively engage to make a profit. The ministers of the Gospel are likened to traders, diligently working for Christ and the salvation of souls. They apply themselves through prayer, preaching, and administering ordinances, with success following their efforts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1591386133827548,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.88,
+            "commentatorTierSimilarities": [
+                29.51,
+                0.0,
+                70.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant who received the five talents promptly put forth his labor and traded with them, making other five talents. This parable underlines the contrast between the waiting virgins and the working servants, indicating that the servants actively engage in their tasks to make a profit. The ministers of the Gospel are traders who diligently work for Christ and the salvation of souls. They closely attend to their business by constant reading, diligent search into the word of God, studious meditation, frequent prayer, and continual preaching. Success follows their dedicated efforts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.1986195429199813,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.2,
+            "commentatorTierSimilarities": [
+                26.27,
+                0.0,
+                73.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

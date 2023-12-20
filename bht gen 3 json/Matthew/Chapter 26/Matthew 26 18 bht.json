@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:19",
+    "verseRef": "Matthew 26:18",
+    "bestBHT": {
+        "bht": "The Lord, in virtue of His knowledge and command of circumstances, spoke of a man who would not necessarily be a disciple but would fulfill the Evangelist's description. By directing His disciples to go into the city, Jesus prevented Judas from knowing the location in time to betray Him. This evidence of prescience would support the disciples' faith when they saw Him weakened. The Lord's cheerful readiness to fulfill the Father's appointment was evident in His repetition of the nearness of His death.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.8106385277978352,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+        "commentatorTierSimilarities": [
+            31.81,
+            44.25,
+            23.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord spoke not from any previous arrangement, as some have thought, but in virtue of His knowledge, and command of circumstances.",
+            "The term the Master... does not imply that the man was a disciple of our Lord.",
+            "My time is not 'the time of the feast,' but my own time, i.e. for suffering."
+        ],
+        "Marvin Vincent": [
+            "Such a man [\u03c4\u03bf\u03bd \u03b4\u03b5\u03b9\u03bd\u03b1] . The indefiniteness is the Evangelist 's, not our Lord 's. He, doubtless, described the person and where to find him."
+        ],
+        "John Calvin": [
+            "When they shortly afterwards saw him reduced to a state of weakness, their faith might remain firm, being supported by this evidence.",
+            "It is of great importance to us to know that, along with the weakness of the flesh, the glory of divinity appeared in Christ about the very time of his death.",
+            "He repeats once and again, that the time of his death is near, in order to inform them that he hastens cheerfully to do what the Father had appointed."
+        ],
+        "Philip Schaff": [
+            "Go into the city.\" Addressed to \u2018two of his disciples\u2019 (Mark), \u2018Peter and John\u2019 (Luke).",
+            "This mode of directing the disciples would prevent Judas from knowing the place in time to betray our Lord at the Passover meal.",
+            "The man must have recognized to some extent our Lord\u2019s authority."
+        ],
+        "Archibald T. Robertson": [
+            "To such a man (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u03b4\u03b5\u03b9\u03bd\u03b1). The only instance in the N.T. of this old Attic idiom.",
+            "The use of \u03c0\u03c1\u03bf\u03c2 \u03c3\u03b5 for 'at thy house' is neat Greek of the classic period.",
+            "It was a gracious privilege to serve him thus."
+        ],
+        "John Gill": [
+            "This is a very considerable instance of our Lord's prescience of future contingencies.",
+            "My time is at hand... I will keep the passover at thy house with my disciples.",
+            "Two societies that eat in one house... and the bride turns her face and eats."
+        ],
+        "John Wesley": [
+            "The Master saith, My time is at hand \u2014 That is, the time of my suffering."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord, in His knowledge and command of circumstances, spoke of a man who would lead them to a place to keep the passover. This man was not necessarily a disciple, as some have thought. The Lord specified that His time was not the time of the feast, but His own time for suffering. When He referred to such a man, He was describing the person and where to find him. It was a gracious privilege to serve Him in this way. By directing His disciples to go into the city, Jesus ensured that Judas would not know the place in time to betray Him at the Passover meal. The disciples must have recognized our Lord\u2019s authority, and this evidence of His prescience would strengthen their faith when they saw Him weakened in the future. The Lord's repetition of the nearness of His death shows His cheerful readiness to fulfill the Father's appointment.",
+            "wordCount": 156,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.8086818622941787,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                35.46,
+                37.55,
+                26.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In His knowledge of circumstances, the Lord mentioned a man who would lead them to the place for the passover. Not necessarily a disciple, this man fulfilled the Evangelist's description. By directing disciples to the city, Jesus prevented Judas from discovering the location in time to betray Him. This evidence of prescience would strengthen the disciples' faith when they saw Him weakened. The Lord's repetition of His approaching death showed His readiness to fulfill the Father's appointment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7663018580346685,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                30.31,
+                45.17,
+                24.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord, in virtue of His knowledge and command of circumstances, spoke of a man who would not necessarily be a disciple but would fulfill the Evangelist's description. By directing His disciples to go into the city, Jesus prevented Judas from knowing the location in time to betray Him. This evidence of prescience would support the disciples' faith when they saw Him weakened. The Lord's cheerful readiness to fulfill the Father's appointment was evident in His repetition of the nearness of His death.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8106385277978352,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+            "commentatorTierSimilarities": [
+                31.81,
+                44.25,
+                23.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord, in His knowledge and command of circumstances, spoke of a man who would lead them to the place for the passover. Not a disciple, this man fulfilled the Evangelist's description. By directing disciples to the city, Jesus prevented Judas from discovering the location in time to betray Him. This evidence of prescience would strengthen the disciples' faith when they saw Him weakened. The Lord's repetition of His approaching death showed His readiness to fulfill the Father's appointment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7446555765282783,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                31.05,
+                44.28,
+                24.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord, in His knowledge and command of circumstances, mentioned a man who would lead them to the place for the passover. Not necessarily a disciple, the man fulfilled the Evangelist's description. Jesus directed His disciples to the city to prevent Judas from discovering the location in time to betray Him. This evidence of prescience would strengthen the disciples' faith. The Lord's repetition of His approaching death demonstrated His readiness to fulfill the Father's appointment.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.728786644534717,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                30.09,
+                45.05,
+                24.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

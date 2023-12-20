@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:51:08",
+    "verseRef": "Matthew 22:8",
+    "bestBHT": {
+        "bht": "The wedding is ready, but they who were bidden were not worthy. The Jews, by their treatment of God's invitation, were deemed unworthy to sit down at His table. They contradicted and blasphemed the Gospel dispensation, showing plainly that they were not worthy of it. Instead, the invitation was extended to others along the highways and by-ways, illustrating that God's invitation is open to all, and worthiness is not determined by social status or religious heritage.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.3520185784061938,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.3,
+        "commentatorTierSimilarities": [
+            49.87,
+            15.15,
+            34.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On not worthy, see Acts xiii. 46."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The wedding is ready, but they which were bidden were not worthy\u2014for how should those be deemed worthy to sit down at His table who had affronted Him by their treatment of His gracious invitation?",
+            "How should those be deemed worthy to sit down at His table who had affronted Him by their treatment of His gracious invitation?",
+            "Those who were bidden were not worthy."
+        ],
+        "Philip Schaff": [
+            "Matthew 22:8. Not worthy. Compare Paul\u2019s language to the Jews at Antioch in Pisidia (Acts 13:46): \u2018judge yourselves unworthy of everlasting life.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "The wedding is ready;... the marriage feast, or the Gospel dispensation, which was ushered in, and the ministry of it, to which nothing was wanting; all the promises, prophecies, types, and shadows, of the former dispensation, were now accomplished.",
+            "But they which were bidden were not worthy; that is, the Jews... were so far from attending on it in a diligent and peaceable way, as becomes all such persons that are blessed with the external ministry of it; who when they do so, may be said to behave worthily, and, in some sense, to be worthy of such a privilege being continued with them.",
+            "[The Jews] contradicted and blasphemed it, and by their own outrageous carriage, showed plainly that they were unworthy of it."
+        ],
+        "John Wesley": [
+            "Go into the highways \u2014 The word properly signifies, the by-ways, or turnings of the road."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The wedding is ready, but those who were invited were not worthy. The Jews, who had affronted God by rejecting His gracious invitation, were deemed unworthy to sit down at His table. They contradicted and blasphemed the Gospel dispensation, showing clearly that they did not deserve to partake in it. Instead, the invitation was extended to others along the highways and by-ways, illustrating that God's invitation is open to all, and that worthiness is not determined by social status or religious heritage. (Matthew 22:8)",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.327484906526387,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+            "commentatorTierSimilarities": [
+                44.06,
+                24.22,
+                31.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wedding is ready, but they who were bidden were not worthy. The Jews, by their treatment of God's invitation, were deemed unworthy to sit down at His table. They contradicted and blasphemed the Gospel dispensation, showing plainly that they were not worthy of it. Instead, the invitation was extended to others along the highways and by-ways, illustrating that God's invitation is open to all, and worthiness is not determined by social status or religious heritage.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.3520185784061938,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.3,
+            "commentatorTierSimilarities": [
+                49.87,
+                15.15,
+                34.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wedding is ready, but they who were bidden were not worthy. The Jews, by their treatment of God's invitation, were deemed unworthy to sit down at His table. They contradicted and blasphemed the Gospel dispensation, showing plainly that they were not deserving of it. Instead, the invitation was extended to others along the highways and by-ways, illustrating that God's invitation is open to all, and their worthiness is not based on social status or religious heritage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.3253808210671751,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.41,
+            "commentatorTierSimilarities": [
+                48.87,
+                15.19,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wedding is ready, but those who were invited were not worthy. The Jews, who had affronted God by rejecting His gracious invitation, were deemed unworthy to sit down at His table. They contradicted and blasphemed the Gospel dispensation, and showed plainly that they were not deserving of it. Instead, the invitation was extended to others along the highways and by-ways, illustrating that God's invitation is open to all, and worthiness is not determined by social status or religious heritage.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.2986812702115955,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.52,
+            "commentatorTierSimilarities": [
+                49.3,
+                13.74,
+                36.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wedding is ready, but those who were invited were not worthy. The Jews, who had affronted Him by their treatment of His gracious invitation, were deemed unworthy to sit at His table. They contradicted, blasphemed, and showed plainly that they were not deserving of the Gospel dispensation. Instead, the invitation was extended to others along the by-ways, highlighting that God's invitation is open to all, irrespective of social status or religious background.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.281850818009959,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+            "commentatorTierSimilarities": [
+                52.28,
+                14.52,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

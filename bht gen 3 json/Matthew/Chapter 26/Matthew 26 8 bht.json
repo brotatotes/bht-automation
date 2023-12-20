@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:18",
+    "verseRef": "Matthew 26:8",
+    "bestBHT": {
+        "bht": "Judas alone is mentioned, and the word used for waste is the same as what Judas is called. The disciples considered Mary's act a dead loss, which must have been shocking to her. Sacrifices made out of love for Christ can seem wasteful to the world and even to the Church. We should learn from this incident the danger of being swayed by malicious tongues and the importance of not passing rash judgments without sufficient knowledge.",
+        "wordCount": 77,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 1.5905926867031077,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+        "commentatorTierSimilarities": [
+            34.66,
+            31.12,
+            34.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Judas alone is mentioned...\" ",
+            "The independent origin of the two accounts is even more strikingly shewn.",
+            "The word (literally, perdition) is the same as that by which Judas himself is called."
+        ],
+        "Marvin Vincent": [
+            "To what purpose is this waste? Wyc., Where to this loss? Tynd., What needed this waste? See on John 12:3."
+        ],
+        "John Calvin": [
+            "But when he began, under a plausible pretext, to condemn the expense as superfluous, all of them easily caught the contagion.",
+            "And this example shows what danger arises from malignant and envenomed tongues; for even those who are naturally reasonable, and candid, and modest, if they do not exercise prudence and caution, are easily deceived by unfavorable speeches, and led to adopt false judgments.",
+            "We ought to draw from it another warning, not to pronounce rashly on a matter which is not sufficiently known."
+        ],
+        "Philip Schaff": [
+            "The three accounts here show perfect independence.",
+            "Sacrifices, made out of love to Christ, seem wasteful' to the world, and even to the Church when under the influence of a mercantile spirit.",
+            "No doubt, all shared the feeling for the time; Mark distinguishes 'some' in a company, of which the disciples formed a part; John mentions the author of the objection, and gives his motives."
+        ],
+        "Archibald T. Robertson": [
+            "This waste (\u03b7 \u03b1\u03c0\u03c9\u03bb\u03b5\u03b9\u03b1 \u03b1\u03c5\u03c4\u03b7). Dead loss (\u03b1\u03c0\u03c9\u03bb\u03b5\u03b9\u03b1) they considered it, nothing but sentimental aroma.",
+            "It was a cruel shock to Mary of Bethany to hear this comment.",
+            "Mark explains that they mentioned 'three hundred pence,' while Matthew (Matthew 26:9) only says 'for much' (\u03c0\u03bf\u03bb\u03bb\u03bf\u03c5)."
+        ],
+        "John Gill": [
+            "Their resentment was private, though it might be betrayed by their looks, and afterwards showed itself in words.",
+            "This indignation was either at the woman... or at Christ himself, for suffering such an action to be done unto him.",
+            "They call that waste, or loss, which was spent on Christ himself; whereas, whatever is laid out for the honour of Christ, or the good of his interest, ought not to be reckoned loss, for it will be returned with great increase and advantage."
+        ],
+        "John Wesley": [
+            "His disciples seeing it, had indignation, saying \u2014 It seems several of them were angry, and spoke, though none so warmly as Judas Iscariot."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas alone is mentioned in this verse, highlighting the independent origin of the two accounts. The word waste used here is the same word used to call Judas himself. The disciples considered Mary's act of pouring expensive perfume on Jesus' head a dead loss, a sentiment that must have been shocking to her. Mark specifies that they mentioned three hundred pence, while Matthew only mentions for much. Sacrifices made out of love for Christ can often be viewed as wasteful by the world, even by the Church, when under the influence of a mercantile spirit. The disciples' indignation stemmed either from the action itself or from their frustration at Jesus for allowing it. We should learn from this incident the danger of being swayed by malicious tongues and the importance of not passing rash judgments without sufficient knowledge.",
+            "wordCount": 139,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.621749027933315,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+            "commentatorTierSimilarities": [
+                33.14,
+                33.1,
+                33.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas alone is mentioned, and the word used for waste is the same as what Judas is called. The disciples considered Mary's act a dead loss, which must have been shocking to her. Sacrifices made out of love for Christ can seem wasteful to the world and even to the Church. We should learn from this incident the danger of being swayed by malicious tongues and the importance of not passing rash judgments without sufficient knowledge.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.5905926867031077,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                34.66,
+                31.12,
+                34.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas alone is mentioned, emphasizing the independent origin of the two accounts. The disciples considered Mary's act of pouring perfume a dead loss, a sentiment that shocked her. They called it waste, even though it was spent on Christ himself. Sacrifices made out of love for Christ may seem wasteful to the world and even to the Church. We should be cautious not to be deceived by unfavorable speeches and avoid passing rash judgments based on insufficient knowledge.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.5723061881129736,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                31.8,
+                35.28,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas alone is mentioned in this account. The disciples considered Mary's act a dead loss, calling it waste and questioning its purpose. This criticism was a cruel shock to Mary, who had acted out of love for Jesus. The disciples' indignation may have stemmed either from the action itself or from frustration with Jesus for allowing it. Sacrifices made out of love for Christ can often be viewed as wasteful by the world and even by the Church. This incident serves as a warning about the danger of being swayed by malicious tongues and the importance of not passing hasty judgments without proper understanding.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6033405934222937,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                32.29,
+                32.43,
+                35.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas alone is mentioned, and the word waste used by the disciples is the same term used to describe Judas himself. The disciples considered Mary's act a dead loss, something wasted on sentimental aroma. This criticism must have been devastating to Mary. Sacrifices made out of love for Christ can often be seen as wasteful by the world and even by the Church. This incident serves as a cautionary tale about the danger of being led astray by unfavorable speeches and forming false judgments without sufficient knowledge.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.5459102806371523,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                33.89,
+                33.69,
+                32.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

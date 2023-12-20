@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:17",
+    "verseRef": "Matthew 26:2",
+    "bestBHT": {
+        "bht": "The crucifixion of Jesus and the Passover coincided, emphasizing the connection between the two sacrifices. Jesus knew the divine decree and the exact time when he would be betrayed and crucified. By mentioning the two-day time frame, he set a definite date for the coming crucifixion, fulfilling all that was typified in the Passover. Jesus, fully aware of the events to come, reminded his disciples of them to prepare them for the inevitable, showing his tender concern for them. The Passover supper introduced the showing forth of the Lord's death as a memorial of his sacrifice.",
+        "wordCount": 98,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.903997645489844,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+        "commentatorTierSimilarities": [
+            34.74,
+            27.91,
+            37.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The delivery of our Lord to be crucified, and the taking place of the Passover, strictly coincided.\" ",
+            "The solemn mention of them in this connexion is equivalent to a declaration from Himself, if it were needed, of the identity, both of time and meaning, of the two sacrifices.\" ",
+            "The latter clause, and the Son of man\u2026, depends on ye know as well as the former."
+        ],
+        "Albert Barnes": [
+            "The 'opportunity' which he sought... in which the multitude would not see him, or could not rescue the Saviour.\" ",
+            "To betray him - The word 'betray' commonly means to deliver into the hands of an enemy by treachery or breach of trust.\" ",
+            "It means simply to 'deliver up,' or to give into their hands."
+        ],
+        "Marvin Vincent": [
+            "The present tense expresses here something which, though future, is as good as present, because already determined, or because it must ensue in virtue of an unalterable law.",
+            "The Son of Man is betrayed according to the divine decree.",
+            "The Son of Man is betrayed according to the divine decree. Compare ver. 24."
+        ],
+        "Philip Schaff": [
+            "After two days. This means, \u2018the day after tomorrow,\u2019 according to Jewish usage.",
+            "The word \u2018passover\u2019 expresses the literal sense of the Hebrew word, which refers to the passing over of the destroying angel, sparing the first-born of Israel in Egypt.",
+            "The events had already been foretold. That time was appointed, because our Lord would thus fulfill all that was typified in the Passover."
+        ],
+        "Archibald T. Robertson": [
+            "This was probably our Tuesday evening (beginning of Jewish Wednesday). The passover began on our Thursday evening (beginning of Jewish Friday).",
+            "After two days (\u03bc\u03b5\u03c4\u03b1 \u03b4\u03c5\u03bf \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2) is just the familiar popular mode of speech. The passover came technically on the second day from this time.",
+            "Thus Jesus sets a definite date for the coming crucifixion which he has been predicting for six months."
+        ],
+        "John Gill": [
+            "This was typified by the lifting up the brazen serpent on a pole, and foretold by the prophets of the Old Testament, and predicted by Christ himself, sometimes more covertly, and sometimes in express words.\" ",
+            "And it is clear from hence, that Christ had perfect knowledge of all this: he knew not only that he should be betrayed, but he knew from the beginning who would betray him; he not only knew that he should die, but he knew what kind of death he should die, even the death of the cross; and he knew the exact time when he should die.\" ",
+            "And he thought fit to put his disciples in mind of it, because the time drew nigh; that their memories being refreshed with it, they might be prepared for it, and not be surprised, shocked, and offended at it, when it came to pass; which shows the tender concern our Lord had for them."
+        ],
+        "John Wesley": [
+            "Then the supper began with the unleavened bread and bitter herbs; which when they had all tasted, one of the young persons present, according to Exodus 12:26, asked the reason of the solemnity.\" ",
+            "This introduced the showing forth, or declaration of it: in allusion to which we read of showing forth the Lord's death, 1 Corinthians 11:26.\" ",
+            "It was this bread and this cup which our Lord consecrated to be a standing memorial of his death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crucifixion of Jesus and the Passover coincided, emphasizing the connection between the two sacrifices. Jesus knew the divine decree and the exact time when he would be betrayed and crucified. By mentioning the two-day time frame, he set a definite date for the coming crucifixion, fulfilling all that was typified in the Passover. Jesus, fully aware of the events to come, reminded his disciples of them to prepare them for the inevitable, showing his tender concern for them. The Passover supper began with unleavened bread and bitter herbs, which introduced the showing forth of the Lord's death, as a memorial of his sacrifice.",
+            "wordCount": 106,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.909631973958203,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                34.37,
+                26.93,
+                38.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crucifixion of Jesus and the Passover coincided, emphasizing the connection between the two sacrifices. Jesus knew the divine decree and the exact time when he would be betrayed and crucified. By mentioning the two-day time frame, he set a definite date for the coming crucifixion, fulfilling all that was typified in the Passover. Jesus, fully aware of the events to come, reminded his disciples of them to prepare them for the inevitable, showing his tender concern for them. The Passover supper introduced the showing forth of the Lord's death as a memorial of his sacrifice.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.903997645489844,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                34.74,
+                27.91,
+                37.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crucifixion of Jesus and the Passover coincided, emphasizing the connection between the two sacrifices. Jesus knew the divine decree and the exact time when he would be betrayed and crucified. By mentioning the two-day time frame, he set a definite date, fulfilling all that was typified in the Passover. Jesus reminded his disciples of the events to come, preparing them for the inevitable and showing his tender concern for them. The Passover supper introduced the showing forth of the Lord's death as a memorial.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.849706377405472,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                35.13,
+                27.88,
+                36.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crucifixion and the Passover were intricately connected, aligning in both timing and significance. With full knowledge of the divine decree, Jesus anticipated his betrayal and imminent death. By referring to the two-day span, Jesus established a specific date for the crucifixion, completely fulfilling the symbolism of the Passover. He deliberately reminded his disciples, demonstrating his caring nature and preparing them for what lay ahead. During the Passover supper, Jesus introduced the commemoration of his sacrificial death, an everlasting memorial of his ultimate act of love.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7623126865730976,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                33.73,
+                27.5,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crucifixion and the Passover were interconnected, as both were divinely ordained and aligned in timing. Jesus, fully aware of the forthcoming events, disclosed the betrayer and anticipated his crucifixion. By mentioning the two-day timeframe, Jesus precisely determined the date, fulfilling the symbolic significance of the Passover. He reminded his disciples, displaying His tender care for them. During the Passover supper, Jesus instituted the memorial of His sacrificial death as an enduring testament of His love and redemption.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.733636767977045,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                33.98,
+                27.48,
+                38.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

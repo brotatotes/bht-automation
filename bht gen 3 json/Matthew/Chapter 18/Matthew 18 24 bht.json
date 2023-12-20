@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:49:53",
+    "verseRef": "Matthew 18:24",
+    "bestBHT": {
+        "bht": "The debt described is insurmountable, far beyond any individual's means. Whether represented in talents of silver or gold, the sum owed is enormous, estimated to be over a million and a half sterling or even more. This debt serves as a reminder of the vast number and weight of our offenses against God, highlighting our utter incapacity to make amends. Just as no man could possibly repay such a colossal debt, we are unable to fully satisfy our transgressions against the divine.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.1215156384342424,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+        "commentatorTierSimilarities": [
+            33.4,
+            33.38,
+            33.22
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whether these are talents of silver or of gold, the debt represented is enormous, and far beyond any private man\u2019s power to discharge.",
+            "10,000 talents of silver is the sum at which Haman reckons the revenue derivable from the destruction of the whole Jewish people.",
+            "In the extreme impoverishment to which the land was brought at last, one talent of gold was laid on it, after the death of Josiah, by the King of Egypt."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If Attic talents are here meant, 10,000 of them would amount to above a million and a half sterling.",
+            "If Jewish talents, to a much larger sum."
+        ],
+        "Albert Barnes": [
+            "A talent of silver was worth (circa 1880\u2019s) 1,519.23 =342 British pounds, 3 shillings, 9d.; of gold, 243,098.88 =5,475 British pounds.",
+            "If these were silver talents, as is probable, then the sum owed by the servant was 15,180,000, or about 3,421, 875 British sterling (circa 1880\u2019s), a sum which proves that he was not a domestic, but some tributary prince.",
+            "The sum is used to show that the debt was immensely large, and that our sins are so great that they cannot be estimated or numbered."
+        ],
+        "Marvin Vincent": [
+            "Which owed him [\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03c4\u03b7\u03c2] . Lit., a debtor of ten thousand talents. Ten thousand talents. An enormous sum; about twelve millions of dollars."
+        ],
+        "Philip Schaff": [
+            "Ten thousand talents = \u00a3 2 , 437 , 500 , $ 11 , 700 , 000, if we understand Attic talents of silver.",
+            "The Syrian talent was much smaller, but a talent of gold would, of course, be of much greater value.",
+            "It signifies a debt which no one man could discharge, though he might incur it."
+        ],
+        "Archibald T. Robertson": [
+            "Ten thousand talents (\u03bc\u03c5\u03c1\u03b9\u03c9\u03bd \u03c4\u03b1\u03bb\u03b1\u03bd\u03c4\u03c9\u03bd). A talent was 6,000 denarii or about a thousand dollars or 240 pounds.\" ",
+            "Ten thousand times this is about ten or twelve million dollars, an enormous sum for that period.",
+            "We live today in the age of national debts of billions of dollars or even of pounds sterling."
+        ],
+        "John Gill": [
+            "The design of the phrase is to set forth the exceeding greatness of the debt.",
+            "All men owe a debt of thankfulness to God, for their beings, the preservation of them, and all the mercies of life; and a debt of obedience to the whole law, in failure of which, they are obliged to punishment.",
+            "The sins of God's people, which have been all made to meet upon Christ, have been laid upon him by his Father's imputation of them to him, with his own consent, are represented in this manner."
+        ],
+        "John Wesley": [
+            "According to the usual computation, if these were talents of gold, this would amount to seventy-two millions sterling.",
+            "If they were talents of silver, it must have been four millions, four hundred thousand pounds.",
+            "Hereby our Lord intimates the vast number and weight of our offences against God, and our utter incapacity of making him any satisfaction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The debt represented in this verse is enormously large, far beyond any individual's power to discharge. It is estimated to be around ten thousand talents of silver, which would amount to over a million and a half sterling or a much larger sum if Jewish talents are meant. This debt signifies the great magnitude of our sins, which cannot be estimated or numbered. It highlights the overwhelming nature of our offenses against God and our complete inability to make any satisfaction for them. Just as no man could possibly repay such an enormous debt, we are likewise unable to fully atone for our transgressions.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 2.144019966286322,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                34.06,
+                34.52,
+                31.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The debt described here is beyond any individual's ability to discharge, estimated at ten thousand talents of silver. This massive sum represents the incalculable magnitude of our sins and emphasizes our complete inability to fully atone for them. We owe a debt of thankfulness to God for our existence and a debt of obedience to His law, yet we fall short. Just as no man could repay such a vast debt, we are incapable of fully satisfying our offenses against God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.1191352833710386,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.8,
+            "commentatorTierSimilarities": [
+                31.05,
+                32.6,
+                36.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The debt in question is immense, far surpassing any individual's ability to repay. It is estimated to be around ten thousand talents, equivalent to over a million and a half sterling or a much larger sum if Jewish talents are meant. This staggering amount demonstrates the overwhelming nature of our sins and our utter incapacity to make amends. We are reminded of the vast number and weight of our offenses against God, highlighting the futility of attempting to satisfy our debt.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0579788090240667,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                36.08,
+                30.86,
+                33.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The debt described is insurmountable, far beyond any individual's means. Whether represented in talents of silver or gold, the sum owed is enormous, estimated to be over a million and a half sterling or even more. This debt serves as a reminder of the vast number and weight of our offenses against God, highlighting our utter incapacity to make amends. Just as no man could possibly repay such a colossal debt, we are unable to fully satisfy our transgressions against the divine.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1215156384342424,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                33.4,
+                33.38,
+                33.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The debt depicted is staggering, surpassing any individual's ability to repay. Estimated to be thousands of talents, it amounts to millions of dollars in today's terms, emphasizing the enormity of our sins. This debt serves as a stark reminder of the vast number and weight of our offenses against God, highlighting our complete incapacity to make amends. Just as no person can fully repay such an immense debt, we are incapable of fully satisfying our transgressions before the divine.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0293076525171454,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                31.59,
+                31.93,
+                36.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

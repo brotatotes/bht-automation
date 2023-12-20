@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:53:10",
+    "verseRef": "Matthew 26:11",
+    "bestBHT": {
+        "bht": "Christ's acknowledgement of the eternal existence of poverty emphasizes the importance of believers caring for the poor as an expression of their love for Him. By recognizing the poor as being with them, believers can demonstrate their love for Christ through acts of kindness and compassion. This serves as a spiritual act of worship, redirecting resources towards helping the poor and storing up treasures in heaven. It is a reminder that poverty will always be present, but by showing care and generosity, believers fulfill the command to care for the less fortunate.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.5570482222824036,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+        "commentatorTierSimilarities": [
+            0.0,
+            54.44,
+            45.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "For you have the poor always with you.\" ",
+            "True, indeed, we know and feed by the experience of faith, that he is present with us by power and spiritual grace; but he is not visibly with us, so as to receive from us earthly honors.\" ",
+            "This passage teaches us that, though the Lord commands us to dedicate to him ourselves and all our property, yet, with respect to himself, he demands no worship but that which is spiritual, and which is attended by no expense, but rather desires us to bestow on the poor what superstition foolishly expends on the worship of God."
+        ],
+        "Philip Schaff": [
+            "For ye have the poor always with you... but me ye have not always.",
+            "This verse suggests that no reorganization of society will ever banish poverty from the earth.",
+            "There is but one way of doing this, namely, by Christ's people recognizing the poor as 'with them' and under the impulse of love like that of Mary, making the care of them the usual expression of that love."
+        ],
+        "John Gill": [
+            "Christ seems to have respect to Deuteronomy 15:11... 'for the poor shall never cease out of the land': the gloss on it is, from hence it may be concluded, that therefore, \u05d9\u05e9 \u05e2\u05e0\u05d9\u05d5\u05ea \u05dc\u05e2\u05d5\u05dc\u05dd, 'for ever there will be poverty, and riches'.\" ",
+            "Our Lord's words also show, that there will be always poor persons in the world; that there will be always such with his people, and in his churches; for God has chosen, and he calls such by his grace...",
+            "...the time was very short in which any outward respect could be shown to him in person, as man."
+        ],
+        "John Wesley": [
+            "Such is the wise and gracious providence of God, that we may have always opportunities of relieving their wants.",
+            "We may have always opportunities of...so laying up for ourselves treasures in heaven.",
+            "Relieving their wants...laying up for ourselves treasures in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ's words in this verse acknowledge the perpetual presence of poverty in the world. While some may interpret this as an indication that poverty cannot be eradicated, it actually highlights the responsibility of Christ's followers to care for the poor. By recognizing the poor as being with them, believers can demonstrate their love for Christ through acts of kindness and compassion towards those in need. This not only fulfills the command to care for the poor, but also serves as a spiritual act of worship. Instead of extravagantly spending on earthly honors for God, believers are encouraged to redirect their resources towards helping the poor, thereby storing up treasures in heaven and truly honoring their Savior.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.5549608443600216,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.03,
+                43.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's acknowledgement of the eternal existence of poverty emphasizes the importance of believers caring for the poor as an expression of their love for Him. By recognizing the poor as being with them, believers can demonstrate their love for Christ through acts of kindness and compassion. This serves as a spiritual act of worship, redirecting resources towards helping the poor and storing up treasures in heaven. It is a reminder that poverty will always be present, but by showing care and generosity, believers fulfill the command to care for the less fortunate.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5570482222824036,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                54.44,
+                45.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's statement about the perpetual existence of poverty highlights the responsibility of His followers to care for the poor. Recognizing the poor as being with them allows believers to express their love for Christ through acts of kindness and compassion. This act of caring for the poor is not only a fulfillment of God's command, but also a spiritual act of worship. Instead of focusing on earthly honors, believers are encouraged to redirect their resources towards helping those in need, laying up treasures in heaven.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.4857729866430405,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.23,
+                46.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's acknowledgement of the ongoing reality of poverty reminds believers of their responsibility to care for the poor. By recognizing the poor as being with them, believers can demonstrate their love for Christ through acts of compassion and generosity. This act of caring for the poor is not simply a command, but a spiritual act of worship. Rather than focusing on earthly honors or extravagant worship, believers are encouraged to redirect their resources towards helping those in need, ultimately storing up treasures in heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5083873108843682,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.42,
+                44.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's acknowledgement of the perpetual existence of poverty highlights the responsibility of believers to express love for Him through acts of compassion. By recognizing the poor as being with them, believers can fulfill the command to care for the less fortunate. This act of caring for the poor is not only a fulfillment of God's command, but also a spiritual act of worship. Instead of focusing on earthly honors, believers are encouraged to redirect their resources towards helping those in need, storing up treasures in heaven.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.4435711423194357,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.28,
+                46.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

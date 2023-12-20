@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:43:09",
+    "verseRef": "Matthew 4:2",
+    "bestBHT": {
+        "bht": "During this period of fasting, Jesus abstained from all food, entering into a spiritual ecstasy where his bodily needs were suspended. The fact that he later experienced hunger attests to the reality of his human nature. It is remarkable that even in his weakest physical state, Jesus was able to overcome temptation in our human nature. The one tempting him approached and made his presence known, highlighting the significance of the encounter. While this fasting period is not meant for our imitation, it serves as a powerful reminder of Jesus' strength and determination.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.6693970591213763,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+        "commentatorTierSimilarities": [
+            28.93,
+            33.88,
+            37.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not in the wider ecclesiastical sense of the word, but its strict meaning, of abstaining from all food whatever.\" ",
+            "Then probably not during the time itself.\" ",
+            "The period of the fast, as in the case of Moses, was spent in a spiritual ecstasy, during which the wants of the natural body were suspended."
+        ],
+        "Albert Barnes": [
+            "Had fasted - Abstained from food.",
+            "It has been questioned by some whether Christ abstained wholly from food, or only from the food to which he was accustomed. Luke says Luke 4:2 that he ate nothing. This settles the question.",
+            "There are other instances of persons fasting 40 days recorded in the Scriptures. Thus, Moses fasted 40 days, Exodus 34:28. Elijah also fasted the same length of time, 1 Kings 19:8. In these cases they were no doubt miraculously supported."
+        ],
+        "Philip Schaff": [
+            "The length of the fast is not incredible... Absorption in intellectual pursuits, but especially in spiritual contemplation, will render anyone for a time independent of ordinary food or nourishment.\" ",
+            "He appears identified with us. Even when weakest physically, when the temptation would be strongest, He overcame in our nature what enslaves our unaided nature.",
+            "'Tempter,' the 'one tempting,' implying that this was his office or business. Actual approach is suggested by the literal meaning, 'And the one tempting coming said to him.'"
+        ],
+        "Archibald T. Robertson": [
+            "The period of the fast, as in the case of Moses was spent in a spiritual ecstasy, during which the wants of the natural body were suspended\" (Alford).",
+            "He afterward hungered\" and so at the close of the period of forty days."
+        ],
+        "John Gill": [
+            "Forty nights\" as well as days, are mentioned; partly to show that these were whole entire days, consisting of twenty four hours; and partly to distinguish this fast of Christ from the common fastings of the Jews.",
+            "What is very surprising in this fasting of our Lord, which was made and recorded, not for our imitation, is, that during the whole time he should not be attended with hunger.",
+            "[The hunger] is related, both to express the reality of his human nature, which though miraculously supported for so long a time without food, and insensible of hunger, yet at length had appetite for food."
+        ],
+        "John Wesley": [
+            "Having fasted \u2014 Whereby doubtless he received more abundant spiritual strength from God.",
+            "Forty days and forty nights \u2014 As did Moses, the giver of the law, and Elijah, the great restorer of it.",
+            "He was afterward hungry \u2014 And so prepared for the first temptation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this period of fasting, it is important to note that Jesus abstained from all food completely. It is likely that he was in a spiritual ecstasy, where his natural bodily needs were suspended. The fact that he later experienced hunger indicates that the forty days and nights were a true physical fast. It is remarkable that even in his weakest physical state, Jesus was able to overcome temptation in our human nature. The one tempting him approached and made his presence known, highlighting the significance of this moment. While this fasting period is not meant to be directly imitated by us, it serves as a powerful reminder of the strength and determination of Jesus.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7599247990249829,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                31.41,
+                32.32,
+                36.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this period of fasting, Jesus abstained from all food, entering into a spiritual ecstasy where his bodily needs were suspended. The fact that he later experienced hunger attests to the reality of his human nature. It is remarkable that in his weakest physical state, Jesus overcame temptation in our nature. The tempter approached him, highlighting the significance of the encounter. While this fasting period is not meant for our imitation, it serves as a powerful reminder of Jesus' strength and determination.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.594198987019084,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                29.05,
+                34.26,
+                36.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this period of strict fasting, Jesus abstained from all food and experienced a spiritual ecstasy where his bodily needs were suspended. The fact that he later became hungry shows the reality of his human nature. Despite his weakness, Jesus successfully overcame temptation in our human nature. The one tempting him approached and made his presence known, underscoring the significance of this moment. While this fasting period isn't meant for our imitation, it serves as a powerful reminder of Jesus' strength and determination.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6125122733857267,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                29.63,
+                33.23,
+                37.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this period of strict fasting, Jesus abstained from all food and experienced a spiritual ecstasy where his bodily needs were suspended. The fact that he later became hungry emphasizes the reality of his human nature. Despite his weakness, Jesus overcame temptation in our human nature. The one tempting him approached and highlighted the significance of this moment. While this fasting period isn't meant for our imitation, it serves as a powerful reminder of Jesus' strength and determination.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5973885519389404,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                30.12,
+                33.33,
+                36.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this period of fasting, Jesus abstained from all food, entering into a spiritual ecstasy where his bodily needs were suspended. The fact that he later experienced hunger attests to the reality of his human nature. It is remarkable that even in his weakest physical state, Jesus was able to overcome temptation in our human nature. The one tempting him approached and made his presence known, highlighting the significance of the encounter. While this fasting period is not meant for our imitation, it serves as a powerful reminder of Jesus' strength and determination.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6693970591213763,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                28.93,
+                33.88,
+                37.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

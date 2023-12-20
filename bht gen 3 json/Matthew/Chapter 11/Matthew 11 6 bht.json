@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:46:22",
+    "verseRef": "Matthew 11:6",
+    "bestBHT": {
+        "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist, who had doubts while in the fog, found some occasion of stumbling in Jesus. But those who can see beyond Jesus' poverty and obscurity and recognize the evidence of his Messiahship will be blessed. We should not be surprised if we encounter offenses and obstacles along the way. Christ himself is often a stumbling-block, despised and disfigured, but it is those who steadfastly adhere to the faith of the Gospel that will be happy and not be offended by him.",
+        "wordCount": 98,
+        "quoteTokenProportion": 53.73,
+        "qualityScore": 1.8214913529073224,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.91,
+        "commentatorTierSimilarities": [
+            28.86,
+            33.76,
+            37.38
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] See note on ver. 2. offended in] scandalized at, take offence at."
+        ],
+        "Albert Barnes": [
+            "Happy is he to whom I shall not prove a stumbling-block.",
+            "Happy is he who shall not take offence at my poverty and lowliness of life, so as to reject me and my doctrine.",
+            "Happy is the one who can, notwithstanding that poverty and obscurity, see the evidence that I am the Messiah, and follow me."
+        ],
+        "Marvin Vincent": [
+            "Be offended [\u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03c3\u03b8\u03b7] . See on ch. Matthew 5:29. Rev., shall find none occasion of stumbling. Compare Wyc., shall not be slandered."
+        ],
+        "John Calvin": [
+            "He who would adhere firmly and steadfastly to the faith of the Gospel must encounter offenses, which will tend to interrupt the progress of faith.",
+            "We must contend with offenses if we would continue in the faith of Christ, for Christ himself is justly denominated a rock of offense and stone of stumbling.",
+            "It is because he appears with his cross, disfigured and despised, and exposed to the reproaches of the world; because he calls us to share in his afflictions; because his glory and majesty, being spiritual, are despised by the world; and in a word, because his doctrine is totally at variance with our senses."
+        ],
+        "Philip Schaff": [
+            "Offended, i.e., \u2018made to stumble.\u2019 This does not upbraid, but cautions, implying that Christ knew best what to do in His kingdom.",
+            "Result of the message: we may well believe that John was not taken away as a martyr to righteousness without having his faith restored.",
+            "His disciples, after his death and burial,\u2019 came and told Jesus\u2019 (Matthew 14:12)."
+        ],
+        "Archibald T. Robertson": [
+            "Doubt is not a proof of superior intellect, scholarship, or piety.",
+            "John was in the fog and that is the time not to make serious decisions.",
+            "In some way even the Baptist had found some occasion of stumbling in Jesus."
+        ],
+        "John Gill": [
+            "The Jews were offended at Christ's parentage and birth, at the poverty of his parents, and at the manner of his birth, by a virgin.",
+            "His company and audience being the poorer sort, the more ignorant, and who had been loose and scandalous persons, publicans and sinners.",
+            "But happy are those persons, who, notwithstanding all these difficulties and discouragements, are so far from stumbling at Christ, and falling from him, that they heartily receive him and believe in him, make a profession of him, and hold it fast."
+        ],
+        "John Wesley": [
+            "Happy is he who shall not be offended at me \u2014 Notwithstanding all these proofs that I am the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist, who had doubts while in the fog, found some occasion of stumbling in Jesus. But those who can see beyond Jesus' poverty and obscurity and recognize the evidence of his Messiahship will be blessed. We should not be surprised if we encounter offenses and obstacles along the way. Christ himself is often a stumbling-block, despised and disfigured, but it is those who steadfastly adhere to the faith of the Gospel that will be happy and not be offended by him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 1.8214913529073224,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.91,
+            "commentatorTierSimilarities": [
+                28.86,
+                33.76,
+                37.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist, in his doubts, found some occasion of stumbling in Jesus. But those who see beyond Jesus' poverty and obscurity, recognizing the evidence of his Messiahship, will be blessed. We may encounter offenses in our faith, but those who steadfastly adhere to the Gospel will not be offended by Christ, who may appear disfigured and despised to the world but offers true happiness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.9772753374735343,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                29.03,
+                34.96,
+                36.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist found some occasion of stumbling in Jesus. But those who see beyond Jesus' poverty and obscurity, recognizing the evidence of his Messiahship, will be blessed. We may encounter offenses in our faith, yet those who steadfastly adhere to the Gospel will not be offended by Christ, who may appear disfigured and despised, offering true happiness to those who believe and hold fast to him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9690125312886282,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "commentatorTierSimilarities": [
+                29.7,
+                34.57,
+                35.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist, in his doubts, found some occasion of stumbling in Jesus. But those who recognize the evidence of his Messiahship beyond his poverty and obscurity will be blessed. We may encounter offenses, but those who steadfastly adhere to the Gospel will not be offended by Christ, who may appear disfigured and despised yet offers true happiness to those who believe and hold fast to him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9500345383114839,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                28.25,
+                34.83,
+                36.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Happy is the one who does not stumble or take offense at Jesus. Even John the Baptist found some occasion of stumbling in Jesus. But those who see beyond Jesus' poverty and obscurity, recognizing the evidence of his Messiahship, will be blessed. We may encounter offenses in our faith, yet those who steadfastly adhere to the Gospel will not be offended by Christ, who may appear disfigured and despised, offering true happiness to those who hold fast to him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.97307029491591,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                29.92,
+                34.55,
+                35.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

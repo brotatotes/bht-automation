@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:55:01",
+    "verseRef": "Matthew 28:14",
+    "bestBHT": {
+        "bht": "The chief priests and elders hatched a cunning plan to manipulate Pilate, who they were well aware was driven by greed, by offering him a bribe. Their strategy was to convince him that the disciples of Jesus had stolen His body while the guards were asleep. The priests desired to ensure the soldiers' safety and relieve them of any worry or trouble that might arise from the resurrection. This elaborate scheme was spread amongst the Jews as a way to justify their refusal to believe that Jesus was the Messiah.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.6148549172179525,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+        "commentatorTierSimilarities": [
+            27.44,
+            62.56,
+            10.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "come before him officially: i.e. 'if a stir be made, and you be in trouble about it.'",
+            "persuade, viz., by a bribe of money, which, 'knowing the covetous character of the man, they were confidently able to promise.'",
+            "Trench, on the A.V., p. 72."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If this come before the governor...for judicial investigation.\" ",
+            "We shall [take care to] persuade him and keep you from trouble.",
+            "The 'persuasion' of Pilate meant, doubtless, quieting him by a bribe."
+        ],
+        "Albert Barnes": [
+            "The governor\u2019s ears - To Pilate. If it is reported to him that Jesus was stolen while you slept.",
+            "We will persuade him - We will convince or satisfy him, so that he shall not punish you. This they might promise with safety.",
+            "He would not be disposed, 'of himself,' to take any further trouble about the matter. He would feel that all that could be demanded of him had been done, and would not be disposed further to interfere, unless the Sanhedrin should demand it. This, of course, they would not do."
+        ],
+        "Marvin Vincent": [
+            "We will persuade, i.e., satisfy or appease.",
+            "Secure you, lit., make you without care.",
+            "The word secure, however, is, etymologically, a correct rendering."
+        ],
+        "Philip Schaff": [
+            "And if this (i.e., the reported sleeping on guard) come to the governor\u2019s ears. There is no evidence that Pilate took any notice of the matter, but the soldiers ran a risk, against which they are now insured.",
+            "We will persuade him. A hint at further and costly bribery; for Pilate was avaricious and corrupt. But he may never have heard the story.",
+            "Make you secure. They were ready to promise this, though to gain their end they would not scruple to sacrifice their tools."
+        ],
+        "Archibald T. Robertson": [
+            "We will persuade him, and rid you of care.\" ",
+            "Hence the soldiers have no anxiety.",
+            "It was spread about diligently by the Jews to excuse their disbelief in the Messiahship of Jesus."
+        ],
+        "John Gill": [
+            "And if this come to the governor's ears...that this is the true state of the case...",
+            "we will, persuade him...and make use of all our interest...to punish for it...",
+            "and will secure you...so that you need not be under any care, or concern on this account."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first-tier commentary on this verse reveals the deceitful plan concocted by the chief priests and elders. They were worried about the resurrection of Jesus causing a stir, so they intended to bribe the soldiers to spread the false story of Jesus' disciples stealing His body while they were asleep. The commentators explain that persuade here means to bribe Pilate, who they knew was covetous, in order to ensure he didn't take any further action. By doing so, the priests hoped to secure the soldiers' safety and eliminate any potential trouble that could arise from the resurrection. This scheme was spread among the Jews to justify their disbelief in Jesus' Messiahship.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.5259937938309074,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                29.66,
+                61.26,
+                9.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The plan devised by the chief priests and elders was to persuade Pilate, who they knew was covetous, through a bribe to prevent any trouble arising from Jesus' resurrection. Their intention was for the soldiers to spread the false story of Jesus' disciples stealing His body while they were asleep. By doing so, they aimed to secure the soldiers' safety and eliminate any potential concerns. This deceitful scheme was spread to excuse the disbelief of the Jews in Jesus' Messiahship.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.566216554131877,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+            "commentatorTierSimilarities": [
+                32.46,
+                59.02,
+                8.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests and elders hatched a cunning plan to manipulate Pilate, who they were well aware was driven by greed, by offering him a bribe. Their strategy was to convince him that the disciples of Jesus had stolen His body while the guards were asleep. The priests desired to ensure the soldiers' safety and relieve them of any worry or trouble that might arise from the resurrection. This elaborate scheme was spread amongst the Jews as a way to justify their refusal to believe that Jesus was the Messiah.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6148549172179525,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                27.44,
+                62.56,
+                10.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and elders devised a clever plan to sway Pilate, exploiting his greed with a bribe. Their intention was to persuade him that Jesus' disciples had stolen His body while the guards were asleep. This scheme aimed to safeguard the soldiers and release them from any troubles resulting from the resurrection. The Jewish leaders propagated this false narrative as a means to rationalize their disbelief in Jesus as the Messiah.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5493302200121475,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                29.37,
+                59.48,
+                11.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and elders conspired to manipulate Pilate's avarice through a bribe, intending to convince him that the disciples had stolen Jesus' body during their slumber. Their goal was to secure the safety of the soldiers and absolve them from any potential difficulties arising from the resurrection. This deceptive plot was disseminated among the Jews to excuse their disbelief in Jesus as the Messiah.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.4993041189380736,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                31.67,
+                68.39,
+                -0.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

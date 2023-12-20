@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:47:11",
+    "verseRef": "Matthew 12:47",
+    "bestBHT": {
+        "bht": "Interrupted in His discourse, Jesus saw the interruption as a chance to impart a profound lesson, displaying remarkable condescension. Some manuscripts omit this, but Mark and Luke include it. The motive for the interruption remains unclear\u2014whether it was a genuine message from Jesus' family or a test of His devotion. Nevertheless, Jesus prioritized His spiritual work, showing His dedication to the souls of people over His natural relations.",
+        "wordCount": 69,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.4321013998836396,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+        "commentatorTierSimilarities": [
+            31.52,
+            44.63,
+            23.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Absorbed in the awful warnings He was pouring forth, He felt this to be an unseasonable interruption, fitted to dissipate the impression made upon the large audience\u2014such an interruption as duty to the nearest relatives did not require Him to give way to.",
+            "But instead of a direct rebuke, He seizes on the incident to convey a sublime lesson.",
+            "Expressed in a style of inimitable condescension."
+        ],
+        "Philip Schaff": [
+            "We need not suppose that this unnamed person wished to interrupt the discourse, still less that he would call attention to the humble relatives to prove that Jesus was not the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "Aleph, B, L, Old Syriac, omit this verse as do Westcott and Hort.",
+            "It is genuine in Mark 3:32; Luke 8:20.",
+            "It was probably copied into Matthew from Mark or Luke."
+        ],
+        "John Gill": [
+            "Whether this message was carried at the request of the mother and brethren of Christ, and delivered in a simple manner, and with an honest intention; or whether it was officiously done, and with a design to interrupt him, and to try him, whether he would prefer his natural relations, and their society and conversation, to the spiritual work in which he was engaged, in doing good to the souls of men, is not certain.\" ",
+            "The latter seems probable, from the following words, and conduct of Christ.",
+            "Some copies read, 'desiring to see thee'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of delivering warnings to a large audience, Jesus was interrupted by an unnamed person. Instead of rebuking them, Jesus used the interruption as an opportunity to convey a profound lesson, demonstrating remarkable condescension. While some manuscripts omit this verse, others include it in Mark and Luke. It is debated whether the interruption was with the honest intention of delivering a message from Jesus' mother and brethren or if it was an attempt to test Jesus' devotion to his spiritual work. Regardless, Jesus' response suggests the latter, as he prioritized the souls of men over his natural relations.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.6469571473301252,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                26.94,
+                49.85,
+                23.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Interrupted while delivering warnings, Jesus seized the opportunity to impart a profound lesson, displaying unmatched condescension. Although some manuscripts omit this passage, it is found in Mark and Luke. The motive behind the interruption is unclear\u2014whether it was an attempt to test Jesus' commitment to his spiritual work or a genuine message from his family. Nevertheless, Jesus prioritized his spiritual mission, showcasing his devotion to the souls of people.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4342463812891226,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "commentatorTierSimilarities": [
+                31.95,
+                42.72,
+                25.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Absorbed in His warnings, Jesus found the interruption unseasonable yet used it as an opportunity to teach. Expressing unparalleled condescension, He addressed the interruption without rebuke. Though some manuscripts omit this, it is present in Mark and Luke. The purpose of the interruption remains uncertain, whether it was a genuine message from His family or a test of His dedication. Regardless, Jesus prioritized His spiritual mission, underscoring His commitment to the souls of people.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.3751237163838426,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.07,
+            "commentatorTierSimilarities": [
+                35.43,
+                43.85,
+                20.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Interrupted in His discourse, Jesus saw the interruption as a chance to impart a profound lesson, displaying remarkable condescension. Some manuscripts omit this, but Mark and Luke include it. The motive for the interruption remains unclear\u2014whether it was a genuine message from Jesus' family or a test of His devotion. Nevertheless, Jesus prioritized His spiritual work, showing His dedication to the souls of people over His natural relations.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.4321013998836396,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                31.52,
+                44.63,
+                23.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of pouring forth solemn warnings, Jesus faced an interruption. Instead of rebuking it directly, He seized the incident as an opportunity to convey a sublime lesson, demonstrating unmatched condescension. While some manuscripts omit this verse, it is found in Mark and Luke. The purpose of the interruption is uncertain - whether it was an honest message from Jesus' family or an attempt to test His commitment to His spiritual work. Regardless, Jesus showed His prioritization of souls over natural relations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.4227953093694985,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.65,
+            "commentatorTierSimilarities": [
+                33.63,
+                42.49,
+                23.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

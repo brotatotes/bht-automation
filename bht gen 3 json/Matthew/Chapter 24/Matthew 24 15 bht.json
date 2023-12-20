@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:52:28",
+    "verseRef": "Matthew 24:15",
+    "bestBHT": {
+        "bht": "When Jesus spoke about the abomination of desolation, he referred to the impending desecration of the holy temple by the Roman army, which included idolatrous practices. This desolation was a clear manifestation of estrangement from God, as the Roman eagles, worshipped as idols by the soldiers, were considered abominations. This desecration marked the end of sacrifices and was foretold by the prophets, prompting Jesus to encourage his audience to deeply understand the significance of these events.",
+        "wordCount": 76,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.4564406701192727,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.02,
+        "commentatorTierSimilarities": [
+            31.14,
+            38.14,
+            30.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The principal Commentators have supposed, that the eagles of the Roman legions are meant, which were as abomination inasmuch as they were idols worshipped by the soldiers.",
+            "Luke, writing for Gentiles, gives the outward state of things corresponding to this inward sign.",
+            "Putting then St. Luke\u2019s expression and the text together, I think that some internal desecration of, the holy place by the Zelots coincided with the approach of Cestius, and thus, both from without and within, the Christians were warned to escape."
+        ],
+        "Albert Barnes": [
+            "The abomination of desolation means the Roman army, and is so explained by Luke 21:20. The Roman army is further called the 'abomination' on account of the images of the emperor, and the eagles, carried in front of the legions, and regarded by the Romans with divine honors.\" ",
+            "Standing in the holy place - Mark says, standing where it ought not,' meaning the same thing. All Jerusalem was esteemed 'holy.' The meaning of this is, when you see the Roman armies standing in the holy city or encamped around the temple.\" ",
+            "Whoso readeth ... This seems to be a remark made by the evangelist to direct the attention of the reader particularly to the meaning of the prophecy by Daniel."
+        ],
+        "Marvin Vincent": [
+            "Abomination of desolation [\u03b2\u03b4\u03b5\u03bb\u03c5\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c1\u03b7\u03bc\u03c9\u03c3\u03b5\u03c9\u03c2] . The cognate verb, bdelussomai, means to feel a nausea or loathing for food : hence used of disgust generally.",
+            "It denotes anything in which estrangement from God manifests itself; as the eating of unclean beasts, Leviticus 11:11; Deuteronomy 14:3; and, generally, all forms of heathenism.",
+            "The reference here is probably to the occupation of the temple precincts by the idolatrous Romans under Titus, with their standards and ensigns."
+        ],
+        "John Calvin": [
+            "That you may not be too strongly attached to the temple and to the ceremonies of the Law, God has limited them to a fixed time, and has long ago declared, that when the Redeemer should come, sacrifices would cease.",
+            "But as the Jews were too strongly attached to their present condition, and therefore paid little attention to the prophecies which foretold the abolition of it, Christ, as if endeavoring to gain their ear, bids them read attentively that passage, where they would learn that what appeared to them difficult to be believed was plainly declared by the Prophets.",
+            "Christ selects only what suited his purpose, namely, that the termination of sacrifices was at hand, and that the abomination, which was the sign of the final desolation, would be placed in the temple."
+        ],
+        "Philip Schaff": [
+            "The favorite interpretation refers it to the Roman eagles, so hateful to the Jews, and worshipped as idols by the soldiers, the standards of those who desolated the temple.",
+            "Others refer it to some desecration of the temple by the Jewish Zealots under the pretence of defending it, which occurred at the same time with the approach of the first Roman army against Jerusalem.",
+            "In fact they stood on the Mount of Olives, \u2018the holy place,\u2019 in a higher Christian sense, where our Lord was now teaching and whence He ascended."
+        ],
+        "Archibald T. Robertson": [
+            "The desolation in the mind of Jesus is apparently the Roman army in the temple, an application of the words of Daniel to this dread event.",
+            "The verb \u03b2\u03b4\u03b5\u03bb\u03c5\u03c3\u03c3\u03bf\u03bc\u03b1 is to feel nausea because of stench, to abhor, to detest. Idolatry was a stench to God.",
+            "Let him that readeth understand. It is not to be supposed that Jesus used these words. They were inserted by Mark as he wrote his book and he was followed by Matthew."
+        ],
+        "John Gill": [
+            "By which is meant, not any statue placed in the temple by the Romans, or their order... but the Roman army is designed...",
+            "And so the Talmudic writers, by the abomination that makes desolate, in Daniel 12:11 to which Christ here refers, understand an image...",
+            "Whoever then reads the prophecy of Daniel; will easily understand the meaning of it, and will see and know for certain, that now it is accomplished..."
+        ],
+        "John Wesley": [
+            "When ye see the abomination of desolation...Standing in the holy place\" - Not only the whole city of Jerusalem, but the mountain on which it stood, were accounted holy.",
+            "He that readeth let him understand\" - Let him deeply consider it.",
+            "The abomination that maketh desolate...that is, the standards of the desolating legions, on which they bear the abominable images of their idols.\" - The abomination of desolation is the standards of the desolating legions bearing abominable images of idols."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus spoke about the abomination of desolation in Matthew 24:15, he was referring to the imminent desecration of the holy place in the temple. This desecration was connected to the Roman army and the idolatrous practices that they brought with them. The Roman eagles, which were worshipped by the soldiers as idols, were considered abominations. The desolation that Jesus spoke of was the Roman occupation of the temple with their standards and ensigns, which was a clear manifestation of estrangement from God. Those who read and understood Daniel's prophecy would have recognized the significance of these events. In fact, the abomination of desolation was a sign that the time for sacrifices had come to an end, as prophesied by the prophets. Therefore, Jesus urged his listeners to pay close attention and consider the implications of this prophecy.",
+            "wordCount": 138,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 2.147899459792991,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
+            "commentatorTierSimilarities": [
+                32.01,
+                36.25,
+                31.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus spoke about the abomination of desolation, he referred to the impending desecration of the holy temple by the Roman army, which included idolatrous practices. This desolation was a clear manifestation of estrangement from God, as the Roman eagles, worshipped as idols by the soldiers, were considered abominations. This desecration marked the end of sacrifices and was foretold by the prophets, prompting Jesus to encourage his audience to deeply understand the significance of these events.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.4564406701192727,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.02,
+            "commentatorTierSimilarities": [
+                31.14,
+                38.14,
+                30.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus spoke of the abomination of desolation, referring to the internal desecration of the holy place by the Zealots coinciding with the approaching Roman army. This desolation brought by the Roman occupation and idolatrous practices was seen as estrangement from God, as the Romans worshipped their eagles as abominations. The timeframe for sacrifices was limited, as prophesied, and Jesus urged his listeners to read and understand Daniel's prophecy to grasp the significance of these events.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.3642062937460375,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.95,
+            "commentatorTierSimilarities": [
+                31.52,
+                37.77,
+                30.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warned about the abomination of desolation, which symbolized the internal and external desecration of the holy place. This desolation was represented by the Roman army, whose idols, like the eagles, were abominations to God. The desolation in Jesus' mind likely referred to the Roman occupation of the temple, aligning with the words of Daniel. By reading Daniel's prophecy, one could easily grasp the fulfillment of these events and understand the termination of sacrifices, as foretold by the prophets.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.3274566211888965,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.73,
+            "commentatorTierSimilarities": [
+                30.93,
+                36.2,
+                32.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warned of the abomination of desolation, indicating the repulsive acts committed by the Roman legions in the temple as idols worshipped by soldiers. This desecration internally and externally showed estrangement from God, such as the eating of unclean foods and embracing heathenism. The reference likely pertained to the Roman army's occupation of temple precincts with their standards and ensigns. The abomination that makes desolate was seen in the Roman eagles, which were loathed by the Jews and considered divine.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.300466538461846,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+            "commentatorTierSimilarities": [
+                34.65,
+                37.06,
+                28.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

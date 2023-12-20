@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:50:08",
+    "verseRef": "Matthew 18:25",
+    "bestBHT": {
+        "bht": "This parable portrays the consequences faced by a debtor in the midst of Oriental despotism, where selling debtors and their families into slavery was permitted. The debtor's inability to pay signifies his insolvent state, leading to the loss of his possessions and imprisonment. It serves as a stark reminder of the severity of sin and the need for prayer and forgiveness. This story emphasizes the necessity of seeking refuge in prayer when faced with insurmountable debt and relying on God's undeserved goodness and mercy.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 1.624828271120255,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+        "commentatorTierSimilarities": [
+            25.02,
+            29.75,
+            45.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The similitude is however rather from Oriental despotism.",
+            "The selling was under the Mosaic law softened by the liberation at the year of jubilee.",
+            "The imprisonment also, and the tormentors, favour this view."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife and children, and all that he had, and payment to be made.\" ",
+            "(See 2 Kings 4:1; Nehemiah 5:8; Leviticus 25:39)."
+        ],
+        "Albert Barnes": [
+            "By the laws of the Hebrews they were permitted to sell debtors, with their wives and children, into servitude for a time sufficient to pay a debt.",
+            "See 2 Kings 4:1; Leviticus 25:39-46; Amos 8:6."
+        ],
+        "Marvin Vincent": [
+            "To be sold. According to the law of Moses : Exodus 22:3; Leviticus 25:39, Leviticus 25:47."
+        ],
+        "John Calvin": [
+            "God does not always display severity at first, till, constrained to pray, we implore pardon, but rather meets us with undeserved goodness.",
+            "Christ only shows what will become of us, if God shall treat us with the utmost severity; and again, if He shall choose to demand from us what we owe, how necessary it is for us to betake ourselves to prayer, because this is the only refuge that remains for transgressors.",
+            "We must also attend to the wide difference of the sums; for, since one talent is worth more than a hundred pence, what proportion will a hundred pence bear to ten thousand talents?"
+        ],
+        "Philip Schaff": [
+            "The Mosaic law permitted something of this kind...but Matthew 18:34 favors a reference to the severer customs of Oriental despots.",
+            "In the ordinary course of God\u2019s dealings, strict justice is not only insisted upon, but begins its work.",
+            "As far as possible, however insufficient."
+        ],
+        "Archibald T. Robertson": [
+            "This idiom is seen in Luke 7:42; Luke 14:14; Hebrews 6:13.\" ",
+            "Genitive absolute though \u03b1\u03c5\u03c4\u03bf\u03bd in the same clause as often in the N.T.",
+            "Wife and children were treated as property in those primitive times."
+        ],
+        "John Gill": [
+            "Every sinner is insolvent; sinful man has run out the whole stock of nature, and is become a bankrupt...",
+            "We see what a sad condition sin has brought men into; it has stripped them of their estates and possessions; it has reduced them to want and beggary; it exposes them to a prison...",
+            "This expresses the state of bondage, sin, as a debt, brings men into; they become slaves to their own lusts, vassals of Satan, and in bondage to the law; and also the ruin and destruction it exposes them to; as, the curse and condemnation of the law, the wrath of God, eternal death..."
+        ],
+        "John Wesley": [
+            "As he had not to pay, his lord commanded him to be sold.\" ",
+            "Such was the power which creditors anciently had over their insolvent debtors in several countries."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we are presented with a vivid image of the severe consequences of debt. The selling into bondage, an act commonly seen under Oriental despotism and allowed by the Mosaic law, is a harsh reality faced by the debtor. This emphasizes the seriousness and the weight of the debt owed. The mention of selling the debtor's wife and children highlights the distressing nature of the situation, as they were considered property in those times. The parable serves as a warning, emphasizing the need for prayer and seeking forgiveness, as every sinner is insolvent and in need of grace.",
+            "wordCount": 101,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5876554027645222,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                25.88,
+                34.01,
+                40.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this depiction of the consequences of debt, we see the harshness of Oriental despotism and the practice of selling debtors and their families into bondage. The debtor's inability to pay highlights their insolvency, stripping them of their possessions and subjecting them to prison. This serves as a reminder of the severity of sin and the need for prayer and forgiveness. The parable urges us to seek refuge in prayer, recognizing our desperate need for grace in the face of insurmountable debt.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.5577908686058533,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                21.78,
+                32.29,
+                45.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This parable portrays the consequences faced by a debtor in the midst of Oriental despotism, where selling debtors and their families into slavery was permitted. The debtor's inability to pay signifies his insolvent state, leading to the loss of his possessions and imprisonment. It serves as a stark reminder of the severity of sin and the need for prayer and forgiveness. This story emphasizes the necessity of seeking refuge in prayer when faced with insurmountable debt and relying on God's undeserved goodness and mercy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.624828271120255,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+            "commentatorTierSimilarities": [
+                25.02,
+                29.75,
+                45.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This parable illustrates the consequences of debt and the severity of Oriental despotism. The debtor's inability to pay exposes his insolvency, resulting in the sale of himself, his wife, and his children. This underscores the dire circumstances brought about by sin and the necessity of seeking refuge through prayer and forgiveness. It serves as a reminder of the wider implications of debt, including the loss of possessions and the bondage of self to one's own vices. Ultimately, it urges us to acknowledge our bankrupt state and turn to God for deliverance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.5140327763285368,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                21.01,
+                28.9,
+                50.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This parable depicts the harsh consequences of debt under Oriental despotism. The debtor's inability to pay leads to the sale of himself, his wife, and his children. It serves as a vivid reminder of the dire circumstances brought about by sin and the urgent need for prayer and forgiveness. This story highlights the devastating impact of debt, including the loss of possessions and the bondage to one's own vices. It ultimately emphasizes the importance of seeking God's mercy and deliverance in the face of insurmountable debt.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.5290329390875717,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                23.59,
+                31.05,
+                45.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

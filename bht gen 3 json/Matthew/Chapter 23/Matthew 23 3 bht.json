@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:51:36",
+    "verseRef": "Matthew 23:3",
+    "bestBHT": {
+        "bht": "The religious teachers seated on Moses' authority, while able to command adherence to the Law of Moses, do not align their teachings with their actions. Though their interpretations of the law are generally correct, their lives defy their teachings. Nevertheless, Jesus does not intend to defend or endorse their traditions. Instead, he reminds the people to obey God's law rather than emulate the flawed behavior of these teachers. Thus, it is crucial to recognize their authority but refrain from imitating their hypocritical practices.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.017310554408189,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+        "commentatorTierSimilarities": [
+            36.51,
+            32.4,
+            31.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because they sit on Moses' seat: and this clears the meaning, and shews it to be, 'all things which they, as successors of Moses, out of his law, command you, do;'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He would have them to recognize the authority with which they taught over and above the obligations of the law itself\u2014an important principle truly.",
+            "He who denounced the traditions of such teachers cannot have meant here to throw His shield over these.",
+            "The charge to respect and obey them being reported by Matthew alone, indicating for whom this Gospel was especially written, and the writer's desire to conciliate the Jews."
+        ],
+        "Albert Barnes": [
+            "All, therefore, whatsoever they teach that is consistent with the Law of Moses... the commands of Moses which they read to you and properly explain.",
+            "They say, and do not - The interpretation which they give to the law is in the main correct, but their lives do not correspond with their teaching.",
+            "It is not the duty of people to imitate their teachers unless their lives are pure; they are to obey the law of God, and not to frame their lives by the example of evil people."
+        ],
+        "Philip Schaff": [
+            "Men's official utterances are often vastly superior to their lives.",
+            "There is always a tendency to Pharisaism in public, especially hierarchical teachers.",
+            "The extremes of slavish subjection and of revolution, in both church and state, are here forbidden."
+        ],
+        "Archibald T. Robertson": [
+            "As teachers they have their place, but beware of following their example\" (Bruce).",
+            "Do not practice their practices. They are only preachers.",
+            "They are only teachers (or preachers) and do not practice what they teach as God sees it."
+        ],
+        "John Gill": [
+            "Conform to their instructions, but do not imitate their practices.",
+            "They talk of good works, but do none; they bid others do them, but do not practise them themselves.",
+            "Good doctrine is not the worse for being taught by bad men; nor are good works to be slighted and neglected, because they are not done by all that teach them."
+        ],
+        "John Wesley": [
+            "All things therefore \u2014 Which they read out of the law, and enforce therefrom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The commentators explain that in Matthew 23:3, Jesus is instructing the people to respect the authority of the religious teachers who sit on Moses' seat. They clarify that this means the teachers have the authority to command the people to follow the law of Moses. However, Jesus also warns the people not to imitate the practices of these teachers, as their lives do not align with their teachings. The commentators emphasize the importance of obeying the law of God rather than following the example of hypocritical individuals. Overall, the first-tier commentary highlights the significance of recognizing the authority of the teachers while being cautious not to adopt their negative practices.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.991771521061716,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                41.94,
+                32.27,
+                25.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus urges the people to respect the authority of the religious teachers who occupy Moses' seat. Despite their role as successors of Moses, Jesus does not endorse their traditions and practices. The charge to obey and respect them appears exclusively in Matthew's Gospel, likely to appeal to the Jewish audience. While the teachers have their place as conveyors of God's law, Jesus warns against imitating their actions. It is crucial to separate their teachings from their flawed lifestyles and prioritize obedience to God's law over following hypocritical examples.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.968055258171035,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "commentatorTierSimilarities": [
+                42.67,
+                31.0,
+                26.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious teachers seated on Moses' authority, while able to command adherence to the Law of Moses, do not align their teachings with their actions. Though their interpretations of the law are generally correct, their lives defy their teachings. Nevertheless, Jesus does not intend to defend or endorse their traditions. Instead, he reminds the people to obey God's law rather than emulate the flawed behavior of these teachers. Thus, it is crucial to recognize their authority but refrain from imitating their hypocritical practices.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.017310554408189,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                36.51,
+                32.4,
+                31.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus cautions the people to respect the authority held by the religious teachers who sit on Moses' seat, conveying commands in line with the law. However, it is clear that Jesus does not support their traditions and practices. Though they may teach sound doctrine, their actions do not uphold what they preach. Jesus advises against following their flawed example, emphasizing the importance of adhering to God's law and not neglecting good works due to the shortcomings of those who teach them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.948971843401441,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+            "commentatorTierSimilarities": [
+                39.26,
+                29.95,
+                30.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus instructs the people to recognize the authority of the religious teachers who sit on Moses' seat, as they command in accordance with the law. However, he does not condone their traditions or actions. These teachers may speak the right interpretation of the law but fail to practice what they preach. Jesus warns against emulating their behavior, emphasizing the distinction between their teachings and their flawed lives. It is vital to obey God's law while being cautious not to follow the example of these hypocritical teachers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.004458238691381,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+            "commentatorTierSimilarities": [
+                37.17,
+                33.19,
+                29.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

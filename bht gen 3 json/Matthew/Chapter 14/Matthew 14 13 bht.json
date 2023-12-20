@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:48:09",
+    "verseRef": "Matthew 14:13",
+    "bestBHT": {
+        "bht": "After the death of John the Baptist, Jesus retreated to a remote place for solitude, rest, and to avoid Herod's suspicion. This withdrawal was also a chance for Jesus to strengthen his disciples and prepare them for future trials and persecutions. Despite his intentions, a large crowd sought Jesus, indicating the widespread fame of his ministry. The disciples' dedication is evident in their unwavering attendance to Jesus. This retreat served multiple purposes: to avoid Herod, address the needs of the multitude, and have a private conversation with his disciples.",
+        "wordCount": 90,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 1.6082989549041269,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.82,
+        "commentatorTierSimilarities": [
+            22.94,
+            36.88,
+            40.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The death of the Baptist is evidently retrospectively and parenthetically inserted.",
+            "But this may well have been so: for (1) the disciples of John would be some days in bringing the news from Mach\u00e6rus to Capernaum, and the report mentioned in ver. 1 might reach Herod meantime.",
+            "His retirement was connected also with the return of the Twelve from their mission."
+        ],
+        "Marvin Vincent": [
+            "On foot [\u03c0\u03b5\u03b6\u03b7] . Rev., by land in margin, which is better; for the contrast is between Jesus ' journey by ship and that of the multitude by land."
+        ],
+        "John Calvin": [
+            "Minds which were still feeble might have been terrified by the death of John, learning from the melancholy end of that eminent prophet what condition awaited them all.",
+            "The words, they came together to him, I look upon as meaning that ever afterwards they were his constant attendants.",
+            "The vast crowd that had assembled shows how widely his fame was spread in every direction: and this left the Jews without excuse in depriving themselves, by their own carelessness, of the salvation which was offered to them."
+        ],
+        "Philip Schaff": [
+            "This gathering of multitudes would make Herod more suspicious.",
+            "Not a 'desert' in the modern sense, but a thinly inhabited district.",
+            "Our Lord would avoid Herod as well as seek rest for His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "In a boat (\u03b5\u03bd \u03c0\u03bb\u03bf\u03b9\u03c9) \"on foot\" (\u03c0\u03b5\u03b6\u03b7, some MSS. \u03c0\u03b5\u03b6\u03c9). Contrast between the lake and the land route. "
+        ],
+        "John Gill": [
+            "Which may teach us, that it is lawful to shun dangers, when there is an opportunity; which may be done, without betraying truth, or sacrificing a good conscience.\" ",
+            "Christ thought it necessary to retire, partly for his own safety, and partly for their ease; and that he might have an opportunity of fortifying their minds against all trials and persecutions they were to meet with.",
+            "This showed their great affection and zeal for Christ, and their diligence in attending on him."
+        ],
+        "John Wesley": [
+            "Jesus withdrew into a desert place - to avoid Herod.",
+            "Jesus withdrew into a desert place - because of the multitude pressing upon him.",
+            "Jesus withdrew into a desert place - to talk with his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After hearing about the death of John the Baptist, Jesus sought solitude and rest for himself and his disciples, as well as to avoid any potential danger or suspicion from Herod. The news of John's death could have unsettled the minds of Jesus' followers, making it important for Jesus to fortify them against future trials and persecutions. Despite his retreat, a vast crowd still sought Jesus, demonstrating the widespread fame and appeal of his ministry. The disciples' commitment to Jesus is evident in their diligent attendance to him, even in this remote desert location. Jesus' withdrawal into the desert served multiple purposes: to avoid Herod, to address the needs of the multitude, and to have a private conversation with his disciples. This passage shows the balance between seeking rest and safety, while also fulfilling the needs and expectations of those who sought Jesus.",
+            "wordCount": 144,
+            "quoteTokenProportion": 37.36,
+            "qualityScore": 1.658150360724719,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                24.45,
+                34.26,
+                41.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the death of John the Baptist, Jesus retreated to a remote place for solitude, rest, and to avoid Herod's suspicion. This withdrawal was also a chance for Jesus to strengthen his disciples and prepare them for future trials and persecutions. Despite his intentions, a large crowd sought Jesus, indicating the widespread fame of his ministry. The disciples' dedication is evident in their unwavering attendance to Jesus. This retreat served multiple purposes: to avoid Herod, address the needs of the multitude, and have a private conversation with his disciples.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6082989549041269,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.82,
+            "commentatorTierSimilarities": [
+                22.94,
+                36.88,
+                40.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Following the death of John the Baptist, Jesus sought solitude and rest, avoiding Herod's potential danger. This retreat allowed Jesus to fortify his disciples against forthcoming trials and persecutions. Despite his intentions, a vast crowd sought Jesus, indicating his widespread fame. The disciples' dedication was evident in their diligent attendance. This withdrawal served multiple purposes: avoiding Herod, tending to the multitude, and having a private conversation with his disciples. It highlights the importance of seeking rest and safety while fulfilling the needs and expectations of those who seek Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.510866994302706,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                22.88,
+                35.84,
+                41.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the death of John the Baptist, Jesus took refuge in a remote place to find solitude and rest, keeping away from Herod's suspicion. This withdrawal provided an opportunity for Jesus to strengthen his disciples in preparation for future trials. Despite his intentions, a large crowd sought Jesus, reflecting the wide recognition of his ministry. The disciples' unwavering commitment to Jesus was evident through their continuous attendance. This retreat served multiple purposes - avoiding Herod, addressing the multitude's needs, and engaging in private conversations with the disciples.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 1.5415978907635224,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.6,
+            "commentatorTierSimilarities": [
+                24.19,
+                34.18,
+                41.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After John the Baptist's death, Jesus sought refuge in a distant place, desiring solitude and rest while also avoiding any potential danger from Herod. This retreat allowed Jesus to prepare his disciples for the coming challenges and persecutions. However, the news of Jesus' presence spread widely, and a large crowd followed him to the remote location, showcasing the popularity of his ministry. Despite his need for rest, Jesus willingly engaged with the multitude, tending to their needs and seizing the opportunity to communicate privately with his disciples.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.5629342618591036,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                26.72,
+                31.92,
+                41.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

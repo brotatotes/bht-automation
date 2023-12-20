@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:55:09",
+    "verseRef": "Matthew 28:19",
+    "bestBHT": {
+        "bht": "The purpose of the Son, glorified by the Father through the Spirit, is to bring all nations into the knowledge of the truth and establish His Church. Baptism symbolizes the contract between Christ and His Church, while making disciples involves both evangelism and instruction. Baptizing in the name of the Trinity signifies a spiritual union, while the disciples were commissioned to go to all nations, joyfully anticipating the second coming of Christ. Teaching and baptizing are integral to the program of disciple-making, as baptism precedes instruction in certain circumstances.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.3166976992065313,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+        "commentatorTierSimilarities": [
+            36.55,
+            30.16,
+            33.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is the glorification of the Son by the Father through the Spirit, which is the foundation of the Church of Christ in all the world.",
+            "The purpose of the Lord is to bring men to the knowledge of the truth\u2014to work on and in their hearts, and lift them up to be partakers of the Divine Nature.",
+            "Baptism is the contract of espousal between Christ and His Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Make disciples of all nations.",
+            "Teaching, in the more usual sense of that word, comes in afterwards.",
+            "Baptizing them in the name of the Father, and of the Son, and of the Holy Ghost."
+        ],
+        "Albert Barnes": [
+            "Though you are weak, yet I am strong! Though you will encounter many troubles and dangers, yet I can defend you! Though you die, yet I live, and the work shall be accomplished!",
+            "This gracious commission was the foundation of their authority to go to the Gentiles. Jesus broke down the partition wall, and commissioned his disciples to go everywhere, and bring the 'world' to the knowledge of himself.",
+            "The union of these three names in the form of baptism proves that the Son and Holy Spirit are equal with the Father. Nothing would be more absurd or blasphemous than to unite the name of a creature - a man or an angel - with the name of the ever-living God in this solemn rite."
+        ],
+        "Marvin Vincent": [
+            "Baptizing into the name of the Holy Trinity implies a spiritual and mystical union with him.",
+            "To be baptized upon the name is to be baptized on the confession of that which the name implies: on the ground of the name.",
+            "When one is baptized into the name of the Trinity, he professes to acknowledge and appropriate God in all that he is and in all that he does for man."
+        ],
+        "John Calvin": [
+            "The Pope of Rome and his band proudly boast of their succession, as if they held this rank in common with Peter and his companions; and yet they pay no more regard to doctrine than was paid by the Luperci, or the priests of Bacchus and Venus.",
+            "The priesthood of the New Testament consists in slaying men, as a sacrifice to God, by the spiritual sword of the word. Hence it follows, that all are but pretended and spurious priests who are not devoted to the office of teaching.",
+            "There are good reasons why the Father, the Son, and the Holy Spirit, are expressly mentioned; for there is no other way in which the efficacy of baptism can be experienced than when we begin with the unmerited mercy of the Father, who reconciles us to himself by the only begotten Son; next, Christ comes forward with the sacrifice of his death; and at length, the Holy Spirit is likewise added, by whom he washes and regenerates us, and, in short, makes us partakers of his benefits."
+        ],
+        "Philip Schaff": [
+            "Because Christ rules, go, not to conquer men by force, but to work on their hearts make them disciples, docile pupils in the school of Christ.",
+            "The 'discipling' consists of two parts: baptism, the rite of admission, and the subsequent instruction. This is the ordinary process in the Christian Church.",
+            "It is impossible that this means, the one name of God, of a mere man, and of an attribute of God. It is the one name of One God, existing (as well as manifested), as Father, Son, and Holy Ghost."
+        ],
+        "Archibald T. Robertson": [
+            "Here is the world program of the Risen Christ and it should not be forgotten by those who seek to foreshorten it all by saying that Jesus expected his second coming to be very soon.",
+            "Meanwhile we are to be ready for his coming at any time and to look for it joyfully.",
+            "This program includes making disciples or learners (\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03c5\u03c3\u03b1\u03c4\u03b5) such as they were themselves. That means evangelism in the fullest sense and not merely revival meetings."
+        ],
+        "John Gill": [
+            "Go ye therefore,.... Into all the world; some into one place, and some into another; since his power and authority, and so now the commission he gave them, reached every where: before it was confined to Judea, but now it is extended to all the nations of the world.",
+            "make them disciples by teaching them; or, as the Persic version, by way of explanation, adds, 'bring them to my religion and faith': not that they were able to do this of themselves, but they were to teach men externally, or outwardly minister the word, whilst the Spirit of God internally applied it, and taught, and made men true disciples of Christ.",
+            "This is the first, and indeed the only, place in which the Trinity of persons is expressed in this order, and in the selfsame words."
+        ],
+        "John Wesley": [
+            "Disciple all nations \u2014 Make them my disciples. This includes the whole design of Christ's commission.\" ",
+            "Baptizing and teaching are the two great branches of that general design.\" ",
+            "And these were to be determined by the circumstances of things; which made it necessary in baptizing adult Jews or heathens, to teach them before they were baptized; in discipling their children, to baptize them before they were taught."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals the glorious purpose of the Son, empowered by the Father through the Spirit, to establish His Church in all nations. Baptism represents the covenant between Christ and His Church, while making disciples involves not only revival meetings but evangelism in its fullest sense. The significance of baptizing in the name of the Father, Son, and Holy Spirit addresses the equal divinity of the Trinity. It is crucial to recognize that the disciple-making process includes both baptism and subsequent instruction, and its completion relies on God's unmerited mercy, Christ's sacrifice, and the regenerating work of the Holy Spirit. Thus, the disciples were commanded to go to all nations, confidently spreading the Gospel, while always being prepared for the coming of Christ.",
+            "wordCount": 126,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 2.237837447024006,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                34.51,
+                31.68,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of the Son, glorified by the Father through the Spirit, is to bring all nations into the knowledge of the truth and establish His Church. Baptism symbolizes the contract between Christ and His Church, while making disciples involves both evangelism and instruction. Baptizing in the name of the Trinity signifies a spiritual union, while the disciples were commissioned to go to all nations, joyfully anticipating the second coming of Christ. Teaching and baptizing are integral to the program of disciple-making, as baptism precedes instruction in certain circumstances.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.3166976992065313,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+            "commentatorTierSimilarities": [
+                36.55,
+                30.16,
+                33.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of the Son is to bring men to the knowledge of the truth, lifting them up to partake in the Divine Nature. Baptism represents the espousal between Christ and His Church. Making disciples involves evangelism in its fullest sense, not just revival meetings. Baptizing in the name of the Trinity implies a mystical union, acknowledging and appropriating all that God is. The command to go and make disciples extends to all nations, and requires both baptism and subsequent instruction as part of the disciple-making process.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.1508449959456315,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                37.58,
+                29.84,
+                32.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' commission to the disciples is rooted in the glorification of the Son by the Father through the Spirit, establishing the Church across the world. Baptism signifies the union between Christ and His Church, while disciple-making encompasses evangelism and teaching. Baptizing in the name of the Trinity signifies a spiritual and mystical connection. In faithfully carrying out this mission, the disciples were to make learners and followers, spreading the Gospel and nurturing new believers through baptism and subsequent instruction. This program extends beyond revival meetings, encompassing the entire world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.0673042301763243,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.08,
+            "commentatorTierSimilarities": [
+                37.89,
+                28.72,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' commission to the disciples is to make disciples of all nations, baptizing them in the name of the Father, Son, and Holy Spirit. This signifies a spiritual and mystical union with God and professes acknowledgement and appropriation of God in all His ways. The disciple-making process involves both baptism and subsequent instruction, encompassing evangelism and teaching. It is a worldwide program that speaks to the importance of readiness for Christ's coming and the joyful expectation of His return.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.102255323491314,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                36.91,
+                29.95,
+                33.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

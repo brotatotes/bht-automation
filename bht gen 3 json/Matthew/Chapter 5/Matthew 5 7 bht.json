@@ -1,0 +1,103 @@
+{
+    "timestamp": "12-19-2023 23:43:24",
+    "verseRef": "Matthew 5:7",
+    "bestBHT": {
+        "bht": "Happy are those who show mercy not only through acts of charity, but also through kind words and tears. By showing mercy, we imitate God and demonstrate our likeness to Him. As we bear the injustices of the world and address the needs of others, we exude a merciful character that is both evidence and measure of God's mercy. Although the world may be ungrateful, we can find comfort in the grace that is stored up with God for the merciful. Let us remember that whatever mercy we desire from God, let us show the same to others.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.03,
+        "qualityScore": 2.5537279585333925,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.25,
+        "commentatorTierSimilarities": [
+            25.44,
+            41.43,
+            33.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may show mercy, not by alms only, but by words: and if we have no other way, by tears.",
+            "Manifold is the form of mercy, and wide is this command: They shall obtain mercy, here, from men; and there, from God.",
+            "This beatitude comprises every degree of sympathy and mutual love and help."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With the merciful Thou wilt show Thyself merciful.",
+            "The Christian stands in a middle point, between a mercy received and a mercy yet needed.",
+            "The foretastes and beginnings of this judicial recompense are richly experienced here below: its perfection is reserved for that day."
+        ],
+        "Albert Barnes": [
+            "Nowhere do we imitate God more than in showing mercy.",
+            "In nothing does God delight more than in the exercise of mercy.",
+            "If we, then, show mercy to the poor, the wretched, the guilty, it shows that we are like God."
+        ],
+        "Marvin Vincent": [
+            "The merciful. See on Luke 1:50."
+        ],
+        "John Calvin": [
+            "Happy are the merciful...those are happy, who are not only prepared to endure their own afflictions, but to take a share in the afflictions of others, \u2014 who assist the wretched, \u2014 who willingly take part with those who are in distress, \u2014 who clothe themselves, as it were, with the same affections, that they may be more readily disposed to render them assistance.",
+            "...for they shall obtain mercy, \u2014 not only with God, but also among men, whose minds God will dispose to the exercise of humanity.",
+            "Though the whole world may sometimes be ungrateful, and may return the very worst reward to those who have done acts of kindness to them, it ought to be reckoned enough, that grace is laid up with God for the merciful and humane, so that they, in their turn, will find him to be gracious and merciful."
+        ],
+        "Philip Schaff": [
+            "The meek bear the injustice of the world, the merciful bravely address themselves to the wants of the world.",
+            "The spring of this grace is in God's mercy, although it is ever rewarded with new mercy.",
+            "The merciful character is both the evidence and the measure of God's mercy."
+        ],
+        "Archibald T. Robertson": [
+            "Obtain mercy (\u03b5\u03bb\u03b5\u03b7\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1) \"Sal win pitie theirsels\" (Braid Scots). \"A self-acting law of the moral world\" (Bruce). "
+        ],
+        "John Gill": [
+            "To show mercy is very delightful to, and desirable by God; it is what he requires, and is one of the weightier matters of the law; it is very ornamental to a child of God, and what makes him more like to his heavenly Father.",
+            "Men are said to obtain this, when they are regenerated, and called by grace; and when they have a discovery, and an application, of the forgiveness of their sins.",
+            "Merciful persons may expect to find and obtain, at the throne of grace, supplies of grace and mercy to help them in time of need."
+        ],
+        "John Wesley": [
+            "The merciful - The tender-hearted: they who love all men as themselves: They shall obtain mercy.",
+            "Whatever mercy therefore we desire from God, the same let us show to our brethren.",
+            "He will repay us a thousand fold, the love we bear to any for his sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Happy are those who show mercy not only through acts of charity, but also through kind words and tears. By showing mercy, we imitate God and demonstrate our likeness to Him. As we bear the injustices of the world and address the needs of others, we exude a merciful character that is both evidence and measure of God's mercy. Although the world may be ungrateful, we can find comfort in the grace that is stored up with God for the merciful. By showing mercy, we not only obtain mercy from God but also from our fellow human beings. Therefore, let us remember that whatever mercy we desire from God, let us show the same to others, for He will repay us abundantly for the love we extend to others.",
+            "wordCount": 130,
+            "quoteTokenProportion": 49.35,
+            "qualityScore": 2.590135787972584,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.46,
+            "commentatorTierSimilarities": [
+                25.13,
+                41.03,
+                33.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Happy are those who show mercy not only through acts of charity, but also through kind words and tears. By showing mercy, we imitate God and demonstrate our likeness to Him. As we bear the injustices of the world and address the needs of others, we exude a merciful character that is both evidence and measure of God's mercy. Although the world may be ungrateful, we can find comfort in the grace that is stored up with God for the merciful. Let us remember that whatever mercy we desire from God, let us show the same to others.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 2.5537279585333925,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.25,
+            "commentatorTierSimilarities": [
+                25.44,
+                41.43,
+                33.14
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

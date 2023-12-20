@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:51:35",
+    "verseRef": "Matthew 23:1",
+    "bestBHT": {
+        "bht": "In what appears to be a conclusion and farewell to the temple and Jerusalem, Jesus spoke to both the multitude and his disciples. This address carries similarities to the Sermon on the Mount, serving as the solemn close of his public teachings. While publicly exposing the vices of the scribes, Jesus aimed to prevent the spread of their corruption without inciting envy against them. It was important to Jesus that the people did not abandon reverence for the Law due to the teachers' misconduct, but rather understood the need to differentiate between what should be observed and what shouldn't.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.5716615697024094,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+        "commentatorTierSimilarities": [
+            32.38,
+            31.39,
+            36.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can, I think, be no doubt that it was delivered, as our Evangelist here relates it, all at one time, and in these the last days of our Lord\u2019s ministry.",
+            "It bears many resemblances to the Sermon on the Mount, and may be regarded as the solemn close, as that was the opening, of the Lord\u2019s public teaching.",
+            "Conclusion, and mournful farewell to the temple and Jerusalem."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1. Then spake Jesus to the",
+            "\tmultitude\u2014to the multitudes, \"and to his disciples."
+        ],
+        "John Calvin": [
+            "The design of Christ was, that the people might not, in consequence of being offended at the vices of the scribes, throw away reverence for the Law.",
+            "But that no man might put a different interpretation on what he was about to say, he begins by stating, that whatever sort of men the teachers were it was altogether unreasonable, either that on account of their filth the word of God should receive any stain, or that on account of their wicked examples men should hold themselves at liberty to commit sin.",
+            "To inform us that he spoke publicly about their vices, not to raise envy against their persons, but to prevent the contagion from spreading more widely."
+        ],
+        "Philip Schaff": [
+            "To the multitudes, and to his disciples.\" ",
+            "His disciples were probably close about Him, the people gathering about them.\" ",
+            "Matthew 23:8-12 appear to be addressed especially to His disciples."
+        ],
+        "John Gill": [
+            "lest on the one hand, the people seeing the ignorance and errors of these men detected by Christ, should be tempted to conclude there was nothing in religion, and to neglect the word and worship of God",
+            "He directs them in what they should observe them, and in what not: that they were not altogether to be rejected, nor in everything to be attended to",
+            "at the same time, removes an objection against himself, proving that he was no enemy to Moses, and the law, rightly explained and practiced"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 23:1, it is clear that Jesus delivered this message in the last days of his ministry as a conclusion and farewell to the temple and Jerusalem. This address bears resemblance to the Sermon on the Mount and can be seen as the solemn close of Jesus' public teaching. He intentionally spoke publicly about the vices of the scribes, not to raise envy against them, but to prevent the contagion from spreading further. By addressing the multitudes and his disciples, Jesus ensures that the people don't abandon reverence for the Law due to the vices of the teachers. He acknowledges that while some aspects of their teachings should be observed, they should not be followed in everything. This verse clarifies that Jesus was not an enemy of Moses and the law, as long as it was rightly explained and practiced.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5688742833279217,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                31.55,
+                30.41,
+                38.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this solemn farewell address, Jesus spoke to both the multitude and his disciples, delivering a message similar to the Sermon on the Mount. By publicly exposing the vices of the scribes, Jesus aimed to prevent the spread of their corruption. He emphasized the importance of not abandoning reverence for the Law due to the teachers' misconduct. While some aspects of their teachings needed to be observed, Jesus advised against following them in everything. This shows that Jesus was not against Moses and the law when rightly explained and practiced.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.488699440458017,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                29.78,
+                33.1,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In what appears to be a conclusion and farewell to the temple and Jerusalem, Jesus spoke to both the multitude and his disciples. This address carries similarities to the Sermon on the Mount, serving as the solemn close of his public teachings. While publicly exposing the vices of the scribes, Jesus aimed to prevent the spread of their corruption without inciting envy against them. It was important to Jesus that the people did not abandon reverence for the Law due to the teachers' misconduct, but rather understood the need to differentiate between what should be observed and what shouldn't.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.5716615697024094,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+            "commentatorTierSimilarities": [
+                32.38,
+                31.39,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this final and mournful address to the multitude and his disciples, Jesus echoes the style and message of the Sermon on the Mount. By exposing the vices of the scribes, he aims to prevent the spread of corruption and misconceptions. Jesus emphasizes the importance of maintaining reverence for the Law, even in the face of the teachers' shortcomings. He encourages discernment, instructing his followers on what aspects of the scribes' teachings should be observed while cautioning against blindly following them in all matters.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5243345217058168,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.03,
+            "commentatorTierSimilarities": [
+                29.02,
+                36.24,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this solemn farewell address, Jesus spoke to both the multitude and his disciples, delivering a message similar to the Sermon on the Mount. By publicly exposing the vices of the scribes, Jesus aimed to prevent the spread of their corruption. He emphasized the importance of not abandoning reverence for the Law due to the teachers' misconduct. While some aspects of their teachings needed to be observed, Jesus advised against following them in everything. This shows that Jesus was not against Moses and the law when rightly explained and practiced.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.488699440458017,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                29.78,
+                33.1,
+                37.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

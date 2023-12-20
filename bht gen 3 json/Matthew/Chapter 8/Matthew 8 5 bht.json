@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:44:53",
+    "verseRef": "Matthew 8:5",
+    "bestBHT": {
+        "bht": "In this account, an uncertain Gentile centurion approaches Jesus, seeking help for his paralyzed servant. Interestingly, despite his Gentile background, the centurion is described as devout and deeply attached to the Jewish faith. The agreement between Matthew and Luke's accounts is strong, indicating that they are referring to the same event. This encounter emphasizes Jesus' willingness to extend his power and compassion not only to the Jews but also to the Gentiles, highlighting his mission to bring salvation to all.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4550832674225846,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.72,
+        "commentatorTierSimilarities": [
+            38.4,
+            21.77,
+            39.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he was a Gentile, see ver. 10, but one who was deeply attached to the Jews and their religions possibly, though this is uncertain",
+            "a of the gate he such term as 'devout,' 'fearing God,' is used of him, as commonly of these proselytes",
+            "possibly, though this is uncertain, a of the gate he"
+        ],
+        "Albert Barnes": [
+            "Capernaum - See the notes at Matthew 4:13.",
+            "A centurion was the commander of 100 men in the Roman armies.",
+            "This man was probably by birth a pagan."
+        ],
+        "John Calvin": [
+            "The only difference in the words is, that Matthew says that the centurion came to him, while Luke says that he sent some of the Jews to plead in his name. But there is no impropriety in Matthew saying, that the centurion did what was done in his name and at his request.\" ",
+            "There is such a perfect agreement between the two Evangelists in all the circumstances, that it is absurd to make two miracles instead of one.",
+            "One who belonged to the military profession, and who had crossed the sea with a band of soldiers, for the purpose of accustoming the Jews to endure the yoke of Roman tyranny, submits willingly, and yields obedience to the God of Israel."
+        ],
+        "Archibald T. Robertson": [
+            "Unto him (\u03b1\u03c5\u03c4\u03c9). Dative in spite of the genitive absolute \u03b5\u03b9\u03c3\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 as in verse Matthew 8:1, a not infrequent Greek idiom, especially in the koine. "
+        ],
+        "John Gill": [
+            "A band (it is said) made two centuries, each of which consisted of an hundred and twenty eight soldiers; for a doubled century made a band, whose governor was called an ordinary 'centurion'.\" ",
+            "Such an one was Cornelius, a centurion of a band, Acts 10:1.",
+            "The next instance of Christ's power and goodness is the servant of a Gentile; he came to do good both to Jews and Gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this particular verse, an uncertain but devout Gentile centurion approaches Jesus, seeking his help for his servant who is paralyzed and tormented. The fact that he was a Gentile makes his approach to Jesus even more remarkable. It is evident that the centurion had a deep attachment to the Jews and their religion, as he was referred to as devout and fearing God. It is worth noting that the agreement between Matthew and Luke's accounts is so strong that it would be absurd to consider them as separate miracles. This event highlights the power and goodness of Jesus, for he came not only to help the Jews but also the Gentiles.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.5047232330077596,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                37.61,
+                22.82,
+                39.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, a Gentile centurion, described as devout and possibly attached to the Jews, approaches Jesus seeking help for his paralyzed servant. The remarkable aspect is the centurion's deep commitment to the Jewish religion. Although there are slight differences in the details provided by Matthew and Luke, the agreement between the two accounts is strong, consolidating the view that both authors are referring to the same event. This episode serves as a powerful reminder of Jesus's willingness to help both Jews and Gentiles alike.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.3467613052554142,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                34.62,
+                22.6,
+                42.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, an uncertain yet devout Gentile centurion approaches Jesus, seeking help for his paralyzed servant. The centurion's deep attachment to the Jewish faith is seen, as he is described as devout and fearing God. Though there are slight variations in the details mentioned by Matthew and Luke, the agreement between the two accounts is evident, indicating that they are referring to the same event. This interaction underscores Jesus' power and compassion, extending his help not only to the Jews but also to the Gentiles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4436230014808307,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "commentatorTierSimilarities": [
+                41.75,
+                20.85,
+                37.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, an uncertain Gentile centurion approaches Jesus, seeking help for his paralyzed servant. Interestingly, despite his Gentile background, the centurion is described as devout and deeply attached to the Jewish faith. The agreement between Matthew and Luke's accounts is strong, indicating that they are referring to the same event. This encounter emphasizes Jesus' willingness to extend his power and compassion not only to the Jews but also to the Gentiles, highlighting his mission to bring salvation to all.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4550832674225846,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.72,
+            "commentatorTierSimilarities": [
+                38.4,
+                21.77,
+                39.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A devout Gentile centurion, possibly with a deep attachment to the Jewish faith, approaches Jesus seeking help for his paralyzed servant. The agreement between Matthew and Luke's accounts is strong, suggesting that they recount the same event. This encounter showcases Jesus' remarkable power and compassion, as he extends his assistance not only to Jews but also to Gentiles. It serves as a powerful reminder of Jesus' mission to bring salvation and healing to all people, irrespective of their background or nationality.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.2594828867143373,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.22,
+            "commentatorTierSimilarities": [
+                35.73,
+                21.46,
+                42.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:44:19",
+    "verseRef": "Matthew 6:12",
+    "bestBHT": {
+        "bht": "Sin is pictured as a debt, describing our wrongs toward God and the need for satisfaction. When we pray for forgiveness, we should also forgive those indebted to us, signifying the weight of this request. The spirit of forgiveness that God instills in us serves as an assurance of His forgiveness. We must recognize that we are sinners in constant need of forgiveness, and our willingness to forgive others demonstrates our reliance on God's forgiveness. Our petition for forgiveness is grounded in God's promise to pardon those who show compassion to others.",
+        "wordCount": 94,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.4198273726474024,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.8,
+        "commentatorTierSimilarities": [
+            29.13,
+            37.15,
+            33.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sin is pictured as a debt, and the sinner as a debtor.",
+            "The word represents sin both as a wrong and as requiring satisfaction.",
+            "Christ assumes that he who prays for the remission of his own debts has already forgiven those indebted to him."
+        ],
+        "John Calvin": [
+            "We ought always, therefore, to begin with the forgiveness of sins: for the first hope of being heard by God beams upon us, when we obtain his favor; and there is no way in which he is ' pacified toward us,' but by freely pardoning our sins.",
+            "In Matthew, sins are called debts, because they expose us to condemnation at the tribunal of God, and make us debtors; nay more, they alienate us entirely from God, so that there is no hope of obtaining peace and favor except by pardon.",
+            "This condition is added, that no one may presume to approach God and ask forgiveness, who is not pure and free from all resentment."
+        ],
+        "Philip Schaff": [
+            "\u2018 Debts,\u2019 undoubtedly, moral obligations unfulfilled, i.e., sins.",
+            "The spirit of forgiveness, which God implants, gives a better assurance of His forgiveness.",
+            "We are sinners, always needing forgiveness; forgiveness and readiness to forgive cannot be separated, the latter being the evidence of the former."
+        ],
+        "Archibald T. Robertson": [
+            "But here it is used of moral and spiritual debts to God.",
+            "We are thus described as having wronged God.",
+            "We ask forgiveness 'in proportion as' (\u03c9\u03c2) we also have forgiven those in debt to us, a most solemn reflection."
+        ],
+        "John Gill": [
+            "These are called 'debts'; not because they are so in themselves, for then it would be right to do them; debts should be paid; they are not debts we owe to God, but are so called, because on account of them we owe satisfaction to the law and justice of God.",
+            "This petition supposes a sense, acknowledgment, and confession of sin, and of inability to make satisfaction for it; and that God only can forgive it, who does, for Christ's sake, and on account of his blood, sacrifice, and satisfaction.",
+            "Now this is mentioned, not as if our forgiving others is the cause of God's forgiving us, or the model of it, or as setting him an example, or as if his and our forgiving were to be compared together, since these will admit of no comparison; but this is an argument founded upon God's own promise and grace, to forgive such who have compassion on their fellow creatures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We often think of sin as a wrong and a debt to God, as we are described as having wronged Him. When we pray for the forgiveness of our own debts, we should also consider that we have already forgiven those indebted to us. This reflection is meant to be sobering, emphasizing the importance of our willingness to forgive others. Our sins are like unpaid moral obligations, and the spirit of forgiveness that God implants in us is evidence of His forgiveness towards us. It is crucial that we begin with seeking the forgiveness of our sins, for there is no hope of obtaining God's favor and peace except through His freely given pardon. This petition for forgiveness assumes our acknowledgment of sin and our inability to make satisfaction for it, recognizing that only God can forgive it, on account of Christ's sacrifice and satisfaction.",
+            "wordCount": 147,
+            "quoteTokenProportion": 43.68,
+            "qualityScore": 2.4026346515236883,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.23,
+            "commentatorTierSimilarities": [
+                29.32,
+                34.92,
+                35.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sin is portrayed as a debt, emphasizing that we have wronged God and owe Him satisfaction. When we ask for forgiveness, it is important to remember that we must also forgive those who have wronged us. This reflection serves as a solemn reminder of the need for forgiveness. God's forgiveness is intertwined with our readiness to forgive others, serving as evidence of His forgiveness towards us. The petition for forgiveness acknowledges our inability to make satisfaction for our sins and highlights our reliance on God's mercy and grace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.285697965178578,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.34,
+            "commentatorTierSimilarities": [
+                30.04,
+                36.37,
+                33.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sin is pictured as a debt, describing our wrongs toward God and the need for satisfaction. When we pray for forgiveness, we should also forgive those indebted to us, signifying the weight of this request. The spirit of forgiveness that God instills in us serves as an assurance of His forgiveness. We must recognize that we are sinners in constant need of forgiveness, and our willingness to forgive others demonstrates our reliance on God's forgiveness. Our petition for forgiveness is grounded in God's promise to pardon those who show compassion to others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.4198273726474024,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.8,
+            "commentatorTierSimilarities": [
+                29.13,
+                37.15,
+                33.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sin is likened to a debt that we owe to God, highlighting our wrongdoings. When we pray for forgiveness, it is vital to recognize that we must also forgive those who have wronged us. Our readiness to extend forgiveness is evidence of God's forgiveness towards us. This request for forgiveness implies our acknowledgment of sin and our inability to make amends. We rely on God's mercy and grace to receive His forgiveness, remembering His promise to forgive those who show compassion to others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.38676712412867,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.7,
+            "commentatorTierSimilarities": [
+                29.43,
+                36.71,
+                33.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sin is portrayed as a debt we owe to God, acknowledging that we have wronged Him. Seeking forgiveness requires that we also forgive others who are indebted to us, highlighting the seriousness of this petition. Our willingness to forgive is a reflection of God's forgiveness towards us. It is imperative to begin with the recognition that our sins require God's pardon, as we are unable to make amends on our own. This request is grounded in God's promise and grace, as He forgives those who show compassion to others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.290280416291893,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+            "commentatorTierSimilarities": [
+                29.89,
+                34.53,
+                35.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

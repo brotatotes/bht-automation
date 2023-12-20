@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:52:10",
+    "verseRef": "Matthew 24:2",
+    "bestBHT": {
+        "bht": "The destruction of the temple, as foretold by Jesus, stood as a striking prediction that emphasized his unchanging perspective towards the grandeur of the temple. The city and temple were entirely demolished, erasing any evidence of its former existence, leaving travelers incredulous. Despite Titus' intention to spare it, the prophecy was fulfilled, igniting vulnerability and weakness. However, this catastrophic event had an advantageous outcome, separating the Jews from worldly influences, enabling them to pursue genuine faith. This prophecy also foreshadowed the future downfall of Antichrist and those who follow, eliminating any hindrances to our faith.",
+        "wordCount": 95,
+        "quoteTokenProportion": 35.14,
+        "qualityScore": 1.5569611472903626,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+        "commentatorTierSimilarities": [
+            35.18,
+            29.1,
+            35.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Caesar gave orders to pull down the whole city and the temple.",
+            "All the area of the city was so leveled by the workmen.",
+            "A traveler would never believe that it had been inhabited."
+        ],
+        "Albert Barnes": [
+            "There shall not be left here one stone upon another.",
+            "After the city was taken, Josephus says that Titus 'gave orders that they should now 'demolish the whole city and temple,' except three towers, which he reserved standing.",
+            "The Jews themselves first set fire to the porticoes of the temple. One of the Roman soldiers, without any command, threw a burning firebrand into the golden window, and soon the temple was in flames."
+        ],
+        "John Calvin": [
+            "This prediction of the destruction of the temple, therefore, opened up a path for the ignorant and weak.",
+            "Now, though it was advantageous that the temple should be destroyed, lest its services and shadows might exercise an undue influence on the Jews, who were already too much attached to earthly elements...",
+            "...what it declares respecting the fearful destruction of Antichrist and his followers, ought to remove every obstacle which hinders us from pursuing the right course of faith."
+        ],
+        "Philip Schaff": [
+            "Verily I say unto you, etc. This prophecy was uttered in a time of profound peace, when the possibility of the destruction of such a magnificent work of art and sanctuary of religion seemed very unlikely.",
+            "\u2026but was literally fulfilled forty years afterwards...",
+            "...in express violation of the orders of Titus, who wished to save it."
+        ],
+        "Archibald T. Robertson": [
+            "A startling prediction showing that the gloomy current of the thoughts of Jesus were not changed by their words of admiration for the temple."
+        ],
+        "John Gill": [
+            "Verily, I say unto you, there shall not be left here one stone upon another, that shall not be thrown down.\" ",
+            "On the ninth of Ab, a day prepared for punishments, Turnus Rufus the wicked, 'ploughed up the temple', and all round about it, to fulfil what is said, 'Zion shall be ploughed as a field'.\" ",
+            "Yes, and to fulfil what Christ here says too, that not one stone should be left upon another, which a plough would not admit of."
+        ],
+        "John Wesley": [
+            "There shall not he left one stone upon another.\" ",
+            "When shall these things be? And what shall be the sign of thy coming, and of the end of the world?\" ",
+            "Our Lord answers distinctly concerning, 1. The destruction of the temple and city, with the signs preceding, verse4, etc., 15, etc. Matthew 24:4,152. His own coming, and the end of the world, with the signs thereof, verse29-31. Matthew 24:29-313. The time of the destruction of the temple, verse32, etc. Matthew 24:324. The time of the end of the world, verse36. Matthew 24:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The destruction of the temple in Matthew 24:2 was a startling prediction by Jesus, showing that his thoughts were not swayed by the temple's magnificence. The city and temple were completely leveled, to the point where a traveler would never believe it had been inhabited. The fulfillment of this prophecy forty years later, in direct violation of Titus' orders to save it, opened a path for ignorance and weakness. However, this destruction served an advantageous purpose, preventing an attachment to earthly elements and allowing for the pursuit of true faith. Just as not one stone was left upon another, this prediction foreshadows the future destruction of Antichrist and his followers, which should remove any obstacles in our path of faith.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.6365973742958535,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                33.99,
+                29.08,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple's complete destruction, as predicted in Matthew 24:2, demonstrated Jesus' unwavering conviction despite the admiration for it. The city was leveled, rendering it unrecognizable and incredulous to travelers. The fulfillment of this prophecy, against Titus' desire to preserve it, provided an opportunity for ignorance and weakness. Nevertheless, this calamity had a beneficial outcome by detaching the Jews from earthly elements, enabling them to pursue true faith. It serves as a cautionary tale, foreshadowing the future destruction of Antichrist and his followers, thereby eliminating any obstructions in our path of faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.4575627205581057,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                36.01,
+                29.86,
+                34.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple's destruction in Matthew 24:2 was an astonishing prophecy by Jesus, revealing his unwavering perspective despite the admiration for the temple. The city and temple were completely leveled, leading travelers to question its previous habitation. The fulfillment of this prediction, ignoring Titus' orders, exposed vulnerabilities. However, the destruction served to detach the Jews from earthly influences and facilitate the pursuit of genuine faith. This prophecy also foreshadowed the future downfall of Antichrist and followers, allowing us to overcome obstacles in our faith journey.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.4559729697160417,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                38.56,
+                28.55,
+                32.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple's destruction, as prophesied in Matthew 24:2, showcased Jesus' unwavering mindset despite the temple's splendor. The city and temple were completely leveled, leaving travelers unable to fathom its former inhabitance. This prophecy, fulfilled against Titus' wishes, exposed weaknesses and served to detach the Jews from earthly influences, enabling them to pursue authentic faith. It also functioned as a foretelling of the future downfall of Antichrist and his followers, removing obstacles on the path of faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.528020891296967,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                36.49,
+                28.24,
+                35.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The destruction of the temple, as foretold by Jesus, stood as a striking prediction that emphasized his unchanging perspective towards the grandeur of the temple. The city and temple were entirely demolished, erasing any evidence of its former existence, leaving travelers incredulous. Despite Titus' intention to spare it, the prophecy was fulfilled, igniting vulnerability and weakness. However, this catastrophic event had an advantageous outcome, separating the Jews from worldly influences, enabling them to pursue genuine faith. This prophecy also foreshadowed the future downfall of Antichrist and those who follow, eliminating any hindrances to our faith.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.5569611472903626,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                35.18,
+                29.1,
+                35.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

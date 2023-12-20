@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:52:45",
+    "verseRef": "Matthew 25:6",
+    "bestBHT": {
+        "bht": "At midnight, a cry is made, urging us to be ready for the unexpected arrival of the Bridegroom. This cry, a familiar custom, marks a great and decisive change, ending the time of sleeping and waiting. It signifies the imminent and dramatic coming of Christ, which is later than anticipated and like a thief in the night. It is a cry that resounds throughout heaven and earth, awakening not only those who are asleep but even the dead from their graves.",
+        "wordCount": 81,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.105538287424958,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+        "commentatorTierSimilarities": [
+            29.19,
+            34.74,
+            36.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This warning cry is before the coming.\" ",
+            "The exact rendering is present, graphically setting the reality before us.",
+            "There ariseth a cry."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The time when the Bridegroom will be least expected; for 'the day of the Lord so cometh as a thief in the night'.",
+            "Be ready to welcome Him."
+        ],
+        "Albert Barnes": [
+            "At midnight - Later than was the usual custom, and hence, they had fallen asleep.",
+            "A cry made - Of those who were coming with the bridegroom."
+        ],
+        "Marvin Vincent": [
+            "A great and decisive change was the result of the cry.",
+            "No more sleeping, waiting, or silence.",
+            "The translation can hardly convey the meaning of the Greek phrase, which implies a custom or familiar ceremony."
+        ],
+        "John Calvin": [
+            "With respect to the cry I view it as taken metaphorically for his sudden arrival; for we know, that when any thing new and unexpected happens, men are wont to make a loud noise.\" ",
+            "True, indeed, our Lord cries daily, that he will come quickly, but at that time, the whole frame of the world will resound with the cry.",
+            "His dreadful majesty will fill heaven and earth in such a manner, as not only to awaken those who are asleep, but to bring the dead out of their graves."
+        ],
+        "Philip Schaff": [
+            "At a late, dark season, the most unsuitable too for the foolish virgins to make good their lack.",
+            "A cry is made, Behold the bridegroom! This was usual.",
+            "For the individual, that cry may come at any time."
+        ],
+        "Archibald T. Robertson": [
+            "A cry has come. Dramatic use of the present perfect... It is not \u03b5\u03c3\u03c4\u03b9\u03bd, but \u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd which emphasizes the sudden outcry which has rent the air."
+        ],
+        "John Gill": [
+            "It also supposes, that his coming will be very nigh at hand; it was so represented long ago; it is greatly desired by the saints to be quickly; and it will be in a very short time after this notice.",
+            "And this will be at 'midnight': which expresses the state of the church a little before the coming of Christ: it will be a night season with it, a time of darkness both with respect to Gospel light, and the presence of God with his people.",
+            "so as the coming of Christ will be later than was first expected; it will be sudden, and at unawares, and like a thief in the night."
+        ],
+        "John Wesley": [
+            "At midnight \u2014 In an hour quite unthought of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At midnight, a cry is made, and it is a cry that warns us of the imminent arrival of the Bridegroom. It is a cry that shatters the silence and awakens all who hear it. This cry, though it may seem unexpected and unfamiliar, signifies a familiar ceremony, serving as a symbol of the great and decisive change that is to come. The cry is not just a metaphorical representation of the Bridegroom's sudden arrival, but a proclamation that reverberates through heaven and earth, awakening even the dead from their graves. It is a cry that reminds us to be ready, for the coming of Christ will be later than expected, sudden, and like a thief in the night, catching us unawares in the darkest hours of the Church's existence.",
+            "wordCount": 132,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.094327697411332,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                32.26,
+                33.39,
+                34.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At midnight, a cry is made, urging us to be ready for the unexpected arrival of the Bridegroom. This cry, a familiar custom, marks a great and decisive change, ending the time of sleeping and waiting. It signifies the imminent and dramatic coming of Christ, which is later than anticipated and like a thief in the night. It is a cry that resounds throughout heaven and earth, awakening not only those who are asleep but even the dead from their graves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.105538287424958,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+            "commentatorTierSimilarities": [
+                29.19,
+                34.74,
+                36.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At midnight, when least expected, a cry pierces the air, alerting us to the imminent arrival of the Bridegroom. This cry, though its significance may not be fully conveyed, marks a great and decisive change, shattering the silence and awakening all who hear it. It is a cry that signifies the suddenness and unexpectedness of Christ's coming, like a thief in the night. Its impact resounds, urging us to be prepared and ready to welcome Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9566027413044522,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                32.83,
+                32.45,
+                34.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At midnight, a cry arises, forewarning us of the impending arrival of the Bridegroom. This cry breaks through the darkness, signaling a significant and immediate change. It is a cry that reflects the suddenness and unpredictability of Christ's coming, much like a thief in the night. This cry carries great weight, resonating throughout heaven and earth, awakening even the dead from their graves. Its purpose is to call forth readiness and vigilance, reminding us to be prepared to receive Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8712565087748247,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                30.37,
+                34.29,
+                35.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At midnight, a cry is made, echoing the unexpected arrival of the Bridegroom. This cry, with its present and graphical rendering, signifies a decisive change. It is a cry that pierces the silence, leaving no more room for sleep or waiting. The Greek phrase used in the cry emphasizes its sudden and dramatic nature, rooted in familiar customs. With its metaphorical and literal implications, the cry highlights the imminence of Christ's coming, urging us to be prepared and ready to welcome Him at any moment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9571208967551859,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                37.3,
+                33.53,
+                29.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

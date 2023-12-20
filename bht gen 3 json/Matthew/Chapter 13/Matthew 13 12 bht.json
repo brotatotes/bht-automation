@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:39",
+    "verseRef": "Matthew 13:12",
+    "bestBHT": {
+        "bht": "The purpose of speaking in parables was to be revelations of the truth and mysteries of His Kingdom. Those who understand with their hearts will be rewarded with more understanding, while those without spiritual desire will lose even what they have. This principle is important and is observed in the growth of all living things. The disciples, with a thirst for knowledge, were given interpretations and their understanding grew, while those without desire did not hear the interpretations and drifted further away from Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.579114650990549,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.85,
+        "commentatorTierSimilarities": [
+            32.37,
+            39.02,
+            28.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By it, he who hath,\u2014he who not only hears with the ear, but understands with the heart, has more given to him; and it is for this main purpose undoubtedly that the Lord spoke parables: to be to His Church revelations of the truth and mysteries of His Kingdom.\" (Quote 1)",
+            "By them, he who hath not, in whom there is no spark of spiritual desire nor meetness to receive the engrafted word, has taken from him even that which he hath...even the poor confused notions of heavenly doctrine which a sensual and careless life allow him, are further bewildered and darkened by this simple teaching.\" (Quote 2)",
+            "No practical comment on the latter part of this saying can be more striking, than that which is furnished to our day by the study of the German rationalistic (and, I may add, some of our English harmonistic) Commentators.\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For whosoever hath\u2014that is, keeps; as a thing which he values. to him shall be given, and he shall have more abundance\u2014He will be rewarded by an increase of what he so much prizes.\" ",
+            "but whosoever hath not\u2014who lets this go or lie unused, as a thing on which he sets no value. from him shall be taken away even that he hath.\" ",
+            "This is a principle of immense importance, and, like other weighty sayings, appears to have been uttered by our Lord on more than one occasion, and in different connections."
+        ],
+        "John Calvin": [
+            "The multiplied favors which are continually flowing from him to us, and the joyful progress which we make, spring from God\u2019s contemplation of his own liberality, which prompts him to an uninterrupted course of bounty.",
+            "Whenever he advances us to a higher degree, let us remember that every increase of the favors which we daily receive from him flows from this source, that it is his purpose to complete the work of our salvation already commenced.",
+            "But there is nothing of real value about them; for their mind is destitute of piety, and has only the glitter of an empty show."
+        ],
+        "Philip Schaff": [
+            "For whosoever hath...from him shall be taken away that which he hath, points to a seeming or supposed knowledge.",
+            "This twofold result is not arbitrary, but a necessary development, akin to what we perceive in every form of growth.",
+            "To the disciples, with a desire for spiritual knowledge, an interpretation was given, and their knowledge grew through the outward and inward revelation; the people, without this desire, did not hear the interpretation, consequently they had less and less spiritual apprehension of the truth they possessed as Jews, since they got further away from Christ who alone fulfilled and explained that truth."
+        ],
+        "John Gill": [
+            "Whoever has the true grace of God implanted in him, has a saving knowledge of Christ, and a spiritual acquaintance with the doctrines of the Gospel, shall have more grace given him.",
+            "He shall be filled with all the fulness of God, and shall arrive to the measure of the stature of the fulness of Christ; and his light shall shine more and more unto the perfect day.",
+            "Everything besides true grace is a mere show, and has no solidity in it; as natural parts, human learning, and a form of knowledge and of truth in the law... all which may be here meant; and even speculative notions of the Gospel, the external gifts of the Spirit, the means of grace, the Gospel of the kingdom of God, and the ministry of it, which in process of time were wholly taken from these people."
+        ],
+        "John Wesley": [
+            "Whosoever hath \u2014 That is, improves what he hath, uses the grace given according to the design of the giver; to him shall be given - More and more, in proportion to that improvement.",
+            "But whosoever hath not \u2014 Improves it not, from him shall be taken even what he hath - Here is the grand rule of God's dealing with the children of men: a rule fixed as the pillars of heaven.",
+            "This is the key to all his providential dispensations; as will appear to men and angels in that day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of speaking in parables was to reveal the truth and mysteries of His Kingdom to those who hear with understanding. Those who value and keep what they have will be rewarded and given more, while those who do not have a desire for spiritual knowledge will have even what they had taken away. This principle is of great importance and is seen in the growth and development of every living thing. The disciples, with a thirst for knowledge, were given interpretations and their understanding grew, while those without desire did not hear the interpretations and drifted further away from Christ. Those who have the true grace of God will be filled with even more grace and their light will shine brighter. However, those who do not value or improve upon what they have will lose even what they had. This principle is key to God's dealings with mankind.",
+            "wordCount": 151,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.5058634778637643,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.41,
+            "commentatorTierSimilarities": [
+                31.28,
+                35.68,
+                33.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of speaking in parables was to reveal the truth and mysteries of His Kingdom to those who hear with understanding. Those who value and keep what they have will be rewarded and given more, while those who do not have a desire for spiritual knowledge will have even what they had taken away. This principle is of great importance and is seen in the growth and development of every living thing. The disciples, with a thirst for knowledge, were given interpretations and their understanding grew, while those without desire did not hear the interpretations and drifted further away from Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.68674597146329,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                31.06,
+                41.19,
+                27.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of speaking in parables was to reveal the truth and mysteries of His Kingdom to those who hear with understanding. Those who value and keep what they have will be rewarded and given more, while those who do not have a desire for spiritual knowledge will have even what they had taken away. This principle is of great importance and is seen in the growth and development of every living thing. The disciples, with a thirst for knowledge, were given interpretations and their understanding grew, while those without desire did not hear the interpretations and drifted further away from Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.68674597146329,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                31.06,
+                41.19,
+                27.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of parables is to reveal the truth of God's Kingdom to those who understand with their hearts. For those who value and keep what they have, they will be rewarded with even more. However, for those who lack spiritual desire, even what they have will be taken away. This principle is evident in the growth of living things, where those who seek knowledge experience increased understanding, while those who lack interest distance themselves from Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5500337983521986,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.88,
+            "commentatorTierSimilarities": [
+                33.32,
+                37.17,
+                29.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of speaking in parables was to be revelations of the truth and mysteries of His Kingdom. Those who understand with their hearts will be rewarded with more understanding, while those without spiritual desire will lose even what they have. This principle is important and is observed in the growth of all living things. The disciples, with a thirst for knowledge, were given interpretations and their understanding grew, while those without desire did not hear the interpretations and drifted further away from Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.579114650990549,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.85,
+            "commentatorTierSimilarities": [
+                32.37,
+                39.02,
+                28.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

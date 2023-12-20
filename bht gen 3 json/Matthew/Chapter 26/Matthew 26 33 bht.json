@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:32",
+    "verseRef": "Matthew 26:33",
+    "bestBHT": {
+        "bht": "In his self-assuredness and arrogance, Peter proclaimed that even if all the other disciples were to stumble, he alone would remain faithful. However, he failed to consider the prophecy of Jesus' resurrection and their promised reunion in Galilee. Peter's disregard for these warnings reflected his belief that he was superior to the others. Unbeknownst to him, this boastful declaration would soon be contradicted, as he would go on to deny Jesus three times. This incident highlights the importance of self-reflection and trusting in God's strength rather than our own.",
+        "wordCount": 93,
+        "quoteTokenProportion": 46.38,
+        "qualityScore": 1.4708388344417629,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+        "commentatorTierSimilarities": [
+            32.31,
+            34.2,
+            33.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nothing can bear a greater impress of exactitude than this reply.",
+            "Peter had been before warned.",
+            "Men do not bring themselves out so strongly, unless their fidelity has been previously attainted."
+        ],
+        "John Calvin": [
+            "Thus the event showed, that Peter promised more for himself than he was able to accomplish, because he had not been sufficiently careful to examine himself.",
+            "Believers ought, indeed, to be prepared for the contest in such a manner that, entertaining no doubt or uncertainty about the result and the victory, they may resist fear; for trembling and excessive anxiety are marks of distrust.",
+            "This middle course between two faulty extremes is very beautifully expressed by Paul when he enjoins us to work out our salvation with fear and trembling, because it is God that worketh in us to will and perform."
+        ],
+        "Philip Schaff": [
+            "Instead of laying hold of the comforting part of the promise, Peter reverts to the first part.\" ",
+            "The utterance of affection, yet of self-confidence and arrogance, since \u2018all\u2019 refers to the other disciples.",
+            "Hence he was allowed to fall lower than the rest. This reply differs from that given by Luke and John."
+        ],
+        "Archibald T. Robertson": [
+            "Peter ignored the prophecy of the resurrection of Jesus and the promised meeting in Galilee... He was intent on showing that he was superior to 'all' the rest.\" ",
+            "Judas had turned traitor and all were weak, Peter in particular, little as he knew it. So Jesus has to make it plainer by pointing out 'this night' as the time.",
+            "When one cock crows in the morning, others generally follow. The three denials lasted over an hour."
+        ],
+        "John Gill": [
+            "though all the men in the world, friends, and foes, though even all the rest of the disciples, who were his most intimate friends, most closely attached to him, and who dearly loved him, and sincerely believed in him, should be so stumbled at what should befall him, as to flee from him, and be tempted to relinquish his cause, and interest; yet nothing should ever cause him, in the least, to stumble and fall, to desert him, or hesitate about him...",
+            "...this he was positive of would be the case, not only that night, but ever after.",
+            "No doubt he said this in the sincerity of his heart, and out of his great fervour of affection for Christ; but what he failed in, was trusting to his own strength, being self-confident..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, in his self-confidence and arrogance, proclaimed that even if all the other disciples were to fall away, he would remain faithful. However, he failed to acknowledge the prophecy of Jesus' resurrection and the promised meeting in Galilee. Ignoring the warnings, Peter believed he was superior to the rest and was intent on proving his loyalty. Little did he know that he would soon deny Jesus three times. Jesus, aware of Peter's weakness, pointed out that the denials would occur that very night. Peter's response revealed his lack of self-examination and trust in his own strength. He failed to grasp the comforting part of the promise and instead focused on the boastful aspect, leaving himself vulnerable to a greater fall. This event serves as a reminder that believers should be prepared for spiritual battles with unwavering trust in God and a deep self-awareness.",
+            "wordCount": 148,
+            "quoteTokenProportion": 32.29,
+            "qualityScore": 1.5138265938876012,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                33.48,
+                33.01,
+                33.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his self-confidence and arrogance, Peter declared that even if all the other disciples were to stumble, he would remain faithful. However, he failed to heed the prophecy of Jesus' resurrection and the promised meeting in Galilee. Ignoring the warnings, Peter believed he was superior to the rest and sought to prove his loyalty. Little did he know that he would soon deny Jesus three times. Jesus, aware of Peter's weakness, indicated that the denials would occur that very night. Peter's response revealed his lack of self-examination and trust in his own strength. This event serves as a reminder that believers should approach spiritual battles with unwavering trust in God and a deep self-awareness.",
+            "wordCount": 119,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 1.4981359953855713,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+            "commentatorTierSimilarities": [
+                35.15,
+                31.76,
+                33.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his self-assuredness and arrogance, Peter proclaimed that even if all the other disciples were to stumble, he alone would remain faithful. However, he failed to consider the prophecy of Jesus' resurrection and their promised reunion in Galilee. Peter's disregard for these warnings reflected his belief that he was superior to the others. Unbeknownst to him, this boastful declaration would soon be contradicted, as he would go on to deny Jesus three times. This incident highlights the importance of self-reflection and trusting in God's strength rather than our own.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.4708388344417629,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                32.31,
+                34.2,
+                33.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his arrogance, Peter confidently declared his unwavering devotion, dismissive of the prophecies of Jesus' resurrection and their gathering in Galilee. Focused on proving his superiority to the other disciples, Peter overlooked the warnings and remained oblivious to his imminent denials of Jesus. This incident serves as a stark reminder for believers to approach challenges with self-examination and a reliance on God's strength, rather than their own self-assurance. By acknowledging our limitations and trusting in God, we can navigate trials with humility and steadfast faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.3549669993685431,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                31.05,
+                33.1,
+                35.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, driven by arrogance and self-confidence, boldly proclaimed his unwavering loyalty, dismissing the prophecies of Jesus' resurrection and their future meeting in Galilee. Neglecting the warnings, he believed himself superior to the other disciples. Little did he know that he would soon deny Jesus three times. This event underscores the importance of self-examination and caution in our faith. By trusting in God's strength and diligently assessing our own weaknesses, we can navigate trials with humility and unwavering devotion.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.235891287218559,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.44,
+            "commentatorTierSimilarities": [
+                32.51,
+                31.55,
+                35.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

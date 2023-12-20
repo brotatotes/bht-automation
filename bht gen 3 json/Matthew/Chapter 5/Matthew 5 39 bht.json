@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:44:08",
+    "verseRef": "Matthew 5:39",
+    "bestBHT": {
+        "bht": "Our blessed Redeemer, in his meek yet dignified bearing, exemplified the true meaning of not resisting evil. He protested when smitten on the cheek and denounced the Pharisees, showing that he did not take personal revenge into his own hands. The language used by Jesus should not be taken literally but rather as a way to startle and make us think. Jesus teaches us to resist evil by patiently bearing affronts and seeking satisfaction in alternative ways, overcoming evil with good.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.8781712609928722,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+        "commentatorTierSimilarities": [
+            33.83,
+            30.4,
+            35.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Taken slavishly and literally, neither did our Lord Himself conform to this precept... But truly, and in the spirit, our blessed Redeemer obeyed it.",
+            "He gave his back to the smiters, and his cheeks to them that plucked off the hair, and hid not his face from shame and spitting.",
+            "Only, the other possible meaning there, 'the evil One,' is precluded here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But I say unto you, That ye resist not evil; but whosoever shall smite thee on thy right check, turn to him the other also.\" ",
+            "Our Lord's own meek, yet dignified bearing, when smitten rudely on the cheek, and not literally presenting the other, is the best comment on these words.\" ",
+            "It is the preparedness, after one indignity, not to invite but to submit meekly to another, without retaliation, which this strong language is meant to convey."
+        ],
+        "John Calvin": [
+            "Though Christ does not permit his people to repel violence by violence, yet he does not forbid them to endeavor to avoid an unjust attack.",
+            "The best interpreter of this passage that we can have is Paul, who enjoins us rather to 'overcome evil by good' than contend with evil-doers.",
+            "Unquestionably, Christ did not intend to exhort his people to whet the malice of those, whose propensity to injure others is sufficiently strong: and if they were to turn to them the other cheek, what would it be but holding out such an encouragement?"
+        ],
+        "Philip Schaff": [
+            "To be merely passive, were weakness; but a non-resistance, from Christian principle and for a spiritual object, is true strength and real victory.",
+            "Christian love must make us bear twice as much as the world, in its injustice, could demand.",
+            "The literal observance may be Pharisaical, yet when rendered in the true spirit, has often most successfully overcome violence."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus protested when smitten on the cheek (John 18:22). And Jesus denounced the Pharisees (Matthew 5:23) and fought the devil always. The language of Jesus is bold and picturesque and is not to be pressed too literally.\" ",
+            "Paradoxes startle and make us think. We are expected to fill in the other side of the picture.",
+            "One thing certainly is meant by Jesus and that is that personal revenge is taken out of our hands, and that applies to 'lynch-law.'"
+        ],
+        "John Gill": [
+            "We must not render evil for evil, or repay him in the same way.",
+            "But patiently bear the affront, or seek for satisfaction in another way.",
+            "Turn to him the other also: which is to be understood comparatively, rather than seek revenge."
+        ],
+        "John Wesley": [
+            "If a man smite thee on the right cheek - Return not evil for evil: yea, turn to him the other.\" ",
+            "Rather than revenge thyself, where the damage is not great, choose rather to suffer it, though possibly it may on that account be repeated, than to demand an eye for an eye, to enter into a rigorous prosecution of the offender.\" ",
+            "Rather than return evil for evil, when the wrong is purely personal, submit to one bodily wrong after another, give up one part of your goods after another, submit to one instance of compulsion after another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our blessed Redeemer, in his meek yet dignified bearing, exemplified the true meaning of Matthew 5:39. While it may seem that he did not conform slavishly to this precept, his actions demonstrated the spirit of the command. Jesus protested when smitten on the cheek and denounced the Pharisees, showing that he did not take personal revenge into his own hands. The language used by Jesus in this verse should not be pressed too literally; rather, it is meant to startle and make us think. The paradoxical nature of these words challenges us to fill in the other side of the picture. Jesus teaches us to resist evil not by seeking vengeance, but by patiently bearing affronts and seeking satisfaction in alternative ways. Thus, personal revenge is taken out of our hands, and we are called to overcome evil with good.",
+            "wordCount": 139,
+            "quoteTokenProportion": 43.01,
+            "qualityScore": 1.6673663030115633,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                36.13,
+                29.72,
+                34.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our blessed Redeemer, in his meek yet dignified bearing, exemplified the true meaning of not resisting evil. He protested when smitten on the cheek and denounced the Pharisees, showing that he did not take personal revenge into his own hands. The language used by Jesus in this passage should not be taken literally but rather as a way to startle and make us think. Jesus teaches us to resist evil by patiently bearing affronts and seeking satisfaction in alternative ways, overcoming evil with good.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8712496204201416,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                34.33,
+                29.88,
+                35.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our blessed Redeemer, in his meek yet dignified bearing, exemplified the true meaning of not resisting evil. He protested when smitten on the cheek and denounced the Pharisees, showing that he did not take personal revenge into his own hands. The language used by Jesus should not be taken literally but rather as a way to startle and make us think. Jesus teaches us to resist evil by patiently bearing affronts and seeking satisfaction in alternative ways, overcoming evil with good.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8781712609928722,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                33.83,
+                30.4,
+                35.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our blessed Redeemer obeyed the precept of not resisting evil, not in a slavish and literal manner, but truly and in spirit. His meek yet dignified response when smitten on the cheek, not literally presenting the other, is the best commentary on his own words. The strong language used in this verse serves to convey the preparedness to submit meekly to another indignity without retaliation. Jesus teaches us to overcome evil, not by seeking personal revenge, but by patiently bearing affronts and seeking alternative satisfaction.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.846792769309248,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "commentatorTierSimilarities": [
+                35.52,
+                30.16,
+                34.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord, in his meek yet dignified response when smitten on the cheek, exemplified the essence of not resisting evil. Though not in a literal sense, he demonstrated the spirit of this command. Jesus protests against injustice and denounces wrongdoing, but his bold and picturesque language is not meant to be pressed too literally. Instead, it startles us and prompts us to think, filling in the other side of the picture. We are called to submit to one bodily wrong after another, overcoming evil with patient endurance rather than seeking revenge.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.660095529716419,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                34.38,
+                29.65,
+                35.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

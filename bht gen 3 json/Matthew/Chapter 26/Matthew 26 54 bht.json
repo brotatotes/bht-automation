@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:53:41",
+    "verseRef": "Matthew 26:54",
+    "bestBHT": {
+        "bht": "How then...shall the scriptures be fulfilled, that thus it must be, if thou in thy rashness usest the help of fleshly weapons? Jesus sees clearly his destiny now that he has won the victory in Gethsemane. According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah \u2018must\u2018 suffer: that suffering must be \u2018thus\u2018 brought about. Christ means he ought not to attempt any method of escaping his destined death, called by the Father.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.396123926367788,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.01,
+        "commentatorTierSimilarities": [
+            41.66,
+            32.36,
+            25.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How then...shall the scriptures be fulfilled, that thus it must be, if thou in thy rashness usest the help of fleshly weapons?\" "
+        ],
+        "John Calvin": [
+            "By this expression Christ means, that he ought not to attempt any method of escaping death, to which he knew that he was called by the Father.",
+            "Scripture is a sufficient bridle for subduing the rebellion of the flesh; because God points out to us what is his will for the very purpose of keeping us in subjection to his will.",
+            "Scripture trains us to patience and supplies us with all the comfort that we need in adversity."
+        ],
+        "Philip Schaff": [
+            "How then, if I should invoke this aid, which I might do, should the Scriptures be fulfilled? Our Lord shows His patience and submission; even while asserting His majesty.",
+            "That thus it must be. According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah \u2018must \u2018suffer: that suffering must be \u2018thus \u2018brought about.",
+            "Our Lord\u2019s death could not be incidental or accidental. He \u2018must \u2018suffer... This declaration also contained consolation for His terrified disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Must be (\u03b4\u03b5). Jesus sees clearly his destiny now that he has won the victory in Gethsemane. "
+        ],
+        "John Gill": [
+            "How then shall the Scriptures be fulfilled...that thus it must be?\" ",
+            "The Scriptures not only declared, that these things should be; but the necessity of them also, that they must be.\" ",
+            "Christ, in these words, discovers a very great concern for the fulfilling of Scripture; and that because it is the word of God, which must not be broken."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How then...shall the scriptures be fulfilled, that thus it must be, if thou in thy rashness usest the help of fleshly weapons? Jesus sees clearly his destiny now that he has won the victory in Gethsemane. Our Lord shows His patience and submission; even while asserting His majesty. According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah \u2018must\u2018 suffer: that suffering must be \u2018thus\u2018 brought about. Christ means that he ought not to attempt any method of escaping death, to which he knew that he was called by the Father. Scripture is a sufficient bridle for subduing the rebellion of the flesh; because God points out to us what is his will for the very purpose of keeping us in subjection to his will.",
+            "wordCount": 136,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.265979878440473,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.68,
+            "commentatorTierSimilarities": [
+                36.66,
+                34.61,
+                28.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How then...shall the scriptures be fulfilled, that thus it must be, if thou in thy rashness usest the help of fleshly weapons? Jesus sees clearly his destiny now that he has won the victory in Gethsemane. According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah \u2018must\u2018 suffer: that suffering must be \u2018thus\u2018 brought about. Christ means he ought not to attempt any method of escaping death called by the Father.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3884787993818457,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.76,
+            "commentatorTierSimilarities": [
+                41.74,
+                32.09,
+                26.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus recognizes that if He were to rely on worldly means to escape His fate, the scriptures would not be fulfilled, as it is destined for Him to suffer. His victory in Gethsemane has given Him the clear understanding of His divine purpose. The fulfillment of the scriptures is essential for the salvation of humanity, and the suffering that must be endured is part of God's plan. Thus, Jesus emphasizes the necessity of submitting to the Father's will and not seeking to avoid the path He has been called to.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.97385245037492,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                32.23,
+                35.07,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How then...shall the scriptures be fulfilled, that thus it must be, if thou in thy rashness usest the help of fleshly weapons? Jesus sees clearly his destiny now that he has won the victory in Gethsemane. According to the counsel of God, for the salvation of a sinful world, as declared in the Scriptures, the Messiah \u2018must\u2018 suffer: that suffering must be \u2018thus\u2018 brought about. Christ means he ought not to attempt any method of escaping his destined death, called by the Father.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.396123926367788,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.01,
+            "commentatorTierSimilarities": [
+                41.66,
+                32.36,
+                25.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus recognizes that if He were to rely on fleshly weapons in His moment of crisis, the scriptures would not be fulfilled as ordained. His victory in Gethsemane has unveiled the clarity of His destiny. It is God's divine plan, declared in the scriptures, that the Messiah must suffer for the redemption of a sinful world. Therefore, Jesus emphasizes the necessity of not trying to escape His destined death but instead submitting to the will of the Father.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9661673708887388,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                35.82,
+                35.7,
+                28.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

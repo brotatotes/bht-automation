@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:19",
+    "verseRef": "Matthew 24:9",
+    "bestBHT": {
+        "bht": "During this time, the disciples would experience continuous persecution and hatred. Christians were falsely accused and despised for their crimes, such as the conflagration of Rome under Emperor Nero. They would face intense oppression, being hated by all nations for bearing the name of Christ. The disciples would be delivered up, beaten, and brought before rulers, facing tribulations and afflictions for their faith. Most apostles would meet martyrdom as a result of this persecution. Yet, this hatred and suffering would serve as a testament to their unwavering dedication to the gospel.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7241443989011183,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+        "commentatorTierSimilarities": [
+            29.14,
+            37.84,
+            33.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Then, at this time,\u2014during this period, not \u2018after these things have happened.'",
+            "This sign was early given. James the brother of John was put to death, A.D. 44. Peter and Paul (traditionally) and James the Lord\u2019s brother, before the destruction of Jerusalem: and possibly others.",
+            "Ye shall be hated. See Acts xxviii. 22. Tacitus says that Nero, for the conflagration of Rome, persecuted the Christians, 'a race of men detested for their crimes.'"
+        ],
+        "Albert Barnes": [
+            "They shall deliver you up to councils... They should be delivered to synagogues and to prisons to be beaten, and should be brought before rulers and kings for his name\u2019s sake. All this was remarkably fulfilled.\" ",
+            "And shall kill you... Most of the apostles, it is believed, died by persecution.",
+            "Ye shall be hated of all nations... Multitudes for this, and for nothing else, were put to death."
+        ],
+        "John Calvin": [
+            "It is painful and distressing enough in itself that the children of God should be afflicted in such a manner as not to be distinguished from the reprobate and the despisers of God.",
+            "But Christ treats here strictly of the afflictions which the disciples had to endure on account of the gospel.",
+            "When they did not hesitate to expose their lives, and were not driven from their purpose by any terrors of death, their unshaken constancy made it manifest, how firmly they were convinced of the goodness of their cause."
+        ],
+        "Philip Schaff": [
+            "They shall deliver you up, etc. Soon literally fulfilled. But it may now be referred to the spirit of persecution, always latent in the world and to break out in the last times.",
+            "Hated of all the nations. (Mark and Luke : \u2018of all men;\u2019 comp. chap. Matthew 10:22). The Roman historian Tacitus speaks of the early Christians as a hated race of men.",
+            "But to be universally abhorred is not a proof of being a Christian. It must be for my name\u2019s sake. This hatred has not ceased; it will probably manifest itself anew in startling form."
+        ],
+        "Archibald T. Robertson": [
+            "Ye shall be hated... to emphasize the continuous process of the linear action.\" ",
+            "For tribulation... the oppression (pressure) that the Christians received.",
+            "The most glorious name in the world today, but soon to be a byword of shame."
+        ],
+        "John Gill": [
+            "Our Lord proceeds to acquaint his disciples, what should befall them in this interval; and quite contrary to their expectations, who were looking for a temporal kingdom, and worldly grandeur, assures them of afflictions, persecutions, and death...\" (27 words)",
+            "...the Jews continuing in their obstinacy and unbelief, would deliver them up to the civil magistrates, to be scourged and imprisoned by them...\" (24 words)",
+            "...ye shall be hated of all nations for my name's sake; as the apostles and first Christians were, both by Jews and Gentiles...\" (25 words)"
+        ],
+        "John Wesley": [
+            "Then shall they deliver you up to affliction \u2014 As if ye were the cause of all these evils.",
+            "And ye shall be hated of all nations \u2014 Even of those who tolerate all other sects and parties.",
+            "But in no nation will the children of the devil tolerate the children of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this period, the disciples would experience persecution and hatred. The believers were destined to suffer for their faith, and this was evident in the martyrdom of James, the brother of John, as well as the execution of Peter, Paul, and James the Lord's brother. Christians were even despised by the Roman emperor Nero for the crimes they were falsely accused of. This hatred was not a one-time event but continuous, as highlighted by the phrase ye shall be hated to emphasize the ongoing process. The oppression and pressure on the early Christians were the tribulations they faced. It is disheartening that the most glorious name in the world would soon become a byword of shame. The disciples would be betrayed and brought before synagogues, prisons, rulers, and kings, just as Jesus foretold. In fact, most apostles died due to persecution, bearing witness to the fulfillment of these prophecies. The hatred of all nations towards Christians was palpable, and Tacitus, the Roman historian, even referred to them as a detested race. This universal abhorrence has not ceased and may reemerge in a striking manner.",
+            "wordCount": 186,
+            "quoteTokenProportion": 33.04,
+            "qualityScore": 1.661794165695826,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+            "commentatorTierSimilarities": [
+                33.62,
+                38.08,
+                28.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this time period, the disciples would experience continuous persecution and hatred. As early as the martyrdom of James, the brother of John, and the execution of Peter, Paul, and James the Lord's brother, it was evident that Christians were detested for their crimes. They would be subjected to affliction and pressure, becoming a despised race, even by all nations. The disciples would be betrayed, brought before synagogues, prisons, rulers, and kings, and most apostles would die due to persecution. This universal abhorrence and suffering were part of the disciples' journey, a stark contrast to their initial expectations of temporal grandeur.",
+            "wordCount": 102,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6504729452064213,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+            "commentatorTierSimilarities": [
+                28.27,
+                37.87,
+                33.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this period, the disciples would face continuous persecution and hatred. Christians were detested for their crimes and falsely accused, even by Emperor Nero. The tribulations they endured were oppressive and resulted in their being hated by all nations. The disciples would be delivered up, beaten, and brought before rulers for the sake of Christ's name. Most apostles would die as a result of persecution. Their unwavering constancy in the face of death demonstrated their firm conviction in the gospel's goodness. This persecution would continue, as the children of God are often universally abhorred by the children of the devil.",
+            "wordCount": 102,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6537863218001942,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                28.89,
+                37.77,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this time, the disciples would experience continuous persecution and hatred. Christians were falsely accused and despised for their crimes, such as the conflagration of Rome under Emperor Nero. They would face intense oppression, being hated by all nations for bearing the name of Christ. The disciples would be delivered up, beaten, and brought before rulers, facing tribulations and afflictions for their faith. Most apostles would meet martyrdom as a result of this persecution. Yet, this hatred and suffering would serve as a testament to their unwavering dedication to the gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7241443989011183,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                29.14,
+                37.84,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this period, the disciples would face ongoing persecution and hatred. Christians like James, Peter, Paul, and James the Lord's brother were executed even before the destruction of Jerusalem. Nero himself targeted Christians for the Rome fire, labelling them a race of men detested for their crimes. The disciples would endure tribulation, oppression, and be universally abhorred for their faith, as Tacitus testified. Betrayed and delivered to synagogues and prisons, they would be despised by nations for Christ's name. This unrelenting hatred would demonstrate their unwavering commitment to the gospel.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.673629693466181,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                32.14,
+                35.89,
+                31.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

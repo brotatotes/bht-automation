@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:52:29",
+    "verseRef": "Matthew 24:49",
+    "bestBHT": {
+        "bht": "He who abuses the power given to him by Christ acts as a lord over God's heritage, neglecting his role to nourish and care for the household. This unfaithfulness is evident in his behavior of censuring others, displaying pride, and exerting dominance over them. Additionally, he shows laxity towards the evil members of the household and invites the world to join in revelry. By imposing his own commands on their consciences and indulging in an ungodly life, he serves his own desires instead of his Lord and Master, resulting in a sad consequence when the Lord returns.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.810077239830447,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+        "commentatorTierSimilarities": [
+            0.0,
+            56.15,
+            43.85
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "He plays the lord over God\u2019s heritage, abusing instead of nourishing the household.",
+            "Unfaithfulness to Christ, speedily manifests itself in such conduct: censure of others, pride toward others, despotism over others.",
+            "To show laxity of conduct toward the evil members of the household, and to invite the world to help him revel."
+        ],
+        "John Gill": [
+            "By abusing the power lodged in him, usurping a dominion over their faith, and imposing on their consciences things which Christ has never commanded.",
+            "Feeding himself instead of the family; serving his own belly, and not his Lord and Master Christ; living an ungodly and licentious life, altogether unbecoming the Gospel of Christ.",
+            "Such servants and stewards have been, and are in the church of God; but sad will be their case, when their Lord comes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who abuses the power given to him by Christ acts as a lord over God's heritage, neglecting his role to nourish and care for the household. This unfaithfulness is evident in his behavior of censuring others, displaying pride, and exerting dominance over them. Additionally, he shows laxity towards the evil members of the household and invites the world to join in revelry. By imposing his own commands on their consciences and indulging in an ungodly life, he serves his own desires instead of his Lord and Master, resulting in a sad consequence when the Lord returns.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.810077239830447,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.15,
+                43.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When someone abuses the power given to them by Christ, they play the role of a lord over God's heritage, neglecting their duty to nourish and care for the household. This unfaithfulness is evident in their behavior of censuring others, displaying pride, and exerting dominance over them. They show laxity towards the evil members of the household and invite the world to join in revelry. By imposing their own commands on others' consciences and living an ungodly life, they fail to serve their Lord and Master, leading to a sorrowful outcome when the Lord returns.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7120194997533462,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.08,
+                44.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When one abuses the power entrusted to them by Christ, they assume authority over God's heritage, neglecting their responsibility to care for the household. This unfaithfulness becomes apparent through their tendency to criticize others and their arrogant behavior. They also embrace a despotic attitude and invite worldly indulgence. By imposing their own commands on the consciences of others, they live an ungodly and licentious lifestyle, contradicting the principles of the Gospel. However, when their Lord returns, their plight will be a sorrowful one.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2719174713335433,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.56,
+                49.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When one abuses their authority as a servant of Christ, they assume a position of power over God's people and fail to fulfill their duty of nurturing and tending to the household. This betrayal becomes evident through their tendency to criticize and dominate others, displaying arrogance and inviting worldly indulgence. They impose their own control over the consciences of others, disregarding the teachings of Christ. In doing so, they lead an ungodly and licentious life which stands in stark contrast to the Gospel. However, their tragic fate awaits them when their Lord returns.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.3464891762716966,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.69,
+                53.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When one abuses the power given by Christ, they become a domineering presence over God's people, neglecting their role as a nurturing caretaker. This betrayal is marked by a tendency to criticize and exert control, displaying arrogance and inviting worldly indulgence. They impose their own commands, disregarding the teachings of Christ and leading an ungodly and licentious life that contradicts the Gospel. However, when their Lord returns, their fate will be a sorrowful one.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.255635375351977,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.53,
+                56.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

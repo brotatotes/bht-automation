@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:47:22",
+    "verseRef": "Matthew 13:7",
+    "bestBHT": {
+        "bht": "The seed, not among standing thorns, but among those beneath the surface, yielded no fruit as the thorns sprung up and choked its growth. Like vegetables and flowers made sick by thorns and weeds, the thorns quickly got a start and choked the seeds. We are cautioned in Jeremiah 4:3 not to sow among thorns, serving as a reminder of the earthly curse resulting from man's sin. The presence of thorny cares and lusts, rejected for their destructive nature, leads to divine wrath and fury, likened to everlasting flames.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.7446943636527,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+        "commentatorTierSimilarities": [
+            28.37,
+            20.91,
+            50.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Among the thorns...sprung up with it.",
+            "Sprung up with it and it yielded no fruit.",
+            "And it yielded no fruit."
+        ],
+        "Marvin Vincent": [
+            "The seed, therefore, fell, not among standing thorns, but among those beneath the surface, ready to spring up.",
+            "Now the too ardent sun, now furious showers,",
+            "    With baleful stars and bitter winds combine",
+            "    The crop to ravage; while the greedy fowl",
+            "    Snatch the strown seeds; and grass with stubborn roots,",
+            "    And thorn and darnel plague the ripening grain.",
+            "Metamorposes, 5, 486."
+        ],
+        "Philip Schaff": [
+            "The thorns were of ranker growth. Both ideas are implied in the phrase \u2018sprung up.\u2019\" ",
+            "The proportion of the harvest is large, but not unexampled.",
+            "The remarkable variety in the form of the parallel passages shows independence."
+        ],
+        "Archibald T. Robertson": [
+            "The thorns got a quick start as weeds somehow do and 'choked them off' literally.\" ",
+            "But the thorns got a quick start as weeds somehow do.",
+            "Who has not seen vegetables and flowers and corn made yellow by thorns and weeds till they sicken and die?"
+        ],
+        "John Gill": [
+            "Sow not among thorns\" - Jeremiah 4:3",
+            "Thorns are a part of the earth's curse for the sin of man\" ",
+            "Thorny cares and lusts...are rejected, and nigh to cursing, whose end is to be burned in everlasting flames of divine wrath and fury"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The seed in this verse fell not among standing thorns, but among those beneath the surface, ready to spring up and choke the growth. The thorns quickly got a start and choked the seeds, preventing any fruit from being produced. We can think of how vegetables, flowers, and corn can be made sick and eventually die when surrounded by thorns and weeds, as well as the cautionary advice in Jeremiah 4:3 to not sow among thorns. The presence of thorns is a reminder of the earth's curse due to the sin of man, and the destructive power of thorny cares and lusts that lead to divine wrath and fury.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.7075547141799574,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
+            "commentatorTierSimilarities": [
+                30.15,
+                20.81,
+                49.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seed fell among thorns, which quickly sprang up and choked the growth, yielding no fruit. We can observe how thorns and weeds can cause vegetables, flowers, and crops to wither and die. Jeremiah 4:3 warns against sowing among thorns, reminding us of the earth's curse due to human sin. The presence of thorns signifies thorny cares and lusts, which are rejected and lead to divine wrath and fury, culminating in everlasting flames of burning.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6497478132440144,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                27.61,
+                20.43,
+                51.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seed, not among standing thorns, but among those beneath the surface, yielded no fruit as the thorns sprung up and choked its growth. Like vegetables and flowers made sick by thorns and weeds, the thorns quickly got a start and choked the seeds. We are cautioned in Jeremiah 4:3 not to sow among thorns, serving as a reminder of the earthly curse resulting from man's sin. The presence of thorny cares and lusts, rejected for their destructive nature, leads to divine wrath and fury, likened to everlasting flames.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7446943636527,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                28.37,
+                20.91,
+                50.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seed fell among thorns and yielded no fruit, as the thorns quickly sprang up and choked its growth. Similar to how vegetables and flowers can sicken and die when surrounded by thorns and weeds, the thorns got a quick start and choked the seeds. The cautionary advice from Jeremiah 4:3 warns against sowing among thorns, highlighting the consequences of the earth's curse due to human sin. The presence of thorns symbolizes thorny cares and lusts that are rejected and lead to divine wrath and eternal flames of burning.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7232471489570935,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                29.71,
+                20.36,
+                49.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The seed fell among thorns, which quickly sprung up and choked its growth, yielding no fruit. Thorns can cause vegetables, flowers, and crops to sicken and perish. Jeremiah 4:3 advises against sowing among thorns, reminding us of the curse on the earth due to human sin. Thorns symbolize thorny cares and lusts that lead to divine wrath and everlasting flames. These weeds must be rejected, as their end is to be burned in the fires of divine fury.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6490958902966266,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                28.16,
+                20.2,
+                51.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

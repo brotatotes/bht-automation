@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:51:08",
+    "verseRef": "Matthew 21:45",
+    "bestBHT": {
+        "bht": "The chief priests and Pharisees, after hearing Jesus' parables, clearly perceived that these parables were addressing them directly. In the parable of the Wicked Husbandmen, their ungrateful and cruel behavior towards God and His messengers was exposed. This recognition only fueled their rage more, highlighting the importance of praying for God to subdue us with voluntary fear. The fact that God restrained them from harming Jesus out of fear of the people is a reminder of His control over their actions.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.5696643656610463,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+        "commentatorTierSimilarities": [
+            44.95,
+            0.0,
+            55.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All three Evangelists have this addition.",
+            "And they left him and went their way.",
+            "Supposing St. Mark\u2019s insertion of these words to be in the precise place, we have the following parable spoken to the people and disciples."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when the chief priests and Pharisees had heard his parables\u2014referring to that of the Two Sons and this one of the Wicked Husbandmen.\" ",
+            "They perceived that he spake of them."
+        ],
+        "John Calvin": [
+            "Let us also learn that it is impossible but that the rage of ungodly men will be more and more inflamed by threatenings.",
+            "We ought therefore to pray that he would subdue us to voluntary fear, lest the mere knowledge of his vengeance should exasperate us the more.",
+            "When they are restrained solely by the dread of the people from laying their hands on Christ, let us learn that God had laid a bridle on them."
+        ],
+        "Archibald T. Robertson": [
+            "Perceived (\u03b5\u03b3\u03bd\u03c9\u03c3\u03b1\u03bd). Ingressive second aorist active of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9. There was no mistaking the meaning of these parables. The dullest could see the point. "
+        ],
+        "John Gill": [
+            "They plainly saw that they were designed by the son, that promised to go into the vineyard, but did not; only talked of works, but did not do them.\" ",
+            "And that they were the husbandmen that acted the ungrateful part to the householder, and the cruel one to his servants, and would to his son, their own consciences told them they were the men.",
+            "They knew that the whole was levelled against them, and designed for them, and exactly hit their case."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests and Pharisees, after hearing Jesus' parables, distinctly recognized that these parables were directed at them. They couldn't miss the point, and it was evident that Jesus was speaking about their own actions and intentions. The parable of the Wicked Husbandmen specifically exposed the ungrateful and cruel behavior of these religious leaders towards God and His messengers. It was clear to them that God had restrained their hostility only because of the fear of the people. This recognition surely fueled their rage even more, making it crucial for us to pray for the subduing of our hearts and a genuine reverence for God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.5507922885232404,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                47.16,
+                0.0,
+                52.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests and Pharisees, upon hearing the parables, immediately perceived that Jesus was speaking about them. The parable of the Wicked Husbandmen exposed their ungrateful and cruel behavior towards God and His messengers. Their rage was further inflamed by these threatenings, and God's restraint on them due to the fear of the people became apparent. It is crucial for us to cultivate a voluntary fear of God, lest the mere knowledge of His vengeance exasperate us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5381960899870533,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                43.27,
+                0.0,
+                56.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests and Pharisees, having heard Jesus' parables, couldn't miss the point. They recognized that these parables targeted their own actions and intentions. The parable of the Wicked Husbandmen, specifically, exposed their ungrateful and cruel behavior towards God and His messengers. This awareness further fueled their rage, which necessitates our prayers for God to subdue us with voluntary fear, so that the mere knowledge of His vengeance doesn't aggravate us. It's evident that God restrained them from harming Jesus solely because of fear of the people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.5371354420652912,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                43.91,
+                0.0,
+                56.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and Pharisees, after hearing Jesus' parables, clearly perceived that these parables were addressing them directly. In the parable of the Wicked Husbandmen, their ungrateful and cruel behavior towards God and His messengers was exposed. This recognition only fueled their rage more, highlighting the importance of praying for God to subdue us with voluntary fear. The fact that God restrained them from harming Jesus out of fear of the people is a reminder of His control over their actions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5696643656610463,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+            "commentatorTierSimilarities": [
+                44.95,
+                0.0,
+                55.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and Pharisees, upon hearing Jesus' parables, unmistakably understood that these parables were intended for them. The parable of the Wicked Husbandmen specifically revealed their ungrateful and cruel treatment of God's messengers. This recognition fueled their rage, emphasizing the importance of praying for voluntary fear of God to prevent aggravation from the mere knowledge of His vengeance. Their restraint from harming Jesus, due to fear of the people, highlighted God's control over their actions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.5461856090868011,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.75,
+            "commentatorTierSimilarities": [
+                45.2,
+                0.0,
+                54.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

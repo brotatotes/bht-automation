@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 23:51:12",
+    "verseRef": "Matthew 22:33",
+    "bestBHT": {
+        "bht": "The crowd's continued amazement and astonishment were evident as they were struck by Christ's wise and full answer to the Sadducees' question. Christ's response served as a powerful and convincing demonstration of the immortality of the soul and the resurrection of the dead, effectively refuting the erroneous beliefs of the Sadducees. The Scribes were so pleased with his doctrine that certain of them even applauded him, recognizing the clarity and solidity of his answers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8688249197038216,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+        "commentatorTierSimilarities": [
+            47.71,
+            0.0,
+            52.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "They were astonished (\u03b5\u03be\u03b5\u03c0\u03bb\u03b7\u03c3\u03c3\u03bf\u03bd\u03c4\u03bf). Descriptive imperfect passive showing the continued amazement of the crowds. They were struck out (literally). "
+        ],
+        "John Gill": [
+            "This wise and full answer of Christ to the posing question of the Sadducees, with which perhaps they had puzzled many, and never had met with their match before.",
+            "How strongly and nervously he proved the immortality of the soul, and the resurrection of the dead, which were both denied by the Sadducees.",
+            "The Scribes were so pleased therewith, that certain of them applauded him, saying, 'master, thou hast well said'."
+        ],
+        "John Wesley": [
+            "At his doctrine \u2014 At the clearness and solidity of his answers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in the crowd were astonished and struck by the wise and full answer that Christ gave to the puzzling question posed by the Sadducees. His response strongly and convincingly proved the immortality of the soul and the resurrection of the dead, refuting the beliefs of the Sadducees. The Scribes were so pleased with his doctrine that certain of them even applauded him, acknowledging the clarity and solidity of his answers.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.7053992176616692,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                41.41,
+                0.0,
+                58.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were astonished and struck by Christ's wise and full answer to the Sadducees' question. He strongly and convincingly proved the immortality of the soul and resurrection of the dead, refuting the beliefs of the Sadducees. The Scribes applauded his doctrine, acknowledging the clarity and solidity of his answers.",
+            "wordCount": 51,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.5822272396931658,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                37.12,
+                0.0,
+                62.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd's continued amazement and astonishment were evident as they were struck by Christ's wise and full answer to the Sadducees' question. Christ's response served as a powerful and convincing demonstration of the immortality of the soul and the resurrection of the dead, effectively refuting the erroneous beliefs of the Sadducees. The Scribes were so pleased with his doctrine that certain of them even applauded him, recognizing the clarity and solidity of his answers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8688249197038216,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                47.71,
+                0.0,
+                52.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd's astonishment was palpable as they were struck by Christ's wise and full answer to the Sadducees' question. His response effectively refuted the beliefs of the Sadducees, proving the immortality of the soul and the resurrection of the dead. The Scribes showed their approval by applauding his doctrine, acknowledging the clarity and solidity of his answers.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7431963696465487,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                45.01,
+                0.0,
+                54.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in the crowd were struck and astonished by Christ's wise and full answer to the Sadducees' question. His response powerfully demonstrated the immortality of the soul and the resurrection of the dead, offering a strong refutation to the beliefs of the Sadducees. The Scribes even applauded him, recognizing the clarity and solidity of his doctrine.",
+            "wordCount": 58,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6508689774095582,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                41.65,
+                0.0,
+                58.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

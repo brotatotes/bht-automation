@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:54:08",
+    "verseRef": "Matthew 27:17",
+    "bestBHT": {
+        "bht": "When the crowd gathered outside the Pr\u00e6toriam, Pilate, caught in a dilemma, seized upon the Passover custom of releasing a prisoner. Unconsciously, Pilate pitted the forces of good and evil against each other by presenting the people with a choice: Barabbas, the criminal, or Jesus, the one called Christ. Pilate's attempt to avoid condemning Jesus was evident, yet by suggesting the release of Barabbas, Pilate unintentionally raised the stakes, unknowingly challenging the weight and importance of Jesus' identity and mission.",
+        "wordCount": 81,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.940884111822428,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+        "commentatorTierSimilarities": [
+            35.08,
+            33.26,
+            31.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In St. John\u2019s narrative, the suggestion of liberating Barabbas seems to come from the Jews themselves; but not necessarily so: he may only be giving, as before, a general report of what passed.\" ",
+            "The when they were gathered together seems to imply that a great crowd had collected outside the Pr\u00e6toriam while the trial was going on.\" ",
+            "It is possible that the addition, which is called Christ, which Pilate could hardly have heard from the Jews, may have been familiar to him by his wife\u2019s mention of Jesus."
+        ],
+        "Philip Schaff": [
+            "To put Jesus, as yet uncondemned, on a level with Barabbas, was a crime; a cowardly shirking of responsibility, and a blunder.",
+            "Pilate was not 'weak and irresolute;' but baffled in his purpose by superior cunning.",
+            "His purpose, like his character, was lacking in moral earnestness; the grand defect of the heathen world at that time."
+        ],
+        "Archibald T. Robertson": [
+            "Pilate was catching at straws or seeking any loophole to escape condemning a harmless lunatic or exponent of a superstitious cult.\" ",
+            "So he bethought him of the time-honoured custom at the passover of releasing to the people 'a prisoner whom they wished.'",
+            "Pilate unwittingly pitted against each other two prisoners who represented the antagonistic forces of all time."
+        ],
+        "John Gill": [
+            "For it was to them the release of a prisoner was to be made, and so the proposal of one; and it was at their option, who should be the person.\" ",
+            "He puts it to them, whom they would choose to have released, Barabbas, the thief and robber, the seditious person and murderer, or Jesus, whom some called the Christ, the Messiah, the king of the Jews.",
+            "His view was not to reproach Christ, by joining him with so wicked a man, but in order to save him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the crowd had gathered outside to witness the trial, Pilate, caught in a dilemma, seized upon the custom of releasing a prisoner during the Passover festival. Unconsciously, Pilate pitted the forces of good and evil against each other by presenting the people with a choice: Barabbas, the notorious criminal, or Jesus, the one called Christ. Pilate's attempt to avoid condemning Jesus, labeling him either a lunatic or representative of a superstitious cult, was evident. Yet, by suggesting the release of Barabbas, Pilate unintentionally raised the stakes, unknowingly challenging the weight and importance of Jesus' identity and mission.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.831359874912581,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                34.79,
+                34.56,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the crowd gathered outside the Pr\u00e6toriam, Pilate, seeking a way out, seized upon the passover custom of releasing a prisoner. He juxtaposed Barabbas, the seditious murderer, with Jesus, whom some hailed as the Christ. Pilate, perhaps unknowingly, provoked a clash between two prisoners that represented opposing forces throughout history. His maneuver was driven by a desire to avoid condemning a potentially harmless lunatic or follower of a superstitious cult. Nonetheless, Pilate's decision inadvertently elevated the significance of Jesus' identity and purpose.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.736255156866818,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                34.85,
+                34.97,
+                30.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Caught in a quandary, Pilate, driven by a desire to evade condemning Jesus, cunningly presented the people with a choice. He juxtaposed Barabbas, the criminal, with Jesus, known as the Christ. By invoking the traditional Passover release of a prisoner, Pilate unintentionally set the stage for a confrontation between the forces of good and evil. It is worth noting that Pilate's suggestion to release Barabbas inadvertently intensified the significance of Jesus' identity and sparked a pivotal moment in history.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.8175801231048778,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                32.74,
+                35.06,
+                32.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the crowd gathered at the Pr\u00e6toriam, Pilate found himself in a difficult position, seeking an escape from condemning Jesus. He cleverly employed the Passover custom of releasing a prisoner, unwittingly pitting two prisoners against each other: Barabbas, the criminal, and Jesus, known as the Christ. Pilate's aim was not to denounce Jesus by associating him with a wicked man, but to spare him from harm. This choice inadvertently intensified the significance of Jesus' identity, resulting in a pivotal conflict between opposing forces.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8687869153307641,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                32.51,
+                36.21,
+                31.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the crowd gathered outside the Pr\u00e6toriam, Pilate, caught in a dilemma, seized upon the Passover custom of releasing a prisoner. Unconsciously, Pilate pitted the forces of good and evil against each other by presenting the people with a choice: Barabbas, the criminal, or Jesus, the one called Christ. Pilate's attempt to avoid condemning Jesus was evident, yet by suggesting the release of Barabbas, Pilate unintentionally raised the stakes, unknowingly challenging the weight and importance of Jesus' identity and mission.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.940884111822428,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                35.08,
+                33.26,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:00",
+    "verseRef": "Matthew 5:28",
+    "bestBHT": {
+        "bht": "Adultery is not limited to the physical act, but also encompasses the intent and desire within the heart. Looking at someone with the purpose of lusting after them is considered adultery in God's eyes. Jesus warns that this sin applies to all forms of impurity, extending beyond just married individuals. He locates adultery in the heart and eyes, emphasizing the need to guard against impure thoughts and images. It is not enough to avoid outward adultery; we must also be vigilant in purifying our inner selves.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 2.253251679756792,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+        "commentatorTierSimilarities": [
+            32.05,
+            32.54,
+            35.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord is speaking of the sin of adultery, and therefore, however the saying may undoubtedly apply by implication to cases where this sin is out of the question, yet the direct assertion in this verse must be understood as applying to the cases where this sin is in question.",
+            "And again, 'hath adulterously used her already in his heart,' whatever it may undoubtedly imply respecting the guilt incurred in God\u2019s sight, does not directly state anything; but plainly understood, affirms that the man who can do this has already in his heart passed the barrier of criminal intention; made up his mind, stifled his conscience; in thought, committed the deed.\" ",
+            "But perhaps there is justice in Stier's remark, that our Lord speaks here after the O.T. usage, in which, both in the seventh commandment and elsewhere, adultery also includes fornication; for marriage is the becoming one flesh,\u2014and therefore every such union, except that after the manner and in the state appointed by God, is a violation and contempt of that holy ordinance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever looketh on a woman to lust after her\u2014with the intent to do so, as the same expression is used\u2014or, with the full consent of his will, to feed thereby his unholy desires.\" ",
+            "We are not to suppose, from the word here used\u2014'adultery'\u2014that our Lord means to restrict the breach of this commandment to married persons, or to criminal intercourse with such.",
+            "The expressions, 'whosoever looketh,' and 'looketh upon a woman,' seem clearly to extend the range of this commandment to all forms of impurity."
+        ],
+        "John Calvin": [
+            "This is a synecdoche: for not only the eyes, but even the concealed flames of the heart, render men guilty of adultery.",
+            "Christ reckoned it enough to refute the gross mistake which was prevalent: for they thought that it was only necessary to guard against outward adultery.",
+            "This teaches us also, that not only those who form a deliberate purpose of fornication, but those who admit any polluted thoughts, are reckoned adulterers before God."
+        ],
+        "Philip Schaff": [
+            "Our Lord declares, not that such an one shall be condemned, but that in his heart he has committed the sin.",
+            "Adultery of the heart, and of the eye, desecrate the temple of the Holy Spirit; how much more adultery in deed.",
+            "A woman may mean a 'wife,' but the widest sense is not inappropriate."
+        ],
+        "Archibald T. Robertson": [
+            "Not just the centre of the blood circulation though it means that. Not just the emotional part of man's nature, but here the inner man including the intellect, the affections, the will.",
+            "Jesus locates adultery in the eye and heart before the outward act.",
+            "Hence the peril of lewd pictures and plays to the pure."
+        ],
+        "John Gill": [
+            "It was not any looking upon a woman, that is forbid by Christ as criminal; but so to look, as 'to lust after her'; for such an one hath committed adultery with her already in his heart.",
+            "Though I regard iniquity in my heart to do it, even in thought, yea, against God himself, as if I had expressed it with my lips, he does not hear it; that is, 'he does not reckon it to me for sin.'",
+            "Everyone that looks upon a woman with intention, it is all one as if he lay with her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Adultery is not simply limited to the physical act, but also encompasses the intent and desire within the heart. Even looking at someone with the purpose of lusting after them is considered adultery in God's eyes. Our Lord speaks of this sin, emphasizing that it is not restricted to married individuals or specific forms of impurity, but extends to all. Jesus reveals that adultery begins in the heart and the eyes, issuing a warning about the dangers of being led astray by impure thoughts or images. We must guard not only our actions but also our innermost being, including our intellect, affections, and will.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.083932641721363,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.63,
+            "commentatorTierSimilarities": [
+                32.31,
+                32.63,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Adultery is not limited to the physical act, but also encompasses the intent and desire within the heart. Looking at someone with the purpose of lusting after them is considered adultery in God's eyes. Jesus warns that this sin applies to all forms of impurity, extending beyond just married individuals. He locates adultery in the heart and eyes, emphasizing the need to guard against impure thoughts and images. It is not enough to avoid outward adultery; we must also be vigilant in purifying our inner selves.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.253251679756792,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                32.05,
+                32.54,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Adultery encompasses not just the physical act, but also the intent and desire within the heart. The sin of lusting after someone is considered adultery in God's eyes. Our Lord's warning extends beyond just married individuals, applying to all forms of impurity. By locating adultery in the heart and eyes, Jesus highlights the need to guard against impure thoughts and images. It is not enough to avoid outward adultery; one must also be diligent in purifying their inner being.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.1578998214955942,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                31.08,
+                33.94,
+                34.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Adultery is not restricted to the physical act, but also involves the intent and desire within the heart. Even looking at someone with the purpose of lusting after them is considered adultery in God's eyes. Jesus warns that this sin applies to all forms of impurity, extending beyond just married individuals. He locates adultery in the heart and eyes, emphasizing the need to guard against impure thoughts and images. We must not only abstain from outward adultery, but also purify our inner selves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.2382698966683203,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                31.96,
+                32.63,
+                35.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Adultery is not limited to the physical act, but includes the intent and desire within the heart. Looking at someone with the purpose of lusting after them is considered adultery in God's eyes. Our Lord warns that this sin applies to all forms of impurity, extending beyond just married individuals. Jesus locates adultery in the heart and eyes, highlighting the need to guard against impure thoughts and images. We must not only avoid outward adultery, but also purify our inner being.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.2506836368033887,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.18,
+            "commentatorTierSimilarities": [
+                31.59,
+                33.47,
+                34.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

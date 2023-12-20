@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:50:29",
+    "verseRef": "Matthew 20:25",
+    "bestBHT": {
+        "bht": "Christ called the disciples to Himself, not to assert His own authority, but to show them the folly of desiring superiority and power. The Jewish form of government, as ordained by God, was designed to exclude tyranny. The apostolic office has no resemblance to the governments of the world, where rulers exercise lordship over others. In the kingdom of Christ, greatness is measured by humble service, not by exercising authority. Christ distinguishes between the apostles and the rank of kings, as the station of royalty is different from the apostolic office.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.254722477513274,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.06,
+        "commentatorTierSimilarities": [
+            15.97,
+            46.88,
+            37.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "He does not explain generally how deadly a plague ambition is, but simply warns them, that nothing is more foolish than to fight about nothing.",
+            "Christ only takes occasion from the present occurrence to show that it is absurd in the apostles to dispute about the degree of power and honor in their own rank, because the office of teaching, to which they were appointed, has no resemblance to the governments of the world.",
+            "Christ distinguishes between the apostles and the rank of kings, not because kings have a right to act haughtily, but because the station of royalty is different from the apostolic office."
+        ],
+        "Philip Schaff": [
+            "The Jewish form of government, as ordained by God, was designed to exclude tyranny.",
+            "Exercise lordship, lord it, over them, i.e., exercise tyrannical and arbitrary power.",
+            "Their great ones. Either conquerors and usurpers, or the officers of state."
+        ],
+        "Archibald T. Robertson": [
+            "Called them unto him (\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). Indirect middle again, calling to him. "
+        ],
+        "John Gill": [
+            "To discourage which, and to prevent their quarrelling one with another, he called them to him.\" ",
+            "These claim a superiority over others, and exercise lordly power over them; and they that are their great ones, their lords, and nobles under them; these also assert a preeminence, and exercise authority on those that are below them.",
+            "For the apostles to affect and desire a superiority to each other, in the kingdom of Christ, was to imitate the Gentiles, and to act according to worldly forms of government; which is very unsuitable to the followers of the meek and lowly Jesus, whose kingdom is spiritual, and not of this world."
+        ],
+        "John Wesley": [
+            "Ye know that the princes of the Gentiles lord it over them.\" ",
+            "And hence you imagine, the chief in my kingdom will do as they: but it will be quite otherwise.",
+            "But it will be quite otherwise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ called the disciples to Himself, not to assert His own authority but to show them the foolishness of desiring superiority and power. The system of government ordained by God was not meant for tyranny or arbitrary power, as seen in the distinction Christ makes between the apostolic office and worldly forms of government. The disciples were reminded that the kingdom of Christ is not like the kingdoms of this world, where rulers exercise lordship over others. Instead, it is a spiritual kingdom where the greatest are those who serve others with humility and love.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.19208906717085,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+            "commentatorTierSimilarities": [
+                13.54,
+                44.04,
+                42.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, by calling the disciples to Himself, highlighted the foolishness of aspiring to power and superiority. The Jewish form of government, designed by God, aimed to prevent tyranny. The apostolic office differs from worldly governments, where rulers exercise lordship over others. In the spiritual kingdom of Christ, greatness is measured by humble service, not by exerting authority. As Christ taught, it is absurd for the disciples to quarrel over positions of honor, as His kingdom does not resemble the governments of this world.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.1809893801041276,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.61,
+            "commentatorTierSimilarities": [
+                16.07,
+                46.45,
+                37.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ called the disciples to Him to show the folly of quarreling over power and rank. The Jewish governmental system was designed to prevent tyranny, not to exercise lordship over others. The apostolic office is distinct from worldly forms of government, as the kingdom of Christ is spiritual and not of this world. In His kingdom, greatness is not measured by asserting authority, but by humble service. Christ reminds them that the princes of the Gentiles lord it over others, but His kingdom operates differently.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.2086811860812543,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.53,
+            "commentatorTierSimilarities": [
+                17.75,
+                43.54,
+                38.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ called the disciples to Himself, not to assert His own authority, but to demonstrate the foolishness of their power struggles. The form of government ordained by God was meant to exclude tyranny, unlike the worldly systems where rulers exercise lordship over others. The apostolic office differs from such governments, as the kingdom of Christ is spiritual and not of this world. In His kingdom, the measure of greatness is humble service, not the exercise of authority.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.130045220840545,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.92,
+            "commentatorTierSimilarities": [
+                9.86,
+                49.8,
+                40.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ called the disciples to Himself, not to assert His own authority, but to show them the folly of desiring superiority and power. The Jewish form of government, as ordained by God, was designed to exclude tyranny. The apostolic office has no resemblance to the governments of the world, where rulers exercise lordship over others. In the kingdom of Christ, greatness is measured by humble service, not by exercising authority. Christ distinguishes between the apostles and the rank of kings, as the station of royalty is different from the apostolic office.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.254722477513274,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.06,
+            "commentatorTierSimilarities": [
+                15.97,
+                46.88,
+                37.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

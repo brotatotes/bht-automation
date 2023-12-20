@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:42",
+    "verseRef": "Matthew 26:41",
+    "bestBHT": {
+        "bht": "Even Jesus Himself, in the worst temptation of His earthly life, felt the struggle between His willing spirit and the weakness of His flesh. He urged His disciples to be watchful and to pray, recognizing their own vulnerability to temptation. While they couldn't avoid temptation entirely, they should strive not to enter into it willingly. The spirit may be willing, but the flesh is weak. This gentle rebuke and kind apology underscore the importance of prayer, vigilance, and perseverance in overcoming temptation.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.8974505246222169,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+        "commentatorTierSimilarities": [
+            32.8,
+            37.46,
+            29.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "enter into temptation is not to come into temptation merely, to be tempted: this lies not in our own power to avoid, and its happening is rather joy than sorrow to us.",
+            "I cannot doubt that this is said by our in its most general meaning, and that He himself is included in it.",
+            "He, in the willingness of the spirit\u2014yielding Himself to the Father\u2019s will to suffer and die, but weighed down by the weakness of the flesh: they having professed, and really having, a willing spirit to suffer with Him, but, even in the one hour\u2019s watching, overcome by the burden of drowsiness."
+        ],
+        "John Calvin": [
+            "Though you take no concern about me, do not fail, at least, to think of yourselves; for your own interests are involved in it, and if you do not take care, temptation will immediately swallow you up.",
+            "Our watching, therefore, will be of no avail without prayer.",
+            "An undoubted remedy is held out to us, which we will neither have nor to seek nor to seek in vain; for Christ promises that all who, being earnest in prayer, shall perseveringly oppose the slothfulness of the flesh, will be victorious."
+        ],
+        "Philip Schaff": [
+            "They needed then, and, as the original implies what is habitual, always to watch, to be on their guard, as well as to pray.",
+            "The spirit indeed is willing, but the flesh is weak.",
+            "In Him, though weighed down by sorrow, so that the flesh almost gave way to death in its weakness (\u2018even unto death\u2019), the willingness of the spirit triumphed."
+        ],
+        "Archibald T. Robertson": [
+            "He himself was feeling the worst of all temptations of his earthly life just then.",
+            "Spirit (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1) here is the moral life (\u03b9\u03bd\u03c4\u03b5\u03bb\u03bb\u03b5\u03c7\u03c4, w\u03b9\u03bb\u03bb, \u03b5\u03bc\u03bf\u03c4\u03b9\u03bf\u03bd\u03c2) as opposed to the flesh.",
+            "This delicate distinction accurately presents the real attitude of Jesus towards this subtle temptation."
+        ],
+        "John Gill": [
+            "That ye enter not into temptation; not that they might not be tempted at all... but that they might not enter into them, throw themselves in the way of temptation...",
+            "The spirit indeed is willing, but the flesh is weak.",
+            "The evil spirit Satan was very desirous of having them in his hands; very forward and ready to make the onset upon them; was cheerful, alert, and confident of victory; and was strong, robust, and powerful; and they were but flesh and blood, very weak and infirm, and unequal to the enemy."
+        ],
+        "John Wesley": [
+            "The spirit \u2014 Your spirit: ye yourselves.",
+            "The flesh \u2014 Your nature.",
+            "How gentle a rebuke was this, and how kind an apology!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even Jesus Himself, in His most vulnerable moment, felt the weight of temptation and the struggle between His willing spirit and the weakness of His flesh. He understood the delicate balance between the moral life and the desires of the flesh. He urged His disciples to be constantly on guard and to pray, recognizing their own weakness and vulnerability to temptation. This is not to say that they would never be tempted, but they should not willingly enter into temptation. The spirit may be willing, but the flesh is weak. This reminder was both a gentle rebuke and a kind apology, highlighting the importance of prayer, vigilance, and perseverance in overcoming the allures of temptation. It serves as a timeless reminder for all believers to remain watchful and to seek God's strength in the face of temptation.",
+            "wordCount": 138,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.8524594148587807,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                34.33,
+                37.36,
+                28.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even in His most vulnerable moment, Jesus felt the struggle between His willing spirit and the weakness of His flesh. He recognized the delicate balance between the moral life and the desires of the flesh, urging His disciples to be on guard and to pray. While they couldn't avoid temptation completely, they should not willingly enter into it. The spirit may be willing, but the flesh is weak. This reminder serves as a gentle rebuke and a kind apology, emphasizing the importance of prayer, vigilance, and perseverance in overcoming temptation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8303919079372077,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                31.06,
+                40.38,
+                28.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even Jesus Himself, in the worst temptation of His earthly life, felt the struggle between His willing spirit and the weakness of His flesh. He urged His disciples to be watchful and to pray, recognizing their own vulnerability to temptation. While they couldn't avoid temptation entirely, they should strive not to enter into it willingly. The spirit may be willing, but the flesh is weak. This gentle rebuke and kind apology underscore the importance of prayer, vigilance, and perseverance in overcoming temptation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8974505246222169,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                32.8,
+                37.46,
+                29.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even Jesus Himself, in the worst temptation of His earthly life, felt the struggle between His willing spirit and the weakness of His flesh. He urged His disciples to be on guard and to pray, recognizing their vulnerability to temptation. While they couldn't avoid temptation, they should strive not to willingly enter into it. The spirit may be willing, but the flesh is weak. This gentle rebuke and kind apology emphasize the importance of prayer, vigilance, and persevering against the alluring temptation that surrounds them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8781327877896166,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                32.43,
+                37.78,
+                29.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even in His most vulnerable moment, Jesus understood the struggle between His willing spirit and the weakness of His flesh. He urged His disciples to be constantly on guard and to pray, recognizing their own vulnerability to temptation. Though they couldn't avoid temptation completely, they should not willingly enter into it. The spirit may be willing, but the flesh is weak. This gentle rebuke and kind apology remind believers of the importance of prayer, vigilance, and perseverance in overcoming the allures of temptation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8439019470314513,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                31.19,
+                39.42,
+                29.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

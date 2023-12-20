@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:44:59",
+    "verseRef": "Matthew 7:29",
+    "bestBHT": {
+        "bht": "Jesus spoke with an authority that went beyond mere human wisdom. Unlike the scribes who relied on the authority of others, Jesus presented Himself as the One with divine power. His teaching had a profound impact and left no room for ambiguity. He was the lawgiver and judge, expounding on God's truth as the final authority. The scribes' teachings paled in comparison to the weight and power of Jesus' words, which were backed by the demonstration of the Spirit.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.9968976512699526,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+        "commentatorTierSimilarities": [
+            30.35,
+            34.95,
+            34.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For He did not say what He said on the authority of others, quoting Moses or the prophets, but every where alleging Himself to be the One who had the power.",
+            "When giving the law, he ever added, 'But I say to you,' showing that He himself was the Judge.",
+            "He...ever alleging Himself to be the One who had the power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For he taught them as one having authority\u2014The word 'one,' which our translators have here inserted, only weakens the statement.",
+            "The consciousness of divine authority, as Lawgiver, Expounder and Judge, so beamed through His teaching",
+            "the scribes' teaching could not but appear drivelling in such a light."
+        ],
+        "Marvin Vincent": [
+            "He taught [\u03b7\u03bd \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03c9\u03bd] . He was teaching. This union of the verb and participle emphasized the idea of duration or habit more than the simple tense. "
+        ],
+        "Philip Schaff": [
+            "Christ is not 'one' among others 'having authority,' but the only one having authority, in this highest sense, as the one coming directly from God, and Himself the personal embodiment of the Truth.",
+            "No Old Testament prophet assumed such authority, no mere man has a right to do so.",
+            "He who uttered this matchless discourse on morals has personal authority to tell men what is true, to declare what is right, to set up His judgment here and hereafter as the final appeal."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus spoke with the authority of truth, the reality and freshness of the morning light, and the power of God's Spirit.",
+            "This sermon which made such a profound impression ended with the tragedy of the fall of the house on the sand like the crash of a giant oak in the forest.",
+            "There was no smoothing over the outcome."
+        ],
+        "John Gill": [
+            "He spoke as a lawgiver, as one that had authority from heaven, and not from men.",
+            "Our Lord spoke boldly, of himself, in his own name, and did not go about to support his doctrine by the testimony of the elders.",
+            "He taught them, as one having authority."
+        ],
+        "John Wesley": [
+            "He taught them \u2014 The multitudes, as one having authority - With a dignity and majesty peculiar to himself as the great Lawgiver, and with the demonstration and power of the Spirit...",
+            "and not as the scribes - Who only expounded the law of another...",
+            "...and that in a lifeless, ineffectual manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in Matthew 7:29, spoke with an unparalleled authority that set Him apart from the scribes and other teachers. He did not rely on the authority of others or quote Moses and the prophets, but presented Himself as the One with divine power. This consciousness of divine authority permeated His teaching and made the scribes' teachings appear inadequate and empty by comparison. Jesus spoke as a lawgiver, a judge, and an expounder with the power of God's Spirit. His words carried the weight of truth, and His sermon left a profound impact, highlighting the consequences of rejecting His authority. He spoke with the freshness of morning light and the reality of God's power, bringing an undeniable and transformative message to all who listened.",
+            "wordCount": 124,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.9859215057212956,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                31.83,
+                34.07,
+                34.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus spoke with an authority that went beyond mere human wisdom. Unlike the scribes who relied on the authority of others, Jesus presented Himself as the One with divine power. His teaching had a profound impact and left no room for ambiguity. He was the lawgiver and judge, expounding on God's truth as the final authority. The scribes' teachings paled in comparison to the weight and power of Jesus' words, which were backed by the demonstration of the Spirit.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9968976512699526,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                30.35,
+                34.95,
+                34.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not speak on the authority of others; He was the One who had the power. His teaching demonstrated divine authority, making the scribes' teachings seem unimpressive in comparison. Jesus spoke as the lawgiver, judge, and expounder with the power of the Spirit. His words were filled with truth, carrying the weight of reality and the freshness of the morning light. His sermon had a profound impact, leaving no room for ambiguity, as it revealed the consequences of rejecting His authority.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.928251840448368,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                32.43,
+                33.78,
+                33.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus taught with unmatched authority and power. He did not rely on the authority of others or quote the scriptures, but presented Himself as the One with divine power. His teaching surpassed that of the scribes, who appeared feeble and ineffective in comparison. Jesus spoke as the lawgiver, expounder, and judge, delivering the truth with the reality and freshness of the morning light. His sermon, which left a lasting impression, had a finality that could not be overlooked.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9011436494726783,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                31.53,
+                32.58,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus taught with unparalleled authority, emphasizing that He Himself was the Judge and Lawgiver. His teaching was not based on the authority of others, but on His own divine power. His words carried the weight of truth and the presence of the Spirit. By comparison, the scribes' teachings seemed ineffective and inferior. Jesus' sermon left a profound impact, revealing the consequence of rejecting His authority. His teaching was marked by the reality, power, and freshness of the morning light.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8985661885262437,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                34.55,
+                29.64,
+                35.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

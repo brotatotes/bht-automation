@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:47:16",
+    "verseRef": "Matthew 12:42",
+    "bestBHT": {
+        "bht": "The queen of Sheba, reigning over Egypt and \u00c6thiopia, left her kingdom to seek the wisdom of Solomon, a mere man. In contrast, the Jews rejected the Greater than Solomon, Jesus. The queen of the south will rise up in judgment against that generation, serving as an example and condemning their refusal to accept Jesus, the Prince of all the prophets. It is a humbling reminder that a Gentile woman, uneducated in the ways of God, traveled a great distance to hear Solomon's wisdom, while the Jews rejected the greater wisdom offered by Jesus.",
+        "wordCount": 95,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.8163090472624932,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+        "commentatorTierSimilarities": [
+            31.66,
+            36.93,
+            31.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The queen of the south...reigned over Egypt and \u00c6thiopia, i.e. over Meroe.",
+            "Abyssinian tradition agrees with this account, calls her Maqueda, and supposes her to have embraced the Jewish religion in Jerusalem.",
+            "The Arabians on the other hand also claim her, calling her Balkis, which latter view is probably nearer the truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The queen of Sheba came from a remote country, 'south' of Judea, to hear the wisdom of a mere man, though a gifted one, and was transported with wonder at what she saw and heard.",
+            "They, when a Greater than Solomon had come to them, despised and rejected, slighted and slandered Him.",
+            "The queen of the south shall rise up in the judgment with this generation."
+        ],
+        "John Calvin": [
+            "A woman who had not been at all educated in the school of God, was induced, by the desire of instruction, to come from a distant region to Solomon, an earthly king.\" ",
+            "The Jews, who had been instructed in the divine law, reject their highest and only teacher, the Prince of all the prophets.",
+            "The word condemn relates not to the persons, but to the fact itself, and the example which it yields."
+        ],
+        "Philip Schaff": [
+            "The queen of Sheba was attracted from a great distance to hear the wisdom of Solomon.",
+            "A superior Person, a more important message, and greater wisdom.",
+            "Yet the Jews were not attracted, did not even give heed."
+        ],
+        "John Gill": [
+            "The queen of the south...shall rise from the dead, and stand as a witness against that generation at the day of judgment, and, by her example and practices, which will then be produced, condemn them, or aggravate their condemnation.",
+            "And behold, a greater than Solomon is here; one that was infinitely greater than Solomon was, in everything; so particularly in that, in which he excelled others, and on the account of which the queen of the south came unto him, namely, wisdom.",
+            "What an aggravation of the condemnation of the Jews will this be another day, that a Gentile woman, living in a foreign and distant land, should, upon the fame of the wisdom of Solomon, leave her own kingdom and country, and come to Jerusalem, to hear his wise discourses about things natural, civil, and moral; and yet the Jews, who had a greater than Solomon in the midst of them, and had no need to take much pains to come to the sight and hearing of him, yet rejected him as the Messiah, blasphemed his miracles, and despised his ministry."
+        ],
+        "John Wesley": [
+            "She came from the uttermost parts of the earth \u2014 That part of Arabia from which she came was the uttermost part of the earth that way, being bounded by the sea1Kings10:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The queen of Sheba, a ruler who reigned over Egypt and \u00c6thiopia, travelled from a distant land to hear the wisdom of Solomon, a mere man. She was captivated by what she witnessed and heard. However, when a Greater than Solomon, Jesus, came to the Jews, they despised and rejected Him. The queen of the south will be a witness against that generation at the judgment, condemning them through her example and practices. It is a sober reminder that a Gentile woman, living far away, was willing to journey to hear the wisdom of Solomon, while the Jews rejected the greater wisdom offered by Jesus in their midst.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.6454093990933882,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                33.71,
+                34.37,
+                31.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The queen of Sheba, who reigned over Egypt and \u00c6thiopia, left her distant kingdom to hear the wisdom of Solomon. This Gentile woman, uneducated in the ways of God, was drawn to Solomon's teachings. Yet, when a Greater than Solomon came to the Jews, they rejected Him. The queen of the south will rise up in judgment against that generation, serving as an example and condemning their refusal to accept Jesus, the Prince of all the prophets.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7727117808721802,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                31.62,
+                35.57,
+                32.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The queen of Sheba, reigning over Egypt and \u00c6thiopia, left her kingdom and journeyed to Jerusalem to seek the wisdom of Solomon, a gifted man. However, when a Greater than Solomon, Jesus, arrived, the Jews despised and rejected Him. The queen of the south will rise up in judgment with that generation, serving as a witness against them, highlighting their rejection of Jesus. This condemnation is aggravated by the fact that a foreign woman, uneducated in the ways of God, was willing to travel from afar to seek Solomon's wisdom, while the Jews rejected the greater wisdom presented to them.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8009595181385174,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.22,
+            "commentatorTierSimilarities": [
+                33.16,
+                35.71,
+                31.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The queen of Sheba, reigning over Egypt and \u00c6thiopia, left her kingdom to seek the wisdom of Solomon, a mere man. In contrast, the Jews rejected the Greater than Solomon, Jesus. The queen of the south will rise up in judgment against that generation, serving as an example and condemning their refusal to accept Jesus, the Prince of all the prophets. It is a humbling reminder that a Gentile woman, uneducated in the ways of God, traveled a great distance to hear Solomon's wisdom, while the Jews rejected the greater wisdom offered by Jesus.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8163090472624932,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                31.66,
+                36.93,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The queen of Sheba, reigning over Egypt and \u00c6thiopia, left her distant kingdom to hear the wisdom of Solomon. This Gentile woman, uneducated in the ways of God, was drawn to Solomon's teachings. Yet, when a Greater than Solomon came to the Jews, they rejected Him. The queen of the south will rise up in judgment against that generation, serving as an example and condemning their refusal to accept Jesus, the Prince of all the prophets. It is a sober reminder that a Gentile woman, living far away, was willing to journey to hear the wisdom of Solomon, while the Jews rejected the greater wisdom offered by Jesus.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7716273689455269,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                29.8,
+                37.99,
+                32.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

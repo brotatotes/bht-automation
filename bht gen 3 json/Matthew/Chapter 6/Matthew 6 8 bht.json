@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:44:15",
+    "verseRef": "Matthew 6:8",
+    "bestBHT": {
+        "bht": "God's view, in sharp contrast with the false gods of the heathen, is one that encourages His children to pray to Him and connects His promised supplies to their petitions. This view of God should inspire us to draw near and keep near to Him, opening up every aspect of our lives to Him. We can be assured that by asking, seeking, and knocking, we will receive from Him. Our prayers are not meant to inform God of our needs, but rather to confess our consciousness of them and our trust that He can and will supply them. Prayer is a means by which we seek God, exercise our faith, and cultivate a disposition that is ready to receive His grace and blessing.",
+        "wordCount": 124,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.8626071509419204,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+        "commentatorTierSimilarities": [
+            34.55,
+            31.87,
+            33.58
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What a view of God is here given, in sharp contrast with the gods of the heathen!",
+            "He will have His children pray to Him, and links all His promised supplies to their petitions for them.",
+            "encouraging us to draw near and keep near to Him, to talk and walk with Him, to open our every case to Him, and assure ourselves that thus asking we shall receive\u2014thus seeking we shall find\u2014thus knocking it shall be opened to us."
+        ],
+        "John Calvin": [
+            "Whoever is convinced, that God not only cares for us, but knows all our wants [...] will reckon it enough to prolong his prayers, as far as shall be necessary for exercising his faith; but will reckon it absurd and ridiculous to approach God with rhetorical embellishments.",
+            "Believers do not pray, with the view of informing God about things unknown to him, or of exciting him to do his duty, or of urging him as though he were reluctant. On the contrary, they pray, in order that they may arouse themselves to seek him, that they may exercise their faith in meditating on his promises.",
+            "We must, therefore, maintain both of these truths, that He freely anticipates our wishes, and yet that we obtain by prayer what we ask."
+        ],
+        "Philip Schaff": [
+            "Therefore, because these things are heathen; the temptation to adopt or retain heathen worship will arise.",
+            "Our prayers do not tell 'our Father' of our needs, but simply confess our consciousness of them, and our trust that He can and will supply them.",
+            "Both of these feelings must precede answer to prayer. Hence the reason holds good against vain repetitions, not against childlike petitions."
+        ],
+        "John Gill": [
+            "Do not be imitators of them, and follow their ways, who have only the dim light of nature to guide them.",
+            "The omniscience of God is a considerable argument, and a great encouragement to prayer; he knows our persons and our wants beforehand.",
+            "As he is able to help us, we have reason to believe he will; especially since he stands in the relation of a Father to us."
+        ],
+        "John Wesley": [
+            "Your Father knoweth what things ye have need of \u2014 We do not pray to inform God of our wants.",
+            "The chief thing wanting is, a fit disposition on our part to receive his grace and blessing.",
+            "Consequently, one great office of prayer is, to produce such a disposition in us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's view, in sharp contrast with the false gods of the heathen, is one that encourages His children to pray to Him and connects His promised supplies to their petitions. This view of God should inspire us to draw near and keep near to Him, opening up every aspect of our lives to Him. We can be assured that by asking, seeking, and knocking, we will receive from Him. Our prayers are not meant to inform God of our needs, but rather to confess our consciousness of them and our trust that He can and will supply them. Prayer is a means by which we seek God, exercise our faith, and cultivate a disposition that is ready to receive His grace and blessing.",
+            "wordCount": 124,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8626071509419204,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                34.55,
+                31.87,
+                33.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Matthew 6:8, we are presented with a striking image of God, contrasting with the false gods of the heathen. This view encourages us to pray, knowing that God links His promised supplies to our petitions. It urges us to draw near to Him, talk with Him, and bring all our concerns to Him. By asking, seeking, and knocking, we can be confident that we will receive, find, and have doors opened. Our prayers are not about informing God, but confessing our needs and trusting in His ability to provide. Through prayer, we seek God, exercise faith, and cultivate a disposition to receive His grace and blessing.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.6877471036700697,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                34.93,
+                31.77,
+                33.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What a contrast between the gods of the heathen and the view of God presented in the verse! God desires His children to pray, linking His promised supplies to their petitions. This encourages us to draw near to Him, engage in open conversation with Him, and present our every concern. He assures us that by asking, seeking, and knocking, we will receive, find, and have doors opened. Our prayers express our trust that God is aware of our needs and is capable of meeting them. Through prayer, we seek God, exercise our faith, and create a disposition to receive His grace and blessing.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.671311136965915,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                37.73,
+                30.0,
+                32.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, we are given a new perspective on God, distinct from the deities worshipped by the heathen. God actively desires His children to engage in dialogue with Him, recognizing that He will fulfill their requests. This encourages us to continually draw near to Him, speaking openly with Him, and entrusting all of our needs to Him. As we persist in asking, seeking, and knocking, we can expect to receive, find, and have doors opened to us. Our prayers are not meant to inform God, but instead to acknowledge our needs, trust in His provision, and foster a disposition to receive His blessings.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.663075276808295,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                35.38,
+                31.46,
+                33.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What a contrast between the gods of the heathen and God's desired interaction with His children! He wants us to pray, connecting His promised provisions to our petitions. This prompts us to approach Him, converse with Him, share our every concern, and have faith that He will answer us. Instead of merely informing God of our needs, our prayers express our trust in His ability to supply them. Through asking, seeking, and knocking, we can expect to receive, find, and have doors opened. In prayer, we seek God, exercise our faith, and prepare ourselves to receive His grace and blessings.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.704837202898507,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                35.93,
+                31.1,
+                32.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

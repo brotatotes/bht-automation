@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:12",
+    "verseRef": "Matthew 12:31",
+    "bestBHT": {
+        "bht": "The sin and blasphemy mentioned here is not a specific wrongdoing, but rather a deliberate opposition to the present power of the Holy Spirit through acts of blasphemy. Although all sins find forgiveness with God, this sin, blaspheming against the Spirit, is an exception. It involves attributing the miracles of Jesus, done through the power of the Holy Spirit, to the work of the devil. This sin is inexcusable and will not be forgiven, even with subsequent repentance or claims of ignorance.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.6988304737970745,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.08,
+        "commentatorTierSimilarities": [
+            30.2,
+            40.84,
+            28.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The distinction in these much controverted verses seems to be, between 1) the sin and blasphemy which arises from culpable ignorance and sensual blindness\u2026 and (2) the blasphemy of those who\u2026 openly oppose themselves to [God's power], as did\u2026 these Pharisees.",
+            "They may as yet have been under the veil of ignorance; but this their last proceeding, in the sight of Him who knows the hearts, approximated very near to, or perhaps reached, this awful degree of guilt.",
+            "It is not a particular species of sin which is here condemned, but a definite act shewing a state of sin, and that state a wilful determined opposition to the present power of the Holy Spirit; and this as shewn by its fruit, blasphemy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Well, says our Lord, all sin\u2014whether in its ordinary or its more aggravated forms\u2014shall find forgiveness with God.\" ",
+            "There is no sin whatever, it seems, of which it may be said, 'That is not a pardonable sin.'",
+            "This glorious assurance is not to be limited by what follows; but, on the contrary, what follows is to be explained by this."
+        ],
+        "John Calvin": [
+            "Those who rebel, after that the power of God has been revealed, cannot be excused on the plea of ignorance.",
+            "Those persons sin and blaspheme against the Holy Spirit, who maliciously turn to his dishonor the perfections of God, which have been revealed to him by the Spirit, in which His glory ought to be celebrated, and who, with Satan, their leader, are avowed enemies of the glory of God.",
+            "It shows equal ignorance to object, that it would be absurd if even repentance could not obtain pardon; for blasphemy against the Spirit is a token of reprobation, and hence it follows, that whoever have fallen into it, have been delivered over to a reprobate mind."
+        ],
+        "Philip Schaff": [
+            "Every sin and blasphemy. Every sin up to and including blasphemy, with the exception afterwards mentioned.",
+            "\u2018Blasphemy,\u2019 the worst form of sin: it is malicious evil-speaking against God. Even this may be forgiven if repented of.",
+            "But the blasphemy against the Spirit. The one exception."
+        ],
+        "Archibald T. Robertson": [
+            "What is the blasphemy against the Holy Spirit? These Pharisees had already committed it.\" ",
+            "That sin was without excuse and would not be forgiven in their age or in the coming one.",
+            "Probably some do who ridicule the manifest work of God's Spirit in men's lives and attribute the Spirit's work to the devil."
+        ],
+        "John Gill": [
+            "all kind of sin, whether committed more immediately against God, or man, the first or second table of the law, or against any of the divine precepts; be they sins small or great, secret or open, sins of heart, lip, or life, or attended with whatsoever aggravating circumstances; and all kind of blasphemy, or evil speaking of men, or of angels, or of the name of God, but what is hereafter excepted, there is forgiveness of in the grace of God, through the blood of Christ, even for all sorts of men and sinners whatever.",
+            "by which is meant, not every ignorant denial of, and opposition to his deity and personality; nor all resistance of him in the external ministry of the word; nor every sin that is knowingly and wilfully committed; but it is a despiteful usage of the Spirit of grace, an opposing, contradicting, and denying the operations wrought, or doctrines revealed by him, against a man's own light and conscience, out of wilful and obstinate malice, on purpose to lessen the glory of God, and gratify his own lusts",
+            "which sin was unpardonable at that present time, as well as under that dispensation then to come, when the Spirit of God was poured down in a more plenteous manner."
+        ],
+        "John Wesley": [
+            "The blasphemy against the Spirit - How much stir has been made about this? How many sermons, yea, volumes, have been written concerning it?",
+            "And yet there is nothing plainer in all the Bible.",
+            "It is neither more nor less than the ascribing those miracles to the power of the devil, which Christ wrought by the power of the Holy Ghost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sin and blasphemy that Jesus is referring to in this verse is not a specific action, but rather the deliberate and willful opposition to the present power of the Holy Spirit, manifested through acts of blasphemy. Even though all sins can find forgiveness with God, this is the one exception. The blasphemy against the Spirit, which the Pharisees had already committed, is an act of ascribing the miracles done by Jesus through the power of the Holy Spirit to the power of the devil. This sin is without excuse and will not be forgiven. It is a state of sin and a determined opposition to God's power, which cannot be excused by ignorance or later repented of.",
+            "wordCount": 119,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.6515562242927495,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.5,
+            "commentatorTierSimilarities": [
+                31.76,
+                38.97,
+                29.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sin and blasphemy mentioned in this passage does not pertain to any specific wrongdoing, but rather signifies a deliberate and obstinate opposition to the present power of the Holy Spirit, demonstrated through acts of blasphemy. While it is true that all sins can be forgiven by God, this particular sin of blaspheming against the Spirit, as committed by the Pharisees, is an exception. It involves attributing the miracles of Jesus, performed through the power of the Holy Spirit, to the work of the devil. This sin is unjustifiable and will not be pardoned, regardless of subsequent repentance or claims of ignorance.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.5961815488918822,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.66,
+            "commentatorTierSimilarities": [
+                31.09,
+                38.54,
+                30.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sin and blasphemy mentioned here is not a specific wrongdoing, but rather a deliberate opposition to the present power of the Holy Spirit through acts of blasphemy. Although all sins find forgiveness with God, this sin, blaspheming against the Spirit, is an exception. It involves attributing the miracles of Jesus, done through the power of the Holy Spirit, to the work of the devil. This sin is inexcusable and will not be forgiven, even with subsequent repentance or claims of ignorance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.6988304737970745,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.08,
+            "commentatorTierSimilarities": [
+                30.2,
+                40.84,
+                28.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sin and blasphemy discussed in this verse revolve around a deliberate opposition to the present power of the Holy Spirit through acts of blasphemy. Although all sins can be forgiven, this sin, specifically blaspheming against the Spirit, is an exception. It involves ascribing the miracles performed by Jesus through the Holy Spirit to the power of the devil. This sin is unpardonable, regardless of subsequent repentance or claims of ignorance, as it showcases a determined and wilful malice against God's glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.6168728599678266,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.35,
+            "commentatorTierSimilarities": [
+                30.04,
+                39.79,
+                30.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sin and blasphemy being discussed here revolves around a deliberate opposition to the present power of the Holy Spirit. This opposition is expressed through acts of blasphemy, specifically attributing the miracles performed by Jesus to the power of the devil. While all sins are forgivable, this sin of blasphemy against the Holy Spirit is an exception. It demonstrates a determined and obstinate malice against God's glory and is unpardonable, with no excuse or exception, even if later repented or claimed to be ignorant.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.697603120411182,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.03,
+            "commentatorTierSimilarities": [
+                29.49,
+                41.03,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

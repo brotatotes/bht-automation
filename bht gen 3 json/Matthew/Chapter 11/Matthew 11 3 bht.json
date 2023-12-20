@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:46:19",
+    "verseRef": "Matthew 11:3",
+    "bestBHT": {
+        "bht": "John, in his prison mood, longed for reassurance, asking, Art thou the Coming One? He wondered if Jesus was indeed the promised Messiah. The Jews, who had long expected a Savior, had been foretold of his coming. Jesus, aware of John's doubt, provided the answer that would strengthen his faith and reassure him. Resting on the truth of God, faith does not gaze on all sides but finds satisfaction in Christ alone, the fulfillment of prophecies.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9814270099415792,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            34.93,
+            31.27,
+            33.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Art thou he that should come? - That is, Art thou the Messiah, or the Christ?\" (26 words)",
+            "The Jews expected a Saviour. His coming had been long foretold\" (12 words)",
+            "An answer was therefore ready to the inquiries of John.\" (10 words)"
+        ],
+        "Marvin Vincent": [
+            "Thou. Emphatic. Art thou \"the Coming One?\" - a current phrase for the Messiah."
+        ],
+        "John Calvin": [
+            "John takes for granted what the disciples had known from their childhood; for it was the first lesson of religion, and common among all the Jews, that Christ was to come, bringing salvation and perfect happiness.",
+            "On this point, accordingly, he does not raise a doubt, but only inquires if Jesus be that promised Redeemer; for, having been persuaded of the redemption promised in the Law and the Prophets, they were bound to receive it when exhibited in the person of Christ.",
+            "Resting on the truth of God, [faith] does not gaze on all sides, does not vary, but is satisfied with Christ alone, and will not be turned to another."
+        ],
+        "Philip Schaff": [
+            "John was temporarily in depression and doubt, respecting the slow and unostentatious mode of Christ\u2019s manifestation, and the true nature of his kingdom.",
+            "John\u2019s disciples (not himself) were in doubt, and he sent them to be instructed; the opinion of some of the Fathers. This saves John\u2019s orthodoxy at the expense of his morality.",
+            "The Bible does not represent the saints as free from imperfection and doubt. Elijah, the prototype of John, had his season of despondency."
+        ],
+        "Archibald T. Robertson": [
+            "He that cometh. This phrase refers to the Messiah.\" ",
+            "John had been in prison 'long enough to develop a prison mood'.\" ",
+            "John longed for reassurance."
+        ],
+        "John Gill": [
+            "A 'periphrasis' of the Messiah, well known to the Jews; for he had been spoken of frequently in the prophecies of the Old Testament, as the Shiloh, the Redeemer, the Prophet, and King that should come.\" ",
+            "John could not be ignorant of this, who had seen the Spirit of God descending on him at his baptism, heard a voice from heaven, declaring him the Son of God; and had so often pointed him out to others, and had borne frequent testimonies that he was the Lamb of God, and bridegroom of his church.",
+            "John, with the rest of the Jews, having a notion of a temporal kingdom, and hearing of the mighty works of Christ, wonders that he himself was not delivered out of prison by him, grows impatient upon it, and asks, if he was the Messiah? And if he was, why did he suffer his forerunner and chief minister to lie in prison?"
+        ],
+        "John Wesley": [
+            "He that is to come \u2014 The Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are you the One? The Messiah? John, in his prison mood, longed for reassurance. He had been the forerunner, pointing to the coming of the Messiah, and now he needed to know if Jesus was indeed the promised Redeemer. The Jews had long expected a Savior, and John, in his momentary doubt, sought confirmation. Jesus, fully aware of John's question, provided the answer that would bring reassurance to his faithful servant.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.831321557132744,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                34.89,
+                29.62,
+                35.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Art thou the Coming One? John, in his prison mood, longed for reassurance about the Messiah's arrival. The Jews' expectation of a Savior had been long foretold, and John, as the forerunner, wondered if Jesus was indeed the promised Redeemer. Resting on the truth of God, faith does not gaze on all sides but is satisfied with Christ alone. Jesus, aware of John's doubt, provided the answer that would strengthen his faith and reassure him of the fulfillment of prophecies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9021020177831356,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                34.88,
+                31.08,
+                34.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Art thou the Coming One? John, in his prison mood, longed for reassurance about the Messiah's arrival. The Jews' expectation of a Savior had been long foretold, and John, as the forerunner, wondered if Jesus was indeed the promised Redeemer. Resting on the truth of God, faith does not gaze on all sides but is satisfied with Christ alone. Jesus, aware of John's doubt, provided the answer that would strengthen his faith and reassure him of the fulfillment of prophecies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9021020177831356,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                34.88,
+                31.08,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, in his prison mood, longed for reassurance, asking, Art thou the Coming One? He wondered if Jesus was indeed the promised Messiah. The Jews, who had long expected a Savior, had been foretold of his coming. Jesus, aware of John's doubt, provided the answer that would strengthen his faith and reassure him. Resting on the truth of God, faith does not gaze on all sides but finds satisfaction in Christ alone, the fulfillment of prophecies.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9814270099415792,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                34.93,
+                31.27,
+                33.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his prison mood, John longed for reassurance, asking if Jesus was the Coming One, the current phrase for the Messiah. The Jews, familiar with the concept of a Savior, anticipated the arrival of the Messiah. They believed that he would bring salvation and perfect happiness. Resting on the truth of God, faith finds satisfaction in Christ alone. Aware of John's doubt, Jesus provided the answer that would strengthen his faith and affirm the fulfillment of prophecies.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.918806242361652,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                32.87,
+                28.86,
+                38.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

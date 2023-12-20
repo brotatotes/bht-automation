@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:48:40",
+    "verseRef": "Matthew 15:29",
+    "bestBHT": {
+        "bht": "Jesus sat on the mountain side near the Sea of Galilee, possibly to rest and teach. He came from the eastern side of the lake, passing through the coasts of Decapolis, a region with ten cities near Phenicia and Galilee. This miracle spread throughout the country, drawing people from all parts of the region to bring individuals to Jesus for healing. The Sea of Galilee is also known as the Sea of Tiberias and the lake of Gennesareth.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.9036000305770624,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+        "commentatorTierSimilarities": [
+            36.04,
+            31.86,
+            32.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the mountain is the high land on the coast of the lake, not any particular mountain.",
+            "From this account it is uncertain to which side of the lake our Lord came.",
+            "from Mark vii. 31 we learn that it was to the eastern side, through the midst of the coasts of Decapolis."
+        ],
+        "John Calvin": [
+            "Decapolis was so called from its containing ten cities; and as it was contiguous to Phenicia and to that part of Galilee which lay towards the sea, Christ must have passed through it, when he returned from Phenicia into Galilee of Judea.\" ",
+            "Mark selected for description a miracle which was performed during the journey, and the report of which was no sooner circulated than it aroused the inhabitants of every part of that country to bring many persons to Christ to be cured.",
+            "Now we know that the Evangelists are not anxious to relate all that Christ did, and are so far from dwelling largely on miracles, that they only glance at a few by way of example."
+        ],
+        "Philip Schaff": [
+            "He probably made a circuit, passing southeastward, through the northern part of the Decapolis at the foot of the Lebanon range, reaching the mountainous (and solitary) district on the eastern shore of the Sea of Galilee.",
+            "To obtain here the rest He had sought in \u2018the parts of Tyre and Sidon.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "And sat there (\u03b5\u03ba\u03b1\u03b8\u03b7\u03c4\u03bf \u03b5\u03ba\u03b5). \"Was sitting there\" on the mountain side near the sea of Galilee, possibly to rest and to enjoy the view or more likely to teach. "
+        ],
+        "John Gill": [
+            "And Jesus departed from thence... he removed, and passed through the midst of the coast of Decapolis.\" ",
+            "He came to those parts of Galilee, which lay near the sea side, and went into a mountain.",
+            "He sat down there, to take some rest, being weary with his journey, and as waiting for the multitude to come to him, both for instruction and healing."
+        ],
+        "John Wesley": [
+            "The Jews gave the name of seas to all large lakes.",
+            "It was called also, the sea of Tiberias.",
+            "It was likewise styled the lake of Gennesareth: perhaps a corruption of Cinnereth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went to the high land near the Sea of Galilee, sitting on the mountain side, possibly to rest or teach. It is uncertain to which side of the lake he came, but it is believed to be the eastern side, passing through the coasts of Decapolis. Decapolis was a region containing ten cities and was situated near Phenicia and Galilee. This miracle performed during Jesus' journey spread throughout the country, leading people from all parts of the region to bring many individuals to Jesus for healing. The Evangelists only provide a glimpse of the miracles Jesus performed, but this particular miracle was selected by Mark as an example. The Sea of Galilee is also referred to as the Sea of Tiberias and the lake of Gennesareth.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.700902945947302,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.9,
+            "commentatorTierSimilarities": [
+                35.86,
+                29.27,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus sat on the mountain side near the Sea of Galilee, possibly to rest and teach. He came from the eastern side of the lake, passing through the coasts of Decapolis, a region with ten cities near Phenicia and Galilee. This miracle spread throughout the country, drawing people from all parts of the region to bring individuals to Jesus for healing. The Evangelists provide only a few examples of the miracles Jesus performed, and the Sea of Galilee is also known as the Sea of Tiberias and the lake of Gennesareth.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8582306869533214,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                34.35,
+                32.12,
+                33.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus sat on the mountain side near the Sea of Galilee, possibly to rest and teach. He came from the eastern side of the lake, passing through the coasts of Decapolis, a region with ten cities near Phenicia and Galilee. This miracle spread throughout the country, drawing people from all parts of the region to bring individuals to Jesus for healing. The Sea of Galilee is also known as the Sea of Tiberias and the lake of Gennesareth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9036000305770624,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                36.04,
+                31.86,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sat on the mountain side near the Sea of Galilee, resting and teaching (from first-tier commentary). He traveled from the eastern side of the lake, passing through the coasts of Decapolis, a region with ten cities (from third-tier commentary) near Phenicia and Galilee. The miracle he performed spread throughout the country, drawing people from all parts of the region to bring individuals to Jesus for healing. The Sea of Galilee is also known as the Sea of Tiberias and the lake of Gennesareth (from third-tier commentary).",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8061282944851895,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                34.38,
+                33.3,
+                32.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus sat on the mountain side near the Sea of Galilee, possibly to rest and teach. He came from the eastern side of the lake, passing through the coasts of Decapolis, a region with ten cities near Phenicia and Galilee. This miracle spread throughout the country, drawing people from all parts of the region to bring individuals to Jesus for healing. The Sea of Galilee is also known as the Sea of Tiberias and the lake of Gennesareth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9036000305770624,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                36.04,
+                31.86,
+                32.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

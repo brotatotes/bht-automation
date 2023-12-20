@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:11",
+    "verseRef": "Matthew 23:34",
+    "bestBHT": {
+        "bht": "Jesus, as Head of His Church, announces the Divine Wisdom's purpose to send messengers whom the people would reject, thereby filling up their iniquity. These messengers are evangelical, equivalent to prophets, wise men, and scribes. They will be persecuted and killed by the people, hastening their inevitable doom. However, Jesus emphasizes that the rejection of these messengers brings a greater reproach upon the people and will result in a heavier condemnation.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7018858224246687,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+        "commentatorTierSimilarities": [
+            37.86,
+            29.27,
+            32.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Since ye are bent upon filling up the iniquities of your fathers, in God\u2019s inscrutable purposes ye shall go on rejecting His messengers.",
+            "These words are nowhere written in Scripture, nor is it necessary to suppose that to be our Lord\u2019s meaning.",
+            "He speaks this as Head of His Church, of those whom He was about to send."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am sending,\" that is, \"am about to send.",
+            "It is simply an announcement of a purpose of the Divine Wisdom, in the high style of ancient prophecy, to send a last set of messengers whom the people would reject, and rejecting, would fill up the cup of their iniquity.",
+            "They are evidently evangelical messengers, but called by the familiar Jewish names of 'prophets, wise men, and scribes,' whose counterparts were the inspired and gifted servants of the Lord Jesus."
+        ],
+        "Albert Barnes": [
+            "I send unto you prophets ... - Jesus doubtless refers here to the apostles, and other teachers of religion.",
+            "Some of them ye shall kill - As in the case of Stephen Acts 7:59 and James Acts 12:1-2.",
+            "Shall scourge - See the notes at Matthew 10:17. This was done, Acts 22:19-24; 2 Corinthians 11:24-25."
+        ],
+        "John Calvin": [
+            "To put down this foolish boasting, Christ not only affirms that they do not excel other nations on the ground of having received from God distinguished prophets and expounders of his Wisdom, but maintains that this ilk requited favor is a greater reproach, and will bring upon them a heavier condemnation.",
+            "The word of God, indeed, in itself and by its own nature, brings salvation, and invites all men indiscriminately to the hope of eternal life; but as all are not inwardly drawn, and as God does not pierce the ears of any\u2014in short, as they are not renewed to repentance or bent to obedience, those who reject the word of God render it, by their unbelief, deadly and destructive.",
+            "But it is asked, How does he declare that the prophecies will turn to the destruction of the Jews, while his adoption still continued to be in force towards that nation? I reply, As but a small portion embraced the word by faith for salvation, this passage relates to the greater number or the whole body; as Isaiah, after having predicted the general destruction of the nation, is commanded to seal the law of God among the disciples."
+        ],
+        "Philip Schaff": [
+            "The sending of messengers of salvation, the multiplication of privileges, hastens the doom of the hardened.",
+            "The Old Testament teachers had been treated in the same way, and the prediction indicates that they too had been sent by Christ.",
+            "But there is no necessary distinction, for Paul belonged to all three classes."
+        ],
+        "John Gill": [
+            "Christ here speaks, as, one having power and authority, to qualify and send forth men, under the several characters here mentioned.",
+            "The persons designed by 'prophets', 'wise men', and 'Scribes', are his apostles.",
+            "And some of them ye shall kill; and crucify; and some of them ye shall scourge in your synagogues; and persecute them from city to city."
+        ],
+        "John Wesley": [
+            "Behold, I send - Is not this speaking as one having authority?\" ",
+            "Prophets - Men with supernatural credentials: Wise men - Such as have both natural abilities and experience; and scribes - Men of learning.",
+            "But all will not avail."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 23:34, Jesus speaks as the head of His church, announcing the Divine Wisdom's purpose to send messengers whom the people would reject, thus filling up their iniquity. These messengers are evangelical, equivalent to prophets, wise men, and scribes, whom the people will persecute and kill. This sending of messengers, even with the multiplication of privileges, serves to hasten the doom of the hardened. However, Jesus emphasizes that the rejection of these messengers brings a greater reproach upon the people and will result in a heavier condemnation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8292176894411045,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                37.2,
+                30.91,
+                31.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as Head of His Church, announces the Divine Wisdom's purpose to send messengers whom the people would reject, thereby filling up their iniquity. These messengers are evangelical, equivalent to prophets, wise men, and scribes. They will be persecuted and killed by the people, hastening their inevitable doom. However, Jesus emphasizes that the rejection of these messengers brings a greater reproach upon the people and will result in a heavier condemnation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7018858224246687,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                37.86,
+                29.27,
+                32.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in His role as the Head of His Church, declares that the Divine Wisdom intends to send messengers whom the people will reject, thus contributing to the completion of their iniquitous deeds. These messengers, identified as prophets, wise men, and scribes, are evangelical in nature. They will face persecution, including being killed, crucified, and scourged, while some will be relentlessly pursued from city to city. This rejection of God's messengers results in a greater reproach and a more severe condemnation for the people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.616903943558953,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                37.48,
+                27.31,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Head of His Church, Jesus reveals that the Divine Wisdom will send messengers whom the people will reject, filling up their iniquity. These messengers are evangelical\u2014prophets, wise men, and scribes. They will encounter persecution, being killed, crucified, scourged, and pursued from city to city. This rejection of God's messengers results in a greater reproach and a more severe condemnation for the people, hastening their impending doom.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.623519436255382,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                37.77,
+                27.83,
+                34.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, the Head of His Church, foretells that the Divine Wisdom has a purpose to send messengers whom the people will reject, ultimately filling up their iniquity. These messengers, referred to as prophets, wise men, and scribes, are evangelical in nature. They will face persecution, including being killed, crucified, and scourged, while others will be pursued from city to city. This rejection brings about a greater reproach and leads to a more severe condemnation. Thus, the rejection of God's messengers hastens the impending doom for the people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.5439648441023737,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                39.41,
+                27.57,
+                33.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

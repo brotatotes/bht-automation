@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:50:25",
+    "verseRef": "Matthew 20:8",
+    "bestBHT": {
+        "bht": "As evening approached, the Lord of the vineyard instructed his steward to call the laborers and give them their hire, adhering to the Jewish custom of paying at the end of the day. The steward's order to pay the last hired first is a remarkable direction that points to the day of final account and the fulfillment of Jesus' words, the first shall be last, and last first. This parable highlights that eternal life is not earned, but rather a free gift from God through Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.7411621391893624,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            35.54,
+            32.61,
+            31.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By the Mosaic law (Deut. xxiv. 15) the wages of an hired servant were to be paid him before night.\" (Quote 1)",
+            "I do not think the steward must be pressed as having a spiritual meaning.\" (Quote 2)",
+            "If it has, it represents Christ (see Heb. iii. 6, and ch. xi. 27).\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So when even was come\u2014that is, the reckoning time between masters and laborers... pointing to the day of final account.\" (Matthew 20:8)",
+            "the lord of the vineyard saith unto his steward\u2014answering to Christ Himself, represented 'as a Son over His own house'...Call the labourers and give them their hire.\" (Matthew 20:8)",
+            "Remarkable direction this\u2014last hired, first paid.\" (Matthew 20:8)"
+        ],
+        "Albert Barnes": [
+            "When even was come - That is, when the twelfth hour had come; the day was ended, and the time of payment was come.",
+            "A steward is one who transacts business in the place of another. He was one who had the administration of affairs in the absence of the householder, who provided for the family, and who was entrusted with the payment of laborers and servants.",
+            "Beginning from the last unto the first - It was immaterial where he began to pay, provided he dealt justly by them."
+        ],
+        "John Calvin": [
+            "They that are alive, he says, at the coming of Christ will not come before those who previously fell asleep in Christ, but will follow.\" ",
+            "He could not otherwise have expressed \u2014 what he afterwards adds \u2014 that the first murmured, because they did not receive more.",
+            "There is no foundation, therefore, for what some have imagined, that these words are directed against the Jews, who were full of malice and envy towards the Gentiles."
+        ],
+        "Philip Schaff": [
+            "His steward. Christ, the overseer of the house of God, entrusted with the whole economy of salvation...\" ",
+            "including the distribution of the final reward\" ",
+            "It was the Jewish custom to pay laborers at the close of the day."
+        ],
+        "John Gill": [
+            "This even may be understood, either of the evening of the Jewish state, upon the calling of the Gentiles; or of the end of the world, the close of the Gospel dispensation; when the work of it will be over, when all the elect of God, Jews and Gentiles, shall be called and gathered in, and all brought to repentance towards God, and faith in Christ.",
+            "Though eternal life may be called hire or reward, because as hire is given to labourers, so is eternal life...yet it will not be bestowed by way of merit...their services are impure and imperfect...it is the free gift of God through Christ.",
+            "Beginning with the last that was called and sent into the vineyard, and so proceeding on to the next to them; giving them their wages as he went along, till he came to the first, who were early in the morning hired into this service; intimating, that some such method will be taken in the introducing of the saints into the kingdom of the Messiah here, and into his everlasting kingdom hereafter; whereby that saying of our Lord's which occasioned this parable, will be also fulfilled, 'the first shall be last, and last first'."
+        ],
+        "John Wesley": [
+            "In the evening \u2014 Of life; or of the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When evening came, it was time for the stewards to pay the laborers their wages, as prescribed by the Mosaic law. The Lord of the vineyard instructed His steward to call the laborers and give them their hire, adopting the remarkable direction of paying the last ones hired first. Some have sought to find a spiritual meaning in the steward, suggesting that it represents Christ Himself, who will distribute the final reward. However, it is important not to press this interpretation too far. This parable points to the day of final reckoning when the first murmured because they did not receive more, reminding us that eternal life is not bestowed by way of merit, but is the free gift of God through Christ.",
+            "wordCount": 123,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.5378220351887828,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.48,
+            "commentatorTierSimilarities": [
+                40.71,
+                33.23,
+                26.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When evening came, in accordance with the Mosaic law, the stewards were to pay the laborers their wages. The Lord of the vineyard instructed His steward to call the laborers and give them their hire, adopting the remarkable direction of paying the last ones hired first. Some suggest that the steward represents Christ Himself who will distribute the final reward, but it is crucial not to overinterpret this. The parable focuses on the day of final reckoning when some murmured for not receiving more, underscoring that eternal life is a free gift from God through Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.703270474345529,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                37.86,
+                35.81,
+                26.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In keeping with the Mosaic law, the laborers were to receive their wages before nightfall. The steward, representing Christ, called the laborers and paid their hire, beginning with the last ones hired and ending with the first. This unique order of payment signifies a future arrangement in the kingdom of God, where the first shall be last and the last shall be first. This parable emphasizes that eternal life is a gift from God, not earned through merit, and will be freely bestowed by Christ at the appointed time.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6359510978698184,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                36.95,
+                33.86,
+                29.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As evening approached, the Lord of the vineyard instructed his steward to call the laborers and give them their hire, adhering to the Jewish custom of paying at the end of the day. The steward's order to pay the last hired first is a remarkable direction that points to the day of final account and the fulfillment of Jesus' words, the first shall be last, and last first. This parable highlights that eternal life is not earned, but rather a free gift from God through Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7411621391893624,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                35.54,
+                32.61,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When evening came, it was time for the stewards to pay the laborers their wages, as prescribed by the Mosaic law. The Lord of the vineyard instructed His steward to call the laborers and give them their hire, adopting the remarkable direction of paying the last ones hired first. Some have sought to find a spiritual meaning in the steward, suggesting that it represents Christ Himself, who will distribute the final reward. However, it is important not to press this interpretation too far. This parable points to the day of final reckoning when the first murmured because they did not receive more, reminding us that eternal life is not bestowed by way of merit, but is the free gift of God through Christ.",
+            "wordCount": 123,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.5378220351887828,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.48,
+            "commentatorTierSimilarities": [
+                40.71,
+                33.23,
+                26.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

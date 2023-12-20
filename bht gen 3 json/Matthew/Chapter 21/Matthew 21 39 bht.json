@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:50:50",
+    "verseRef": "Matthew 21:39",
+    "bestBHT": {
+        "bht": "Jesus was caught by the religious leaders and cast out of the vineyard, representing His rejection and excommunication. This event, witnessed by all three Evangelists, signified His delivery to the Gentiles, who mocked, scourged, and eventually put Him to death. While Mark's account reverses the order, Jesus's warning reveals both His recognition of the rulers' intent to kill Him and His enduring love.",
+        "wordCount": 65,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.601942932716058,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+        "commentatorTierSimilarities": [
+            17.78,
+            41.02,
+            41.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is partly to be understood of our Lord being given up to the heathen to be judged.",
+            "but also literally, as related by all three Evangelists.",
+            "In Mark the order is different, 'they killed him, and cast him out of the vineyard.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39. And they caught him, and cast",
+            "\thim out of the vineyard\u2014compare :- (\"without the gate\u2014without the camp\");",
+            "\t1 Kings 21:13; John 19:17.",
+            "\t",
+            "and slew him."
+        ],
+        "Philip Schaff": [
+            "Cast him forth out of the vineyard. This refers either to the excommunication which preceded death, or to the crucifixion outside the gates of Jerusalem; perhaps to both, the latter being a result of the former. Mark inverts the order.",
+            "And slew him. Our Lord here recognizes the fixed purpose of the rulers to kill Him. Yet there is still love in the warning."
+        ],
+        "John Gill": [
+            "This regards their apprehending of Christ in the garden, by a band of soldiers and officers, sent by the chief priests and Pharisees, who with swords and staves took him, bound him, and led him away.",
+            "but rather, to the delivery of him to those, that were without the vineyard of the Jewish church and nation, to the Gentiles; to be mocked, scourged, and put to death by them.",
+            "for though the sentence of death was pronounced on him by Pilate, an Heathen governor, and was executed by the Roman soldiers; yet it was through the instigation and at the pressing importunity of these husbandmen, the Jewish rulers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how Jesus was caught by the religious leaders and cast out of the vineyard, or the Jewish church and nation, to be judged and eventually killed by the Gentiles. This event was both symbolic, representing His rejection and excommunication, as well as literal, as witnessed by all three Evangelists. The order of events is slightly different in Mark's account, but the outcome remains the same. Jesus's recognition of the rulers' intent to kill Him is coupled with His continued love as He issues a warning.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3267432047101433,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+            "commentatorTierSimilarities": [
+                18.64,
+                43.17,
+                38.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was caught by the religious leaders and cast out of the vineyard, representing His rejection and excommunication. This event, witnessed by all three Evangelists, signified His delivery to the Gentiles, who mocked, scourged, and eventually put Him to death. While Mark's account reverses the order, Jesus's warning reveals both His recognition of the rulers' intent to kill Him and His enduring love.",
+            "wordCount": 65,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.601942932716058,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                17.78,
+                41.02,
+                41.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus was caught and cast out of the vineyard, symbolizing His rejection and excommunication, as revealed by the first-tier commentary. All three Evangelists bear witness to the literal nature of this event. The passage also refers to Jesus being delivered to the Gentiles, who mocked, scourged, and eventually put Him to death, as stated in the third-tier commentary. Despite the rulers' intent to kill Him, Jesus's warning reveals His enduring love, as mentioned in the second-tier commentary.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4741896164801016,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.36,
+            "commentatorTierSimilarities": [
+                18.92,
+                42.66,
+                38.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus was caught and cast out of the vineyard, symbolizing His rejection and excommunication. All three Evangelists witness the literal nature of this event. He was delivered to the Gentiles, who eventually put Him to death. Despite the rulers' intent to kill Him, Jesus's warning reveals His enduring love.",
+            "wordCount": 50,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.4248817048507343,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                22.2,
+                41.38,
+                36.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus was caught and cast out of the vineyard, representing His rejection and excommunication from the Jewish church and nation. All three Evangelists bear witness to this event, showcasing its literalness. He was then delivered to the Gentiles, who subsequently put Him to death. Jesus's warning shows His recognition of the rulers' intent to kill Him, but it also reflects His enduring love.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3990068359635373,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.86,
+            "commentatorTierSimilarities": [
+                19.19,
+                40.42,
+                40.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

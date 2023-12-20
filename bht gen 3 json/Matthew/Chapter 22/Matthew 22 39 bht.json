@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:51:28",
+    "verseRef": "Matthew 22:39",
+    "bestBHT": {
+        "bht": "The commandment to love our neighbors is like the first, as it depends on it. Our love for God should be reflected in our love for others. While we are called to love our neighbors, we should not place this above our love for God. Our love for others should not merely mirror how we love ourselves, but how we ought to love ourselves. Genuine love for others stems from the love of God, as it is impossible for His love to reign without producing kindness and care for others.",
+        "wordCount": 90,
+        "quoteTokenProportion": 58.7,
+        "qualityScore": 1.2904573088731652,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+        "commentatorTierSimilarities": [
+            4.32,
+            55.51,
+            40.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "A second. The article omitted. So. Rev. "
+        ],
+        "John Calvin": [
+            "The commandment to love our neighbors is like the first, because it depends upon it.",
+            "It is impossible for the love of God to reign without producing brotherly kindness among men.",
+            "Charity is justly pronounced to be the bond of perfection and the fulfilling of the law."
+        ],
+        "Philip Schaff": [
+            "Our Lord thus exalts the second table to an equality with the first...supreme love to God is to manifest itself in love to men.\" ",
+            "The mistake of humanitarianism is making the 'second' 'the great and first' commandment.",
+            "'Man ought to love his neighbor, 1 . not as he does love himself, but as he ought to love himself; 2 . not in the same degree, but after the same manner.'"
+        ],
+        "John Gill": [
+            "Christ reduces all to two, love to God, and love to the neighbour...",
+            "...this commandment regards love as the former, and requires that it be as that, true, hearty, sincere, and perfect...",
+            "...all duties that are reducible thereunto, and are obligatory on men one towards another whatever; all which should spring from love, and be done heartily and sincerely, with a view to the neighbour's good, and God's glory..."
+        ],
+        "John Wesley": [
+            "Leviticus 19:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The commandment to love our neighbors is like the first, because it depends on it. Our supreme love to God should manifest itself in our love for others. However, we must be careful not to prioritize the second commandment over the first. While we are indeed called to love our neighbors, we should love them not just as we love ourselves, but as we ought to love ourselves. This means loving them in the same manner, but not necessarily to the same degree. The love of God should naturally lead to brotherly kindness among men, for it is impossible for the love of God to reign without producing this love for others. In fact, charity is declared to be the bond of perfection and the fulfilling of the law. Christ simplifies all the commandments to two: love for God and love for our neighbors. Therefore, we should strive to love our neighbors sincerely and wholeheartedly, with the intent of their well-being and God's glory.",
+            "wordCount": 166,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 1.1987745668149192,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.2,
+            "commentatorTierSimilarities": [
+                2.17,
+                55.87,
+                41.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The commandment to love our neighbors is like the first, as it depends upon it. Our supreme love to God should be demonstrated through our love for others. However, we must avoid the error of elevating the second commandment above the first. While we are indeed called to love our neighbors, we are to love them not merely as we love ourselves, but as we ought to love ourselves. Our love for God naturally leads to brotherly kindness among men, as it is impossible for God's love to reign within us without producing love for others. Charity is regarded as the bond of perfection and fulfilling the law. Christ simplifies all commandments to two: love for God and love for our neighbors. Therefore, we should earnestly and sincerely love our neighbors, seeking their good and God's glory.",
+            "wordCount": 139,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.244266863768777,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.72,
+            "commentatorTierSimilarities": [
+                2.85,
+                54.63,
+                42.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The commandment to love our neighbors is like the first, as it depends upon it. Our supreme love to God should be demonstrated through our love for others. However, we must avoid the error of elevating the second commandment above the first. While we are indeed called to love our neighbors, we must love them not as we love ourselves, but as we ought to love ourselves. Our love for God naturally leads to brotherly kindness among men, as it is impossible for God's love to reign without producing love for others.",
+            "wordCount": 93,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 1.278376771205458,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.85,
+            "commentatorTierSimilarities": [
+                2.86,
+                56.83,
+                40.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commandment to love our neighbors is like the first, as it depends on it. Our supreme love to God should be shown through our love for others. Though we are called to love our neighbors, we must not prioritize this over our love for God. We should love our neighbors not just as we love ourselves, but as we should love ourselves. This love for others is a natural outworking of our love for God, as the love of God cannot reign without producing love for others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 65.85,
+            "qualityScore": 1.2527629490712089,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.0,
+            "commentatorTierSimilarities": [
+                0.34,
+                58.2,
+                41.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The commandment to love our neighbors is like the first, as it depends on it. Our love for God should be reflected in our love for others. While we are called to love our neighbors, we should not place this above our love for God. Our love for others should not merely mirror how we love ourselves, but how we ought to love ourselves. Genuine love for others stems from the love of God, as it is impossible for His love to reign without producing kindness and care for others.",
+            "wordCount": 90,
+            "quoteTokenProportion": 58.7,
+            "qualityScore": 1.2904573088731652,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                4.32,
+                55.51,
+                40.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

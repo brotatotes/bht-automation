@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:50:36",
+    "verseRef": "Matthew 20:26",
+    "bestBHT": {
+        "bht": "To aspire for greatness in the next life, one should strive to be a minister and servant in this life. The desire for greatness is not condemned by Jesus, but rather a shift in perspective is required. True greatness comes from a complete reversal of popular opinion, where being first means becoming a servant, submitting to brethren, and serving all. True Christian greatness is measured by deep humility and a service of love that transcends any hierarchical structures or positions. By embodying the role of a servant, one exemplifies true greatness in the eyes of God and others.",
+        "wordCount": 98,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.967442491416143,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+        "commentatorTierSimilarities": [
+            31.93,
+            37.83,
+            30.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "great.... first, i.e. in the next life, let him be minister and servant here."
+        ],
+        "Marvin Vincent": [
+            "Will be great [\u03b8\u03b5\u03bb\u03b7 \u03b5\u03b9\u03bd\u03b1\u03b9] . See on ver. 14. Rev. would be.",
+            "Minister [\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf\u03c2] . Servant, ver. 27 [\u03b4\u03bf\u03c5\u03bb\u03bf\u03c2] . Doulov, perhaps from dew, to bind, is the bondman, representing the permanent relation of servitude. Diakonov, probably from the same root as diwkw, to pursue, represents a servant, not in his relation, but in his activity.",
+            "The term covers both slaves and hired servants. The attendants at the feast at Cana (John 2:5) are called diakonoi. In the epistles diakonov is often used specifically for a minister of the Gospel (1 Corinthians 3:5; 2 Corinthians 3:6; Ephesians 3:7)."
+        ],
+        "John Calvin": [
+            "There can be no doubt that Christ refers to the foolish imagination by which he saw that the apostles were deceived.",
+            "But Christ\u2019s meaning is not difficult to be perceived. As every man is carried away by a love of himself, he declares that this passion ought to be directed to a different object.",
+            "Let the only greatness, eminence, and rank, which you desire, be, to submit to your brethren; and let this be your primacy, to be the servants of all."
+        ],
+        "Philip Schaff": [
+            "To maintain superiority of rank by force is not Christian, even if encouraged by ecclesiastical organizations.",
+            "Deep humility manifesting itself in a service of love is the measure of Christian greatness.",
+            "This does not forbid official orders in the Church, but real greatness is independent of such orders."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not condemn the desire to become great. It is a laudable ambition.",
+            "There are 'great ones' among Christians as among pagans, but they do not 'lord it over' one another, or 'play the tyrant.'",
+            "The way to be 'first' is to be your 'servant,' 'bond-servant.' This is a complete reversal of popular opinion then and now."
+        ],
+        "John Gill": [
+            "This is not to be extended to Christian nations, as if there were to be no order of magistracy subsisting in them; but that all must be on a level, and no distinction of princes and subjects, of governors and governed.",
+            "The same holds good of all pastors of churches, who have no superintendency and pre-eminence over one another, or can, or ought to exercise any lordly power and authority, one, or more, over the rest.",
+            "Whoever would be reckoned a great man in the kingdom of Christ, or under the Gospel dispensation, must be a minister to others if he is desirous of being truly great in the esteem of God, and of men, he must do great service for Christ, and to the souls of men."
+        ],
+        "John Wesley": [
+            "Your minister \u2014 That is, your servant. Matthew 23:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To be great in the next life, one must become a minister and servant in this life. Jesus does not condemn the desire to become great, but instead calls for a complete reversal of popular opinion. To be first is to be a servant, to submit to your brethren, and to be the servants of all. Deep humility and a service of love are the measures of Christian greatness, independent of official orders or ecclesiastical organizations. This does not abolish the order of magistracy or the distinction between princes and subjects, but it calls for a humility and servitude among all believers. True greatness lies in serving others, doing great service for Christ and the souls of men. Your minister is your servant, as Jesus Himself taught.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.9902777025491223,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                33.56,
+                32.33,
+                34.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To attain greatness in the kingdom of God, one must embrace a spirit of servitude and humility. The desire to become great is not condemned by Jesus; rather, it is the popular understanding of greatness that needs to be reversed. True greatness lies not in asserting authority or seeking superiority, but in becoming a servant to others. This call to servitude applies to all believers, regardless of official orders or ecclesiastical organizations. By serving others, we demonstrate true greatness in the eyes of God and humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7866046427877529,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                25.44,
+                44.41,
+                30.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To be great in the kingdom of God, one must be a servant to others. Jesus does not condemn the desire for greatness, but instead challenges the prevailing notion of greatness. True greatness is found in humility and service, not in asserting power or authority. This call to servitude applies to all believers and transcends any official positions or institutional structures. By embracing the role of a servant, we demonstrate true greatness in the eyes of God and humanity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6935946559737498,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                26.81,
+                41.67,
+                31.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To attain greatness in the kingdom of God, one must embrace a spirit of servitude and humility. The desire to become great is not condemned. True greatness lies in becoming a servant to others. This call applies to all believers, regardless of official orders or ecclesiastical organizations. By serving others, we demonstrate true greatness in the eyes of God and humanity.",
+            "wordCount": 61,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.6407712242306476,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                25.77,
+                45.22,
+                29.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To aspire for greatness in the next life, one should strive to be a minister and servant in this life. The desire for greatness is not condemned by Jesus, but rather a shift in perspective is required. True greatness comes from a complete reversal of popular opinion, where being first means becoming a servant, submitting to brethren, and serving all. True Christian greatness is measured by deep humility and a service of love that transcends any hierarchical structures or positions. By embodying the role of a servant, one exemplifies true greatness in the eyes of God and others.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.967442491416143,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                31.93,
+                37.83,
+                30.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

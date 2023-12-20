@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 23:49:31",
+    "verseRef": "Matthew 18:33",
+    "bestBHT": {
+        "bht": "The king in this parable puts a cap on the wicked slave, just as the slave did to the poor debtor. The duty of forgiveness is obvious, yet so often it is imperfectly performed. It is only reasonable and expected that those who have received mercy should show mercy themselves. The slave had the perfect example of pity and compassion set before him, which not only served as an example but also created an obligation for him to act in the same way.",
+        "wordCount": 83,
+        "quoteTokenProportion": 55.74,
+        "qualityScore": 1.7557762141753823,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+        "commentatorTierSimilarities": [
+            39.78,
+            22.59,
+            37.64
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 18:33. Shouldest not thou? The duty of forgiveness is obvious, yet so imperfectly performed.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Shouldst thou not? (\u03bf\u03c5\u03ba \u03b5\u03b4\u03b5 \u03c3\u03b5?) \"Was it not necessary?\" The king fits the cap on this wicked slave that he put on the poor debtor. "
+        ],
+        "John Gill": [
+            "It is but reasonable, what ought to be, and may be expected, that such who have received mercy, should show mercy.",
+            "The least he could have done after this, would have been to have followed such an example, and have had mercy.",
+            "Such an instance of pity and compassion did not only set him an example, worthy of his imitation, but laid him under an obligation to have acted such a part."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The king in this parable puts a cap on the wicked slave, just as the slave did to the poor debtor. The duty of forgiveness is obvious, yet so often it is imperfectly performed. It is only reasonable and expected that those who have received mercy should show mercy themselves. The slave had the perfect example of pity and compassion set before him, which not only served as an example but also created an obligation for him to act in the same way.",
+            "wordCount": 83,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 1.7557762141753823,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                39.78,
+                22.59,
+                37.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The king in this parable fittingly puts a cap on the wicked slave, symbolizing the same unfair treatment the slave showed to the poor debtor. Despite the clear duty of forgiveness, it is often carried out inadequately. It is both reasonable and expected that those who have received mercy should extend mercy to others. The slave had a powerful example of pity and compassion, which not only served as an example for him to follow but also placed an obligation on him to act with mercy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6145094840001541,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                40.22,
+                19.11,
+                40.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The king in this parable fittingly puts a cap on the wicked slave, symbolizing the same unfair treatment the slave showed to the poor debtor. Despite the clear duty of forgiveness, it is often carried out inadequately. It is both reasonable and expected that those who have received mercy should extend mercy to others. The slave had a powerful example of pity and compassion, which not only served as an example for him to follow but also placed an obligation on him to act with mercy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6145094840001541,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                40.22,
+                19.11,
+                40.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The king in this parable fittingly puts a cap on the wicked slave, symbolizing the same unfair treatment the slave showed to the poor debtor. Despite the clear duty of forgiveness, it is often carried out inadequately. It is reasonable and expected that those who have received mercy should extend mercy to others. The slave had a powerful example of pity and compassion, which served as an example and placed an obligation on him to act with mercy.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6230097009505156,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                40.13,
+                19.2,
+                40.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The king in this parable fittingly puts a cap on the wicked slave as a reflection of the injustice the slave exhibited towards the poor debtor. Forgiveness is a duty that is often performed imperfectly. It is both reasonable and expected that those who have received mercy should show mercy in return. The slave was presented with an influential instance of pity and compassion that not only offered an example for him to follow but also placed an obligation on him to act with the same kindness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.6428552154817262,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                39.29,
+                21.81,
+                38.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

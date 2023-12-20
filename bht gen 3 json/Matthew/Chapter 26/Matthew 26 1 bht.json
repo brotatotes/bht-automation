@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:53:06",
+    "verseRef": "Matthew 26:1",
+    "bestBHT": {
+        "bht": "As Jesus finished his prophetic words and prepared for his priestly office, he made a statement acknowledging his willingness to surrender himself to death. This served as both a testimony to his voluntary sacrifice and a means of preventing his disciples from becoming discouraged. Through his courageous and triumphant approach to death, Jesus blotted out the transgressions of the world, reconciling it to the Father. This statement not only indicated the approaching fulfillment of his sacrifice, but also provided comfort and encouragement to his followers.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 0.9951625054120096,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.43,
+        "commentatorTierSimilarities": [
+            0.0,
+            22.25,
+            77.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "He intended, at the same time, to prevent the disciples from taking offense, lest they might be altogether discouraged by the thought that he was dragged to death by necessity.",
+            "Two purposes were thus served by this statement: to testify, first, that the Son of God willingly surrendered himself to die, in order to reconcile the world to the Father...",
+            "...we behold, as in a bright mirror, the voluntary sacrifice, by which all the transgressions of the world were blotted out, and, contemplating the Son of God advancing with cheerfulness and courage to death, we already behold him victorious over death."
+        ],
+        "Philip Schaff": [
+            "Matthew 26:1. Had finished all these words, i.e., in chaps, 14 , 15 . The time was Tuesday night, after Wednesday had begun, according to the Jewish reckoning.",
+            "\t"
+        ],
+        "John Gill": [
+            "And it came to pass, when Jesus had finished all these sayings...\" ",
+            "Having finished his prophetic, and being about to enter his priestly office...\" ",
+            "He gives his disciples some intimations of its near approach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After finishing his prophetic words and preparing to embrace his priestly office, Jesus made a statement indicating his willingness to surrender himself to death. This served two purposes: to prevent his disciples from being discouraged and to testify that he willingly sacrificed himself to reconcile the world to the Father. In this act, we see the voluntary sacrifice that blotted out the transgressions of the world, and we witness Jesus' courage and triumph over death. This statement not only revealed the approaching of his ultimate sacrifice but also provided comfort and encouragement to his followers who might have been disheartened by his impending arrest and crucifixion.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 0.9716753731800466,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                20.78,
+                79.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having finished his prophetic words, Jesus made a statement indicating his willingness to surrender himself to death, preventing his disciples from being discouraged. This act testified to his voluntary sacrifice, reconciling the world to the Father and blotting out its transgressions. It not only revealed the approaching of his ultimate sacrifice but also provided comfort and encouragement to his followers. With courage and triumph, Jesus embraced death as he advanced towards victory over it. This statement served as a reminder of his impending arrest and crucifixion, preparing his disciples for what was to come.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 0.8790011468904125,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                20.63,
+                79.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus finished his prophetic words and prepared for his priestly office, he made a statement acknowledging his willingness to surrender himself to death. This served as both a testimony to his voluntary sacrifice and a means of preventing his disciples from becoming discouraged. Through his courageous and triumphant approach to death, Jesus blotted out the transgressions of the world, reconciling it to the Father. This statement not only indicated the approaching fulfillment of his sacrifice, but also provided comfort and encouragement to his followers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 0.9951625054120096,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                22.25,
+                77.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having finished his prophetic words, Jesus made a statement indicating his willingness to surrender himself to death, preventing his disciples from being discouraged. This act testified to his voluntary sacrifice, reconciling the world to the Father and blotting out its transgressions. It not only revealed the approaching of his ultimate sacrifice but also provided comfort and encouragement to his followers. With courage and triumph, Jesus embraced death as he advanced towards victory over it. This statement served as a reminder of his impending arrest and crucifixion, preparing his disciples for what was to come.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 0.8790011468904125,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                20.63,
+                79.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After finishing his prophetic words and preparing to embrace his priestly office, Jesus made a statement indicating his willingness to surrender himself to death. This served two purposes: to prevent his disciples from being discouraged and to testify that he willingly sacrificed himself to reconcile the world to the Father. In this act, we see the voluntary sacrifice that blotted out the transgressions of the world, and we witness Jesus' courage and triumph over death. This statement not only revealed the approaching of his ultimate sacrifice but also provided comfort and encouragement to his followers who might have been disheartened by his impending arrest and crucifixion.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 0.9716753731800466,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                20.78,
+                79.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

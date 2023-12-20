@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:43:16",
+    "verseRef": "Matthew 4:3",
+    "bestBHT": {
+        "bht": "Jesus, in the wilderness, confronts Satan's temptations by emphasizing His humanity and willingly forgoing His divine power. He identifies with humanity as the second Adam, the true Israel, revealing the way of life through His obedience. Despite Satan's attempts to sow doubt about Jesus' identity as the Son of God, Jesus stands firm, highlighting that our dependence on God extends far beyond physical needs. By quoting Deuteronomy, Jesus exemplifies how bread is but a small aspect of our reliance on the Father.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.7979699494128747,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.12,
+        "commentatorTierSimilarities": [
+            36.34,
+            28.41,
+            35.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first word which He uses against him, reaches far deeper: \u2018Man shall not live,\u2019&c.",
+            "Adam stood not,\u2014Israel according to the flesh stood not,\u2014when the Lord their God tempted them: but rather, after Satan\u2019s likeness, tempted their God: but now the second Adam is come, the true Israel, by whose obedience the way of life is again made known and opened.",
+            "Observe also how our Lord resists Satan in His humanity; at once here numbering Himself with men, by adducing 'man' as including His own case; and not only so, but thus speaking out the mystery of his humiliation, in which He had foregone his divine Power, of his own will."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou still clingest to that vainglorious confidence that Thou art the Son of God, carried away by those illusory scenes at the Jordan.",
+            "Thou wast born in a stable; but Thou art the Son of God! hurried off to Egypt for fear of Herod's wrath; but Thou art the Son of God!",
+            "Why linger for weeks in this desert, wandering among the wild beasts and craggy rocks, unhonored, unattended, unpitied, ready to starve for want of the necessaries of life?"
+        ],
+        "Albert Barnes": [
+            "If thou art God\u2019s own Son, then thou hast power to work a miracle, and here is a suitable opportunity to try thy power, and show that thou art sent from God.",
+            "No temptation could have been more plausible, or more likely to succeed, than this.",
+            "How foolish is it, then, for the Son of God, having all power, to be starving in this manner, when by a word he could show his power and relieve his wants, and when in the thing itself there could be nothing wrong!"
+        ],
+        "John Calvin": [
+            "This name, \u1f41 \u03c0\u03b5\u03b9\u03c1\u1f71\u03b6\u03c9\u03bd, the tempter, is given to Satan by the Spirit for the express purpose, that believers may be more carefully on their guard against him.",
+            "Hence, too, we conclude, that temptations, which solicit us to what is evil, come from him alone.",
+            "The Son of God was not such an unskillful or inexperienced antagonist, as not to know how he might ward off the strokes of his adversary, or idly to present his shield on the left hand when he was attacked on the right."
+        ],
+        "Archibald T. Robertson": [
+            "If thou art Son of God...exercises his power as Son of God to appease his hunger and thus prove...what the Father called him.",
+            "That these stones become loaves...quite within his power.",
+            "Each time Jesus quotes Deuteronomy to repel the subtle temptation of the devil...bread is a mere detail in man's dependence upon God."
+        ],
+        "John Gill": [
+            "By 'the tempter', is meant the devil, so called, because it is his principal work and business, to solicit men to sin.",
+            "When he is here said to come to Christ... he now appeared openly, and in a visible shape.",
+            "He did not doubt but he was able to do it, by a word speaking; but he would have had him to have done it at his motion, which would have been enough for his purpose; who wanted to have him obedient to him."
+        ],
+        "John Wesley": [
+            "Coming to him \u2014 In a visible form; probably in a human shape, as one that desired to inquire farther into the evidences of his being the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temptation of Jesus in the wilderness reveals the profound depth of the first word He uses against Satan: Man shall not live by bread alone. Here, Jesus identifies with humanity, emphasizing His obedience as the second Adam, the true Israel. In resisting Satan's temptations, Jesus embraces His humanity and willingly foregoes His divine power. Satan tries to exploit Jesus' humility, casting doubt on His identity as the Son of God. However, Jesus remains steadfast, showing that His dependence on God goes beyond physical sustenance. Each time He quotes Deuteronomy, Jesus counters the temptation with the truth that bread is merely a detail in man's reliance on God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.7731282198564164,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                38.81,
+                28.43,
+                32.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the temptation of Jesus in the wilderness, the depth of His first word against Satan, Man shall not live by bread alone, reveals His identification with humanity. Jesus, as the second Adam and the true Israel, demonstrates his obedience and opens the way of life. Resisting in His humanity, He willingly sets aside His divine power. Satan attempts to undermine Jesus' identity with doubts but fails in the face of Jesus' unwavering reliance on God. Jesus emphasizes that bread is a small part of man's dependence on God by quoting Deuteronomy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7192435807971271,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                37.12,
+                30.28,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the wilderness, Jesus responds to Satan's temptations by emphasizing His humanity and the significance of obedience. He willingly foregoes His divine power and embraces His identity as the second Adam, the true Israel. Satan challenges Jesus' confidence in His role as the Son of God, attempting to exploit His humble origins and physical needs. Yet, Jesus resists, focusing on the truth that man's dependence on God goes far beyond bread alone. Quoting Deuteronomy, Jesus reveals that bread is just one aspect of our reliance on the Father.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.76839936618163,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                36.72,
+                30.26,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In facing Satan's temptations in the wilderness, Jesus highlights His humanity and willingly sets aside His divine power. He asserts His unity with humanity, as the second Adam and the true Israel. Satan tries to exploit Jesus' humble circumstances and questions His identity as the Son of God. However, Jesus remains steadfast, emphasizing that man's reliance on God extends beyond physical sustenance. He quotes Deuteronomy to affirm that bread is merely a detail in our dependence on God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6898180055789191,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                37.66,
+                28.64,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in the wilderness, confronts Satan's temptations by emphasizing His humanity and willingly forgoing His divine power. He identifies with humanity as the second Adam, the true Israel, revealing the way of life through His obedience. Despite Satan's attempts to sow doubt about Jesus' identity as the Son of God, Jesus stands firm, highlighting that our dependence on God extends far beyond physical needs. By quoting Deuteronomy, Jesus exemplifies how bread is but a small aspect of our reliance on the Father.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7979699494128747,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.12,
+            "commentatorTierSimilarities": [
+                36.34,
+                28.41,
+                35.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

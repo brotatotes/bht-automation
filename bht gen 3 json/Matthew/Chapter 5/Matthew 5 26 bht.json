@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:51",
+    "verseRef": "Matthew 5:26",
+    "bestBHT": {
+        "bht": "When we wrong someone, the debt we owe them can never truly be discharged, displaying the unending duration of future punishment. It is crucial to reconcile with our offended brother before facing the judgment of the Great Judge, for the consequences of our actions extend beyond earthly matters. Just as the image of the debtor in prison unable to pay the last farthing portrays the inevitability of punishment, we should not delay in making peace with both our earthly brethren and the One whose cause of complaint holds eternal consequences.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.7989736030310186,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+        "commentatorTierSimilarities": [
+            31.78,
+            48.09,
+            20.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words...amount to a negation of [future liberation], because the debt can never be discharged.\" ",
+            "The minister is the officer of the court who saw the sentences executed.\" ",
+            "It must represent the chief of those who...are hinted at by 'the tormentors,' viz, the great enemy, the minister of the divine wrath."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In expounding the sixth commandment, I have spoken of offenses between man and man reminding you that the offender has another party to deal with besides him whom he has wronged on earth, and assuring you that all worship offered to the Searcher of hearts by one who knows that a brother has just cause of complaint against him, and yet takes no steps to remove it, is vain.\" ",
+            "But I cannot pass from this subject without reminding you of One whose cause of complaint against you is far more deadly than any that man can have against man: and since with that Adversary you are already on the way to judgment, it will be your wisdom to make up the quarrel without delay.",
+            "It may safely be said that the unending duration of future punishment\u2014elsewhere so clearly and awfully expressed by our Lord Himself\u2014is the only doctrine with which His language here quite naturally and fully accords."
+        ],
+        "Philip Schaff": [
+            "Reconciliation with an offended brother in this life is absolutely necessary before his wrong cry against us to the Great Judge, and we be cast into eternal condemnation.\" ",
+            "The meaning is: until everything is paid. If our sins be regarded as \u2018debts\u2019 this is impossible, but no conclusive argument for or against the eternity of punishment can be based on the figure.\" ",
+            "The main idea is the inexorable rigor of divine justice against the impenitent sinner."
+        ],
+        "Archibald T. Robertson": [
+            "The last farthing...a vivid picture of inevitable punishment for debt.\" ",
+            "This is emphasized by the strong double negative \u03bf\u03c5 \u03bc\u03b7 with the aorist subjunctive."
+        ],
+        "John Gill": [
+            "Verily, I say unto thee,.... This may be depended upon, you may assure yourself of it, that thou shalt by no means come out thence, from prison...\" ",
+            "till thou hast paid the uttermost farthing, or 'last farthing'... which seems to express the inexorableness of the creditor...",
+            "...and the impossibility of the debtor's release."
+        ],
+        "John Wesley": [
+            "Till thou hast paid the last farthing \u2014 That is, for ever, since thou canst never do this.",
+            "What has been hitherto said refers to meekness: what follows, to purity of heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we have wronged someone and have yet to make amends, the severity of divine justice looms over us. We must not overlook the importance of reconciling with our offended brother before facing the judgment of the Great Judge. Just as the unending duration of future punishment aligns with the teachings of our Lord, we should recognize that the debt of our offenses can never truly be discharged. The image of the debtor in prison, unable to pay the last farthing, serves as a stark reminder of the inevitable and inexorable punishment that awaits those who remain impenitent. Let us not delay in making peace with both our earthly brethren and the One whose cause of complaint against us holds eternal consequences.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.736591976883497,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                31.88,
+                50.0,
+                18.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we have wronged someone and have yet to make amends, the severity of divine justice looms over us. We must not overlook the importance of reconciling with our offended brother before facing the judgment of the Great Judge. Just as the unending duration of future punishment aligns with the teachings of our Lord, we should recognize that the debt of our offenses can never truly be discharged. The image of the debtor in prison, unable to pay the last farthing, serves as a stark reminder of the inevitable and inexorable punishment that awaits those who remain impenitent.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7690010661883036,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                31.23,
+                50.41,
+                18.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we wrong someone, we cannot simply dismiss or escape the debt we owe them. The consequences are unavoidable, and the severity of divine justice demands reconciliation. Just as an officer of the court ensures sentences are executed, an impenitent sinner will face the great enemy, the minister of divine wrath. Our worship is in vain if we ignore the grievances of those we have wronged, for the consequences of our actions extend beyond earthly matters. We must heed the call to make amends and reconcile, not only with our brethren but also with the One whose cause of complaint holds eternal consequences.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.5838717857327347,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                33.85,
+                53.83,
+                12.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we wrong someone, the debt we owe them cannot be disregarded. Divine justice demands reconciliation, as the consequences of our actions extend beyond earthly matters. Just as an officer of the court ensures sentences are executed, an impenitent sinner will face the minister of divine wrath. Our worship is vain if we ignore the grievances of those we wronged, for the consequences are far greater than any earthly dispute. We must make amends and reconcile with our brethren, acknowledging the One whose cause of complaint holds eternal consequences.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5850546006905386,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.05,
+            "commentatorTierSimilarities": [
+                32.73,
+                53.82,
+                13.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we wrong someone, the debt we owe them can never truly be discharged, displaying the unending duration of future punishment. It is crucial to reconcile with our offended brother before facing the judgment of the Great Judge, for the consequences of our actions extend beyond earthly matters. Just as the image of the debtor in prison unable to pay the last farthing portrays the inevitability of punishment, we should not delay in making peace with both our earthly brethren and the One whose cause of complaint holds eternal consequences.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.7989736030310186,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                31.78,
+                48.09,
+                20.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

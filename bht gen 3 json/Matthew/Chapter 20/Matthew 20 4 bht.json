@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:50:09",
+    "verseRef": "Matthew 20:4",
+    "bestBHT": {
+        "bht": "In this story, the promise of the employer to give the late workers 'whatsoever is right' indicates a fair and just wage, proportional to their time. It is a call of divine grace, arising from mere grace and good will, with faith and dependence on divine goodness. The parable exemplifies the fact that salvation is solely based on grace, highlighting the need for trust in God's provision.",
+        "wordCount": 68,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.4447562452357463,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+        "commentatorTierSimilarities": [
+            15.64,
+            36.69,
+            47.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They might expect 3/4ths of a denarius.",
+            "The 'whatsoever is right' is probably in each case the corresponding part of the denarius.",
+            "It cannot be said that no covenant was made."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whatsoever is right\u2014just, equitable, in proportion to their time.",
+            "I will give you.",
+            "And they went their way."
+        ],
+        "Albert Barnes": [
+            "Whatsoever is right - Whatsoever it shall appear you can earn. The contract with the first was definite; with this one it depended on the judgment of the employer."
+        ],
+        "Philip Schaff": [
+            "Whatsoever if right I will give you.",
+            "The wages promised indefinite; the correct reading in Matthew 20:7 omits all promise of reward.",
+            "The parable illustrates the truth that salvation is of grace."
+        ],
+        "Archibald T. Robertson": [
+            "Whatsoever is right (\u03bf \u03b5\u03b1\u03bd \u03b7 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bd). \"Is fair\" (Allen), not anything he pleased, but a just proportionate wage. Indefinite relative with subjunctive \u03b5\u03b1\u03bd=\u03b1\u03bd. "
+        ],
+        "John Gill": [
+            "Expressive of a call of divine grace out of the world, into the church; and which arises from mere grace, and good will, without any merit in, or motive from man.",
+            "Moreover, the persons called were a parcel of idle, mean, vulgar people, as market folks commonly are; the weak, base, and foolish things of the world.",
+            "It properly signifies what is meet and convenient, and will be satisfying; and since it is not expressed what he would give them, and they should receive, it calls for faith and dependence on divine goodness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 20:4, the employer's promise of whatsoever is right to the late workers is not a blank check with no covenant, but rather a fair and just wage in proportion to their time. It is not a promise of any amount the employer pleases, but rather a call of divine grace, which arises from mere grace and good will. The parable illustrates the truth that salvation is of grace, and it calls for faith and dependence on divine goodness, as the workers went their way with trust in what they would receive.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.5653983067188986,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                21.27,
+                37.37,
+                41.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the employer promises the late workers a wage that is fair and just, in proportion to their time. It is a call of divine grace, arising from mere grace and good will, without any merit or motive from man. The parable illustrates the truth that salvation is the result of grace, and it requires faith and dependence on divine goodness. The workers go their way with trust in what they will receive, confirming the need for faith in God's provision.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.4366145437022722,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.11,
+            "commentatorTierSimilarities": [
+                13.72,
+                35.48,
+                50.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, the employer promises the late workers a fair and just wage, in proportion to their time, showing a call of divine grace. The parable illustrates that salvation is based on grace alone, not on any merit or motive from man. The workers go their way with trust, highlighting the need for faith in God's provision.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.4146169257949013,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                15.55,
+                39.51,
+                44.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this story, the promise of the employer to give the late workers 'whatsoever is right' indicates a fair and just wage, proportional to their time. It is a call of divine grace, arising from mere grace and good will, without any merit or motive from man. The parable exemplifies how salvation is solely based on grace, emphasizing the need for faith and dependence on divine goodness. The workers depart with confidence, their reward dependent on their trust in God's provision.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.436113142871695,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
+            "commentatorTierSimilarities": [
+                14.93,
+                34.06,
+                51.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this story, the promise of the employer to give the late workers 'whatsoever is right' indicates a fair and just wage, proportional to their time. It is a call of divine grace, arising from mere grace and good will, with faith and dependence on divine goodness. The parable exemplifies the fact that salvation is solely based on grace, highlighting the need for trust in God's provision.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.4447562452357463,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                15.64,
+                36.69,
+                47.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

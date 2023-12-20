@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:19",
+    "verseRef": "Matthew 19:28",
+    "bestBHT": {
+        "bht": "Jesus prophesies to his disciples about the future fulfillment of the regeneration He came to bring, envisioning His reign on a throne of glory. He assures the apostles that they, too, will sit on twelve thrones, judging the twelve tribes of Israel. This promise signifies the disciples' faithful dedication and their integral role in the establishment and expansion of Christ's kingdom. While the exact meaning of regeneration is debated, it signifies the spiritual renewal brought about by Christ's first coming, further affirming the disciples' importance in this divine plan.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 2.0395795452339804,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+        "commentatorTierSimilarities": [
+            35.98,
+            39.47,
+            24.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not hide from them their reward: but tells them prophetically, that in the new world, the accomplishment of that regeneration which He came to bring in...when He should sit on His throne of glory, then they also should sit on twelve thrones judging the twelve tribes of Israel.",
+            "The accomplishment of that regeneration which He came to bring in...when He should sit on His throne of glory.",
+            "Then they also should sit on twelve thrones judging the twelve tribes of Israel."
+        ],
+        "Marvin Vincent": [
+            "Jesus replies to them separately; for the latter was peculiar to the apostles, the former common to them with others\" (Bengel). ",
+            "In the regeneration. The final restitution of all things.",
+            "Shall sit [\u03ba\u03b1\u03b8\u03b9\u03c3\u03b7] . Or shall have taken his seat, which brings out more vividly the solemn inauguration of Christ 's judgment."
+        ],
+        "John Calvin": [
+            "There is no reason why that mean condition should discourage you; for I, who am scarcely equal to the lowest, will at length ascend to my throne of majesty.\" ",
+            "By assigning to them thrones, from which they may judge the twelve tribes of Israel, he compares them to assessors, or first councilors and judges, who occupy the highest seats in the royal council.",
+            "But I rather explain regeneration as referring to the first coming of Christ; for then the world began to be renewed, and arose out of the darkness of death into the light of life."
+        ],
+        "Philip Schaff": [
+            "In the regeneration... it means the accomplishment of the spiritual renovation of the world.",
+            "When the Son of man shall sit... manifests His glory, as conqueror, ruler, and judge.",
+            "The Twelve will be promoted to thrones prepared for them... the Apostles shall occupy the most exalted position at His return."
+        ],
+        "Archibald T. Robertson": [
+            "In the regeneration (\u03b5\u03bd \u03c4\u03b7 \u03c0\u03b1\u03bb\u03b9\u03bd\u03b3\u03b5\u03bd\u03b5\u03c3\u03b9\u03b1). The new birth of the world is to be fulfilled when Jesus sits on his throne of glory.",
+            "We must put no fantastic ideas into the mouth of Jesus. But he did look for the final consummation of his kingdom.",
+            "What is meant by the disciples also sitting on twelve thrones is not clear."
+        ],
+        "John Gill": [
+            "Christ does not deny that they had forsaken all for his sake, nor does he despise it, because it was but little they left, though he does not repeat it; but only takes notice of their following him, which, including their faith in him, their profession of him, and subjection to him, was a much greater action, and of more importance that the other, and therefore is only mentioned.\" ",
+            "Now the twelve apostles followed Christ herein: they believed, and professed him to be the Messiah; they received, what the Jews called, his new doctrine, and preached it to others; they submitted to the new ordinance of baptism, and followed Christ, and attended him wherever he went, working miracles, preaching the Gospel, and reforming the minds and manners of men.",
+            "ye also shall sit upon twelve thrones: for though Judas fell from his apostleship, yet Matthias was chosen in his room, and took his place, and made up the number twelve; a metaphorical phrase, setting forth the honour, dignity, and authority of their office and ministry, by which they should be judging the twelve tribes of Israel; doctrinally and practically."
+        ],
+        "John Wesley": [
+            "In the final renovation of all things: Ye shall sit - In the beginning of the judgment they shall stand...\" ",
+            "Then being absolved, they shall sit with the Judge...",
+            "On twelve thrones - So our Lord promised, without expressing any condition: yet as absolute as the words are, it is certain there is a condition implied..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus reveals to his disciples a prophetic vision of the future, where the regeneration He brought about would be fulfilled. He describes his own glorious reign on the throne and promises that his apostles would share in this authority, sitting on twelve thrones and judging the twelve tribes of Israel. This position of honor and authority reflects their faithful dedication and belief in Jesus, which is of far greater importance than the material possessions they left behind. Although the exact meaning of regeneration is debated, it signifies the spiritual renewal of the world through Christ's first coming. Ultimately, this promise emphasizes the disciples' significant role in the establishment and expansion of Christ's kingdom.",
+            "wordCount": 115,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.8582994345642199,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                33.6,
+                40.18,
+                26.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus prophesies to his disciples about the future fulfillment of the regeneration He came to bring, envisioning His reign on a throne of glory. He assures the apostles that they, too, will sit on twelve thrones, judging the twelve tribes of Israel. This promise signifies the disciples' faithful dedication and their integral role in the establishment and expansion of Christ's kingdom. While the exact meaning of regeneration is debated, it signifies the spiritual renewal brought about by Christ's first coming, further affirming the disciples' importance in this divine plan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.0395795452339804,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+            "commentatorTierSimilarities": [
+                35.98,
+                39.47,
+                24.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a prophecy regarding the future fulfillment of the regeneration brought about by Jesus, He declares that the apostles will also have a place of authority, sitting on twelve thrones to judge the twelve tribes of Israel. This promise underscores the disciples' crucial role in the establishment and expansion of Christ's kingdom. Though the exact meaning of regeneration is debated, it signifies the spiritual renewal ushered in by Christ's first coming, further highlighting the significance of the disciples' faithful dedication to Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9280306207381588,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                33.89,
+                39.82,
+                26.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus prophetically reveals to his disciples the future fulfillment of the regeneration He brought about, His reign on a throne of glory, and His promise that the apostles would share in this authority, seated on twelve thrones to judge the twelve tribes of Israel. This assurance emphasizes the disciples' faithful dedication and their integral role in the establishment and expansion of Christ's kingdom. The meaning of regeneration is debated, but it signifies the spiritual renewal initiated by Christ's first coming, underscoring the significance of the disciples' steadfast commitment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9135715291072852,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+            "commentatorTierSimilarities": [
+                33.6,
+                40.42,
+                25.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus prophetically assures his disciples of their reward in the new world, where He would sit on His throne of glory. He promises that they, too, would sit on twelve thrones, judging the twelve tribes of Israel. This signifies the disciples' crucial role and faithful dedication in the regeneration brought about by Christ. The term regeneration refers to the final restitution and spiritual renewal of all things. Jesus anticipates the ultimate consummation of His kingdom and acknowledges the disciples' significant contribution to it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9514227106634028,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                37.27,
+                38.74,
+                23.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

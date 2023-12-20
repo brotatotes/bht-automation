@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:53:23",
+    "verseRef": "Matthew 26:43",
+    "bestBHT": {
+        "bht": "After being reproved by Jesus, the disciples, weighed down by both drowsiness and sorrow, were found asleep again. Their heavy eyes prevented them from knowing how to respond to Jesus in their half-awake state. This repeated slumber reveals their inability to withstand temptation, and their failure to fully grasp the gravity of the situation. This moment exemplifies the disciples' imperfect understanding and their need to continually seek God's guidance, even when they do not understand His plans.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.2550103575609266,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.07,
+        "commentatorTierSimilarities": [
+            24.4,
+            31.22,
+            44.37
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] St. Mark adds, and it is a note of accuracy, \u201cneither wist they what to answer him.\u2019"
+        ],
+        "John Calvin": [
+            "We must observe also this circumstance, that the disciples, after having been sharply reproved, almost at that very moment fall again asleep.",
+            "This drowsiness arose neither from excessive eating and drinking, nor from gross stupidity, nor even from effeminate indulgence of the flesh, but rather\u2014as Luke tells us\u2014from immoderate sorrow.",
+            "We ask a third and fourth time what God appears to have denied."
+        ],
+        "Philip Schaff": [
+            "Matthew 26:43. For their eyes were heavy. Drowsiness, not deep sleep, is meant; Mark adds (Mark 14:40): \u2018and they knew not what they should answer Him.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "For their eyes were heavy.\" ",
+            "Their eyes had been weighted down with sleep.\" ",
+            "Still were as they had been on the Mount of Transfiguration."
+        ],
+        "John Gill": [
+            "And he came and found them asleep again... for their eyes were heavy.\" ",
+            "They were so very sleepy, they knew not how to speak; or they were so confounded, that he should take them asleep a second time.\" ",
+            "After they had had such a reproof, and exhortation from him, that they knew not what answer to make him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After being reproved by Jesus, the disciples, weighed down by both drowsiness and sorrow, were found asleep again. Their heavy eyes prevented them from knowing how to respond to Jesus in their half-awake state. This repeated slumber reveals their inability to withstand temptation, and their failure to fully grasp the gravity of the situation. This moment exemplifies the disciples' imperfect understanding and their need to continually seek God's guidance, even when they do not understand His plans.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.2550103575609266,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.07,
+            "commentatorTierSimilarities": [
+                24.4,
+                31.22,
+                44.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After being sharply reproved, the disciples, almost immediately, fell asleep again. Their heavy eyes and drowsy state left them unable to answer Jesus. This repeated slumber demonstrates their temptation and their failure to fully grasp the significance of the moment. It serves as a reminder of their limited understanding and their need to continually seek God's guidance, even in moments of confusion and struggle.",
+            "wordCount": 65,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.2023368300266122,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.32,
+            "commentatorTierSimilarities": [
+                23.02,
+                30.51,
+                46.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, having been reproved by Jesus, fell asleep again, with their heavy eyes and drowsiness preventing them from knowing how to respond. This repeated slumber reveals their inability to withstand temptation and their failure to fully understand the gravity of the situation. Such circumstances highlight the disciples' need to continuously seek God's guidance, even when they do not comprehend His plans.",
+            "wordCount": 63,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.2482122727793994,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+            "commentatorTierSimilarities": [
+                21.6,
+                34.22,
+                44.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After being reproved by Jesus, the disciples fell asleep again, their heavy eyes signifying their drowsiness and confusion. This repeated slumber displayed their inability to resist temptation and their failure to fully grasp the importance of the moment. It serves as a reminder of their limited understanding and their ongoing need to seek God's guidance, even in moments of doubt and uncertainty.",
+            "wordCount": 63,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.2050811820999656,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+            "commentatorTierSimilarities": [
+                20.01,
+                34.06,
+                45.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After being reproved by Jesus, the disciples fell asleep again, as their heavy eyes showed their drowsiness and inability to respond to Him. This repeated slumber revealed their inability to withstand temptation, and their failure to fully comprehend the magnitude of the situation. It serves as a reminder of their limited understanding and their constant need to seek God's guidance, even in moments of confusion and doubt.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.223871578340816,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.04,
+            "commentatorTierSimilarities": [
+                20.74,
+                32.91,
+                46.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:43:35",
+    "verseRef": "Matthew 5:24",
+    "bestBHT": {
+        "bht": "Seeking reconciliation with others is of utmost importance in the eyes of Jesus, even before presenting offerings to God. Rather than focusing solely on dismissing ill feelings within oneself, Jesus emphasizes the need to persuade the offended party to release their grudge. Acts of love and friendship are valued far above superficial sacrifices made without resolving conflicts. By prioritizing reconciliation and making amends with others, believers demonstrate the true essence of faith before approaching the altar.",
+        "wordCount": 76,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.4637028533907155,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+        "commentatorTierSimilarities": [
+            39.1,
+            0.0,
+            60.9
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Remove the offence, and make friendly overtures to thy brother.\" ",
+            "No conclusion whatever can be drawn from this verse as to the admissibility of the term altar as applied to the Lord\u2019s table under the Christian system.",
+            "The command, of course, applies in full force as to reconciliation re the Christian offering of praise and thanksgiving in the Holy Communion; but further nothing can be inferred."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The meaning evidently is\u2014not, 'dismiss from thine own breast all ill feeling,' but 'get thy brother to dismiss from his mind all grudge against thee.'"
+        ],
+        "Archibald T. Robertson": [
+            "First be reconciled. Get reconciled. Only example of this compound in the New Testament.\" ",
+            "The verb denotes mutual concession after mutual hostility, an idea absent from \u03ba\u03b1\u03c4\u03b1\u03bb\u03bb\u03b1\u03c3\u03c3\u03c9.",
+            "The boy is a poor speller, but with a broken heart he uses the identical form that Jesus does."
+        ],
+        "John Gill": [
+            "This shows that acts of love and friendship are preferable to sacrifices.",
+            "Sacrifices offered up in wrath, and whilst unreconciled to others, are unacceptable to God, and of no avail.",
+            "He was to use all means to obtain a reconciliation."
+        ],
+        "John Wesley": [
+            "Leaving thy gift, go \u2014 For neither thy gift nor thy prayer will atone for thy want of love: but this will make them both an abomination before God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 5:24, Jesus instructs his followers to actively seek reconciliation with others before presenting their offerings to God. The emphasis is not on dismissing ill feelings within oneself, but rather on persuading the offended party to let go of their grudge. This mutual concession and restoration of harmony is crucial, as it is the only occurrence of this compound verb used in the New Testament. Jesus prioritizes acts of love and friendship over mere sacrifices offered with unresolved conflicts, as they are unacceptable and of no avail in God's eyes. So, before approaching the altar, believers should first prioritize reconciling and making amends with their brothers and sisters.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.8,
+            "qualityScore": 1.5237586833809624,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                42.28,
+                0.0,
+                57.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus urges his followers to take immediate action in seeking reconciliation with others before presenting their offerings. The focus is on convincing the offended party to let go of their grudge, rather than simply dismissing one's own ill feelings. The importance of mutual concession and the restoration of harmony is underscored, as Jesus uses a unique compound verb to convey this idea. Acts of love and friendship are prioritized over sacrifices offered without resolution, highlighting the significance of reconciliation in God's eyes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5123846525157805,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                43.69,
+                0.0,
+                56.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasizes the significance of seeking reconciliation with others before presenting offerings to God. It is not enough to dismiss ill feelings within oneself; one must actively persuade the offended party to release their grudge. This mutual concession and restoration of harmony hold great importance, as demonstrated by the unique compound verb used by Jesus. Acts of love and friendship hold greater value than sacrifices made without resolving conflicts. Prioritizing reconciliation is essential when approaching God's altar.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3960105603313402,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                39.63,
+                0.0,
+                60.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 5:24, Jesus instructs his followers to actively seek reconciliation with others before presenting their offerings to God. The emphasis is not on dismissing ill feelings within oneself, but rather on persuading the offended party to let go of their grudge. Jesus prioritizes acts of love and friendship over mere sacrifices offered with unresolved conflicts, as they are unacceptable and of no avail in God's eyes. So, before approaching the altar, believers should first prioritize reconciling and making amends with their brothers and sisters.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5399468060798083,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                39.58,
+                0.0,
+                60.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Seeking reconciliation with others is of utmost importance in the eyes of Jesus, even before presenting offerings to God. Rather than focusing solely on dismissing ill feelings within oneself, Jesus emphasizes the need to persuade the offended party to release their grudge. Acts of love and friendship are valued far above superficial sacrifices made without resolving conflicts. By prioritizing reconciliation and making amends with others, believers demonstrate the true essence of faith before approaching the altar.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4637028533907155,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                39.1,
+                0.0,
+                60.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:48:30",
+    "verseRef": "Matthew 15:2",
+    "bestBHT": {
+        "bht": "The Jews held the traditionary exposition in higher regard than the Scripture itself. One such tradition was the duty of washing hands before eating, which was not required by the law but by the oral teachings of the Scribes. This ceremonial washing required a complete immersion of the hands, followed by the water running down to the wrist. The rabbis elevated this tradition, considering it not just a matter of hygiene but a mortal sin. They questioned Jesus, highlighting his disciples' failure to adhere to these traditions.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.0514459683820903,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+        "commentatorTierSimilarities": [
+            36.6,
+            37.53,
+            25.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Jews attached more importance to the traditionary exposition than to the Scripture text itself.\" ",
+            "The duty of washing before meat is not inculcated in the law, but only in the traditions of the Scribes.",
+            "So rigidly did the Jews observe it, that Rabbi Akiba, being imprisoned, and having water scarcely sufficient to sustain life given him, preferred dying of thirst to eating without washing his hands."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. Why do thy disciples transgress",
+            "\tthe tradition of the elders? for they wash not their hands when they",
+            "\teat bread."
+        ],
+        "Marvin Vincent": [
+            "If 'holy,' i.e., sacrificial food was to be partaken of, a complete immersion of the hands, and not a mere 'uplifting' was prescribed.",
+            "The water was poured on both hands, which must be free of anything covering them, such as gravel, mortar, etc.",
+            "In the 'first affusion,' which was all that originally was required when the hands were not levitically 'defiled,' the water had to run down to the wrist. If the water remained short of the wrist, the hands were not clean."
+        ],
+        "John Calvin": [
+            "But as there are various kinds of human traditions, we must make some distinction among them.",
+            "For it was always the will of God, as we have already said, that he should be worshipped according to the rule laid down in his word, and therefore no addition to his Law can be endured.",
+            "They were desirous to warn a person not to take food while he was unclean, through want of consideration; but the Lord reckoned it enough to wash away those defilements of which they were aware."
+        ],
+        "Philip Schaff": [
+            "The tradition of the elders. Certain rules handed down by word of mouth from Moses and the fathers of the nation.",
+            "'The Jews attached greater value to tradition than even to the written law, appealing in support of it to Deuteronomy 4:14; Deuteronomy 17:10.",
+            "The washing referred to was not an act of cleanliness, but a ceremonial washing, performed with scrupulous care."
+        ],
+        "Archibald T. Robertson": [
+            "The tradition of the elders... was magnified at great length in the oral teaching.\" ",
+            "It was, we know, a good thing for sanitary reasons, but the rabbis made it a mark of righteousness for others at any rate.",
+            "Thus a real issue is raised between Jesus and the rabbis. It was far more than a point of etiquette or of hygienics. The rabbis held it to be a mortal sin."
+        ],
+        "John Gill": [
+            "The words of the Scribes are more lovely than the words of the law: for, says R. Tarphon, if a man does not read, he only transgresses an affirmative; but if he transgresses the words of the school of Hillell, he is guilty of death...",
+            "Everyone that transgresses the words of the Scribes is guilty of death.",
+            "Whoever eats bread without washing of hands is as if he lay with a whore: and, whoever despises washing of hands, shall be rooted out of the world."
+        ],
+        "John Wesley": [
+            "The elders \u2014 The chief doctors or, teachers among the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews valued and strictly adhered to their traditionary exposition, even more than the Scripture itself. One of these traditions was the duty of washing hands before eating, which was not prescribed in the law but in the oral teachings of the Scribes. The washing involved a complete immersion of the hands, ensuring that the water ran down to the wrist for full cleanliness. The tradition of the elders was greatly emphasized by the rabbis, who considered it not only a matter of etiquette or hygiene but also a mortal sin. In this verse, some questioned Jesus about his disciples' failure to wash their hands before eating, challenging his adherence to these traditions.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.155359682030886,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                35.97,
+                38.2,
+                25.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews held the traditionary exposition in higher regard than the Scripture itself. One such tradition was the duty of washing hands before eating, which was not required by the law but by the oral teachings of the Scribes. This ceremonial washing required a complete immersion of the hands, followed by the water running down to the wrist. The rabbis elevated this tradition, considering it not just a matter of hygiene but a mortal sin. They questioned Jesus, highlighting his disciples' failure to adhere to these traditions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0514459683820903,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                36.6,
+                37.53,
+                25.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews placed great importance on the traditionary exposition, even above the Scripture itself. One such tradition was the duty of washing hands before eating, which was not part of the law but taught through oral tradition. This ceremonial washing involved a complete immersion of the hands, ensuring the water ran down to the wrist for cleanliness. The rabbis magnified this tradition, viewing it as more than just a matter of hygiene, but a mortal sin. They confronted Jesus, questioning his disciples' failure to follow these traditions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0432515261347723,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                37.03,
+                38.52,
+                24.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews esteemed the traditionary exposition more than the Scripture itself, including the duty of washing hands before eating. While not prescribed in the law, this tradition was taught by the Scribes and strictly observed. It required a complete immersion of the hands, with water running down to the wrist for cleanliness. The rabbis believed that failing to adhere to these traditions was a mortal sin. In this context, some questioned Jesus about his disciples' neglect of this washing practice.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.037461273702263,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                36.49,
+                37.93,
+                25.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews prioritized the traditionary exposition over the Scripture, particularly the duty of washing hands before eating. This was not mandated in the law, but it was emphasized in the teachings of the Scribes. The washing process required a complete immersion of the hands, ensuring the water reached the wrist for cleanliness. For the rabbis, this tradition held significant weight and deviating from it was considered a grave sin. They challenged Jesus about his disciples' failure to adhere to this tradition of handwashing.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.026896385325885,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                36.07,
+                39.09,
+                24.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

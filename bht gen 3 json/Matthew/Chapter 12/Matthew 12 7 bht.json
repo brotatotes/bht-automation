@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:04",
+    "verseRef": "Matthew 12:7",
+    "bestBHT": {
+        "bht": "The law of this new Temple-service is the law of charity and love\u2014mercy and not sacrifice. Had ye understood the great principle that ceremonial observances must give way before moral duties, ye would have refrained from these captious complaints against blameless men. Jesus said the Sabbath was made for man, not man for the Sabbath\u2014a glorious maxim for the true freedom of its observance. The Pharisees failed to understand God's preference for acts of mercy over mere ceremonial observances, lacking compassion and the understanding of Scripture.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.8464898164510646,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+        "commentatorTierSimilarities": [
+            37.8,
+            29.77,
+            32.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The law of this new Temple-service is the law of charity and love:\u2014mercy and not sacrifice.\" ",
+            "All for man\u2019s sake and man\u2019s good.",
+            "The speech, being the overflow of the heart, is a specimen of what is within."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Had ye understood the great principle of all religion, which the Scripture everywhere recognizes\u2014that ceremonial observances must give way before moral duties, and particularly the necessities of nature\u2014ye would have refrained from these captious complaints against men who in this matter are blameless.",
+            "But our Lord added a specific application of this great principle to the law of the sabbath, preserved only in Mark: 'And he said unto them, the sabbath was made for man, and not man for the sabbath.'",
+            "A glorious and far-reaching maxim, alike for the permanent establishment of the sabbath and the true freedom of its observance."
+        ],
+        "John Calvin": [
+            "God sets a higher value on mercy than on sacrifice.",
+            "External rites are of no value in themselves, and are demanded by God insofar only as they are directed to their proper object.",
+            "Believers, by practicing justice towards each other, prove that their service of God is sincere."
+        ],
+        "Philip Schaff": [
+            "They did not recognize this greater temple, nor accept the service which God had approved; 'mercy and not sacrifice.'",
+            "Had they done so, they would not have condemned the blameless.",
+            "They ought to have known, professing to interpret the Old Testament."
+        ],
+        "Archibald T. Robertson": [
+            "The guiltless (\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b1\u03b9\u03c4\u03b9\u03bf\u03c5\u03c2). So in verse Matthew 12:5. Common in ancient Greek. No real ground against, it means \u03b1\u03bd + \u03b1\u03b9\u03c4\u03b9\u03bf\u03c2.",
+            "Jesus quotes Hosea 6:6 here as he did in Matthew 9:13.",
+            "A pertinent prophecy that had escaped the notice of the sticklers for ceremonial literalness and the letter of the law."
+        ],
+        "John Gill": [
+            "Our Lord taxes the Pharisees both with ignorance of the Scriptures, in which they pretended to be very knowing, and took upon them to be the interpreters of.",
+            "He [Jesus] would never have done, had they understood the word, and will of God; who prefers acts of humanity, compassion, and mercy, to the observance of rites and ceremonies.",
+            "[The Pharisees] had not the common affections of human nature, and those bowels of compassion which one man ought to show to another."
+        ],
+        "John Wesley": [
+            "I always prefer acts of mercy, before matters of positive institution.",
+            "Before all ceremonial institutions whatever; because these being only means of religion, are suspended of course, if circumstances occur, wherein they clash with love.",
+            "Love is the end of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The law of this new Temple-service is the law of charity and love. It is all for man's sake and man's good. The overflow of speech reveals what is within the heart. If the Pharisees had understood the great principle of all religion, that ceremonial observances must give way before moral duties, they would have refrained from complaints against blameless individuals. Jesus specifically applies this principle to the law of the Sabbath when he states that the Sabbath was made for man, not man for the Sabbath. This maxim is vital for the establishment and true freedom of Sabbath observance. The Pharisees failed to recognize the greater temple and accept the service of mercy and not sacrifice. They should have known this, being interpreters of the Old Testament. God values mercy over sacrifice, and external rites are only valuable when directed to their proper object. Believers practice justice towards one another, proving their sincere service to God. The Pharisees, claiming to be knowledgeable in Scripture, were actually ignorant of it. They lacked compassion and failed to understand God's preference for acts of mercy. Love is the end of it all.",
+            "wordCount": 194,
+            "quoteTokenProportion": 34.82,
+            "qualityScore": 1.597821232242623,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+            "commentatorTierSimilarities": [
+                30.31,
+                33.96,
+                35.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law of this new Temple-service is the law of charity and love:\u2014mercy and not sacrifice. All for man\u2019s sake and man\u2019s good. The speech, being the overflow of the heart, is a specimen of what is within. Had ye understood the great principle that ceremonial observances must give way before moral duties, ye would have refrained from complaints against blameless men. Jesus said the Sabbath was made for man, not man for the Sabbath\u2014a glorious maxim for the true freedom of its observance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5789406249089635,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
+            "commentatorTierSimilarities": [
+                48.45,
+                22.61,
+                28.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law of this new Temple-service is the law of charity and love, mercy and not sacrifice. If the Pharisees had understood this principle, they would have refrained from complaining against blameless individuals. Jesus specifically applied this great principle to the Sabbath, stating that it was made for man, not man for the Sabbath. This glorious maxim emphasized the true freedom of Sabbath observance. The Pharisees failed to recognize the importance of mercy over external rites, lacking compassion and understanding of God's preference for acts of mercy rather than mere ceremonial observances.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7634425836968477,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                35.47,
+                32.0,
+                32.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law of this new Temple-service is the law of charity and love:\u2014mercy and not sacrifice. Had ye understood the great principle that ceremonial observances must give way before moral duties, ye would have refrained from complaining against blameless men. Jesus said the Sabbath was made for man, not man for the Sabbath\u2014a glorious maxim for the true freedom of its observance. The Pharisees failed to recognize the importance of mercy over external rites, lacking compassion and understanding of God's preference for acts of mercy.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.8106088932203233,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                37.48,
+                28.87,
+                33.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law of this new Temple-service is the law of charity and love\u2014mercy and not sacrifice. Had ye understood the great principle that ceremonial observances must give way before moral duties, ye would have refrained from these captious complaints against blameless men. Jesus said the Sabbath was made for man, not man for the Sabbath\u2014a glorious maxim for the true freedom of its observance. The Pharisees failed to understand God's preference for acts of mercy over mere ceremonial observances, lacking compassion and the understanding of Scripture.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8464898164510646,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                37.8,
+                29.77,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

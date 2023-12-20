@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:54:06",
+    "verseRef": "Matthew 27:6",
+    "bestBHT": {
+        "bht": "When the religious leaders refused to put the price of blood into the treasury, they unconsciously fulfilled the Scripture. Their scrupulousness about defiling the treasury while having no remorse for crucifying an innocent man blurred their moral judgment. By prioritizing outward appearances and hair-splitting over righteousness, they ignored the severity of their own actions. In their hypocrisy, they were too conscientious about trifling matters, neglecting the immoral bargain that provoked God's vengeance against them. This episode sheds light on how hypocrites prioritize superficial observations over justice and righteousness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.62,
+        "qualityScore": 1.8860420052976177,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            26.73,
+            35.86,
+            37.41
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] They said this probably by analogy from Deut. xxiii. 18. the price (given for shedding) of blood; the wages of a murderer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is not lawful for to put them into the treasury...because it is the price of blood\u2014How scrupulous now!",
+            "But those punctilious scruples made them unconsciously fulfil the Scripture.",
+            "Those punctilious scruples made them unconsciously fulfil the Scripture."
+        ],
+        "Albert Barnes": [
+            "It is remarkable that they were so scrupulous now about so small a matter, comparatively, as putting this money in the treasury, when they had no remorse about \u2018murdering an innocent\u2019 man, and crucifying him who had given full evidence that he was the Messiah.",
+            "People are often very scrupulous in \u2018small\u2019 matters, who stick not at great crimes.",
+            "They had bought him, not condemned him justly."
+        ],
+        "Marvin Vincent": [
+            "In such cases the Jewish law provided that the money was to be restored to the donor; and if he insisted on giving it, that he should be induced to spend it for something for the public weal.",
+            "By a fiction of the law the money was still considered to be Judas', and to have been applied by him to the purchase of the potter's field.",
+            "Garments of this color would seem to have been rare among the orientals."
+        ],
+        "John Calvin": [
+            "Hence it plainly appears that hypocrites, by attending to nothing more than the outward appearance, are guilty of gross trifling with God.",
+            "Provided that they do not violate their Corban, they imagine that in other matters they are pure, and give themselves no concern about the infamous bargain, by which they, not less than Judas, had provoked against themselves the vengeance of God.",
+            "But if it was unlawful to put into the sacred treasury the price of blood, why was it lawful for them to take the money out of it? for all their wealth was derived from the offerings of the temple, and from no other source did they take what they now scruple to mingle again with it as being polluted. Now, whence came the pollution but from themselves?"
+        ],
+        "Philip Schaff": [
+            "What was put in the treasury was deemed an offering to God.",
+            "They thus stigmatized the crime of their tool, but not their own.",
+            "Too conscientious to defile the treasury, they were not afraid to defile their own hands."
+        ],
+        "Archibald T. Robertson": [
+            "Korban is Aramaic for gift (\u03b4\u03c9\u03c1\u03bf\u03bd) as is plain in Mark 7:11.",
+            "The price of blood (blood-money) was pollution to the treasury (Deuteronomy 23:18).",
+            "The rabbis knew how to split hairs about Korban (Mark 7:1-23; Matthew 15:1-20), but they balk at this blood-money."
+        ],
+        "John Gill": [
+            "Thus they strained at a gnat, and swallowed a camel.",
+            "It is highly probable, that they took this selfsame money out of the treasury to buy this blood with, and yet scruple to put it in, having bought it.",
+            "They made no hesitation about seeking for, and shedding this innocent blood, and yet boggle at putting this money into the 'Corban', because it was the price of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the religious leaders refused to put the price of blood into the treasury, they inadvertently fulfilled the Scripture. It seems contradictory that they were scrupulous about defiling the treasury, yet had no remorse for crucifying an innocent man. Their focus on outward appearances led them to split hairs about matters such as the color of garments or the meaning of Korban, while ignoring the severity of their own actions. They stigmatized Judas' crime, but not their own. In their hypocrisy, they were too conscientious about trifling matters and had no concern for the immoral bargain that provoked God's vengeance against them. This episode highlights how hypocrites prioritize superficial observations while neglecting righteousness and justice.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.950995906864605,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                26.57,
+                37.24,
+                36.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the religious leaders refused to put the price of blood into the treasury, they unconsciously fulfilled the Scripture. Their scrupulousness about defiling the treasury while having no remorse for crucifying an innocent man blurred their moral judgment. By prioritizing outward appearances and hair-splitting over righteousness, they ignored the severity of their own actions. In their hypocrisy, they were too conscientious about trifling matters, neglecting the immoral bargain that provoked God's vengeance against them. This episode sheds light on how hypocrites prioritize superficial observations over justice and righteousness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.8860420052976177,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                26.73,
+                35.86,
+                37.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders unintentionally fulfilled Scripture when they refused to put the price of blood into the treasury, highlighting their scrupulousness in trivial matters while disregarding the gravity of their own actions. Their hypocrisy is evident in their concern for outward appearances and their disregard for justice and righteousness. By focusing on superficial observations, they neglect the immoral bargain that incurred God's vengeance upon them. This episode emphasizes how hypocrites prioritize superficiality over upright conduct and fail to recognize the consequences of their actions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8071964322212861,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                26.78,
+                34.08,
+                39.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders' refusal to put the price of blood into the treasury may seem scrupulous, but it unwittingly fulfills the Scripture. Their hypocrisy becomes apparent as they prioritize superficial matters while disregarding the severity of their own actions. Through their focus on outward appearances, they neglect the immoral nature of the bargain they made. This episode serves as a reminder that hypocrites often prioritize trivialities while failing to recognize the consequences of their actions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7924848515980738,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                26.93,
+                32.84,
+                40.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders' decision not to place the price of blood into the treasury demonstrates their scrupulousness in trivial matters, unwittingly fulfilling the Scripture. Despite their concern for outward appearances, they fail to acknowledge the gravity of their own actions, prioritizing superficial observations. Their hypocrisy lies in disregarding the immoral bargain they made while focusing on smaller details. This episode reiterates how hypocrites tend to prioritize superficiality, all the while failing to comprehend the repercussions of their actions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.7230947175972275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "commentatorTierSimilarities": [
+                25.26,
+                33.65,
+                41.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

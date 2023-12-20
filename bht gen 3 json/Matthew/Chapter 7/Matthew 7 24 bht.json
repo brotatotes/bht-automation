@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:44:51",
+    "verseRef": "Matthew 7:24",
+    "bestBHT": {
+        "bht": "Whosoever hears and does the sayings of Christ is like a wise builder who digs deep and lays a foundation upon the rock of true discipleship. True piety must be tested and proven through trials, as a beautiful but empty profession of faith is like a building without a solid foundation, vulnerable to downfall. Every believer becomes a builder, constructing the salvation of their soul, finding their firm foundation in Christ.",
+        "wordCount": 71,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.6577992465361033,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.46,
+        "commentatorTierSimilarities": [
+            33.52,
+            20.58,
+            45.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "these sayings of mine] more probably, these sayings from me...",
+            "The expression, these sayings, seems to bind together the Sermon...",
+            "I will liken] Meyer and Tholuck take this Eword to signify, not \u2018I will compare,\u2019 but \u2018I will make at that day like\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Therefore\u2014to bring this discourse to a close.",
+            "whosoever heareth these sayings of mine, and doeth them\u2014I will liken him unto a wise man.",
+            "which built his house upon a rock\u2014the rock of true discipleship, or genuine subjection to Christ."
+        ],
+        "John Calvin": [
+            "Christ compares a vain and empty profession of the Gospel to a beautiful, but not solid, building, which, however elevated, is exposed every moment to downfall, because it wants a foundation.",
+            "True piety is not fully distinguished from its counterfeit till it comes to the trial. For the temptations, by which we are tried, are like billows and storms, which easily overwhelm unsteady minds, whose lightness is not perceived during the season of prosperity.",
+            "That faith is true, which has its roots deep in the heart, and rests on an earnest and steady affection as its foundation, that it may not give way to temptations."
+        ],
+        "Philip Schaff": [
+            "To rise to the Mount of Beatitudes in our life, we must go to Mount Calvary for our life.",
+            "Built his house upon a rock.",
+            "The practice was common, but the form indicates a special case, which may have been known to the hearers."
+        ],
+        "Archibald T. Robertson": [
+            "The wise builder ... digged and went deep, and laid a foundation upon the rock.",
+            "The point in the parable of the wise builder.",
+            "Laid a foundation upon the rock."
+        ],
+        "John Gill": [
+            "Whosoever cometh unto me\"; as all that are given to Christ by the Father will do, sooner or later.",
+            "He hears them, and doth them: he is not only a hearer, but a doer of the word of the Gospel.",
+            "Every believer is a builder; the house he builds, is his own soul, and the salvation of it; in order to which he digs deep, till he comes to a rock, to a good foundation."
+        ],
+        "John Wesley": [
+            "Luke 6:47."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whosoever hears and does the sayings of Christ is like a wise builder who digs deep and lays a foundation upon the rock of true discipleship. It is not enough to have a beautiful but empty profession of faith; true piety must be tested and proven through trials. This builder's faith goes beyond mere words and is rooted deep in the heart, unshaken by temptations. Every believer becomes a builder, constructing the salvation of their soul, and finding their firm foundation in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5456740181156423,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                33.59,
+                18.34,
+                48.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whosoever hears and does the sayings of Christ is like a wise builder who digs deep and lays a foundation upon the rock of true discipleship. True piety must be tested and proven through trials, as a beautiful but empty profession of faith is like a building without a solid foundation, vulnerable to downfall. Every believer becomes a builder, constructing the salvation of their soul, finding their firm foundation in Christ.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6577992465361033,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.46,
+            "commentatorTierSimilarities": [
+                33.52,
+                20.58,
+                45.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whosoever hears these sayings from Christ and does them will be likened to a wise builder who dug deep and laid a foundation upon the rock. True piety is tested and distinguished from its counterfeit in times of trial. A mere profession without a solid foundation will easily crumble. The believer must go beyond hearing and become a doer of the Word. They dig deep to establish their salvation, finding their firm foundation in Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.467253614699265,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.13,
+            "commentatorTierSimilarities": [
+                37.39,
+                19.92,
+                42.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whosoever hears and does these sayings of Christ will be likened to a wise builder who digs deep and lays a foundation upon the rock of true discipleship. True piety is distinguished from its counterfeit when it faces trials. A vain profession without a solid foundation will easily crumble. The believer must not just hear, but also do the Word. They dig deep and establish their salvation, finding their firm foundation in Christ.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4485060779103134,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                36.84,
+                18.35,
+                44.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who hear and do the sayings of Christ shall be compared to a wise builder who digs deep and lays a foundation upon the rock. True piety is truly revealed in seasons of trial, as it withstands the billows and storms that jeopardize unsteady minds. Faith planted deep in the heart, rooted in unwavering affection, becomes an unshakable foundation. Believers are builders constructing the salvation of their souls, securing their foundation upon Christ.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.4862801262734924,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                34.89,
+                19.32,
+                45.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

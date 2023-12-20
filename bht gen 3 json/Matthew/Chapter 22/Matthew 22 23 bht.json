@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:51:19",
+    "verseRef": "Matthew 22:23",
+    "bestBHT": {
+        "bht": "The Sadducees, who deny the resurrection and immortality of the soul, mockingly question Jesus to ridicule both the doctrine and Christ Himself. Their hatred of the Gospel causes them to align with those who seek its destruction. Yet, their denial of God's promises and the eternal consequences for the wicked reveals their narrow-mindedness. Not only do they oppose the resurrection, but they also reject the existence of angels, spirits, and the immortality of the soul. Their absurdity is evident in their limited view of truth.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.1982211542074626,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.18,
+        "commentatorTierSimilarities": [
+            0.0,
+            54.87,
+            45.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "And so fierce is the hatred with which the Papists burn against the Gospel, that they willingly support Epicureans, Libertines, and other monsters of that description, provided that they can avail themselves of their aid for accomplishing its destruction.",
+            "How the sect of the Sadducees originated we have explained under another passage. Luke assures us that they denied not only the final resurrection of the body, but also the immortality of the soul.",
+            "But as the reward of the godly, and likewise the punishment due to the wicked, were limited by them to the present life, even though there had been truth in their assertion, that every man is now treated impartially according to his merit, yet it was excessively absurd to restrict the promises of God within such narrow limits."
+        ],
+        "Philip Schaff": [
+            "There is no resurrection.\" ",
+            "A scoffing question, in ridicule of the doctrine and of Christ Himself.",
+            "Errorists often think that opposition to their opponents is agreement with them."
+        ],
+        "John Gill": [
+            "The Sadducees were a distinct sect, both from the Pharisees and the Herodians.",
+            "They denied that there were angels and spirits, and the immortality of the soul; they affirmed, that the soul died with the body, and that there was no future state.",
+            "They were desirous of entering into a controversy with him about it."
+        ],
+        "John Wesley": [
+            "Mark 12:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Sadducees, a sect that denies the resurrection and the immortality of the soul, pose a scoffing question to Jesus in an attempt to ridicule not only the doctrine itself but also Christ. In their error, they fail to realize that opposing their opponents does not equate to agreement with them. Their intense hatred for the Gospel leads them to support and align with other individuals who seek its destruction. However, their narrow-mindedness and denial of God's promises and the eternal consequences for the wicked display their excessive absurdity. It is important to note that the Sadducees not only denied the resurrection but also rejected the existence of angels, spirits, and the immortality of the soul.",
+            "wordCount": 118,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.1831517649315149,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.31,
+                46.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sadducees, who deny the resurrection and immortality of the soul, mockingly question Jesus to ridicule both the doctrine and Christ Himself. Their hatred of the Gospel causes them to align with those who seek its destruction. Yet, their denial of God's promises and the eternal consequences for the wicked reveals their narrow-mindedness. Not only do they oppose the resurrection, but they also reject the existence of angels, spirits, and the immortality of the soul. Their absurdity is evident in their limited view of truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.1982211542074626,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                54.87,
+                45.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Sadducees, a sect that denies the resurrection and the immortality of the soul, scoffingly question Jesus, ridiculing both the doctrine and Christ Himself. Their intense hatred for the Gospel drives them to align with other individuals seeking its destruction. However, their narrow-mindedness and rejection of God's promises display their excessive absurdity. Not only do they oppose the resurrection, but they also deny the existence of angels, spirits, and the immortality of the soul. Their limited view of truth is evident in their attempt to restrict God's promises within the confines of this present life.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.1491057837972778,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                51.63,
+                48.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sadducees, who deny the resurrection and the immortality of the soul, scoffingly question Jesus, ridiculing both the doctrine and Him. Their intense hatred for the Gospel leads them to align with others seeking its destruction. Yet, their narrow-mindedness and denial of God's promises reveal their excessive absurdity. By opposing the resurrection and rejecting the existence of angels, spirits, and the soul's immortality, they limit their understanding of truth to this present life, disregarding the eternal consequences that await.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.169536428136745,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.07,
+                47.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sadducees, who deny the resurrection and the immortality of the soul, mockingly question Jesus, ridiculing both the doctrine and Christ Himself. Their hatred for the Gospel causes them to support and align with those seeking its destruction. However, their narrow-minded rejection of God's promises displays their excessive absurdity. Not only do they oppose the resurrection, but they also deny the existence of angels, spirits, and the soul's immortality. Their faulty understanding of truth limits them to the present life and disregards the eternal consequences that await.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.1660128922581765,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.39,
+                46.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

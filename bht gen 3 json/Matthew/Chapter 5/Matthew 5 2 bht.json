@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:43:31",
+    "verseRef": "Matthew 5:2",
+    "bestBHT": {
+        "bht": "As Jesus opened his mouth, it became apparent that he was about to share something significant. Sitting on the mountain, his voice resonated strongly, reaching the multitude of disciples and people gathered there. His purpose was to bless and bring happiness, teaching that true contentment lies in being humble and genuinely repentant. This teaching held great value, as it served as an explanation and expansion of the words preached by Jesus and John the Baptist. It emphasized the importance of recognizing our sinfulness and relying on God's grace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.6869157649635138,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+        "commentatorTierSimilarities": [
+            30.69,
+            32.22,
+            37.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "opened his mouth] as in reff., a solemn introduction to some discourse or advice of importance.\" ",
+            "The discourse... divides itself into various great sections.",
+            "It is a divine commentary on the words with which His own and the Baptist\u2019s preaching opened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And he opened his mouth\u2014a solemn way of arousing the reader's attention, and preparing him for something weighty.\" ",
+            "(Job 9:1; Acts 8:35; Acts 10:34).",
+            "and taught them, saying\u2014as follows."
+        ],
+        "Marvin Vincent": [
+            "Taught [\u03b5\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b5\u03bd] . The imperfect signifies began to teach."
+        ],
+        "John Calvin": [
+            "The only consolation which mitigates and even sweetens the bitterness of the cross and of all afflictions, is the conviction, that we are happy in the midst of miseries.",
+            "The disciples of Christ must learn the philosophy of placing their happiness beyond the world, and above the affections of the flesh.",
+            "Let us, therefore remember, that the leading object of the discourse is to show, that those are not unhappy who are oppressed by the reproaches of the wicked, and subject to various calamities."
+        ],
+        "Philip Schaff": [
+            "When the Lord opens his mouth, we should open our ears and hearts.",
+            "It is appropriate, whether this sermon was uttered on one occasion, or is a summary of our Lord\u2019s teachings.",
+            "The King Himself now becomes the Teacher."
+        ],
+        "Archibald T. Robertson": [
+            "He sat down on the mountain side as the Jewish rabbis did instead of standing.\" ",
+            "It was a most impressive scene as Jesus opened his mouth wide and spoke loud enough for the great throng to hear him.",
+            "The newly chosen twelve apostles were there, 'a great number of disciples and a great number of the people' (Luke 6:17)."
+        ],
+        "John Gill": [
+            "He spoke with a clear and strong voice, that all the people might hear him; and with great freedom, utterance, and cheerfulness, and things of the greatest moment and importance.\" ",
+            "He taught them; not his disciples only, but the whole multitude, who heard him with astonishment.",
+            "Some things in the following discourse are directed to the disciples in particular, and others regard the multitude in general."
+        ],
+        "John Wesley": [
+            "To bless men; to make men happy, was the great business for which our Lord came into the world.",
+            "Though all men desire, yet few attain, happiness, because they seek it where it is not to be found.",
+            "The poor in spirit \u2014 They who are unfeignedly penitent, they who are truly convinced of sin; who see and feel the state they are in by nature, being deeply sensible of their sinfulness, guiltiness, helplessness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus opened his mouth with solemnity, setting the stage for his discourse that divided itself into various great sections. This teaching was a divine commentary on the words that both He and John the Baptist had preached. As Jesus sat down on the mountain, a multitude of disciples and people gathered around him, eager to hear his words. With a clear and strong voice, he began to teach, speaking with great freedom and cheerfulness. His purpose was to bless and make men happy, showing them that true happiness is found in being poor in spirit, unfeignedly penitent, and deeply aware of their sinfulness and need for God's grace.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.77145949166613,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                32.87,
+                28.29,
+                38.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus opened his mouth, it signified the importance of his forthcoming discourse. Sitting on the mountain, he spoke with a loud and clear voice, capturing the attention of the multitude of disciples and people gathered there. His aim was to bless and make men happy, revealing that true happiness is found in being poor in spirit and genuinely penitent. This teaching was a divine commentary on the words preached by both Jesus and John the Baptist, emphasizing the need for deep awareness of sinfulness and dependence on God's grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.7251729767424517,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                30.0,
+                30.05,
+                39.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus opened his mouth, it became apparent that he was about to share something significant. Sitting on the mountain, his voice resonated strongly, reaching the multitude of disciples and people gathered there. His purpose was to bless and bring happiness, teaching that true contentment lies in being humble and genuinely repentant. This teaching held great value, as it served as an explanation and expansion of the words preached by Jesus and John the Baptist. It emphasized the importance of recognizing our sinfulness and relying on God's grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.6869157649635138,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                30.69,
+                32.22,
+                37.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus opened his mouth with solemnity, drawing the attention of the crowd. Sitting on the mountain, he taught with a clear and strong voice, captivating the multitude of disciples and people who had gathered. His purpose was to bless and bring happiness, revealing that true fulfillment comes from being poor in spirit and genuinely penitent. This teaching served as a divine commentary on the words preached by Jesus and John the Baptist, emphasizing the importance of recognizing our sinfulness and depending on God's grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7040086481397108,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                32.39,
+                28.24,
+                39.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this solemn moment, Jesus began to teach, sitting on the mountain to address the multitude. His words carried weight as he spoke with a clear and strong voice, capturing the attention of both disciples and the people gathered. The aim of his teaching was to bring happiness and blessings, revealing that true fulfillment lies in being humble and genuinely repentant. This divine message expanded on the preaching of Jesus and John the Baptist, highlighting the significance of recognizing our sinfulness and finding solace in God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.6780515317852522,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                31.33,
+                29.74,
+                38.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

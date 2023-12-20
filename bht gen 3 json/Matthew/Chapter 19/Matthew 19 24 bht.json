@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:50:14",
+    "verseRef": "Matthew 19:24",
+    "bestBHT": {
+        "bht": "The saying of Jesus about a camel passing through the eye of a needle is meant to illustrate the greatest human impossibility and to magnify divine grace. Although some have attempted to explain it away, Jesus points out the impossibility, comparing it to an eastern proverb. This proverb was widely used in the Jewish and other eastern cultures to signify difficulties or impossibilities. Thus, Jesus is emphasizing the insurmountable challenge for a rich man to enter the kingdom of God under his own power.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.8795427480186842,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+        "commentatorTierSimilarities": [
+            34.24,
+            29.65,
+            36.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The object here was to set forth the greatest human impossibility.",
+            "To magnify divine grace, which could accomplish even that.",
+            "Lightfoot brings instances from the Talmud of similar proverbial expressions."
+        ],
+        "Marvin Vincent": [
+            "The reason why the camel was substituted for the elephant was because the proverb was from the Babylonian Talmud, and in Babylon the elephant was common, while in Palestine it was unknown.",
+            "The Koran has the same figure: 'The impious shall find the gates of heaven shut; nor shall he enter there till a camel shall pass through the eye of a needle.'",
+            "A needle's eye is not too narrow for two friends, nor is the world wide enough for two enemies."
+        ],
+        "Philip Schaff": [
+            "A strong declaration of impossibility (comp. Matthew 19:26).",
+            "The literal sense is not too strong, as both the context and abundant facts show.",
+            "The camel was more familiar to the hearers of the Saviour than the elephant, and on account of the hump on its back, it was especially adapted to symbolize earthly wealth as a heavy load and serious impediment to entrance through the narrow gate of the kingdom of heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus, of course, means by this comparison, whether an eastern proverb or not, to express the impossible.",
+            "All these [efforts to explain it away] are hopeless, for Jesus pointedly calls the thing 'impossible.'\" ",
+            "The Jews in the Babylonian Talmud did have a proverb that a man even in his dreams did not see an elephant pass through the eye of a needle."
+        ],
+        "John Gill": [
+            "it is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+            "Thus, when the Jews would express anything that was rare and unusual, difficult and impossible, they used a like saying with this.",
+            "And not only among the Jews, but in other eastern nations, this proverbial way of speaking was used, to signify difficulties or impossibilities."
+        ],
+        "John Wesley": [
+            "It is easier for a camel to go through the eye of a needle, (a proverbial expression,) than for a rich man to go through the strait gate.",
+            "Rich man! tremble! feel this impossibility; else thou art lost for ever!",
+            "Humanly speaking, it is an absolute impossibility."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus uses the imagery of a camel passing through the eye of a needle to illustrate the greatest human impossibility. He intentionally chose this extreme example to emphasize the impossibility of a rich man entering the kingdom of God on his own merits. The camel, symbolizing earthly wealth and burden, becomes a metaphor for the heavy load and serious impediment that prevents entrance through the narrow gate. Despite attempts to explain this saying away, Jesus categorically declares it to be impossible. It is a powerful reminder that it is only through divine grace and the supernatural work of God that we can enter into the kingdom of God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.742147306738544,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                32.61,
+                32.66,
+                34.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus used the metaphor of a camel passing through the eye of a needle to emphasize the impossibility of a rich man entering the kingdom of God. This saying, found in both the Babylonian Talmud and the Koran, was used to express something rare, unusual, and difficult. Despite attempts to explain it away, Jesus affirmed that this was an absolute impossibility. It is a stark reminder that humanly speaking, it is impossible for anyone to enter the kingdom of God without divine grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.779044941772573,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                33.12,
+                27.56,
+                39.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The saying of Jesus about a camel passing through the eye of a needle is meant to illustrate the greatest human impossibility and to magnify divine grace. Although some have attempted to explain it away, Jesus points out the impossibility, comparing it to an eastern proverb. This proverb was widely used in the Jewish and other eastern cultures to signify difficulties or impossibilities. Thus, Jesus is emphasizing the insurmountable challenge for a rich man to enter the kingdom of God under his own power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8795427480186842,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                34.24,
+                29.65,
+                36.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus used the analogy of a camel passing through the eye of a needle to highlight the impossibility of a rich man entering the kingdom of God. This image, appearing as a proverb in various cultures, symbolized something rare and difficult. Despite attempts to explain it away, Jesus made it clear that this was an absolute impossibility, emphasizing the need for divine grace. Thus, it is a reminder that humanly speaking, it is impossible for anyone, especially someone burdened by earthly wealth, to enter the kingdom of God without God's intervention.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.730066417353786,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                31.16,
+                29.77,
+                39.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus used the analogy of a camel passing through the eye of a needle to depict the greatest human impossibility, highlighting the need for divine grace to overcome it. This saying, found in both Jewish and other eastern cultures, was used to signify difficulties or impossibilities. Despite attempts to explain it away, Jesus firmly declares the impossibility of a rich man entering the kingdom of God alone. It serves as a powerful reminder that, without divine intervention, it is humanly impossible for anyone to enter the kingdom of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7183075513507786,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                31.64,
+                28.9,
+                39.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

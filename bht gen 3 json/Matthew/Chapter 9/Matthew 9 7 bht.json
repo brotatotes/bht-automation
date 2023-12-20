@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:45:10",
+    "verseRef": "Matthew 9:7",
+    "bestBHT": {
+        "bht": "The man who had been paralyzed experienced a moment of suspense before he attempted to rise from his bed, his faith in Jesus as his Healer giving him strength. When he obeyed Jesus' command, he found himself perfectly healed, able to walk on his own. In the sight of all the people, he took up his bed, carried it home on his shoulders, and praised God for the miraculous cure he had received.",
+        "wordCount": 73,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.8444954797747934,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+        "commentatorTierSimilarities": [
+            0.0,
+            40.4,
+            59.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The intervening moment must have been one of suspense to all, save the Healer and the healed; the one serene in the consciousness of power, the other strong in faith.",
+            "His walk was truly \u2018by faith,\u2019 and he went \u2018glorifying God.\u2019"
+        ],
+        "John Gill": [
+            "Immediately, at the command of Christ, believing he was able to heal him by a word speaking; and, upon his attempt to arise, found himself perfectly healed of his disease.\" ",
+            "He could, not only with the greatest ease, arise from his bed, stand upon his feet, and walk alone, without any help.",
+            "Took up his bed, on which he lay, carried it home on his shoulders, in the sight of all the people, praising, and giving glory to God for this wonderful cure, which he had received."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man who had been paralyzed experienced a moment of suspense before he attempted to rise from his bed, his faith in Jesus as his Healer giving him strength. When he obeyed Jesus' command, he found himself perfectly healed, able to walk on his own. In the sight of all the people, he took up his bed, carried it home on his shoulders, and praised God for the miraculous cure he had received.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.8444954797747934,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.4,
+                59.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The faith-filled moment of suspense came to a climax as the paralyzed man, aware of Jesus' power, attempted to rise from his bed. Miraculously, he found himself completely healed, no longer in need of assistance to walk. With joyous gratitude, he carried his bed home, glorifying God in the presence of all who witnessed his miraculous cure.",
+            "wordCount": 58,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.614051110063864,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.01,
+                54.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The paralyzed man, filled with faith and strengthened by his encounter with Jesus, experienced a moment of suspense before attempting to rise from his bed. With complete trust in Jesus' ability to heal, he obeyed His command and found himself miraculously cured. Overwhelmed with gratitude and praise, the man glorified God as he carried his bed home, a visible testament to the wonderful cure he had received.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.807564777677781,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.44,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.7,
+                56.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a moment of suspense, the paralyzed man, confident in Jesus' power, attempted to rise from his bed. His obedience to Jesus' command resulted in a miraculous healing, allowing him to walk unaided. With the eyes of the crowd upon him, he carried his bed home, praising and glorifying God for the wonderful cure he had received.",
+            "wordCount": 57,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.723935577024607,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.82,
+                59.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The paralyzed man, full of faith, experienced a moment of suspense before he attempted to rise from his bed, knowing that Jesus had the power to heal him. With complete trust, he followed Jesus' command and found himself perfectly healed, able to walk unassisted. As he carried his bed home, the crowd watched in awe, witnessing the incredible miracle and hearing his praises and thanksgiving to God for this wondrous cure.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8322881901215178,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.46,
+                53.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

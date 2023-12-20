@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:47:06",
+    "verseRef": "Matthew 12:32",
+    "bestBHT": {
+        "bht": "It could not be said with truth of any, that \u2018it shall not be forgiven them neither in this world nor either in the world to come,\u2019 unless there were some who are to be forgiven not in this world, but in the world to come. The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself, but rather it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation, leaving no hope for forgiveness in this life or in the last judgment.",
+        "wordCount": 122,
+        "quoteTokenProportion": 55.13,
+        "qualityScore": 2.468259280622694,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+        "commentatorTierSimilarities": [
+            31.34,
+            33.58,
+            35.08
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It could not be said with truth of any, that \u2018it shall not be forgiven them neither in this world nor either in the world to come,\u2019 unless there were some who are to be forgiven not in this world, but in the world to come.",
+            "In the almost entire silence of Scripture on any such doctrine, every principle of sound interpretation requires that we should hesitate to support it by two difficult passages, in neither of which does the plain construction of the words absolutely require it.",
+            "These terms seem to differ from 'the kingdom of heaven,' or 'of God,' in never being spoken of, or as in, individuals, but as an age of time belonging to the universal Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Its unpardonableness cannot arise from anything in the nature of sin itself; for that would be a naked contradiction to the emphatic declaration.",
+            "It is a contrast between slandering 'the Son of man' in His veiled condition and unfinished work... and slandering the same blessed Person after the blaze of glory which the Holy Ghost was soon to throw around His claims.",
+            "To blaspheme Christ in the former condition... left them still open to conviction on fuller light: but to blaspheme Him in the latter condition would be to hate the light the clearer it became, and resolutely to shut it out which, of course, precludes salvation."
+        ],
+        "Marvin Vincent": [
+            "The Holy Spirit [\u03c4\u03bf\u03c5 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03b3\u03b9\u03bf\u03c5] . The Spirit - the holy. These words define more clearly the blasphemy against the Spirit, ver. 31."
+        ],
+        "John Calvin": [
+            "There is no reason to expect that those who shall have blasphemed against the Spirit will obtain pardon in this life, or will be acquitted in the last judgment.",
+            "The meaning therefore is: \u2014 'There is no reason to expect that those who shall have blasphemed against the Spirit will obtain pardon in this life, or will be acquitted in the last judgment.'",
+            "To the dead, therefore, there remains no forgiveness, except as regards punishment; and surely they will not venture to deny that the subject of this discourse is guilt."
+        ],
+        "Philip Schaff": [
+            "Whosoever speaketh a word, i.e., in passing, not as the result of a determined state of hostility, against the Son of man, against Christ in the form of a servant, through ignorance of His real glory, it shall be forgiven him. Even this great sin can be pardoned.",
+            "Against the Holy Ghost. Not the Divine nature of Christ, but the third Person of the Trinity, as the Agent working in the hearts of men, without whom neither forgiveness nor holiness is possible.",
+            "Neither in this world, nor in that which is to come. 'World,' i.e.., \u00e6on or age; the present one before the final coming of Christ, the future one dating from that event, and lasting forever. The Jewish nation divided the two by the first coming of the Messiah. The meaning is: shall NEVER be forgiven."
+        ],
+        "John Gill": [
+            "And whosoever speaketh a word against the son of man... it shall be forgiven him through the grace of God, the blood and mediation of Christ, under the application of the blessed Spirit.",
+            "But whosoever speaketh against the Holy Ghost... they shall never be forgiven... The sin against the Holy Ghost never has forgiveness; it is not pardoned now, and consequently there will be no declaration of the pardon of it hereafter.",
+            "The Jews use the phrase in the same sense: 'I will not forgive thee, neither in this world, nor in the world to come.' That is, I will never forgive thee."
+        ],
+        "John Wesley": [
+            "Whosoever speaketh against the Son of man \u2014 In any other respects: It shall be forgiven him - Upon his true repentance:",
+            "But whosoever speaketh thus against the Holy Ghost, it shall not be forgiven, neither in this world nor in the world to come -",
+            "The judgment of God shall overtake him, both here and hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It could not be said with truth of any, that \u2018it shall not be forgiven them neither in this world nor either in the world to come,\u2019 unless there were some who are to be forgiven not in this world, but in the world to come. The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself, but rather it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation, leaving no hope for forgiveness in this life or in the last judgment.",
+            "wordCount": 122,
+            "quoteTokenProportion": 55.13,
+            "qualityScore": 2.468259280622694,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+            "commentatorTierSimilarities": [
+                31.34,
+                33.58,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It could not be said with truth of any, that 'it shall not be forgiven them neither in this world nor either in the world to come,' unless there were some who are to be forgiven not in this world, but in the world to come. The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself, but rather it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation.",
+            "wordCount": 109,
+            "quoteTokenProportion": 56.52,
+            "qualityScore": 2.3355613961099477,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.0,
+            "commentatorTierSimilarities": [
+                32.71,
+                34.67,
+                32.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself, but rather it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation, leaving no hope for forgiveness in this life or in the last judgment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.487829615146441,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.06,
+            "commentatorTierSimilarities": [
+                32.46,
+                32.89,
+                34.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It could not be said with truth of any, that \u2018it shall not be forgiven them neither in this world nor either in the world to come,\u2019 unless there were some who are to be forgiven not in this world, but in the world to come. The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself, but rather it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation, leaving no hope for forgiveness in this life or in the last judgment.",
+            "wordCount": 122,
+            "quoteTokenProportion": 55.13,
+            "qualityScore": 2.468259280622694,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+            "commentatorTierSimilarities": [
+                31.34,
+                33.58,
+                35.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unpardonableness of blasphemy against the Holy Spirit cannot arise from anything in the nature of sin itself; rather, it is a contrast between slandering the Son of man in His veiled condition and unfinished work, and slandering the same blessed Person after the blaze of glory which the Holy Spirit was soon to throw around His claims. This sin precludes salvation, leaving no hope for forgiveness in this life or the last judgment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.476521107083637,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.68,
+            "commentatorTierSimilarities": [
+                32.58,
+                32.58,
+                34.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

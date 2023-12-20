@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:51:44",
+    "verseRef": "Matthew 23:28",
+    "bestBHT": {
+        "bht": "Their religion was nothing more than a facade, a superficial whitewash that barely covered the corruption within. Their outward righteousness was a sham, for their hearts were filled with opposition to God's law. Like Sarah and Leah, they pretended to be righteous, but in reality, they were the dyed or colored ones. Their display of righteousness was only for the eyes of men, not for God, who sees through the external and knows the secret wickedness lurking within. Their hearts were not temples of the living God, but graves of pestilent corruption, their religion a mere illusion.",
+        "wordCount": 98,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7015578819279373,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+        "commentatorTierSimilarities": [
+            0.0,
+            50.91,
+            49.09
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Your heart is not a temple of the living God, but a grave of pestilent corruption: not a heaven, but a hell.",
+            "And your religion is but the whitewash hardly skin-deep.",
+            "Their outward righteousness was put on, their hearts were really opposed to God\u2019s law."
+        ],
+        "John Gill": [
+            "They were what Hagar, as the Jews say, charged her mistress with being; for so they interpret these words, 'her mistress was despised in her eyes,' Genesis 16:4 b. 'She said, this Sarah is not secretly, what she is openly; she appears \u05db\u05d0\u05d9\u05dc\u05d5 \u05d4\u05d9\u05d0 \u05e6\u05d3\u05e7\u05ea, 'as if she was righteous' and she is not righteous.'",
+            "The same they say of Leah. This was a misrepresentation; but the representation Christ gives of these men, is right; they were of that sort of the Pharisees, which they call \u05d4\u05e6\u05d1\u05d5\u05e2\u05d9\u05df, 'the dyed', or 'colored' ones.",
+            "But this outward show and appearance of righteousness, was only 'unto men', not unto God: they did not appear so to him, who is the searcher of hearts, and knows what is in man, and knew all the secret wickedness that was in them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their religion was nothing more than a facade, a superficial whitewash that barely covered the corruption within. Their outward righteousness was a sham, for their hearts were filled with opposition to God's law. Like Sarah and Leah, they pretended to be righteous, but in reality, they were the dyed or colored ones. Their display of righteousness was only for the eyes of men, not for God, who sees through the external and knows the secret wickedness lurking within. Their hearts were not temples of the living God, but graves of pestilent corruption, their religion a mere illusion.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7015578819279373,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.91,
+                49.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their religion was merely a fa\u00e7ade, a shallow whitewash that barely concealed the internal corruption. Outwardly they appeared righteous, but their hearts were filled with opposition to God's law. Like Sarah and Leah, they disguised their true nature. However, their display of righteousness was for appearances only; it did not fool God, who knows the secret wickedness within. Their hearts were not a dwelling place for the living God, but rather a place of pestilence.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5198173799033636,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                0.0,
+                49.2,
+                50.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their outward righteousness was a mere illusion, a whitewash that barely covered the corruption within. They pretended to be righteous like Sarah and Leah, but they were actually the dyed or colored ones. However, this outward show was only for the eyes of men, not for God who sees through the exterior and knows the hidden wickedness within. Their hearts were not temples for the living God but rather graves of pestilent corruption. Their religion was nothing more than a facade, devoid of true righteousness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.6074373198205203,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                49.82,
+                50.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their religion was a deceptive outward display, a mere superficial whitewash that concealed the true corruption within. Like Sarah and Leah, they presented themselves as righteous, but they were truly the dyed or colored ones. Yet, this false righteousness was only for the eyes of men, for they could not deceive God. He saw beyond their facade and knew the hidden wickedness within their hearts. Their hearts were not sanctuaries for the living God, but instead, they harbored only pestilent corruption.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5137202778177927,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.9,
+                54.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their religion was a shallow external display, a mere disguise that barely masked their internal corruption. They pretended to be righteous like Sarah and Leah's misrepresentation, the dyed or colored ones. However, their external show only fooled humans, not God, who sees the concealed wickedness within. Their hearts were not genuine dwellings for the living God, but rather held only pestilent corruption. The righteousness they displayed was merely an illusion, devoid of truth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.3639347110767845,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.69,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.95,
+                53.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

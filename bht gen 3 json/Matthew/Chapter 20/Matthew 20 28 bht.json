@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:50:40",
+    "verseRef": "Matthew 20:28",
+    "bestBHT": {
+        "bht": "The Son of man came to give His life as a ransom for many, exemplifying self-abnegation in contrast to the self-seeking of others. The word ransom signifies the payment made for the liberation of a slave, demonstrating the significance of Jesus' death as the price of freedom from sin. His ministry of serving others calls his disciples to do the same, as even the Son of man came not to be served, but to serve. Ultimately, his life served as the price for our redemption, reconciling us with God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.9456534855398404,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+        "commentatorTierSimilarities": [
+            36.18,
+            31.69,
+            32.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus also the came, ver. 28, applies to the coming of the Son of man in the flesh only.",
+            "The principal usages (in the Greek Scriptures) of the word rendered ransom are the following:\u2014 (1) a payment as equivalent for a life destroyed; (2) the price of redemption of a slave; (3) \u2018propitiation for.\u2019",
+            "\u2018As the Son of man came to give His life for many and to serve many, so ye, being many, should be to each one the object of service and self-denial.\u2019"
+        ],
+        "Marvin Vincent": [
+            "A ransom for many. Compare Sophocles, \"Oed. Col.,\" 488. ",
+            "For one soul working in the strength of love Is mightier than ten thousand to atone."
+        ],
+        "John Calvin": [
+            "I took upon me, along with the mean and despised form of the flesh, the ignominy of the cross.",
+            "If I, who am your Master and Lord, have washed your feet, much more ought you to perform this service to one another.",
+            "His life is the price of our redemption; whence it follows, that we obtain an undeserved reconciliation with God, the price of which is to be found nowhere else than in the death of Christ."
+        ],
+        "Philip Schaff": [
+            "What He asked of them was what He did Himself.",
+            "His appearing in the world was not to be ministered unto, not to be personally served by others, nor to exercise an external authority for His own external interest, but to minister, to serve others, as His whole ministry showed.",
+            "This passage affirms that our Lord\u2019s death was vicarious; by His death as a ransom-price the \u2018many\u2019 are to be redeemed from the guilt and power of sin."
+        ],
+        "Archibald T. Robertson": [
+            "The Son of man is the outstanding illustration of this principle of self-abnegation in direct contrast to the self-seeking of James and John.",
+            "The word translated 'ransom' is the one commonly employed in the papyri as the price paid for a slave who is then set free by the one who bought him, the purchase money for manumitting slaves.",
+            "Jesus gave his own life as the price of freedom for the slaves of sin. Jesus here rises to the full consciousness of the significance of his death for men."
+        ],
+        "John Gill": [
+            "he came not to be ministered unto by others; to be attended on in pomp and state, to have a numerous retinue about him, waiting upon him, and ministering to him; as is the case of the princes, and great men of the world\" ",
+            "but to minister; in the form of a servant unto others, going about from place to place to do good, both to the bodies and souls of men\" ",
+            "he came to give his life a ransom for many: what he came to give was his life, which was his own, and than which nothing is more dear and precious"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the Son of man came to give His life as a ransom for many, He exemplifies the principle of self-abnegation, contrasting with the self-seeking of others. The word ransom signifies the payment made for the liberation of a slave, emphasizing the significance of Jesus' death as the price of freedom for the slaves of sin. Jesus' own ministry demonstrated his willingness to serve and minister to others, and he calls his disciples to do the same, reminding them that even the Son of man did not come to be served, but to serve. Ultimately, his life served as the ultimate price for our redemption, reconciling us with God.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9147438270628943,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                35.36,
+                32.74,
+                31.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son of man came to give His life as a ransom for many, exemplifying self-abnegation in contrast to the self-seeking of others. The word ransom signifies the payment made for the liberation of a slave, demonstrating the significance of Jesus' death as the price of freedom from sin. His ministry of serving others calls his disciples to do the same, as even the Son of man came not to be served, but to serve. Ultimately, his life served as the price for our redemption, reconciling us with God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9456534855398404,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                36.18,
+                31.69,
+                32.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of man came to give His life as a ransom for many, exemplifying self-abnegation. The word ransom signifies the payment for the liberation of a slave, emphasizing Jesus' death as the price of freedom from sin. His ministry calls his disciples to serve others, as even the Son of man came not to be served, but to serve. His life served as the price for our redemption, reconciling us with God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8944998395527142,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.33,
+            "commentatorTierSimilarities": [
+                36.57,
+                30.68,
+                32.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of man came to give His life as a ransom for many, exemplifying the principle of self-abnegation. The word ransom signifies the payment made for the liberation of a slave, emphasizing the significance of Jesus' death as the price of freedom for the slaves of sin. Jesus came not to be served, but to serve. His life served as the ultimate price for our redemption, reconciling us with God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7872388060538587,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                37.83,
+                29.48,
+                32.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the Son of man came to give His life as a ransom for many, He exemplifies the principle of self-abnegation, contrasting with the self-seeking of others. The word ransom signifies the payment made to liberate a slave, emphasizing the significance of Jesus' death as the price of freedom for the slaves of sin. Jesus' ministry demonstrated his willingness to serve and minister to others, calling his disciples to do the same. Ultimately, His life served as the ultimate price for our redemption, reconciling us with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.87134455578886,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                34.52,
+                33.73,
+                31.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

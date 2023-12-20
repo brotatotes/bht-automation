@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:46:03",
+    "verseRef": "Matthew 10:31",
+    "bestBHT": {
+        "bht": "Do not fear, as you are of greater value than many sparrows. The profound simplicity of these words carries immense significance in our Lord's teaching. Every soul, even the smallest of creatures, holds value in the sight of God. As believers, we are witnesses of Jesus, and our Heavenly Father watches over and protects us. Therefore, let us boldly proclaim the truth without fear, trusting in God's unwavering care until His work in us is fulfilled.",
+        "wordCount": 78,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.6206300114724246,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+        "commentatorTierSimilarities": [
+            31.21,
+            41.06,
+            27.73
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Fear ye not therefore, ye are of more value than many sparrows\u2014Was ever language of such simplicity felt to carry such weight as this does?",
+            "Here lies much of the charm and power of our Lord's teaching."
+        ],
+        "John Calvin": [
+            "You are of more value...this discourse relates peculiarly to the sons of God, who possess a far higher right than what they derive from creation.",
+            "The rank which belongs to men arises solely from the undeserved kindness of God.",
+            "But this discourse relates peculiarly to the sons of God, who possess a far higher right than what they derive from creation."
+        ],
+        "Philip Schaff": [
+            "Ye are of more value, i.e., in the sight of God, who is 'your Father' (Matthew 10:29). 'The humblest of God's creatures have their value in His sight: how much more human beings. Especially Christians, but above all, the witnesses of Jesus.'\" ",
+            "A right sense of our immortality consists in the feeling that we are perfectly safe in the keeping of our Father; let us then not fear men, but boldly and fully proclaim the truth we have from our Master who also suffered from men."
+        ],
+        "Archibald T. Robertson": [
+            "Than many sparrows (\u03c0\u03bf\u03bb\u03bb\u03c9\u03bd \u03c3\u03c4\u03c1\u03bf\u03c5\u03b8\u03b9\u03c9\u03bd). Ablative case of comparison with \u03b4\u03b9\u03b1\u03c6\u03b5\u03c1\u03b5\u03c4\u03b5 (our differ). "
+        ],
+        "John Gill": [
+            "If that reaches to the meanest of creatures, sparrows, and to that which is of the least account with men, the single hair of a man's head; much more must it regard the lives of men.",
+            "Any man is more valuable, as a man, than many sparrows, and much less between them and the apostles of the Lamb.",
+            "If God takes care of sparrows and is concerned for their lives, much more will he take care of his faithful ministers, and not suffer their lives to be taken away, till they have done the will and work of their Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fear not, for you are of great value in the sight of God. This simple yet weighty statement is a powerful reminder of the charm of our Lord's teaching. We are far more valuable than many sparrows, as the humblest of God's creatures have their worth in His eyes. As the witnesses of Jesus, we can find true security in the loving care of our Heavenly Father. Let us boldly proclaim the truth without fear, knowing that He will protect and guide us until His work in us is complete.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.5957096977198018,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                28.67,
+                43.95,
+                27.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fear not, for you are of more value than many sparrows. The simplicity of this statement carries great weight, offering a profound reassurance. Our Lord's teaching holds immense charm and power in communicating this truth. The humblest creatures find value in God's eyes, highlighting the worth of humanity, especially Christians and witnesses of Jesus. Let us find solace in knowing that we are secure in the care of our Heavenly Father and fearlessly proclaim His truth, trusting in His unfailing protection.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.5737143724430789,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                32.81,
+                40.98,
+                26.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fear not, for you are of great value in the sight of God. This simple yet weighty statement is a powerful reminder of the charm of our Lord's teaching. We are far more valuable than many sparrows, as the humblest of God's creatures hold worth in His eyes. As the witnesses of Jesus, we can find true security in the loving care of our Heavenly Father. Let us boldly proclaim the truth without fear, knowing that He will protect and guide us until His work is complete.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5896555470012643,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.2,
+            "commentatorTierSimilarities": [
+                28.58,
+                43.82,
+                27.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear not, for you are of more value than many sparrows. The simplicity and weight of these words in Matthew 10:31 reflects the power of our Lord's teaching. We find great comfort in knowing that even the humblest creatures have worth in the eyes of God. As Christians, we are witnesses of Jesus, and our Heavenly Father will watch over and protect us. With this assurance, we are encouraged to boldly proclaim the truth without fear, relying on God's unfailing care until His work in us is complete.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.6488551097024504,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                31.2,
+                41.7,
+                27.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not fear, as you are of greater value than many sparrows. The profound simplicity of these words carries immense significance in our Lord's teaching. Every soul, even the smallest of creatures, holds value in the sight of God. As believers, we are witnesses of Jesus, and our Heavenly Father watches over and protects us. Therefore, let us boldly proclaim the truth without fear, trusting in God's unwavering care until His work in us is fulfilled.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6206300114724246,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                31.21,
+                41.06,
+                27.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

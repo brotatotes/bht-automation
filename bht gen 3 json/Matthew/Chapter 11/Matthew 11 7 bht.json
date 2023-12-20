@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:39",
+    "verseRef": "Matthew 11:7",
+    "bestBHT": {
+        "bht": "Jesus uses the departure of John's disciples as a prompt to enlighten the people about the true character and position of John. He reminds them of the impact of John's preaching and takes the opportunity to share profound truths about His own Kingdom. Jesus questions the crowd, emphasizing that John was not like the reeds easily shaken by the wind. Although John's preaching of repentance may have given the wrong impression to some, he was resolute and unwavering in his ministry, proving himself to be steadfast and strong.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.9576320173646795,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+        "commentatorTierSimilarities": [
+            32.33,
+            42.38,
+            25.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The following verses set forth to the people the real character and position of John...assuring them that there was the same dignity of office and mission throughout.\" ",
+            "They are not spoken till after the departure of the disciples of John...for the people, who on account of the question which they had heard might go away with a mistaken depreciation of John.",
+            "And our Lord, as usual, takes occasion, from reminding them of the impression made on them by John\u2019s preaching of repentance, to set forth to them deep truths regarding His own Kingdom and Office."
+        ],
+        "Albert Barnes": [
+            "Jesus took occasion, from the inquiries made by John\u2019s disciples, to instruct the people respecting the true character of John.",
+            "A reed shaken with the wind? - The region of country in which John preached, being overflowed annually by the Jordan, produced great quantities of 'reeds' or 'canes,' of a light fragile nature, easily shaken by the wind.",
+            "Jesus, by asking this question, declared that, notwithstanding this appearance, this was not the character of John."
+        ],
+        "Marvin Vincent": [
+            "As these went their way; or while they, John's disciples, were departing: thus giving the simultaneousness of Jesus' words with the act of departure.",
+            "Qeasqai, like qewrein, expresses the calm, continuous contemplation of an object which remains before the spectator.",
+            "The more earnest expression suits the first question."
+        ],
+        "John Calvin": [
+            "Christ reminds them, that those who went out to see him in the wilderness lost their pains, if they did not devoutly apply their minds and faculties to his doctrine.",
+            "Your journey would have been an act of foolish and ridiculous levity, if you had not a fixed object in view.",
+            "If therefore you would reap advantage from your undertaking, it is necessary that what he spoke should remain fixed in your memory."
+        ],
+        "Philip Schaff": [
+            "The great influence of John appears from the fact that our Lord thus appeals to a mixed crowd.",
+            "Popularity is very often due to curiosity, even in the case of an earnest and faithful preacher.",
+            "He whom you went to see was not a fickle, wavering character."
+        ],
+        "Archibald T. Robertson": [
+            "It may almost be called the funeral oration of the Baptist, for not long afterwards Herodias compassed his death.",
+            "A reed shaken by the wind.",
+            "The reeds by the Jordan bent with the wind, but not so John."
+        ],
+        "John Gill": [
+            "What went ye out in the wilderness to see?... Did ye go out only to see and observe the preacher's gesture, to see him move his body to and fro? Was it not to hear his doctrine, and receive benefit for your souls? And did you not? Wherefore, you ought still to retain a valuable respect for him.",
+            "When you first went out to him, did you take him to be an unstable, inconstant man? Like a reed shaken with every wind! If you did, you were mistaken; he was firm and stable in his sentiments and ministry, his preaching was not yea and nay, his doctrine was all of a piece.",
+            "He stood to it, that he was not the Messiah, but his forerunner; the testimony he bore was always alike, consistent with himself, and he is the same man now he ever was."
+        ],
+        "John Wesley": [
+            "A reed shaken by the wind? \u2014 No; nothing could ever shake John in the testimony he gave to the truth.",
+            "The expression is proverbial.",
+            "Of whom probably he would not have said so much when they were present."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verses that follow Matthew 11:7 aim to ensure that the people don't underestimate John and his mission. These verses are spoken after John's disciples have departed, and Jesus takes the opportunity to remind the people of the impact of John's preaching of repentance and to reveal deeper truths about His own Kingdom and Office. He speaks with earnestness, delivering what can be considered John's funeral oration. Jesus asks the crowd if they went to see John just to witness his outward movements or to truly grasp the significance of his teachings. He emphasizes that John was not like a reed shaken by the wind, as the reeds by the Jordan were easily swayed. Despite appearances, John was steadfast and unwavering in his ministry. It is clear that Jesus seeks to dispel any doubts or misconceptions about John's character.",
+            "wordCount": 143,
+            "quoteTokenProportion": 33.68,
+            "qualityScore": 1.7756571915643993,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                31.88,
+                41.31,
+                26.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verses that follow highlight the true character and impact of John, ensuring that he is not underestimated. Jesus takes the opportunity, after John's disciples have departed, to address the crowd and clarify John's role. He reminds them of the impression John made with his preaching of repentance and uses this to reveal profound truths about His own Kingdom and Office. Jesus emphasizes that John was not like the reeds by the Jordan, easily swayed by the wind. Despite appearances, John remained steadfast and unwavering in his ministry.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8151279848022175,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                31.01,
+                43.33,
+                25.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus uses the departure of John's disciples as a prompt to enlighten the people about the true character and position of John. He reminds them of the impact of John's preaching and takes the opportunity to share profound truths about His own Kingdom. Jesus questions the crowd, emphasizing that John was not like the reeds easily shaken by the wind. Although John's preaching of repentance may have given the wrong impression to some, he was resolute and unwavering in his ministry, proving himself to be steadfast and strong.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9576320173646795,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                32.33,
+                42.38,
+                25.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The following verses provide insight into the true character and position of John the Baptist. After the departure of John's disciples, Jesus seizes the moment to remind the people of the impact and significance of John's preaching. Jesus emphasizes that John was not easily swayed and compares him to a reed shaken by the wind, symbolizing his steadfastness. By delving into John's unwavering dedication to his mission, Jesus sheds light on the profound truths concerning His own Kingdom and Office.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.8507443606287417,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                34.26,
+                43.06,
+                22.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus takes the opportunity after the departure of John's disciples to illuminate the people on the true character and position of John. He reminds them of the impact of John's preaching of repentance and uses this as a platform to reveal profound insights about His own Kingdom and Office. Jesus emphasizes that John was not like the reeds by the Jordan that easily bend in the wind, but rather he stood firm in his beliefs and ministry. It becomes clear that Jesus wants to ensure that the people fully appreciate John's unwavering dedication.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8960947840263247,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                32.84,
+                42.54,
+                24.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

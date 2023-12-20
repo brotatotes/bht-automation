@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:48:43",
+    "verseRef": "Matthew 16:5",
+    "bestBHT": {
+        "bht": "During their voyage, the disciples realized they had forgotten to take bread, which they usually bought at suitable places. This oversight may have been due to their absorption in Jesus' conversation with the Pharisees and Sadducees or the suddenness of Jesus' departure. Nonetheless, this incident served as an opportunity for Jesus to teach his disciples an important lesson. Just as the disciples needed to be attentive to their physical provision, they also needed to guard against the leaven of the Pharisees and Sadducees, symbolizing the corrupt teachings and influences that can affect one's spiritual life.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.3809088482732195,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+        "commentatorTierSimilarities": [
+            34.11,
+            24.71,
+            41.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This crossing of the lake was not the voyage to Magadan mentioned in ch. xv. 39, for after the dialogue with the Pharisees, Mark adds (viii. 13), 'entering into the ship again he departed to the other side.'\" ",
+            "They forgot to take bread; viz. on their land journey further.\" ",
+            "This is also to be understood in Mark (viii. 14), who states their having only one loaf in the ship, not to shew that they had forgotten to take bread before starting, but as a reason why they should have provided some on landing."
+        ],
+        "John Calvin": [
+            "To make the matter more clear, let us examine closely the words of Christ.\" ",
+            "But as Christ opposed the evils which then prevailed, and as he aroused the minds of his followers to guard against those which were the most dangerous, let us learn from his example to make a prudent inquiry what are the abuses that may now do us injury.",
+            "Whoever desires to become honestly a disciple of Christ, must be careful to keep his mind pure from those leavens; and if he has already imbibed them, he must labor to purify himself till none of their polluting effects remain."
+        ],
+        "Philip Schaff": [
+            "The visit to Bethsaida on the way (Mark 8:22), at a time when our Lord was avoiding public notice, may have been for the purpose of obtaining a supply.",
+            "It is improbable that this conversation took place during the voyage.",
+            "Provisions were not indispensable for so short a voyage."
+        ],
+        "Archibald T. Robertson": [
+            "Came (\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03b5\u03c2). Probably= \"went\" as in Luke 15:20 (\u03b9\u03c1\u03b5, not \u03c2\u03b5\u03bd\u03b9\u03c1\u03b5). So in Mark 8:13 \u03b1\u03c0\u03b7\u03bb\u03b8\u03b5\u03bd.",
+            "Forgot (\u03b5\u03c0\u03b5\u03bb\u03b1\u03b8\u03bf\u03bd\u03c4\u03bf). Perhaps in the hurry to leave Galilee, probably in the same boat by which they came across from Decapolis."
+        ],
+        "John Gill": [
+            "As they were either in the ship, or going from the shore to the said place, they recollected themselves, that they had forgotten to take bread.",
+            "It seems, it was usual with the disciples to buy food at places most proper, and carry with them; since Christ often went into deserts and mountainous places, where provisions could not be had.",
+            "This their forgetfulness to act according to their wonted method, might arise either from their being intent upon Christ's conversation with the Pharisees, and Sadducees, or from the suddenness of Christ's departure."
+        ],
+        "John Wesley": [
+            "Mark 8:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During their voyage across the lake, the disciples realized that they had forgotten to bring bread, which they usually bought at suitable places of provision. This forgetting may have been due to their preoccupation with Jesus' conversation with the Pharisees and Sadducees, or perhaps it was a result of the suddenness of Jesus' departure. Nonetheless, this incident served as an opportunity for Jesus to teach his disciples an important lesson. Just as the disciples needed to be attentive to their physical provision, they also needed to guard against the leaven of the Pharisees and Sadducees, symbolizing the corrupt teachings and influences that can affect one's spiritual life. Jesus' admonition against the leaven serves as a reminder for his followers to remain vigilant and pure in their faith.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.3619222475049182,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                32.4,
+                25.05,
+                42.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During their voyage, the disciples realized they had forgotten to take bread, typical for them to buy at appropriate places. This oversight may have been due to their absorption in Jesus' conversation with the Pharisees and Sadducees or the suddenness of Jesus' departure. The incident provided an opportunity for Jesus to teach them a vital lesson. Just as they needed to attend to their physical provision, they must also guard against the corrupt teachings and influences, symbolized by the leaven of the Pharisees and Sadducees, and strive for purity in their faith as true disciples of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.335310411835445,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.74,
+            "commentatorTierSimilarities": [
+                32.88,
+                26.16,
+                40.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their voyage, the disciples forgot to bring bread, which they typically bought at suitable places. This oversight may have been due to their preoccupation with Jesus' conversation with the Pharisees and Sadducees or the suddenness of his departure. However, this incident provided Jesus with an opportunity to teach his followers an important lesson about remaining vigilant and pure in their faith. Just as the disciples needed to be mindful of their physical nourishment, they also needed to guard against the corrupting influences symbolized by the leaven of the Pharisees and Sadducees.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.3750378259876355,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+            "commentatorTierSimilarities": [
+                35.26,
+                22.0,
+                42.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During their voyage, the disciples realized they had forgotten to take bread, which they usually bought at suitable places. This oversight may have been due to their absorption in Jesus' conversation with the Pharisees and Sadducees or the suddenness of Jesus' departure. Nonetheless, this incident served as an opportunity for Jesus to teach his disciples an important lesson. Just as the disciples needed to be attentive to their physical provision, they also needed to guard against the leaven of the Pharisees and Sadducees, symbolizing the corrupt teachings and influences that can affect one's spiritual life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.3809088482732195,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "commentatorTierSimilarities": [
+                34.11,
+                24.71,
+                41.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During their journey, the disciples realized they had forgotten to bring bread, which they usually bought on their land journey. This oversight may have occurred in the rush to leave or due to their preoccupation with Jesus' conversation with the Pharisees. Nevertheless, this incident allowed Jesus to teach them a valuable lesson. Just as they needed to be mindful of their physical provision, they also needed to guard against the corrupting influences of the Pharisees and Sadducees, emphasizing the importance of maintaining purity in their discipleship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3759202252866665,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.09,
+            "commentatorTierSimilarities": [
+                35.84,
+                25.47,
+                38.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

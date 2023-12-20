@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:53:43",
+    "verseRef": "Matthew 26:57",
+    "bestBHT": {
+        "bht": "In this event, Jesus is led to Caiaphas, the high priest, where the Sanhedrim holds a meeting in the palace where both Annas and Caiaphas lived. The high priest, symbolizing the only Mediator between God and humanity, joins others in conspiring against Jesus, the sole hope of salvation. Despite this, Jesus willingly bears the physical fetters, a testament to his remarkable love for us, as he releases our souls from even more formidable chains.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.492378147725866,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+        "commentatorTierSimilarities": [
+            39.54,
+            24.08,
+            36.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was High Priest of that year, Annas having been deposed, and since then the High Priests having been frequently changed by the Roman governors.\" ",
+            "This was a meeting of the Sanhedrim, but not the regular assembly, which condemned him and handed Him over to Pilate.\" ",
+            "The palace is one and the same great building, in which both Annas and Caiaphas lived."
+        ],
+        "John Calvin": [
+            "It will be proper, in the meantime, to glance briefly at those things which claim our attention in the words of Matthew and Mark.",
+            "(Commentary on Matthew 26:57)",
+            "This will also be a pledge of the astonishing love of Christ towards us, that he spared not himself, but willingly submitted to wear fetters on his flesh, that our souls might be freed from fetters of a far worse description.",
+            "(Commentary on Matthew 26:57)",
+            "The high priest was a figure of the only Mediator between God and men; those who sat along with him in the council represented the whole Church of God; and yet all of them unite in conspiring to extinguish the only hope Of salvation.",
+            "(Commentary on Matthew 26:57)"
+        ],
+        "Philip Schaff": [
+            "To Caiaphas the high priest. Appointed by the Romans, Annas having been deposed, as frequently occurred.",
+            "Where the scribes and elders were gathered together.",
+            "The examination before Annas would allow time for them to come together."
+        ],
+        "John Gill": [
+            "And they that had laid hold on Jesus... led him away to Caiaphas, the high priest.",
+            "It was to the house, or palace of this man, the high priest, that Jesus was led.",
+            "Here they were again met together on the same account, waiting to have him brought before them."
+        ],
+        "John Wesley": [
+            "They led him away to Caiaphas \u2014 From the house of Annas, the father-in-law of Caiaphas, to whom they had carried him first. Mark 14:53; Luke 22:54; John 18:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 26:57, Jesus is led away to Caiaphas, the high priest, where the meeting of the Sanhedrim takes place. The high priest, a figure of the only Mediator between God and men, represents the whole Church of God, yet they all conspire to extinguish the only hope of salvation. Jesus willingly submits to wear the fetters on his flesh so that our souls might be freed from a far worse kind. This astonishing love of Christ towards us is demonstrated by his selflessness. This event takes place in the palace where both Annas and Caiaphas lived, showing the continuity of power despite the frequent changes of high priests by the Roman governors.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.3364179069408388,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+            "commentatorTierSimilarities": [
+                37.55,
+                25.52,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this event, Jesus is taken to Caiaphas, the high priest, where the Sanhedrim convenes in the same palace where both Annas and Caiaphas lived. The high priest symbolizes the only Mediator between God and humanity, yet all the members of the council conspire against Jesus, desiring to extinguish the sole hope of salvation. Jesus willingly submits to wearing physical fetters, illustrating his remarkable love for us, freeing our souls from even more oppressive chains.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4498427314027569,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+            "commentatorTierSimilarities": [
+                37.82,
+                24.53,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this event, Jesus is led away to Caiaphas, the high priest, where the Sanhedrim holds a meeting in the same palace shared by both Annas and Caiaphas. The high priest, who serves as a representative of the Church, conspires against Jesus, despite being the figure of the only Mediator between God and humanity. Yet, Jesus willingly wears the physical fetters, demonstrating his profound love for us, as he sets our souls free from even more oppressive chains.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.4406127612936859,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                39.03,
+                23.65,
+                37.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this event, Jesus is led to Caiaphas, the high priest, where the Sanhedrim holds a meeting in the palace where both Annas and Caiaphas lived. The high priest, symbolizing the only Mediator between God and humanity, joins others in conspiring against Jesus, the sole hope of salvation. Despite this, Jesus willingly bears the physical fetters, a testament to his remarkable love for us, as he releases our souls from even more formidable chains.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.492378147725866,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+            "commentatorTierSimilarities": [
+                39.54,
+                24.08,
+                36.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 26:57, Jesus is brought to Caiaphas, the high priest, where the Sanhedrim assembles in the palace shared by Annas and Caiaphas. Though the high priest represents the only Mediator between God and humanity, he joins the council in a plot to extinguish the hope of salvation. Astonishingly, Christ willingly endures physical restraints on his flesh, liberating our souls from far worse chains. This act of selflessness demonstrates his unfathomable love for us.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.1974605955613633,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.16,
+            "commentatorTierSimilarities": [
+                38.42,
+                21.87,
+                39.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

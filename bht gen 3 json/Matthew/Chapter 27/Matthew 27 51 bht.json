@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:54:58",
+    "verseRef": "Matthew 27:51",
+    "bestBHT": {
+        "bht": "The tearing of the veil, separating the holy of holies, signified the removal of the separation between God and His people. The earthquake and splitting rocks showcased the significance of Christ's death and its impact on the destiny of the earth. The rending of the veil opened the way to the heavenly sanctuary, allowing believers to approach God and remove the distance that once existed between them.",
+        "wordCount": 68,
+        "quoteTokenProportion": 25.58,
+        "qualityScore": 2.0826279452337815,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+        "commentatorTierSimilarities": [
+            28.18,
+            35.56,
+            36.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the inner veil, screening off the holy of holies from a holy place, Exod. xxvi. 33: Heb. ix. 2, 3.",
+            "That was now accomplished, which was the one and great antitype of all those sacrifices offered in the hole place, in order to gain, as on the great day of atonement (for that day may be taken as the representation their intent), entrance into the holiest place\u2014the typical presence of God.",
+            "When the objectors assert that no use is made of this event in the Epistle to the Hebrews, they surely cannot have remembered, or not have deeply considered, Heb. x. 19\u201321."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "and the earth did quake\u2014From what follows it would seem that this earthquake was local, having for its object the rending of the rocks and the opening of the graves.",
+            "the physical creation thus sublimely proclaiming, at the bidding of its Maker, the concussion which at that moment was taking place in the moral world at the most critical moment of its history.",
+            "Extraordinary rents and fissures have been observed in the rocks near this spot."
+        ],
+        "Albert Barnes": [
+            "The tearing of the veil to signify that the way to heaven was now open to all.",
+            "Earthquakes are violent convulsions of the ground, caused commonly by confined and rarefied air.",
+            "Rocks are still seen at Mount Calvary thus rent asunder, which are said to be the ones that were convulsed when the Savior died."
+        ],
+        "Marvin Vincent": [
+            "According to the Rabbis this was a handbreadth in thickness, and woven of seventy-two twisted plaits, each plait consisting of twenty-four threads.",
+            "It was sixty feet long and thirty wide.",
+            "The holy of holies contained only a large stone, on which the high - priest sprinkled the blood on the day of atonement, occupying the place where the ark with the mercy - seat had stood."
+        ],
+        "John Calvin": [
+            "Christ, the true and everlasting Priest, having abolished the figures of the law, opened up for us by his blood the way to the heavenly sanctuary, that we may no longer stand at a distance within the porch, but may freely advance into the presence of God.",
+            "Thus the rending of the veil was not only an abrogation of the ceremonies which existed under the law, but was, in some respects, an opening of heaven, that God may now invite the members of his Son to approach him with familiarity.",
+            "In this way not only did the earth bear the testimony to its Creator, but it was even called as a witness against the hard-heartedness of a perverse nation; for it showed how monstrous that obstinacy must have been on which neither the earthquake nor the splitting of the rocks made any impression."
+        ],
+        "Philip Schaff": [
+            "This took place toward the time of the evening sacrifice. [...] It was 'a sign of the removal of the typical atonement, through the completion of the real atonement, which insures us a free access to God'.\" ",
+            "The earthquake and the events mentioned next, are peculiar to Matthew's account. [...] This was a token of the greatness of the death of Christ, a sign, too, of the influence of His death upon the destiny of the earth itself.",
+            "The effect of the earthquake, splitting the foundations of the holy city. A sign of wrath, but more than this. Travellers still point to extraordinary rents and fissures in the rocks in the neighborhood."
+        ],
+        "Archibald T. Robertson": [
+            "A cleavage in the masonry of the porch, which rent the outer veil and left the Holy Place open to view, would account for the language of the Gospels, of Josephus, and of the Talmud.",
+            "This veil was a most elaborately woven fabric of seventy-two twisted plaits of twenty-four threads each and the veil was sixty feet long and thirty wide.",
+            "The rending of the veil signified the removal of the separation between God and the people."
+        ],
+        "John Gill": [
+            "The rending of it the more amazing; for no doubt but that the vail of the second temple was made after the manner of the first.",
+            "This rending of the vail was done, as some think, in token of mourning for, and testifying abhorrence at the crucifixion of Christ.",
+            "The way to the holiest of all, to heaven, of which this was a figure, was now made manifest; and was plain and accessible."
+        ],
+        "John Wesley": [
+            "the veil of the temple, which separated the holy of holies from the court of the priests, though made of the richest and strongest tapestry, was rent in two from the top to the bottom",
+            "God thereby signifying the speedy removal of the veil of the Jewish ceremonies the casting down the partition wall, so that the Jews and Gentiles were now admitted to equal privileges",
+            "the opening a way through the veil of his flesh for all believers into the most holy place."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tearing of the veil, which separated the holy of holies from the rest of the temple, symbolized the removal of the separation between God and His people. It was not only an abrogation of the law and a sign of mourning for Christ's crucifixion, but also an opening of heaven itself. The earthquake that accompanied this event demonstrated how deeply impactful Christ's death was, not only on the moral world but also on the physical creation. This earthquake caused rocks to split and fissures to form, bearing witness to both the power of God and the hardness of heart of the people. The rending of the veil also meant that the way to the heavenly sanctuary had been opened, allowing believers to approach God with familiarity and gain free access to His presence.",
+            "wordCount": 136,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 2.0920552910582053,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                26.91,
+                33.6,
+                39.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tearing of the veil, separating the holy of holies, signified the removal of the separation between God and His people. This abrogation represented the completion of the atonement and ensured free access to God. The earthquake and splitting rocks showcased the significance of Christ's death and its impact on the destiny of the earth. The rending of the veil opened the way to the heavenly sanctuary, allowing believers to approach God and remove the distance that once existed between them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 2.04281504983293,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                28.62,
+                34.4,
+                36.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tearing of the veil, separating the holy of holies, signified the removal of the separation between God and His people. The earthquake and splitting rocks showcased the significance of Christ's death and its impact on the destiny of the earth. The rending of the veil opened the way to the heavenly sanctuary, allowing believers to approach God and remove the distance that once existed between them.",
+            "wordCount": 68,
+            "quoteTokenProportion": 25.58,
+            "qualityScore": 2.0826279452337815,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                28.18,
+                35.56,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rending of the veil was not only an abrogation of the ceremonies of the law, but also represented the opening of heaven itself, allowing God to invite His people into His presence with familiarity. The earthquake and splitting rocks bore witness to the greatness of Christ's death and its influence on the earth. By tearing the veil, God signified the removal of the Jewish ceremonies and the equal privileges now granted to both Jews and Gentiles. This event opened the way for believers to approach the heavenly sanctuary freely.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9698395372908815,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                25.42,
+                33.31,
+                41.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rending of the veil represented the opening of heaven, inviting believers into the presence of God with familiarity. This event signaled the removal of the Jewish ceremonies and the equal privileges granted to both Jews and Gentiles. The earthquake and splitting rocks testified to the greatness of Christ's death and its impact on the earth. God's act of tearing the veil signified the way through Christ's sacrifice, granting believers access to the heavenly sanctuary.",
+            "wordCount": 78,
+            "quoteTokenProportion": 22.0,
+            "qualityScore": 1.936004550985806,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+            "commentatorTierSimilarities": [
+                24.75,
+                36.46,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

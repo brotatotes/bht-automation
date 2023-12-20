@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:50:38",
+    "verseRef": "Matthew 21:17",
+    "bestBHT": {
+        "bht": "The fig-tree symbolizes the Jewish people, who were full of hollow professions of faith but lacked true fruit. Some argue that although the narrative doesn't explicitly suggest a parabolic meaning, it may have originated from a parable Jesus spoke. Bethany, the home of Martha, Mary, and Lazarus, offered solace to Jesus during this significant time. Leaving behind the disobedient city, Jesus sought refuge in a haven of obedience where his faithful disciples resided.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.137053270552408,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.15,
+        "commentatorTierSimilarities": [
+            50.69,
+            14.68,
+            34.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fig-tree was THE JEWISH PEOPLE\u2014full of the leaves of an useless profession, but without fruit:\u2014and further, all hypocrites of every kind, in every age.",
+            "It is true, as De Wette observes, that no trace of a parabolic meaning appears in the narrative (and yet strangely enough, he himself a few lines after, denying the truth of the miracle, accounts for the narrative by supposing it to have arisen out of a parable spoken by our Lord).",
+            "We must remember that this miracle was wholly typical and parabolical."
+        ],
+        "Philip Schaff": [
+            "Matthew 21:17. And he left them, etc. On Monday evening (see Introductory note).",
+            "\t",
+            " Bethany was His stronghold.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "House of depression or misery, the Hebrew means.",
+            "But the home of Martha and Mary and Lazarus there was a house of solace and comfort to Jesus during this week of destiny.",
+            "It was a time of crisis for all."
+        ],
+        "John Gill": [
+            "He went from the disobedient and faithless city, to a place of obedience, where he had some faithful and obedient disciples.",
+            "A suitable place for Christ to go to, who was about to suffer for the sins of his people.",
+            "Christ lodged here all night."
+        ],
+        "John Wesley": [
+            "Mark 11:11,12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fig-tree that Jesus cursed represents the Jewish people, full of professions of faith but lacking true fruit. Although the narrative does not explicitly mention a parabolic meaning, some commentators suggest that it echoes a parable spoken by Jesus. In this context, Bethany, the home of Martha, Mary, and Lazarus, serves as a place of solace for Jesus during this critical time. Leaving behind the disobedient and faithless city, Jesus retreats to a place of obedience and finds comfort amongst his faithful disciples.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.1587515090589364,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.87,
+            "commentatorTierSimilarities": [
+                46.62,
+                15.47,
+                37.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fig-tree symbolizes the Jewish people, who were full of hollow professions of faith but lacked true fruit. Some argue that although the narrative doesn't explicitly suggest a parabolic meaning, it may have originated from a parable Jesus spoke. Bethany, the home of Martha, Mary, and Lazarus, offered solace to Jesus during this significant time. Leaving behind the disobedient city, Jesus sought refuge in a haven of obedience where his faithful disciples resided.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.137053270552408,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.15,
+            "commentatorTierSimilarities": [
+                50.69,
+                14.68,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fig-tree, a representation of the Jewish people, reflects their outward show of faith without genuine fruitfulness. Despite the absence of an explicit parable in the narrative, it still carries symbolic significance. Bethany, the dwelling of Martha, Mary, and Lazarus, provides Jesus with solace and comfort amidst the approaching crisis. Departing from the rebellious city, Jesus seeks respite in a place of obedience, where his loyal disciples await him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.0370458941068659,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.83,
+            "commentatorTierSimilarities": [
+                50.07,
+                13.04,
+                36.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fig-tree serves as a symbol for the Jewish people, who displayed an empty profession of faith without bearing fruit. Although the narrative itself does not directly indicate a parabolic meaning, some commentators suggest its origins lie in a parable spoken by Jesus. Bethany, the home of Martha, Mary, and Lazarus, becomes a place of comfort for Jesus during this crucial period. Departing from the city filled with disobedience and faithlessness, Jesus seeks refuge in a place of obedience, where his faithful disciples await him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.109438085876045,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.23,
+            "commentatorTierSimilarities": [
+                46.93,
+                13.53,
+                39.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fig-tree, symbolizing the Jewish people, is an illustration of empty professions devoid of fruit. While the narrative itself does not explicitly suggest a parabolic meaning, some argue it may have originated from a relevant parable. Bethany, the refuge of Martha, Mary, and Lazarus, provides solace during this significant period. Jesus leaves behind the city of disobedience and finds comfort in a place of obedience among faithful disciples.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.0662751780641577,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.8,
+            "commentatorTierSimilarities": [
+                53.45,
+                17.59,
+                28.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

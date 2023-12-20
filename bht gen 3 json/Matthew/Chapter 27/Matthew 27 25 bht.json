@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:54:23",
+    "verseRef": "Matthew 27:25",
+    "bestBHT": {
+        "bht": "The Jewish people, in declaring His blood be on us and on our children, show their consciousness of guilt and a recognition of the severity of their actions. They cannot wash away the blood of Jesus from their hands, as the consequences of their imprecation are evident in the destruction and persecution that has befallen them. However, there remains hope for redemption through the cleansing and healing power of Christ's blood when they turn to Him in repentance.",
+        "wordCount": 79,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.885866417988388,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            30.02,
+            36.37,
+            33.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The adherence of blood to the hands of a murderer is an idea not bearing any necessary reference to punishment, only to guilt.",
+            "The custom of scourging before execution was general among the Romans.",
+            "The term 'the whole' is of course not to be pressed."
+        ],
+        "Albert Barnes": [
+            "His blood be on us ... - That is, let the guilt of putting him to death, if there be any, be on us and our children.",
+            "The Jews had no right to call down this vengeance on their children, but, in the righteous judgment of God, it has come upon them.",
+            "To this day, also, the curse has remained. They have been a nation scattered and peeled; persecuted almost everywhere, and a hissing and a byword among people."
+        ],
+        "John Calvin": [
+            "Their inconsiderate zeal carries them headlong, so that, while they commit an irreparable crime, they add to it a solemn imprecation, by which they cut themselves off from the hope of pardon.",
+            "Hence we infer how carefully we ought to guard against headlong rashness in all our judgments...",
+            "Thus the truth of God always rises superior to all the obstacles raised by human unbelief."
+        ],
+        "Philip Schaff": [
+            "His blood, i.e., the guilt of the punishment, if He be innocent, be upon us.\" ",
+            "The imprecation has been a fearful legacy from that generation.\" ",
+            "But the curse will be turned to a blessing, and the blood of Christ be on that people in its cleansing, healing power."
+        ],
+        "Archibald T. Robertson": [
+            "These solemn words do show a consciousness that the Jewish people recognized their guilt and were even proud of it.",
+            "But Pilate could not wash away his own guilt that easily. The water did not wash away the blood of Jesus from his hands any more than Lady Macbeth could wash away the blood-stains from her lily-white hands.",
+            "There was guilt enough for Judas, for Caiaphas and for all the Sanhedrin both Sadducees and Pharisees, for the Jewish people as a whole (\u03c0\u03b1\u03c2 \u03bf \u03bb\u03b1\u03bf\u03c2), and for Pilate."
+        ],
+        "John Gill": [
+            "Not for the forgiveness of sins, which that blood was shed for; but on the contrary, if there was any sin and guilt in it, they desired it might be imputed to them.",
+            "And this imprecation of theirs, has been notoriously verified in them for though this blood was shed for many of them, and Christ prayed for the forgiveness of them, and they had the Gospel, and the doctrine of remission of sins first preached among them, which was made the power of God unto salvation to some of them, even of those who were concerned in the crucifixion of Christ; yet, on the generality of them, his blood was in the sense they wished it; and for the shedding of it, wrath came upon them to the uttermost, in the entire destruction of their nation, city, and temple.",
+            "To this day, this dreadful wish of the blood of Christ upon them is to be seen in their miserable, abject, and captive state; and will be until such time that they look to him whom they have pierced, and mourn."
+        ],
+        "John Wesley": [
+            "His blood be on us and on our children \u2014 As this imprecation was dreadfully answered in the ruin so quickly brought on the Jewish nation, and the calamities which have ever since pursued that wretched people...",
+            "it was peculiarly fulfilled by Titus the Roman general, on the Jews whom he took during the siege of Jerusalem.",
+            "the very finger of God thus pointing out their crime in crucifying his Son."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 27:25, the guilt of the crucifixion of Jesus is acknowledged by the Jewish people and even worn as a badge of honor, as they proclaim, His blood be on us and on our children. This declaration reflects a consciousness of their guilt, which extends beyond the immediate perpetrators to the whole Jewish nation. The imagery of blood on their hands highlights the weight of their crime, as well as their inability to wash away the guilt. Their rashness in judgment and imprecation has not only been verified in the destruction of their nation but continues to be evident in their scattered and persecuted state. However, there is hope for redemption as the blood of Christ can bring cleansing and healing power when they turn to Him in repentance. Despite human unbelief, the truth of God prevails, and His finger unmistakably points out their crime in crucifying His Son.",
+            "wordCount": 149,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.7090796418228957,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                31.86,
+                31.17,
+                36.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The guilt of the crucifixion of Jesus is acknowledged by the Jewish people, who proclaim, His blood be on us and on our children. This declaration reflects a consciousness of their guilt and reveals that they recognized the magnitude of their crime. The imagery of blood on their hands emphasizes their inability to wash away the guilt. The consequences of their imprecation are seen in the destruction of their nation, and to this day, they experience the repercussions of their actions. However, there is hope for redemption in the cleansing power of Christ's blood when they turn to Him in repentance.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7177413161819248,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
+            "commentatorTierSimilarities": [
+                34.71,
+                31.47,
+                33.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish people, in declaring His blood be on us and on our children, show their consciousness of guilt and a recognition of the severity of their actions. They cannot wash away the blood of Jesus from their hands, as the consequences of their imprecation are evident in the destruction and persecution that has befallen them. However, there remains hope for redemption through the cleansing and healing power of Christ's blood when they turn to Him in repentance.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.885866417988388,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                30.02,
+                36.37,
+                33.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jewish people, conscious of their guilt, declared, His blood be on us and on our children. Their imprecation, tragically, was realized in the destruction and persecution they suffered. The imagery of blood on their hands signifies both the weight of their crime and their inability to wash away the guilt. Yet, there is hope for redemption through the cleansing power of Christ's blood. Turning to Him in repentance can bring healing and restoration to a people marked by their crime but not beyond the reach of God's forgiveness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7416006528157237,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                31.47,
+                34.76,
+                33.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish people, consciously acknowledging their guilt, proclaimed, His blood be on us and on our children. This imprecation tragically manifested in their subsequent destruction and persecution. The imagery of blood on their hands symbolizes both the gravity of their crime and their futile attempts to wash away guilt. Nevertheless, there remains hope for redemption through Christ's cleansing power. By turning to Him in repentance, they can find healing and restoration, despite the weight of their actions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.644839591141092,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "commentatorTierSimilarities": [
+                31.06,
+                34.22,
+                34.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

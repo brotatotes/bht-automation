@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:19",
+    "verseRef": "Matthew 10:28",
+    "bestBHT": {
+        "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The disciples are reminded that their Heavenly Father is the sole object of childlike trust and fear. While earthly opposition can harm the body, it cannot touch the soul. However, God, as the dispenser of life and death, can destroy both body and soul in hell. This emphasizes the importance of reverencing and obeying God, as the torment of the lost affects both the material and spiritual aspects of our nature.",
+        "wordCount": 96,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.405234094100936,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.31,
+        "commentatorTierSimilarities": [
+            31.77,
+            38.52,
+            29.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "GOD ALONE is throughout the Scripture the Almighty dispenser of life and death both temporal and eternal.",
+            "Fear Him who is the only Dispenser of Death and Life: of death, as here; of life, as in the case of the sparrows for whom He cares.",
+            "The depth of this part of the discourse I take to be, the setting before Christ\u2019s messengers their Heavenly Father as the sole object of childlike trust and childlike fear\u2014the former from His love,\u2014the latter from His power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And fear not them which kill the body, but are not able to kill the soul...but rather fear him.\" ",
+            "A decisive proof this that there is a hell for the body as well as the soul in the eternal world.",
+            "The torment that awaits the lost will have elements of suffering adapted to the material as well as the spiritual part of our nature."
+        ],
+        "Albert Barnes": [
+            "The body is a small matter in comparison with the soul.",
+            "Temporal death is a slight thing compared with eternal death.",
+            "He directs them, therefore, not to be alarmed at the prospect of temporal death, but to fear God, who can destroy both soul and body forever."
+        ],
+        "John Calvin": [
+            "if believers will consider for what purpose they were born, and what is their condition, they will have no reason to be so earnest in desiring an earthly life.",
+            "we are here taught by Christ that the fear of God is dead in those men who, through dread of tyrants, fall from a confession of their faith, and that a brutish stupidity reigns in the hearts of those who, through dread of death, do not hesitate to abandon that confession.",
+            "Acknowledge that you have received immortal souls, which are subject to the disposal of God alone, and do not come into the power of men."
+        ],
+        "Philip Schaff": [
+            "Boldness and candor in speaking God\u2019s truth awaken deadly opposition. Such opposers, though they can kill the body, are not able to kill the soul.",
+            "The soul is not killed by the death of the body; it is the higher part of our nature; the eternal safety of the soul is infinitely more important than the present safety of the body.",
+            "God alone is the dispenser of life and death, temporal and eternal. Hence reverence and awe, not fear and terror, are required... The latter implies not annihilation, but continued punishment, affecting both the material and the spiritual part of man."
+        ],
+        "Archibald T. Robertson": [
+            "Destroy both soul and body in hell (\u03ba\u03b1 \u03c8\u03c5\u03c7\u03b7\u03bd \u03ba\u03b1 \u03c3\u03c9\u03bc\u03b1 \u03b1\u03c0\u03bf\u03bb\u03b5\u03c3\u03b1 \u03b5\u03bd \u03b3\u03b5\u03b5\u03bd\u03bd\u03b7).",
+            "Note 'soul' here of the eternal spirit, not just life in the body.",
+            "There is no more needed lesson today than the fear of God."
+        ],
+        "John Gill": [
+            "And fear not them which kill the body,.... after\" that they \"have no more than they can do\".",
+            "the loss of a corporal life is no loss to them, their souls live after death, in eternal happiness...",
+            "God alone should be our fear and dread;... he only is to be feared, and to be obeyed..."
+        ],
+        "John Wesley": [
+            "Be afraid of him who is able to destroy both body and soul in hell.",
+            "Our Lord commands those who love God, still to fear him, even on this account.",
+            "The particular providence of God is another reason for your not fearing man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The disciples are being reminded that their Heavenly Father is the sole object of their trust and fear. While earthly opposition can inflict harm on the body, it cannot touch the soul. However, God, as the sole dispenser of life and death, has the power to destroy both body and soul in hell. This highlights the importance of reverencing and obeying God, as the torment of the lost will have elements of suffering affecting both the material and spiritual aspects of our nature. Ultimately, the fear of God is a vital lesson for believers, as He alone deserves our fear and obedience.",
+            "wordCount": 127,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.344380047686875,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.29,
+            "commentatorTierSimilarities": [
+                31.94,
+                36.67,
+                31.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The depth of this discourse is setting before Christ's messengers their Heavenly Father as the sole object of childlike trust and fear. The torment that awaits the lost will have elements of suffering adapted to the material as well as the spiritual part of our nature. There is no more needed lesson today than the fear of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.3625393510138144,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+            "commentatorTierSimilarities": [
+                34.68,
+                34.21,
+                31.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The disciples are being reminded that their Heavenly Father is the sole object of their trust and fear. While earthly opposition can inflict harm on the body, it cannot touch the soul. However, God, as the only dispenser of life and death, has the power to destroy both body and soul in hell. This highlights the importance of reverencing and obeying God, as the torment of the lost affects both the material and spiritual aspects of human existence. Ultimately, the fear of God is a vital lesson for believers.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.3047622872287734,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.97,
+            "commentatorTierSimilarities": [
+                31.67,
+                37.32,
+                31.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The disciples are reminded that their Heavenly Father is the sole object of childlike trust and fear. While earthly opposition can harm the body, it cannot touch the soul. However, God, as the dispenser of life and death, can destroy both body and soul in hell. This emphasizes the importance of reverencing and obeying God, as the torment of the lost affects both the material and spiritual aspects of our nature.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.405234094100936,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.31,
+            "commentatorTierSimilarities": [
+                31.77,
+                38.52,
+                29.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fear not those who can kill the body but cannot kill the soul, but rather fear God who has power over both life and death. The disciples are reminded that their Heavenly Father is the sole object of childlike trust and fear. While earthly opposition can harm the body, it cannot touch the soul. However, God, as the dispenser of life and death, can destroy both body and soul in hell. This emphasizes the importance of reverencing and obeying God, as the torment of the lost affects both the material and spiritual aspects of our nature.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.405234094100936,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.31,
+            "commentatorTierSimilarities": [
+                31.77,
+                38.52,
+                29.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

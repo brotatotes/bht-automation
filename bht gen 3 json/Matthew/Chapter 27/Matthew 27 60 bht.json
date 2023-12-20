@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:54:48",
+    "verseRef": "Matthew 27:60",
+    "bestBHT": {
+        "bht": "The sepulchre in question was not a natural cave, but an artificial excavation in the rock. It was cut horizontally into the face of the rock and located in the vicinity of the crucifixion site. This new tomb, though not freshly hewn, was fresh, undefiled, and closed by a large stone. By being buried in this tomb, Jesus fulfilled the prophecy of making his grave with the rich in his death. The arrangements for Jesus' burial were carefully made to ensure the truth of his resurrection and to prevent any suspicion or deceit.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.856185347941175,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+        "commentatorTierSimilarities": [
+            35.69,
+            29.84,
+            34.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All that we can determine respecting the sepulchre from the data here furnished is, (1) That it was not a natural cave, but an artificial excavation in the rock.",
+            "That it was not cut downwards, after the manner of a grave with us, but horizontally, or nearly so, into the face of the rock.",
+            "That it was in the spot where the crucifixion took place."
+        ],
+        "Albert Barnes": [
+            "That there might be no suspicion about his identity when he rose; that it might not be alleged that another person had risen.\" ",
+            "By being buried here an important prophecy was remarkably fulfilled Isaiah 53:9; 'He made his grave - with the rich in his death.'",
+            "The sepulchre, thus secure, was rendered more so by rolling a great stone at its entrance; all possible precautions thus being used, in the providence of God, against imposition and deceit."
+        ],
+        "Marvin Vincent": [
+            "New tomb [\u03ba\u03b1\u03b9\u03bd\u03c9] . See on Matthew 26:29. Not newly hewn, but fresh, undefiled by anybody.",
+            "A great stone. Though in the Jews' sepulchres in general there were doors hung on hinges, the grooves and perforations for which may still be seen.",
+            "Joseph's tomb may have been differently constructed, or else was in an unfinished state."
+        ],
+        "Philip Schaff": [
+            "The fact that it was \u2018new\u2019...seems designed to overcome any suspicion as to the identity of Him who rose.",
+            "The location was in a \u2018garden,\u2019 near the spot of the crucifixion and hence well adapted for the hurried burial.",
+            "He rolled a great stone. The common method of closing sepulchres."
+        ],
+        "John Gill": [
+            "Christ was laid not in his own, but in another's tomb; for as in his lifetime he had not where to lay his head; so when he was dead, he had no sepulchre of his own to put his body in.",
+            "This shows that as he was born for others, and suffered and died not for himself, but them; so he was buried for them, as well as rose again for their justification.",
+            "It was a 'new' tomb in which he was laid, in which none had been laid before; and was so ordered by providence, for the confirmation of the truth of his resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sepulchre in Matthew 27:60 was not a natural cave, but an artificial excavation in the rock located where the crucifixion took place. It was cut horizontally into the face of the rock rather than downwards like a grave. This new tomb, though not newly hewn, was fresh and undefiled. It was closed by rolling a great stone, a common method for closing sepulchres. By being buried in this tomb, Jesus fulfilled the prophecy of making his grave with the rich in his death. This location, near the crucifixion spot and in a garden, was well suited for a hurried burial. Overall, the arrangements for Jesus' burial were done with care and caution to ensure the truth of his resurrection and prevent any suspicion or deceit.",
+            "wordCount": 125,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 1.8066875444471922,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                35.81,
+                30.87,
+                33.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sepulchre in question was not a natural cave, but an artificial excavation in the rock. It was cut horizontally into the face of the rock and located in the vicinity of the crucifixion site. This new tomb, though not freshly hewn, was fresh, undefiled, and closed by a large stone. By being buried in this tomb, Jesus fulfilled the prophecy of making his grave with the rich in his death. The arrangements for Jesus' burial were carefully made to ensure the truth of his resurrection and to prevent any suspicion or deceit.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.856185347941175,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                35.69,
+                29.84,
+                34.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sepulchre where Jesus was laid to rest was a man-made excavation in the rock face, located near the site of His crucifixion. It was not freshly hewn, but it remained fresh and undefiled. The tomb was closed with a great stone, a common method for sealing sepulchres. By being buried in this tomb, Jesus fulfilled the prophecy of making His grave with the rich in His death. These arrangements were carefully made to ensure the truth of His resurrection and to dispel any doubts or suspicions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6776230803601904,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                32.08,
+                31.89,
+                36.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sepulchre where Jesus was buried was an artificial excavation in the rock, situated at the very spot of His crucifixion. While not freshly hewn, it remained fresh and undefiled. Closed with a great stone, the tomb was securely sealed. By being laid to rest in this new tomb, Jesus fulfilled the prophecy of being buried with the rich in His death. These arrangements were carefully orchestrated to secure the truth of His resurrection and to prevent any suspicion or deception.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.676353203129003,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                33.27,
+                29.87,
+                36.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sepulchre where Jesus was buried was an artificial excavation in the rock, located in the vicinity of the crucifixion site. Although not newly hewn, the tomb remained fresh and undefiled. It was sealed with a great stone, a common method for closing sepulchres. By being laid to rest in this new tomb, Jesus fulfilled the prophecy of being buried with the rich in His death. These arrangements were meticulously made to ensure the authenticity of His resurrection and to dispel any doubt or suspicion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6971395082611276,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                33.17,
+                32.07,
+                34.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

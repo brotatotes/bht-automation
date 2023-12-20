@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:55:03",
+    "verseRef": "Matthew 28:10",
+    "bestBHT": {
+        "bht": "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven here. Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee. The touching term 'my brethren' shows His continued affection and their fellowship with Him in His glory, despite their previous betrayal. He assures them not to be afraid, as they may raise themselves to Christ, the Conqueror of death, and to proceed in faith without fear.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.840779168064489,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+        "commentatorTierSimilarities": [
+            30.84,
+            39.16,
+            30.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven here.\" (32 words)",
+            "The passages are distinctly consecutive, and moreover both are in the well-known style of St. Matthew.\" (20 words)",
+            "There is perhaps more probability that this may be the same appearance as that in John xx. 11\u201318, on account of 'touch me not,' there, and 'my brethren,'\u2014but in our present imperfect state of information, this must remain a mere probability.\" (41 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not afraid\u2014What dear associations would these familiar words\u2014now uttered in a higher style, but by the same Lips\u2014bring rushing back to their recollection!",
+            "go tell my brethren that they go into Galilee, and there shall they see me",
+            "The whole of this important portion is peculiar to Matthew."
+        ],
+        "Albert Barnes": [
+            "Be not afraid - The ancients, when in the presence of a heavenly being - an angel, or one who was supposed to be possessed of divine power were commonly struck with great 'fear,' as well as a great sense of their unworthiness.",
+            "Jesus comforted them. He was the 'same Jesus' with whom they had been before his death, and they had no reason now to fear him.",
+            "There is something exceedingly tender in the appellation used here - 'my brethren.' Though he was risen from the dead, though about to be exalted to heaven, yet he did not disdain to call his disciples his brethren."
+        ],
+        "John Calvin": [
+            "That they may raise themselves to Christ, the Conqueror of death, they are commanded to be cheerful.",
+            "Our faith ought, at least, to proceed so far that fear shall not predominate.",
+            "Here, too, it is proper to remark the astonishing kindness of Christ, in deigning to bestow the name of brethren on deserters who had basely forsaken him."
+        ],
+        "Philip Schaff": [
+            "Go, tell my brethren. A touching term coming from the Risen One, and applied to those who had forsaken Him. It indicates His continued affection and their fellowship with Him in His glory.",
+            "Frequent appearances, repeated commands were called for; the first to convince them, the second to direct them.",
+            "All attempts to deny the historical character of the resurrection and the subsequent manifestations of Christ have failed."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee.",
+            "There is no special mention of Peter ('and Peter') as in Mark 16:7, but we may be sure that the special message to Peter was delivered.",
+            "They were still afraid for joy and embarrassment."
+        ],
+        "John Gill": [
+            "The saints are subject to fears; as lest they should have no share in the love of God, nor interest in Christ, or the work of God is not begun in their hearts; and by reason of sin, lest that should get the ascendant over them, and they perish by it, and so fall short of eternal glory\" ",
+            "A very considerable relation this is, that the disciples stood in to Christ, who is the eternal Son of God, and heir of all things; and wonderful grace and condescension it was in Christ to own the relation, when they had so lately forsaken him; and now he was raised from the dead, and had glory given him",
+            "Moreover, it may be remarked, that wherever Christ has appointed to meet his people, they may expect, and be sure to see him at one time or another; as in his house and ordinances, where they are sometimes indulged with a sight of him by faith, which is an appropriating, assimilating, soul rejoicing, and satisfying one"
+        ],
+        "John Wesley": [
+            "Go tell my brethren \u2014 I still own them as such, though they so lately disowned and forsook me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The repetition of the injunction in this verse has led to the speculation that this is a part of another narrative. However, the passages are distinctly consecutive in the well-known style of Matthew. Jesus, in using the familiar words Be not afraid, calms their excitement and reminds them of the charge given by the angel to meet him in Galilee. The tender term my brethren shows Jesus' continued affection and fellowship with his disciples, despite their previous forsaking of him. This is a touching indication of his love and their connection to him in his glory. The disciples were still afraid for joy and embarrassment, but Jesus comforted them, assuring them that they had no reason to fear him.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.8135692865132391,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "commentatorTierSimilarities": [
+                32.76,
+                40.37,
+                26.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven here. The passages are distinctly consecutive, and moreover both are in the well-known style of St. Matthew. Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee. The touching term 'my brethren' shows His continued affection and their fellowship with Him in His glory, despite their previous betrayal. He assures them not to be afraid.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.6972632614064578,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                38.49,
+                36.73,
+                24.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven here. The passages are distinctly consecutive, and moreover both are in the well-known style of St. Matthew. Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee. The touching term 'my brethren' shows His continued affection and their fellowship with Him in His glory, despite their previous betrayal. He assures them not to be afraid.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.6972632614064578,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                38.49,
+                36.73,
+                24.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven. The passages are distinctly consecutive, and in the well-known style of St. Matthew. Jesus calms their excitement with the charge from the angel to meet him in Galilee. The touching term 'my brethren' shows His continued affection and their fellowship with Him in His glory, despite their previous betrayal. He assures them not to be afraid.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6372567295913423,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+            "commentatorTierSimilarities": [
+                38.36,
+                36.54,
+                25.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The repetition of this injunction by the Lord has been thought to indicate that this is a portion of another narrative inwoven here. Jesus calms their excitement by the repetition of the charge from the angel for the disciples to meet him in Galilee. The touching term 'my brethren' shows His continued affection and their fellowship with Him in His glory, despite their previous betrayal. He assures them not to be afraid, as they may raise themselves to Christ, the Conqueror of death, and to proceed in faith without fear.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.840779168064489,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                30.84,
+                39.16,
+                30.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

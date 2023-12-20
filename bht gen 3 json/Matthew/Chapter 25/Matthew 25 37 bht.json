@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:53:01",
+    "verseRef": "Matthew 25:37",
+    "bestBHT": {
+        "bht": "When the righteous respond to the Judge in hesitation, they are expressing doubt about His ability to accurately assess their good deeds, not out of ignorance but because this understanding has not been deeply impressed upon them. However, Christ's admiration for their actions should encourage believers to rise above their limited perspectives and not let the outward appearance of the needy hinder them from extending kindness and aid. This episode emphasizes that only those with the righteousness of Christ imputed to them will be at His right hand, highlighting the different estimation the righteous and the Judge have of their own works.",
+        "wordCount": 103,
+        "quoteTokenProportion": 44.74,
+        "qualityScore": 0.9697408204921573,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.59,
+        "commentatorTierSimilarities": [
+            23.53,
+            0.0,
+            76.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "37-39. Then shall the righteous",
+            "\tanswer him, &amp;c."
+        ],
+        "John Calvin": [
+            "Christ represents the righteous as doubting\u2014what they know well\u2014his willingness to form a just estimate of what is done to men.",
+            "But as this was not so deeply impressed on their minds as it ought to have been, he holds out to them this lively representation.",
+            "The admiration which Christ here expresses is intended to instruct us to rise above the apprehension of our flesh, whenever afflicted brethren ask our confidence and aid, that the aspect of a despised man may not hinder us from treating him with kindness."
+        ],
+        "John Gill": [
+            "From whence it appears, that only such shall be at the right hand of Christ, who are righteous persons, who have the righteousness of Christ imputed to them...",
+            "which answer arises partly from not attending to, or thoroughly understanding the words of Christ...",
+            "Which shows, that they had put no confidence in their works, or depended upon them for their justification before God, and acceptance, with him..."
+        ],
+        "John Wesley": [
+            "It cannot be, that either the righteous or the wicked should answer in these very words.",
+            "What we learn herefrom is, that neither of them have the same estimation of their own works as the Judge hath.",
+            "Neither of them have the same estimation of their own works as the Judge hath."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the righteous answer the Judge in Matthew 25:37, they express some hesitation. They doubt His ability to truly discern and appreciate the good deeds they have performed. However, it is not that they question Him out of ignorance, but rather because this understanding has not been deeply impressed upon them. Christ's expression of admiration for their actions serves as a reminder for all believers to rise above the limitations of our human perspectives. We should not let the outward appearance of the needy hinder us from extending kindness and aid to them. This episode teaches us that only those who have the righteousness of Christ imputed to them shall be at His right hand. The answer given by both the righteous and the wicked is not an exact reflection of the Judge's estimation of their works.",
+            "wordCount": 138,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 0.9102680965618196,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.61,
+            "commentatorTierSimilarities": [
+                27.3,
+                0.0,
+                72.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the righteous respond to the Judge, they express doubt regarding His ability to accurately assess their good deeds, implying that they are unsure if He truly understands their actions. Yet, it is not due to ignorance but because this understanding has not been deeply impressed upon them. Christ's admiration for their actions serves as a reminder to surpass our limited perspectives and not let the outward appearance of the needy hinder us from offering kindness and aid. This episode highlights that only those with the righteousness of Christ imputed to them will be at His right hand. The answer provided by both the righteous and the wicked does not align precisely with the Judge's estimation of their works.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 0.8764876091722135,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.49,
+            "commentatorTierSimilarities": [
+                22.82,
+                0.0,
+                77.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the righteous respond to the Judge in hesitation, they are expressing doubt about His ability to accurately assess their good deeds, not out of ignorance but because this understanding has not been deeply impressed upon them. However, Christ's admiration for their actions should encourage believers to rise above their limited perspectives and not let the outward appearance of the needy hinder them from extending kindness and aid. This episode emphasizes that only those with the righteousness of Christ imputed to them will be at His right hand, highlighting the different estimation the righteous and the Judge have of their own works.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 0.9697408204921573,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.59,
+            "commentatorTierSimilarities": [
+                23.53,
+                0.0,
+                76.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the righteous answer the Judge, they express doubt about His ability to accurately understand and appreciate their good deeds, not due to ignorance but because this understanding hasn't been deeply impressed upon them. Christ's admiration for their actions serves as a reminder for believers to rise above their human perspectives. This should encourage us to extend kindness and aid to those in need, regardless of their outward appearance. Only those who have the righteousness of Christ imputed to them will be at His right hand. The answer given by the righteous and the wicked doesn't align perfectly with the Judge's estimation of their works.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 0.9490945112090946,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.9,
+            "commentatorTierSimilarities": [
+                27.45,
+                0.0,
+                72.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the righteous respond to the Judge, their doubt stems from the fact that they are uncertain whether He truly comprehends and appreciates their good deeds. However, this doubt is not due to ignorance but rather because they have not fully grasped the importance of their actions. Christ's admiration for their deeds serves as a reminder for believers to rise above their limited perspectives. It encourages us to show kindness and assistance to those in need, irrespective of their outward appearance. Only those who have received the righteousness of Christ will stand on His right side. The responses of both the righteous and the wicked do not align with the Judge's estimation of their works.",
+            "wordCount": 117,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 0.8962052897011036,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.14,
+            "commentatorTierSimilarities": [
+                26.39,
+                0.0,
+                73.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

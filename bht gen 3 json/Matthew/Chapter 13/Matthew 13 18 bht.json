@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:47:33",
+    "verseRef": "Matthew 13:18",
+    "bestBHT": {
+        "bht": "The seed of the Gospel is the same for all, but its success or failure depends on the receptivity of the soil it falls on. The mysterious interaction between the grace of God and the response of man determines the fruitfulness of the message. The Parable of the Sower serves as a guide for interpreting other parables, emphasizing the need for receptive hearts to receive and produce a harvest. By heeding the explanation of this parable, we can gain insight into the deeper truths of the Gospel and the kingdom of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.6986610164002043,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+        "commentatorTierSimilarities": [
+            35.69,
+            33.53,
+            30.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The seed is one and the same every where and to all: but seed does not spring up without earth, nor does earth bring forth without seed; and the success or failure of the seed is the consequence of the adaptation to its reception, or otherwise, of the spot on which it falls.",
+            "The great leading idea is that 'mystery of the Kingdom,' according to which the grace of God, and the receptivity of it by man, work ever together in bringing forth fruit.",
+            "Why is this ground rich, and that barren? leads us up into the creative arrangements of God,\u2014so a similar enquiry in the spiritual interpretation would lead us into the inscrutable and sovereign arrangements of Him who 'preventeth us that we may have a good will, and worketh with us when we have that will'."
+        ],
+        "John Calvin": [
+            "The general truth conveyed is, that the doctrine of the Gospel, when it is scattered like seed, is not everywhere fruitful; because it does not always meet with a fertile and well cultivated soil.",
+            "He only intended to warn us, that, in many persons, the seed of life is lost on account of various defects, in consequence of which it is either destroyed immediately, or it withers, or it gradually degenerates.",
+            "But if the greater part of such men perish, what shall become of the rest of the world, by whom the doctrine of salvation is openly rejected?"
+        ],
+        "Philip Schaff": [
+            "Hear ye therefore. 'Hear, in your hearts, ye who are so highly favored, the true meaning of these parables.'",
+            "Our Lord\u2019s explanation is to guide us in the interpretation of other parables.",
+            "He does not say: it teaches this general principle, nor does He give a significance to all the objects and actions which may be linked with sowing in a grain-field."
+        ],
+        "Archibald T. Robertson": [
+            "He can go on preaching the mysteries of the kingdom without their comprehending what he is saying, but he is anxious that the disciples really get personal knowledge of these same mysteries.",
+            "So he explains in detail what he means to teach by the Parable of the Sower.",
+            "He appeals to them to listen as he explains."
+        ],
+        "John Gill": [
+            "Hear ye therefore the parable of the sower.",
+            "Do ye not understand the meaning of it, so easy to be taken in?",
+            "How then will ye know all parables?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The seed of the Gospel is the same for all, but its success or failure depends on the receptivity of the soil it falls on. The mysterious interaction between the grace of God and the response of man determines the fruitfulness of the message. Just as the disciples are called to truly understand the mysteries of the Kingdom, we are also urged to listen and comprehend. The Parable of the Sower serves as a guide for interpreting other parables, emphasizing the need for receptive hearts to receive and produce a harvest. By heeding the explanation of this parable, we can gain insight into the deeper truths of the Gospel and the kingdom of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7513115649778,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+            "commentatorTierSimilarities": [
+                37.0,
+                33.74,
+                29.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seed of the Gospel falls on different types of soil, resulting in varying levels of fruitfulness. The success or failure of the seed is linked to its reception by the ground. The mystery lies in the collaboration between God's grace and human responsiveness, bringing forth spiritual growth. Understanding the Parable of the Sower is crucial for interpreting other parables and grasping the deeper truths of the Kingdom. Disciples and listeners are called to attentively listen, comprehend, and allow the Word to take root in their hearts, yielding a bountiful harvest.",
+            "wordCount": 92,
+            "quoteTokenProportion": 25.37,
+            "qualityScore": 1.5413778571509433,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+            "commentatorTierSimilarities": [
+                38.13,
+                30.91,
+                30.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seed of the Gospel is the same for all, but its success or failure depends on the receptivity of the soil it falls on. The mysterious interaction between the grace of God and the response of man determines the fruitfulness of the message. The Parable of the Sower serves as a guide for interpreting other parables, emphasizing the need for receptive hearts to receive and produce a harvest. By heeding the explanation of this parable, we can gain insight into the deeper truths of the Gospel and the kingdom of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.6986610164002043,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                35.69,
+                33.53,
+                30.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seed of the Gospel falls on different types of soil, resulting in varying levels of fruitfulness. The success or failure of the seed is linked to the reception of the soil. The mystery lies in the collaboration between God's grace and human responsiveness, bringing forth spiritual growth. Understanding the Parable of the Sower is crucial for interpreting other parables and grasping the deeper truths of the Kingdom. Disciples and listeners are called to attentively listen, comprehend, and allow the Word to take root, yielding a bountiful harvest.",
+            "wordCount": 89,
+            "quoteTokenProportion": 22.58,
+            "qualityScore": 1.5282642967916495,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+            "commentatorTierSimilarities": [
+                38.02,
+                30.58,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The seed of the Gospel is the same for all, but its success or failure depends on the receptivity of the soil it falls on. The mysterious interaction between the grace of God and the response of man determines the fruitfulness of the message. Understanding the Parable of the Sower is crucial for interpreting other parables and grasping the deeper truths of the Kingdom. Disciples and listeners are called to attentively listen, comprehend, and allow the Word to take root, yielding a bountiful harvest.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.614874292070294,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                36.93,
+                31.33,
+                31.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

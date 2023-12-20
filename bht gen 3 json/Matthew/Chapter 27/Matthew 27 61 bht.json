@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:54:37",
+    "verseRef": "Matthew 27:61",
+    "bestBHT": {
+        "bht": "Mary Magdalene and the mother of James and Joses, along with other women from Galilee, were seen sitting across from the sepulchre where Jesus was laid. These women had witnessed His burial and had prepared spices and ointments to honor Him according to the commandments. Their act of sitting in mourning was a testament to their deep devotion and grief. By sitting and preparing for His burial, they showed their reverence and love for Jesus, even in His death.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.5395208040887933,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+        "commentatorTierSimilarities": [
+            22.01,
+            40.88,
+            37.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Luke mentions more generally the women who came with Him from Galilee.",
+            "They prepared spices and ointments.",
+            "They rested the Sabbath day according to the commandment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "61. And there was Mary Magdalene,",
+            "\tand the other Mary\u2014\"the mother of James and Joses,",
+            "\tmentioned before (Matthew 27:56). ",
+            "\t",
+            "sitting over against the",
+            "\tsepulchre\u2014(See on Matthew 27:56- :). ",
+            "\t",
+            "The Sepulchre Guarded (Matthew 27:56- :)."
+        ],
+        "John Calvin": [
+            "Matthew and Mark relate only that the women looked at what was done, and marked the place where the body was laid.",
+            "But Luke states, at the same time, their resolution, which was, that they returned to the city, and prepared spices and ointments, that two days afterwards they might render due honor to the burial.",
+            "Hence we learn that their minds were filled with a better odor, which the Lord breathed into his death, that he might bring them to his grave, and exalt them higher."
+        ],
+        "Philip Schaff": [
+            "According to Luke the female disciples from Galilee all beheld the sepulchre, and returned to prepare spices and ointments, resting on the Sabbath, which began that evening.",
+            "These two not only saw where He was laid (Mark) but lingered there, sitting over against the sepulchre, as the evening came on."
+        ],
+        "John Gill": [
+            "And there was Mary Magdalene and the other Mary... sitting over against the sepulchre.\" ",
+            "For sitting was a mourning posture, which now they were allowed.\" ",
+            "Hence these women before stood, but now they sat."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary Magdalene, the mother of James and Joses, along with other women who came with Jesus from Galilee, were sitting opposite the sepulchre, where Jesus had been laid. They had witnessed the events of His burial and marked the place where His body was laid. Luke adds that these women, after beholding the sepulchre, returned to the city to prepare spices and ointments so that they could honor Jesus' burial properly in two days' time. Their act of sitting opposite the sepulchre was a mourning posture allowed to them at this time, reflecting their deep grief and devotion to the Lord. Through their actions, we see that their minds were filled with a better odor, the fragrant offering of reverence and love for Jesus in His death, which He would use to exalt them even higher.",
+            "wordCount": 136,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 1.496478036467284,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+            "commentatorTierSimilarities": [
+                18.05,
+                43.1,
+                38.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary Magdalene and the mother of James and Joses, along with other women from Galilee, were seen sitting across from the sepulchre where Jesus was laid. These women had witnessed His burial and had prepared spices and ointments to honor Him according to the commandments. Their act of sitting in mourning was a testament to their deep devotion and grief. By sitting and preparing for His burial, they showed their reverence and love for Jesus, even in His death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.5395208040887933,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                22.01,
+                40.88,
+                37.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary Magdalene and the other Mary, the mother of James and Joses, were sitting over against the sepulchre where Jesus had been laid. They had witnessed His burial and had come prepared with spices and ointments, following the commandment to rest on the Sabbath. Their act of sitting was a mourning posture, allowed to them at this time, reflecting their deep grief and devotion to the Lord. Through their actions, we see that their minds were filled with a better odor, the fragrant offering of reverence and love for Jesus in His death.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.4927371699063126,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                21.75,
+                41.19,
+                37.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary Magdalene and the other Mary, the mother of James and Joses, were sitting over against the sepulchre where Jesus had been laid. They had prepared spices and ointments, resting on the Sabbath according to the commandment. Their act of sitting reflected their deep grief and devotion. Their minds were filled with a better odor, the fragrant offering of reverence and love for Jesus in His death, as they prepared to honor His burial.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.441179106551715,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                25.63,
+                40.4,
+                33.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary Magdalene, along with the other Mary who was the mother of James and Joses, was sitting over against the sepulchre where Jesus had been laid. They had prepared spices and ointments and had rested on the Sabbath day as commanded. Their act of sitting was a mourning posture, allowed to them at this time. Through their actions, we see that their minds were filled with a better odor, the fragrant offering of reverence and love for Jesus in His death, as they prepared to honor His burial.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.5204816281730387,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+            "commentatorTierSimilarities": [
+                22.4,
+                40.76,
+                36.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

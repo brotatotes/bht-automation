@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:49:00",
+    "verseRef": "Matthew 17:7",
+    "bestBHT": {
+        "bht": "Jesus, in His tenderness, touches His disciples in their time of fear, comforting and encouraging them. This act of comfort can be seen in other instances in the Bible. By coming down and touching His disciples, Jesus lifts them up and guides believers to boldly enter God's presence. His touch not only brings comfort through words but also by reassuring them that there's nothing to fear. Jesus gives them courage, saying, Arise, and be not afraid: it is not the voice of an angry God, but of God well pleased with me, and in me with you.",
+        "wordCount": 99,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.4322085465183683,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+        "commentatorTierSimilarities": [
+            45.59,
+            13.85,
+            40.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "Christ raises them up when they had fallen, and by so doing performs his office.",
+            "He came down to us for this very purpose, that by his guidance believers might boldly enter into the presence of God.",
+            "Nor is it only by his words that he comforts, but by touching also that he encourages them."
+        ],
+        "Philip Schaff": [
+            "Matthew 17:7. Came and touched them. Comp, similar occurrences, Isaiah 6:5-7; Daniel 10:9-10; Revelation 1:17.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "And touched them (\u03ba\u03b1 \u03b1\u03c8\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b1\u03c5\u03c4\u03c9\u03bd). Tenderness in their time of fear. "
+        ],
+        "John Gill": [
+            "He came and brought them to themselves\"; who were just fainting and swooning away, at the awfulness of the voice.",
+            "Arise, and be not afraid: it is not the voice of an angry God, but of God well pleased with me, and in me with you.",
+            "Arise, stand on your feet, take heart, and be of good courage, no hurt will come to you."
+        ],
+        "John Wesley": [
+            "Be not afraid \u2014 And doubtless the same moment he gave them courage and strength."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus shows His tenderness by touching His disciples in their time of fear. This act of comfort and encouragement can be seen throughout scripture, such as in Isaiah, Daniel, and Revelation. By coming down to His disciples and touching them, Jesus raises them up when they had fallen, guiding believers to boldly enter into the presence of God. He not only speaks words of comfort, but His touch also brings encouragement, reminding them that they have nothing to fear. In this moment, Jesus gives them courage and strength, saying, Arise, and be not afraid: it is not the voice of an angry God, but of God well pleased with me, and in me with you.",
+            "wordCount": 118,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.399422948208751,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.87,
+            "commentatorTierSimilarities": [
+                37.92,
+                20.86,
+                41.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in His tenderness, touches His disciples in their time of fear, acting as their comforter and encourager. This act mirrors similar occurrences in Isaiah, Daniel, and Revelation. By coming down to His disciples and touching them, Jesus raises them up and guides believers to boldly enter into the presence of God. In this moment, His touch brings courage and strength, reassuring them not to be afraid because it is not the voice of an angry God, but a God who is well pleased.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.4294888305920124,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                38.51,
+                24.87,
+                36.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in His tenderness, touches His disciples in their time of fear, comforting and encouraging them. This act of comfort can be seen in other instances in the Bible. By coming down and touching His disciples, Jesus lifts them up and guides believers to boldly enter God's presence. His touch not only brings comfort through words but also by reassuring them that there's nothing to fear. Jesus gives them courage, saying, Arise, and be not afraid: it is not the voice of an angry God, but of God well pleased with me, and in me with you.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.4322085465183683,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                45.59,
+                13.85,
+                40.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a moment of fear, Jesus tenderly reaches out and touches His disciples, comforting them with His presence. This act of compassion echoes instances in the Bible, illustrating Jesus' role in raising up His followers. By coming down and touching them, Jesus provides guidance and assurance, allowing believers to boldly approach God. His touch not only brings words of comfort but also serves as a tangible encouragement, reminding them that there is no reason to be afraid. Arise, and be not afraid, He reassures them, bestowing courage and strength.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.3721906822098298,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.97,
+            "commentatorTierSimilarities": [
+                41.09,
+                14.46,
+                44.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their moment of fear, Jesus tenderly touches His disciples, offering comfort and encouragement. This act of compassion reflects similar occurrences in the Bible, demonstrating Jesus' role in lifting up His followers. By reaching out and touching them, Jesus provides guidance and reassurance, allowing believers to approach God boldly. His touch brings both words of comfort and tangible support, affirming that there is nothing to fear. He urges them, saying, Arise, and be not afraid, infusing them with courage and strength.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3691637019341116,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.87,
+            "commentatorTierSimilarities": [
+                40.91,
+                15.26,
+                43.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

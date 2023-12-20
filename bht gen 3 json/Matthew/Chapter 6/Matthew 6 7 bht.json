@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:44:22",
+    "verseRef": "Matthew 6:7",
+    "bestBHT": {
+        "bht": "Prayer should not be characterized by an excessive amount of words or mindless repetition, for the true essence of prayer lies in genuine faith and heartfelt desire. Practices like the repetitive prayers of the Roman Catholic Church and the recitation of the Lord's Prayer in the Liturgy of the Church of England, which emphasize the quantity of repetitions, go against the intent of this instruction. However, Jesus does not condemn all repetition in prayer, as exemplified by His own continuous prayer in Gethsemane. Genuine prayer requires heartfelt expression rather than empty words and senseless babble.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.469445916852324,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.45,
+        "commentatorTierSimilarities": [
+            32.36,
+            35.03,
+            32.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What is forbidden is not much praying, but the making number and length a point of observance, and imagining that prayer will be heard, not because it is the genuine expression of the desire of faith, but because it is of such a length, has been such a number of times repeated.",
+            "The repetitions of Paternosters and Ave Marias in the Romish Church, as practised by them, are in direct violation of this precept; the number of repetitions being prescribed, and the efficacy of the performance made to depend on it.",
+            "But the repetition of the Lord\u2019s Prayer in the Liturgy of the Church of England is not a violation of it, nor that of the Kyrie Eleison, because it is not the number of these which is the object, but each has its appropriate place and reason in that which is pre-eminently a reasonable service."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Babble not\" would be a better rendering, both for the form of the word - which in both languages is intended to imitate the sound - and for the sense, which expresses not so much the repetition of the same words as a senseless multiplication of them.",
+            "Every one who multiplies prayer is heard.\" - With the Jews, it was a maxim.",
+            "The very prayer which our Lord gave as an antidote to vain repetitions is the most abused to this superstitious end; the number of times it is repeated counting for so much more merit."
+        ],
+        "Albert Barnes": [
+            "Use not vain repetitions...to repeat the same words, as though God did not hear at first.",
+            "It may serve to illustrate this passage, and to show how true is the description here of prevailing modes of prayer, to refer to the forms and modes of devotion still practiced in Palestine by the Muslims.",
+            "Christ does not fix the length of our prayers...His own supplications were remarkably short."
+        ],
+        "Marvin Vincent": [
+            "Use vain repetitions, to stammer; then to babble or prate.",
+            "The worshippers of Baal and of Diana of Ephesus.",
+            "The Romanists with their paternosters and aves."
+        ],
+        "John Calvin": [
+            "Christ reproves the folly of those who, with the view of persuading and entreating God, pour out a superfluity of words.\" ",
+            "This condemns the superstition of those who entertain the belief, that they will secure the favor of God by long murmurings.\" ",
+            "Long and tedious chanting also, as if it were to soothe the ears of God, continually resounds in their cathedrals."
+        ],
+        "Philip Schaff": [
+            "'What is forbidden here is not much praying, not praying in the same words (the Lord did both); but the making number and length a point of observance.'\" ",
+            "'Much speaking\u2019 not much praying;\u2019 vain repetition\u2019 of heathen origin; merely external worship leads to senseless and sinful worship.",
+            "Prayer, not a magical charm, but a reasonable service."
+        ],
+        "Archibald T. Robertson": [
+            "Use not vain repetitions...mere babbling or chattering, empty repetition.\" ",
+            "Certainly Jesus does not mean to condemn all repetition in prayer...prayed three times in Gethsemane 'saying the same words again'.\" ",
+            "The Pagans thought that by endless repetitions and many words they would inform their gods as to their needs and weary them into granting their requests."
+        ],
+        "John Gill": [
+            "But when ye pray, use not vain repetitions,.... Saying the same things over and over again.\" ",
+            "As did the Jews, who, under pretense of 'long prayers', devoured widows' houses.\" ",
+            "Moreover, their prayer books abound in tautologies, and in expressing the same things in different words, and by a multiplicity of them."
+        ],
+        "John Wesley": [
+            "Therefore we should be extremely careful in all our prayers to mean what we say; and to say only what we mean from the bottom of our hearts.",
+            "The vain and heathenish repetitions which we are here warned against, are most dangerous, and yet very common; which is a principal cause why so many, who still profess religion, are a disgrace to it.",
+            "Indeed all the words in the world are not equivalent to one holy desire. And the very best prayers are but vain repetitions, if they are not the language of the heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Praying with a multitude of words and numerous repetitions is not the essence of genuine prayer, as it falsely assumes that prayer is effective solely due to its length and repetition. Practices such as the recitation of the Lord's Prayer in the Liturgy of the Church of England or the repetitive prayers of the Roman Catholic Church, which focus on the quantity of repetitions, violate this precept. However, Jesus does not condemn all repetition in prayer, for He Himself prayed repeatedly in Gethsemane. The use of empty and senseless repetition in prayer, as seen in pagan worship and superstitious beliefs, pleases neither God nor serves any genuine purpose. In prayer, it is far more crucial to express the true desires of our hearts rather than engaging in empty words and mindless babble.",
+            "wordCount": 133,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.4721208710640363,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.54,
+            "commentatorTierSimilarities": [
+                32.32,
+                34.84,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Prayer should not be characterized by an excessive amount of words or mindless repetition, for the true essence of prayer lies in genuine faith and heartfelt desire. Practices like the repetitive prayers of the Roman Catholic Church and the recitation of the Lord's Prayer in the Liturgy of the Church of England, which emphasize the quantity of repetitions, go against the intent of this instruction. However, Jesus does not condemn all repetition in prayer, as exemplified by His own continuous prayer in Gethsemane. Genuine prayer requires heartfelt expression rather than empty words and senseless babble.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.469445916852324,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.45,
+            "commentatorTierSimilarities": [
+                32.36,
+                35.03,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prayer should not be reduced to mindless repetition or an excess of words, as this fails to reflect genuine faith and desire. Practices like the repetitive prayers of the Roman Catholic Church or the prescribed recitation of the Lord's Prayer by the Church of England emphasize quantity over sincerity. Nevertheless, Jesus does not condemn all repetition in prayer, as seen in His own repeated supplications in Gethsemane. True prayer requires heartfelt expression, rejecting empty words and superficial worship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.379836396028888,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.47,
+            "commentatorTierSimilarities": [
+                32.45,
+                34.86,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Praying with an abundance of words and repetitive phrases is not the essence of genuine prayer, but rather a vain practice that assumes the effectiveness of prayer is based on length and repetition. The recitation of the Lord's Prayer in the Liturgy of the Church of England or the repetitive prayers of the Roman Catholic Church, which focus on the quantity of repetitions, violate the true meaning of prayer. However, Jesus does not condemn all repetition in prayer, as demonstrated through His own repeated prayers in Gethsemane. Meaningful prayer is characterized by heartfelt desires and genuine expression rather than empty words and mindless babble.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.512481261234309,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.88,
+            "commentatorTierSimilarities": [
+                32.88,
+                34.96,
+                32.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prayer is not about excessive repetitions or an abundance of words, as this implies that the length or quantity of prayer determines its effectiveness. The Roman Catholic Church's repetitive prayers or the Church of England's recitation of the Lord's Prayer in the liturgy place emphasis on the number of repetitions, violating the true purpose of prayer. However, Jesus does not condemn all repetition in prayer, demonstrated by His own prayer in Gethsemane. Authentic prayer requires genuine expressions of the heart rather than empty repetition and mindless chatter.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.4305163953570936,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.15,
+            "commentatorTierSimilarities": [
+                33.81,
+                34.92,
+                31.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

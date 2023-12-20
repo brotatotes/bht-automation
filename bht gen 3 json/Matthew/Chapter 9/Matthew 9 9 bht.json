@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:45:39",
+    "verseRef": "Matthew 9:9",
+    "bestBHT": {
+        "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. This grace-filled moment reveals God's power and the irresistible efficacy of Jesus' words. Matthew, a despised tax collector, leaves behind his occupation while carefully maintaining his family name. The toll office in Capernaum, where Matthew sat, served as a landing place for ships and a symbol of graft and corruption. From this place, Jesus calls Matthew, emphasizing the remarkable display of God's grace in choosing and transforming an individual from an ignoble profession into an apostle.",
+        "wordCount": 96,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.8126904107818906,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+        "commentatorTierSimilarities": [
+            25.76,
+            43.79,
+            30.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "While he himself sinks his family name, he is careful not to sink his occupation, the obnoxious associations with which he would place over against the grace that called him from it, and made him an apostle.",
+            "No capable jury, with the evidence before them which we have in the Gospels, would hesitate in giving a unanimous verdict of identity.",
+            "Witching words these, from the lips of Him who never employed them without giving them resistless efficacy in the hearts of those they were spoken to."
+        ],
+        "Albert Barnes": [
+            "He saw a man, named Matthew, sitting at the receipt of custom."
+        ],
+        "Marvin Vincent": [
+            "Receipt of custom [\u03c4\u03b5\u03bb\u03c9\u03bd\u03b9\u03bf\u03bd] . Rev., place of toll. Wyc., tollbooth, toll - booth, or toll - cabin, which is an excellent word, though obsolete.",
+            "Sitting at, is, literally sitting on : the elevated platform or bench which was the principal feature of the toll - office.",
+            "This customs - office was a Capernaum, the landing - place for the many ships which traversed the lake or coasted from town to town."
+        ],
+        "John Calvin": [
+            "In the choice of Matthew out of that place, not only to be admitted into the family of Christ, but even to be called to the office of Apostle, we have a striking instance of the grace of God.",
+            "Matthew, therefore, was not only a witness and preacher, but was also a proof and illustration of the grace exhibited in Christ.",
+            "In the great readiness and eagerness of Matthew to obey, we see the Divine power of the word of Christ."
+        ],
+        "Philip Schaff": [
+            "The formal call seems peculiar to the Apostles, and Mark and Luke mention Matthew, not Levi, among the Twelve.",
+            "Sitting at the place of toll, or 'the toll-booth.' Like the four fishermen, at his regular employment, and probably previously acquainted with Jesus.",
+            "Follow me, in the specific sense, as in chap. Matthew 4:19. Matthew obeyed in this sense, 'he left all, rose up, and followed him' (Luke 5:28); certainly not simply; walked after Jesus into His place of residence."
+        ],
+        "Archibald T. Robertson": [
+            "Called Matthew\" and in Matthew 10:3 Matthew the publican is named as one of the Twelve Apostles. Mark (Mark 2:14) and Luke (Luke 5:27) call this man Levi.\" ",
+            "The publicans (\u03c4\u03b5\u03bb\u03c9\u03bd\u03b1) get their name in English from the Latin publicanus (a man who did public duty), not a very accurate designation.",
+            "They were detested because they practised graft. Even Gabinius the proconsul of Syria was accused by Cicero of relieving Syrians and Jews of legitimate taxes for graft."
+        ],
+        "John Gill": [
+            "The grace of God might appear the more illustrious in his calling and conversion.",
+            "The publicans had houses, or booths built for them, at the foot of bridges, at the mouth of rivers, and by the sea shore, where they took toll of passengers that went to and fro.",
+            "Without telling him what work he must do, or how he must live, and without his consulting with flesh and blood, at once, immediately he arose, and followed him."
+        ],
+        "John Wesley": [
+            "Modestly so called by himself.",
+            "The other evangelists call him by his more honourable name, Levi.",
+            "In the very height of his business, at the receipt of custom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. This grace-filled moment exemplifies God's power and the efficacy of Jesus' words. Matthew, a despised tax collector, leaves behind his occupation and family name to become an apostle. His immediate and eager obedience showcases the transformational impact of Christ's call. The toll office where Matthew sat was located in Capernaum, a bustling hub for trade and commerce. From this place of disdain and graft, Matthew is chosen and called by Jesus, the embodiment of God's grace.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.750977509618164,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                22.91,
+                44.26,
+                32.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. The grace exhibited in the choice of Matthew as an apostle exemplifies God's power and the transformative impact of Christ's words. Matthew's immediate and eager obedience highlights the efficacy of Jesus' call. This call to discipleship takes place in Capernaum, a hub for trade and commerce, where Matthew worked in a despised occupation. Despite his association with graft, Matthew is chosen and called by Jesus, showcasing the remarkable display of God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8071366758105754,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                21.93,
+                44.36,
+                33.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. This grace-filled moment exemplifies God's power and the efficacy of Jesus' words. Matthew, a despised tax collector, leaves behind his occupation and family name to become an apostle. His immediate and eager obedience showcases the transformational impact of Christ's call. The toll office in Capernaum, where Matthew sat, was a place of disdain and graft. From this place, Matthew is chosen and called by Jesus, the embodiment of God's grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7962335905360787,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                23.05,
+                44.44,
+                32.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. This grace-filled moment exemplifies God's power and the efficacy of Jesus' words. From the despised occupation of a tax collector, Matthew emerges as an apostle, leaving behind his family name. His immediate and eager obedience showcases the transformative impact of Christ's call. The toll booth where Matthew sat in Capernaum was a hub for trade, where graft and corruption were common. Yet, from this place, Matthew is chosen and called by Jesus, illustrating the remarkable display of God's grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7805619861340563,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                23.61,
+                44.15,
+                32.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sitting at the receipt of custom, Matthew, also known as Levi, receives a divine call from Jesus. This grace-filled moment reveals God's power and the irresistible efficacy of Jesus' words. Matthew, a despised tax collector, leaves behind his occupation while carefully maintaining his family name. The toll office in Capernaum, where Matthew sat, served as a landing place for ships and a symbol of graft and corruption. From this place, Jesus calls Matthew, emphasizing the remarkable display of God's grace in choosing and transforming an individual from an ignoble profession into an apostle.",
+            "wordCount": 96,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8126904107818906,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                25.76,
+                43.79,
+                30.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

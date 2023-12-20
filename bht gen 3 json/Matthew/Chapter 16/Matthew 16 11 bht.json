@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:48:39",
+    "verseRef": "Matthew 16:11",
+    "bestBHT": {
+        "bht": "The disciples should have understood that Jesus was not speaking about physical bread when he mentioned the leaven of the Pharisees and Sadducees. The miracles he had performed should have made it clear to them that he was not concerned about earthly bread. It is surprising that they did not grasp the figurative and mystical nature of his words, and instead, thought that he was concerned about the literal bread they brought. It is as if they could not comprehend that Jesus' words went beyond the approval or disapproval of the Pharisees and Sadducees regarding literal leaven.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.072667284559123,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+        "commentatorTierSimilarities": [
+            0.0,
+            43.05,
+            56.95
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The recent instruction that eating did not defile a man, should have prevented the surmise about not eating bread with the Pharisees and Sadducees.\" ",
+            "The miracles should have shown them that lack of earthly bread was not referred to.\" ",
+            "Mark stops at this point in the narrative."
+        ],
+        "John Gill": [
+            "How is it that ye do not understand...that I spake it not to you concerning bread, taken in a literal sense; but must be thought to speak figuratively and mystically?\" ",
+            "You should be so senseless and void of thought, after such instances, as to imagine, that I concerned myself about what bread you brought with you.",
+            "How could you think that I had any regard to the leaven taken in a literal sense, the Pharisees and Sadducees approve or disapprove of?"
+        ],
+        "John Wesley": [
+            "How do ye not understand \u2014 Beside, do you not understand, that I did not mean bread, by the leaven of the Pharisees and Sadducees?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples should have understood that Jesus was not speaking about physical bread when he mentioned the leaven of the Pharisees and Sadducees. The miracles he had performed should have made it clear to them that he was not concerned about earthly bread. It is surprising that they did not grasp the figurative and mystical nature of his words, and instead, thought that he was concerned about the literal bread they brought. It is as if they could not comprehend that Jesus' words went beyond the approval or disapproval of the Pharisees and Sadducees regarding literal leaven.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.072667284559123,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.05,
+                56.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples failed to grasp that Jesus was not referring to physical bread but instead using a figurative and mystical language when he mentioned the leaven of the Pharisees and Sadducees. Despite the miracles he had performed, they couldn't understand that his words went beyond the literal approval or disapproval of the religious leaders. It is surprising that they couldn't comprehend the deeper meaning and continued to focus on the earthly bread they brought.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7058425265664163,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.13,
+                56.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples should have understood that Jesus was not speaking about physical bread but instead referring to a figurative and mystical meaning when he mentioned the leaven of the Pharisees and Sadducees. It is surprising that despite the miracles he had performed, they still couldn't grasp the deeper message and focused solely on the literal approval or disapproval of the religious leaders. Their inability to comprehend that Jesus' words went beyond earthly bread is perplexing.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8328494950803738,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.45,
+                56.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples should have comprehended that Jesus wasn't talking about literal bread but using figurative and mystical language when he spoke of the leaven of the Pharisees and Sadducees. Incredibly, they failed to grasp the profound meaning even after witnessing his miracles. Their lack of understanding, focusing on physical bread instead, is astonishing. They should have realized that Jesus' words went beyond the approval or disapproval of the religious leaders regarding literal leaven.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6469560932278882,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                0.0,
+                43.53,
+                56.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples should have understood that Jesus was not referring to physical bread, but instead speaking figuratively and mystically when he mentioned the leaven of the Pharisees and Sadducees. However, they failed to grasp this deeper meaning, even after witnessing the miracles performed by Jesus. It is astonishing that they couldn't comprehend that Jesus' words went beyond the literal approval or disapproval of the religious leaders regarding leaven. Their inability to perceive this spiritual message is perplexing.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5323635858093216,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.92,
+                55.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

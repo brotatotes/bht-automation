@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:48:31",
+    "verseRef": "Matthew 15:36",
+    "bestBHT": {
+        "bht": "Jesus, in his usual way, gave thanks before distributing the seven loaves and fish to the multitude. The Jewish custom allowed the head of the house to say the blessing only if he shared the meal with his own household. However, Jesus was not bound by these customs and wanted to highlight the impending miracle. By giving thanks, he not only demonstrated gratitude but also taught his disciples and the crowd to be thankful for their portion, regardless of the size. He then entrusted his disciples to distribute the food among the people.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.4761736345479812,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+        "commentatorTierSimilarities": [
+            44.7,
+            0.0,
+            55.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Gave thanks (\u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03c3\u03b1\u03c2).",
+            "The Jewish custom was for the head of the house to say the blessing only if he shared the meal unless the guests were his own household.",
+            "But we need not think of Jesus as bound by the peccadilloes of Jewish customs."
+        ],
+        "John Gill": [
+            "And he took the seven loaves and the fishes... that so the miracle might appear in its true light.\" ",
+            "and gave thanks... teaching us to do so likewise, and to be thankful for, and content with our portion, be it more or less.",
+            "and gave to his disciples... in order to distribute to the people, which they accordingly did."
+        ],
+        "John Wesley": [
+            "He gave thanks, or blessed the food \u2014 That is, he praised God for it, and prayed for a blessing upon it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his usual way, gave thanks before distributing the seven loaves and fish to the multitude. It is worth noting that the Jewish tradition only required the head of the household to say the blessing if he was eating with his own family. However, Jesus did not feel bound by these customs. He wanted to highlight the miracle he was about to perform. By giving thanks, he not only demonstrated gratitude but also taught his disciples and the crowd to be thankful for their portion, regardless of the size. Ultimately, Jesus blessed the food and then entrusted his disciples with distributing it among the people.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3468784438621668,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.13,
+            "commentatorTierSimilarities": [
+                42.89,
+                0.0,
+                57.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in his usual way, gave thanks before distributing the seven loaves and fish to the multitude. The Jewish custom allowed the head of the house to say the blessing only if he shared the meal with his own household. However, Jesus was not bound by these customs and wanted to highlight the impending miracle. By giving thanks, he not only demonstrated gratitude but also taught his disciples and the crowd to be thankful for their portion, regardless of the size. He then entrusted his disciples to distribute the food among the people.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4761736345479812,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+            "commentatorTierSimilarities": [
+                44.7,
+                0.0,
+                55.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus gave thanks before distributing the seven loaves and fish to the multitude. Though the Jewish custom only required the head of the household to say the blessing if he shared the meal with his own household, Jesus was not bound by these customs. His act of giving thanks demonstrated gratitude and taught the crowd to be thankful for their portion, regardless of its size. He then entrusted his disciples with distributing the food among the people.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.4486432486567238,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                43.26,
+                0.0,
+                56.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in his usual way, gave thanks before distributing the seven loaves and fish to the multitude. The Jewish custom allowed the head of the house to say the blessing only if he shared the meal with his own household. However, Jesus was not bound by these customs. By giving thanks, he not only demonstrated gratitude but also taught his disciples and the crowd to be thankful for their portion, regardless of the size. He then entrusted his disciples to distribute the food among the people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.4683098928028813,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.16,
+            "commentatorTierSimilarities": [
+                47.45,
+                0.0,
+                52.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus gave thanks before distributing the seven loaves and fish to the multitude. The Jewish custom allowed the head of the house to say the blessing only if he shared the meal with his own household, but Jesus was not bound by these customs. His act of giving thanks demonstrated gratitude and taught the crowd to be thankful for their portion, regardless of its size. He then entrusted his disciples with distributing the food among the people.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.4410548426227714,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                43.21,
+                0.0,
+                56.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

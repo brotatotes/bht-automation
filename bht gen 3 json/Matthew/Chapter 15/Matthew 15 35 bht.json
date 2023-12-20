@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:48:32",
+    "verseRef": "Matthew 15:35",
+    "bestBHT": {
+        "bht": "Sitting on the ground in a desolate region, the disciples arrange the people in rows. Despite the lack of grass during this time, Jesus performs a miracle of abundance, demonstrating his authority and power to provide. This act reminds us of the Jewish custom where the head of the house speaks a blessing only when he himself shares in the meal, highlighting Jesus' role as the provider for the multitude.",
+        "wordCount": 70,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.3682616977969442,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+        "commentatorTierSimilarities": [
+            37.55,
+            30.88,
+            31.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "On the ground. It was then the month of flowers.",
+            "On the present occasion, several weeks later, the grass would be burnt up, so that they would sit on the ground.",
+            "According to the Jewish ordinance, the head of the house was to speak the blessing only if he himself shared in the meal."
+        ],
+        "Philip Schaff": [
+            "On the ground, not 'on the grass'; they were 'in a wilderness,' a desolate region, in this case.",
+            "The correct reading joins this verse closely with Matthew 15:36.",
+            "The disciples arranged the multitude."
+        ],
+        "Archibald T. Robertson": [
+            "On the ground (\u03b5\u03c0 \u03c4\u03b7\u03bd \u03b3\u03b7\u03bd). No mention of \"grass\" as in Matthew 14:19 for this time, midsummer, the grass would be parched and gone. "
+        ],
+        "John Gill": [
+            "Not regarding the smallness of the provisions, nor any further consulting with his disciples...",
+            "...knowing his own power to increase this food...",
+            "...in an authoritative way ordered them to sit down upon the ground in rows, that they might be the better seen, and served."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus takes the small amount of food that was initially provided and multiplies it to feed the multitude. Sitting on the ground, a clear indication of being in a desolate region, the disciples arrange the people in rows. Despite the lack of grass during this time of the year, Jesus performs a miracle of abundance, demonstrating his authority and power to provide for his people. The emphasis on sitting on the ground also reflects the Jewish custom where the head of the house speaks a blessing only when he himself shares in the meal.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4606007835177384,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                37.36,
+                31.08,
+                31.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sitting on the ground in a desolate region, the disciples arrange the people in rows as Jesus takes the small amount of food and performs a miracle of abundance. Despite the lack of grass during this time, Jesus shows his authority and power to provide. This act reminds us of the Jewish custom where the head of the house speaks a blessing only when he himself shares in the meal, highlighting Jesus' role as the provider for the multitude.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.3575319026385164,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.48,
+            "commentatorTierSimilarities": [
+                39.85,
+                27.73,
+                32.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sitting on the ground in a desolate region, the disciples arrange the people in rows. Despite the lack of grass during this time, Jesus performs a miracle of abundance, demonstrating his authority and power to provide. This act reminds us of the Jewish custom where the head of the house speaks a blessing only when he himself shares in the meal, highlighting Jesus' role as the provider for the multitude.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3682616977969442,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                37.55,
+                30.88,
+                31.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sitting on the ground, the disciples arrange the people in rows. Jesus performs a miracle of abundance, demonstrating his authority and power to provide, even in a desolate region. This act reflects the Jewish custom where the head of the house speaks a blessing only when he shares in the meal, emphasizing Jesus as the provider for the multitude. Despite the lack of grass during this time, Jesus multiplies the small amount of food to feed everyone, showcasing his knowledge and ability to increase provisions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.2652912856981076,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.41,
+            "commentatorTierSimilarities": [
+                32.26,
+                28.55,
+                39.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sitting on the ground, the disciples arrange the people in rows as Jesus performs a miracle of abundance. Despite the lack of grass during this time, Jesus multiplies the small amount of food to feed everyone, showcasing his knowledge and ability to increase provisions. This act reflects the Jewish custom where the head of the house speaks a blessing only when he shares in the meal, emphasizing Jesus as the provider for the multitude.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3085977655077066,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+            "commentatorTierSimilarities": [
+                35.2,
+                26.7,
+                38.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

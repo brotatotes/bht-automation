@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:48:12",
+    "verseRef": "Matthew 14:20",
+    "bestBHT": {
+        "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is ourselves.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.4512910227243032,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+        "commentatorTierSimilarities": [
+            28.7,
+            29.84,
+            41.47
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Were filled [\u03b5\u03c7\u03bf\u03c1\u03c4\u03b1\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd] .",
+            "Juvenal, the Roman satirist, describes the grove of Numa, near the Capenian gate of Rome, as being 'let out to the Jews, whose furniture is a basket [\u03c7\u03bf\u03c0\u03b7\u03b9\u03bd\u03c5\u03c3] and some hay' (for a bed), 'Sat.' 3 14.",
+            "The word for basket used in relating the feeding of the four thousand (Matthew 14:37) is spuriv, a large provision - basket or hamper, of the kind used for letting Paul down over the wall at Damascus (Acts 9:25)."
+        ],
+        "John Calvin": [
+            "The fragments that remained after satisfying so vast a multitude of men were more than twelve times larger in quantity than what was at first put into their hands, and this contributed not a little to the splendor of the miracle.",
+            "Christ intended that, after the miracle had been wrought, a striking proof of it should still remain, which, after being refreshed by food, they might contemplate at leisure.",
+            "If we do not perceive that it is the blessing of God which multiplies the corn, that we may have a sufficiency of food, the only obstacle is, our own indolence and ingratitude."
+        ],
+        "Philip Schaff": [
+            "Philip had said that 200 pennyworth of bread would only give each a little, but now all had received enough.",
+            "The pieces they distributed, pieces, not the refuse.",
+            "This circumstance mentioned by all four Evangelists was designed to impress the miracle upon the disciples."
+        ],
+        "Archibald T. Robertson": [
+            "They all were satisfied.",
+            "Not the scraps upon the ground, but the pieces broken by Jesus and still in the 'twelve baskets'.",
+            "Each of the twelve had a basketful left over."
+        ],
+        "John Gill": [
+            "And they did all eat...everyone had their portion, and were filled...they had enough, and to spare...\" (31 words)",
+            "The Jews used not to reckon it a meal, unless a man was filled...but here was fulness, and more left than was first had...\" (33 words)",
+            "And they took up of the fragments that remained, twelve baskets full; according to the number of the disciples, every man had his basket full...\" (29 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is ourselves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4512910227243032,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                28.7,
+                29.84,
+                41.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is ourselves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4512910227243032,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                28.7,
+                29.84,
+                41.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is ourselves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4512910227243032,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                28.7,
+                29.84,
+                41.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is ourselves.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4512910227243032,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                28.7,
+                29.84,
+                41.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Everyone had their portion and were filled. The pieces of bread, not the scraps, were distributed, and each of the twelve disciples had a basketful left over. The fragments that remained after satisfying such a vast multitude were twelve times larger than the original portions, serving as a striking proof of the miracle. This miracle was intended to reveal God's blessing and provision, reminding us that if we are indolent and ungrateful, the only obstacle to having a sufficiency of food is our own laziness and lack of gratitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4292125826494402,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                28.7,
+                29.73,
+                41.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

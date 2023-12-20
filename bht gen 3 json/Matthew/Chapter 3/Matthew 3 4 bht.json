@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:43:02",
+    "verseRef": "Matthew 3:4",
+    "bestBHT": {
+        "bht": "John the Baptist came preaching a message of repentance in the wilderness, dressed in a garment made of camel's hair, woven of it. His sustenance consisted of locusts, the well-known Eastern locust, a food of the poor, and honey made by wild bees. This austere dress and meager diet, resembling that of Elijah, reflected John's humble life and self-denial. Although such an uncouth figure may not be welcomed in modern pulpits, it was in the wilderness where John's appearance effectively conveyed the majesty of God and commanded admiration.",
+        "wordCount": 93,
+        "quoteTokenProportion": 29.85,
+        "qualityScore": 2.0415409106769626,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+        "commentatorTierSimilarities": [
+            31.32,
+            38.43,
+            30.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The garment of camel's hair was not the camel's skin with the hair on, which would be too heavy to wear, but raiment woven of camel's hair.\" ",
+            "The locust, permitted to be eaten, Levit. xi. 22, was used as food by the lower orders in Jud\u00e6a, and mentioned by Strabo and Pliny as eaten by the \u00c6thiopians.",
+            "Here again there is no need to suppose anything else meant but honey made by wild bees."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The same John had his raiment",
+            "\tof camel's hair\u2014woven of it.",
+            "And his meat was locusts\u2014the",
+            "\tgreat, well-known Eastern locust, a food of the poor.",
+            "This dress and diet, with the shrill cry in the wilderness, would",
+            "\trecall the stern days of Elijah."
+        ],
+        "Albert Barnes": [
+            "This dress of the camel\u2019s hair, and a leather belt, it seems, was the common dress of the prophets.",
+            "The fact that John made his food of them is significant of his great poverty and humble life.",
+            "John the Baptist...was of this class either from necessity or election."
+        ],
+        "John Calvin": [
+            "Superstitious persons look upon righteousness as consisting almost entirely of outward appearances, and have commonly thought, that abstinence of this kind was the perfection of holiness.",
+            "Nay, gross ignorance has gone so far that, out of camel\u2019s hair they have made an entire skin.",
+            "When a man of mean aspect, and without any polite accomplishments, appeared in public life, it was attended by this advantage, that the majesty of God shone alone in him, and yet struck all with admiration."
+        ],
+        "Philip Schaff": [
+            "The dress and habits of John confirm the statement of Matthew 3:3. His dress, like that of Elijah, corresponded with his preaching.",
+            "The austere dress befitted the austere preacher of repentance, whose ministry, like that of Elijah, aimed at bringing back the people to the spirit of their fathers.",
+            "John came 'neither eating nor drinking,' a Nazarite. He probably did not enjoin this mode of life upon others. His position demanded it of him, and his actual self-denial had a symbolic meaning, pointing to the repentance he preached."
+        ],
+        "Archibald T. Robertson": [
+            "Now John himself (\u03b1\u03c5\u03c4\u03bf\u03c2 \u03b4\u03b5 \u03bf \u0399\u03c9\u03b1\u03bd\u03b7\u03c2). Matthew thus introduces the man himself and draws a vivid sketch of his dress (note \u03b5\u03b9\u03c7\u03b5\u03bd, imperfect tense), his habit, and his food.\" ",
+            "Would such an uncouth figure be welcome today in any pulpit in our cities? In the wilderness it did not matter.\" ",
+            "It was probably a matter of necessity with him, not an affectation, though it was the garb of the original Elijah (2 Kings 1:8), rough sackcloth woven from the hair of camels."
+        ],
+        "John Gill": [
+            "the same John of whom Isaiah prophesied, and who came preaching the doctrine in the place and manner before expressed",
+            "And it is to be observed he appeared in the same dress as Elijah or Elias did, in whose spirit and power he came",
+            "these were a sort of creatures 'called locusts', and which by the ceremonial law were lawful to be eaten"
+        ],
+        "John Wesley": [
+            "Coarse and rough, suiting his character and doctrine.",
+            "Like Elijah, in whose spirit and power he came.",
+            "Locusts are ranked among clean meats, Leviticus 11:22. But these were not always to be had. So in default of those, he fed on wild honey."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist, the one whom Isaiah prophesied about, appeared in the wilderness dressed in a garment made of camel's hair, woven from the hair of camels. His food consisted of locusts, the insects that were considered lawful to be eaten according to the ceremonial law, and wild honey. The significance of John's attire and diet reflects his humble life and self-denial, pointing to the repentance he preached. His clothing, similar to that of Elijah, evokes the memory of the stern prophet of old. While John's appearance may seem uncouth to some, it was essential for his role as the forerunner of Christ. He came not to impress with outward appearances or polite accomplishments but to usher in the majesty of God and call people to repent and turn back to the ways of their fathers.",
+            "wordCount": 140,
+            "quoteTokenProportion": 32.63,
+            "qualityScore": 1.8682550267537925,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                27.63,
+                40.28,
+                32.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist came preaching a message of repentance in the wilderness, dressed in a garment made of camel's hair, woven of it. His sustenance consisted of locusts, the well-known Eastern locust, a food of the poor, and honey made by wild bees. This austere dress and meager diet, resembling that of Elijah, reflected John's humble life and self-denial. Although such an uncouth figure may not be welcomed in modern pulpits, it was in the wilderness where John's appearance effectively conveyed the majesty of God and commanded admiration.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 2.0415409106769626,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                31.32,
+                38.43,
+                30.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist appeared in the wilderness wearing a garment woven from camel's hair, reminiscent of Elijah's garb. His sustenance included the well-known Eastern locusts, a food of the poor, and honey made by wild bees. John's attire and diet, along with his shrill cry in the wilderness, evoked the stern days of Elijah and symbolized his ministry of repentance. While his unconventional appearance may not be accepted in today's pulpits, it was in the wilderness where John's message of repentance, devoid of outward appearances, could shine forth and inspire admiration.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.0281240400642715,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                32.59,
+                37.28,
+                30.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist emerged in the wilderness clad in a garment woven from camel's hair, resembling the dress of the original Elijah. His diet consisted of the great Eastern locusts, a food of the poor, and wild honey. John's austere appearance, along with his preaching and cry in the wilderness, harked back to the days of Elijah. Although his rough and uncouth figure might not be accepted in modern pulpits, in the wilderness, it was irrelevant. John's attire and demeanor effectively conveyed the majesty of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9123203251830356,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                31.23,
+                37.34,
+                31.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, in the wilderness, wore a garment made of camel's hair, similar to that of the original Elijah. His meager diet included locusts, a well-known food of the poor, and honey made by wild bees. This rugged appearance, accompanied by his cry in the wilderness, brought to mind the days of Elijah and conveyed the seriousness of his message. While his attire may not be welcomed in today's pulpits, in the wilderness, it served to shine a spotlight on the majesty of God alone.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.858795504635685,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                32.71,
+                36.2,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

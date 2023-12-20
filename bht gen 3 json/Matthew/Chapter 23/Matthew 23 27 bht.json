@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:52:11",
+    "verseRef": "Matthew 23:27",
+    "bestBHT": {
+        "bht": "Your hearts are not temples of the living God, but graves of corruption. Just as one might unknowingly walk over a hidden grave and contract ceremonial defilement, the Pharisees' outward appearance concealed their internal pollution. They were like whitened sepulchers, presenting a beautiful image on the outside while harboring dead bones and uncleanness within. Their hypocrisy, envy, pride, lust, and malice were appropriately depicted by the corruption within a whited tomb. They may have appeared righteous, but their hearts were full of deceit and iniquity.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.908892363640111,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+        "commentatorTierSimilarities": [
+            25.34,
+            37.8,
+            36.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Your heart is not a temple of the living God, but a grave of pestilent corruption.\" ",
+            "Not a heaven, but a hell.\" ",
+            "And your religion is but the whitewash\u2014hardly skin-deep."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But our Lord, stripping off the figure, next holds up their iniquity in naked colors.\" (28 words)",
+            "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.\" (20 words)",
+            "As one might unconsciously walk over a grave concealed from view, and thus contract ceremonial defilement, so the plausible exterior of the Pharisees kept people from perceiving the pollution they contracted from coming in contact with such corrupt characters.\" (46 words)"
+        ],
+        "Albert Barnes": [
+            "Those tombs were annually whitewashed to prevent the people from accidentally coming in contact with them [...] a very striking emblem of those painted hypocrites.",
+            "Beautiful without, but full of dead men\u2019s bones and of all uncleanness within.",
+            "Their outward conduct appeared well, but their hearts were full of hypocrisy, envy, pride, lust, and malice - suitably represented by the corruption within a whited tomb."
+        ],
+        "Marvin Vincent": [
+            "Whited sepulchres [\u03c4\u03b1\u03c6\u03bf\u03b9\u03c2 \u03ba\u03b5\u03ba\u03bf\u03bd\u03b9\u03b1\u03bc\u03b5\u03bd\u03bf\u03b9\u03c2].",
+            "A pilgrim to the Passover, for instance, might easily come upon such a grave in his journey, and contract uncleanness by the contact (Numbers 19:16).",
+            "The fact that this general whitewashing was going on at the time when Jesus administered this rebuke to the Pharisees gave point to the comparison."
+        ],
+        "John Calvin": [
+            "Christ says that hypocrites deceive by their outward appearance, because they are full of deceit and iniquity.\" ",
+            "Under the garb of pretended holiness, there lurks hidden filth which they cherish in their hearts, like a marble sepulcher.\" ",
+            "The children of God ought to desire to be pure rather than to appear so."
+        ],
+        "Philip Schaff": [
+            "Outwardly indeed appear beautiful.",
+            "Beside the 'whitening,' much care was bestowed upon sepulchres by the wealthy Jews.",
+            "Full of dead men\u2019s bones, etc. Comp. the proper sanitary regulation of Mosaic law concerning dead bodies (Numbers 5:2; Numbers 6:6)."
+        ],
+        "Archibald T. Robertson": [
+            "Whited sepulchre (\u03c4\u03b1\u03c6\u03bf\u03b9\u03c2 \u03ba\u03b5\u03ba\u03bf\u03bd\u03b9\u03b1\u03bc\u03b5\u03bd\u03bf\u03b9\u03c2)...Whitened with powdered lime dust, the sepulchres of the poor in the fields or the roadside.\" ",
+            "Not the rock-hewn tombs of the well-to-do.",
+            "We today speak of whitewashing moral evil."
+        ],
+        "John Gill": [
+            "For ye are like unto whited sepulchres; or 'covered with lime'...which indeed appear beautiful outward; especially at a distance, and when new marked.\" ",
+            "But within are full of dead men's bones, and of all uncleanness; worms and rottenness, which arise from the putrefied carcasses, and are very nauseous and defiling.",
+            "It is much these men could bear to hear themselves so often called by this name; and it shows great courage in our Lord, so freely to reprove them, and expose their wickedness, who were men of so much credit and influence with the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your hearts are not temples of the living God, but graves of corruption. Your religion is nothing more than a surface-level whitewashing. Just as one might unknowingly walk over a hidden grave and contract ceremonial defilement, the Pharisees' outward appearance concealed their internal pollution. They were like whitened sepulchers, presenting a beautiful image on the outside while harboring dead bones and uncleanness within. Their hypocrisy, envy, pride, lust, and malice were appropriately depicted by the corruption within a whited tomb. They may have appeared righteous, but their hearts were full of deceit and iniquity. The true children of God should prioritize purity over mere appearances.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.7954304917692339,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                27.45,
+                35.08,
+                37.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your hearts are not temples of the living God, but graves of corruption. Just as one might unknowingly walk over a hidden grave and contract ceremonial defilement, the Pharisees' outward appearance concealed their internal pollution. They were like whitened sepulchers, presenting a beautiful image on the outside while harboring dead bones and uncleanness within. Their hypocrisy, envy, pride, lust, and malice were appropriately depicted by the corruption within a whited tomb. They may have appeared righteous, but their hearts were full of deceit and iniquity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.908892363640111,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                25.34,
+                37.8,
+                36.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees were like whitened sepulchers, beautiful on the outside but filled with corruption on the inside. Their hearts were not temples of the living God, but graves of pestilent corruption. Their religion was nothing more than a surface-level whitewash, hardly skin-deep. They deceived others with their outward appearance, concealing the filth and deceit that lurked within. Just as one might unknowingly contract ceremonial defilement from a concealed grave, people were polluted by their contact with such hypocrites. Their hypocrisy and wickedness were exposed by Jesus, who fearlessly rebuked their deceptive practices.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.8580087456409162,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                26.33,
+                35.62,
+                38.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees were like whitened sepulchers, appearing beautiful on the outside but filled with corruption within. Their hearts were not temples of the living God, but graves of pestilent corruption. Though they presented a surface-level whitewashing, their religion was insincere and their righteousness only skin-deep. Just as one might unconsciously walk over a concealed grave, people were unaware of the pollution they contracted by associating with these hypocrites. Jesus fearlessly exposed their iniquity, revealing their true nature as children of those who killed the prophets.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8639010579373625,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                28.32,
+                34.27,
+                37.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees' outwardly beautiful appearance was only a deceptive facade, like whitened sepulchers hiding corruption within. Their hearts were not temples of the living God but graves of pestilent corruption. Their religious practices were nothing more than a surface-level whitewash, devoid of true righteousness. Just as one might unwittingly contract defilement by walking over a concealed grave, people were unaware of the impurity they acquired by associating with these hypocrites. Jesus fearlessly confronted their iniquity, exposing their true identity as children of those who murdered the prophets.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.8367795865571697,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                28.83,
+                34.33,
+                36.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

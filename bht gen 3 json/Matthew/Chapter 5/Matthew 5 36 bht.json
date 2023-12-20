@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:57",
+    "verseRef": "Matthew 5:36",
+    "bestBHT": {
+        "bht": "You have no control over the appearance of grey hairs on your head, as every oath is an appeal to God. Swearing by your own head is profane and assumes a stability it does not have. You cannot even make one hair white or black, so it is improper to pledge what is God's gift and property. Instead, let your yes be yes and your no be no, without relying on oaths that are beyond your control.",
+        "wordCount": 78,
+        "quoteTokenProportion": 56.14,
+        "qualityScore": 2.1351187732698422,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+        "commentatorTierSimilarities": [
+            31.42,
+            32.94,
+            35.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou hast no control over the appearance of grey hairs on thy head\u2014thy head is not thine own.\" ",
+            "Every oath is an appeal to God.",
+            "Let your yea be yea, and your nay be nay: let these only be used, and they in simplicity and unreservedness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.\" ",
+            "The objection lies in their being 'beyond our control' and therefore profanely assumed to have a stability which they have not.",
+            "In swearing by our own head and the like, the objection lies in their being 'beyond our control' and therefore profanely assumed to have a stability which they have not."
+        ],
+        "Albert Barnes": [
+            "To swear by the head was the same as to swear by the life; or to say, I will forfeit my life if what I say is not true.",
+            "You have no control or right over your own life. You cannot even change one single hair.",
+            "It is therefore improper and profane to pledge what is God\u2019s gift and God\u2019s property; and it is the same as swearing by God himself."
+        ],
+        "Philip Schaff": [
+            "No man can create a hair of his head, or even transform its color; what solemnity, then, in such an oath.\" ",
+            "To swear by what is under God's control alone, is to swear by Him, and that in a very roundabout and senseless way.",
+            "The Orientals today are fearfully profane, swearing continually, by the heart, their life, the temple, or the church."
+        ],
+        "John Gill": [
+            "Neither shalt thou swear by thy head,.... This also was a common form of swearing among the Jews.",
+            "'If anyone is bound to his friend by an oath, and says to him, vow unto me \u05d1\u05d7\u05d9\u05d9 \u05e8\u05d0\u05e9\u05da, 'by the life of thy head'; R. Meir says u, he may retract it; but the wise men say, he cannot.'",
+            "Because thou canst not make one hair white or black: which shows, that a man's head, nor, indeed, one hair of his head, is in his own power, and therefore he ought not to swear by it."
+        ],
+        "John Wesley": [
+            "For thou canst not make one hair white or black \u2014 Whereby it appears, that this also is not thine but God's."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our lives, including the appearance of our hair, are not within our control or ownership. Every oath we make is ultimately an appeal to God. Instead of making extravagant oaths, Jesus teaches us to let our yes be yes and our no be no, without the need for excessive swearing. When we swear by our own head, we are assuming a stability and control that we do not have. It is improper and even profane to swear by something that is beyond our control, as it is essentially an implicit oath by God Himself.",
+            "wordCount": 94,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8583659423383045,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                33.77,
+                37.26,
+                28.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our lives, including the appearance of our hair, are not within our control. Every oath is an appeal to God. Instead of making extravagant oaths, Jesus teaches us to let our yes be yes and our no be no. Swearing by our own head assumes a stability and control that we do not have. It is improper and even profane to swear by something beyond our control, as it is essentially an implicit oath by God Himself.",
+            "wordCount": 77,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.876215582679364,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.73,
+            "commentatorTierSimilarities": [
+                34.83,
+                36.22,
+                28.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You have no control over the appearance of grey hairs on your head, as your head is not your own. This is because every oath is an appeal to God and should be made with simplicity and unreservedness. Swearing by your own head is profane because it assumes a stability that it does not possess, as you cannot even make one hair white or black. It is improper and senseless to swear by what is under God's control alone, as it is essentially swearing by Him. Therefore, it is important to let your yes be yes and your no be no, without relying on oaths that are beyond your control.",
+            "wordCount": 111,
+            "quoteTokenProportion": 58.82,
+            "qualityScore": 2.0846592482462842,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                31.51,
+                33.36,
+                35.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You have no control over the appearance of grey hairs on your head, as every oath is an appeal to God. Swearing by your own head is profane and assumes a stability it does not have. You cannot even make one hair white or black, so it is improper to pledge what is God's gift and property. Instead, let your yes be yes and your no be no, without relying on oaths that are beyond your control.",
+            "wordCount": 78,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 2.1351187732698422,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+            "commentatorTierSimilarities": [
+                31.42,
+                32.94,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse teaches that humans have no control over the appearance of grey hairs on their head, as their head and even one single hair are not their own. Swearing by one's head or any other thing beyond their control is profane and assumes a stability that it does not possess. It is improper and profane to pledge what is God's gift and property, and to swear by something under God's control is essentially swearing by Him in a roundabout and senseless way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.1300109898884503,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.16,
+            "commentatorTierSimilarities": [
+                30.25,
+                40.04,
+                29.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

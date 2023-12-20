@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:48:38",
+    "verseRef": "Matthew 16:4",
+    "bestBHT": {
+        "bht": "The Pharisees and Sadducees, a wicked and adulterous generation, persisted in demanding signs, never satisfied and continually seeking to test God. Jesus, deeply grieved by their unbelief, sighed in his spirit, recognizing their blindness. As they provoked God with their deliberate desire to tempt Him, He chose to leave them, seeing them as hardened and unworthy. Yet, there remains hope that the voice of the Gospel will be heard even among their spiritual adultery and blinded understanding.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.4489246229150106,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+        "commentatorTierSimilarities": [
+            31.25,
+            29.98,
+            38.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] See note on ch. xii. 39. 5\u201312. WARNING AGAINST THE LEAVEN OF THE PHARISEES AND SADDUCEES. Mark viii. 13\u201321."
+        ],
+        "John Calvin": [
+            "The general meaning is, that the Jews are never satisfied with any signs, but are continually tickled by a wicked desire to tempt God.",
+            "He does not call them an adulterous nation merely because they demand some kind of sign, but because they deliberately provoke God.",
+            "...that Christ, when he had risen from the dead, would in every place cause the voice of his Gospel to be distinctly heard."
+        ],
+        "Philip Schaff": [
+            "The audience may have been in part the same, hence no explanation is added here.",
+            "He now gave them up to their blindness, but with pain at their unbelief.",
+            "And he sighed deeply in his spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Same words in Matthew 12:39 except \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03bf\u03c5, a real doublet. "
+        ],
+        "John Gill": [
+            "A wicked and adulterous generation.",
+            "He left them; as persons hardened, perverse, and incurable, and as unworthy to be conversed with.",
+            "And departed."
+        ],
+        "John Wesley": [
+            "A wicked and adulterous generation \u2014 Ye would seek no farther sign...",
+            "...your wickedness, your love of the world, which is spiritual adultery...",
+            "...blind your understanding."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Sadducees demanded a sign, just like they did previously when Jesus healed a demon-possessed man (Matthew 12:39). This repetition highlights the continuous nature of their disbelief and their desire to test God. Jesus, deeply grieved by their unbelief, sighed in his spirit, lamenting their blindness. He recognized that they were an adulterous and wicked generation, constantly seeking signs but never satisfied. Ultimately, Jesus left them, as they were hardened, perverse, and unworthy of further interaction. The hope remains that, after his resurrection, the voice of his Gospel would be clearly heard, even amidst their spiritual adultery and blinded understanding.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.75,
+            "qualityScore": 1.4590910979574927,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.86,
+            "commentatorTierSimilarities": [
+                35.52,
+                28.54,
+                35.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Sadducees, a wicked and adulterous generation, persisted in demanding signs, never satisfied and continually seeking to test God. Jesus, deeply grieved by their unbelief, sighed in his spirit, recognizing their blindness. As they provoked God with their deliberate desire to tempt Him, He chose to leave them, seeing them as hardened and unworthy. Yet, there remains hope that the voice of the Gospel will be heard even among their spiritual adultery and blinded understanding.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4489246229150106,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                31.25,
+                29.98,
+                38.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees and Sadducees, characterized as a wicked and adulterous generation, persistently demanded signs, provoking God with their deliberate desire to test Him. Jesus, deeply grieved by their unbelief, sighed in his spirit, recognizing their blindness and hardened hearts. He chose to leave them, considering them unworthy of further interaction. However, amidst their spiritual adultery and blinded understanding, there is hope that the voice of the Gospel will be heard even after His resurrection.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.3866141747836531,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.45,
+            "commentatorTierSimilarities": [
+                31.4,
+                32.45,
+                36.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Sadducees, described as a wicked and adulterous generation, had an insatiable desire for signs while continually testing God. Jesus, deeply grieved by their unbelief, sighed in his spirit, acknowledging their blindness and hardened hearts. In response, He decided to leave them, recognizing their unworthiness and perverse nature. Nevertheless, there is hope that the voice of the Gospel will prevail, reaching even those who engage in spiritual adultery and have a clouded understanding.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4154551587710795,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                33.04,
+                28.84,
+                38.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Sadducees, known as a wicked and adulterous generation, consistently sought signs, unhindered by disbelief, provoking God in their deliberate desire to test Him. Jesus, deeply grieved by their unbelief, sighed in his spirit, recognizing the blindness that characterized them. He chose to leave them behind, as they were hardened, perverse, and unworthy of further association. However, there is hope that after His resurrection, the message of the Gospel will resound, even among those engaged in spiritual adultery and hampered understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.4463784151686419,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "commentatorTierSimilarities": [
+                32.48,
+                29.84,
+                37.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

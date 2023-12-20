@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:53",
+    "verseRef": "Matthew 26:73",
+    "bestBHT": {
+        "bht": "The Galileans, known for their difficulty in pronouncing gutturals, had a unique dialect that gave away their origin. When Peter spoke, his speech betrayed him and exposed him as one of Jesus' disciples. Despite his denial and swearing, it was his Galilean dialect that revealed his association with Jesus. This demonstrates the providence of God, as the world often relies on the weakest arguments to oppose the people of God.",
+        "wordCount": 70,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.4842416374181506,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+        "commentatorTierSimilarities": [
+            37.38,
+            26.61,
+            36.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "73.] thy speech\u2014Wetstein gives many examples of various provincial dialects of Hebrew. The Galil\u00e6ans could not pronounce properly the gutturals, and they used \u201ct\u201d for \u201cs\u201d."
+        ],
+        "Albert Barnes": [
+            "Thy speech bewrayeth thee - Your language makes it manifest that you are of his company.",
+            "It is probable that the Galileans were distinguished for some peculiarity of pronunciation, perhaps some unique rusticity or coarseness in their manner of speaking.",
+            "This charge, John says John 18:26, was supported by the express affirmation of a kinsman of Malchus, the servant of the high priest, that he had seen him in the garden."
+        ],
+        "Philip Schaff": [
+            "An hour...so that the second cock-crowing followed immediately.\" ",
+            "Surely thou also art one of them, as if to offset his oath (Matthew 26:72): for even thy speech bewrayeth thee.",
+            "The Galilean dialect was peculiar, not making a distinction between the guttural sounds, etc.; a ready means of detection."
+        ],
+        "Archibald T. Robertson": [
+            "His speech betrayed him.",
+            "Even the Revised Version retains 'bewrayeth,' quaint old English for 'betrayeth.'",
+            "The Galileans had difficulty with the gutterals and Peter's second denial had exposed him to the tormenting raillery of the loungers who continued to nag him."
+        ],
+        "John Gill": [
+            "Surely thou also art one of them, for thy speech betrayeth thee.",
+            "Not his spiritual speech, for he had not been speaking in the language of a disciple of Christ, like one that had been with Jesus; nor his swearing neither, for this rather showed him to be one of them.",
+            "Peter using this dialect, was known to be a Galilean: just as the Ephraimites were known by their pronouncing Shibboleth, Sibboleth."
+        ],
+        "John Wesley": [
+            "Such is the overruling providence of God, that the world, in the height of their zeal, commonly catch hold of the very weakest of all arguments against the children of God.",
+            "Malchus might have brought a stronger proof than this.\" ",
+            "But such is the overruling providence of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Galileans, known for their difficulty in pronouncing gutturals, had a unique dialect that gave away their origin. When Peter spoke, his speech immediately betrayed him and exposed him as one of Jesus' disciples. This was evident to those around him, who taunted him and accused him of being one of them. Despite Peter's denial and swearing, it was his Galilean dialect that ultimately revealed his association with Jesus. This shows the providence of God, as even the weakest arguments can be used by the world against the children of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4008084093767659,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.92,
+            "commentatorTierSimilarities": [
+                34.76,
+                28.09,
+                37.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Galileans had difficulty pronouncing certain sounds, such as the gutturals, and their unique dialect became a means of identifying them. When Peter spoke, his speech immediately gave him away as one of Jesus' disciples. Despite his denials and swearing, it was his Galilean accent that ultimately exposed his association with Jesus. This incident reveals the providence of God, as even the weakest arguments can be seized upon by the world to counter the claims of the children of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4010954047896351,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                34.53,
+                29.16,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Galileans, known for their difficulty in pronouncing gutturals, had a unique dialect that gave away their origin. When Peter spoke, his speech betrayed him and exposed him as one of Jesus' disciples. Despite his denial and swearing, it was his Galilean dialect that revealed his association with Jesus. This demonstrates the providence of God, as the world often relies on the weakest arguments to oppose the people of God.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.4842416374181506,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                37.38,
+                26.61,
+                36.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Galileans had difficulty with pronouncing gutturals, and their distinct dialect often exposed their origin. Peter's speech, influenced by his Galilean background, immediately betrayed him and revealed him as one of Jesus' disciples. Despite Peter's denial and swearing, it was his Galilean accent that ultimately uncovered his association with Jesus. This serves as a testament to the providence of God, as even the weakest arguments can be grasped by the world as evidence against the children of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.461098335842279,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                37.55,
+                27.42,
+                35.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Galileans, who struggled with pronouncing gutturals, had a unique dialect that exposed their origin. When Peter spoke, his speech betrayed him, revealing him as one of Jesus' disciples. Despite his denial and swearing, it was his Galilean accent that uncovered his association with Jesus. This highlights the providence of God, as the world often seizes upon weak arguments against the children of God.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4212020277021398,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.6,
+            "commentatorTierSimilarities": [
+                34.27,
+                28.42,
+                37.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

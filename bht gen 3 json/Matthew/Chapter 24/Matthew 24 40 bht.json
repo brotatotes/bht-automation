@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:52:39",
+    "verseRef": "Matthew 24:40",
+    "bestBHT": {
+        "bht": "Jesus reveals that, like in the time of Noah, people will be engrossed in their daily tasks when disaster suddenly strikes. This suggests that God's chosen people will remain intertwined with the world until the very end. The present tense of the verbs taken and left adds immediacy and vitality to the saying. The reference to being taken does not pertain to the final judgment, but rather to the gathering of the elect during the millennial period. Jesus speaks as if he is witnessing the event unfold before his very eyes.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.5072757180059966,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+        "commentatorTierSimilarities": [
+            45.66,
+            35.07,
+            19.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These verses set forth that, as in the times of Noah, men and women shall be employed in their ordinary work.",
+            "They also show us that the elect of God will to the last be mingled in companionship and partnership with the children of this world.",
+            "Nor again do they refer to the great judgment of ch. xxv. 31, for then (ver. 32) all shall be summoned: but they refer to the millennial dispensation, and the gathering of the elect to the Lord then."
+        ],
+        "Albert Barnes": [
+            "The calamity will come suddenly. There will be no escape for those whom it overtakes.",
+            "The word 'taken' may mean either to be taken away from the danger - that is, rescued, as Lot was, or to be taken away 'by death'. Probably the latter is the meaning."
+        ],
+        "Marvin Vincent": [
+            "Shall be taken - left. Both verbs are in the present tense, which makes the saying more lively. One is taken and one if left. So Rev."
+        ],
+        "John Calvin": [
+            "Perhaps, too, regret at leaving her nest, in which she had dwelt with comfort, induced her to turn her head.\" ",
+            "Our minds ought to be strengthened by the constancy of faith, that they may not hesitate and give way in the middle of the course.",
+            "Christ declares, as we find in Matthew\u2014that he is the banner of solid union, and in which all the children of God must be gathered."
+        ],
+        "Philip Schaff": [
+            "Until that time Christ\u2019s people are to be in companionship with the world.",
+            "The one \u2018taken\u2019 is the blessed one. There is no direct allusion to death.",
+            "This differs from the event referred to in Matthew 24:16-18, where voluntary flight is commanded, and from the judgment (chap. Matthew 25:31 ff.) where all are gathered."
+        ],
+        "John Gill": [
+            "the one shall be taken; not by the preaching of the Gospel, into the kingdom of God, or Gospel dispensation; though such a distinction God makes, by the ministry of the word, accompanied by his Spirit and power; nor by angels, to meet Christ in the air, and to be introduced into his kingdom and glory; but by the eagles, the Roman army, and either killed or carried captive by them.",
+            "and the other left; not in a state of nature and unregeneracy, as many are, to whom the Gospel is preached; nor with devils at the last day, to be thrust down by them into the infernal regions; but by the Romans, being by some remarkable providence, or another, delivered out of their hands.",
+            "which was the case of some few, and these of the meaner sort; and therefore persons of a rural life and occupation are instanced in."
+        ],
+        "John Wesley": [
+            "One is taken \u2014 Into God's immediate protection.",
+            "One is left - To share the common calamities.",
+            "Our Lord speaks as having the whole transaction present before his eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 24:40, Jesus explains that just as in the days of Noah, people will be going about their daily work when sudden calamity strikes. This shows that the elect of God will remain in close proximity with the children of this world until the end. The present tense of the verbs taken and left emphasizes the immediacy and vividness of the events. The mention of being taken does not refer to the great judgment, but rather to the millennial dispensation and the gathering of the elect to the Lord during that time. Ultimately, one who is taken is the blessed one, possibly rescued from danger or taken away by death, while the one left will share in the common calamities. Jesus describes this scene as if he is witnessing it in real time.",
+            "wordCount": 133,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 1.6421187775999877,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                44.16,
+                33.06,
+                22.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reveals that, like in the time of Noah, people will be engrossed in their daily tasks when disaster suddenly strikes. This suggests that God's chosen people will remain intertwined with the world until the very end. The present tense of the verbs taken and left adds immediacy and vitality to the saying. The reference to being taken does not pertain to the final judgment, but rather to the gathering of the elect during the millennial period. Jesus speaks as if he is witnessing the event unfold before his very eyes.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5072757180059966,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                45.66,
+                35.07,
+                19.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's teachings in Matthew 24:40 illustrate that, just as in Noah's time, people will be engaged in their regular activities when sudden calamity strikes. This implies that God's chosen ones will continue to be intertwined with the world until the very end. The use of the present tense verbs taken and left adds immediacy and liveliness to the saying. The reference to being taken does not refer to the final judgment, but rather to the gathering of the elect during the millennial age. Jesus speaks as if he is observing the events directly.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5766535387024856,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                48.31,
+                33.14,
+                18.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's words in this passage highlight the similarity between the times of Noah and the end of the age, where people are found diligently working and living their lives without realizing the impending calamity. These verses indicate that God's chosen ones will remain closely associated with the world until the very end, emphasizing the mingling of the elect with the rest of humanity. The present tense of the verbs taken and left vividly portrays the suddenness and immediacy of the events, suggesting a sense of urgency.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.6536012228920498,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                50.16,
+                27.35,
+                22.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The teachings of Jesus in this verse draw parallels between the times of Noah and the future, when people will be going about their ordinary work while unaware of the impending catastrophe. The passage highlights how God's chosen ones will remain in companionship with the world until the very end. The present tense verbs taken and left add vibrancy to the saying, indicating that one is taken, possibly rescued from danger or taken away by death, while the other is left to share in the calamities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7900631400262679,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                43.91,
+                35.15,
+                20.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

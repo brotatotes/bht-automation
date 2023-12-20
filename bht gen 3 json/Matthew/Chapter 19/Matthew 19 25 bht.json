@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:50:11",
+    "verseRef": "Matthew 19:25",
+    "bestBHT": {
+        "bht": "The disciples were astonished to hear that it was difficult for a rich man to enter the kingdom of God because they still clung to the idea of a worldly kingdom. However, this question should concern us as well, for riches can obstruct our path to God's kingdom. We must be aware of the countless obstacles that may arise, and it is important for us to tremble at God's warnings and be determined to seek His salvation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.3144275574809479,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+        "commentatorTierSimilarities": [
+            31.65,
+            21.19,
+            47.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who, not What rich man, which would have been a far shallower and narrower enquiry...",
+            "Besides the usual reason given for this question, 'since all are striving to be rich,' we must remember that the disciples yet looked for a temporal Kingdom...",
+            "...and therefore would naturally be dismayed at hearing that it was so difficult for any rich man to enter it."
+        ],
+        "John Calvin": [
+            "It ought to awaken in us no little anxiety, that riches obstruct the entrance into the kingdom of God.\" ",
+            "Wherever we turn our eyes, a thousand obstacles will present themselves.\" ",
+            "It will be of service to us to tremble at the threatenings of God: whenever he denounces anything that is gloomy or dreadful, provided that our minds are not discouraged, but rather aroused."
+        ],
+        "Philip Schaff": [
+            "Who then can be saved?\" ",
+            "Since all may have some possessions, and naturally love to have more.",
+            "Their temporal views of the kingdom were also mixed with their question."
+        ],
+        "Archibald T. Robertson": [
+            "Were astonished (\u03b5\u03be\u03b5\u03c0\u03bb\u03b7\u03c3\u03c3\u03bf\u03bd\u03c4\u03bf). Imperfect descriptive of their blank amazement. They were literally \"struck out.\" "
+        ],
+        "John Gill": [
+            "They were, as Mark says, 'astonished out of measure': they did not imagine there was any difficulty of rich men coming into the kingdom of the Messiah, which they took to be a worldly one, and would be filled with rich men.",
+            "But when he expressed, by the proverb, the impracticableness of such men becoming the subjects thereof, their amazement increased.",
+            "Who then can be saved? meaning, not with a spiritual and everlasting salvation, but a temporal one."
+        ],
+        "John Wesley": [
+            "If rich men, with all their advantages, cannot [be saved]? Who? A poor man; a peasant; a beggar: ten thousand of them, sooner than one that is rich.",
+            "His disciples were amazed, saying, Who then can be saved?",
+            "A poor man; a peasant; a beggar: ten thousand of them, sooner than one that is rich."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were astonished to hear that it was difficult for a rich man to enter the kingdom of God, for they still held onto the notion of a worldly kingdom. However, this question of who can be saved should not only be of concern to them, but to us as well. It serves as a reminder that riches can obstruct our path to God's kingdom and that there are countless obstacles that may present themselves along the way. Therefore, we ought to tremble at God's warnings and not be discouraged, but rather be awakened and determined to seek His salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 1.3443022237263698,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.04,
+            "commentatorTierSimilarities": [
+                28.56,
+                25.95,
+                45.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were astonished to hear that it was difficult for a rich man to enter the kingdom of God because they still clung to the idea of a worldly kingdom. However, this question should concern us as well, for riches can obstruct our path to God's kingdom. We must be aware of the countless obstacles that may arise, and it is important for us to tremble at God's warnings and be determined to seek His salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3144275574809479,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                31.65,
+                21.19,
+                47.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, being astonished, asked, Who then can be saved? Their question reflected their disbelief that it was so difficult for a rich man to enter the kingdom of God. They were not just inquiring about a rich man, but understanding the implications it had for themselves, as they still held onto their temporal views of the kingdom. This should cause us to be concerned about how riches can obstruct our entrance into the kingdom. There are many obstacles that can deter us, but it is important for us to take God's warnings seriously and not be discouraged, but rather awakened to the seriousness of our spiritual state.",
+            "wordCount": 109,
+            "quoteTokenProportion": 52.7,
+            "qualityScore": 1.5145573384390016,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.7,
+            "commentatorTierSimilarities": [
+                34.54,
+                26.01,
+                39.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, in their amazement, asked, Who then can be saved? Their astonishment stemmed from their belief that it would be easier for a rich man to enter the kingdom of God. However, this question should also prompt us to examine our own hearts and consider how riches can hinder our journey towards salvation. It is crucial that we do not underestimate the obstacles that lie before us, and instead take heed of God's warnings, allowing them to awaken us to the urgency of our spiritual condition.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.4336495122580954,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                30.46,
+                27.31,
+                42.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their disbelief, the disciples were struck with astonishment and asked, Who then can be saved? This question arose from their expectation of an earthly, temporal kingdom, and their recognition that wealth could hinder one's entrance into it. It is vital for us to acknowledge the potential obstacles that riches can pose in our pursuit of salvation. Let us not be discouraged by the challenges, but rather respond with a sense of urgency, trembling at God's warnings, and seeking His grace to overcome any hindrances.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.3710583668919871,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+            "commentatorTierSimilarities": [
+                33.36,
+                25.39,
+                41.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:50:17",
+    "verseRef": "Matthew 19:26",
+    "bestBHT": {
+        "bht": "Salvation, in general and even for the least likely, is beyond human capability. Only God has the power to save, emphasizing the inability of humankind to save themselves or others. Jesus reinforces the truth that with men, salvation is impossible both in judgment and action. However, God's grace can overcome the obstacles presented by wealth and save those who are rich. Jesus, in His compassion, encourages the disciples to rely on the grace of God alone and expect His intervention through prayer.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.9177077031315424,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+        "commentatorTierSimilarities": [
+            30.33,
+            36.57,
+            33.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This, salvation in general, and even of those least likely to be saved.",
+            "In the estimation of the least likely to be saved.",
+            "Reaching into the spiritual doctrines of the Gospel, which they could not yet apprehend."
+        ],
+        "Marvin Vincent": [
+            "Not the salvation of rich men, but salvation in general.",
+            "Man cannot save himself nor his fellow.",
+            "God only can save him."
+        ],
+        "John Calvin": [
+            "He teaches them to rely on the grace of God alone, and, at the same time, excites them to prayer.",
+            "The weakness of men is seasonably relieved, not by ascribing anything to them, but by arousing their minds to expect the grace of God.",
+            "Christ plainly declares that it is not possible for men to keep the way of salvation, except so far as the grace of God assists them."
+        ],
+        "Philip Schaff": [
+            "With men this is impossible. Not only in their judgment, but with their power.",
+            "God\u2019s grace not only can, but does, save some who are rich in spite of all the hindrances their wealth occasions.",
+            "To give force to this profound statement, and perhaps in kindly sympathy with their weakness and want of understanding."
+        ],
+        "Archibald T. Robertson": [
+            "Looking on them (\u03b5\u03bc\u03b2\u03bb\u03b5\u03c8\u03b1\u03c2). Jesus saw their amazement. "
+        ],
+        "John Gill": [
+            "For as he could, by his almighty power, if he would, reduce a camel to so small a size, as to be able to go through the eye of a needle, which, with men, is an impossible thing; so by the mighty power of his grace he can work upon a rich man's heart.",
+            "He can change his heart, and cause the desires of his soul to be after true riches of grace and glory; and bring him to see his own spiritual poverty, his need of Christ, and salvation by him; and to deny himself, take up the cross, and follow him.",
+            "Though, humanly speaking, it was not possible and practicable... yet God was able to support, and uphold them, succeed, and keep them, and make them both useful and comfortable, amidst all the opposition and persecution they should meet with, until he had finished his whole will and work by them."
+        ],
+        "John Wesley": [
+            "Jesus looking upon them \u2014 To compose their hurried spirits. O what a speaking look was there!\" ",
+            "Said to them - With the utmost sweetness.",
+            "With men this is impossible - It is observable, he does not retract what he had said: no, nor soften it in the least degree, but rather strengthens it, by representing the salvation of a rich man as the utmost effort of Omnipotence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Salvation, not just for the rich but for all, is impossible for humans to achieve on their own. Only God, by His grace, can save us. This truth, though difficult for people to comprehend, is of utmost importance. Jesus, in His kindness and understanding, reminds His disciples to rely solely on the grace of God, guiding them to pray and expect His intervention. While it may seem humanly impossible for a rich person to enter the kingdom of God, God's grace can transform their heart and redirect their desires towards true riches. Jesus, with a compassionate look and sweet words, emphasizes that it is by the power of God alone that salvation is possible.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.812388246663203,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                27.64,
+                37.12,
+                35.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salvation, not just for the rich but for all, is impossible for humans alone. God's grace is the only means of salvation. Jesus urges His disciples to trust in the grace of God and engage in prayer. Despite the seemingly insurmountable challenges faced by the wealthy, God's transformative power can change their hearts and redirect their desires toward spiritual riches. With a compassionate look and tender words, Jesus underscores the impossibility of human effort and the necessity of relying solely on the power of God for salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8302856857847138,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                29.17,
+                34.38,
+                36.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salvation, in general and even for the least likely, is beyond human capability. Only God has the power to save, emphasizing the inability of humankind to save themselves or others. Jesus reinforces the truth that with men, salvation is impossible both in judgment and action. However, God's grace can overcome the obstacles presented by wealth and save those who are rich. Jesus, in His compassion, encourages the disciples to rely on the grace of God alone and expect His intervention through prayer.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9177077031315424,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                30.33,
+                36.57,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salvation, not just for rich individuals but for all, is unattainable through human efforts. It is solely by the grace of God that salvation can be achieved. Recognizing the disciples' amazement and their limited understanding, Jesus directs them to trust in God's grace and encourages prayer. Despite the perceived impossibility of a rich person's salvation, God's transformative power can truly change their heart and incline them towards spiritual riches. Jesus, with His compassionate gaze and gentle words, reaffirms the concept that salvation is only attainable through the omnipotence of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9089473997886843,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                29.17,
+                34.32,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salvation is unachievable by human effort and intellect alone. Only the grace of God has the power to save, even the least likely individuals. The disciples, astounded by this truth, are reminded to rely solely on God's grace and to foster expectation through prayer. While it may seem impossible for the rich to enter the kingdom of God, God's transformative grace can change their hearts and align their desires with spiritual riches. Jesus, with His compassionate gaze and tender words, emphasizes the indispensability of God's power for salvation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.831113171100922,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                28.11,
+                35.6,
+                36.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

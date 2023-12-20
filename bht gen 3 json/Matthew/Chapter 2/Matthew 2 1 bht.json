@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:56",
+    "verseRef": "Matthew 2:1",
+    "bestBHT": {
+        "bht": "Bethlehem, the House of Bread, was the birthplace of Jesus, the Bread of Life. The wise men, or Magi, traveled from afar and followed a star appointed by God to find the Messiah. Although Herod, driven by cruelty and fear, sought to kill the newborn King, the Gentile wise men paid homage to Him, representing the first fruits of converts from the Gentile nations. This event foreshadowed the reception and rejection of Jesus, as the Gentiles welcomed Him and the Jews rejected Him.",
+        "wordCount": 83,
+        "quoteTokenProportion": 25.93,
+        "qualityScore": 2.211266338532715,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+        "commentatorTierSimilarities": [
+            33.36,
+            33.15,
+            33.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Bethlehem-Judah is used...Another name for our Bethlehem was Ephrath...or Ephrata.\" ",
+            "HEROD THE GREAT...sought to strengthen his throne by a series of cruelties and slaughters...His cruelties, and his affectation of Gentile customs, gained for him a hatred among the Jews.\" ",
+            "From what has been written on the subject it would appear...there were magi, at least persons who in the wider sense of the word were now known by the name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But how came Joseph and Mary to remove thither from Nazareth, the place of their residence? Not of their own accord, and certainly not with the view of fulfilling the prophecy regarding Messiah's birthplace; nay, they stayed at Nazareth till it was almost too late for Mary to travel with safety; nor would they have stirred from it at all, had not an order which left them no choice forced them to the appointed place. A high hand was in all these movements.",
+            "As Herod is known to have died in the year of Rome 750, in the fourth year before the commencement of our Christian era, the birth of Christ must be dated four years before the date usually assigned to it, even if He was born within the year of Herod's death, as it is next to certain that He was.",
+            "Balaam's prophecy (Genesis 49:10- :), and perhaps Daniel's (Genesis 49:10- :, c.), might have come down to them by tradition but nothing definite is known of them."
+        ],
+        "Albert Barnes": [
+            "Bethlehem, the birthplace of Christ, was a small town about six miles south of Jerusalem.",
+            "The word 'Bethlehem' denotes 'house of bread' - perhaps given to the place on account of its great fertility.",
+            "The persons here denoted were philosophers, priests, or astronomers. They lived chiefly in Persia and Arabia. They were the learned men of the Eastern nations."
+        ],
+        "Marvin Vincent": [
+            "Bethlehem. Hebrew, House of Bread, probably from its fertility. The birthplace of him who calls himself the Bread of Life.",
+            "Wise men, or Magi [\u03bc\u03b1\u03b3\u03bf\u03b9]. A priestly caste among the Persians and Medes, which occupied itself principally with the secrets of nature, astrology, and medicine.",
+            "Many absurd traditions and guessed respecting these visitors to our Lord's cradle have found their way into popular belief and into Christian art."
+        ],
+        "John Calvin": [
+            "A beautiful instance of real harmony, amidst apparent contradiction, is here exhibited.",
+            "God brought Magi from Chaldea, to come to the land of Judea, for the purpose of adoring Christ, in the stable where he lay, amidst the tokens, not of honor, but of contempt.",
+            "The heavenly Father chose to appoint the star and the Magi as our guides, to lead directly to his Son: while he stripped him of all earthly splendor, for the purpose of informing us that his kingdom is spiritual."
+        ],
+        "Philip Schaff": [
+            "Its insignificance and its honor are contrasted in the prophecy (Micah 5:2) quoted by the scribes.",
+            "They are justly regarded as the first fruits and representatives of heathen converts to Christianity.",
+            "The hope of a Saviour was given to the Jews as a chosen race, but the same hope was given to chosen individuals among the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "The main purpose is to show the reception given by the world to the new-born Messianic King. Homage from afar, hostility at home; foreshadowing the fortunes of the new faith: reception by the Gentiles, rejection by the Jews.",
+            "Jesus, who was born in this House of Bread called himself the Bread of Life (John 6:35), the true Manna from heaven.",
+            "The notion that they were kings arose from an interpretation of Isaiah 60:3; Revelation 21:24."
+        ],
+        "John Gill": [
+            "Bethlehem signifies 'the house of bread', and in it was born, as an ancient writer observes, the bread which comes down from heaven.",
+            "The more generally received opinion seems to be most right, that they [the wise men] came from Persia, which as it lies east of Judea, so was famous for this sort of men.",
+            "This their coming was near upon two years after the birth of Christ; since it is afterwards observed, that 'Herod sent and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under'\"."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Bethlehem, also known as Ephrath, was the birthplace of Jesus. It was a place of great significance, as it was where the Bread of Life was born. The wise men, also known as Magi, traveled from afar to pay homage to the new Messiah, while Herod, driven by his cruelty and fear, sought to kill the newborn King. This event foreshadowed the reception and rejection of Jesus - the Gentiles welcoming Him, and the Jews rejecting Him. The wise men, representatives of the first fruits of the Gentile converts, followed a star appointed by God to find Jesus, while He was born in a humble stable, stripped of earthly splendor. Their visit signaled the longing for a Savior among both the Jews and the Gentiles.",
+            "wordCount": 124,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 2.1470063529264634,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                32.29,
+                34.76,
+                32.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Bethlehem, or Ephrath, was the birthplace of Jesus, the Bread of Life. The wise men, or Magi, traveled from afar to pay homage to the Messiah, while Herod, through cruelty and fear, sought to kill the newborn King. This event foreshadowed the reception and rejection of Jesus, with the Gentiles welcoming Him and the Jews rejecting Him. The wise men, representatives of the first fruits of Gentile converts, followed a star to find Jesus in a humble stable. Their visit signaled the longing for a Savior among both Jews and Gentiles.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.171860426739259,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+            "commentatorTierSimilarities": [
+                32.36,
+                34.99,
+                32.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Bethlehem, also known as Ephrath, was the birthplace of Jesus, the Bread of Life. The wise men, or Magi, traveled from afar to pay homage to the Messiah, while Herod, driven by cruelty and fear, sought to kill the newborn King. This event foreshadowed the reception and rejection of Jesus - the Gentiles welcoming Him, the Jews rejecting Him. The wise men, representatives of the first fruits of Gentile converts, followed a star appointed by God to find Jesus in a humble stable. Their visit signaled the longing for a Savior among both Jews and Gentiles.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.1905842417510617,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+            "commentatorTierSimilarities": [
+                32.44,
+                35.26,
+                32.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bethlehem, the House of Bread, was the birthplace of Jesus, the Bread of Life. The wise men, or Magi, traveled from afar and followed a star appointed by God to find the Messiah. Although Herod, driven by cruelty and fear, sought to kill the newborn King, the Gentile wise men paid homage to Him, representing the first fruits of converts from the Gentile nations. This event foreshadowed the reception and rejection of Jesus, as the Gentiles welcomed Him and the Jews rejected Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.211266338532715,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                33.36,
+                33.15,
+                33.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Bethlehem, also known as Ephrath, was the birthplace of Jesus, the Bread of Life. The wise men, known as Magi, journeyed from afar to pay homage to the Messiah, following a star appointed by God. Despite Herod's cruelty and fear, the Gentile wise men worshipped Jesus, representing the first fruits of Gentile converts to Christianity. This event foreshadowed the contrasting reception and rejection of Jesus, with the Gentiles embracing Him and the Jews rejecting Him. Jesus, born in humility, fulfilled the prophecies as the long-awaited Savior.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 2.205985981583589,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                32.89,
+                33.82,
+                33.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:04",
+    "verseRef": "Matthew 5:41",
+    "bestBHT": {
+        "bht": "When compelled to go a mile, our Savior advises going the extra mile, emphasizing peace and a willingness to submit to unreasonable demands. This is exemplified by an official forcing a traveler to carry a letter, similar to Simon of Cyrene carrying the cross for Christ. Instead of arguing or resisting, the focus is on gladly complying and displaying a humble spirit. This extends to any situation where unreasonable demands arise, encouraging endurance of double hardship for the sake of maintaining peace.",
+        "wordCount": 82,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.521541982566135,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+        "commentatorTierSimilarities": [
+            34.21,
+            31.29,
+            34.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The original word is one derived from the Persian name of the post-couriers who carried the government despatches: and is thence used of any compulsory 'pressing' to go on service.\" ",
+            "The Jews particularly objected to the duty of furnishing posts for the Roman government; and Demetrius, wishing to conciliate the Jews, promised, among other things, that their beasts of burden should not be pressed for service.",
+            "Hence our Saviour represents this as a burden."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And whosoever shall compel thee to go a mile, go with him twain\u2014an allusion...to the practice of the Romans and some Eastern nations...",
+            "...the thing here demanded is a readiness to submit to unreasonable demands of whatever kind, rather than raise quarrels...",
+            "What follows is a beautiful extension of this precept."
+        ],
+        "Marvin Vincent": [
+            "A man is travelling, and about to pass a post-station, where horses and messengers are kept in order to forward royal missives as quickly as possible.\" ",
+            "An official rushes out, seizes him, and forces him to go back and carry a letter to the next station, perhaps to the great detriment of his business.",
+            "The word is of Persian origin, and denotes the impressment into service, which officials were empowered to make of any available persons or beasts on the great lines of road where the royal mails were carried by relays of riders."
+        ],
+        "Philip Schaff": [
+            "Impress thee...includes also the quartering of soldiers, and military requisitions, etc.\" ",
+            "A mile, a thousand Roman paces, about 1 , 520 yards (less than an English mile), but the proportion, one to two, is the main point.",
+            "Endure double hardship, even when it seems most unjust, rather than angrily refuse."
+        ],
+        "Archibald T. Robertson": [
+            "The word is of Persian origin and means public couriers or mounted messengers (\u03b1\u03b3\u03b3\u03b1\u03c1\u03bf) who were stationed by the King of Persia at fixed localities, with horses ready for use, to send royal messages from one to another.",
+            "So if a man is passing such a post-station, an official may rush out and compel him to go back to another station to do an errand for the king.",
+            "This very thing was done to Simon of Cyrene who was thus compelled to carry the cross of Christ."
+        ],
+        "John Gill": [
+            "Christ advises, rather than to contend and quarrel with such a person, that obliges to go with him a mile, to go with him twain: his meaning is, not to dispute such a matter, though it may be somewhat laborious and disagreeable, but comply, for the sake of peace.",
+            "The Jews, in their blasphemous book of the birth of Christ, own that he gave advice in such words as these.",
+            "Can a Jew find fault with this advice?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone compels you to go a mile with them, whether it be to carry a letter or fulfill some other undesired task, our Savior instructs us to go the extra mile and willingly comply. This may seem burdensome and unfair, but Jesus emphasizes the importance of peace and a readiness to submit to unreasonable demands. He uses the example of a traveler being forced to carry a letter by an official at a post-station, a situation that may have even happened to Simon of Cyrene when he carried the cross for Christ. The focus here is not on arguing or resisting, but on displaying a humble and willing spirit.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.5314251665778942,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                34.43,
+                30.51,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When compelled to go a mile with someone, our Savior encourages us to go the extra mile, demonstrating a readiness to submit to unreasonable demands. This concept is illustrated through the example of a traveler being forcefully sent back to another station by an official to carry a letter. Despite the potential burden, Jesus calls for a peaceful response and a willingness to comply. The emphasis is on avoiding conflict and displaying a humble spirit, as seen in the act of Simon of Cyrene carrying the cross for Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.425560347004036,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+            "commentatorTierSimilarities": [
+                40.34,
+                25.51,
+                34.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When someone compels you to go a mile, our Savior advises going the extra mile, emphasizing the importance of peace and submitting to unreasonable demands. He uses the example of an official forcing a traveler to carry a letter, echoing the act of Simon of Cyrene carrying the cross for Christ. Rather than quarreling or resisting, the focus is on willingly complying and displaying a humble spirit. This advice extends to any situation where unreasonable demands may arise, encouraging a readiness to endure double hardship for the sake of peace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.513296351951398,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                31.76,
+                30.52,
+                37.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When compelled to go a mile, our Savior advises going the extra mile, emphasizing peace and a willingness to submit to unreasonable demands. This is exemplified by an official forcing a traveler to carry a letter, similar to Simon of Cyrene carrying the cross for Christ. Instead of arguing or resisting, the focus is on gladly complying and displaying a humble spirit. This extends to any situation where unreasonable demands arise, encouraging endurance of double hardship for the sake of maintaining peace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.521541982566135,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                34.21,
+                31.29,
+                34.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When compelled to go a mile, our Savior urges us to go the extra mile, highlighting the significance of peace and the willingness to submit to unreasonable demands. He provides the example of an official forcing a traveler to carry a letter, akin to Simon of Cyrene carrying the cross for Christ. Rather than engaging in disputes or resistance, the emphasis lies on complying willingly and demonstrating a humble disposition. This instruction can be applied to various situations involving unreasonable demands, encouraging endurance of double hardship for the sake of peace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4728766538979796,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                33.61,
+                32.74,
+                33.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

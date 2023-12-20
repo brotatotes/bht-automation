@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:48:33",
+    "verseRef": "Matthew 15:10",
+    "bestBHT": {
+        "bht": "Jesus turns his attention away from the silenced Scribes and Pharisees to address the teachable multitude. In a concise and powerful manner, he presents the principle of genuine pollution, arising from deviations from God's eternal law. Jesus emphasizes the importance of understanding, urging the people to hear and understand the true meaning beyond external practices and physical cleanliness. Recognizing their receptiveness, Jesus invites the common people to draw closer, offering them the chance to grasp the deeper teachings that require true comprehension and engagement.",
+        "wordCount": 85,
+        "quoteTokenProportion": 20.63,
+        "qualityScore": 1.4617299024527006,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "commentatorTierSimilarities": [
+            54.45,
+            22.78,
+            22.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] \u201cHe leaves the Scribes and Pharisees, as incorrigible, and already silenced and put to shame, and turns His discourse to the multitude as more worthy of being addressed.\u201d Euthymius."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With admirable plainness, strength, and brevity, [Jesus] lays down the great principle of real pollution, by which a world of bondage and uneasiness of conscience would be dissipated in a moment.\" ",
+            "The sense of sin [is] reserved for deviations from the holy and eternal law of God.",
+            "Hear and understand."
+        ],
+        "John Calvin": [
+            "The kingdom of God does not consist in meat and drink.",
+            "Every kind of defilement proceeds from ourselves.",
+            "It would be the height of madness to think of exercising greater moderation than we have been taught to do by our heavenly Master."
+        ],
+        "Philip Schaff": [
+            "Without answering the question about \u2018washing of hands,\u2019 He turns to the people...",
+            "...these hypocrites, though the zealous expounders of the law, cannot understand its real sense.",
+            "...cannot understand its real sense."
+        ],
+        "John Gill": [
+            "He leaves them, as both disliking them, and despairing of them, and calls to the common people; who, through their great veneration for these men, upon their coming withdrew, and stood at a distance; nor indeed would they admit them very near unto them, lest they should be polluted by them.",
+            "Christ, I say, calls to these to come nearer to him, hoping better of them, and knowing that they were more tractable, and teachable.",
+            "Barely to hear with the outward hearing of the ear, will be of no service, unless what is heard is understood; and that the way to understand, is to hear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 15:10, Jesus shifts his message from the Scribes and Pharisees, who have been silenced and exposed as hypocrites, to address the multitude. With clarity and brevity, Jesus establishes the fundamental principle of true pollution, which stems from deviations from God's holy and eternal law. He implores the people to listen and understand, emphasizing that the kingdom of God does not consist of mere external rituals or physical cleanliness. Instead, Jesus highlights that all forms of defilement originate from within individuals themselves. In calling the common people to draw near, Jesus recognizes their teachability and is hopeful for their receptiveness. However, it is crucial not only to hear but also to understand, for true understanding comes from active engagement and comprehension of God's teachings.",
+            "wordCount": 126,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 1.311587068176674,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                48.64,
+                23.09,
+                28.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus redirects his attention from the Scribes and Pharisees, who have been silenced and shamed, to address the multitude. He succinctly presents the concept of genuine pollution, arising from transgressions against God's timeless law. Jesus urges the people, Hear and understand, emphasizing that the kingdom of God surpasses outward practices. Rather, defilement originates from within individuals. With hope in their teachability, Jesus invites the common people to approach him. However, true understanding requires more than hearing alone\u2014it necessitates comprehension and engagement with God's teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.2574937769183279,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.15,
+            "commentatorTierSimilarities": [
+                47.8,
+                23.02,
+                29.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus redirects his attention from the incorrigible Scribes and Pharisees, focusing on the receptive multitude. He succinctly establishes that real pollution stems from deviations from God's eternal law, differing from the superficial concerns of the hypocrites. Jesus urges the people to hear and understand, highlighting that the kingdom of God is not centered on external rituals like handwashing. Rather, defilement originates from within individuals themselves. Recognizing their teachability, Jesus calls the common people nearer, offering them the opportunity to grasp the profound teachings beyond superficial hearing.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.3520872371620736,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.3,
+            "commentatorTierSimilarities": [
+                43.94,
+                27.32,
+                28.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus turns his attention away from the silenced Scribes and Pharisees to address the teachable multitude. In a concise and powerful manner, he presents the principle of genuine pollution, arising from deviations from God's eternal law. Jesus emphasizes the importance of understanding, urging the people to hear and understand the true meaning beyond external practices and physical cleanliness. Recognizing their receptiveness, Jesus invites the common people to draw closer, offering them the chance to grasp the deeper teachings that require true comprehension and engagement.",
+            "wordCount": 85,
+            "quoteTokenProportion": 20.63,
+            "qualityScore": 1.4617299024527006,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                54.45,
+                22.78,
+                22.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, having silenced the Scribes and Pharisees, now addresses the teachable multitude. He succinctly establishes the vital principle of genuine pollution, originating from deviations against God's timeless law. Jesus exhorts the people to truly hear and understand, highlighting that the kingdom of God surpasses external rituals and physical cleanliness. Instead, defilement arises from within individuals themselves. Recognizing their receptiveness, Jesus calls the common people closer, hopeful for their teachability. True understanding requires active engagement, moving beyond mere hearing to comprehend and internalize God's teachings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 20.59,
+            "qualityScore": 1.2992596598563095,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.54,
+            "commentatorTierSimilarities": [
+                45.74,
+                25.76,
+                28.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

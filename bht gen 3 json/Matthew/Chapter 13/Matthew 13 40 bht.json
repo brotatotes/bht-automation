@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:47:28",
+    "verseRef": "Matthew 13:40",
+    "bestBHT": {
+        "bht": "At the end of the present age, the wicked will face destruction. Just as the tares are gathered and separated from the wheat, hypocritical and heretical individuals will also be gathered out from the saints. These false pretenders, as children of the devil and his angels, will be cast into everlasting burnings. This depiction reveals the ultimate fate that awaits those who choose to live in hypocrisy and oppose the truth.",
+        "wordCount": 71,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.2285025467806876,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+        "commentatorTierSimilarities": [
+            0.0,
+            32.49,
+            67.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 13:40. The destruction of the wicked is first declared; it is to take place at the end of the world, i.e., of the present order of things.",
+            "\t"
+        ],
+        "John Gill": [
+            "As therefore the tares are gathered...so shall it be in the end of this world.\" ",
+            "Hypocritical and heretical men, and all formal professors, shall be gathered out from among the saints.\" ",
+            "They shall be together cast into everlasting burnings, prepared for the devil and his angels, whose children they are."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the end of this world, the wicked will face destruction. Just as the tares are gathered and separated from the wheat, hypocritical and heretical men will be gathered out from among the saints. These individuals, who align themselves with the devil and his angels, will be cast into everlasting burnings. This verse highlights the ultimate fate of those who choose to live in hypocrisy and oppose the truth.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.2951482452691823,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.41,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.82,
+                67.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the end of this world, the destruction of the wicked shall occur. Just as the tares are gathered and separated from the wheat, hypocritical and heretical men will also be gathered out from among the saints. These individuals, as children of the devil and his angels, will be cast into everlasting burnings. This passage emphasizes the ultimate fate that awaits those who live in hypocrisy and oppose the truth.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.3155476180685273,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.24,
+                67.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the present order of things comes to an end, the wicked will face destruction. In this scenario, just as the tares are gathered and separated from the wheat, hypocritical and heretical men will also be gathered out from the saints. These individuals, who are children of the devil and his angels, will be cast into the everlasting burnings. This verse vividly illustrates the ultimate fate of those who embrace hypocrisy and stand against the truth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3102372300487357,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.91,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.09,
+                65.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the culmination of this world, the destruction of the wicked will take place. Similar to how the tares are separated from the wheat, hypocritical and heretical men will also be singled out from among the saints. These individuals, being children of the devil and his angels, will be thrown into the eternal burnings. Matthew 13:40 presents a clear picture of the eventual destiny awaiting those who live in deceit and oppose the truth.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.2533363217488769,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.41,
+                64.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the end of the present age, the wicked will face destruction. Just as the tares are gathered and separated from the wheat, hypocritical and heretical individuals will also be gathered out from the saints. These false pretenders, as children of the devil and his angels, will be cast into everlasting burnings. This depiction reveals the ultimate fate that awaits those who choose to live in hypocrisy and oppose the truth.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.2285025467806876,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.49,
+                67.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

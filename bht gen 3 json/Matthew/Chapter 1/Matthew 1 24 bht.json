@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:42:28",
+    "verseRef": "Matthew 1:24",
+    "bestBHT": {
+        "bht": "Rising from his sleep with deep and reverential joy, Joseph swiftly took Mary as his wife, bringing relief to her from the suspicions she had endured. Joseph's immediate obedience to the angel's words not only demonstrated his faith, but also showcased his commitment and love for Mary. By publicly marrying her, Joseph left no room for doubt and solidified their union, affirming the divine nature of the dream and his unwavering trust in the Lord.",
+        "wordCount": 77,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.8052861393527493,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+        "commentatorTierSimilarities": [
+            35.34,
+            27.58,
+            37.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "With what deep and reverential joy would this now be done on his part.",
+            "What balm would this minister to his betrothed one, who had till now lain under suspicions of all others the most trying to a chaste and holy woman.",
+            "Suspicions, too, arising from what, though to her an honor unparalleled, was to all around her wholly unknown!"
+        ],
+        "Albert Barnes": [
+            "Being raised from sleep - Having fully awoke.",
+            "Did as the angel of the Lord had bidden him - That is, he took Mary to wife.",
+            "Probably this was done immediately, since he was now convinced of her innocence, and, by delay, he would not leave any ground of suspicion that he had not confidence in her."
+        ],
+        "Marvin Vincent": [
+            "The or his sleep [\u03c4\u03bf\u03c5 \u03c5\u03c0\u03bd\u03bf\u03c5] . The force of the definite article; the sleep in which he had the vision. So Rev., \"Arose from his sleep.\" "
+        ],
+        "John Calvin": [
+            "The ready performance, which is here described, serves not less to attest the certainty of Joseph\u2019s faith, than to commend his obedience.",
+            "The dream must have carried some mark of Divinity, which did not allow his mind to hesitate.",
+            "Having learned the will of God, he instantly prepared himself to obey."
+        ],
+        "Philip Schaff": [
+            "Matthew 1:24. Then Joseph",
+            "\t",
+            " did. He believed, therefore he obeyed. Thus early in the Gospel is obedience represented as the fruit of faith."
+        ],
+        "Archibald T. Robertson": [
+            "Took unto him his wife.\" ",
+            "He promptly obeyed the angel and 'took his wife home'.",
+            "One can only imagine the relief and joy of Mary when Joseph nobly rose to his high duty toward her."
+        ],
+        "John Gill": [
+            "being awaked out of sleep...rising up from his bed or place where he was, immediately and without any delay\" ",
+            "firmly believing that it was a messenger of God that was sent to him, and that this matter was of the Lord",
+            "he publicly married her...continued her there, lived with her as his wife, and owned her to be such"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With deep and reverential joy, Joseph arose from his sleep and promptly obeyed the angel's command. This obedient act must have brought immense relief and joy to Mary, who had been burdened by suspicions from others. Joseph's immediate response demonstrated both his faith and his trust in the divine nature of the dream. By taking Mary as his wife and publicly marrying her, Joseph honored her and embraced his duty wholeheartedly. His actions not only affirmed his belief in the angel's message but also spoke volumes about his love and commitment to Mary.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7448217491726798,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                38.08,
+                25.82,
+                36.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With deep joy, Joseph obeyed the angel's command and took Mary as his wife, relieving her of the suspicions that had burdened her. His immediate response testified to his faith and trust in the divine nature of the dream. By publicly marrying Mary, Joseph demonstrated his love and commitment to her, solidifying their union. His actions not only affirmed his belief in the angel's message but also showcased his unwavering dedication to Mary.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7574218089477753,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                36.25,
+                27.67,
+                36.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rising from his sleep with deep and reverential joy, Joseph swiftly took Mary as his wife, bringing relief to her from the suspicions she had endured. Joseph's immediate obedience to the angel's words not only demonstrated his faith, but also showcased his commitment and love for Mary. By publicly marrying her, Joseph left no room for doubt and solidified their union, affirming the divine nature of the dream and his unwavering trust in the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8052861393527493,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "commentatorTierSimilarities": [
+                35.34,
+                27.58,
+                37.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With deep and reverential joy, Joseph arose from his sleep and promptly obeyed the angel's command. This obedient act must have brought immense relief and joy to Mary, who had been burdened by suspicions from others. Joseph's immediate response demonstrated both his faith and his trust in the divine nature of the dream. By taking Mary as his wife and publicly marrying her, Joseph honored her and embraced his duty wholeheartedly. His actions not only affirmed his belief in the angel's message but also spoke volumes about his love and commitment to Mary.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7448217491726798,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                38.08,
+                25.82,
+                36.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With deep joy, Joseph obeyed the angel's command and took Mary as his wife, relieving her of the suspicions burdening her. His immediate response testified to his faith and trust in the divine nature of the dream. By publicly marrying Mary, Joseph demonstrated his love and commitment to her, solidifying their union. His actions not only affirmed his belief in the angel's message but also showcased his unwavering dedication to Mary.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7452247500929436,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                36.27,
+                27.74,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

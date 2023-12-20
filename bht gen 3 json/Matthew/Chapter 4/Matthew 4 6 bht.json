@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:43:16",
+    "verseRef": "Matthew 4:6",
+    "bestBHT": {
+        "bht": "The devil cunningly wields Scripture, selectively omitting a clause, to tempt Jesus to showcase his sonship through a miraculous act, sidestepping the suffering he would endure otherwise. Yet, Satan's distortion of the promise unmasks his deceitful tactics, making Jesus' reliance on the Word of God essential. This episode cautions us to guard our faith by relying on Scripture alone and remaining resistant to manipulations that twist its meaning.",
+        "wordCount": 69,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.024054734380104,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+        "commentatorTierSimilarities": [
+            25.26,
+            44.59,
+            30.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is written...applying to all servants of God in general.\" ",
+            "\u00e0 fortiori to the Son of God.\" ",
+            "Not as a of the Messiah."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But what is this I see?\" exclaims stately BISHOP HALL. \"Satan himself with a Bible under his arm and a text in his mouth!",
+            "The quotation is, precisely as it stands in the Hebrew and the Septuagint, save that after the first clause the words, 'to keep thee in all thy ways,' are here omitted.",
+            "Not a few good expositors have thought that this omission was intentional, to conceal the fact that this would not have been one of 'His ways,' that is, of duty."
+        ],
+        "Albert Barnes": [
+            "The temptation here was, that he should at once avail himself of the protection of a promise of safety made to him, and thus demonstrate that he was the Messiah.",
+            "The temptation, therefore, in this case was, that by thus establishing his claim he would avoid all the obloquy, persecution, and suffering which he must otherwise endure if he attempted to prove that he was the Son of God by a life of toil and privation.",
+            "The promise, as Satan applied it, was that he should not be injured by the stones lying at the bottom of the wall or in the valley below. The case, therefore, seemed to be one that was especially contemplated by the promise."
+        ],
+        "Marvin Vincent": [
+            "In their hands [\u03b5\u03c0\u03b9] . On their hands (so Rev.) is more correct, and gives a different picture from the A. V. in : lifted on their hands, as on a litter or platform."
+        ],
+        "John Calvin": [
+            "And undoubtedly the Lord grants such a permission to our adversary, that we may not remain in indolent ease, but may be more careful to keep watch.",
+            "For the same reason, we ought to abstain from food, to avoid the risk of being poisoned.",
+            "Whenever Satan shall cover his deception by Scripture, and ungodly men shall labor to subvert our faith by the same means, let us borrow our armor exclusively from Scripture for the protection of our faith."
+        ],
+        "Philip Schaff": [
+            "But the result proves that Satan was but a surface reader, or rather a wilful perverter of the Scriptures.",
+            "This promise to all God\u2019s people seems specially applicable to \u2018the Son of God.\u2019",
+            "Satan uses it literally, tempting to a rash confidence, as in the first instance to distrust. It was also a temptation to avoid the appointed endurance, and by one striking exercise of power prove himself the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "The devil quotes the Word of God, misinterprets it, omits a clause, and tries to trip the Son of God by the Word of God.",
+            "It was a skilful thrust and would also be accepted by the populace as proof that Jesus was the Messiah if they should see him sailing down as if from heaven.",
+            "The promise of the angels the devil thought would reassure Jesus. They would be a spiritual parachute for Christ."
+        ],
+        "John Gill": [
+            "if, or seeing, thou art the Son of God, show thyself to be so; give proof of thy sonship before all the priests which are in and about the temple, and before all the inhabitants of Jerusalem.\" ",
+            "[Satan] chose to have it done in the sight of the people, and in the holy city, and holy place.",
+            "when he argues from the doctrines of predestination and providence to the disuse of means, for their good, either for this life, or that which is to come."
+        ],
+        "John Wesley": [
+            "In their hands \u2014 That is, with great care. Psalm 91:11,12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The devil quotes Scripture to Jesus, misinterpreting and omitting a clause, in an attempt to trip him up. Satan tempts Jesus to use the promise of safety to prove that he is the Messiah, avoiding the suffering and hardship that comes with it. The devil's intention is to have Jesus perform a miraculous act in front of the people to demonstrate his divine sonship. However, Satan is merely a surface reader and perverter of Scripture. This temptation not only challenges Jesus to place his faith in the Word of God but also exposes the deceptive tactics of Satan. It is a reminder for us to be vigilant in using Scripture to protect our faith, especially when it is being twisted to suit personal desires.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.02289434724826,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                26.27,
+                45.1,
+                28.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan cunningly uses Scripture, intentionally omitting a clause, in an attempt to deceive Jesus. He tempts Jesus to prove his identity as the Messiah by performing a miraculous act, rather than enduring the suffering and persecution that comes with it. However, the devil's misinterpretation of the promise of safety exposes his deceitful tactics. This reminds us to remain vigilant in our use of Scripture to protect our faith and not be swayed by twisted interpretations or false promises.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9629554078657008,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                24.1,
+                46.44,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil cunningly employs Scripture, selectively omitting a clause, to tempt Jesus by urging him to showcase his divine sonship through a miraculous act, thus evading the hardships and persecution that accompany his mission. Yet, Satan's distortion of the promise of protection unveils his deceitful tactics and exposes the true essence of his temptation. This compels us to stay watchful and rely solely on Scripture to safeguard our faith, preventing its subversion through misinterpretation or alluring promises.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.9725631567233144,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                21.86,
+                49.37,
+                28.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil quotes Scripture to Jesus, misinterpreting it and attempting to trip him up. Satan tempts Jesus to prove himself as the Messiah by performing a miraculous act, avoiding the suffering that comes with it. However, this deception exposes Satan's surface-level reading and perversion of Scripture. It serves as a reminder for us to protect our faith by exclusively drawing from Scripture and not being swayed by twisted interpretations.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9237987140505104,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                27.19,
+                41.67,
+                31.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devil cunningly wields Scripture, selectively omitting a clause, to tempt Jesus to showcase his sonship through a miraculous act, sidestepping the suffering he would endure otherwise. Yet, Satan's distortion of the promise unmasks his deceitful tactics, making Jesus' reliance on the Word of God essential. This episode cautions us to guard our faith by relying on Scripture alone and remaining resistant to manipulations that twist its meaning.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.024054734380104,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "commentatorTierSimilarities": [
+                25.26,
+                44.59,
+                30.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

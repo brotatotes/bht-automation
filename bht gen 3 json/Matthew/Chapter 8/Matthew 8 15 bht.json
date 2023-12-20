@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:44:55",
+    "verseRef": "Matthew 8:15",
+    "bestBHT": {
+        "bht": "Jesus, the Great Physician, touched her hand in loving sympathy and immediately began ministering to her. While He could heal with just a word, He often made outward gestures to demonstrate His willingness to heal. Her instantaneous and perfect restoration was evident as she arose and began serving, showing her gratitude for the mercy she had received. In this act of healing, Jesus showed His complete control over all diseases and His ability to restore health and strength. Her response of serving Him and His friends showcased her thankfulness for the miracle worked by Christ.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.7345459493453275,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+        "commentatorTierSimilarities": [
+            33.63,
+            35.06,
+            31.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Our Lord could heal by a word at a distance, in the response to faith, but He generally made some outward sign of His willingness and will to cure.\" ",
+            "The healing was instantaneous and perfect, she arose and ministered unto him, thus showing her perfect restoration.\" ",
+            "He healed them all, both those possessed with demons and the sick; two classes carefully distinguished from each other in the Gospels."
+        ],
+        "Archibald T. Robertson": [
+            "Touched her hand... in loving sympathy as the Great Physician and like any good doctor today.",
+            "Ministered... 'Began to minister' at once to Jesus at table in gratitude and love."
+        ],
+        "John Gill": [
+            "Just as he did the winds and sea, having all diseases, as well as the elements, at his beck and control.\" ",
+            "The former of these actions is a proof of her being restored to health and strength, in so much that she could rise and walk about of herself; whereas generally, persons after fevers continue very weak a considerable time; which shows what a miracle was wrought upon her by Christ.\" ",
+            "The latter of them expresses her gratitude, for the mercy she had received; she rises and serves him and his friends, preparing proper and suitable provisions for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, the Great Physician, touched her hand in loving sympathy and immediately began ministering to her in gratitude and love. While He could heal with just a word, He often made outward gestures to demonstrate His willingness to heal. Her instantaneous and perfect restoration was evident as she arose and began serving, showing her gratitude for the mercy she had received. In this act of healing, Jesus showed His complete control over all diseases and His ability to restore health and strength. Her response of serving Him and His friends showcased her thankfulness for the miracle that had been worked upon her by Christ.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7626039307018697,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                33.3,
+                34.9,
+                31.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, the Great Physician, touched her hand in loving sympathy and immediately began ministering to her. While He could heal with just a word, He often made outward gestures to demonstrate His willingness to heal. Her instantaneous and perfect restoration was evident as she arose and began serving, showing her gratitude for the mercy she had received. In this act of healing, Jesus showed His complete control over all diseases and His ability to restore health and strength. Her response of serving Him and His friends showcased her thankfulness for the miracle worked by Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.7345459493453275,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                33.63,
+                35.06,
+                31.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the Great Physician, touched her hand in loving sympathy and immediately began ministering to her. He made outward gestures to demonstrate His willingness to heal, even though He could heal with just a word. Her instantaneous and perfect restoration was evident as she arose and began serving, showing gratitude for the mercy she received. Jesus showcased His control over all diseases and ability to restore health. Her response of serving Him showcased thankfulness for the miracle worked by Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.661617438383086,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.59,
+            "commentatorTierSimilarities": [
+                34.79,
+                35.21,
+                30.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a beautiful display of love and compassion, Jesus, the Great Physician, touched her hand and immediately began ministering to her. It is notable that He often made outward gestures to demonstrate His willingness to bring healing, despite His ability to simply speak the word. The instantaneous and complete restoration she experienced was evident as she arose and began serving, expressing her deep gratitude for the mercy she had received. Through this act, Jesus not only revealed His authority over diseases, but also her thankfulness for the miraculous work He had done.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7263285249550275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.74,
+            "commentatorTierSimilarities": [
+                36.29,
+                33.04,
+                30.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a beautiful display of love and compassion, Jesus, the Great Physician, touched her hand and immediately began ministering to her. He often made outward gestures to demonstrate His willingness to bring healing, despite His ability to simply speak the word. The instantaneous and complete restoration she experienced was evident as she arose and began serving, expressing her deep gratitude for the mercy she had received. Through this act, Jesus not only revealed His authority over diseases, but also her thankfulness for the miraculous work He had done.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7120734572521656,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                36.17,
+                33.39,
+                30.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

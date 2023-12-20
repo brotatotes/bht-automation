@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:48:35",
+    "verseRef": "Matthew 15:30",
+    "bestBHT": {
+        "bht": "A multitude of people, including those with physical disabilities and illnesses, eagerly approached Jesus, casting themselves down before him. In their haste and eagerness, they flung themselves down at his feet, not in neglect but due to the sheer number of people seeking his healing touch. Pain and suffering were alleviated as Jesus healed the maimed, those who were wounded or diseased in the hands, restoring their ability to function. This remarkable display of power and compassion caused the people to glorify the God of Israel, recognizing His hand at work in Jesus' healing ministry.",
+        "wordCount": 95,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.4286863909202556,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+        "commentatorTierSimilarities": [
+            42.12,
+            34.88,
+            22.99
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The maimed are properly persons maimed in the hands.",
+            "The meaning need not be, that a wanting member was supplied to these persons; but that a debility, such as that arising from paralysis or wound, was healed.",
+            "Cast them down, not in neglect, but from haste and rivalry."
+        ],
+        "Marvin Vincent": [
+            "Cast them down [\u03b5\u03c1\u03c1\u03b9\u03c8\u03b1\u03bd] . Very graphic. Lit., flung them down; not carelessly, but in haste, because so many were coming on the same errand."
+        ],
+        "Philip Schaff": [
+            "Great multitudes. Even in this retired place He was not allowed to rest long. The crowds came having with them , i.e., bringing with them, a great variety of afflicted ones.",
+            "Dumb. Mark mentions one case in particular (Mark 7:32-35).",
+            "Maimed. The first mention of this class, i.e. , those wounded or diseased in hand or foot; our word \u2018maimed\u2019 implies a loss of the member."
+        ],
+        "Archibald T. Robertson": [
+            "And they cast them down at his feet. A very strong word, flung them down, 'not carelessly, but in haste, because so many were coming on the same errand' (Vincent).",
+            "It was a great day for 'they glorified the God of Israel.'"
+        ],
+        "John Gill": [
+            "These flocked to him, having with them, in their hands, or arms, or upon their backs, or shoulders, leading some, and carrying others, in some form or another.\" ",
+            "The Persic version reads it 'leprous.'",
+            "Thinking it was enough to present them to him, and not doubting at all, but he would show favor to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A multitude of people, including those with physical disabilities and illnesses, eagerly approached Jesus, casting themselves down before him. In their haste and eagerness, they flung themselves down at his feet, not in neglect but due to the sheer number of people seeking his healing touch. Pain and suffering were alleviated as Jesus healed the maimed, those who were wounded or diseased in the hands, restoring their ability to function. This remarkable display of power and compassion caused the people to glorify the God of Israel, recognizing His hand at work in Jesus' healing ministry.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4286863909202556,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                42.12,
+                34.88,
+                22.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A multitude of people, including those with physical disabilities and illnesses, eagerly approached Jesus, casting themselves down before him. In their haste and rivalry, they flung themselves down at his feet, not carelessly but in anticipation of his healing power. Jesus responded to their faith, healing the maimed who suffered from paralysis or wounds. This act of compassion and restoration led the people to glorify the God of Israel, recognizing His divine presence and intervention in Jesus' ministry.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.35572901845516,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.42,
+            "commentatorTierSimilarities": [
+                45.79,
+                32.1,
+                22.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A multitude of people, including those with physical disabilities and illnesses, cast themselves down at Jesus' feet, not carelessly, but in haste and rivalry, eager for his healing touch. Jesus responded to their faith, healing those who were maimed, suffering from paralysis or wounds. This act of compassion led the people to glorify the God of Israel, recognizing His divine intervention and presence in Jesus' ministry.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.356207545710773,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.44,
+            "commentatorTierSimilarities": [
+                43.75,
+                36.82,
+                19.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A multitude of people, including those debilitated by paralysis or wounds, eagerly approached Jesus, flinging themselves down at his feet in haste. In their anticipation, they presented their needs in the hope that Jesus would show them favor and bring healing. Responding to their faith, Jesus healed those who were maimed, restoring their ability to function. The remarkable display of God's power and compassion through Jesus led the people to glorify the God of Israel, recognizing His hand at work in their midst.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3147159876318155,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.06,
+            "commentatorTierSimilarities": [
+                39.97,
+                31.28,
+                28.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A multitude of people, including those debilitated by paralysis or wounds, eagerly approached Jesus, flinging themselves down at his feet in haste. In their anticipation, they presented their needs in the hope that Jesus would show them favor and bring healing. Responding to their faith, Jesus healed those who were maimed, restoring their ability to function. The remarkable display of God's power and compassion through Jesus led the people to glorify the God of Israel, recognizing His hand at work in their midst.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3147159876318155,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.06,
+            "commentatorTierSimilarities": [
+                39.97,
+                31.28,
+                28.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

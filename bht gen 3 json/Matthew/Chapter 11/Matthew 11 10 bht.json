@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:46:21",
+    "verseRef": "Matthew 11:10",
+    "bestBHT": {
+        "bht": "Our Lord's change in person from the original prophecy is a clear indication of His eternal and co-equal Godhead. The great honor bestowed upon John the Baptist as the forerunner of Christ makes him greater than all the other prophets. John's purpose was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further amplifies the significance of John's ministry. This affirms the immense greatness and importance of Jesus as the Messiah.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.683603644184246,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+        "commentatorTierSimilarities": [
+            38.47,
+            34.45,
+            27.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord here changes the person of the original prophecy...no mean indication of His own eternal and co-equal God-head.",
+            "The high dignity and honor, which our Lord here predicates of the Baptist, has a further reference: He was thus great above all others because he was the forerunner of Christ.",
+            "How great then above all others and him, must HE be."
+        ],
+        "Albert Barnes": [
+            "Prepare thy way - That is, to prepare 'the people;' to make them ready, by proper instructions, to receive the Messiah.",
+            "The substance of it is contained also in Isaiah 40:3.",
+            "For this is he... "
+        ],
+        "Philip Schaff": [
+            "The last of the prophets had foretold of John. His office as forerunner of Christ made him greater than them all.",
+            "The original prophecy is: \u2018Behold I send my messenger before my face,\u2019 etc. (The latter part of the verse contains a direct reference to the Messiah.)",
+            "Here, and in Mark 1:2, Luke 7:27, it is changed into a promise of God to Christ Our Lord on His own authority."
+        ],
+        "John Gill": [
+            "nor should it be once called in question, when our Lord himself has applied it to John the Baptist",
+            "He was an 'angel', not by nature, but by office",
+            "such a space of time he entered on his public ministry before him; and 'prepared' his 'way before' him"
+        ],
+        "John Wesley": [
+            "Malachi 3:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the great honor and dignity bestowed upon John the Baptist as the forerunner of Christ. Our Lord's change in person from the original prophecy denotes His divine nature. John's role was to prepare the people for the coming of the Messiah, as foretold by the prophets. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This verse is a testament to Christ's greatness, as His precursor held such a high position of honor and importance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5714517317120547,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.59,
+            "commentatorTierSimilarities": [
+                36.74,
+                34.04,
+                29.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord's change in person from the original prophecy affirms His eternal and co-equal Godhead. This highlights the great honor bestowed upon John the Baptist as the forerunner of Christ, making him greater than all the other prophets. John's role was to prepare the people for the Messiah, as foretold in Isaiah 40:3. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This passage demonstrates the immense greatness and importance of Jesus as the Messiah.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6472254028046176,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                37.52,
+                34.91,
+                27.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's change in person from the original prophecy is a clear indication of His eternal and co-equal Godhead. The great honor bestowed upon John the Baptist as the forerunner of Christ makes him greater than all the other prophets. John's purpose was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further amplifies the significance of John's ministry. This affirms the immense greatness and importance of Jesus as the Messiah.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.683603644184246,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                38.47,
+                34.45,
+                27.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The honor and dignity bestowed upon John the Baptist as the forerunner of Christ signifies his greatness above all. Our Lord's change in person from the original prophecy reveals His eternal and co-equal Godhead. John's role was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further highlights the significance of John's ministry. This verse underscores the immense greatness and importance of Jesus as the Messiah.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6508645426271686,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                38.34,
+                34.17,
+                27.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The honor and dignity bestowed upon John the Baptist as the forerunner of Christ signifies his greatness above all. Our Lord's change in person from the original prophecy reveals His eternal and co-equal Godhead. John's role was to prepare the people for the coming of the Messiah, as foretold by the prophets. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This highlights the immense greatness and importance of Jesus as the Messiah.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6143581298655492,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                39.76,
+                33.4,
+                26.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:46:03",
+    "verseRef": "Matthew 10:24",
+    "bestBHT": {
+        "bht": "Disciples should not expect a better lot than their Master, but be satisfied if they have no worse. They are not above their master or lord, as it is reiterated in various connections. Christ's followers should not refuse to share the same conditions and treatment as their Master willingly underwent on their behalf. They should be prepared for reproach and persecution, understanding that even their Lord, with his superior character and dignity, was not spared insults.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.6703595302192469,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+        "commentatorTierSimilarities": [
+            27.73,
+            38.17,
+            34.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Disciples must not expect a better lot than their Master, but be well satisfied if they have no worse.",
+            "The threefold relation of our Lord and His followers here brought out may thus be exemplified from Scripture.",
+            "master of the house and household, Matt. xxvi. 26\u201329||: Luke xxiv. 30: Matt. xxiv. 45 ff.||."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. The disciple is not above his",
+            "\tmaster\u2014teacher. ",
+            "\t",
+            "nor the servant above his",
+            "\tlord\u2014another maxim which our Lord repeats in various",
+            "\tconnections (Luke 6:40; John 13:16;",
+            "\tJohn 15:20)."
+        ],
+        "John Calvin": [
+            "The disciple reckons it honorable to be placed on a level with his master, and does not venture to wish a higher honor.",
+            "Servants do not refuse to share that condition to which their masters willingly submit.",
+            "We ought, therefore, to be ashamed of declining what he did not scruple to undergo on our account."
+        ],
+        "Philip Schaff": [
+            "They cannot expect better treatment than He received, thus implying His sympathy.",
+            "Notice the relation of Christ and His followers: \u2018teacher\u2019 and \u2018disciple\u2019; \u2018Lord\u2019 and \u2018servant\u2019; \u2018master of the house\u2019 and \u2018members of the household.\u2019"
+        ],
+        "John Gill": [
+            "The disciple is not above his master,.... So far from it, that he is inferior to him; as in knowledge, so in reputation and character.",
+            "Our Lord hereby intends to fortify the minds of his disciples against all the reproach and persecution they were to meet with from the world, by observing to them the treatment he himself met with.",
+            "Since he was their Lord, and they were his servants, if his superior character and dignity did not secure him from the obloquy and insults of men, it could not be thought by them, who were inferior to him, that they should escape them."
+        ],
+        "John Wesley": [
+            "Luke 6:30; John 15:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Disciples must be content with no worse treatment than their Master, for they should not expect any better. As the teacher is to the disciple, the Lord is to the servant, and the master of the house is to the members of the household. Christ's followers cannot aspire to a higher honor than being on the same level as their master. They should not refuse to share in the same conditions to which he willingly submitted. Just as their Lord faced reproach and persecution, they too should be prepared for the same, knowing that if he, with his superior character and dignity, could not escape insults, they, being inferior, should not expect to either.",
+            "wordCount": 115,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.6563558459187875,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                24.92,
+                41.96,
+                33.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Disciples must be content with no worse treatment than their Master, for they should not expect any better. Christ's followers cannot aspire to a higher honor than being on the same level as their master. They should not refuse to share in the same conditions to which he willingly submitted. Just as their Lord faced reproach and persecution, they too should be prepared for the same, knowing that if he, with his superior character and dignity, could not escape insults, they, being inferior, should not expect to either.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.5702511088546314,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                24.39,
+                39.99,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Disciples should not expect a better lot than their Master, but be satisfied if they have no worse. They are not above their master or lord, as it is reiterated in various connections. Christ's followers should not refuse to share the same conditions and treatment as their Master willingly underwent on their behalf. They should be prepared for reproach and persecution, understanding that even their Lord, with his superior character and dignity, was not spared insults.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.6703595302192469,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                27.73,
+                38.17,
+                34.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Disciples should not expect a better fate than their Master, but rather be content if they face no worse. The threefold relationship between Jesus and His followers is exemplified in Scripture: the master of the house and the household, the teacher and the disciple, and the Lord and the servant. As the disciple is not above his master, nor the servant above his lord, Christ's followers should not anticipate more favorable treatment than He received, thereby signifying His empathy. This verse serves to strengthen the minds of disciples in the face of reproach and persecution, reminding them that if Jesus, their Lord, was not spared from insults, they too cannot hope to avoid them.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.9188510712821691,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                27.69,
+                41.02,
+                31.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Disciples should not expect a better lot than their Master, but be well satisfied if they have no worse. The threefold relation of our Lord and His followers may be exemplified from Scripture. The disciple is not above his master, nor the servant above his lord. They cannot expect better treatment than He received, thus implying His sympathy. This verse serves to strengthen the minds of disciples in the face of reproach and persecution, reminding them that if Jesus, their Lord, was not spared from insults, they too cannot hope to avoid them.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8405486190324052,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                28.54,
+                42.73,
+                28.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

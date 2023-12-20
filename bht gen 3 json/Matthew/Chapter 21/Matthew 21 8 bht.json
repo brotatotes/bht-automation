@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:50:45",
+    "verseRef": "Matthew 21:8",
+    "bestBHT": {
+        "bht": "As Jesus entered the city, a majority of the multitude honored him by spreading their garments in the way. This act of casting garments before a king was a common way of expressing joyful feelings. The palm branches symbolized joy and victory, and the multitude displayed them in celebration of Jesus' arrival. This humble and significant act served as a fitting entrance for Jesus, the King, highlighting his dignity and authority.",
+        "wordCount": 71,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 1.7389434370599268,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+        "commentatorTierSimilarities": [
+            33.96,
+            31.88,
+            34.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Which was a royal honour: see 2 Kings ix. 13. a very great multitude, literally, the greater part of the multitude."
+        ],
+        "Albert Barnes": [
+            "To cast flowers, or garlands, or evergreens before a warrior returning from victory, or a king entering into his kingdom, was a common way of testifying joyful and triumphant feeling.",
+            "The palm was an emblem of 'joy and victory.' It was used by the Roman soldiers, as well as the Jews, as a symbol of peace.",
+            "Strictly speaking, the palm has no branches, but at the summit from forty to eighty twigs or leaf-stalks spring forth."
+        ],
+        "John Calvin": [
+            "Christ looked upon them as fit heralds of his kingdom.",
+            "Even in the present day, while sitting at the right hand of the Father, he commissions from the heavenly throne obscure men, by whom his majesty is celebrated in a despicable manner.",
+            "It would seem to have been by a sudden movement of the Spirit that this honor was rendered to Christ."
+        ],
+        "Philip Schaff": [
+            "Most of the multitude. Some (probably the mater number, as it would seem from Matthew 21:11) had come from Galilee and accompanied the Lord from Jericho, others had come out from Jerusalem (John 12:12), now crowded on account of the Passover.",
+            "'It is probable that most of the latter were pilgrims, not inhabitants of the city, and are spoken of by John as \u2018people that were come to the feast.'",
+            "Spread their garments. 'Oriental mark of honor at the reception of kings, on their entrance into cities: 2 Kings 9:13.' (Lange.)"
+        ],
+        "Archibald T. Robertson": [
+            "The most part of the multitude.",
+            "The disciples put their garments on the asses.",
+            "They would pick the garments up and spread them again before."
+        ],
+        "John Gill": [
+            "That is, to tread upon; though the Jewish writers say, it was done that he might be higher than them all, suitable to the dignity of a king.",
+            "Others cut down branches from the trees.",
+            "But here it is said, and they strawed them in the way: not in the middle of the road, which would have been an hindrance to riding; but by the way side, upon, the booths, or houses in the road, in honour of him."
+        ],
+        "John Wesley": [
+            "A great multitude spread their garments in the way \u2014 A custom which was usual at the creation of a king, 2 Kings 9:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus entered the city, a great multitude, the majority of which were likely pilgrims in town for the Passover, honored him by spreading their garments and palm branches in the way. This act of casting garments before a king was a common way of expressing joyful and triumphant feelings, while the palms symbolized joy and victory. The disciples, following the custom, had placed their garments on the asses, and the people picked them up and spread them again before Jesus. It was as if, by this sudden movement of the Spirit, these seemingly insignificant individuals became heralds of Christ's kingdom, celebrating his majesty in a humble yet significant manner. This act served as a fitting entrance for Jesus, the King, highlighting his dignity and authority. Ultimately, Christ viewed this honor bestowed upon him as a necessary and rightful recognition of who he truly was.",
+            "wordCount": 146,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.674194932092552,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                30.18,
+                33.9,
+                35.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus entered the city, a majority of the multitude honored him by spreading their garments in the way. The disciples had placed their garments on the asses, and the people picked them up and spread them again. This act of casting garments before a king was a common way of expressing joyful feelings. The palm branches symbolized joy and victory, and the multitude displayed them in celebration of Jesus' arrival. This humble and significant act served as a fitting entrance for Jesus, the King, highlighting his dignity and authority.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.731052362818812,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                35.45,
+                31.7,
+                32.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus entered the city, a great multitude, consisting mostly of pilgrims in town for the Passover, honored him by spreading their garments and palm branches in the way. This act of casting garments before a king was a common way of expressing joyful and triumphant feelings. The disciples had placed their garments on the asses, and the people picked them up and spread them again before Jesus. This humble and significant act served as a fitting entrance for Jesus, the King, highlighting his dignity and authority.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7289442724351871,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                33.34,
+                33.07,
+                33.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus entered the city, a majority of the multitude honored him by spreading their garments in the way. This act of casting garments before a king was a common way of expressing joyful feelings. The palm branches symbolized joy and victory, and the multitude displayed them in celebration of Jesus' arrival. This humble and significant act served as a fitting entrance for Jesus, the King, highlighting his dignity and authority.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.7389434370599268,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                33.96,
+                31.88,
+                34.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus entered the city, the greater part of the multitude honored him by casting their garments in the way. This act of spreading garments before a king was a customary display of joyful and triumphant feelings. The disciples had placed their garments upon the asses, and the people picked them up and spread them again before Jesus. The palms, symbolic of joy and victory, were strewn along the path. This act of humble adoration and recognition marked Jesus' arrival as a deserving king, accentuating his regality and significance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6622734187947663,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                34.05,
+                33.47,
+                32.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:52:21",
+    "verseRef": "Matthew 24:33",
+    "bestBHT": {
+        "bht": "Observe all these things, every one of these things, which will introduce the millennial Kingdom. When you see the signs predicted by Jesus, know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians, who will not necessarily live to witness what Jesus foretold. However, they can take assurance in knowing that Christ is near, bringing redemption and salvation to all who believe.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.8064823172189295,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+        "commentatorTierSimilarities": [
+            39.81,
+            32.23,
+            27.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe all these things,\u2014every one of these things,\u2014this coming of the Son of Man included, which will introduce the millennial Kingdom."
+        ],
+        "Albert Barnes": [
+            "When you see what I have predicted the 'signs' around Jerusalem - then know that its destruction is at hand.",
+            "Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up in the earth.",
+            "Your everlasting redemption from sin and death will come at the day of judgment, and his eternal kingdom will be established in the heavens."
+        ],
+        "Philip Schaff": [
+            "Addressed to the disciples, as representing all Christians.",
+            "It does not mean that they should live to see what He had predicted.",
+            "Know that he is nigh. Christ Himself, since they had asked of His coming."
+        ],
+        "John Gill": [
+            "So likewise ye, when ye shall see all these things,.... That are mentioned above, relating to the signs of the destruction of the temple and city, and the destruction itself, with all those several things that should directly take place upon it; this is an accommodation of the above parable, similitude, or comparison: know that it is near, even at the doors.\" ",
+            "And thus the fig tree putting forth its leaves, is a sign that summer is not only nigh, but is already come, even that part of it we call spring; for the Scripture divides the whole year only into two parts, summer and winter.",
+            "Christ will appear most lovely and amiable to them, he will be glorified by them, and admired in them; great grace will be brought unto them, and great glory will be put upon them; they will then enjoy full redemption and salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Observe all these things\u2014every one of these things\u2014which will introduce the millennial Kingdom. When you see the signs predicted by Jesus, know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians, who will not necessarily live to witness what Jesus foretold. However, they can take assurance in knowing that Christ is near, and that his eternal kingdom will be established, bringing redemption and salvation to all who believe.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.901745999932444,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                42.0,
+                31.6,
+                26.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Observe all these things, every one of these things, which will introduce the millennial Kingdom. When you see the signs predicted by Jesus, know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians, who will not necessarily live to witness what Jesus foretold. However, they can take assurance in knowing that Christ is near, bringing redemption and salvation to all who believe.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8064823172189295,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                39.81,
+                32.23,
+                27.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Observe all these things and know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians. Although they may not live to witness what Jesus foretold, they can take assurance knowing that Christ is near, bringing redemption and salvation to all who believe in him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.4465606420524928,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.44,
+            "commentatorTierSimilarities": [
+                27.6,
+                39.69,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Observe all these things, every one of these things, which will introduce the millennial Kingdom. When you see the signs predicted by Jesus, know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians. Although they may not live to witness what Jesus foretold, they can take assurance knowing that Christ is near, bringing redemption and salvation to all who believe in him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.7330376082183139,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                39.5,
+                33.5,
+                26.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Observe all these things and know that the destruction of Jerusalem is at hand. Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up on earth. Addressed to the disciples, these words signify that they represent all Christians. Although they may not live to witness what Jesus foretold, they can take assurance knowing that Christ is near, bringing redemption and salvation to all who believe in him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.4465606420524928,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.44,
+            "commentatorTierSimilarities": [
+                27.6,
+                39.69,
+                32.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

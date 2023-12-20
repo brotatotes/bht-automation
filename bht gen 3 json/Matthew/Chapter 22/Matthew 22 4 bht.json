@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:51:25",
+    "verseRef": "Matthew 22:4",
+    "bestBHT": {
+        "bht": "The parable in question teaches us that the slaying of the Lord is not the fault of those who were invited, but rather something mentioned to emphasize the significance of the feast. The meal referred to is not dinner, but rather a noon-time breakfast that marked the beginning of marriage festivities. The invitation to the feast can be seen as a metaphor for the Gospel call after Christ's death and resurrection, inviting all to partake. This invitation is urgent and all-encompassing, symbolizing the readiness of all things due to the sacrifice of Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.1353647440409222,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+        "commentatorTierSimilarities": [
+            37.12,
+            37.31,
+            25.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That thus the slaying of the Lord is not the doing of the invited, but is mentioned as done for the Feast, is no real difficulty.\" (28 words)",
+            "Both sides of the truth may be included in the parable, as they are in Acts ii. 23, and indeed wherever it is set forth.\" (24 words)",
+            "The meal designated is not that which we understand by dinner, but the meal at noon, with which the course of marriage festivities began.\" (25 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This points to those Gospel calls after Christ's death, resurrection, ascension, and effusion of the Spirit, to which the parable could not directly allude, but when only it could be said, with strict propriety, 'that all things were ready.'\" ",
+            "Christ our Passover is sacrificed for us; therefore, let us keep the feast.",
+            "I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread which I will give is My flesh, which I will give for the life of the world."
+        ],
+        "Albert Barnes": [
+            "Other servants - Who might press it on their attention. So God repeats his message to sinners when they reject it.",
+            "My dinner - This word literally denotes the meal taken about noon. It is also taken for a meal in general. As marriages were, among Eastern nations, in the evening, it refers here to a meal taken at that time.",
+            "Fatlings - This word does not refer to any particular species of animals. It denotes any fat animals. As oxen are also mentioned, however, it refers here, probably, to lambs or calves, 2 Samuel 6:13; 1 Chronicles 15:26."
+        ],
+        "Marvin Vincent": [
+            "Dinner [\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd] . Not the principal meal of the day, but a noon - breakfast; luncheon.",
+            "Fatlings [\u03c3\u03b9\u03c4\u03b9\u03c3\u03c4\u03b1] . From sitov, corn, grain, or food generally. Properly animals especially fed up or fatted for a feast."
+        ],
+        "John Calvin": [
+            "But now Christ told them that, at the very hour, fresh messengers were sent to entreat them to come with haste; for the first invitation which he mentions includes all the former prophecies, down to the publication of the Gospel.",
+            "For this reason, he charges the ancient people with nothing more than contempt and pride, but says, that the servants who had been last sent, and who arrived at the hour of supper, were abused or slain.",
+            "And thus it usually happens, that ungodly men break out into fiercer rage against God, in proportion to the earnestness with which he invites them to salvation."
+        ],
+        "Philip Schaff": [
+            "The series of wedding feasts began with a dinner, preceding the actual marriage. It refers to the beginning of privileges, which culminate in 'the marriage supper of the Lamb.'\" ",
+            "Although the guests were the subjects of the king, whom He might constrain, He invites them even with urgency, to become guests and friends.",
+            "This thought of Christ as slain is necessarily included, when a distinctly evangelical sense is put upon the phrase: all things are ready."
+        ],
+        "Archibald T. Robertson": [
+            "My dinner (\u03c4\u03bf \u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd \u03bc\u03bf\u03c5). It is breakfast, not dinner.",
+            "This noon or midday meal, like the French breakfast at noon, was sometimes called \u03b4\u03b5\u03b9\u03c0\u03bd\u03bf\u03bd \u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03b9\u03bd\u03bf\u03bd (midday dinner or luncheon).",
+            "In John 21:12; John 21:15 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b1\u03c9 is used of the early morning meal, 'Break your fast' (\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03c3\u03b1\u03c4\u03b5)."
+        ],
+        "John Gill": [
+            "The ministry of the word and ordinances under the Gospel dispensation, is signified by a 'dinner'; of God's preparing and providing; which is a full meal at noon, and in it is plenty of food, and of that which is wholesome to the souls of men, sweet and savoury to a spiritual taste, and very nourishing and satisfying.",
+            "What privileges the patriarchs and prophets, and the people of the Jews enjoyed, in the morning of the world, before the coming of Christ, who made the bright and full day of the Gospel, were but as a 'breakfast', a short meal; the means of grace were not so rich and plentiful, and their knowledge of spiritual things not so large...",
+            "This shows the completeness and perfection of the Gospel dispensation, this being that better thing, which God has provided for his people in the last times, that former saints might not be perfect without them."
+        ],
+        "John Wesley": [
+            "Fatlings \u2014 Fatted beasts and fowls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Matthew 22:4 speaks to the Gospel calls after Christ's death and resurrection, inviting all to partake in the feast prepared by God. The meal mentioned in the parable is not the typical dinner, but rather the noon-time breakfast that marked the beginning of marriage festivities. The invitation to the feast symbolizes the invitation to salvation and communion with God. This invitation is urgent and all-encompassing, signifying the readiness of all things through the sacrifice of Christ. The servants who were abused or slain represent the rejection of God's call and the fierce rage of those who refuse salvation. The parable highlights the completeness and perfection of the Gospel dispensation, surpassing the privileges enjoyed by the ancients.",
+            "wordCount": 122,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.9564704448430636,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.39,
+            "commentatorTierSimilarities": [
+                32.83,
+                34.68,
+                32.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable in question teaches us that the slaying of the Lord is not the fault of those who were invited, but rather something mentioned to emphasize the significance of the feast. The meal referred to is not dinner, but rather a noon-time breakfast that marked the beginning of marriage festivities. The invitation to the feast can be seen as a metaphor for the Gospel call after Christ's death and resurrection, inviting all to partake. This invitation is urgent and all-encompassing, symbolizing the readiness of all things due to the sacrifice of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.1353647440409222,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                37.12,
+                37.31,
+                25.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable in Matthew 22:4 portrays the Gospel call after Christ's death and resurrection, inviting all to partake in the feast prepared by God. It clarifies that the mentioned slaying of the Lord is not the responsibility of the invited guests, but instead highlights the significance of the feast. The meal described in the parable is not the customary dinner, but rather a noon-time breakfast that marked the commencement of marriage festivities. The urgency of the invitation stresses the readiness of all things through Christ's sacrifice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.1269620205911313,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                38.0,
+                36.98,
+                25.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable in question reveals the invitation extended to all through the Gospel call after Christ's death and resurrection, welcoming everyone to the prepared feast. The mentioned slaying of the Lord is not to be attributed to the invited guests, but rather serves to emphasize the importance of the occasion. The meal mentioned is not a typical dinner, but rather a noon-time breakfast indicating the start of marriage festivities. The urgency of the invitation indicates the readiness of all through Christ's sacrifice.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.0329373364896233,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                36.61,
+                38.41,
+                24.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable discussed underscores the inclusive nature of the Gospel call after Christ's death and resurrection, inviting all to partake in the prepared feast. The slaying of the Lord is not the responsibility of the guests, but highlights the significance of the occasion. The meal mentioned is not a typical dinner, but rather a noon-time breakfast that signaled the beginning of marriage festivities. The urgency of the invitation signifies the readiness of all things through Christ's sacrifice.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.009154999419289,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                37.22,
+                37.73,
+                25.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:44:25",
+    "verseRef": "Matthew 6:31",
+    "bestBHT": {
+        "bht": "Therefore, let us not be burdened with unnecessary anxiety, constantly worrying about what we will eat, drink, or wear. It is a lesson even those with little faith should learn: to trust in God's fatherly care and expect that He will provide for our needs. We must not torment ourselves with endless uneasiness and instead rest in the assurance that He is our heavenly Father, who has given us life and a body to sustain us.",
+        "wordCount": 77,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.191973049905429,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+        "commentatorTierSimilarities": [
+            12.79,
+            39.52,
+            47.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "31. Therefore take no",
+            "\tthought\u2014solicitude. ",
+            "\t",
+            "saying, What shall we eat?",
+            "\tor, What shall we drink? or, Wherewithal shall we be clothed?"
+        ],
+        "John Calvin": [
+            "Believers ought to rely on God\u2019s fatherly care, to expect that he will bestow upon them whatever they feel to be necessary, and not to torment themselves by unnecessary anxiety.",
+            "He forbids them to be anxious... without looking at God, on whom alone their eye ought to be fixed; who are never at ease, but when they have before their eyes an abundance of provisions.",
+            "...who, not admitting that the protection of the world belongs to God, fret and tease themselves with perpetual uneasiness."
+        ],
+        "Philip Schaff": [
+            "The logic is so conclusive, even those of little faith might learn the lesson.",
+            "It is not learned, if we are anxious, saying, What shall we eat, etc.",
+            "Too few have faith enough to interpret this verse correctly."
+        ],
+        "John Gill": [
+            "Therefore take no thought,.... That is, for the morrow... but not to be anxiously concerned for futurity.\" [25 words]",
+            "These are a repetition of the several things instanced in, and are the very language and expressions of men of little faith.\" [22 words]",
+            "\u05de\u05d4 \u05d0\u05d5\u05db\u05dc \u05dc\u05de\u05d7\u05e8, 'what shall I eat tomorrow?'\" [8 words]"
+        ],
+        "John Wesley": [
+            "Do thyself no harm! Let us not be so ungrateful to him, nor so injurious to ourselves, as to harass and oppress our minds with that burden of anxiety, which he has so graciously taken off.",
+            "We will not indulge these unnecessary, useless, mischievous cares. We will not borrow the anxieties and distresses of the morrow, to aggravate those of the present day.",
+            "Rather we will cheerfully repose ourselves on that heavenly Father, who knows we have need of these things; who has given us the life, which is more than meat, and the body, which is more than raiment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Therefore, let us not be burdened with unnecessary anxiety, constantly worrying about what we will eat, drink, or wear. It is a lesson even those with little faith should learn: to trust in God's fatherly care and expect that He will provide for our needs. We must not torment ourselves with endless uneasiness or fret without looking to God, who alone can give us peace. Instead, let us cast our cares upon Him, for He knows what we need even before we ask, and rest in the assurance that He is our heavenly Father, who has given us life and a body to sustain us.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 1.2107821345344756,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+            "commentatorTierSimilarities": [
+                13.13,
+                39.1,
+                47.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Therefore, let us not be burdened with unnecessary anxiety, constantly worrying about what we will eat, drink, or wear. It is a lesson even those with little faith should learn: to trust in God's fatherly care and expect that He will provide for our needs. We must not torment ourselves with endless uneasiness and instead rest in the assurance that He is our heavenly Father, who has given us life and a body to sustain us.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.191973049905429,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+            "commentatorTierSimilarities": [
+                12.79,
+                39.52,
+                47.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Therefore, let us not be burdened with unnecessary anxiety, constantly worrying about what we will eat, drink, or wear. It is a lesson even those with little faith should learn: to rely on God\u2019s fatherly care and not torment themselves with perpetual uneasiness. We should not look at the world for protection, but fix our eyes on God alone. Let us trust that He knows what we need and rest in the assurance that He has graciously taken the burden of anxiety off us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.1177013878040243,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.51,
+            "commentatorTierSimilarities": [
+                11.02,
+                38.82,
+                50.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Therefore, let us not be burdened with unnecessary anxiety, constantly worrying about what we will eat, drink, or wear. It is a lesson even those with little faith should learn: to rely on God\u2019s fatherly care and not torment themselves with perpetual uneasiness. We should not look at the world for protection, but fix our eyes on God alone. Let us trust that He knows what we need and rest in the assurance that He has graciously taken the burden of anxiety off us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.1177013878040243,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.51,
+            "commentatorTierSimilarities": [
+                11.02,
+                38.82,
+                50.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Therefore, let us not be burdened with unnecessary anxiety, but instead rely on God\u2019s fatherly care. We shouldn't torment ourselves with perpetual uneasiness or fret without looking to God, who alone can give us peace. Trusting in Him, we can rest assured that He knows what we need even before we ask. By casting our cares upon Him, we can find solace in the knowledge that He is our heavenly Father, who has given us life and sustains us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.02935171772629,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.57,
+            "commentatorTierSimilarities": [
+                10.6,
+                36.95,
+                52.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

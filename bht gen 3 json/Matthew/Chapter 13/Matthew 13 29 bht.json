@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:47:40",
+    "verseRef": "Matthew 13:29",
+    "bestBHT": {
+        "bht": "Between the wheat and tares, discerning the difference is difficult until they mature in the blade. This parable teaches the challenge of distinguishing the two classes, and attempting to hastily remove the tares may harm the wheat. It is important to exercise patience in the Church, as not everyone suspected to be a tare should be immediately removed, as it may offend genuine believers. A pure and perfect church is not to be expected in this present age, so saints must patiently endure until Christ intervenes.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.4490496077424422,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+        "commentatorTierSimilarities": [
+            22.54,
+            23.48,
+            53.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Between wheat and tares, which we call lolium, as long as both are in the blade, and the stalk is not yet in ear, there is a great similitude, and discrimination is difficult, if not impossible.\" ",
+            "The comparison of kingdoms to trees was familiar to the Jews.",
+            "see Daniel iv. 10\u201312, 20\u201322: Ezek, xxxi. 3\u20139; xvii. 22\u201324: Ps. lxxx. 8\u201311."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nay, it will be done in due time, but not now, nor is it your business.",
+            "Nothing could more clearly or forcibly teach the difficulty of distinguishing the two classes.",
+            "The high probability that in the attempt to do so these will be confounded."
+        ],
+        "Philip Schaff": [
+            "Lest haply while ye gather up, etc. The answer of a wise husbandman.",
+            "The servants might distinguish the two, but their roots were intertwined.",
+            "Impatient zeal for purity in the Church has often rooted up the wheat."
+        ],
+        "Archibald T. Robertson": [
+            "Ye root up the wheat with them (\u03b5\u03ba\u03c1\u03b9\u03b6\u03c9\u03c3\u03b7\u03c4\u03b5 \u03b1\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03c4\u03bf\u03bd \u03c3\u03b9\u03c4\u03bf\u03bd). Literally, 'root out.' Easy to do with the roots of wheat and darnel intermingled in the field.\" (Matthew 13:29)",
+            "So \u03c3\u03c5\u03bb\u03bb\u03b5\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2 is not 'gather up,' but 'gather together,' here and verses Matthew 13:28 and Matthew 13:30.\" (Matthew 13:29)",
+            "Note other compound verbs here, 'grow together' (\u03c3\u03c5\u03bd\u03b1\u03c5\u03be\u03b1\u03bd\u03b5\u03c3\u03b8\u03b1), 'burn up' (\u03ba\u03b1\u03c4\u03b1\u03ba\u03b1\u03c5\u03c3\u03b1, burn down or completely), 'bring together' (\u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c4\u03b5).\" (Matthew 13:29)"
+        ],
+        "John Gill": [
+            "Not everyone suspected to be a tare, or a nominal professor, is to be removed from the communion of the church, because there is often danger in so doing.",
+            "There may be such in churches, not altogether agreeable in principle and practice, whose character and situation may be such, that there is no removing them without offending some truly gracious, useful persons.",
+            "A pure and perfect church cannot be expected in the present state of things; and that saints should not be immoderately uneasy, but patiently bear such exercises, until Christ's time is come to relieve them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Between the wheat and tares, discerning the difference is difficult until they reach maturity. The comparison of kingdoms to trees was familiar to the Jews, and this parable teaches the difficulty of distinguishing between the two classes. Impatiently trying to root out the tares may result in uprooting the wheat as well, causing harm to the righteous. It is important to exercise patience in the Church, understanding that not everyone suspected to be a tare should be removed immediately, as it may offend genuine believers. A pure and perfect church cannot be achieved in this present age, so saints must patiently endure until Christ intervenes.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.41936261712635,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.54,
+            "commentatorTierSimilarities": [
+                24.28,
+                28.83,
+                46.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Between the wheat and tares, discerning the difference is difficult until they mature in the blade. This parable teaches the challenge of distinguishing the two classes, and attempting to hastily remove the tares may harm the wheat. It is important to exercise patience in the Church, as not everyone suspected to be a tare should be immediately removed, as it may offend genuine believers. A pure and perfect church is not to be expected in this present age, so saints must patiently endure until Christ intervenes.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4490496077424422,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                22.54,
+                23.48,
+                53.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Between the wheat and tares, discerning the difference is difficult until they reach maturity. The comparison to trees in other scriptures establishes the familiarity of this concept to the Jews. Hasty attempts to remove the tares can harm the wheat, and zeal for purity in the Church has often uprooted the righteous. Patience is necessary, for not everyone suspected to be a tare should be immediately ousted, as it may offend genuine believers. A pure and perfect church must be patiently awaited until Christ's intervention.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4038592989762244,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                21.18,
+                34.34,
+                44.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Between the wheat and tares, discerning the difference is difficult until they reach maturity. The comparison to trees in other scriptures establishes the familiarity of this concept to the Jews. Hasty attempts to remove the tares can harm the wheat, and zeal for purity in the Church can often uproot the righteous. Patience is necessary, for not everyone suspected to be a tare should be immediately removed, as it may offend genuine believers. A pure and perfect church must be patiently awaited until Christ's intervention.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.392537294818825,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                20.96,
+                32.75,
+                46.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Between the wheat and tares, distinguishing them is difficult until maturity. The comparison of kingdoms to trees is familiar to Jews. Hasty attempts to uproot the tares may harm the wheat. Patience is necessary, as not every suspected tare should be removed immediately. A pure church cannot be expected, so saints must bear with imperfections until Christ intervenes.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.3558263269828377,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.42,
+            "commentatorTierSimilarities": [
+                27.23,
+                36.21,
+                36.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

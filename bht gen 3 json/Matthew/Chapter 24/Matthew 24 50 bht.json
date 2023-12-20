@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:52:22",
+    "verseRef": "Matthew 24:50",
+    "bestBHT": {
+        "bht": "The coming of the lord is depicted as sudden and unexpected, catching the unfaithful and sinful servant off guard. Doubt of His coming does not hinder it, as Christ remains the lord even over those who doubt. This sudden and unexpected coming is comparable to the wrathful and vengeful arrival on the Jewish nation and the anticipated day of judgment.",
+        "wordCount": 60,
+        "quoteTokenProportion": 42.5,
+        "qualityScore": 1.6866730282611868,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            0.0,
+            52.44,
+            47.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Christ is still \u2018lord\u2019 of the unfaithful and sinful servant.",
+            "Doubt of His coming does not hinder it.",
+            "The unexpected, sudden coming is again brought forward."
+        ],
+        "John Gill": [
+            "The lord of that servant... shall come in a day when he looked not for him, and in an hour that he is not aware of: suddenly and unexpectedly.\" ",
+            "Such was his coming in wrath and vengeance on the Jewish nation.",
+            "Such will be his coming at the day of judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The coming of the lord in Matthew 24:50 is described as sudden and unexpected, catching the unfaithful and sinful servant off guard. Doubting the coming of Christ does not hinder it, as he remains the lord even over those who doubt. This sudden and unexpected coming is comparable to the wrathful and vengeful coming upon the Jewish nation, as well as the coming at the day of judgment.",
+            "wordCount": 67,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.651375672380099,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.13,
+                47.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unexpected and sudden coming of the lord, described in Matthew 24:50, serves as a reminder that Christ remains the lord even over the unfaithful and sinful servant. Doubt of His coming is not a hindrance. This sudden and unexpected arrival parallels the bringer of wrath and vengeance onto the Jewish nation, as well as the anticipated day of judgment.",
+            "wordCount": 59,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5971306752380803,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.09,
+                46.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The coming of the lord in an unexpected day and hour, when the servant least expects it, emphasizes both the suddenness and the unpredictability of the event. This unexpected coming serves as a reminder that doubt does not hinder Christ's arrival, as he remains the lord even over the unfaithful and sinful. This parallels the wrathful and vengeful coming upon the Jewish nation, as well as the anticipated day of judgment.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.479551941270632,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.75,
+                55.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The coming of the lord is depicted as sudden and unexpected, catching the unfaithful and sinful servant off guard. Doubt of His coming does not hinder it, as Christ remains the lord even over those who doubt. This sudden and unexpected coming is comparable to the wrathful and vengeful arrival on the Jewish nation and the anticipated day of judgment.",
+            "wordCount": 60,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.6866730282611868,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.44,
+                47.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lord's coming is described as sudden, unexpected, and in an hour that the servant is not aware of. This emphasizes the unpredictability of the event and the unpreparedness of the servant. Doubting the coming of Christ does not prevent it, as he still remains the lord over the unfaithful and sinful servant. This parallels the lord's coming in wrath and vengeance on the Jewish nation, as well as his anticipated coming on the day of judgment.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5372977042663531,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.27,
+                53.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

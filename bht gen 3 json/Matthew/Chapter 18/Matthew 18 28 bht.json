@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:49:48",
+    "verseRef": "Matthew 18:28",
+    "bestBHT": {
+        "bht": "Forgiveness does not require a change of heart in the sinner. Offenses against others pale in comparison to our sins against God. In the case of a master and servant, both are equal. The debtor owed a small amount, yet the merciless creditor demanded payment. This reminds us to forgive, as sins against humans are insignificant compared to sins against God.",
+        "wordCount": 61,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.6545055642744586,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+        "commentatorTierSimilarities": [
+            30.08,
+            37.47,
+            32.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may observe, that forgiveness of sin does not imply a change of heart or principle in the sinner.",
+            "The insignificance of the sum is to shew us how trifling any offence against one another is in comparison to the vastness of our sin against God.",
+            "What doest thou, O man? Seest thou not that thou art exacting from thyself? drawing the sword against thyself, retorting upon thyself the denial, and refusing for thyself the free forgiveness?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first case is that of master and servant; in this case, both are on a footing of equality.",
+            "If Jewish money is intended, this debt was to the other less than one to a million.",
+            "Mark the mercilessness even of the tone."
+        ],
+        "Marvin Vincent": [
+            "A hundred pence. Less than a millionth part of his own debt.",
+            "Throttled. Lit., choked. Creditors often dragged their debtors before the judge, holding them by the throat.",
+            "The if is simply the expression of a pitiless logic. If thou owest anything (as thou dost) pay!"
+        ],
+        "Philip Schaff": [
+            "The transgressions of our fellowmen against us are trifling in comparison to our sin against God.",
+            "An unforgiving spirit is quick to apply the harshest legal measures.",
+            "Only when near Him are we like Him."
+        ],
+        "Archibald T. Robertson": [
+            "These are various efforts to represent in modern language the small amount of this debt compared with the big one.",
+            "It is imperfect, probably inchoative, 'began to choke or throttle him.' The Roman law allowed this indignity.",
+            "He did not even know how much it was, only that he owed him something. 'The 'if' is simply the expression of a pitiless logic'."
+        ],
+        "John Gill": [
+            "Which, if understood of Roman pence, each penny being seven pence halfpenny of our money, amounted to no more than three pounds and half-a-crown; a small sum, in comparison of the ten thousand talents which had been just now forgiven him.",
+            "For so sins committed against men, against fellow creatures, or fellow Christians; are but small, when compared with those which are committed against God.",
+            "This man insisted on payment of the whole debt which expresses the rigour and severity used by some professors of religion to their fellow Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches us that forgiveness of sin does not require a change of heart, emphasizing the insignificance of offenses against one another in comparison to our sins against God. It presents a case of master and servant, reflecting equality between them. The debtor owed a meager amount compared to his own enormous debt, yet the creditor mercilessly demanded payment. This highlights how an unforgiving spirit resorts to harsh legal measures. The verse reminds us that when we draw near to God, we become more like Him, and that sins committed against fellow humans are trivial in comparison to those against God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.6283670044179388,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                30.24,
+                35.16,
+                34.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Forgiveness of sin does not necessitate a change of heart. Offenses against one another are insignificant compared to our sins against God. A master and servant scenario illustrates equality. The debtor owed a small amount compared to his own substantial debt, yet the creditor ruthlessly demanded payment. This demonstrates the severity some religious individuals display towards their fellow Christians. Drawing near to God helps us become more like Him, and sins against humans are trivial compared to sins against God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5869082599638813,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                28.92,
+                32.71,
+                38.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Forgiveness of sin does not require a change of heart or principle in the sinner. The insignificance of offenses against one another in comparison to our sins against God is highlighted. A case of master and servant shows equality between them. The debtor owed a small amount, emphasizing the severity and mercilessness of the creditor's demand for payment. This reminds us that forgiveness is imperative since sins committed against fellow humans pale in comparison to those against God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6439680035657542,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.0,
+            "commentatorTierSimilarities": [
+                30.66,
+                33.73,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When examining this passage, we must note that forgiveness of sin does not imply a change of heart or principle in the sinner. Rather, it showcases the insignificance of offenses committed against one another in comparison to the vastness of our sin against God. The case presented is that of a master and servant, where both are regarded as equals. The debtor owed a comparatively small sum, yet the creditor demonstrated mercilessness in his demand for payment. This elicits the reminder that forgiveness is crucial, given that sins against fellow humans are minuscule in contrast to sins against God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.689778033504209,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                31.93,
+                32.07,
+                36.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Forgiveness does not require a change of heart in the sinner. Offenses against others pale in comparison to our sins against God. In the case of a master and servant, both are equal. The debtor owed a small amount, yet the merciless creditor demanded payment. This reminds us to forgive, as sins against humans are insignificant compared to sins against God.",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6545055642744586,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                30.08,
+                37.47,
+                32.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

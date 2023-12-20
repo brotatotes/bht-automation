@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:45:06",
+    "verseRef": "Matthew 8:11",
+    "bestBHT": {
+        "bht": "Many shall come from the east and west, from the farthest parts of the earth, and they shall recline at the banquet table of the kingdom of heaven, joining Abraham, Isaac, and Jacob. This imagery of reclining at table highlights the honor and felicity of being included in the heavenly feast. It is a prophecy of the conversion of the Gentiles, who will have the same salvation as the patriarchs. The words sit down or recline have a deeper meaning, signifying the intimate domestic intercourse of the believers with God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.945231274773647,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+        "commentatorTierSimilarities": [
+            32.81,
+            35.06,
+            32.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Many shall come from the east ... - Jesus takes occasion from the faith of a Roman centurion to state that this conversion would not be solitary; that many pagans - many from the east and west would be converted to the gospel, and be saved, as Abraham, Isaac, and Jacob were.",
+            "The phrase 'from the east and from the west,' in the Scripture, is used to denote the 'whole world.'",
+            "To sit with those distinguished men was an honor, and would be expressive of great felicity."
+        ],
+        "Marvin Vincent": [
+            "Shall sit down [\u03b1\u03bd\u03b1\u03ba\u03bb\u03b9\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9] . Lit., recline. The picture is that of a banquet. Jews as well as Romans reclined at table on couches."
+        ],
+        "John Calvin": [
+            "In the person of the servant, Christ gave to the Gentiles a taste and a kind of first-fruits of his grace.",
+            "He declares, that the Gentiles, who shall come to the faith, will be partakers of the same salvation with Abraham, Isaac, and Jacob.",
+            "The word \u1f00\u03bd\u03b1\u03ba\u03bb\u03b9\u03b8\u1f75\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9, shall recline, contains an allusion to a banquet: but as we know, that the heavenly life does not require meat and drink, this phrase has the same meaning as if he had said, they shall enjoy the same life."
+        ],
+        "Philip Schaff": [
+            "That many shall come from the east and west. A prophecy that the Gentiles, even the most remote, shall enter the kingdom of heaven.",
+            "And shall sit down (i.e., \u2018recline at table\u2019) with Abraham, etc. The Jews represented the delights of the Messiah\u2019s kingdom as a feast with the patriarchs; but the reference here is rather to intimate domestic intercourse.",
+            "The patriarchs are properly mentioned, since with these the separating of the people of God began."
+        ],
+        "Archibald T. Robertson": [
+            "Sit down (\u03b1\u03bd\u03b1\u03ba\u03bb\u03b9\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1). Recline at table on couches as Jews and Romans did.",
+            "Hence Leonardo da Vinci's famous picture of the Last Supper is an anachronism with all seated at table in modern style."
+        ],
+        "John Gill": [
+            "That many of them from the several parts of the world, from the rising of the sun to the setting of it... should come and believe in him.\" ",
+            "And sit down with Abraham, Isaac, and Jacob, in the kingdom of heaven.",
+            "The allusion is to sitting, or rather lying along, which was the posture of the ancients at meals... represented the blessings of the Gospel, and the joys of heaven; which are not restrained to any particular nation, or set of people; not to the Jews, to the exclusion of the Gentiles."
+        ],
+        "John Wesley": [
+            "Many from the farthest parts of the earth shall embrace the terms and enjoy the rewards of the Gospel covenant established with Abraham.",
+            "But the Jews, who have the first title to them, shall be shut out from the feast; from grace here, and hereafter from glory.",
+            "Luke 13:29."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many shall come from the east and west, from the farthest parts of the earth, and they shall recline at the banquet table of the kingdom of heaven, joining Abraham, Isaac, and Jacob. This imagery of reclining at table highlights the honor and felicity of being included in the heavenly feast. It is a prophecy of the conversion of the Gentiles, who will have the same salvation as the patriarchs. The words sit down or recline have a deeper meaning, signifying the intimate domestic intercourse of the believers with God. While the Jews were the first to receive the promises, they will be excluded, while the Gentiles will enter the kingdom of heaven.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9230781531211587,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                31.27,
+                34.88,
+                33.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many shall come from the east and west, from the farthest parts of the earth, and they shall recline at the banquet table of the kingdom of heaven, joining Abraham, Isaac, and Jacob. This imagery of reclining at table highlights the honor and felicity of being included in the heavenly feast. It is a prophecy of the conversion of the Gentiles, who will have the same salvation as the patriarchs. The words sit down or recline have a deeper meaning, signifying the intimate domestic intercourse of the believers with God. While the Jews were the first to receive the promises, they will be excluded, while the Gentiles will enter the kingdom of heaven.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9230781531211587,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                31.27,
+                34.88,
+                33.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many from the east and west, from the farthest parts, will join Abraham, Isaac, and Jacob at the banquet table of the kingdom of heaven, reclining in honor and enjoying the same salvation as the patriarchs. This prophecy signifies the conversion of the Gentiles to the faith, as they are included in the intimate domestic fellowship with God. While the Jews were the first recipients of the promises, they will be excluded from the heavenly feast, while the Gentiles will enter and partake in the joys of the Gospel covenant.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9059175117234197,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                26.23,
+                35.54,
+                38.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From the distant corners of the earth, many will come to the banquet table of the kingdom of heaven, joining Abraham, Isaac, and Jacob. This prophecy speaks of the Gentiles' conversion and their partaking in the same salvation as the patriarchs. The imagery of reclining at the table signifies the honor and joy they will experience. While the Jews were the first recipients of the promises, they will be excluded, and the Gentiles will enter into the fellowship and blessings of the Gospel covenant.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.870444365241874,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                30.36,
+                32.8,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many shall come from the east and west, from the farthest parts of the earth, and they shall recline at the banquet table of the kingdom of heaven, joining Abraham, Isaac, and Jacob. This imagery of reclining at table highlights the honor and felicity of being included in the heavenly feast. It is a prophecy of the conversion of the Gentiles, who will have the same salvation as the patriarchs. The words sit down or recline have a deeper meaning, signifying the intimate domestic intercourse of the believers with God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.945231274773647,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                32.81,
+                35.06,
+                32.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

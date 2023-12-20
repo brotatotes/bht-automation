@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:39",
+    "verseRef": "Matthew 26:40",
+    "bestBHT": {
+        "bht": "Are you so utterly unable to watch? Did you not have enough strength to stay awake for one hour? The disciples' slumber was a disappointment to Jesus, as they had promised to be there for him. While their drowsiness does not prove insensibility, it showcased their inability to remain alert. This scene of drowsiness serves as an emblem of believers' spiritual sleep and drowsiness, which can even render them unaffected by powerful preaching. Nonetheless, believers are not expected to be constantly in prayer, but rather to pray within the bounds of their infirmity.",
+        "wordCount": 93,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4667108384337104,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.11,
+        "commentatorTierSimilarities": [
+            31.4,
+            33.41,
+            35.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question is literally could ye thus not watch...?\u2014it implies their utter inability, as shewn by their present state of slumber, Are ye so entirely unable, &c.",
+            "One hour need not imply that our Lord had been absent a whole hour:\u2014if it is to be taken in any close meaning, it would be that the whole trial would last about that time.",
+            "But most likely it is in allusion to the time of our Lord\u2019s trial, so often called by that name."
+        ],
+        "Marvin Vincent": [
+            "What! It is hardly possible to convey the exact force of the Greek outwv, thus or so. The idea is, \"are ye thus unable, or so utterly unable to watch?"
+        ],
+        "John Calvin": [
+            "For believers are not required to be so constant in prayer as never to cease from conversing with God; but on the contrary, following the example of Christ, they continue their prayers till they have proceeded as far as their infirmity allows, then cease for a short time, and immediately after drawing breath return to God.",
+            "It would have been no slight alleviation of his grief, if his disciples had accompanied him, and taken part in it; and on the other hand, it was a bitter aggravation of his sufferings, that even they forsook him.",
+            "For his expostulation is not feigned, but, out of the true feeling of his mind, he declares that he is grieved at having been forsaken."
+        ],
+        "Philip Schaff": [
+            "Their drowsiness does not prove insensibility; they had, however, been warned to watch.",
+            "Unto Peter, who had promised most.",
+            "What, or \u2018so then.\u2019 This indicates disappointment, if not displeasure. His chosen friends had failed to comfort Him in this crisis."
+        ],
+        "Archibald T. Robertson": [
+            "Did you not thus have strength enough to keep awake one hour?\" ",
+            "There is a tone of sad disappointment at the discovery that they were asleep after the earnest plea that they keep awake.",
+            "Every word struck home."
+        ],
+        "John Gill": [
+            "We have other instances of persons in excessive grief and trouble falling asleep, as Elijah in 1 Kings 19:4, and Jonah in Jonah 1:5, so that this did not arise from a secure, lazy, indolent frame of spirit; or from any disregard to Christ, and neglect of him, and unconcernedness for him; but from their great sorrow of heart.",
+            "Now, though this sleep was natural bodily sleep, which the disciples fell into, yet was an emblem of, and carried in it a resemblance to, the spiritual sleep and drowsiness of the people of God.",
+            "Yet as the disciples were so much asleep, that the bare words of Christ did not arouse them from it for a while; so such is the sleep of the saints sometimes, that they are not to be aroused by the bare ministry of the word, though the most powerful arguments, and the most moving and melting language are made use of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are you so utterly unable to watch? Did you not have enough strength to stay awake for one hour? These were the words of disappointment spoken by Jesus to his disciples after finding them asleep instead of keeping watch. The disciples, particularly Peter, had promised to be there for him, yet they failed to fulfill their pledge. It was a bitter aggravation to Jesus, as he desired their companionship in his grief. This scene of drowsiness serves as an emblem of the spiritual sleep and drowsiness that can befall believers, even to the point of being unmoved by powerful preaching. Nonetheless, believers are not expected to be constantly in prayer, but rather to pray within the bounds of their infirmity.",
+            "wordCount": 120,
+            "quoteTokenProportion": 47.13,
+            "qualityScore": 1.420375476844575,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.57,
+            "commentatorTierSimilarities": [
+                27.24,
+                31.72,
+                41.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Are you so utterly unable to watch? Did you not have enough strength to stay awake for one hour? The disciples' slumber was a disappointment to Jesus, as they had promised to be there for him. While their drowsiness does not prove insensibility, it showcased their inability to remain alert. This scene of drowsiness serves as an emblem of believers' spiritual sleep and drowsiness, which can even render them unaffected by powerful preaching. Nonetheless, believers are not expected to be constantly in prayer, but rather to pray within the bounds of their infirmity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4667108384337104,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.11,
+            "commentatorTierSimilarities": [
+                31.4,
+                33.41,
+                35.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Are you so utterly unable to watch for even one hour? Jesus asked his disciples in disappointment. Their failure to stay awake after promising to be there for him struck a chord. This scene of drowsiness serves as an emblem of believers' spiritual sleep and drowsiness. It highlights the moments when even the most powerful preaching fails to awaken them. However, believers are not expected to be in constant prayer but rather to pray according to their limitations and infirmities.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.3087523232327511,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.86,
+            "commentatorTierSimilarities": [
+                27.14,
+                32.75,
+                40.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Are you so utterly unable to watch for even one hour? Jesus asked his disciples in disappointment, their failure to stay awake after promising to be there for him. This scene of drowsiness serves as an emblem of believers' spiritual sleep and drowsiness. It highlights the moments when even the most powerful preaching fails to awaken them. However, believers are not expected to be in constant prayer but rather to pray according to their limitations and infirmities.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.373646808235217,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                28.49,
+                29.55,
+                41.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Are you thus unable, or so utterly unable to watch? Jesus asked his disciples in disappointment. Their slumber after promising to stay awake struck a chord, and their drowsiness was an emblem of spiritual sleep and drowsiness. This scene showcases how believers can be unmoved by powerful preaching. Nonetheless, believers are not required to be constantly in prayer, but rather to pray within the bounds of their infirmity. Even though the disciples' sleep was natural, it highlighted the great sorrow and grief they felt.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.3434041753846557,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.01,
+            "commentatorTierSimilarities": [
+                27.23,
+                30.26,
+                42.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

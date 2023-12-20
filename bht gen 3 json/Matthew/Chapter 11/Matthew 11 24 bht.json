@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:46:26",
+    "verseRef": "Matthew 11:24",
+    "bestBHT": {
+        "bht": "The rescue of sinners by God is an act of His undeserved grace. The measurement of these means is ruled by His holy will. Gratefulness should fill us when we possess the light of the glorious Gospel, while others are deprived. The judgment Jesus speaks of is future and final, not on cities but their inhabitants. This judgment is severe, irretrievable, and even more tolerable for the land of Sodom than for Capernaum, highlighting the severity of punishment for those who reject God's grace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.5279097412175968,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+        "commentatorTierSimilarities": [
+            48.35,
+            33.38,
+            18.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every act of God for the rescue of a sinner from his doom is purely and entirely of free and undeserved grace.",
+            "The proportion of such means of escape dealt out to men is ruled by the counsel of His will who is holy, just, and true.",
+            "Our only feeling should be overflowing thankfulness, when we find ourselves in possession of the light of the glorious Gospel, of which so many are deprived."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It has been indeed more tolerable, in one sense, in the day of its earthly judgment, for the land of Sodom than for Capernaum.\" ",
+            "The judgment of which our Lord here speaks is still future; a judgment not on material cities, but their responsible inhabitants.\" ",
+            "A judgment final and irretrievable."
+        ],
+        "Philip Schaff": [
+            "A future judgment is referred to, since our Lord speaks of what shall take place with regard to Sodom, which had been so long destroyed.",
+            "The inhabitants had not been annihilated."
+        ],
+        "John Gill": [
+            "More easy to be borne than the vengeance, which, in the last and general judgment, will fall upon such, who have had the means of grace, and have despised them...",
+            "Especially such as had the personal presence, ministry, and miracles of Christ among them, as the Capernaites had.",
+            "Such a way of expressing and setting forth the severer punishment of others, by that of Sodom, is not unusual in the Old Testament."
+        ],
+        "John Wesley": [
+            "."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every act of God to rescue sinners is purely out of His free and undeserved grace, and the measure of these means of escape is determined by His holy and just will. We should be overflowingly grateful for possessing the light of the glorious Gospel, of which many are deprived. The judgment spoken of by Jesus is a future and final one, not on physical cities, but on their responsible inhabitants. It will be a judgment that is irreversible and more unbearable than what befell Sodom, particularly for those who had the privilege of witnessing Christ's presence and ministry among them. This way of illustrating the severe punishment of others by comparing it to that of Sodom is not uncommon in the Old Testament.",
+            "wordCount": 125,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.5859875325847579,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                44.05,
+                30.14,
+                25.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every act of God for the rescue of a sinner is solely by His undeserved grace, and the extent of these means is determined by His holy counsel. The possession of the Gospel should fill us with overflowing thankfulness, considering that not everyone has access to it. The judgment spoken of by Jesus is a future and irreversible one, not on physical cities but on the people who had the privilege of experiencing Christ's personal presence and ministry. This comparison to Sodom's fate emphasizes the severity of the punishment that awaits those who reject the means of grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4190107853553737,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+            "commentatorTierSimilarities": [
+                49.17,
+                24.83,
+                26.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rescue of sinners by God is solely an act of His free and undeserved grace. The measurement of these means of deliverance is governed by His holy and just will. It is crucial for us to be grateful when we have the light of the Gospel, knowing that many are deprived of it. The judgment spoken of by Christ is a future and final one, not on physical cities but on the individuals accountable for their actions. This judgment will be severe and unalterable, surpassing even the judgment of Sodom.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.4758318316396761,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "commentatorTierSimilarities": [
+                50.26,
+                29.85,
+                19.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every act of God for the rescue of sinners is purely by His free and undeserved grace. The measurement of these means is determined by His holy will. Gratitude should overflow within us when we possess the light of the glorious Gospel, which many are deprived of. The judgment spoken of by Jesus is a future and irreversible one, not on physical cities, but on the responsible inhabitants. This judgment is final, severe, and exceeds even the judgment of Sodom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.505491773878202,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.4,
+            "commentatorTierSimilarities": [
+                51.73,
+                32.23,
+                16.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rescue of sinners by God is an act of His undeserved grace. The measurement of these means is ruled by His holy will. Gratefulness should fill us when we possess the light of the glorious Gospel, while others are deprived. The judgment Jesus speaks of is future and final, not on cities but their inhabitants. This judgment is severe, irretrievable, and even more tolerable for the land of Sodom than for Capernaum, highlighting the severity of punishment for those who reject God's grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5279097412175968,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                48.35,
+                33.38,
+                18.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

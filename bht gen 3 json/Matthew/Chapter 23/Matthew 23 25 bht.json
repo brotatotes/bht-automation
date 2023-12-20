@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 23:52:07",
+    "verseRef": "Matthew 23:25",
+    "bestBHT": {
+        "bht": "Beware of appearances, for a clean exterior does not guarantee inner purity. True cleanliness is found within, not just on the surface. Those who prioritize external acts of righteousness while neglecting morality are hypocrites. They may appear pure, but they are full of extortion and lack self-control. This verse emphasizes the importance of aligning our inner selves with our outward actions and serves as a warning against the dangers of hypocrisy.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.7038555560008701,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+        "commentatorTierSimilarities": [
+            30.01,
+            30.87,
+            39.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The exterior is not in reality pure when the interior is foul...",
+            "It is not 'a clean cup,' unless both exterior and interior be clean.",
+            "Observe, the emphasis is on be: 'that its exterior also may not appear to be, but really become, pure.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. within they are full of",
+            "\textortion\u2014In Luke (Luke 11:39)",
+            "\tthe same word is rendered \"ravening,\" that is, \"rapacity."
+        ],
+        "Albert Barnes": [
+            "The meaning is, that though they took much pains to appear well, yet they obtained a living by extortion and crime."
+        ],
+        "Marvin Vincent": [
+            "Platter, a side-dish, with the accompanying sense of something dainty; later, as here, the dish itself as distinguished from its contents.",
+            "Excess, conduct which shows a want of power over one's self: incontinence or intemperance."
+        ],
+        "John Calvin": [
+            "You give yourselves no concern about any cleanness but what appears outwardly, which is quite as if one were carefully to wash off the filth of the dish without, but to leave it filthy within.",
+            "He therefore reproves their hypocrisy, in not endeavoring to regulate their life, except before the eyes of men, in order to procure for themselves an empty reputation for holiness.",
+            "Cleanse first, he says, that which is within; for it would be ridiculous to feast your eyes with outward splendor, and yet to drink out of a cup full of dregs, or in other respects filthy."
+        ],
+        "Philip Schaff": [
+            "Ye cleanse the outside of the cup and of the dish.",
+            "Men often fancy themselves religious because they conform to some standard of outward morality.",
+            "They really gain their wealth by wrong-doing, and spend it in self-gratification."
+        ],
+        "Archibald T. Robertson": [
+            "These punctilious observers of the external ceremonies did not hesitate at robbery and graft, lack of control.\" ",
+            "A modern picture of wickedness in high places both civil and ecclesiastical where the moral elements in life are ruthlessly trodden under foot.",
+            "But the inside is the more important."
+        ],
+        "John Gill": [
+            "They make show of a pure and clean soul, but under it lies hid a leprosy: they are like to 'vessels full of uncleanness'; they are outwardly washed with the water of fraud and craftiness; but whatsoever is within, in the midst or them, is unclean.\" ",
+            "Christ's sense is, that they took much pains, and were very careful, that the cup they drank out of, and the platter, or dish they ate out of, should be very clean; when at the same time, the food and drink that were within them, were got by oppression and rapine.",
+            "In their oral law is a whole tract, called 'Mikvaot', which gives rules about the places where they washed, the things to be washed, and the manner of washing them; about which they were very nice, pretending to much outward cleanness, but had no regard to inward purity."
+        ],
+        "John Wesley": [
+            "These miserable men procured unjustly what they used intemperately.",
+            "Luxury punishes fraud while it feeds disease with the fruits of injustice.",
+            "Intemperance in the full sense takes in not only all kinds of outward intemperance... but all intemperate or immoderate desires."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns that appearances can be deceiving, for even though one may clean the outside of a cup or dish, it is not truly clean if the inside remains unclean. This is a reminder that true purity comes from within, not just in outward actions. The commentary expands on this idea, noting that these religious individuals may have appeared outwardly clean, but under the surface they were full of extortion and lacking in self-control. They prioritized ceremony over morality, showing a disregard for the true principles of righteousness. Ultimately, this serves as a cautionary tale about the dangers of hypocrisy and the importance of inner purity.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.7276211773720789,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "commentatorTierSimilarities": [
+                24.03,
+                33.57,
+                42.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Appearances can deceive; a clean exterior does not guarantee purity within. This verse reminds us that true cleanliness goes beyond outward actions to encompass our inner selves. The emphasized word be implies the need for a genuine transformation, not just a facade. The commentators further highlight the hypocrisy of those who prioritize external rituals while neglecting morality. These individuals may appear pure, but they are actually full of extortion and lack self-control. The emphasis is on inner purity and the importance of aligning our outward actions with our true selves.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.660315541762305,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.55,
+            "commentatorTierSimilarities": [
+                31.49,
+                28.93,
+                39.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of appearances, for a clean exterior does not guarantee inner purity. True cleanliness is found within, not just on the surface. Those who prioritize external acts of righteousness while neglecting morality are hypocrites. They may appear pure, but they are full of extortion and lack self-control. This verse emphasizes the importance of aligning our inner selves with our outward actions and serves as a warning against the dangers of hypocrisy.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7038555560008701,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                30.01,
+                30.87,
+                39.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of the temptation to prioritize appearances, for a clean exterior is meaningless if the interior remains foul. True purity requires both the exterior and interior to be clean, not just one or the other. This verse reminds us to strive for genuine transformation, where our outward actions align with our inner selves. The commentary emphasizes the hypocrisy of those who focus on external rituals while disregarding morality and engaging in wrongdoing. It serves as a cautionary tale, highlighting the importance of inner purity and authenticity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.673939966618403,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                34.98,
+                24.82,
+                40.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Appearances can be deceiving. A clean exterior does not guarantee true purity within. The focus should be on genuine transformation, where both the exterior and interior are clean. This verse warns against hypocrisy, where outward rituals are prioritized over morality. It reveals the danger of engaging in wrongdoing and lacking self-control. Inner purity is vital, as it aligns our true selves with our outward actions. Let us remember that true cleanliness comes from within, not just from appearances.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.5775644460808484,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "commentatorTierSimilarities": [
+                39.53,
+                21.26,
+                39.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

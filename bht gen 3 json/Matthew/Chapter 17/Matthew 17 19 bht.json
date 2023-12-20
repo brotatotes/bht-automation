@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:49:06",
+    "verseRef": "Matthew 17:19",
+    "bestBHT": {
+        "bht": "In a house, the disciples questioned their inability to cast out the demon from the boy. It was their lack of faith that hindered them in this task. Although faith doesn't make God's work easier, it is the means by which He chooses to work. Those who have faith don't desire everything indiscriminately, but only what the Lord promises. By keeping ourselves open to receiving His grace, we can be assured that God will never forsake us. The disciples needed to recognize that their own faith was instrumental in manifesting God's power.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.0613790585793488,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.63,
+        "commentatorTierSimilarities": [
+            7.8,
+            38.87,
+            53.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] It was in the house, Mark ix. 28."
+        ],
+        "Albert Barnes": [
+            "It was because of their unbelief that they had not been able to cast him out.",
+            "Their faith would not have made it more easy for God to work this miracle, but such was his will - such the way in which he worked miracles, that he required faith in those who were the instruments.",
+            "He required faith in those who were the instruments."
+        ],
+        "John Calvin": [
+            "Nothing is impossible to faith.",
+            "God will never forsake us, if we keep the door open for receiving his grace.",
+            "Those in whom faith reigns do not desire everything without discrimination, but only that which the Lord promises to give."
+        ],
+        "Philip Schaff": [
+            "Matthew 17:19. To Jesus apart. In a \u2018house\u2019 (Mark 9:28).",
+            "\t"
+        ],
+        "John Gill": [
+            "Why could not we cast him out? That is, the devil, and so cure the lunatic... They were concerned, fearing they had lost the power which Christ had bestowed on them, and wanted to know what they had done, which had deprived them of it.\" ",
+            "They might have learned from the answer Christ gave to the father of the lunatic... the true reason of their own inability; but this they took no notice of, imagining it belonged entirely to others, and not to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples questioned why they were unable to cast out the demon from the boy. It is mentioned that this conversation took place in a house, emphasizing the more intimate setting for this discussion. The commentators suggest that the key factor that hindered the disciples from performing the miracle was their lack of faith. While faith does not make the work of God easier, it is the means by which God chooses to work. The disciples had to believe and trust in God's power to see the miraculous happen. Similarly, for us today, a strong faith is necessary to receive God's grace and experience His power in our lives.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 0.8418180493477732,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.33,
+            "commentatorTierSimilarities": [
+                -0.92,
+                46.15,
+                54.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, in a house, questioned their inability to cast out the demon from the boy, highlighting their lack of faith as the reason. While faith does not make God's work easier, it is necessary for His miraculous power to be displayed. Those who allow faith to guide them do not seek everything indiscriminately, but only what the Lord promises. God's grace is always available if we keep ourselves open to receiving it. The disciples needed to recognize that their own faith was essential for them to be effective instruments of God's power.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0002344787713717,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.6,
+            "commentatorTierSimilarities": [
+                2.07,
+                39.39,
+                58.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a house, the disciples wondered why they couldn't cast out the demon from the boy. The primary reason was their lack of faith. Though faith doesn't make God's work easier, it is the means by which He chooses to work. Those with faith don't indiscriminately desire everything, but only what the Lord promises. God never abandons those who keep the door open for His grace. The disciples needed to realize that their own faith was essential for them to effectively manifest God's power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.0316438447582792,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.65,
+            "commentatorTierSimilarities": [
+                8.16,
+                37.37,
+                54.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a house, the disciples were perplexed about their inability to cast out the demon from the boy. Their lack of faith was the primary hindrance to their success. Though faith doesn't make God's work easier, it is the means by which He chooses to work. Those with faith trust in God's promises rather than desiring everything without discrimination. By keeping the door open for receiving His grace, God will never forsake us. The disciples needed to acknowledge that their own faith was key to experiencing God's power.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 0.9979794960541977,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.53,
+            "commentatorTierSimilarities": [
+                3.91,
+                39.39,
+                56.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a house, the disciples questioned their inability to cast out the demon from the boy. It was their lack of faith that hindered them in this task. Although faith doesn't make God's work easier, it is the means by which He chooses to work. Those who have faith don't desire everything indiscriminately, but only what the Lord promises. By keeping ourselves open to receiving His grace, we can be assured that God will never forsake us. The disciples needed to recognize that their own faith was instrumental in manifesting God's power.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0613790585793488,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.63,
+            "commentatorTierSimilarities": [
+                7.8,
+                38.87,
+                53.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:43:52",
+    "verseRef": "Matthew 5:35",
+    "bestBHT": {
+        "bht": "People often think it is acceptable to use oaths invoking heaven, earth, Jerusalem, or their own heads as substitutes for God's name. This reflects a lingering half-respect for the sacredness of God's name. However, the earth is God's footstool, as stated in Isaiah 66:1, and Jerusalem is the city of the great King. The earth showcases God's glory as part of His work, and Jerusalem represents His special religious authority. Therefore, it is inappropriate to use these references lightly in oaths; instead, we should honor the holiness of God.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.6671072589588558,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+        "commentatorTierSimilarities": [
+            29.39,
+            29.84,
+            40.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Men had learned to think that, if only God\u2019s name were avoided, there was no irreverence in the frequent oaths by heaven, by the earth, by Jerusalem, by their own heads...\" ",
+            "Just-as now-a-days the same lingering half-respect for the Holy Name will often cause men, who would not be wholly profane, to substitute for that name sounds that nearly resemble, but are not exactly it, or the name, it may be, of some heathen deity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "35. Nor by the earth; for it is his",
+            "\tfootstool\u2014(quoting Isaiah 66:1);",
+            "\t",
+            "neither by Jerusalem for it",
+            "\tis the city of the great King\u2014(quoting Isaiah 66:1- :)."
+        ],
+        "Philip Schaff": [
+            "The oath, if not senseless, would derive its validity from the relation of the earth to God.",
+            "Any solemnity attending this oath came from the fact that it was the city of the great.",
+            "Where the temple stood, the seat of the special religious government Jehovah had established over Israel."
+        ],
+        "John Gill": [
+            "The earth is God's 'footstool', referring, as before, to Isaiah 66:1 on which he treads; and where he also manifests forth his glory, and is a considerable part of the work of his hands.",
+            "In the Gemara it is, 'he that says as Jerusalem, does not say anything, till he has made his vow concerning a thing, which is offered up in Jerusalem.''",
+            "The reason given for prohibiting this kind of oath, is; for it is the city of the great king: not of David, but of the King of kings, the Lord of hosts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "People often believe that as long as they avoid using God's name, it is not irreverent to make oaths by invoking heaven, earth, Jerusalem, or their own heads. This is similar to how some people today may substitute similar-sounding words for God's name. However, this practice is not honoring to the sacredness of God's name. The verse reminds us that the earth is God's footstool, as stated in Isaiah 66:1, and Jerusalem is the city of the great King, highlighting the significance of these places in relation to God. The earth, a creation of God's hands, displays His glory. Additionally, Jerusalem, where the temple once stood, represents the special religious authority established by Jehovah over Israel. Therefore, it is inappropriate to use these references in oaths. Instead, we should respect the holiness of God and refrain from such practices.",
+            "wordCount": 144,
+            "quoteTokenProportion": 40.22,
+            "qualityScore": 1.4169505730471477,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                28.42,
+                31.85,
+                39.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "People often think that it is acceptable to use oaths invoking heaven, earth, Jerusalem, or their own heads as substitutes for God's name. This practice reflects a lingering half-respect for the sacredness of God's name. However, the significance of the earth as God's footstool, mentioned in Isaiah 66:1, and Jerusalem as the city of the great King, should not be diminished. The earth, a remarkable creation of God, reveals His glory, and Jerusalem represents His special religious authority. It is therefore inappropriate to use these references lightly in oaths, as we should honor the holiness of God instead.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6450798551194374,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.04,
+            "commentatorTierSimilarities": [
+                29.19,
+                30.49,
+                40.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many people mistakenly believe that as long as they avoid using God's name, it is not impious to make oaths by invoking heaven, earth, Jerusalem, or even their own heads. This substitution of words resembles a half-hearted attempt to show reverence for the holy name. However, the earth is the very footstool of God, reflecting the words of Isaiah 66:1, and Jerusalem holds the designation as the city of the great King. We must not take lightly these references, for they represent the glory of God and His special religious authority.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.5409485247072352,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.58,
+            "commentatorTierSimilarities": [
+                32.59,
+                27.05,
+                40.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "People often think it is acceptable to use oaths invoking heaven, earth, Jerusalem, or their own heads as substitutes for God's name. This reflects a lingering half-respect for the sacredness of God's name. However, the earth is God's footstool, as stated in Isaiah 66:1, and Jerusalem is the city of the great King. The earth showcases God's glory as part of His work, and Jerusalem represents His special religious authority. Therefore, it is inappropriate to use these references lightly in oaths; instead, we should honor the holiness of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6671072589588558,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                29.39,
+                29.84,
+                40.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many believe it is acceptable to make oaths by invoking heaven, earth, Jerusalem, or even their own heads, thinking that as long as they avoid using God's name, they are not irreverent. This resembles the way some people today substitute similar-sounding words for God's name in an attempt to avoid profanity. However, the earth is God's footstool, as Isaiah 66:1 states, and Jerusalem is the city of the great King, representing God's special religious authority. Using these references lightly in oaths undermines the sacredness of God's name and His glory displayed through His creation.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.6069505861783906,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                30.75,
+                28.91,
+                40.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

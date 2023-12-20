@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:48:20",
+    "verseRef": "Matthew 14:34",
+    "bestBHT": {
+        "bht": "In Gennesaret, Jesus honored the superstitious faith of the people by completely healing those who touched him. This fertile district, known for its gardens, was a place where Jesus's glory was evident through numerous miracles. As Christians, we are not only called to seek our own healing but also to bring others to Jesus for the same remedy. While we cannot physically touch Jesus today, we can embrace the salvation he offers through faith. Believers can find rest and delight in the heavenly blessings provided by Jesus, the Son of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 1.1346092631478548,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+        "commentatorTierSimilarities": [
+            42.98,
+            14.94,
+            42.08
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "Our chief business is, to attend to the object which the Evangelists have in view. It is, to show that the glory of Christ was attested not by one or by another miracle, but that this part of Judea was filled with innumerable proofs of it.",
+            "Now as we labor under every kind of diseases till he heal us, let each of us not only present himself to him, but endeavor to bring others who need the same remedy.",
+            "Now that he fills heaven and earth with the sweet savor of his grace, we must embrace\u2014not with hands or eyes, but by faith\u2014the salvation which he offers to us from heaven."
+        ],
+        "Philip Schaff": [
+            "This points to ordinary, not miraculous sailing.",
+            "Gennesaret\u2019 was a fertile district, with a mild climate, on the western shore of the lake.",
+            "Modern name: El-Ghuweir."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus honoured their superstitious faith and 'as many as touched were made whole' (\u03bf\u03c3\u03bf \u03b7\u03c8\u03b1\u03bd\u03c4\u03bf \u03b4\u03b9\u03b5\u03c3\u03c9\u03b8\u03b5\u03c3\u03b1\u03bd), completely (\u03b4\u03b9-) healed.",
+            "A rich plain four miles long and two broad.",
+            "The first visit of Jesus apparently with the usual excitement at the cures."
+        ],
+        "John Gill": [
+            "And it is said to be a country in the land of Israel, in which were many gardens; and by others, a place in the land of Galilee (as it was) whose fruits were large and good.",
+            "And thus the saints, after a long and troublesome passage over the sea of this world, arrive, at last, safe at their desired haven, and enter upon a most delightful country, a paradise, a garden of pleasure.",
+            "...and they ascribe greatness to Christ, as the Son of God, and forever worship him as the eternal Jehovah, who has done such great things for them, as none but God can do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus was not hindered by the superstitious faith of the people in Gennesaret, in fact, he honored it and healed all who touched him. This fertile district, known for its gardens and fruits, was the site of many demonstrations of Jesus' glory and power. The Evangelists wanted to show that Jesus' miracles were not isolated incidents, but rather a reflection of the countless proofs of his divinity throughout the region. As Christians, we should not only seek healing for ourselves, but also strive to bring others in need of the same remedy to Jesus. Though we cannot physically touch Jesus today, we can still embrace the salvation he offers through faith. Like the saints who find rest and delight in their desired haven after a long and troublesome journey, believers can enter into the heavenly blessings offered by Christ. In response to all that Jesus has done, we ascribe greatness to him, for he is the Son of God and the eternal Jehovah who has done great things for us.",
+            "wordCount": 170,
+            "quoteTokenProportion": 40.18,
+            "qualityScore": 1.0735530990288074,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.04,
+            "commentatorTierSimilarities": [
+                39.55,
+                10.46,
+                49.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus honored the superstitious faith of the people in Gennesaret, healing all who touched him. This fertile district, known for its gardens and fruits, was filled with multitude proofs of Jesus' glory. Christians are called not only to seek healing for themselves, but also to bring others to Jesus for the same remedy. Though we cannot physically touch Jesus, we can embrace the salvation he offers through faith. Believers can find rest and delight in the heavenly blessings offered by Christ, as they ascribe greatness to him, the Son of God and eternal Jehovah.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.0948850602106321,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+            "commentatorTierSimilarities": [
+                41.94,
+                12.29,
+                45.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus honored the superstitious faith of the people in Gennesaret, healing all who touched him. This fertile district, known for its gardens and fruits, was filled with multitude proofs of Jesus' glory. Christians are called not only to seek healing for themselves, but also to bring others to Jesus for the same remedy. Though we cannot physically touch Jesus, we can embrace the salvation he offers through faith. Believers can find rest and delight in the heavenly blessings offered by Christ, as they ascribe greatness to him, the Son of God and eternal Jehovah.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.0948850602106321,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+            "commentatorTierSimilarities": [
+                41.94,
+                12.29,
+                45.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Gennesaret, Jesus honored the superstitious faith of the people by healing all who touched him. This fertile district, known for its gardens and fruits, was filled with countless proofs of Jesus' glory. Christians are called not only to seek healing for themselves, but also to bring others to Jesus for the same remedy. Though we cannot physically touch Jesus, we can embrace the salvation he offers through faith. Believers find rest and delight in the heavenly blessings offered by Christ, as they ascribe greatness to him, the Son of God and eternal Jehovah.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.1022407081586851,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+            "commentatorTierSimilarities": [
+                41.78,
+                12.01,
+                46.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Gennesaret, Jesus honored the superstitious faith of the people by completely healing those who touched him. This fertile district, known for its gardens, was a place where Jesus's glory was evident through numerous miracles. As Christians, we are not only called to seek our own healing but also to bring others to Jesus for the same remedy. While we cannot physically touch Jesus today, we can embrace the salvation he offers through faith. Believers can find rest and delight in the heavenly blessings provided by Jesus, the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.1346092631478548,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "commentatorTierSimilarities": [
+                42.98,
+                14.94,
+                42.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

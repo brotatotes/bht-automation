@@ -1,0 +1,108 @@
+{
+    "timestamp": "12-19-2023 23:47:34",
+    "verseRef": "Matthew 13:50",
+    "bestBHT": {
+        "bht": "Those who reject God's message will be cast into the furnace of fire, as described in the verse. This vivid imagery conveys the seriousness and irreversibility of their judgment. The use of the same language as another verse intensifies the impact, highlighting the grave nature of the situation. The furnace of fire symbolizes the eternal punishment awaiting those who reject God's truth, serving as a stark reminder of the dire consequences that come with rejecting His grace and salvation.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.0660134139911268,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.79,
+        "commentatorTierSimilarities": [
+            0.0,
+            35.38,
+            64.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Repeats word for word the awful language of Matthew 13:42, giving great solemnity to the close of the discourse in parables.",
+            "The historical application is obviously to the closing period and scene of the Church militant."
+        ],
+        "John Gill": [
+            "And shall cast them into the furnace of fire,.... :-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question speaks of those who reject God's message being cast into the furnace of fire. This imagery is used to emphasize the severity and finality of the judgment that awaits them. The use of this language in Matthew 13:50 echoes the earlier verse, Matthew 13:42, further intensifying the gravity of the situation. The mention of the furnace of fire symbolizes the eternal punishment that awaits those who refuse to accept God's truth. It serves as a sobering reminder of the consequences that result from rejecting God's grace and salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.134529337648469,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.89,
+                54.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse portrays the fate of those who reject God's message, being cast into the furnace of fire. The use of this imagery highlights the seriousness and finality of the judgment they will face. By using the same language as a previous verse, it emphasizes the severity of the situation. The furnace of fire symbolizes the eternal punishment for those who spurn God's truth, reminding us of the consequences that come from rejecting His grace and salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.040874783820596,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.95,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.33,
+                60.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse depicts the destiny of those who reject God's message, being cast into the furnace of fire. This imagery emphasizes the severity and finality of their judgment. By utilizing the same language as a previous verse, it underscores the gravity of the situation. The furnace of fire represents the eternal punishment for those who reject God's truth, serving as a reminder of the consequences that arise from rejecting His grace and salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 0.9220207459281635,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.62,
+                64.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who reject God's message will be cast into the furnace of fire, as described in the verse. This vivid imagery conveys the seriousness and irreversibility of their judgment. The use of the same language as another verse intensifies the impact, highlighting the grave nature of the situation. The furnace of fire symbolizes the eternal punishment awaiting those who reject God's truth, serving as a stark reminder of the dire consequences that come with rejecting His grace and salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.0660134139911268,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.38,
+                64.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who reject God's message will face the furnace of fire, reflecting the verse's message. This vivid imagery underscores the seriousness and finality of their judgment. By echoing the language of another passage, it further emphasizes the gravity of the situation. The furnace of fire symbolizes the eternal punishment reserved for those who refuse God's truth, serving as a potent reminder of the severe consequences that accompany the rejection of His grace and salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 0.9438813095284133,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.26,
+                55.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

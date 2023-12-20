@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:42:46",
+    "verseRef": "Matthew 1:20",
+    "bestBHT": {
+        "bht": "The announcement of the miraculous conception was made openly to Mary, but to Joseph it came in a dream. Joseph, grappling alone with the situation, decided to marry Mary and shelter her despite the cloud over their relationship. In his distress, God interposed, assuring Joseph that the child was begotten of the Holy Spirit and that Mary was innocent. This revelation enabled Joseph to step into his role confidently, protecting the unsullied relationship between him, Mary, and the child, exemplifying his faith in God's providence.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.834196596236524,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            48.83,
+            20.26,
+            30.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The announcement was made to Mary openly, but to Joseph in a dream; for in Mary\u2019s case faith and concurrence of will were necessary.\" ",
+            "But see on the other hand the remarks at the close of the notes on ver. 21.",
+            "May it not likewise be said, that this appellation would come with more force, if Mary also were a daughter of David?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As he brooded over the matter alone, in the stillness of the night, his domestic prospects darkened and his happiness blasted for life, his mind slowly making itself up to the painful step, yet planning how to do it in the way least offensive...\" ",
+            "At the last extremity the Lord Himself interposes.",
+            "Though a dark cloud now overhangs this relationship, it is unsullied still."
+        ],
+        "Albert Barnes": [
+            "God will guide the thoughtful and the anxious.",
+            "Various ways were employed by them in making known the will of God, by dreams, visions, assuming a human appearance, etc.",
+            "Do not fear that she will be unworthy of you, or will disgrace you."
+        ],
+        "John Calvin": [
+            "We see here how seasonably, and, as we would say, at the very point, the Lord usually aids his people.",
+            "When he appears not to observe our cares and distresses, we are still under his eye.",
+            "The dreams which come from God are accompanied by the testimony of the Spirit, which puts beyond a doubt that it is God who speaks."
+        ],
+        "Philip Schaff": [
+            "An honest doubter will obtain light, but not he who gives way to passion. Man\u2019s extremity, God\u2019s opportunity.",
+            "Not temporal deliverance, nor mere legal justification, but actual salvation from sin as a polluting power in our nature.",
+            "If men are not being saved from sin they have no evidence that they are of his people; if, however, in seeming tenderness of conscience, they are ever forgetting the Saviour in the thought of their sins, then they lose the force of this ante-natal gospel, this Divine statement, that He who was born of Mary, the Person who lived in Judea, and He alone, can and does save us from our sins."
+        ],
+        "Archibald T. Robertson": [
+            "Joseph was entitled to know this supreme fact that he might be just to both Mary and her Child.",
+            "He had pondered and had planned as best he knew, but now God had called a halt and he had to decide whether he was willing to shelter Mary by marrying her.",
+            "Joseph was told that the child was begotten of the Holy Spirit and thus that Mary was innocent of any sin."
+        ],
+        "John Gill": [
+            "While he was consulting within himself the glory of God, the peace of his own conscience, and the credit of Mary...",
+            "do not be afraid either that thou shalt offend the Lord, or bring any reproach or scandal upon thyself as if thou didst connive at an adulteress...",
+            "she has not been guilty of any criminal conversation with men; this conception of her's is of the Holy Ghost, and entirely owing to his coming upon her, and overshadowing her in a wonderful and miraculous manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The announcement of the miraculous conception was made openly to Mary, but to Joseph it came in a dream. Joseph, grappling with the situation alone, had to decide whether to marry Mary and shelter her, despite the dark cloud hanging over their relationship. In his distress, God interposed at the last moment, assuring Joseph that the child was begotten of the Holy Spirit and that Mary was innocent. Joseph needed to know this truth in order to be just to both Mary and her Child. This revelation enabled Joseph to step into his role with confidence and protect the unsullied relationship between him, Mary, and the child. His decision to accept the responsibility was a testament to his faith and trust in God's providence.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.8021289399656895,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                48.05,
+                20.92,
+                31.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The announcement of the miraculous conception was made openly to Mary, but to Joseph it came in a dream. Joseph, grappling alone with the situation, decided to marry Mary and shelter her despite the cloud over their relationship. In his distress, God interposed, assuring Joseph that the child was begotten of the Holy Spirit and that Mary was innocent. This revelation enabled Joseph to step into his role confidently, protecting the unsullied relationship between him, Mary, and the child, exemplifying his faith in God's providence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.834196596236524,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                48.83,
+                20.26,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The announcement of the miraculous conception was made openly to Mary, but to Joseph it came in a dream. As he pondered and planned in the stillness of the night, his domestic prospects darkened and his happiness was seemingly destroyed. But in his moment of extremity, God interposed, assuring him that Mary was innocent and that the child was begotten of the Holy Spirit. With this knowledge, Joseph decided to marry Mary, protecting their unsullied relationship and exemplifying his faith in God's providence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7367205496788363,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "commentatorTierSimilarities": [
+                45.78,
+                21.99,
+                32.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angelic announcement of the miraculous conception was made openly to Mary, while Joseph received this revelation in a dream. Joseph, alone and uncertain, grappled with the decision to marry Mary and protect her. In his distress, God interposed and assured him that Mary was innocent and the child was begotten of the Holy Spirit. This revelation enabled Joseph to confidently step into his role and safeguard their unsullied relationship, showcasing his trust in God's providence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.7914248850605121,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                42.16,
+                24.35,
+                33.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The announcement of the miraculous conception was made openly to Mary, but to Joseph it came in a dream. Joseph, grappling alone with the situation, decided to marry Mary and shelter her despite the cloud over their relationship. In his distress, God interposed, assuring Joseph that the child was begotten of the Holy Spirit and that Mary was innocent. This revelation enabled Joseph to step into his role confidently, protecting the unsullied relationship between him, Mary, and the child, exemplifying his faith in God's providence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.834196596236524,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                48.83,
+                20.26,
+                30.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

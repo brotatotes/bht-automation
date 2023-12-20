@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:49:43",
+    "verseRef": "Matthew 19:19",
+    "bestBHT": {
+        "bht": "The inclusion of Thou shalt love thy neighbor as thyself in Matthew's account is a unique addition. It serves as a condensed representation and fulfillment of our duties towards others, linking the commandment to honor parents with the broader commandments found in the Decalogue. This statement summarizes our responsibilities towards fellow human beings and emphasizes that the order of the commandments listed does not carry a significant weight, as each commandment is of equal importance.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.8451124761124877,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+        "commentatorTierSimilarities": [
+            34.31,
+            50.61,
+            15.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] The addition of Thou shalt love&c. is peculiar to Matthew."
+        ],
+        "Philip Schaff": [
+            "Honour thy father and thy mother. This commandment connects the two classes of duties enjoined in the Decalogue, but is here presented as involving duty to man.",
+            "Thou shalt love thy neighbour at thyself. A summing up of our duties to men, taken from Leviticus 14:18."
+        ],
+        "John Gill": [
+            "This, as it is the first commandment with promise, so the first of the second table, and yet is here mentioned last.",
+            "And thou shalt love thy neighbour as thyself; which is not a particular distinct command from the rest, or an explication of the tenth and last, not mentioned; but a recapitulation, or compendium, and abridgment of the whole, and is said to be a complement and fulfilling of the law.",
+            "There is neither first nor last in the law\": that is, it is of no consequence which commandment is recited first, or which last."
+        ],
+        "John Wesley": [
+            "Exodus 20:12. etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The addition of Thou shalt love thy neighbor as thyself in Matthew 19:19 is unique to Matthew's account. This commandment serves as a summary and fulfillment of our duties to others, tying together the commandment to honor our parents and the broader commandments found in the Decalogue. It is not a separate commandment, but rather a recapitulation and condensation of the entire scope of our responsibilities towards others. It is important to note that the order in which the commandments are listed is of little significance, as each one carries equal weight.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.755005395723452,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                34.32,
+                46.49,
+                19.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unique addition of Thou shalt love thy neighbor as thyself corresponds to Matthew's account, summarizing our duty towards others and serving as an encompassing fulfillment of the law. It is a condensed representation of our responsibilities towards our neighbors, connecting the command to honor our parents with the broader commandments found in the Decalogue. The order in which the commandments are listed holds little significance, as they all carry equal weight.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6494923871988012,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                29.77,
+                52.61,
+                17.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unique addition of Thou shalt love thy neighbor as thyself in Matthew's account serves as a condensed representation of our duties towards others and a fulfillment of the law. This commandment connects the obligation to honor parents with the broader commandments of the Decalogue, summarizing our responsibilities to fellow human beings. The order in which the commandments are listed holds little significance, as each one carries equal weight.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.7250210617157862,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                29.56,
+                53.23,
+                17.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The addition of Thou shalt love thy neighbor as thyself in Matthew's account is a condensed representation of our duties towards others and a fulfillment of the law. It connects the obligation to honor parents with the broader commandments in the Decalogue, summarizing our responsibilities to fellow human beings. The order in which the commandments are listed holds little significance, as each carries equal weight.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.656187919728749,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.41,
+            "commentatorTierSimilarities": [
+                29.76,
+                54.81,
+                15.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusion of Thou shalt love thy neighbor as thyself in Matthew's account is a unique addition. It serves as a condensed representation and fulfillment of our duties towards others, linking the commandment to honor parents with the broader commandments found in the Decalogue. This statement summarizes our responsibilities towards fellow human beings and emphasizes that the order of the commandments listed does not carry a significant weight, as each commandment is of equal importance.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8451124761124877,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                34.31,
+                50.61,
+                15.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

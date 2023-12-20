@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:42:52",
+    "verseRef": "Matthew 1:19",
+    "bestBHT": {
+        "bht": "Joseph, a just man with a deep commitment to the law, found himself in a dilemma when he learned about Mary's pregnancy. He could have chosen to publicly expose her and bring her to justice, yet his mercy and love for her led him to choose a different path. Joseph's intention to privately divorce Mary demonstrated his adherence to the law and his desire to protect her from public shame. His decision to sacrifice his own reputation showed an exceptional regard for her honor, set apart by both justice and kindness.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 2.076079599237432,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+        "commentatorTierSimilarities": [
+            24.56,
+            39.22,
+            36.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was a strict observer of the law,\u2014and (yet) not willing to expose her.",
+            "The sense of \u2018kind,\u2019 \u2018merciful,\u2019 proposed by some instead of just, is inadmissible.",
+            "The husband might either do this, or adopt the stronger course of bringing his wife to justice openly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Betrothal was, in Jewish law, valid marriage.",
+            "To expose her...to make her a public example.",
+            "The purpose to divorce her...does not necessarily imply disbelief, on Joseph's part, of the explanation given him."
+        ],
+        "Albert Barnes": [
+            "Justice consists in rendering to every man his own...that he was kind, tender, merciful; that he was so attached to Mary that he was not willing that she should be exposed to public shame.\" ",
+            "Yet Joseph was a religious man - mild and tender; and he was not willing to complain of her to the magistrate, and expose her to death, but sought to avoid the shame, and to put her away privately.\" ",
+            "We may learn from this to put our trust in God...our only aim should be to preserve a conscience void of offence, and God will guard our reputation."
+        ],
+        "Marvin Vincent": [
+            "Qelein is the stronger word, and expresses a purpose or determination or decree, the execution of which is, or is believed to be, in the power of him who wills.\" ",
+            "Boulesqai expresses wish, inclination, or disposition, whether one desires to do a thing himself or wants someone else to do it.",
+            "Boulesqai can always be rendered by qelein, but qelein cannot always be expressed by boulesqai."
+        ],
+        "John Calvin": [
+            "That justice, on which a commendation is here bestowed, consisted in hatred and abhorrence of crime.",
+            "Joseph, therefore, moved by an ardent love of justice, condemned the crime of which he supposed his wife to have been guilty; while the gentleness of his disposition prevented him from going to the utmost rigor of law.",
+            "The same remark is applicable to Mary\u2019s silence. Granting that modest reserve prevented her from venturing to tell her husband, that she was with child by the Holy Spirit, it was not so much by her own choice, as by the providence of God that she was restrained."
+        ],
+        "Philip Schaff": [
+            "A just man, a man of uprightness... Justice is rarely exercised to one in the situation of Mary. So high a regard for the honor and reputation of a woman is most rare in Eastern countries.",
+            "Mary\u2019s strong faith may have influenced him also.",
+            "By preferring the former, Joseph exhibited not only kindness but self-sacrifice, since her condition, when publicly known, would be reckoned his disgrace."
+        ],
+        "Archibald T. Robertson": [
+            "He had the Jewish conscientiousness for the observance of the law which would have been death by stoning... Though Joseph was upright, he would not do that."
+        ],
+        "John Gill": [
+            "being a just man, observant of the law of God, particularly that which respected adultery, being wholly good and chaste",
+            "he being tender and compassionate, though strictly just and good",
+            "he deliberately consulted and determined within himself to dismiss her, or put her away by giving her a bill of divorce, in a very private manner"
+        ],
+        "John Wesley": [
+            "A just man \u2014 A strict observer of the law: therefore not thinking it right to keep her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joseph, a man committed to upholding the law, was faced with a difficult situation when he discovered that Mary, his betrothed, was pregnant. His strict observance of the law demanded that he not turn a blind eye to what seemed to be an act of adultery. However, he did not want to expose Mary to public shame and punishment. Joseph's intention to divorce her privately does not necessarily imply disbelief in her explanation. Joseph's actions revealed his commitment to justice, but also his compassion and kindness towards Mary. His decision to protect her honor, even at the cost of his own reputation, exemplified his self-sacrifice and deep love for her.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0476806769788496,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.43,
+            "commentatorTierSimilarities": [
+                28.18,
+                37.33,
+                34.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joseph, as a strict observer of the law, grappled with the news of Mary's pregnancy. While justice would have led him to expose her as an adulteress, he chose a more merciful route. His intention to privately divorce her showcased not only his commitment to the law but also his deep love and compassion for Mary. Joseph's decision to protect her from public shame demonstrated his self-sacrifice and revealed his upright character. His actions highlighted the rare regard for a woman's honor and reputation in Eastern societies.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.0273635624614847,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.75,
+            "commentatorTierSimilarities": [
+                25.31,
+                38.57,
+                36.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joseph, a just and upright man, faced a challenging situation when he discovered Mary's pregnancy. Committed to the law, he could have chosen to publicly expose her, yet his mercy prevailed. Joseph's decision to privately divorce her revealed not only his observance of the law but also his deep love and compassion for Mary. He sought to protect her from public shame, demonstrating an exceptional regard for her honor. Joseph's actions reflected his self-sacrifice and portrayed a rare commitment to justice and kindness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.056838508778311,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                24.8,
+                39.13,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph, a strict observer of the law, discovered Mary's pregnancy and had a decision to make. Although justice demanded that he expose her, his mercy prevailed. Joseph chose to discreetly divorce her, protecting her from public shame. His commitment to the law and his deep love for Mary guided his actions. In this difficult situation, Joseph's decision reflected his self-sacrifice and compassion, illustrating a rare regard for a woman's honor.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.992917122153305,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                26.26,
+                35.61,
+                38.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph, a just man with a deep commitment to the law, found himself in a dilemma when he learned about Mary's pregnancy. He could have chosen to publicly expose her and bring her to justice, yet his mercy and love for her led him to choose a different path. Joseph's intention to privately divorce Mary demonstrated his adherence to the law and his desire to protect her from public shame. His decision to sacrifice his own reputation showed an exceptional regard for her honor, set apart by both justice and kindness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.076079599237432,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+            "commentatorTierSimilarities": [
+                24.56,
+                39.22,
+                36.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:44:58",
+    "verseRef": "Matthew 7:6",
+    "bestBHT": {
+        "bht": "Do not give that which is holy to dogs or cast your pearls before swine. Dogs signify people who oppose and abuse the teachings of the Gospel, while swine represent those who would trample the precepts underfoot. They will not receive the pearls of truth, for they cannot perceive their value and would trample them down. Be prudent in rebuking and admonishing those who would reject the Gospel with contempt and savage hatred, reserving the treasure of heavenly wisdom for the children of God alone.",
+        "wordCount": 85,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 2.3869921610464386,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.71,
+        "commentatorTierSimilarities": [
+            29.33,
+            39.68,
+            30.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That which is holy...would be a profanation to give it to them.",
+            "The swine... trample them with their and turning against the donor, rend him with their tusks.",
+            "Give not that which is holy to dogs... not Judging uncharitably on the one hand, nor casting pearls before swine on the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give not that which is holy unto the dogs\u2014savage or snarling haters of truth and righteousness.",
+            "neither cast ye your pearls before swine\u2014the impure or coarse, who are incapable of appreciating the priceless jewels of Christianity.",
+            "But while the indiscriminately zealous have need of this caution, let us be on our guard against too readily setting our neighbors down as dogs and swine, and excusing ourselves from endeavoring to do them good on this poor plea."
+        ],
+        "Albert Barnes": [
+            "Dogs\" signify people who spurn, oppose, and abuse that doctrine; people of special sourness and malignity of temper, who meet it like growling and quarrelsome curs. ",
+            "Swine\" denote those who would trample the precepts underfoot; people of impurity of life; those who are corrupt, polluted, profane, obscene, and sensual.",
+            "Do not offer your doctrine to those violent and abusive people who would growl and curse you; nor to those especially debased and profligate who would not perceive its value, would trample it down, and would abuse you."
+        ],
+        "Marvin Vincent": [
+            "The picture is that of a priest throwing a piece of flesh from the altar of burnt - offering to one of the numerous dogs which infest the streets of Eastern cities.",
+            "Swine in Palestine were at best but half - tamed, the hog being an unclean animal. The wild boar haunts the Jordan valley to this day.",
+            "The word graphically pictures the quick, sharp turn of the boar."
+        ],
+        "John Calvin": [
+            "Christ reminds the Apostles, and, through them, all the teachers of the Gospel, to reserve the treasure of heavenly wisdom for the children of God alone, and not to expose it to unworthy and profane despisers of his word.",
+            "In another passage, Christ places the dogs in contrast with the elect people of God and the household of faith, It is not proper to take the children\u2019s bread, and give it to dogs.",
+            "There are two reasons, why Christ forbade that the Gospel should be offered to lost despisers. It is an open profanation of the mysteries of God to expose them to the taunts of wicked men. Another reason is, that Christ intended to comfort his disciples, that they might not cease to bestow their labors on the elect of God in teaching the Gospel, though they saw it wantonly rejected by wicked and ungodly men."
+        ],
+        "Philip Schaff": [
+            "Neither cast ye your pearls before the swine. Still more foolish; \u2018the swine\u2019 will not receive the \u2018pearls,\u2019 which are of no value to them, as they cannot eat them.",
+            "The main reason urged is the defilement of what is precious; but the other danger follows. \u2018Even saving truth must be withheld from those who would surely reject it with contempt and savage hatred.\u2019",
+            "The dogs ultimately become swine, just as that which is holy is further designated as pearls, and the iniquity of the first action passes into the madness of the second."
+        ],
+        "Archibald T. Robertson": [
+            "It is not that the dogs would not eat it, for it would be welcome to them; but that it would be a profanation to give it to them, thus to make it a skubalon.\" ",
+            "Pearls look a bit like peas or acorns and would deceive the hogs until they discovered the deception.",
+            "The wild boars haunt the Jordan Valley still and are not far removed from bears as they trample with their feet and rend with their tusks those who have angered them."
+        ],
+        "John Gill": [
+            "Give not that which is holy to the dogs... Things profane and unclean, as flesh torn by beasts, were ordered to be given to them, but nothing that was holy was to be given them.",
+            "It is a common maxim with the Jews... 'that they do not redeem holy things, to give to the dogs to eat.'",
+            "The design of these expressions... that men should be cautious, and prudent, in rebuking and admonishing such persons for their sins, in whom there is no appearance or hope of success; yea, where there is danger of sustaining loss."
+        ],
+        "John Wesley": [
+            "Give not - That is, talk not of the deep things of God to those whom you know to be wallowing in sin.",
+            "Neither declare the great things God hath done for your soul to the profane, furious, persecuting wretches.",
+            "Talk not of perfection, for instance, to the former; not of your experience to the latter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not give what is holy to those who would profane it or trample it underfoot. There are those who spurn, oppose, and abuse the teachings of the Gospel like growling and quarrelsome dogs, and there are those who are corrupt, impure, and sensual like swine. They will not receive the precious pearls of truth, for they cannot perceive their value and would trample them down. Be cautious and prudent in rebuking and admonishing those whose hearts are hardened, for there is no hope of success and there is danger of sustaining loss. It is better to reserve the treasure of heavenly wisdom for the children of God alone and to continue bestowing labor on the elect, despite the rejection of the wicked and ungodly.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 2.141590991107587,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                26.77,
+                40.16,
+                33.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not give that which is holy to dogs or cast your pearls before swine. Dogs signify people who oppose and abuse the teachings of the Gospel, while swine represent those who would trample the precepts underfoot. They will not receive the pearls of truth, for they cannot perceive their value and would trample them down. Be prudent in rebuking and admonishing those who would reject the Gospel with contempt and savage hatred, reserving the treasure of heavenly wisdom for the children of God alone.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.3869921610464386,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.71,
+            "commentatorTierSimilarities": [
+                29.33,
+                39.68,
+                30.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not give what is holy to those who would profane it or trample it underfoot. Dogs represent those who spurn and abuse the teachings of the Gospel, while swine signify those who are corrupt, impure, and sensual. They will not appreciate the pearls of truth, for they cannot perceive their value and would trample them down. Be cautious and prudent in rebuking those who show no hope of repentance, while reserving the precious treasure of heavenly wisdom for the children of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.2201626578102314,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                27.75,
+                39.48,
+                32.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not give what is holy to the savage and snarling haters of truth and righteousness, or cast precious pearls before the impure and coarse who are incapable of appreciating the priceless jewels of Christianity. While cautioning against judging uncharitably or withholding efforts to do good, be careful not to readily dismiss others as dogs and swine, excusing ourselves from reaching out to them. Reserve the treasure of heavenly wisdom for those who can truly appreciate and embrace it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1196687702458674,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                30.95,
+                38.34,
+                30.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not give that which is holy to those who would profane it or trample it underfoot. Dogs represent those who oppose and abuse the teachings of the Gospel, while swine signify those who are corrupt, impure, and sensual. They will not receive the precious pearls of truth, for they cannot perceive their value and would trample them down. Be cautious and prudent in rebuking and admonishing those whose hearts are hardened, for there is no hope of success and there is danger of sustaining loss. Reserve the treasure of heavenly wisdom for the children of God and continue bestowing labor on the elect, despite the rejection of the wicked and ungodly.",
+            "wordCount": 112,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.1302222472924583,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                27.45,
+                39.44,
+                33.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

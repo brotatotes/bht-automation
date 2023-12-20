@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:45:29",
+    "verseRef": "Matthew 8:20",
+    "bestBHT": {
+        "bht": "The phrase The Son of Man alludes to Jesus as the Messiah, highlighting His role as the Son of God manifested in human form. Jesus, who had no place to lay His head, embraced a humble and dependent existence. His reference to foxes having holes and birds having nests further emphasizes His willingness to endure vulnerability and deprivation. This challenges believers to prioritize the proclamation of the kingdom of God, following Jesus' self-sacrificial example as the Representative Man and concealed Messianic figure.",
+        "wordCount": 83,
+        "quoteTokenProportion": 23.21,
+        "qualityScore": 1.6665395424325675,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+        "commentatorTierSimilarities": [
+            28.09,
+            36.77,
+            35.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is thought that this phrase was taken from Daniel vii. 13, to which passage our Saviour seems to allude in ch. xxvi. 64, and probably Stephen in Acts vii. 56.",
+            "It appears from John xii. 34, that the Jews understood it to mean the Messiah: and from Luke xxii. 69, 70, that they considered the Son of Man to mean the same as the Son of God.",
+            "It is the name by which the Lord ordinarily in one pregnant word designates Himself as the Messiah\u2014the Son of God manifested in the flesh of man\u2014the second Adam."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wilt thou?...No warm home, no downy pillow has He for thee...The Son of man has to depend on the hospitality of others, and borrow the pillow whereon He lays His head.",
+            "But the kingdom of God lies now all neglected and needy...Let the dead bury their dead; but go thou and preach the kingdom of God.",
+            "Elisha's doing it proved that he could with safety do it; and our Lord's warning is not against bidding them farewell which were at home at his house, but against the probable fatal consequences of that step...Accordingly, we have called this the Irresolute or Wavering Disciple."
+        ],
+        "Marvin Vincent": [
+            "Holes [\u03c6\u03c9\u03bb\u03b5\u03bf\u03c5\u03c2] . Wyc. has ditches, with burrows in explanation.",
+            "Nests [\u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b7\u03bd\u03c9\u03c3\u03b5\u03b9\u03c2] . Only here and in the parallel, Luke 9:58. Nests is too limited.",
+            "The word, derived from skhnh, a tent, has the more general meaning of shelter or habitation."
+        ],
+        "John Calvin": [
+            "Informs his disciples what sort of life they must be prepared to expect.",
+            "But this was spoken, it ought to be observed, as a warning to the scribe.",
+            "Not to expect an abundant and rich hire, as if he had a wealthy master."
+        ],
+        "Philip Schaff": [
+            "Foxes have holes, etc., caves, dens.",
+            "The Son of Man. A term applied to no one else, and often applied by our Lord to himself...The thought here is of His real humanity, His capability of suffering and privation.",
+            "Hath not where to lay his head. He did not own a dwelling, as even the foxes and birds do...yet He who as 'Son of man' was 'the crown of creation,' did not possess what the humbler animals claim, a home."
+        ],
+        "Archibald T. Robertson": [
+            "The Son of man...means much for the Speaker, who has chosen it deliberately, in connection with private reflections, at whose nature we can only guess, by study of the many occasions on which the name is used.\" ",
+            "Often it means the Representative Man.\" ",
+            "Jesus uses it as a concealed Messianic title."
+        ],
+        "John Gill": [
+            "The son of man has not where to lay his head, when he is weary, and wants rest and sleep, as he did at this time.",
+            "Though he was Lord of all, as being the mighty God; yet as 'the son of man', a phrase, expressive both of the truth and meanness of his human nature.",
+            "When Christ styles himself 'the son of man', it is no contradiction to his being God; nor any objection to trust and confidence in him."
+        ],
+        "John Wesley": [
+            "The Son of man...is the appellation which Christ generally gives himself: which he seems to do out of humility, as having some relation to his mean appearance in this world.",
+            "Hath not where to lay his head \u2014 Therefore do not follow me from any view of temporal advantage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The phrase The Son of Man in this verse is believed to have been taken from Daniel 7:13 and alludes to Jesus as the Messiah. It signifies Jesus as the Son of God manifested in human form. The statement The Son of Man has no place to lay his head highlights the humble and dependent nature of Jesus' earthly existence. It serves as a reminder that the kingdom of God should take precedence over worldly possessions and concerns. In using this title, Jesus emphasizes his role as the Representative Man and the concealed Messianic figure. The reference to foxes having holes and birds having nests further illustrates the humble and vulnerable condition Jesus willingly embraced during his ministry. Overall, this verse challenges believers to prioritize the proclamation of the kingdom of God and to follow Jesus in a self-sacrificial manner.",
+            "wordCount": 140,
+            "quoteTokenProportion": 27.71,
+            "qualityScore": 1.713582346773714,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                30.15,
+                32.77,
+                37.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The phrase The Son of Man alludes to Jesus as the Messiah, highlighting His role as the Son of God manifested in human form. Jesus, who had no place to lay His head, embraced a humble and dependent existence. His reference to foxes having holes and birds having nests further emphasizes His willingness to endure vulnerability and deprivation. This challenges believers to prioritize the proclamation of the kingdom of God, following Jesus' self-sacrificial example as the Representative Man and concealed Messianic figure.",
+            "wordCount": 83,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.6665395424325675,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                28.09,
+                36.77,
+                35.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of Man refers to Jesus as the Messiah, the Son of God in human form. The phrase signifies Jesus' humble nature and his dependence on others for hospitality and shelter. It emphasizes the importance of prioritizing the kingdom of God over worldly possessions. Jesus' reference to foxes having holes and birds having nests illustrates his vulnerable and selfless existence. This title also denotes Jesus as the Representative Man and a concealed Messianic figure.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.6550011453438893,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                31.16,
+                35.51,
+                33.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man in this verse is taken from Daniel 7:13 and alludes to Jesus as the Messiah. It signifies Jesus as the Son of God manifested in human form. The statement The Son of Man has no place to lay his head highlights the humble nature of Jesus' earthly existence. It reminds believers to prioritize the kingdom of God over worldly concerns. Using this title, Jesus emphasizes his role as the Representative Man and the concealed Messianic figure. The reference to foxes having holes and birds having nests further illustrates Jesus' humble and vulnerable condition.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.7071496844557017,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                30.59,
+                33.57,
+                35.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man alludes to Jesus as the Messiah, emphasizing his role as the Son of God manifested in human form. Jesus, who had no place to lay his head, embraced a humble and dependent existence. The reference to foxes having holes and birds having nests further illustrates his vulnerability. This challenges believers to prioritize the kingdom of God and follow Jesus' self-sacrificial example as the Representative Man and concealed Messianic figure.",
+            "wordCount": 74,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 1.6616732142577464,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.59,
+            "commentatorTierSimilarities": [
+                27.56,
+                38.82,
+                33.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

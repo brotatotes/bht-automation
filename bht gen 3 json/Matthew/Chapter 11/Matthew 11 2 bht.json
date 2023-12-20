@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:25",
+    "verseRef": "Matthew 11:2",
+    "bestBHT": {
+        "bht": "John the Baptist, imprisoned in Mach\u00e6erus, sent two of his disciples to ask Jesus if he was truly the Messiah. Having faithfully proclaimed Jesus as the Messiah, John's emotions prompted him to seek confirmation of Jesus' identity through his disciples. This act reflects the duty of pastors to direct their followers to Christ, who is the true Teacher and Bridegroom of the Church. John's disciples carried his message to Jesus, expressing John's desire for assurance and revealing the connection between their master's message and the works of Christ.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.3131429362450913,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+        "commentatorTierSimilarities": [
+            27.71,
+            31.95,
+            40.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From his own disciples, Luke vii. 18.",
+            "The place of his imprisonment was Mach\u00e6erus, a frontier town between the dominions of Aretas and Herod Antipas.",
+            "Our Lord in that hour wrought many cures, Luke ver. 21."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The works of Christ, he sent, &c.\" ",
+            "OUTBURST OF FEELING SUGGESTED TO THE MIND OF JESUS BY THE RESULT OF HIS LABORS IN GALILEE.\" ",
+            "The connection of this with what goes before it and the similarity of its tone make it evident, we think, that it was delivered on the same occasion."
+        ],
+        "Albert Barnes": [
+            "John was in prison. Herod had thrown him into confinement on account of his faithfulness in reproving him for marrying his brother Philip\u2019s wife.\" ",
+            "It is not certainly known why John sent to Jesus. It might have been to satisfy his disciples that he was the Messiah; or he might have been desirous of ascertaining for himself whether this person, of whom he heard so much, was the same one whom he had baptized, and whom he knew to be the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Two of his disciples [\u03b4\u03c5\u03bf] . But the correct reading is dia, by. He sent by his disciples. So Rev."
+        ],
+        "John Calvin": [
+            "The pastors of the Church are here reminded of their duty. They ought not to endeavor to bind and attach disciples to themselves, but to direct them to Christ, who is the only Teacher.",
+            "From the beginning, John had openly avowed that he was not the bridegroom. As the faithful friend of the bridegroom he presents the bride chaste and uncontaminated to Christ, who alone is the bridegroom of the Church.",
+            "The example of [John and Paul] is held out for imitation to all the ministers of the Gospel."
+        ],
+        "Philip Schaff": [
+            "According to Josephus, the fortress of Machaerus, situated on the border of Perea near the desert; next to Jerusalem the strongest fortress of the Jews.",
+            "As Matthew uses this form nowhere else, it is likely that the disciples of John had thus spoken of our Lord, meaning: the one John announced as the Messiah.",
+            "'Two' is borrowed from Luke 7:19."
+        ],
+        "Archibald T. Robertson": [
+            "John heard in the prison (\u03bf \u03b4\u03b5 \u0399\u03c9\u03b1\u03bd\u03b7\u03c2 \u03b1\u03ba\u03bf\u03c5\u03c3\u03b1\u03c2 \u03b5\u03bd \u03c4\u03c9 \u03b4\u03b5\u03c3\u03bc\u03c9\u03c4\u03b7\u03c1\u03b9\u03c9).",
+            "The word for prison here is the place where one was kept bound (Acts 5:21; Acts 5:23; Acts 16:26).",
+            "John's disciples had access to him. So he sent word by (\u03b4\u03b9\u03b1, not \u03b4\u03c5\u03bf as in Luke 7:19) them to Jesus."
+        ],
+        "John Gill": [
+            "The person here spoken of is John the Baptist, the forerunner of Christ, who was now in the prison of Machaerus; being put there by Herod, for his reproving him for taking Herodias, his brother Philip's wife...",
+            "...an account was brought him by his own disciples, see Luke 7:18 of the works of Christ, the miracles he wrought; as the healing of the centurion's servant, the raising from the dead the widow's son of Nain, and the like...",
+            "...and who, notwithstanding all that they had heard, and their master had told them of Jesus, were not easily persuaded that he was the true Messiah."
+        ],
+        "John Wesley": [
+            "He sent two of his disciples \u2014 Not because he doubted himself; but to confirm their faith. Luke 7:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In prison, John the Baptist heard about the works of Jesus and sent two of his disciples to inquire if Jesus was truly the Messiah. This outburst of feeling from John, a result of his faithful ministry, prompted him to seek confirmation of Jesus' identity. From his disciples, John sought reassurance that Jesus was the one he had baptized and proclaimed as the Messiah. This exchange took place during John's confinement in Mach\u00e6erus, a stronghold known for its strength and proximity to the desert. By sending his disciples to Jesus, John exemplified the duty of pastors to direct their disciples to Christ, the ultimate Teacher and Bridegroom of the Church.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.267656324873612,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                26.47,
+                36.25,
+                37.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist, imprisoned in Mach\u00e6erus, sent two of his disciples to ask Jesus if he was truly the Messiah. Having faithfully proclaimed Jesus as the Messiah, John's emotions prompted him to seek confirmation of Jesus' identity through his disciples. This act reflects the duty of pastors to direct their followers to Christ, who is the true Teacher and Bridegroom of the Church. John's disciples carried his message to Jesus, expressing John's desire for assurance and revealing the connection between their master's message and the works of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.3131429362450913,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+            "commentatorTierSimilarities": [
+                27.71,
+                31.95,
+                40.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist, imprisoned in Mach\u00e6erus, sent two of his disciples to ask Jesus if he was truly the Messiah. This outburst of feeling from John, a result of his faithful ministry, prompted him to seek confirmation of Jesus' identity. From his disciples, John sought reassurance that Jesus was the one he had baptized and proclaimed as the Messiah. This exchange took place during John's confinement in Mach\u00e6erus, a stronghold known for its strength and proximity to the desert. By sending his disciples to Jesus, John exemplified the duty of pastors to direct their disciples to Christ, the ultimate Teacher and Bridegroom of the Church.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.2881189067283993,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.42,
+            "commentatorTierSimilarities": [
+                26.61,
+                36.16,
+                37.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Imprisoned in Mach\u00e6erus, John the Baptist sent two of his disciples to inquire if Jesus was truly the Messiah. This emotional plea arose from John's faithful proclamation of Jesus and a desire for confirmation. Seeking reassurance, John's disciples conveyed his message to Jesus, expressing John's hope to know if Jesus was indeed the one he had baptized and proclaimed as the Messiah. By sending his disciples, John embodied the responsibility of pastors to guide their followers to Christ, the ultimate Teacher and Bridegroom of the Church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.2937026324864647,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.61,
+            "commentatorTierSimilarities": [
+                26.35,
+                34.11,
+                39.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While imprisoned in Mach\u00e6erus, John the Baptist sent two of his disciples to Jesus, seeking confirmation that He was the long-awaited Messiah. This emotional eruption from John was a response to his dedicated work as he wanted to ensure that he had indeed pointed his followers towards the true Messiah. By dispatching his disciples, John demonstrated the role of pastors, redirecting their disciples to Christ, the ultimate Teacher and Bridegroom of the Church. This sincere inquiry from John took place within the fortified walls of Mach\u00e6erus, a formidable stronghold along the border.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.1737350792317476,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.62,
+            "commentatorTierSimilarities": [
+                27.63,
+                34.18,
+                38.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

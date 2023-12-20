@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:45:31",
+    "verseRef": "Matthew 9:24",
+    "bestBHT": {
+        "bht": "The words of Jesus, The maiden is not dead, but sleeping, may not imply that she was never truly dead. Rather, Christ used the phrase sleeping to indicate that she would soon return to life. This language of sleep is significant, as it parallels the idea of death being a temporary state before resurrection. People laughed at Jesus' statement, perhaps thinking him to be foolish or unaware of the reality of her death. However, they did not have faith in his power to bring her back to life.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 1.704500786022964,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+        "commentatorTierSimilarities": [
+            29.21,
+            35.44,
+            35.35
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No inference can be drawn from these words as to the fact of the maiden\u2019s actual death.",
+            "Think not the damsel dead, but sleeping; for she shall soon return to life.",
+            "From Luke we learn that our Lord said 'Maid, arise;' from Mark we have the words He actually uttered, Talitha Cum."
+        ],
+        "Philip Schaff": [
+            "For the damsel is not dead, but sleepeth. A direct reference to the miracle, which He was about to perform. She did not die, as others die; but she is as one who sleepeth, for I am about to raise her, as one is wakened from a sleep.",
+            "The same words were used of Lazarus, in whose case the actual raising from actual death is distinctly affirmed... There is also a deeper and more general meaning; for Christ has, by His own resurrection and His promise to raise believers, declared death to be but a sleep.",
+            "And they laughed him to scorn. They laughed Him down, not sharing the father\u2019s faith."
+        ],
+        "John Gill": [
+            "For the maid is not dead, but sleepeth: not but that she was really dead; and Christ signifies as much, when he says, she 'sleepeth'; a phrase that is often used in the Talmudic writings, for one that is dead.",
+            "Christ's meaning is, that she was not so dead as the company thought; as always to remain in the state of the dead, and not to be restored to life again: whereas our Lord signifies, it would be seen in a very little time, that she should be raised again, just as a person is awaked out of sleep.",
+            "And they laughed him to scorn...taking him either to be a madman, or a fool; knowing that she was really dead, of which they had all the evidence they could have; and having no faith at all in him, and in his power to raise her from the dead."
+        ],
+        "John Wesley": [
+            "Withdraw - There is no need of you now; for the maid is not dead.",
+            "Her life is not at an end; but sleepeth - This is only a temporary suspension of sense and motion.",
+            "which should rather be termed sleep than death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words of Jesus, The maiden is not dead, but sleeping, may not imply that she was never truly dead. Rather, Christ used the phrase sleeping to indicate that she would soon return to life. This language of sleep is significant, as it parallels the idea of death being a temporary state before resurrection. People laughed at Jesus' statement, perhaps thinking him to be foolish or unaware of the reality of her death. However, they did not have faith in his power to bring her back to life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.704500786022964,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                29.21,
+                35.44,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The words of Jesus, The maiden is not dead, but sleeping, may not imply that she was never truly dead. Rather, Christ used the language of sleep to indicate that her death was temporary. The concept of sleep in relation to death reflects the idea of resurrection. Despite people's laughter and skepticism, Jesus's statement reveals his power and purpose to bring her back to life. The phrase challenges their limited understanding and lack of faith in his divine authority.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.497801051298251,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+            "commentatorTierSimilarities": [
+                28.52,
+                37.13,
+                34.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ\u2019s statement that the maiden is not dead but sleeping may not necessarily mean she was never truly dead. Instead, this language of sleep signifies the temporary nature of death and foreshadows resurrection. The onlookers laughed at Jesus, questioning his understanding and power to bring someone back from the dead. Their lack of faith and skepticism disregarded the truth that Christ had the ability to awaken the maiden from her sleep-like state, demonstrating his authority over death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.68089743159021,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.23,
+            "commentatorTierSimilarities": [
+                27.36,
+                37.6,
+                35.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The words of Jesus, The maiden is not dead, but sleeping, emphasize the temporary nature of death and hint at the forthcoming resurrection. While it is not certain whether the girl truly died or not, the language of sleep implies that her condition was not permanent. Despite the laughter and scorn from the witnesses, Jesus' declaration challenges their lack of faith in his ability to bring her back to life. Through this miraculous act, he asserts his authority over death.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5227344115023314,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                28.21,
+                38.06,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's statement that the maiden is not dead but sleeping implies a temporary state rather than a permanent cessation of life. The use of the analogy of sleep in relation to death underscores the concept of resurrection, suggesting that her situation was not irreversible. The ridicule and skepticism of the onlookers revealed their lack of faith and disbelief in Jesus' power to raise the dead. However, Jesus' declaration challenged their limited understanding and demonstrated his divine authority over life and death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.460490505881158,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.9,
+            "commentatorTierSimilarities": [
+                26.08,
+                38.52,
+                35.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

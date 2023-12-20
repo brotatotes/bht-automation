@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:47:25",
+    "verseRef": "Matthew 13:17",
+    "bestBHT": {
+        "bht": "The disciples were blessed above the blinded just spoken of, favored above the most honored and the best that lived under the old economy. They were granted the privilege to see and hear what even prophets and righteous men of the past desired but did not have. They saw Christ in the flesh, heard his teachings, witnessed his miracles, and understood them spiritually and savingly. This parable emphasizes the mixed character of the kingdom in its present state and the final separation of the two classes.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.6467772413205048,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+        "commentatorTierSimilarities": [
+            28.88,
+            29.8,
+            41.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These verses occur again in a different connexion, and with the form of expression slightly varied, Luke x. 23, 24.",
+            "On the fact that prophets, &c. desired to see those things, see 2 Sam. xxiii. 5: Job xix. 23\u201327: also Exod. iv. 13, and Luke ii. 29\u201332.",
+            "It was a saying likely to be repeated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many prophets and righteous men have desired\u2014rather, 'coveted' - to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.",
+            "Not only were the disciples blessed above the blinded just spoken of, but favored above the most honored and the best that lived under the old economy.",
+            "The subject of both these parables - which teach the same truth, with a slight diversity of aspect - is: THE MIXED CHARACTER OF THE KINGDOM IN ITS PRESENT STATE, AND THE FINAL ABSOLUTE SEPARATION OF THE TWO CLASSES."
+        ],
+        "Philip Schaff": [
+            "They were permitted to see and know what had been denied even to inspired and good men who longed for such knowledge.",
+            "Righteous men, not merely according to the law, but who longed for something higher, with the anticipative faith here implied.",
+            "The privilege of the disciples exceeded not only the privilege but even the desire of these good men of former times. Hence all was of grace."
+        ],
+        "John Gill": [
+            "That many prophets, and righteous men, have desired to see those things which ye see, and have not seen them, and to hear those things which ye hear, and have not heard them.",
+            "To see Christ in the flesh, and have a clearer insight into the knowledge of the mysteries of grace, were things very desirable to men of the highest class in church and state, and of the best characters.",
+            "The disciples saw him in person, heard him preach, took in the evidence of his miracles, and felt the power of his doctrines, and spiritually and savingly understood them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were truly blessed because they had the privilege to see and hear the things that even many prophets and righteous men of the past had desired and yet were not granted. These good men of old, who had faith and longed for something higher, were not only surpassed in privilege but even in desire by the disciples. The disciples were favored above the most honored and the best that lived under the old covenant. They had the incredible opportunity to see Christ in the flesh, to hear his teachings, witness his miracles, and spiritually understand and embrace his message of grace. This parable highlights the mixed character of the kingdom in its present state and the eventual separation of the two classes.",
+            "wordCount": 124,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.6828455654191141,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                26.06,
+                38.04,
+                35.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were truly blessed to see and hear what even prophets and righteous men of the past longed for but did not experience. They were favored above the best that lived under the old covenant and granted the privilege to witness Christ in the flesh, comprehend his teachings, and be transformed by his message of grace. This parable emphasizes the coexistence of believers and unbelievers in the kingdom and the future separation between the two groups.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6402493635520294,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                27.7,
+                32.47,
+                39.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were blessed above the blinded just spoken of, favored above the most honored and the best that lived under the old economy, given the privilege to see and hear what even prophets and righteous men of the past desired but did not have. They saw Christ in the flesh, heard his teachings, witnessed his miracles, and spiritually and savingly understood them. This parable highlights the mixed character of the kingdom in its present state and the final separation of the two classes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6213307009162965,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                29.55,
+                25.71,
+                44.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were blessed above the blinded just spoken of, favored above the most honored and the best that lived under the old economy. They were granted the privilege to see and hear what even prophets and righteous men of the past desired but did not have. They saw Christ in the flesh, heard his teachings, witnessed his miracles, and understood them spiritually and savingly. This parable emphasizes the mixed character of the kingdom in its present state and the final separation of the two classes.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6467772413205048,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                28.88,
+                29.8,
+                41.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were truly blessed, having the privilege to see and hear what prophets and righteous men of the past had longed for but did not experience. They were favored above the most honored and the best of previous generations, witnessing Christ in the flesh, comprehending his teachings, and spiritually understanding them. This parable illustrates the coexistence of believers and unbelievers within the kingdom and emphasizes the ultimate separation of the two groups.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6216223778502745,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+            "commentatorTierSimilarities": [
+                27.22,
+                30.33,
+                42.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

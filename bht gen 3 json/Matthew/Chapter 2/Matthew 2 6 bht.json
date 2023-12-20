@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:42:45",
+    "verseRef": "Matthew 2:6",
+    "bestBHT": {
+        "bht": "Bethlehem, an inconsiderable and unknown town, is remarkably chosen as the birthplace of the highest King. This portrayal of the shepherd ruler, guiding, guarding, and feeding his people, is a recurring theme in Scripture. Jesus perpetuates this name and office in heaven among his redeemed ones. The exactness of the information reveals the diligence of the search, underscoring the precision and accuracy of the message.",
+        "wordCount": 65,
+        "quoteTokenProportion": 26.09,
+        "qualityScore": 1.5174333604154109,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+        "commentatorTierSimilarities": [
+            34.45,
+            35.18,
+            30.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And thou... princes... out of thee shall come.\" ",
+            "The tribes were divided into thousands, and the names of the thousands inscribed in the public records of their respective cities.\" ",
+            "The Sanhedrim understand the word (which is the same) in Micah v. 2. The word, without points, may mean either 'among the thousands,' or 'among the princes.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou art not the least: for out of thee shall come a Governor\"\u2014this distinction lifting it from the lowest to the highest rank. (Matthew 2:6)",
+            "The pastoral rule of Jehovah and Messiah over His people is a representation pervading all Scripture, and rich in import.\" (Matthew 2:6)",
+            "The Wise Men Despatched to Bethlehem by Herod to See the Babe, and Bring Him Word, Make a Religious Offering to the Infant King, but Divinely Warned, Return Home by Another Way.\" (Matthew 2:6)"
+        ],
+        "Marvin Vincent": [
+            "The word involves the whole office of the shepherd - guiding, guarding, folding, as well as feeding.",
+            "Jesus will perpetuate this name and office in heaven among his redeemed ones, for 'the Lamb, which is in the midst of the throne, shall be their shepherd.'",
+            "The idea is, therefore, he ascertained to the last point; denoting the exactness of the information rather than the diligence of the search for it."
+        ],
+        "John Calvin": [
+            "But I rather agree with those who think that Matthew intended, by this change of the language, to magnify the grace of God in making an inconsiderable and unknown town the birth-place of the highest King.",
+            "Although Bethlehem received this distinguished honor, it was of no advantage to its inhabitants, but brought upon them a heavier destruction: for there an unworthy reception was given to the Redeemer.",
+            "For he is to be Ruler, Matthew has put he shall feed, (\u03c0\u03bf\u03b9\u03bc\u03b1\u03bd\u03b5\u1fd6) But he has expressed both, when he says, that Christ is the leader, ( \u1f21\u03b3\u03bf\u1f7b\u03bc\u03b5\u03bd\u03bf\u03c2 ,) and that to him is committed the office of feeding his people."
+        ],
+        "Philip Schaff": [
+            "The variations are undoubtedly intentional and explanatory.",
+            "Bethlehem was not among the chief towns of Judah in the list given, Joshua 15:59.",
+            "Shall be the shepherd. This includes both ruling and feeding; the meaning is: shall be a careful and affectionate ruler."
+        ],
+        "John Gill": [
+            "Bethlehem is called by Micah, Bethlehem Ephratah, and by Matthew, Bethlehem in the land of Judah, and both were one and the same place.",
+            "It might be 'little' and yet 'not the least'; besides, it might be 'little' and 'not little', or 'not the least' in different respects, and at different times.",
+            "The reason of this is, because the tribes of Israel were divided into thousands, and every thousand had its prince so that though here is a difference in words, yet none in sense."
+        ],
+        "John Wesley": [
+            "Thou art in nowise the least among the princes of Judah.",
+            "The apostles did not always think it necessary exactly to transcribe the passages they cited, but contented themselves with giving the general sense, though with some diversity of language.",
+            "The difference which seems to be here between the prophet and the evangelist vanishes away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage speaks of a significant figure coming from Bethlehem, lifting the town from the lowest to the highest rank. This idea of the shepherd ruler is found throughout Scripture and holds great meaning. The word used in the passage encompasses the full duties of a shepherd: guiding, guarding, folding, and feeding. Jesus, the Shepherd, will perpetuate this role in heaven among His redeemed ones. The precision in the details highlights the accuracy of the information rather than the diligence of the search.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.542318613001328,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                37.64,
+                34.86,
+                27.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The significance of Bethlehem is highlighted in this verse, as a ruler is prophesied to come from this humble town, elevating it in rank. The concept of the shepherd ruler is a recurring theme in Scripture, symbolizing guidance, protection, and provision. Jesus, as the ultimate Shepherd, continues to fulfill this role among His redeemed. The attention to detail in these words emphasizes the accuracy of the information conveyed, rather than the extent of the search.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.5044952046347007,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                35.7,
+                34.57,
+                29.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Bethlehem, though small, is of great significance as it serves as the birthplace of the highest King. The image of the shepherd ruler is prevalent throughout Scripture, symbolizing guidance, protection, and provision. Jesus, the Good Shepherd, fulfills this role not only on earth but also in heaven among His redeemed. The precise details portrayed in the passage highlight the meticulousness of the information given, affirming the credibility of the message.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.4798530162575014,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                35.25,
+                32.43,
+                32.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bethlehem, an inconsiderable and unknown town, is remarkably chosen as the birthplace of the highest King. This portrayal of the shepherd ruler, guiding, guarding, and feeding his people, is a recurring theme in Scripture. Jesus perpetuates this name and office in heaven among his redeemed ones. The exactness of the information reveals the diligence of the search, underscoring the precision and accuracy of the message.",
+            "wordCount": 65,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.5174333604154109,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                34.45,
+                35.18,
+                30.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Bethlehem, a seemingly insignificant town, is honored as the birthplace of the highest King. The concept of the shepherd ruler, exemplifying guidance, guarding, folding, and feeding, is a prevalent theme throughout Scripture. Jesus, the Good Shepherd, continues to fulfill this role among his redeemed ones. The meticulousness of the information highlights the exactness of the search, affirming the reliability of the message revealed.",
+            "wordCount": 63,
+            "quoteTokenProportion": 23.91,
+            "qualityScore": 1.4301056810611497,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                36.03,
+                36.27,
+                27.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

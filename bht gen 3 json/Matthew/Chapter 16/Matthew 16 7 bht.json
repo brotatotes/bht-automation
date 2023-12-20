@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:48:33",
+    "verseRef": "Matthew 16:7",
+    "bestBHT": {
+        "bht": "The disciples' almost jejune inability to understand the parabolic warning against 'the leaven of the Pharisees and Sadducees' is quite pathetic. It is noteworthy that they kept reasoning among themselves, showing their imperfect comprehension. Their preoccupation with worldly matters, specifically their concern about bread, led to general anxiety about earthly needs instead of focusing on spiritual matters.",
+        "wordCount": 57,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 1.4805460705586961,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.57,
+        "commentatorTierSimilarities": [
+            50.94,
+            25.26,
+            23.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "And they reasoned among themselves. In their own hearts and then with each other; not in dispute, but in earnest conversation.",
+            "An unspiritual but not altogether unreasonable thought.",
+            "General anxiety about worldly things would follow."
+        ],
+        "Archibald T. Robertson": [
+            "It was pathetic, the almost jejune inability of the disciples to understand the parabolic warning against 'the leaven of the Pharisees and Sadducees.'",
+            "They kept it up, imperfect tense.",
+            "It is 'loaves' (\u03b1\u03c1\u03c4\u03bf\u03c5\u03c2) rather than 'bread.'"
+        ],
+        "John Gill": [
+            "And they reasoned among themselves...saying, because we have taken no bread.\" ",
+            "For the phrase, 'it is', is a supplement, and is not in the original text.\" ",
+            "The words may be read without it, and confirms the other sense, and which receives strength from what follows."
+        ],
+        "John Wesley": [
+            "They reasoned among themselves \u2014 What must we do then for bread, since we have taken no bread with us?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples failed to grasp the deeper meaning behind Jesus' warning about 'the leaven of the Pharisees and Sadducees,' showing their limited understanding. They continued to discuss and reason amongst themselves, expressing a human but reasonable concern about lacking bread. However, their focus on worldly matters instead of spiritual matters would be a source of general anxiety.",
+            "wordCount": 57,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.336898939986898,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.79,
+            "commentatorTierSimilarities": [
+                39.06,
+                30.89,
+                30.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' almost childish ignorance is evident in their inability to comprehend the parabolic warning against 'the leaven of the Pharisees and Sadducees.' Their ongoing conversation among themselves reveals their naivety and lack of spiritual insight. Their concern about bread reflects a worldly perspective, leading to general anxiety about material needs rather than focusing on spiritual matters.",
+            "wordCount": 57,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.325214052888516,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.41,
+            "commentatorTierSimilarities": [
+                43.04,
+                32.83,
+                24.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' almost jejune inability to grasp the parabolic warning against 'the leaven of the Pharisees and Sadducees' is rather pathetic. Their ongoing conversation and reasoning among themselves demonstrates their limited understanding and earnest but unspiritual thoughts. Their preoccupation with worldly matters, specifically the lack of bread, leads to a general anxiety about earthly needs, diverting their attention from the deeper spiritual truths.",
+            "wordCount": 63,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.3931387024829418,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.66,
+            "commentatorTierSimilarities": [
+                42.99,
+                32.19,
+                24.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' lack of understanding regarding Jesus' warning against 'the leaven of the Pharisees and Sadducees' is quite pathetic. Their ongoing conversation and reasoning among themselves shows their imperfect ability to comprehend the deeper meaning. Their focus on worldly matters, such as the lack of bread, leads to general anxiety about earthly concerns instead of spiritual priorities.",
+            "wordCount": 57,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.302835182481876,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "commentatorTierSimilarities": [
+                46.24,
+                26.54,
+                27.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' almost jejune inability to understand the parabolic warning against 'the leaven of the Pharisees and Sadducees' is quite pathetic. It is noteworthy that they kept reasoning among themselves, showing their imperfect comprehension. Their preoccupation with worldly matters, specifically their concern about bread, led to general anxiety about earthly needs instead of focusing on spiritual matters.",
+            "wordCount": 57,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.4805460705586961,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.57,
+            "commentatorTierSimilarities": [
+                50.94,
+                25.26,
+                23.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

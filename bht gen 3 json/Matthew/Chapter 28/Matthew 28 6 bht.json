@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:55:03",
+    "verseRef": "Matthew 28:6",
+    "bestBHT": {
+        "bht": "Behold, the Lord is risen, just as He said. Come and witness the place where the Lord lay, a charming invitation to feast your eyes on the glorious appellation of Jesus Christ, who was dead but is now alive. He has risen from the dead by the power of His Father and His own power. Let us rejoice in the victory of the risen Lord.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0600080475878064,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+        "commentatorTierSimilarities": [
+            40.86,
+            30.1,
+            29.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the Lord (only found this once in Matt. as an appellation of Jesus) is emphatic;\u2014 'a glorious appellation.'\" - Bengel"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is not here; for he is risen, as he said\u2014See on :-.\" (Commentary on Matthew 28:6)",
+            "Come, see the place where the Lord lay\u2014Charming invitation!\" (Commentary on Matthew 28:6)",
+            "Come, feast your eyes on it!\" (Commentary on Matthew 28:6)"
+        ],
+        "Albert Barnes": [
+            "He has risen, as he said.",
+            "The place where the Lord lay.",
+            "In such a place, probably, our Lord lay."
+        ],
+        "Philip Schaff": [
+            "Through woman death was first introduced into the world; to woman the first announcement was made of the resurrection.\" ",
+            "Even as he said. Comp, the expansion of this thought in Luke 24:6-7, to all the women afterwards, in the sepulchre.",
+            "The Lord. So an angel speaks of \u2018Jesus who hath been crucified.'"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus Christ risen from the dead."
+        ],
+        "John Gill": [
+            "He was dead, but is now alive; he was laid in the grave, but God would not leave him there, nor suffer him to see corruption.\" ",
+            "He was risen from the dead, by the power of his Father, and by his own power, as he had before said he should.\" ",
+            "Christ, as the Son of God, lay in the bosom of his Father, and in the arms of his love, from all eternity."
+        ],
+        "John Wesley": [
+            "Come, see the place where the Lord lay.\" ",
+            "In speaking he rose up, and going before the women into the sepulchre, said, Come, see the place.",
+            "This clearly reconciles what St. John relates, John 20:12, this being one of the two angels there mentioned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, the Lord is risen, just as He said. Come and witness the place where the Lord lay, a charming invitation to feast your eyes on the glorious appellation of Jesus Christ, who was dead but is now alive. It was in such a place, probably, that our Lord lay, but He did not remain there, for He has risen from the dead by the power of His Father and His own power. In this marvelous event, we see the fulfillment of His words and the reconciliation of the accounts of the angels. Through woman death was first introduced, and to woman the first announcement of the resurrection was made. Let us rejoice in the victory of the risen Lord.",
+            "wordCount": 120,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9518256820811548,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                36.14,
+                33.86,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, the Lord is risen, just as He said. Come and witness the place where the Lord lay, a charming invitation to feast your eyes on the glorious appellation of Jesus Christ, who was dead but is now alive. He has risen from the dead by the power of His Father and His own power. Let us rejoice in the victory of the risen Lord.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0600080475878064,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                40.86,
+                30.1,
+                29.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Come, see the place where the Lord lay \u2014 a charming invitation indeed! The Lord, a glorious appellation for Jesus, who rose from the dead just as he said he would. He was dead, but is now alive. He was laid in the grave, but God would not leave him there, nor suffer him to see corruption. As the Son of God, he lay in the bosom of his Father, in the arms of his love, from all eternity. Come, feast your eyes on the place where Jesus Christ, who was crucified, rose from the dead.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9366418450534555,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                34.77,
+                27.97,
+                37.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Come, see the place where the Lord lay - a charming invitation indeed! The Lord, a glorious appellation for Jesus, who rose from the dead just as he said he would. He was dead, but is now alive. He was laid in the grave, but God would not leave him there, nor suffer him to see corruption. As the Son of God, he lay in the bosom of his Father, in the arms of his love, from all eternity. Come, feast your eyes on the place where Jesus Christ, who was crucified, rose from the dead.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.942518632874688,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                34.64,
+                28.15,
+                37.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Come, see the place where the Lord lay - a charming invitation indeed! The Lord, a glorious appellation for Jesus, who rose from the dead just as he said he would. He was dead, but is now alive. As the Son of God, he lay in the bosom of his Father, in the arms of his love, from all eternity. Feast your eyes on the place where Jesus Christ, who was crucified, rose from the dead.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.002189641090963,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                36.69,
+                29.25,
+                34.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

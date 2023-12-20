@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:48:10",
+    "verseRef": "Matthew 14:22",
+    "bestBHT": {
+        "bht": "Compelled by the excitement of the crowd's desire to make Jesus their political king, the hesitant disciples reluctantly obeyed his command to leave him and travel to the other side of the sea. Despite their reservations, their obedience revealed their deep reverence for Jesus and the importance of following God's commands even when they contradict personal feelings and expectations. By depending on God's will rather than their own understanding, the disciples learned the value of trusting in his wisdom and guidance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.7407371733243622,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+        "commentatorTierSimilarities": [
+            28.7,
+            30.61,
+            40.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mark adds 'to Bethsaida,' John 'to Capernaum:'",
+            "The Bethsaida, the city of Philip and Andrew and Peter, was distinct from Bethsaida Julias.",
+            "In the direction of Capernaum."
+        ],
+        "Marvin Vincent": [
+            "Constrained. Implying the disciples ' reluctance to leave him behind."
+        ],
+        "John Calvin": [
+            "Now in this they testify their great veneration for him, when, contrary to their own opinions, they yield to his command and obey it.",
+            "And, indeed, we do not truly and perfectly obey God, unless we implicitly follow whatever he commands, though our feelings may be opposed to it.",
+            "There is always the best reason, no doubt, for every thing that God does; but he often conceals it from us for a time, in order to instruct us not to be wise in ourselves, but to depend entirely on the expression of his will."
+        ],
+        "Philip Schaff": [
+            "Constrained the disciples... to go before him to the other side.",
+            "It is not certain that there was a western Bethsaida... We therefore infer that He sent them to eastern Bethsaida.",
+            "Till he sent the multitudes away. They were in an excited condition; hence great prudence, perhaps an exercise of some constraining power was necessary."
+        ],
+        "Archibald T. Robertson": [
+            "Constrained (\u03b7\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03b5\u03bd). Literally, 'compelled' or 'forced.'\" ",
+            "It is the excited purpose of the crowd to take Jesus by force and to make him national king.",
+            "The disciples were evidently swept off their feet by the mob psychology for they still shared the Pharisaic hope of a political kingdom."
+        ],
+        "John Gill": [
+            "As soon as ever he had wrought the above miracle...to deliver them from the Roman yoke.\" ",
+            "it looks as if the disciples were bent upon the same thing, and that it was with much difficulty and reluctance they were brought off of it.",
+            "for had he withdrawn himself, and left his disciples with them, they would have been in hopes of his return, and would have continued in a body with them, in expectation of it."
+        ],
+        "John Wesley": [
+            "He constrained his disciples \u2014 Who were unwilling to leave him. Mark 6:45; John 6:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After performing the miracle of feeding the five thousand, Jesus compelled his disciples to leave him and travel to the other side of the sea. The disciples, caught up in the fervor of the crowd's desire to make Jesus their political king, were hesitant to be separated from him and still clung to the hope of a worldly kingdom. However, by obeying Jesus despite their reservations, the disciples demonstrated their deep reverence for him and showed that true obedience means following God's commands even when our own feelings and expectations contradict them. Although the disciples may not have understood the reasons behind Jesus' actions at the time, they trusted in his will and learned to depend entirely on the expression of God's desires.",
+            "wordCount": 126,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.7805988638774153,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                29.51,
+                29.92,
+                40.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Compelled by the excitement of the crowd's desire to make Jesus their political king, the hesitant disciples reluctantly obeyed his command to leave him and travel to the other side of the sea. Despite their reservations, their obedience revealed their deep reverence for Jesus and the importance of following God's commands even when they contradict personal feelings and expectations. By depending on God's will rather than their own understanding, the disciples learned the value of trusting in his wisdom and guidance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7407371733243622,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                28.7,
+                30.61,
+                40.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the miraculous feeding of the five thousand, Jesus found it necessary to compel his reluctant disciples to leave him and go to the other side of the sea. The disciples, swayed by the crowd's desire for a political king, were initially hesitant to separate from Jesus and clung to their hopes of an earthly kingdom. However, by obediently following his commandments, they demonstrated genuine reverence and taught us the importance of following God's will, even when it contradicts our own understanding and desires.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.73333874086275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                30.74,
+                30.73,
+                38.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Although the disciples shared the crowd's enthusiasm for a political kingdom and were reluctant to leave Jesus, they ultimately submitted to his command and embarked on their journey to the other side of the sea. Their obedience displayed their deep reverence for him and highlighted the importance of following God's commands, even when it goes against our own feelings and expectations. Through their obedience, the disciples learned to depend entirely on God's will and to trust in His wisdom, even when the reasons behind His actions were not immediately clear to them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6738491739678716,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                26.55,
+                31.7,
+                41.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Compelled by the crowd's desire to make Jesus their political king, the reluctant disciples reluctantly left Jesus behind and set off to the other side of the sea. Though hesitant, their obedience demonstrated deep reverence for Jesus and the necessity of following God's commands, regardless of personal reservations. By trusting in God's will and suppressing their own desires, the disciples learned the value of depending solely on His wisdom, even when the reasons behind His decisions were not immediately apparent.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.718432890742373,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                29.07,
+                30.75,
+                40.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

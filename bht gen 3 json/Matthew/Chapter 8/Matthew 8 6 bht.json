@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:44:54",
+    "verseRef": "Matthew 8:6",
+    "bestBHT": {
+        "bht": "A centurion came to Jesus, pleading for help for his beloved slave who was tormented and bedridden, paralyzed and suffering severely. This illness was not just a minor ailment but a life-threatening condition, causing violent cramps and leaving the slave prostrated at home. The centurion's concern and decision to keep the slave at home demonstrated his deep care and faith in Jesus, believing that He could heal the slave from a distance. His faith moved Christ's compassion, and this account showcases the greatness of the miracle that was about to unfold.",
+        "wordCount": 94,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7119323735325718,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.26,
+        "commentatorTierSimilarities": [
+            28.15,
+            23.26,
+            48.58
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] From Luke we learn that it was \u201ca slave, who was precious to him.\u201d The centurion, perhaps, had but one slave, see ver. 9."
+        ],
+        "Albert Barnes": [
+            "The particular form which the palsy assumed in this case is not mentioned. It seems it was a violent attack.",
+            "Perhaps it was the painful form which produced violent 'cramps,' and which immediately endangered his life.",
+            "The palsy in this case was severe and life-threatening."
+        ],
+        "Marvin Vincent": [
+            "Tormented [\u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . See on torments, Matthew 4:24."
+        ],
+        "Philip Schaff": [
+            "Lord. This word, used by the elders, probably means more than a title of respect and less than an acknowledgment of Messiahship.",
+            "Lieth at home, lit. \u2018has been thrown down,\u2019 or \u2018prostrated at my house.\u2019 Exceedingly appropriate in describing the effect of the disease.",
+            "Sick of the palsy, grievously tormented. Luke says: \u2018ready to die.\u2019 Paralysis or \u2018palsy\u2019 was a common disease in those days (comp. Matthew 4:24)."
+        ],
+        "Archibald T. Robertson": [
+            "Grievously tormented (\u03b4\u03b5\u03b9\u03bd\u03c9\u03c2 \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2).\" ",
+            "The boy (\u03c0\u03b1\u03b9\u03c2), slave (\u03b4\u03bf\u03c5\u03bb\u03bf\u03c2, Luke 7:2), was a bedridden (\u03b2\u03b5\u03b2\u03bb\u03b7\u03c4\u03b1, perfect passive indicative of \u03b2\u03b1\u03bb\u03bb\u03c9) paralytic.",
+            "Participle present passive from root \u03b2\u03b1\u03c3\u03b1\u03bd\u03bf\u03c2 (see on Matthew 4:24)."
+        ],
+        "John Gill": [
+            "The concern of the 'centurion' for him, shows him to have been a good servant, faithful and obedient to his master.",
+            "His keeping him at home discovered a tender regard to him; so his not bringing him forth, or ordering him to be brought out to Christ, shows his great faith in Christ, that he was as able to cure him lying at home, as if brought before him; absent, as well as present.",
+            "The account of his disorder is given to move Christ's compassion, and recorded to show the greatness of the miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A centurion came to Jesus, pleading for help for his beloved slave who was tormented and bedridden, paralyzed and suffering severely. This illness was not just a minor ailment but a life-threatening condition, causing violent cramps and leaving the slave prostrated at home. The centurion's concern and decision to keep the slave at home demonstrated his deep care and faith in Jesus, believing that He could heal the slave from a distance. His faith moved Christ's compassion, and this account showcases the greatness of the miracle that was about to unfold.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7119323735325718,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.26,
+            "commentatorTierSimilarities": [
+                28.15,
+                23.26,
+                48.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A centurion sought Jesus's help for his grievously tormented and bedridden slave. This illness was severe, producing violent cramps and endangering the slave's life. The centurion's decision to keep the slave at home revealed his tender regard and great faith in Jesus, believing in His ability to heal from a distance. The centurion's faith moved Jesus's compassion, prompting a miracle that showcased the power and greatness of Christ.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6503639020736949,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+            "commentatorTierSimilarities": [
+                30.56,
+                20.53,
+                48.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A centurion approached Jesus, seeking aid for his precious slave who was grievously tormented and bedridden, suffering from paralysis. This severe and life-threatening condition caused violent cramps, leaving the slave prostrated at home. The centurion's deep care and unwavering faith in Jesus were evident in his decision to keep the slave at home, believing that Christ could heal him from a distance. This account showcases the miraculous power of Jesus and highlights the centurion's remarkable faith and compassion for his servant.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.6700634043678897,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                29.02,
+                22.69,
+                48.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A centurion approached Jesus, seeking help for his precious slave who was grievously tormented and bedridden, suffering from paralysis. This severe condition caused violent cramps, leaving the slave prostrated at home. The centurion's deep care and unwavering faith in Jesus were evident in his decision to keep the slave at home, believing that Christ could heal him from a distance. This account showcases the miraculous power of Jesus and the centurion's remarkable faith and compassion for his servant.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6825545051687656,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
+            "commentatorTierSimilarities": [
+                29.75,
+                23.3,
+                46.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A centurion approached Jesus, pleading for help for his slave who was grievously tormented and bedridden, suffering from paralysis. This life-threatening condition caused violent cramps, leaving the slave prostrated at home. The centurion's deep care and unwavering faith in Jesus were evident as he believed that Christ could heal his slave from a distance. This account showcases the power of Jesus and highlights the centurion's remarkable faith and compassion for his servant, moving Jesus to perform a remarkable miracle.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.6674569153433807,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                30.07,
+                22.98,
+                46.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

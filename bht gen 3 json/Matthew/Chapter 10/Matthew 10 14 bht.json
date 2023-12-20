@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:07",
+    "verseRef": "Matthew 10:14",
+    "bestBHT": {
+        "bht": "The disciples were instructed to free themselves from all contact and communion with those who rejected their message, treating them as no longer Israelites, but Gentiles. They were to shake off the dust from their feet as a testimony against them, vividly shaking themselves from all connection and responsibility for the guilt of rejection. This symbolical act had a strong significance, as the Jews considered Gentile dust unclean and defiling. By shaking off the dust, the apostles made it clear that they regarded those who rejected the Gospel as entirely responsible and unclean.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0934505956733,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+        "commentatorTierSimilarities": [
+            38.49,
+            23.22,
+            38.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We take nothing of yours with us, we free ourselves from all contact and communion with you.",
+            "We free ourselves from all participation in your condemnation: will have nothing in common with those who have rejected God\u2019s message.",
+            "Those then who would not receive the apostolic message were to be treated as no longer Israelites, but Gentiles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Shake off the dust of your feet... for a testimony against them.",
+            "By this symbolical action they vividly shook themselves from all connection with such, and all responsibility for the guilt of rejecting them and their message.",
+            "Such symbolical actions were common in ancient times, even among others than the Jews, as strikingly appears in Pilate. And even to this day it prevails in the East."
+        ],
+        "Marvin Vincent": [
+            "The very dust of a heathen country was unclean, and it defiled by contact. It was regarded like a grave, or like the putrescence of death.",
+            "More than that, if by mischance any heathen dust had been brought into Palestine, it did not and could not mingle with that of 'the land, ' but remained to the end what it had been - unclean, defiled and defiling everything to which it adhered.",
+            "The symbolic act indicated that the apostles and their Lord regarded them not only as unclean, but as entirely responsible for their uncleanness."
+        ],
+        "John Calvin": [
+            "He directs the apostles, indeed, what he wishes them to do if they meet with despisers. But his principal design was that, wherever their doctrine was rejected, their well-founded grief and distress might be relieved by consolation, that they might not fail in the middle of their course.",
+            "And we see how Paul, relying on this consolation, boldly sets at naught all the obstinacy of men, moves on steadily in the midst of hindrances, and boasts that he is a sweet savor to God, though he is the savor of death to them that perish.",
+            "To shake off the dust from the feet was likely a custom then prevalent in Judea, as a sign of execration; and was intended to declare that the inhabitants of the place were so polluted, that the very ground on which they trod was infected."
+        ],
+        "Philip Schaff": [
+            "If refused in one house, they need not leave the town at once.",
+            "Shake off the dust of your feet. The act was symbolical, expressing an end of all intercourse, and perhaps an end of responsibility.",
+            "As His representatives, their act implied rejection and consequent judgment."
+        ],
+        "Archibald T. Robertson": [
+            "Shake off the dust (\u03b5\u03ba\u03c4\u03b9\u03bd\u03b1\u03be\u03b1\u03c4\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03bd\u03b9\u03bf\u03c1\u03c4\u03bf\u03bd). Shake out, a rather violent gesture of disfavour.\" ",
+            "The Jews had violent prejudices against the smallest particles of Gentile dust, not as a purveyor of disease of which they did not know, but because it was regarded as the putrescence of death.\" ",
+            "If the apostles were mistreated by a host or hostess, they were to be treated as if they were Gentiles."
+        ],
+        "John Gill": [
+            "shake off the dust of your feet...to testify that they had been among them, and that that very dust they shook off their feet would rise up in judgment against them, and declare that the Gospel had been preached among them, and they had rejected it, which will be an aggravation of their condemnation.",
+            "such was their wickedness, that even the dust of their country was infected thereby, and therefore they shook it off, as though it defiled them.",
+            "by this action they signified that they would have nothing more to do with them, or say to them, and that they looked upon them as impure and unholy, as any Heathen city or country."
+        ],
+        "John Wesley": [
+            "Shake off the dust from your feet...a lively intimation, that those Jews who had rejected the Gospel were holy no longer.\" ",
+            "The action here enjoined...that the holy land might not be polluted with it.\" ",
+            "Those Jews...were on a level with heathens and idolaters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were instructed to free themselves from any contact or communion with those who rejected their message, treating them as no longer Israelites but Gentiles. They were to shake off the dust from their feet as a symbolic action, indicating their disassociation and lack of responsibility for the guilt of rejection. This gesture had a strong significance, as the Jews considered Gentile dust unclean, defiled and defiling everything it adhered to. By shaking off the dust, the apostles made it clear that they regarded those who rejected the Gospel as completely responsible for their uncleanness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.084480288526819,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                38.45,
+                23.23,
+                38.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were instructed to free themselves from all contact and communion with those who rejected their message, treating them as no longer Israelites, but Gentiles. They were to shake off the dust from their feet as a testimony against them, vividly shaking themselves from all connection and responsibility for the guilt of rejection. This symbolical act had a strong significance, as the Jews considered Gentile dust unclean and defiling. By shaking off the dust, the apostles made it clear that they regarded those who rejected the Gospel as entirely responsible and unclean.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0934505956733,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                38.49,
+                23.22,
+                38.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were urged to disassociate from those who rejected their message, freeing themselves from all participation and communion. They were to shake off the dust from their feet as a testimony against them, symbolizing their complete withdrawal and lack of responsibility. This act held great significance, as Gentile dust was regarded as unclean, defiled, and deeply repulsive. By shaking off the dust, the apostles conveyed their belief that those who rejected the Gospel were entirely responsible for their defilement and no longer part of the holy community.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.003598182895325,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+            "commentatorTierSimilarities": [
+                35.89,
+                25.95,
+                38.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were instructed to free themselves from all contact and communion with those who rejected their message, treating them as no longer Israelites, but Gentiles. They were to shake off the dust from their feet as a testimony against them, vividly shaking themselves from all connection and responsibility for the guilt of rejection. This symbolic act indicated that the apostles regarded them not only as unclean, but as entirely responsible for their uncleanness.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9817987964713963,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                39.84,
+                22.32,
+                37.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were urged to disassociate from those who rejected their message, freeing themselves from all participation and communion. They were to shake off the dust from their feet as a testimony against them, symbolizing their complete withdrawal and lack of responsibility. The act held great significance, as Gentile dust was regarded as unclean, defiled, and defiling everything it touched. By shaking off the dust, the apostles made it clear that they regarded those who rejected the Gospel as entirely responsible for their defilement and unworthy of further association.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0267575109827214,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.73,
+            "commentatorTierSimilarities": [
+                36.04,
+                26.87,
+                37.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

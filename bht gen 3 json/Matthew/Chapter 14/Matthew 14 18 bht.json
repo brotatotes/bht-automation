@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:48:01",
+    "verseRef": "Matthew 14:18",
+    "bestBHT": {
+        "bht": "In this scenario, the disciples' doubt and skepticism stand in stark contrast to Jesus' unwavering confidence and strength. Instead of acknowledging the divine power Jesus possesses, the disciples overlooked it and focused on their own limitations. Nonetheless, Jesus takes the limited resources they had mentioned \u2014 the five loaves and two fishes \u2014 and transforms them into something valuable and abundant. This reminds us of the importance of entrusting what little we have to Christ, for when we place it in His hands, He can multiply it beyond our expectations.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.460643516139156,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+        "commentatorTierSimilarities": [
+            46.31,
+            24.37,
+            29.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Matthew 14:18. Bring me them hither. The store, so scanty, is first given to Christ; thus it becomes valuable and sufficient.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Here is the contrast between the helpless doubt of the disciples and the confident courage of Jesus.",
+            "He used 'the five loaves and two fishes' which they had mentioned as a reason for doing nothing.",
+            "They had overlooked the power of Jesus in this emergency."
+        ],
+        "John Gill": [
+            "The best way to have an increase of temporal supplies, is to bring what we have, and put it into Christ's hands.\" ",
+            "Not only good is done to others, but that with an overplus is returned to the giver.",
+            "Bring what we have, and put it into Christ's hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 14:18, we see the disciples filled with doubt and lacking confidence, while Jesus remains courageous and capable. The disciples had overlooked the power of Jesus, even though they mentioned the five loaves and two fishes that they had. Jesus takes what little they have and makes it valuable and sufficient. This verse teaches us that the best way to experience an increase in our supplies is to bring what we have and put it into Christ's hands. When we do so, not only is good done to others, but there is also an overflow of blessings returned to us.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 1.492618349542271,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.97,
+            "commentatorTierSimilarities": [
+                37.77,
+                26.38,
+                35.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the disciples' doubts and lack of confidence are contrasted with Jesus' courageous and capable nature. Despite the disciples overlooking His power, Jesus takes the meager five loaves and two fishes they mentioned and transforms them into valuable and sufficient provisions. This teaches us that by bringing what we have and placing it in Christ's hands, we can experience an increase in our supplies. Not only will we be able to do good for others, but we will also receive an abundance of blessings in return.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.3454402365215943,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.08,
+            "commentatorTierSimilarities": [
+                38.38,
+                25.95,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this scenario, the disciples' doubt and skepticism stand in stark contrast to Jesus' unwavering confidence and strength. Instead of acknowledging the divine power Jesus possesses, the disciples overlooked it and focused on their own limitations. Nonetheless, Jesus takes the limited resources they had mentioned \u2014 the five loaves and two fishes \u2014 and transforms them into something valuable and abundant. This reminds us of the importance of entrusting what little we have to Christ, for when we place it in His hands, He can multiply it beyond our expectations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.460643516139156,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                46.31,
+                24.37,
+                29.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this situation, the disciples' doubt is contrasted with Jesus' confident courage. They had overlooked the power of Jesus and the potential of the five loaves and two fishes. However, Jesus takes what they have and uses it as the foundation for a remarkable miracle. This serves as a valuable lesson for us to bring what we have and place it in the hands of Christ. Through this act, not only will we be able to bless others, but we will also witness an overflow of blessings returning to us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.38208736281114,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "commentatorTierSimilarities": [
+                47.08,
+                20.53,
+                32.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this instance, the disciples' doubt is contrasted with Jesus' confident courage. They underestimated Jesus' power and the potential of the meager resources they mentioned. However, Jesus takes what they have and utilizes it to perform a remarkable miracle. This teaches us the significance of bringing what we have and entrusting it to Christ's capable hands. By doing so, we not only have the opportunity to benefit others, but we can also experience an overflow of blessings returned to us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.3135925629483987,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.02,
+            "commentatorTierSimilarities": [
+                47.78,
+                20.45,
+                31.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:50:48",
+    "verseRef": "Matthew 21:16",
+    "bestBHT": {
+        "bht": "The praise of children is a powerful reflection of God's providence, as the miraculous energy of His Spirit shines through their innocent voices. When Jesus quoted Psalm 8:2 in response to the Pharisees' criticism, he affirmed that God's power is not limited to the eloquence of learned scholars, but can be proclaimed even by infants. This rebuke left the Pharisees without a response, for they understood that they were being reproached for their narrow-mindedness and pretentiousness. Through the voices of children, God's strength is perfected in their weakness, and His praise becomes all the more glorious.",
+        "wordCount": 99,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.683110156177247,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+        "commentatorTierSimilarities": [
+            24.92,
+            32.78,
+            42.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The external fulfilment of a prophecy is often itself only a type and representation of that inner and deeper sense of the prophecy which belongs to the spiritual dealings of God.",
+            "In understanding such citations as this, we must bear in mind the important truth.",
+            "Psalm viii. is frequently cited in the N.T. of Christ."
+        ],
+        "Marvin Vincent": [
+            "Thou has perfected [\u03ba\u03b1\u03c4\u03b7\u03c1\u03c4\u03b9\u03c3\u03c9] . The same word as at Matthew 4:21, where it is used of adjusting or mending nets.\" ",
+            "Its secondary meaning is to furnish completely, equip; hence to perfect.\" ",
+            "Thou has provided the perfection of praise."
+        ],
+        "John Calvin": [
+            "God needs no other orators to proclaim his power than mere infants, who are still hanging on their mothers\u2019 breasts.",
+            "In themselves, no doubt, they are silent; but the wonderful providence of God, which shines in them, serves the purpose of splendid and powerful eloquence.",
+            "But since the praises of God are heard from the tongue of infants, Christ infers from this, that it is not strange if He cause them to be uttered by children who have already acquired the use of speech."
+        ],
+        "Philip Schaff": [
+            "Bigotry can always find some trifle on which to ground its objections.",
+            "Did ye new read? A pointed rebuke, for He quotes from the Book it was their business to read.",
+            "The praise of the Messiah is the praise of God. The praise of children is a praise which God Himself has prepared for Himself, the miraculous energy of His Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Hearest thou. In a rage at the desecration of the temple by the shouts of the boys they try to shame Jesus, as responsible for it.\" ",
+            "Thou hast perfected. The quotation is from Psalms 8:3 (LXX text). See Matthew 4:21 where the same verb is used for mending nets.\" ",
+            "Here it is the timeless aorist middle indicative with the perfective use of \u03ba\u03b1\u03c4\u03b1-. It was a stinging rebuke."
+        ],
+        "John Gill": [
+            "Hearest thou what these say?.... Suggesting, that if he did, he ought to reprove them, or else he would be a very vain, as well as a weak man, to take such things to himself, which did not belong to him, and that from such poor, little, silly creatures, so void of knowledge and understanding.",
+            "Jesus said unto them, yea: signifying he did hear, and well approved of what they said, and was ready to vindicate it.",
+            "His strength was made perfect in their weakness, and his praise the more glorious."
+        ],
+        "John Wesley": [
+            "Psalm 8:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The praise of children is a powerful reflection of God's providence, as the miraculous energy of His Spirit shines through their innocent voices. When Jesus quoted Psalm 8:2 in response to the Pharisees' criticism, he affirmed that God's power is not limited to the eloquence of learned scholars, but can be proclaimed even by infants. This rebuke left the Pharisees without a response, for they understood that they were being reproached for their narrow-mindedness and pretentiousness. Through the voices of children, God's strength is perfected in their weakness, and His praise becomes all the more glorious.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.683110156177247,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+            "commentatorTierSimilarities": [
+                24.92,
+                32.78,
+                42.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The praise of children reflects God's providence as His Spirit's miraculous energy shines through them. When Jesus quoted Psalm 8:2 in response to the Pharisees' criticism, he affirmed that God's power is not limited to learned scholars. The rebuke left the Pharisees speechless, as Jesus exposed their narrow-mindedness and pretentiousness. Through the voices of children, God's strength is perfected in their weakness, making His praise even more glorious.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6676266251811884,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                24.65,
+                34.66,
+                40.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The praise of children is a powerful reflection of God's providence, for God needs no other orators than infants. Through their voices, the miraculous energy of God's Spirit shines, serving as splendid and powerful eloquence. When Jesus quoted Psalm 8:2, he affirmed that God's power transcends human wisdom and can be proclaimed even by children. This rebuke left the Pharisees without a response, as they were exposed for their narrow-mindedness and vain pretensions. Through the voices of children, God's strength is perfected in their weakness, making His praise all the more glorious.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.5959218439992853,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+            "commentatorTierSimilarities": [
+                24.24,
+                31.44,
+                44.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The praise of children is a powerful reflection of God's providence, as the miraculous energy of His Spirit shines through them. When Jesus quoted Psalm 8:2, he affirmed that God's power is not limited to learned scholars, but can be proclaimed even by infants. This rebuke left the Pharisees without a response, for they understood that they were being reproached for their narrow-mindedness and pretentiousness. Through the voices of children, God's strength is perfected in their weakness, making His praise even more glorious.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6420553188345473,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                24.36,
+                32.98,
+                42.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The praise of children reflects God's providence as His Spirit's miraculous energy shines through them. When Jesus quoted Psalm 8:2 in response to the Pharisees' criticism, he affirmed that God's power is not limited to learned scholars. The rebuke left the Pharisees speechless, as Jesus exposed their narrow-mindedness and pretentiousness. Through the voices of children, God's strength is perfected in their weakness, making His praise even more glorious.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6676266251811884,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                24.65,
+                34.66,
+                40.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

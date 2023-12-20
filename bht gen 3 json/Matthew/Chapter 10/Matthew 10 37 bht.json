@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:46:16",
+    "verseRef": "Matthew 10:37",
+    "bestBHT": {
+        "bht": "To truly follow Christ, we must love Him above all else, surpassing even the closest family ties. If we are not willing to give up earthly possessions and forsake earthly relationships in order to obey Him, then our attachment to Him is not genuine. This devotion to Christ may seem extreme, but it is a love that is reserved solely for the divine. No one is inherently worthy of Christ, but the love He imparts creates the love He demands, serving as the reward for our trials and sacrifices.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.8659053113692567,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+        "commentatorTierSimilarities": [
+            18.76,
+            46.4,
+            34.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Under the words worthy of me there lies an exceeding great reward which counterbalances all the seeming asperity of this saying.",
+            "Compare Deut. xxxiii. 9, and Exod. xxxii. 26\u201329, to which passages this verse is a reference.",
+            "Stier well remarks..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that loveth father or mother more than me, is not worthy of me.",
+            "He that loveth son or daughter more than me, is not worthy of me.",
+            "Our Lord here, with a sublime, yet awful self-respect, asserts His own claims to supreme affection."
+        ],
+        "Albert Barnes": [
+            "Christ must be loved supremely, or he is not loved at all.",
+            "If we are not willing to give up all earthly possessions, and forsake all earthly friends, and if we do not obey him rather than all others, we have no true attachment to him.",
+            "Is not appropriate to be regarded as a follower of me, or is not a Christian."
+        ],
+        "John Calvin": [
+            "Let the husband then love his wife, the father his son, and, on the other hand, let the son love his father, provided that the reverence which is due to Christ be not overpowered by human affection.",
+            "For if even among men, in proportion to the closeness of the tie that mutually binds us, some have stronger claims than others, it is shameful that all should not be deemed inferior to Christ alone.",
+            "If the love of ourselves hinder us from following Christ, we must resist it, courageously."
+        ],
+        "Philip Schaff": [
+            "Love to Christ may divide family ties, but is superior to family affection; because it is a love and devotion due only to a Divine being.\" ",
+            "This claim to supreme love, if made by others, would be extreme madness or intolerable presumption; from the God-man it seems natural.\" ",
+            "No one is worthy of Christ; but the love Christ gives creates the love Christ claims, and is the reward for all the trials and self-sacrifices here spoken of."
+        ],
+        "John Gill": [
+            "The intent of this passage is to show that as Christ is infinitely above all creatures, he is to be loved above the nearest and dearest relations and friends.",
+            "That man therefore, that prefers father and mother to Christ... is not worthy of me.",
+            "Whoever, to gratify a child, drops the profession of Christ, renounces his Gospel, and neglects his commands, it is not proper and convenient that he should bear the name of Christ."
+        ],
+        "John Wesley": [
+            "He that loveth father or mother more than me...",
+            "He that is not ready to give up all these...",
+            "...when they stand in competition with his duty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To love Christ above all else is to reap the immeasurable rewards that surpass any difficulties this command may present. In referring to passages from Deuteronomy and Exodus, the magnitude of Christ's claim to supreme affection is highlighted. True attachment to Christ necessitates our willingness to forsake earthly possessions and relationships, obeying Him above all others. This love for Christ may even disrupt family ties, as it is a devotion that is reserved for the divine alone. While this claim would be madness from anyone else, it is entirely fitting coming from the God-man. Although none are inherently worthy of Christ, the love He imparts creates the love He demands, becoming the reward for our self-sacrifice.",
+            "wordCount": 119,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6664157808473212,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                19.83,
+                46.0,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To truly follow Christ, He must be loved above all else, surpassing even the strongest earthly bonds. If we cannot forsake our possessions and prioritize Him above family and friends, our attachment to Him is not genuine. Such devotion to Christ may seem extreme, but it is the natural response to His divine claim to supreme affection. While none are worthy of Christ, the love He bestows creates the love He requires, becoming the ultimate reward for our sacrificial commitment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.834467887200169,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                21.85,
+                44.23,
+                33.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly follow Christ, we must love Him above all else, surpassing even the closest family ties. If we are not willing to give up earthly possessions and forsake earthly relationships in order to obey Him, then our attachment to Him is not genuine. This devotion to Christ may seem extreme, but it is a love that is reserved solely for the divine. No one is inherently worthy of Christ, but the love He imparts creates the love He demands, serving as the reward for our trials and sacrifices.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.8659053113692567,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                18.76,
+                46.4,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To authentically follow Christ, we must prioritize our love for Him above all other relationships, choosing Him over even our closest family members. This radical devotion may seem extreme, but it is the natural response to His claim to supreme affection. While we may not be inherently deserving of Christ's love, the love He imparts enables us to love Him in return, and this reciprocal love becomes the reward for our trials and self-sacrifice.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.7332324175148761,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                22.41,
+                43.59,
+                34.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To truly follow Christ, we must prioritize our love for Him above all else, even above our closest family members. This may seem extreme, but it is the natural response to His claim to supreme affection. While none of us are inherently deserving of Christ's love, the love He imparts enables us to reciprocate and become worthy of Him. The devotion required may lead to the disruption of family ties, but it is through our trials and self-sacrifice that we find our true reward in the love of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.734025152906435,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                22.58,
+                43.71,
+                33.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:44:23",
+    "verseRef": "Matthew 6:28",
+    "bestBHT": {
+        "bht": "Consider the lilies of the field, how they grow without toiling or spinning. These wild flowers, like anemones, poppies, and irises, flourishing in the fields of Palestine, are a testament to God's providence and care. Their beauty, observed in the oak woods and hills of Nazareth, reminds us of the divine artistry and serves as a call to trust in God's provision. As we study and contemplate the growth of these lilies, we are reminded that just as God takes care of them, He will also provide for our needs.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.8613397176285384,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+        "commentatorTierSimilarities": [
+            46.03,
+            27.1,
+            26.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Consider, implying more attention than 'Behold.' The birds fly by, and we can but look upon them: the flowers are ever with us, and we can watch their growth.",
+            "These lilies have been supposed to be the crown imperial, (fritillaria imperialis,) which grows wild in Palestine, or the amaryllis lutea, (Sir J. KE. Smith,) whose golden liliaceous flowers cover the autumnal fields of the Levant.",
+            "And when I met this incomparable flower, in all its loveliness, among the oak woods around the northern base of Tabor, and on the hills of Nazareth, where our Lord spent His youth, I felt assured that it was this to which He referred.\u201d"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Consider\u2014observe well the lilies of the field, how they grow: they toil not\u2014as men, planting and preparing the flax.\" ",
+            "Consider\u2014observe well the lilies of the field, how they grow: neither do they spin\u2014as women.",
+            "Consider\u2014observe well the lilies of the field, how they grow."
+        ],
+        "Philip Schaff": [
+            "Consider, i.e., study, observe closely; more readily done in the case of the plants than in that of the birds.",
+            "The lilies of the field, i.e., wild lilies, growing without human care.",
+            "They toil not, neither do they spin; perform no labor in preparing clothing."
+        ],
+        "Archibald T. Robertson": [
+            "The lilies of the field (\u03c4\u03b1 \u03ba\u03c1\u03b9\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03b3\u03c1\u03bf\u03c5). The word may include other wild flowers besides lilies, blossoms like anemones, poppies, gladioli, irises (McNeile). "
+        ],
+        "John Gill": [
+            "Christ does not direct his hearers to the lilies, or flowers which grow in the garden which receive some advantage from the management and care of the gardener; but to those of the field, where the art and care of men were not so exercised.",
+            "which he would have them look upon, with their eyes, consider and contemplate in their minds,",
+            "they toil not, or do not labour as husbandmen do, in tilling their land, ploughing their fields, and sowing them with flax, out of which linen garments are made:",
+            "neither do they spin; the flax, when plucked and dressed, as women do, in order for clothing; nor do they weave it into cloth, or make it up into garments, as other artificers do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Consider the lilies of the field, how they grow and flourish without human care. These wild flowers, like anemones, poppies, and irises, serve as a beautiful reminder of God's provision and care for His creation. They do not toil or spin like men or women, effortlessly displaying their natural beauty. As our eyes observe their growth, let us contemplate the intricate details and the divine artistry behind it. Just as God cares for these lilies, we can trust that He will provide for our needs as well.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7959265042628032,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.06,
+            "commentatorTierSimilarities": [
+                41.09,
+                30.62,
+                28.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Consider the lilies of the field, how they grow and flourish without human care. These lilies, possibly the crown imperial or golden amaryllis, can be found in the oak woods and hills of Nazareth. They serve as a reminder of God's provision and care, as they neither toil nor spin. Their effortless beauty reflects the divine artistry. Just as God cares for these lilies, we can trust that He will provide for our needs as well.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6547945929627674,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.36,
+            "commentatorTierSimilarities": [
+                41.56,
+                30.4,
+                28.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Consider the lilies of the field, how they grow without toiling or spinning. These wild flowers, like anemones, poppies, and irises, flourishing in the fields of Palestine, are a testament to God's providence and care. Their beauty, observed in the oak woods and hills of Nazareth, reminds us of the divine artistry and serves as a call to trust in God's provision. As we study and contemplate the growth of these lilies, we are reminded that just as God takes care of them, He will also provide for our needs.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8613397176285384,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                46.03,
+                27.1,
+                26.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Consider the lilies of the field, how they grow without toiling or spinning. These wild flowers, flourishing in the fields of Palestine, are a testament to God's providence and care. Their beauty is observed in the oak woods and hills of Nazareth, reminding us of the divine artistry. As we study and contemplate the growth of these lilies, we are reminded that just as God takes care of them, He will also provide for our needs. Trust in His provision, for He is our faithful provider.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5949128106720842,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                46.26,
+                28.41,
+                25.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Consider the lilies of the field, how they grow without toiling or spinning. These wild flowers, flourishing in the fields of Palestine, are a testament to God's providence and care. Their effortless beauty reflects the divine artistry behind creation. As we study their growth, we are reminded that just as God takes care of the lilies, He will also provide for our needs. Trust in His provision, for He is our faithful provider.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5487271426165083,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.84,
+            "commentatorTierSimilarities": [
+                44.33,
+                30.83,
+                24.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

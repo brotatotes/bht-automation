@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:45:07",
+    "verseRef": "Matthew 8:21",
+    "bestBHT": {
+        "bht": "The disciple hesitated to follow Jesus because he wanted to bury his father, whether he was dead or not. Jesus rebuked him, emphasizing the need to prioritize following Him above all else. Even if his father was not yet dead, Jesus required his unwavering commitment. This teaches us that our relationship with God should be our utmost priority, surpassing any earthly obligations. We are called to consider God's commands above all else, even if it means setting aside our familial duties.",
+        "wordCount": 82,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.7184190340171324,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+        "commentatorTierSimilarities": [
+            33.86,
+            38.9,
+            27.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A tradition of this nature was hardly likely to be wrong.",
+            "Perhaps the words 'Follow me' are to be taken as an admonition occasioned by some slackness or symptom of decadence on the part of the Apostle.",
+            "The reason of our Lord\u2019s rebuke was the peremptory and all-superseding nature of the command 'Follow me'."
+        ],
+        "Albert Barnes": [
+            "The Saviour saw that in his circumstances there might be danger, if he was thus permitted to go, that he would not return to him.",
+            "He commanded him, therefore, to perform the more important duty - the duty of attending to the salvation of his soul even at the risk of the apparent neglect of another duty.",
+            "The first duty of man is religion, and everything else should be made subordinate to that."
+        ],
+        "John Calvin": [
+            "He was prevented from immediately obeying the call of Christ by the weakness of thinking it a hardship to leave his father.",
+            "Children should discharge their duty to their parents in such a manner that, whenever God calls them to another employment, they should lay this aside, and assign the first place to the command of God.",
+            "All ought to consider what God requires from them as individuals, and what is demanded by their particular calling, that earthly parents may not prevent the claims of the highest and only Father of all from remaining entire."
+        ],
+        "Archibald T. Robertson": [
+            "It is by no means certain that the father was dead.",
+            "The probability is that this disciple means that, after his father is dead and buried, he will then be free to follow Jesus.",
+            "Jesus wanted first things first. But even if his father was not actually dead, service to Christ comes first."
+        ],
+        "John Gill": [
+            "And certain it is, that he was one, who was called to preach the Gospel; so that he was not a common ordinary disciple; nor could he be one of the seventy disciples, since it was after this, that they were called and sent forth...",
+            "...burying the dead was reckoned by the Jews, not only an act of kindness and respect to the deceased, but an act of piety and religion...",
+            "...such whose dead lay before them, who were as yet unburied, were excused reading the Shema, they were free from performing the duty of prayer, and were not obliged to wear their phylacteries."
+        ],
+        "John Wesley": [
+            "I will follow thee without any such view.",
+            "But I must mind my business first.",
+            "It is not certain that his father was already dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciple in Matthew 8:21 hesitated to follow Jesus because he wanted to bury his father, whether he was already dead or not. Jesus, however, rebuked him, emphasizing the importance of prioritizing the call to follow Him above all else. Jesus wanted the disciple to understand that even the duty to bury one's father should not outweigh the greater duty of serving Christ. The disciple's response highlighted the need to put God's command first, even if it meant setting aside earthly obligations. Ultimately, this verse reminds us that the first duty of every person is to prioritize their relationship with God, making everything else subservient to that commitment.",
+            "wordCount": 110,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.7679719789040562,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                31.49,
+                38.77,
+                29.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciple in question hesitated to follow Jesus because he wanted to fulfill his duty of burying his father, whether he was already dead or not. Jesus, however, rebuked him, emphasizing the importance of prioritizing the call to follow Him above all else. He wanted the disciple to understand that even the duty to bury one's father should not outweigh the greater duty of serving Christ. This verse serves as a reminder that the first duty of every person is to prioritize their relationship with God, making everything else subservient to that commitment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.8382800291300885,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                28.52,
+                41.84,
+                29.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciple hesitated to follow Jesus because he wanted to bury his father, whether he was dead or not. Jesus rebuked him, emphasizing the need to prioritize following Him above all else. Even if his father was not yet dead, Jesus required his unwavering commitment. This passage teaches us that our relationship with God should be our utmost priority, surpassing any earthly obligations. We are called to consider God's commands above all else, even if it means setting aside our familial duties.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7360474841558173,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                34.0,
+                38.51,
+                27.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciple hesitated to follow Jesus because he wanted to bury his father, whether he was dead or not. Jesus rebuked him, emphasizing the need to prioritize following Him above all else. Even if his father was not yet dead, Jesus required his unwavering commitment. This teaches us that our relationship with God should be our utmost priority, surpassing any earthly obligations. We are called to consider God's commands above all else, even if it means setting aside our familial duties.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7184190340171324,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                33.86,
+                38.9,
+                27.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciple hesitated to follow Jesus because of his desire to bury his father, regardless of whether he was deceased or not. However, Jesus reprimanded him, highlighting the significance of prioritizing the command to follow Him above everything else. This verse underscores the importance of placing our allegiance to Christ above earthly obligations. It exemplifies the notion that our duty to God should take precedence over all other responsibilities, even familial duties.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6411969380960234,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                31.02,
+                40.69,
+                28.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:26",
+    "verseRef": "Matthew 6:23",
+    "bestBHT": {
+        "bht": "If the light within us, the conscience and guide of our souls, is tainted and obscured, how much deeper and darker will our passions and faculties become? It is like a mind and heart divided between heavenly and earthly desires, resulting in a state of darkness. This false perception, worse than blindness, distorts our judgment and prevents us from discerning what is right. Let us strive to keep our inner light pure, so that our whole being may be filled with radiant light, like a shining candle.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.976084616437023,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+        "commentatorTierSimilarities": [
+            36.28,
+            31.14,
+            32.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If then the LIGHT w hich is in thee is darkness, how dark is the DARKNESS!",
+            "if the conscience, the eye and light of the soul, be darkened, in how much grosser darkness will all the passions and faculties be",
+            "This dark region\u2014human nature under the gross dominion of the flesh\u2014shall become spiritualized, enlightened, sanctified, by the spiritual light: but if this light be darkness, how great must then the darkness of the sensuous life be!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As a vitiated eye, or an eye that looks not straight and full at its object, sees nothing as it is, so a mind and heart divided between heaven and earth is all dark.",
+            "If therefore the light that is in thee be darkness, how great is that darkness!",
+            "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
+        ],
+        "Marvin Vincent": [
+            "No one understands that he is a avaricious or covetous.",
+            "Seeing falsely is worse than blindness.",
+            "False seeing is unseeing, on the negative side of blindness."
+        ],
+        "John Calvin": [
+            "We ought not to wonder, if men wallow so disgracefully, like beasts, in the filth of vices, for they have no reason which might restrain the blind and dark lusts of the flesh.",
+            "The light is said to be turned into darkness, not only when men permit the wicked lusts of the flesh to overwhelm the judgment of their reason, but also when they give up their minds to wicked thoughts, and thus degenerate into beasts.",
+            "See that thy mind, which ought to have shone, like a candle, to guide all thy actions, do not darken and mislead thy whole life."
+        ],
+        "Philip Schaff": [
+            "If thine eye be evil. This means, according to the contrast, 'double' distorted in vision.",
+            "The evil result of a divided state of heart, where what God designed to be the means of showing Himself to us as the supreme object of love, fails to perform its office.",
+            "No blindness is so terrible as blindness of conscience, when what was made to enlighten us but increases our darkness."
+        ],
+        "John Gill": [
+            "If thou art of a sordid disposition, of an avaricious temper, if the sin of covetousness prevails over thee, thy whole body will be full of darkness.",
+            "Thy judgment will be so influenced by that sordid principle, that thou wilt not be able to discern what is agreeable to the law of God, or human reason.",
+            "If therefore the light that is in thee be darkness, how great is that darkness!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the light within us, which is intended to guide and illuminate our whole being, is instead darkness, how immense and profound is that darkness! Our conscience, the eye and light of our soul, can become dimmed and obscured, leading to even greater darkness within us. When our minds and hearts are divided between heavenly and earthly pursuits, our perception becomes distorted and we are unable to see things as they truly are. This false seeing, this unseeing, is worse than blindness itself. We must strive to keep our inner light untainted and unobscured, so that our whole being may be filled with light, like a brightly shining candle.",
+            "wordCount": 109,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.0489852556900123,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                37.56,
+                32.09,
+                30.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the light within us, the conscience and guide of our souls, becomes darkness, how much deeper and more profound is the resulting darkness! When we allow our passions and faculties to be overshadowed by this darkness, the entire region of our human nature falls under its dominion. Our spiritual sight becomes distorted, like a vitiated eye that sees nothing as it truly is. It is a state of false seeing, a division between heaven and earth, that plunges us into a darkness that is even greater than blindness itself. Let us therefore guard our inner light and keep it from being contaminated, so that our whole being may be filled with illuminating light, just like the radiant glow of a candle.",
+            "wordCount": 122,
+            "quoteTokenProportion": 46.99,
+            "qualityScore": 2.118611045155784,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                36.45,
+                32.86,
+                30.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the light within our souls, our conscience and means of spiritual discernment, is tainted and corrupted, how much deeper and darker will our passions and faculties become. It is akin to a mind and heart divided between heavenly and earthly desires, resulting in a state of darkness. This false perception, worse than blindness itself, obscures our judgment and hinders our ability to discern what is right and true. Let us strive to keep our inner light pure and unclouded, so that our entire being may be filled with brilliant light, like the radiant glow of a candle.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.9535146305370068,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                36.24,
+                31.16,
+                32.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the light within us, the conscience and guide of our souls, becomes darkness, how much deeper and more profound is the resulting darkness! When we allow our passions and faculties to be overshadowed by this darkness, the entire region of our human nature falls under its dominion. Our spiritual sight becomes distorted, like a vitiated eye that sees nothing as it truly is. It is a state of false seeing, a division between heaven and earth, that plunges us into a darkness that is even greater than blindness itself. Let us therefore guard our inner light and keep it from being contaminated, so that our whole being may be filled with illuminating light, just like the radiant glow of a candle.",
+            "wordCount": 122,
+            "quoteTokenProportion": 46.99,
+            "qualityScore": 2.118611045155784,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                36.45,
+                32.86,
+                30.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If the light within us, the conscience and guide of our souls, is tainted and obscured, how much deeper and darker will our passions and faculties become? It is like a mind and heart divided between heavenly and earthly desires, resulting in a state of darkness. This false perception, worse than blindness, distorts our judgment and prevents us from discerning what is right. Let us strive to keep our inner light pure, so that our whole being may be filled with radiant light, like a shining candle.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.976084616437023,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                36.28,
+                31.14,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

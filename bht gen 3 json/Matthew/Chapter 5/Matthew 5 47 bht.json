@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:07",
+    "verseRef": "Matthew 5:47",
+    "bestBHT": {
+        "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers have the courtesy to greet their own kind. The Jews did not usually extend a friendly greeting to Gentiles. But Jesus challenges his followers to go beyond cultural or religious boundaries and to extend their greetings even to their enemies. Christians should show that they have a different spirit and treat their enemies as well as wicked people do their friends. May we embrace our brethren in Christ of whatever party or denomination they are.",
+        "wordCount": 92,
+        "quoteTokenProportion": 52.94,
+        "qualityScore": 1.6496539585746683,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+        "commentatorTierSimilarities": [
+            33.52,
+            33.28,
+            33.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "47. salute] Here, most probably in its literal sense, Jews did not salute Gentiles: Mohammedans do not salute Christians even now in the East."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And if ye salute your brethren only\u2014of the same nation and religion with yourselves...what do ye more than others?\" ",
+            "Do not even the heathens the same?\" ",
+            "wherein do ye excel?"
+        ],
+        "Albert Barnes": [
+            "The Saviour says that the worst men, the very publicans, would do this.",
+            "Christians should do more; they should show that they have a different spirit.",
+            "They should treat their 'enemies' as well as wicked people do their 'friends'."
+        ],
+        "Philip Schaff": [
+            "The Jews, despising the Gentiles, did not usually salute them.",
+            "The morality of the Pharisees is proved to be, in this respect, no better than that of the heathen.",
+            "This is correct here; in Matthew 5:46 it is doubtful whether we should read 'so' or 'the same.'"
+        ],
+        "John Gill": [
+            "The manner of salutation among the wise men was this; he that salutes says, a good day to my lord; and he replies, saying, a good, and long day to my lord: always he that replies doubles the salutation.",
+            "But this proceeded not from any cordial hearty respect, but out of policy, and from fear; and in order to maintain peace; and for selfish ends, and with sinister views: otherwise their salutations were confined to their brethren and kinsfolk after the flesh.",
+            "Now, what great matter was this to salute their brethren and their friends, when even the very Heathens, who had nothing but the light of nature to guide them, did the same?"
+        ],
+        "John Wesley": [
+            "Our Lord probably glances at those prejudices, which different sects had against each other, and intimates, that he would not have his followers imbibe that narrow spirit.",
+            "Would to God this had been more attended to among the unhappy divisions and subdivisions, into which his Church has been crumbled!",
+            "And that we might at least advance so far, as cordially to embrace our brethren in Christ, of whatever party or denomination they are!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers have the courtesy to greet their own kind. The Jews, for example, did not usually extend a friendly greeting to Gentiles. But Jesus challenges his followers to go beyond cultural or religious boundaries and to extend their greetings even to their enemies. This highlights the importance of treating others with love and kindness, regardless of their background or beliefs. As Christians, we should strive to have a different spirit, one that goes beyond what is expected and demonstrates a genuine love for all people, even those who may be considered our enemies. May we learn to embrace and welcome our brethren in Christ, regardless of the divisions and denominations that exist within the Church.",
+            "wordCount": 131,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.590356510249371,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                34.14,
+                30.59,
+                35.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers have the courtesy to greet their own kind. The Jews did not usually extend a friendly greeting to Gentiles. But Jesus challenges his followers to go beyond cultural or religious boundaries and to extend their greetings even to their enemies. Christians should show that they have a different spirit and treat their enemies as well as wicked people treat friends. May we embrace our brethren in Christ of whatever party or denomination they are.",
+            "wordCount": 91,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 1.641554785585969,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                33.63,
+                33.18,
+                33.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers greet their own kind. The Jews generally did not extend a friendly greeting to Gentiles. But Jesus challenges his followers to surpass cultural and religious barriers and to extend greetings even to their enemies. Christians should demonstrate a different spirit, treating their enemies as well as the wicked treat their friends. Let us embrace our brethren in Christ, regardless of their party or denomination.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6489556152158993,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                34.97,
+                32.56,
+                32.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers have the courtesy to greet their own kind. The Jews did not usually extend a friendly greeting to Gentiles. But Jesus challenges his followers to go beyond cultural or religious boundaries and to extend their greetings even to their enemies. Christians should show that they have a different spirit and treat their enemies as well as wicked people do their friends. May we embrace our brethren in Christ of whatever party or denomination they are.",
+            "wordCount": 92,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 1.6496539585746683,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                33.52,
+                33.28,
+                33.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you only greet those who are like you, what credit is that to you? Even unbelievers have the courtesy to greet their own kind. The Jews did not usually extend a friendly greeting to Gentiles. But Jesus challenges his followers to go beyond cultural or religious boundaries and to extend their greetings even to their enemies. Christians should demonstrate a different spirit, treating their enemies as well as the wicked treat their friends. Let us embrace our brethren in Christ, regardless of their party or denomination.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.6582357029605133,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                34.23,
+                32.51,
+                33.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

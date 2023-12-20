@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:49:16",
+    "verseRef": "Matthew 17:17",
+    "bestBHT": {
+        "bht": "The disciples, included in the perverse generation, are reproved for their twisted beliefs and lack of faith. Jesus questions how long He must endure their unbelief and perversity, reminding them that all things are possible for those who believe. Their failure to cure and their susceptibility to being led astray demonstrate their disbelief. While the reprimand extends to the rebellious nation, the disciples, in particular, need to learn to trust and have faith in Jesus before His physical presence is no longer available to strengthen their faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.612490869701293,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+        "commentatorTierSimilarities": [
+            30.36,
+            45.12,
+            24.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] Bengel remarks, that in our Lord\u2019s severe reproof, the disciples are numbered with the multitude."
+        ],
+        "Albert Barnes": [
+            "Perverse means that which is twisted or turned from the proper direction... it means that they hold opinions turned or perverted from the truth.\" ",
+            "How long shall I suffer you? - That is, how long shall I bear with you? How long is it necessary to show such patience and forbearance with your unbelief and perversity?",
+            "If thou canst believe, all things are possible to him that believeth... In this way, and in this only, are all things possible to believers."
+        ],
+        "Marvin Vincent": [
+            "Perverse [\u03b4\u03b9\u03b5\u03c3\u03c4\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b7] . Wyc., wayward. Tynd., crooked; dia, throughout; strefw, to twist. Warped."
+        ],
+        "John Calvin": [
+            "O unbelieving and rebellious nation...those who, through inveterate malice, obstinately resist God.",
+            "But nothing worse could happen to them than that Christ should leave them.",
+            "We must also observe here, that we ought to treat men in various ways, each according to his natural disposition."
+        ],
+        "Philip Schaff": [
+            "The failure to cure, the catechizing of the scribes, and the effect produced on the people, proved that all present were unbelieving and liable to be led astray.",
+            "But the term 'generation' requires a still wider reference to the race and generation, whom this company represented.",
+            "He would not long remain on earth and bear with their unbelief and perversity... the disciples soon could not have Him to come thus personally to supply their lack of faith and power."
+        ],
+        "Archibald T. Robertson": [
+            "Perverse (\u03b4\u03b9\u03b5\u03c3\u03c4\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b7). Distorted, twisted in two, corrupt. Perfect passive participle of \u03b4\u03b9\u03b1\u03c3\u03c4\u03c1\u03b5\u03c6\u03c9. "
+        ],
+        "John Gill": [
+            "O faithless and perverse generation...the characters better suit the body of the Jewish nation.\" ",
+            "How long shall I be with you? how long shall I suffer you?\" ",
+            "Bring him hither to me, meaning the lunatic child."
+        ],
+        "John Wesley": [
+            "O unbelieving and perverse generation \u2014 Our Lord speaks principally this to his disciples.",
+            "How long shall I be with you? \u2014 Before you steadfastly believe?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples are reprimanded along with the rest of the unbelieving and perverse generation, whose twisted and distorted beliefs have led them astray from the truth. Jesus questions how long He must bear their unbelief and perversity, emphasizing that all things are possible for those who truly believe. This encounter reveals the disciples' lack of faith and their need to rely on Jesus for supernatural power. However, it also points to a broader criticism of the unbelieving and rebellious nation as a whole, who resist God through their inveterate malice and obstinacy. Jesus's question implies that His time with them is limited, and they must learn to trust and have faith in Him before He is no longer physically present to supply their lack.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5863770362504521,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.09,
+            "commentatorTierSimilarities": [
+                27.37,
+                46.32,
+                26.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, included in the perverse generation, are reproved for their twisted beliefs and lack of faith. Jesus questions how long He must endure their unbelief and perversity, reminding them that all things are possible for those who believe. Their failure to cure and their susceptibility to being led astray demonstrate their disbelief. While the reprimand extends to the rebellious nation, the disciples, in particular, need to learn to trust and have faith in Jesus before His physical presence is no longer available to strengthen their faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.612490869701293,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                30.36,
+                45.12,
+                24.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, along with the unbelieving and perverse generation, are cautioned for their distorted beliefs and lack of faith. Jesus questions how long He must tolerate their unbelief and twisted thinking, emphasizing that believers can achieve all things. The failure to cure and the influence on the unbelieving people highlight their lack of faith. The disciples must learn to rely on Jesus before He leaves, as their faith and power will be unsupported without His personal presence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.5622860376541796,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                24.88,
+                48.63,
+                26.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's severe reproof encompasses not only the multitude but also the disciples, who are counted among the perverse generation. Their distorted and twisted opinions, turned away from the truth, are rebuked. Jesus questions how long He must bear with their unbelief and perversity, highlighting the need for genuine faith. He emphasizes that all things are possible for believers, signaling the importance of trust and steadfastness. This encounter underscores not only the disciples' lack of faith and power, but also the wider implications for the rebellious nation as a whole.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5164492185001381,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.76,
+            "commentatorTierSimilarities": [
+                34.66,
+                42.01,
+                23.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus includes the disciples when He severely reproves the perverse generation, criticizing their twisted beliefs. He questions how long He must endure their unbelief and perversity, emphasizing that all things are possible for those who believe. The disciples' failure to cure and their vulnerability to being led astray expose their lack of faith. This encounter serves to warn not only the disciples but also the rebellious nation, who resist God through inveterate malice and obstinacy. Jesus's limited time with them underscores the need for them to develop faith before He departs.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5828664928504401,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                30.77,
+                42.81,
+                26.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

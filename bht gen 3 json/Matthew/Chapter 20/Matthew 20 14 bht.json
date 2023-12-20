@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:50:22",
+    "verseRef": "Matthew 20:14",
+    "bestBHT": {
+        "bht": "The instruction to go thy way hardly signifies a command for the laborer to fulfill his duty as a paid worker, rather than being expelled. The phrase I will give emphasizes the householder's will to distribute wages as he deems appropriate, even to those who were called later. The grumbling of the other laborers serves as a means to convey the lesson being taught. Ultimately, this verse underscores the householder's authority in determining rewards based on his own will and discretion.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.48951574007053,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+        "commentatorTierSimilarities": [
+            39.85,
+            33.55,
+            26.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'go thy way hardly' denotes ... commanding him to do what a paid labourer naturally should do.",
+            "it is here only a word of course, commanding him to do what a paid labourer naturally should do.",
+            "go thy way hardly denotes (as Stier in his 1st edn.) expulsion and separation from the householder and his employment."
+        ],
+        "Albert Barnes": [
+            "Take that thine is - Take what is justly due to you what is properly your own."
+        ],
+        "Marvin Vincent": [
+            "Take [\u03b1\u03c1\u03bf\u03bd] . Lit., as Rev., take up, as if the money had been laid down for him on a table or counter.",
+            "I will give [\u03b8\u03b5\u03bb\u03c9 \u03b4\u03bf\u03c5\u03bd\u03b1\u03b9] . But, as in other cases in the A. V., this may be mistaken for the simple future of the verb; whereas there are two verbs.",
+            "Therefore, Rev., rightly, It is my will to give. See on Matthew 14:32."
+        ],
+        "Philip Schaff": [
+            "Go thy way. This does not necessarily imply that the first were finally rejected, receiving only the temporal good they bargained for.",
+            "I will give \u2018it is my will or pleasure to give.\u2019 The ground is the wish of the householder."
+        ],
+        "Archibald T. Robertson": [
+            "The murmuring is needed to bring out the lesson.",
+            "The will of the householder.",
+            "In the sphere of my own affairs."
+        ],
+        "John Gill": [
+            "Take that thine is,.... By agreement, and go thy way; out of my sight, give me no more trouble on this head.\" ",
+            "which looks like a dismissal from his service, and after privileges;\" ",
+            "the same outward privileges, besides special grace, and eternal glory, which it looks as if the other had not."
+        ],
+        "John Wesley": [
+            "It is my will to give to this last called among the heathens even as to the first called among the Jews.",
+            "Yea, and to the late converted publicans and sinners, even as to those who, were called long before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The phrase go thy way hardly in this verse indicates a command for the laborer to do what is expected of him as a paid worker, implying no expulsion. The instruction to take signifies the act of receiving what is rightfully due to him. The murmuring of the other laborers serves to highlight the lesson being taught. The phrase I will give emphasizes that it is the will and desire of the householder to distribute the wages as he sees fit, even to those who were called later. Ultimately, the verse emphasizes the householder's authority in distributing rewards according to his own discretion.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.5265124838846416,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                37.38,
+                37.06,
+                25.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The command to go thy way hardly implies the laborer is simply being instructed to fulfill his duty as a paid worker, rather than being expelled. The phrase I will give emphasizes that it is the will of the householder to distribute wages as he sees fit, even to those who were called later. The grumbling of the other laborers serves as a means to convey the lesson being taught. Overall, this passage highlights the householder's authority in determining rewards based on his own will and discretion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.4865230463580508,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.77,
+            "commentatorTierSimilarities": [
+                40.34,
+                35.63,
+                24.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The instruction to go thy way hardly signifies a command for the laborer to fulfill his duty as a paid worker, rather than being expelled. The phrase I will give emphasizes the householder's will to distribute wages as he deems appropriate, even to those who were called later. The grumbling of the other laborers serves as a means to convey the lesson being taught. Ultimately, this verse underscores the householder's authority in determining rewards based on his own will and discretion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.48951574007053,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                39.85,
+                33.55,
+                26.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The laborer is commanded to go thy way hardly, indicating his responsibility to fulfill his duties as a paid worker, rather than being expelled. The phrase I will give emphasizes the householder's desire to distribute wages as he sees fit, extending to those who were called later. The discontent expressed by the other laborers serves to highlight the lesson being taught. Ultimately, this passage underscores the authority of the householder in determining rewards based on his own will and discretion.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4352580131331805,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+            "commentatorTierSimilarities": [
+                39.54,
+                32.56,
+                27.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command to go thy way hardly is a directive for the laborer to fulfill his obligations as a paid worker, rather than indicating expulsion. The phrase I will give highlights the householder's intention to distribute wages as he deems appropriate, even to those called later. The murmuring of the other laborers serves to emphasize the lesson being conveyed. In essence, this verse underscores the householder's authority in determining rewards according to his own will and discretion.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4586639561181705,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                42.01,
+                32.22,
+                25.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

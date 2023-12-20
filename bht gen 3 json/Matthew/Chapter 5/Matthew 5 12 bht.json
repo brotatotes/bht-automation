@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:43:48",
+    "verseRef": "Matthew 5:12",
+    "bestBHT": {
+        "bht": "Rejoice and exult, for your reward is not based on what was earned, but on what was covenanted. It is a privilege to be persecuted and to suffer, as God imparts the highest rewards to those who suffer most. The flame that consumes the martyr also reveals the truth and power of the gospel. Your reward is great in heaven, beyond merit, for so persecuted were the prophets before you. Defend a righteous cause and remember that your reward awaits you in heaven, where God will be your all in all.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 2.030835532393121,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+        "commentatorTierSimilarities": [
+            32.22,
+            34.77,
+            33.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A reward, not of debt, but of grace, as parable in ch. xx. 1 ff. clearly represents it.",
+            "The reward is not what was earned, but what was covenanted.",
+            "The local question is to be decided by wholly different testimonies of Scripture;\u2014by the general tenor of prophecy, and the analogies of the divine dealings: and all of these seem to point rather to this earth, purified and renewed, than to the heavens in any ordinary sense of the term, as the eternal habitation of the blessed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Exult...as if He would have their inward transport to overpower and absorb the sense of all these affronts and sufferings; nor will anything else do it.",
+            "You do but serve yourselves heirs to their character and sufferings, and the reward will be common.",
+            "Rejoice...for great is your reward in heaven."
+        ],
+        "Albert Barnes": [
+            "Regard it as a great privilege thus to be persecuted and to suffer - a thing not to be mourned over, but as among the chief blessings of life.",
+            "To those who suffer most, God imparts the highest rewards.",
+            "Nothing but the consciousness of innocence, and the presence of God, could bear up the sufferers in the midst of these trials; and the flame, therefore, kindled to consume the martyr, has also been a bright light, showing the truth and power of the gospel of Jesus."
+        ],
+        "John Calvin": [
+            "For there is not (as they dream) a mutual relation between the reward and merit, but the promise of the reward is free.",
+            "Christ pronounces those only to be happy who are employed in defending a righteous cause.",
+            "Christ had good reason for warning them, that, as soon as they succeeded to the place of the prophets, they must sustain the same contests in which the prophets were formerly engaged."
+        ],
+        "Philip Schaff": [
+            "Great is your reward in heaven.\" - The reason both for rejoicing and for the blessedness. 'Reward,' i.e., recompense; but of grace, not of debt. 'Great' implies that it would be beyond merit.",
+            "For so persecuted they, i.e., the unbelieving Jews, the prophets who were before you.\" - Not an express assertion that the disciples were prophets. It establishes the connection between the Old and the New Testaments, showing that the old antagonism remains.",
+            "Matthew 5:13-16 teach the relation of the disciples, as thus described, to the world, under the two figures of salt and light.\" - The relation of the disciples to the world, under the two figures of salt and light, is taught in Matthew 5:13-16."
+        ],
+        "John Gill": [
+            "Because of the honour put upon them, the glory they bring to Christ and his cause, by cheerfully suffering for it; and because of the glory and happiness that shall follow upon their sufferings.",
+            "Not in earth, but in heaven. Saints must not expect their reward here, but hereafter, when God himself will be their reward; he will be all in all.",
+            "And the more to animate them to suffer with joyfulness, and to support them under all their reproaches and persecutions, it is added; for so persecuted they the prophets which were before you."
+        ],
+        "John Wesley": [
+            "Your reward \u2014 Even over and above the happiness that naturally and directly results from holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rejoice and exult, as if the inward transport of knowing your reward is not what was earned, but what was covenanted, would overpower and absorb the sense of all these affronts and sufferings. It is a great privilege to be persecuted and to suffer, for to those who suffer most, God imparts the highest rewards. In the midst of trials, the flame kindled to consume the martyr has also been a bright light, showing the truth and power of the gospel. Your reward is great in heaven, beyond merit, for so persecuted were the prophets before you. Therefore, defend a righteous cause and remember that your reward is not on earth, but in heaven, where God himself will be your all in all.",
+            "wordCount": 123,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 2.1086031499821187,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.45,
+            "commentatorTierSimilarities": [
+                31.63,
+                36.15,
+                32.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rejoice and exult, for your reward is not based on what was earned, but on what was covenanted. It is a privilege to be persecuted and to suffer, as God imparts the highest rewards to those who suffer most. The flame that consumes the martyr also reveals the truth and power of the gospel. Your reward is great in heaven, beyond merit, for so persecuted were the prophets before you. Defend a righteous cause and remember that your reward awaits you in heaven, where God will be your all in all.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.030835532393121,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                32.22,
+                34.77,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rejoice and exult, for your reward is not earned but covenanted - a privilege given to those who suffer most. The flame that consumes the martyr is a testament to the truth and power of the gospel. Your reward is great in heaven, beyond merit, for the prophets before you were also persecuted. Defend a righteous cause and know that your ultimate reward awaits in heaven, where God will be everything to you.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.0309691771161456,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                31.77,
+                34.77,
+                33.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rejoice and exult, for your reward is not what was earned, but what was covenanted. It is a great privilege to be persecuted and to suffer, as God imparts the highest rewards to those who suffer most. The flame that consumes the martyr is a bright light, affirming the truth and power of the gospel. Your reward is great in heaven, beyond merit, for so persecuted were the prophets before you. Therefore, defend a righteous cause and remember that your reward awaits you in heaven, where God will be your all in all.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.054419156901524,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                32.1,
+                35.15,
+                32.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rejoice and exult, for your reward is not earned, but covenanted. It is a privilege to be persecuted, as God imparts the highest rewards to those who suffer most. The martyr's flame is a bright light showing the truth of the gospel. Your reward is great in heaven, beyond merit, for the prophets before you were also persecuted. Defend a righteous cause, knowing that your reward awaits in heaven, where God will be everything to you.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.9692885607055244,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                31.6,
+                35.11,
+                33.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:52:26",
+    "verseRef": "Matthew 24:24",
+    "bestBHT": {
+        "bht": "In the face of false Christs and their signs and wonders, Jesus warns his disciples about the danger of being misled. These charlatans are so skilled that they may even deceive the very elect, if possible. However, true believers cannot be entirely fooled, as their salvation is protected by the secret election of God. While Christians may be led astray or confused, they won't be completely deceived and seduced from the true Savior. Jesus encourages his disciples to remain watchful, relying on God's defense and protection against the snares of Satan.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.28,
+        "qualityScore": 2.005213614388376,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+        "commentatorTierSimilarities": [
+            24.81,
+            34.77,
+            40.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the first danger awaiting them: not of being drawn away from Christ, but of imagining that these persons were Himself.",
+            "I believe the prophecy and warning to have a further reference to the latter times, in which its complete fulfilment must be looked for.",
+            "The persons usually cited as fulfilling this are all too early or too late, and not correspondent to the condition 'with My name as the ground of their pretences.'"
+        ],
+        "Albert Barnes": [
+            "They will so nearly resemble prophets in their miraculous power as to render it difficult to detect the imposture.",
+            "If it were possible, they shall deceive the very elect - So nearly would their pretended miracles resemble true miracles as to render it difficult to detect the imposture.",
+            "Christians may be sometimes led far astray; they may be in doubt about some great doctrines of religion; they may be perplexed by the cavils and cunning craftiness of those who do not love the truth, but they cannot be entirely deceived and seduced from the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Signs and wonders [\u03c3\u03b7\u03bc\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c1\u03b1\u03c4\u03b1]...The two words often joined in the New Testament...The same miracle may be a mighty work, or a glorious work, regarded with reference to its power and grandeur; or a sign of the doer's supernatural power; or a wonder, as it appeals to the spectator.\" ",
+            "Terav (derivation uncertain) is a miracle regarded as a portent or prodigy, awakening amazement.",
+            "It most nearly corresponds, therefore, to the etymological sense of the word miracle (Lat., miraculum, a wonderful thing, from mirari, to wonder)."
+        ],
+        "John Calvin": [
+            "Christ therefore exhorts and arouses his disciples to keep watch, and at the same time reminds them that there is no reason for being troubled at the strangeness of the sight, if they see many persons on every hand led away into error.\"  ",
+            "While he excites them to solicitude, that Satan may not overtake them in a state of sloth, he gives them abundant ground of confidence on which they may calmly rely, when he promises that they will be safe under the defense and protection of God against all the snares of Satan.",
+            "It must therefore be observed, that the permanency of our salvation does not depend on us, but on the secret election of God; for though our salvation is kept through faith... yet we ought to ascend higher, and assure ourselves that we are in safety, because the Father hath given us to the Son, and the Son himself declares, that none who have been given to him shall perish."
+        ],
+        "Philip Schaff": [
+            "False Christs. While this may refer to the impostors of the first century, it now points to 'Antichrist,' or the many 'antichrists' (1 John 2:18), constantly arising.",
+            "So as (the tendency and purpose) to deceive, if possible, implying that it is not, even the elect. Others will be deceived, led astray from our Lord, the real Messiah and true Prophet.",
+            "It indicates that a period will come when the 'deceivableness of unrighteousness' shall be augmented."
+        ],
+        "Archibald T. Robertson": [
+            "Mere 'signs and wonders' do not of themselves prove the power of God.",
+            "These charlatans will be so skilful that they will, if possible, lead astray the very elect.",
+            "People become excited and are misled and are unable to judge of results."
+        ],
+        "John Gill": [
+            "This deceiver was afterwards, by them, called Barcoziba, the son of a lie.",
+            "Such an interpretation of the phrase must be absurd and impertinent; for who knows not that a persevering Christian cannot be finally and totally deceived?",
+            "This clause, as it expresses the power of deceivers, and the efficacy of Satan, so the influence and certainty of electing grace and the sure and firm perseverance of the saints, to the end, notwithstanding the cunning and craft of men and devils."
+        ],
+        "John Wesley": [
+            "They would deceive, if possible, the very elect \u2014 But it is not possible that God should suffer the body of Christians to be thus deceived."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 24:24, Jesus warns his disciples about the danger of false Christs who will perform signs and wonders to deceive even the elect. These impostors will be so skilled that they may lead astray those who claim to follow Jesus but are actually drawn to them instead. However, true believers cannot be entirely deceived and seduced from the Savior, as their salvation is secured by the secret election of God. While Christians may sometimes be led astray or confused by false doctrines, God will protect them from being completely deceived by the power of His grace. As Jesus exhorts his disciples to remain watchful, he provides them with confidence that they will be safe under God's defense and protection against the snares of Satan.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 2.060939314117319,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                23.07,
+                35.48,
+                41.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of warnings about false Christs and their deceptive signs and wonders, Jesus assures his disciples and true believers of their safety. While these impostors may resemble prophets, their miracles cannot compare to the power of God. The elect will not be completely deceived, as their salvation rests on God's secret election and the sure and firm perseverance of the saints. As Jesus urges his followers to stay vigilant, he promises that they will be under God's protection against the snares of Satan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9116790270146498,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                24.64,
+                35.85,
+                39.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of false Christs and their signs and wonders, Jesus warns his disciples about the danger of being misled. These charlatans are so skilled that they may even deceive the very elect, if possible. However, true believers cannot be entirely fooled, as their salvation is protected by the secret election of God. While Christians may be led astray or confused, they won't be completely deceived and seduced from the true Savior. Jesus encourages his disciples to remain watchful, relying on God's defense and protection against the snares of Satan.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.005213614388376,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+            "commentatorTierSimilarities": [
+                24.81,
+                34.77,
+                40.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 24:24, Jesus cautions his disciples about the peril of false Christs and their ability to perform signs and wonders. Their aim is to deceive, if possible, even the elect. However, genuine believers cannot be completely misled, as their salvation rests on the secret election of God and the sure and firm perseverance of the saints. Jesus urges his followers to stay alert, confident in God's protection against the cunning and craftiness of those who seek to lead them astray.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.868019925350002,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
+            "commentatorTierSimilarities": [
+                24.87,
+                33.24,
+                41.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of false Christs performing signs and wonders, Jesus warns his disciples about the danger of being deceived and led astray. These impostors aim to deceive even the elect, but true believers cannot be entirely fooled. Their salvation is secure through the secret election of God and the sure perseverance of the saints. Jesus encourages his followers to stay vigilant, relying on God's protection against the snares of Satan and the cunning of those who would lead them astray.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.966802139169817,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                24.75,
+                34.78,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

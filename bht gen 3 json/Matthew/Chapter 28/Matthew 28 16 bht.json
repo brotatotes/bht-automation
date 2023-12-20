@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:55:01",
+    "verseRef": "Matthew 28:16",
+    "bestBHT": {
+        "bht": "After His resurrection, Jesus fulfilled His promise by appearing before His disciples in Galilee. The exact mountain on which they gathered remains uncertain, with the Mount of the Beatitudes or Mount Tabor being the most likely candidates. This gathering was of immense importance, as over five hundred brethren assembled, anticipating the manifestation of their risen Lord. This event marked the commissioning of the disciples to spread the message of eternal life to all nations, a vital responsibility entrusted to them by Jesus.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.719861108955802,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+        "commentatorTierSimilarities": [
+            43.23,
+            26.53,
+            30.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            " After I am risen, I will go before you into Galilee\" (Matthew 26:32; Mark 14:28). What it was can only be conjectured; but of the two between which opinions are divided\u2014the Mount of the Beatitudes or Mount Tabor\u2014the former is much the more probable...",
+            "That the interview here recorded was the same as that referred to in one place only\u2014 1 Corinthians 15:6 \u2014when 'He was seen of above five hundred brethren at once of whom the greater part remained unto that day, though some were fallen asleep,' is now the opinion of the ablest students of the evangelical history.",
+            "Nothing can account for such a number as five hundred assembling at one spot but the expectation of some promised manifestation of their risen Lord: and the promise before His resurrection, twice repeated after it, best explains this immense gathering."
+        ],
+        "Albert Barnes": [
+            "Judas was dead, leaving but eleven of the original number of the apostles.",
+            "On what particular mountain this was is not known.",
+            "Matthew has omitted many appearances which Jesus made to his disciples which have been recorded by Luke, John, and Paul."
+        ],
+        "John Calvin": [
+            "It was not the intention of the Evangelists to embrace every part of the history; because the Holy Spirit, who guided their pen, has thought fit to compose such a summary as we see out of their united testimonies.",
+            "Matthew has therefore selected what was of the greatest importance to us, namely, that when Christ appeared to the disciples, he likewise commissioned them to be apostles, to convey into every part of the world the message of eternal life.",
+            "Though the mountain is not mentioned any where else, yet we conclude that this spot in Galilee was known to Mary."
+        ],
+        "Philip Schaff": [
+            "We infer that all the disciples who could be brought together were assembled on this occasion.",
+            "It was probably the eighth appearance, preceded by that at the Sea of Galilee.",
+            "There was a good reason for the withdrawal into the district of Galilee, remote from Jerusalem."
+        ],
+        "John Gill": [
+            "Went away into Galilee: not directly... but some time after this they went together into Galilee, according to Christ's direction both before and after his resurrection.\" ",
+            "This is generally thought to be Mount Tabor; but of this there is no proof, nor certainty.",
+            "A mountain was appointed for this meeting, both for solitariness and for sight; for here it was he was seen by above five hundred brethren at once."
+        ],
+        "John Wesley": [
+            "To the mountain where Jesus had appointed them.",
+            "This was probably Mount Tabor, where, (it is commonly supposed,) he had been before transfigured.",
+            "It seems to have been here also, that he appeared to above five hundred brethren at once."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus's resurrection, He appeared to His disciples in Galilee, as He had promised. The exact location of this meeting is uncertain, but it is most likely the Mount of the Beatitudes. This gathering was significant, with over five hundred brethren coming together in anticipation of their risen Lord's promised manifestation. Although Matthew's account does not include all of Jesus's appearances to His disciples, it highlights the important moment when He commissioned them to be apostles, entrusting them with spreading the message of eternal life to the world. This meeting in Galilee held great significance, gathering the disciples and marking a pivotal moment in their ministry.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.7943015857542801,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                39.89,
+                29.68,
+                30.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus's resurrection, He fulfilled His promise to go before His disciples into Galilee. The exact location of this meeting is uncertain, with debates between the Mount of the Beatitudes and Mount Tabor. What is certain is that this gathering involved a large number of over five hundred brethren, who eagerly anticipated a manifestation of their risen Lord. This meeting was of utmost importance, as it marked the moment when Jesus commissioned His disciples to spread the message of eternal life throughout the world, a crucial step in their ministry.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.6931514997442165,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+            "commentatorTierSimilarities": [
+                42.49,
+                26.44,
+                31.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After His resurrection, Jesus appeared to His disciples in Galilee as He had promised. The specific mountain where this meeting took place is uncertain, with theories pointing to both the Mount of the Beatitudes and Mount Tabor. It was a significant gathering, with a large number of over five hundred brethren coming together in anticipation of experiencing the promised manifestation of their risen Lord. This momentous event marked the commissioning of the disciples to spread the message of eternal life throughout the world, a vital task entrusted to them by Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6915545645116978,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                41.38,
+                27.7,
+                30.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After His resurrection, Jesus fulfilled His promise by appearing before His disciples in Galilee. The exact mountain on which they gathered remains uncertain, with the Mount of the Beatitudes or Mount Tabor being the most likely candidates. This gathering was of immense importance, as over five hundred brethren assembled, anticipating the manifestation of their risen Lord. This event marked the commissioning of the disciples to spread the message of eternal life to all nations, a vital responsibility entrusted to them by Jesus.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.719861108955802,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                43.23,
+                26.53,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After His resurrection, Jesus kept His promise and appeared to His disciples in Galilee, although the exact mountain where they gathered remains uncertain. Over five hundred brethren came together, expecting to witness the manifestation of their risen Lord. This significant gathering marked the commissioning of the disciples, with the responsibility of spreading the message of eternal life bestowed upon them. This pivotal moment in their ministry set the stage for their mission to share the good news with the world.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.4880795040085197,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                42.28,
+                28.26,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

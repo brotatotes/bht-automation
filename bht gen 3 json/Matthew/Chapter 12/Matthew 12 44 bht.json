@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:47:17",
+    "verseRef": "Matthew 12:44",
+    "bestBHT": {
+        "bht": "The demon ironically claims to have left willingly, likening himself to a man leaving his house for a walk. The proverb worse than the first describes the person's state as an empty house swept and garnished, inviting the unclean spirit. Satan delights in the emptiness that comes from neglecting divine grace and rejecting Christ, finding pleasure in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. The house is outwardly reformed but filled with secret lusts and corruptions, welcoming the unclean spirit. The demon's pride is evident in his voluntary departure.",
+        "wordCount": 98,
+        "quoteTokenProportion": 27.03,
+        "qualityScore": 1.538252748408265,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+        "commentatorTierSimilarities": [
+            36.21,
+            28.66,
+            35.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "The metaphor of a house swept and embellished is taken from men who find pleasure in the cleanness and neatness of their apartments; for to Satan no sight is beautiful but deformity itself, and no smell is sweet but filth and nastiness.",
+            "The meaning therefore is, that Satan never finds a more appropriate habitation within us, than when, having parted with Christ, we receive Satan as a guest. His highest delight is in that emptiness by which the neglect of divine grace is followed.",
+            "That which he loves most, and in which he takes a supreme pleasure, is the emptiness which is produced, when man sets no value on the grace of God, and is indifferent about making a good use of it."
+        ],
+        "Philip Schaff": [
+            "My house, i.e. , the demoniac.",
+            "Not in a state of moral purity, but empty of a good tenant; swept of all that would be forbidding to an evil spirit; and garnished, set in order, and adorned, but in a way inviting to the unclean spirit."
+        ],
+        "Archibald T. Robertson": [
+            "The demon is ironically represented as implying that he left his victim voluntarily, as a man leaves his house to go for a walk.",
+            "Worse than the first\" is a proverb."
+        ],
+        "John Gill": [
+            "Not empty of sin...but empty of God, of the true knowledge of him, of the fear of him, and love to him; of Christ, of faith in him, affection for him, and hope on him; of the Spirit of God, and of his graces, and of spiritual, internal religion, and powerful godliness.",
+            "Swept...with the besom of an outward reformation.",
+            "Garnished...with secret lusts and corruptions, which rendered it an agreeable habitation for this unclean spirit."
+        ],
+        "John Wesley": [
+            "He findeth it empty - of God, of Christ, of his Spirit: Swept - from love, lowliness, meekness, and all the fruits of the Spirit.\" ",
+            "With levity and security: so that there is nothing to keep him out, and much to invite him in.",
+            "He speaks as if he had come out of his own accord: See his pride!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demon in this verse ironically suggests that he left his victim voluntarily, as a man leaves his house to go for a walk. The phrase worse than the first is a proverb, implying that the demon is describing the person's state as the house being swept and garnished, empty of a good tenant but inviting to the unclean spirit. The demon finds delight in the emptiness produced when man neglects divine grace and parts with Christ, for Satan's highest pleasure lies in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. The house is swept with outward reformation, yet garnished with secret lusts and corruptions, making it a suitable dwelling for the unclean spirit. The demon's pride is evident in his claim of leaving voluntarily.",
+            "wordCount": 134,
+            "quoteTokenProportion": 27.06,
+            "qualityScore": 1.70355891451078,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+            "commentatorTierSimilarities": [
+                39.89,
+                28.01,
+                32.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The demon ironically claims to have left willingly, likening himself to a man leaving his house for a walk. The proverb worse than the first describes the person's state as an empty house swept and garnished, inviting the unclean spirit. Satan delights in the emptiness that comes from neglecting divine grace and rejecting Christ, finding pleasure in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. The house is outwardly reformed but filled with secret lusts and corruptions, welcoming the unclean spirit. The demon's pride is evident in his voluntary departure.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 1.538252748408265,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                36.21,
+                28.66,
+                35.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demon, in a twisted sense of irony, suggests that he left the person voluntarily, like a man leaving his house for a walk. The proverb worse than the first is used to describe the person as an empty, swept and garnished house, enticing the unclean spirit. Satan delights in the emptiness that results from neglecting divine grace and abandoning Christ, finding pleasure in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. The house appears outwardly reformed but hides secret lusts and corruptions, creating a welcoming space for the unclean spirit. The demon's statement reveals their pride in appearing to leave voluntarily.",
+            "wordCount": 109,
+            "quoteTokenProportion": 25.32,
+            "qualityScore": 1.5250973740104328,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                38.71,
+                26.65,
+                34.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demon ironically claims to have left voluntarily, likening himself to a man leaving his house for a walk. The proverb worse than the first characterizes the person as an empty house that has been swept and garnished, appealing to the unclean spirit. Satan finds pleasure in the emptiness caused by neglecting divine grace and abandoning Christ, taking delight in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. While the house may seem reformed outwardly, it harbors hidden lusts and corruptions, creating a desirable dwelling place for the unclean spirit. The demon's statement reveals a sense of pride in his apparent voluntary departure.",
+            "wordCount": 110,
+            "quoteTokenProportion": 27.71,
+            "qualityScore": 1.5415509437953023,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.6,
+            "commentatorTierSimilarities": [
+                37.35,
+                27.71,
+                34.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The demon exhibits irony by claiming to have left voluntarily, comparing himself to a man leaving his house for a walk. The proverbial phrase worse than the first emphasizes that the person is an empty space, swept and garnished, attracting the unclean spirit. Satan delights in the emptiness resulting from neglecting divine grace and forsaking Christ, finding pleasure in the absence of God, true knowledge, fear, love, faith, affection, hope, and spiritual godliness. The house may appear outwardly reformed but conceals secret lusts and corruptions, making it an alluring abode for the unclean spirit. The demon's statement betrays his arrogance in the supposed voluntary departure.",
+            "wordCount": 106,
+            "quoteTokenProportion": 25.61,
+            "qualityScore": 1.4572951287050595,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.8,
+            "commentatorTierSimilarities": [
+                35.87,
+                27.57,
+                36.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

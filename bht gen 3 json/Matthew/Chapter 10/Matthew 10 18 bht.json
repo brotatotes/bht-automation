@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:46:02",
+    "verseRef": "Matthew 10:18",
+    "bestBHT": {
+        "bht": "The apostles were appointed to bear testimony, both for and against, as the word of God possesses a double power. They would testify to the truth and its glorious effects, even before governors and kings, reaching beyond the lost sheep of Israel. Fulfilling this prophecy shows Christ's knowledge of the future, as it seemed unlikely for Galilean fishermen to stand before powerful monarchs. Their testimony would extend to Jews and Gentiles, who would receive or reject the truth preached to them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.8313303581373712,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+        "commentatorTierSimilarities": [
+            32.31,
+            32.77,
+            34.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The concluding words shew that the scope of both, in the divine purposes, as regarded the Apostles, was the same, viz. for a testimony.",
+            "The 'testimony' is in both senses\u2014a testimony to, and against them.",
+            "It was a testimony in the best sense to Sergius Paulus, Acts xiii. 7, but against Felix, Acts xxiv. 25; and this double power ever belongs to the word of God as preached\u2014it is a 'two-edged sword' Rev. i. 16; ii. 12)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And ye shall be brought before governors and kings, for my sake, to bear testimony to the truth and its glorious effects.\" ",
+            "Their message would not long be confined to the lost sheep of the house of Israel.\" ",
+            "The Acts of the Apostles are the best commentary on these warnings."
+        ],
+        "Albert Barnes": [
+            "They were to be 'witnesses to them' of the great facts and doctrines of the Christian religion; and if they rejected Christianity, they would be witnesses 'against' them in the day of judgment.",
+            "The fulfillment of this prophecy is a signal evidence that Christ possessed a knowledge of the future.",
+            "Few things were more improbable when this was uttered than that the fishermen of Galilee would stand before the illustrious and mighty monarchs of the East and the West."
+        ],
+        "Philip Schaff": [
+            "Besides trials before Jewish spiritual tribunals, they should be brought before governors and kings, before the civil tribunals as common criminals.",
+            "The civil power has often aided ecclesiastical persecutors.",
+            "This testimony was, of the truth, and made to the Jews (\u2018them\u2019) and the Gentiles, yet it was also \u2018against\u2019 both, in so far as they rejected the truth."
+        ],
+        "John Gill": [
+            "And ye shall be brought before governors... for a testimony against them, and the Gentiles.",
+            "Purely for the sake of Christ, for the profession of their faith in him, and for preaching his Gospel.",
+            "They should have no pretext or excuse; since the Gospel had been faithfully and clearly preached to them, and they had despised it, and evil treated the ministers of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scope of Matthew 10:18 is to testify, both for and against, as the word of God holds a double power as a two-edged sword. The apostles would be brought before governors and kings, not limited to the lost sheep of the house of Israel, to bear witness to the truth and its glorious effects. They would be witnesses of the Christian religion, and if rejected, against those who rejected it. The fulfillment of this prophecy exemplifies Christ's knowledge of the future, as it seemed improbable for the fishermen of Galilee to stand before illustrious monarchs. Their testimony would extend to Jews and Gentiles, both receiving and rejecting the truth.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.7462726091903908,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                31.18,
+                35.29,
+                33.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles were appointed to bear testimony, both for and against, as the word of God possesses a double power. They would testify to the truth and its glorious effects, even before governors and kings, reaching beyond the lost sheep of Israel. Fulfilling this prophecy shows Christ's knowledge of the future, as it seemed unlikely for Galilean fishermen to stand before powerful monarchs. Their testimony would extend to Jews and Gentiles, who would receive or reject the truth preached to them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8313303581373712,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                32.31,
+                32.77,
+                34.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles were appointed to bear testimony, both for and against, as the word of God possesses a double power. They would testify to the truth and its glorious effects, even before governors and kings, reaching beyond the lost sheep of Israel. Fulfilling this prophecy shows Christ's knowledge of the future, as it seemed unlikely for Galilean fishermen to stand before powerful monarchs. Their testimony would extend to Jews and Gentiles, receiving or rejecting the truth preached to them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.82325385074617,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                32.28,
+                33.1,
+                34.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The primary purpose of Matthew 10:18 is to testify, serving as a witness for and against the listeners. The word of God holds a double power, functioning as a two-edged sword. The apostles would be brought before governors and kings, going beyond the lost sheep of Israel, to testify to the truth and its transformative impact. This prophetic fulfillment demonstrates Christ's remarkable foreknowledge since it appeared improbable for Galilean fishermen to stand before influential monarchs. Their testimony would encompass both Jews and Gentiles, impacting those who accepted or rejected the truth presented to them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6595417649831992,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                33.93,
+                33.3,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of the apostles' mission is to serve as witnesses, testifying for and against their listeners. The word of God carries a double power, akin to a two-edged sword. The apostles will appear before governors and kings, spreading the truth and its transformative effects beyond the lost sheep of Israel. Fulfilling this prophecy showcases Christ's prescient knowledge, as it initially seemed improbable for Galilean fishermen to stand before mighty monarchs. Their testimony encompasses both Jews and Gentiles, impacting those who receive or reject the truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.6522451055649092,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.28,
+            "commentatorTierSimilarities": [
+                34.04,
+                32.64,
+                33.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

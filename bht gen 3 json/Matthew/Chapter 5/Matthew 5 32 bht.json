@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:43:58",
+    "verseRef": "Matthew 5:32",
+    "bestBHT": {
+        "bht": "Marriage is considered to be an unbreakable bond, except in cases of sin and sexual misconduct. Divorce, while permitted in certain circumstances, does not grant the right to enter into a new marriage without committing adultery. It is crucial to uphold the sanctity of marriage and understand the original intention of divorce as a means to protect the innocent party. By preserving the high ideal of marriage, we can ensure the welfare of society and uphold the teachings of Christ.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.25364650911282,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.27,
+        "commentatorTierSimilarities": [
+            28.11,
+            36.74,
+            35.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "fornication must be taken to mean sin, not only before marriage, but after it also, in a wider sense, as including adultery likewise.",
+            "if by such divorce the marriage be altogether dissolved, how can the woman be said to commit adultery by a second marriage?",
+            "the tenor of our Lord\u2019s teaching in other places seems to set before us the state of marriage as absolutely indissoluble as such, however he may sanction the expulsion a mens\u00e2 et thoro of an unfaithful wife."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery\u2014that is, drives her into it in case she marries again.\" ",
+            "And whosoever shall marry her that is divorced\u2014for anything short of conjugal infidelity\u2014committeth adultery.",
+            "Whether the innocent party, after a just divorce, may lawfully marry again, is not treated of here. The Church of Rome says, No; but the Greek and Protestant Churches allow it."
+        ],
+        "John Calvin": [
+            "The man who, unjustly and unlawfully, abandons the wife whom God had given him, is justly condemned for having prostituted his wife to others.",
+            "As the bill of divorcement bore, that the woman had been loosed from her former husband, and might enter into a new marriage.",
+            "The man who, unjustly and unlawfully, abandons the wife whom God had given him, is justly condemned for having prostituted his wife to others."
+        ],
+        "Philip Schaff": [
+            "Maketh her to commit adultery, not by the fact of her being divorced, but in view of the extremely probable case of another marriage.",
+            "This high ideal of the marriage union is the basis of social morality. To oppose it is not only unchristian, but to demoralize the family, and to make war against the welfare of humanity.",
+            "The application to the case of a man is not only required by the spirit of Christ\u2019s teaching in general, but by the fact that He is here speaking of and condemning the sin of the man."
+        ],
+        "Archibald T. Robertson": [
+            "An unusual phrase that perhaps means 'except for a matter of unchastity.'\" ",
+            "The early Christians made the exception to meet a pressing need.",
+            "It looks like criticism to meet modern needs."
+        ],
+        "John Gill": [
+            "Christ does not infringe, or revoke the original grant, or permission of divorce; only frees it from the false interpretations, and ill use, the Pharisees made of it.",
+            "For a divorce was allowable in no case, saving for the cause of fornication; which must not be taken strictly for what is called fornication, but as including adultery, incest, or any unlawful copulation.",
+            "Should she marry another man, whilst he is alive, which her divorce allows her to do, she must be guilty of adultery; since she is his proper wife, the bond of marriage not being dissolved by such a divorce."
+        ],
+        "John Wesley": [
+            "Causeth her to commit adultery \u2014 If she marry again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Marriage is a sacred and indissoluble union, only to be broken due to sin and sexual immorality. Divorce does not give one the right to remarry, as doing so would lead to adultery. However, if the divorce is justified by fornication or other forms of sexual misconduct, the innocent party may be allowed to marry again. The initial intent of divorce was to protect the innocent party from being bound to an unfaithful spouse. It is important to uphold the high ideal of marriage, for it forms the foundation of society's morality and the well-being of humanity. Let us not misuse the concept of divorce but approach it with the utmost care and understanding of its intended purpose.",
+            "wordCount": 120,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.2154453882099143,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.0,
+            "commentatorTierSimilarities": [
+                29.26,
+                34.53,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Marriage is considered to be an unbreakable bond, except in cases of sin and sexual misconduct. Divorce, while permitted in certain circumstances, does not grant the right to enter into a new marriage without committing adultery. It is crucial to uphold the sanctity of marriage and understand the original intention of divorce as a means to protect the innocent party. By preserving the high ideal of marriage, we can ensure the welfare of society and uphold the teachings of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.25364650911282,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.27,
+            "commentatorTierSimilarities": [
+                28.11,
+                36.74,
+                35.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Marriage is absolutely indissoluble and divorce is only permitted in cases of fornication or adultery. However, divorcing a spouse and remarrying would lead to the woman committing adultery. The intention behind divorce was to protect the innocent party from being bound to an unfaithful spouse. It is crucial to preserve the sanctity of marriage, as it forms the basis of social morality and the welfare of humanity. Let us approach divorce with caution and understand its proper purpose, mindful of the potential consequences it may have on individuals involved.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1809419120201192,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "commentatorTierSimilarities": [
+                28.29,
+                33.74,
+                37.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The concept of marriage is seen as unbreakable and divorce is only allowed in cases of fornication or adultery. Remarrying after divorce would result in committing adultery. The purpose of divorce was to protect the innocent party from an unfaithful spouse. Marriage holds a significant role in society's moral fabric and human welfare. It is imperative to approach divorce with careful consideration of its intended purpose and the potential consequences it may have on individuals involved.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.127244414062904,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                29.42,
+                32.6,
+                37.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Marriage is indissoluble as such, but divorce is permitted for reasons of fornication. However, remarrying after divorce would lead to adultery. The primary aim of divorce was to protect the innocent party from being bound to an unfaithful spouse. Preserving the sanctity of marriage is vital for social morality and the welfare of humanity. Careful discernment is necessary when approaching divorce, recognizing its intended purpose and the potential consequences it may have on those involved.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.208014951982866,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                29.43,
+                33.24,
+                37.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

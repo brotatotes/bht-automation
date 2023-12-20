@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:50:14",
+    "verseRef": "Matthew 19:9",
+    "bestBHT": {
+        "bht": "Jesus introduces a significant shift in understanding when it comes to divorce. He asserts that divorce is only acceptable in the case of fornication, an act that ruptures the marriage covenant. This aligns with his prior teachings in the Sermon on the Mount. By allowing divorce for fornication, Jesus acknowledges the possibility of remarriage for the innocent spouse, while excluding it for the guilty party. In doing so, he surpasses the traditional legalistic approach of Hillel and Shammai, elevating the significance of marriage to a higher standard.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.236337334698269,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+        "commentatorTierSimilarities": [
+            33.23,
+            40.67,
+            26.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Only that fornication, which itself breaks marriage, can be a ground for dissolving it.",
+            "The question, whether demonstrated approaches to fornication, short of the act itself, are to be regarded as having the same power, must be dealt with cautiously.",
+            "This enactment by our Lord is a formal repetition of what He had said before in the Sermon on the Mount, ch. v. 32."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. And I say unto you, Whosoever",
+            "\tshall put away his wife, except, &amp;c.\u2014See on :-."
+        ],
+        "Albert Barnes": [
+            "Emphasis should be laid here on the word 'I.' This was the opinion of Jesus - this he proclaimed to be the law of his kingdom, this the command of God ever afterward.",
+            "Only one offense was to make divorce lawful.",
+            "Legislatures have no right to say that people may put away their wives for any other cause; and where they do, and where there is marriage afterward, by the law of God such marriages are adulterous!"
+        ],
+        "Marvin Vincent": [
+            "Except for fornication [\u03bc\u03b7 \u03b5\u03c0\u03b9 \u03c0\u03bf\u03c1\u03bd\u03b5\u03b9\u03b1] . Lit., not on account of fornication."
+        ],
+        "John Calvin": [
+            "For it is not in the power of a man to dissolve the engagement of marriage, which the Lord wishes to remain inviolate; and so the woman who occupies the bed of a lawful wife is a concubine.",
+            "If it be objected, that they who cannot live unmarried need a remedy, that they may not be burned, I answer, that what is sought in opposition to the word of God is not a remedy.",
+            "...we need not wonder if Paul think it better that she should part with a mortal man than that she should be at variance with God."
+        ],
+        "Philip Schaff": [
+            "Except for fornication. This one ground for divorce, mentioned as a matter of course, makes no exception to the rule laid down in Matthew 19:5-6; this offence is in direct antagonism to the idea of marriage.",
+            "The Church of Rome denies the validity even of this ground. All sins of unchastity are sins against the marriage tie (comp. chap. Matthew 5:27-32), loosening it in spirit, but this act of sin is the only ground for dissolving it in form.",
+            "The elevation of women from a condition of slavery has been the result of Christ's teaching in regard to marriage; yet some women, thus elevated, have advocated divorce 'for any cause.'"
+        ],
+        "Archibald T. Robertson": [
+            "Matthew represents Jesus in both places as allowing divorce for fornication as a general term.",
+            "Jesus by implication... does allow remarriage of the innocent party, but not of the guilty one.",
+            "Certainly Jesus has lifted the whole subject of marriage and divorce to a new level, far beyond the petty contentions of the schools of Hillel and Shammai."
+        ],
+        "John Gill": [
+            "Except it be for fornication; or whoredom, for defiling his bed: for this is not to be understood of fornication committed before, but of uncleanness after marriage, which destroys their being one flesh.",
+            "and shall marry another woman, committeth adultery.",
+            "and whoso marrieth her which is put away, for any other cause than adultery, doth commit adultery also."
+        ],
+        "John Wesley": [
+            "And I say to you \u2014 I revoke that indulgence from this day, so that from henceforth, Whosoever, etc.."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus speaks definitively in Matthew 19:9, stating that divorce is only permissible in cases of fornication. Jesus emphasizes the gravity of this offense, as it directly opposes the sanctity of marriage. He affirms the teaching he previously proclaimed in the Sermon on the Mount, lifting the topic of marriage and divorce to a new level. By allowing divorce for fornication, Jesus acknowledges the possibility of remarriage for the innocent party. However, he does not permit remarriage for the guilty individual. This command of Jesus transcends the legalistic debates of his time, presenting a higher standard for marriage grounded in God's design.",
+            "wordCount": 101,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 2.2940547460003025,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.62,
+            "commentatorTierSimilarities": [
+                33.37,
+                40.88,
+                25.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus establishes a clear stance on divorce in this verse, permitting it solely in cases of fornication, which undermines the marriage covenant. He reiterates his previous teaching on divorce from the Sermon on the Mount. Jesus' approach to marriage and divorce transcends the disputes of his time, surpassing the limited perspectives of Hillel and Shammai. By allowing divorce for fornication, he recognizes the possibility of remarriage for the innocent party, while denying it for the guilty one. This elevates the importance of marriage to a higher level.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.190922480993641,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                32.51,
+                41.78,
+                25.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus establishes a new standard for divorce, permitting it only in cases of fornication, which breaks the marriage bond. This aligns with his earlier teaching in the Sermon on the Mount. Jesus' approach to marriage and divorce goes beyond the limited views of the schools of Hillel and Shammai, raising the topic to a higher level. He allows remarriage for the innocent party, but not for the guilty one. This directive challenges societal norms and emphasizes the sanctity of marriage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0237655739926614,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                34.86,
+                39.14,
+                26.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus introduces a significant shift in understanding when it comes to divorce. He asserts that divorce is only acceptable in the case of fornication, an act that ruptures the marriage covenant. This aligns with his prior teachings in the Sermon on the Mount. By allowing divorce for fornication, Jesus acknowledges the possibility of remarriage for the innocent spouse, while excluding it for the guilty party. In doing so, he surpasses the traditional legalistic approach of Hillel and Shammai, elevating the significance of marriage to a higher standard.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.236337334698269,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+            "commentatorTierSimilarities": [
+                33.23,
+                40.67,
+                26.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus establishes a new standard for divorce, stating that it is only allowed in cases of fornication that break the marriage covenant. This reaffirms his previous teaching in the Sermon on the Mount. Jesus surpasses the disagreements of the schools of Hillel and Shammai by allowing remarriage for the innocent party while denying it for the guilty individual. He elevates the understanding of marriage, emphasizing its sacred nature and the importance of faithfulness within the marital bond.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0934758633942083,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                33.6,
+                38.8,
+                27.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 23:44:12",
+    "verseRef": "Matthew 6:6",
+    "bestBHT": {
+        "bht": "In teaching us about the importance of private prayer, Jesus reminds us that it is not about seeking approval or showing off. He instructs us to find a secluded place where we can truly commune with God. Even if true solitude is difficult to find, we can still have moments of privacy in the midst of a crowd. Ultimately, our Father in heaven sees and hears our prayers, no matter how hidden or secret they may be.",
+        "wordCount": 77,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.8955959658516106,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+        "commentatorTierSimilarities": [
+            21.13,
+            45.17,
+            33.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There may be ostentation even in the secret chamber, as there may be the avoiding of it in the open church.",
+            "Caution us against taking this merely literally.",
+            "Warn us...that there may be ostentation even in the secret chamber."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Enter into thy closet\u2014a place of retirement.",
+            "It is the retiring character of true prayer which is here taught.",
+            "It may be offered in any circumstances, however open, if not prompted by the spirit of ostentation, but dictated by the great ends of prayer itself."
+        ],
+        "Albert Barnes": [
+            "There should be some place where we may be in secret - where we may be alone with God...Unless there is such a place, secret prayer will not be long or strictly maintained.",
+            "The desire to pray, and the love of prayer, will create such places in abundance.",
+            "Prayer, then, is the element of being - the breath, the vital air; and, then the Christian must and should pray."
+        ],
+        "Marvin Vincent": [
+            "Closet [\u03c4\u03b1\u03bc\u03b9\u03b5\u03b9\u03bf\u03bd] . See on Luke 12:3."
+        ],
+        "Philip Schaff": [
+            "Thy' implies that the place is one where the person can secure privacy.",
+            "Private prayer, which is exclusively referred to here, is not to be performed in public places.",
+            "Actual solitude may be impossible, but even in the midst of a crowd we may be alone with God."
+        ],
+        "Archibald T. Robertson": [
+            "Into thy closet (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03c4\u03b1\u03bc\u03b5\u03b9\u03bf\u03bd).",
+            "A separate apartment, one's private chamber, closet, or 'den' where he can withdraw from the world.",
+            "Commune with God."
+        ],
+        "John Gill": [
+            "Our Lord does not mean to exclude and condemn public prayer, but his view is to instruct persons that they should not only pray in public, but in private also...\" (approx. 32 words)",
+            "Pray to thy Father, which is in secret; who is invisible; not to be seen with the eyes of the body, but to be approached with a true heart, in faith and fear...\" (approx. 36 words)",
+            "...thy Father, which seeth in secret, observes and takes notice of the secret breathings, pantings, desires, and requests of thy heart and lips...\" (approx. 29 words)"
+        ],
+        "John Wesley": [
+            "Enter into thy closet \u2014 That is, do it with as much secrecy as thou canst."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 6:6, Jesus teaches us about the importance of private prayer. This does not mean that he is condemning public prayer, but rather he wants to remind us that true prayer is not about showing off or seeking the approval of others. Instead, Jesus encourages us to find a place of solitude where we can truly commune with God. Even though it may be difficult to find complete seclusion, we can still find moments of privacy amidst a crowd. Ultimately, Jesus reminds us that our Father in heaven sees and hears our prayers, no matter how secret or hidden they may be.",
+            "wordCount": 102,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.818979636994339,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.82,
+            "commentatorTierSimilarities": [
+                20.58,
+                46.61,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In teaching us about the importance of private prayer, Jesus reminds us that it is not about seeking approval or showing off. He instructs us to find a secluded place where we can truly commune with God. Even if true solitude is difficult to find, we can still have moments of privacy in the midst of a crowd. Ultimately, our Father in heaven sees and hears our prayers, no matter how hidden or secret they may be.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8955959658516106,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                21.13,
+                45.17,
+                33.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 6:6, Jesus teaches us about the significance of finding a private place for prayer. He warns us against the temptation of seeking attention or showing off our spirituality. Instead, Jesus encourages us to enter into a place of seclusion, a personal chamber, where we can sincerely and genuinely commune with God. Even in the midst of a crowd, we can still experience moments of privacy where we can connect with our Father in heaven who sees and acknowledges the genuine desires of our hearts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8164201721924245,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "commentatorTierSimilarities": [
+                25.63,
+                39.85,
+                34.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to truly connect with God in prayer, Jesus teaches us in Matthew 6:6 that we should find a private place where we can be alone with Him. He cautions against the desire to seek attention or show off our spirituality, emphasizing the importance of a sincere and genuine prayer life. Even if complete solitude is not possible, we can still find moments of privacy in the midst of a crowd to commune with our Father in heaven, who deeply sees and understands our genuine prayers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9297327562547222,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                21.44,
+                46.91,
+                31.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus teaches us the value of private prayer, emphasizing the need to avoid seeking attention or showing off our spirituality. He urges us to find a secluded place where we can sincerely commune with God. Even if complete solitude is not feasible, we can still discover moments of privacy within a crowd, connecting with the Father who faithfully sees and understands the genuine desires of our hearts. It is in these secret moments of prayer that our relationship with God truly flourishes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8666869611148638,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                22.49,
+                44.57,
+                32.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

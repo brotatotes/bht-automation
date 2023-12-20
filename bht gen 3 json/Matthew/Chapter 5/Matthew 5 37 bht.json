@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:43:55",
+    "verseRef": "Matthew 5:37",
+    "bestBHT": {
+        "bht": "Jesus instructs his disciples to communicate with simplicity and truthfulness, using a simple Yes or No to affirm the truth or untruth of anything. Our corrupt nature manifests in the tendency to deviate from the truth and to suspect others of doing the same. However, the love and reign of truth in the hearts of Christ's disciples are evident and trustworthy, even to those who cannot be trusted themselves. The prevalence of oaths is a consequence of sin and the power of Satan, highlighting the need for honesty and fairness in our words.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.8886354521500603,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+        "commentatorTierSimilarities": [
+            47.39,
+            27.26,
+            25.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Let your communication... be, Yea, yea; Nay, nay\u2014Let a simple Yes and No suffice in affirming the truth or the untruth of anything.\" (Matthew 5:37)",
+            "The untruthfulness of our corrupt nature shows itself not only in the tendency to deviate from the strict truth but in the disposition to suspect others of doing the same.\" (Matthew 5:37)",
+            "Just as swearing to the truth of what we say begets the disposition it is designed to remove, so the love and reign of truth in the breasts of Christ's disciples reveals itself so plainly even to those who themselves cannot be trusted.\" (Matthew 5:37)"
+        ],
+        "Albert Barnes": [
+            "When we hear a man swear to a thing, it is pretty good evidence that he knows what he is saying to be false, and we should be on our guard.\" ",
+            "He that will break the third commandment will not hesitate to break the ninth also. And this explains the fact that profane swearers are seldom believed.\" ",
+            "A man that is truly a Christian, and leads a Christian life, does not need oaths and profaneness to make him believed."
+        ],
+        "John Calvin": [
+            "Fairness and honesty in our words are, therefore, demanded by Christ, that there may be no longer any occasion for an oath.",
+            "This repetition means, that we ought to abide by our words, so that all may be convinced of our honesty.",
+            "Christ teaches us, in my opinion, that it originates in the wickedness of men, that they are compelled to swear: for, if honesty prevailed among men, if they were not inconsistent and hypocritical, they would maintain that simplicity which nature dictates."
+        ],
+        "Philip Schaff": [
+            "The true oath consists in the simple asseveration uttered under a sense of the presence of God, before Him, and in Him.",
+            "All strengthening of simple yea and nay is occasioned by the presence of sin, and the power of Satan, in the world.",
+            "There is no more striking proof of the existence of evil, than the prevalence of the foolish, low, useless habit of profanity."
+        ],
+        "John Gill": [
+            "A righteous man's yea, is yea, and his no, is no; his word is sufficient.",
+            "This way of speaking, they looked upon equivalent to an oath; yea, they affirm it was one.",
+            "Whatever exceeds this way of speaking and conversation, in the common affairs of life, is either from the devil, who is the evil one, by way of eminency; or from the evil heart of man, from the pride, malice, envy, &c. that are in it."
+        ],
+        "John Wesley": [
+            "Let your conversation be yea, yea; nay, nay \u2014 That is, in your common discourse, barely affirm or deny."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 5:37, Jesus instructs his disciples to communicate with simplicity and truthfulness, letting a simple Yes or No suffice in affirming the truth or untruth of anything. The presence of untruthfulness reveals our corrupt nature and our tendency to suspect others of the same. However, the love and reign of truth in the hearts of Christ's disciples make their words trustworthy and evident, even to those who cannot be trusted. Jesus teaches us that the use of oaths arises from sin and the power of Satan in the world, and that honesty and fairness in our words would eliminate the need for oaths.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.952179239951041,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                47.73,
+                27.99,
+                24.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our communication, Jesus advises us to let a simple Yes or No affirm the truth or untruth of anything. Our tendency towards untruthfulness and suspicion of others' dishonesty reflects our corrupt nature. However, the reign of truth in the hearts of Christ's disciples reveals itself to others, even those who themselves cannot be trusted. The prevalence of oaths stems from sin and Satan's influence, while honesty and fairness in our words would remove the need for them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7951858687825406,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                48.27,
+                26.5,
+                25.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus instructs his disciples to communicate with simplicity and truthfulness, using a simple Yes or No to affirm the truth or untruth of anything. Our corrupt nature manifests in the tendency to deviate from the truth and to suspect others of doing the same. However, the love and reign of truth in the hearts of Christ's disciples are evident and trustworthy, even to those who cannot be trusted themselves. The prevalence of oaths is a consequence of sin and the power of Satan, highlighting the need for honesty and fairness in our words.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8886354521500603,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                47.39,
+                27.26,
+                25.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus encourages his followers to communicate with simplicity and truthfulness, using a straightforward Yes or No to affirm the truth. Our corrupt nature is evident in our inclination to deviate from the truth and to doubt others' honesty. However, the love and reign of truth in the disciples demonstrate their reliability, even to those who lack trustworthiness. The prevalence of oaths arises from sin and the power of Satan, emphasizing the importance of honesty and fairness in our words.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8078763712134673,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                46.04,
+                27.25,
+                26.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 5:37, Jesus teaches his disciples to let a simple Yes or No suffice in affirming the truth or untruth of anything. This stems from the untruthfulness of our corrupt nature, which not only causes us to deviate from the truth but also leads us to suspect others of doing the same. However, the love and reign of truth in the hearts of Christ's disciples are evident even to those who themselves cannot be trusted. The prevalence of oaths is a clear indication of the existence of evil and the need for truthfulness in our communication.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.9430356816401106,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                51.97,
+                27.07,
+                20.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

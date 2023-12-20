@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:42:35",
+    "verseRef": "Matthew 2:18",
+    "bestBHT": {
+        "bht": "The mothers of Bethlehem wondered why their children had to suffer while the Babe of Bethlehem himself would endure a worse fate, becoming a sacrificial ram for their sake. The wail of Rachel, mourning her children, can be heard throughout history whenever truth-speakers are persecuted. This tragedy foreshadows the salvation to come, showing God's care for his children in danger. Though evil may prevail for a time, God provides a hiding place and preserves his people from destruction.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.6381592196043502,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+        "commentatorTierSimilarities": [
+            44.23,
+            29.06,
+            26.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "O ye mothers of Bethlehem! methinks I hear you asking why your innocent babes should be the ram caught in the thicket, while Isaac escapes. I cannot tell you, but one thing I know, that ye shall, some of you, live to see a day when that Babe of Bethlehem shall be Himself the Ram, caught in another sort of thicket, in order that your babes may escape a worse doom than they now endure.",
+            "And if these babes of yours be now in glory, through the dear might of that blessed Babe, will they not deem it their honor that the tyrant's rage was exhausted upon themselves instead of their infant Lord?",
+            "That Babe of Bethlehem shall be Himself the Ram, caught in another sort of thicket, in order that your babes may escape a worse doom than they now endure."
+        ],
+        "Albert Barnes": [
+            "The language and the image also aptly and beautifully expressed the sorrows of the mothers in Bethlehem when Herod slew their infant children. Under the cruelty of the tyrant almost every family was a family of tears, and well might there be lamentation, and weeping, and great mourning.",
+            "We may remark here that the sacred writers were cautious of speaking of the characters of wicked people. Here was one of the worst men in the world, committing one of the most awful crimes, and yet there is not a single mark of exclamation; there is not a single reference to any other part of his conduct; there is nothing that could lead to the knowledge that his character in other respects was not upright.",
+            "This is the nature of religion. It does not speak evil of others except when necessary, nor then does it take pleasure in it."
+        ],
+        "John Calvin": [
+            "There was no other way of correcting the hardness and stupidity of the living, than by arousing the dead, as it were, from their graves, to bewail those divine chastisements.",
+            "Matthew reminds his readers, that this massacre would not prevent Christ from appearing shortly afterwards as the Redeemer of the whole nation.",
+            "Both were a prelude of the salvation which was shortly to arrive."
+        ],
+        "Philip Schaff": [
+            "The wail of Rachel is renewed in the Church as often as the witnesses to the truth are put to death by carnal and worldly men, who profess to be the representatives of the Church.\" (Lange.)",
+            "The passage refers primarily to the leading of the Israelites captive to Babylon.\" (Commentary on Matthew 2:18)",
+            "Jews, Christians, and Mohammedans alike revere the spot, which is much frequented by 'pilgrims.'\" (Commentary on Matthew 2:18)"
+        ],
+        "John Gill": [
+            ":-"
+        ],
+        "John Wesley": [
+            "The preservation of Jesus from this destruction, may be considered as a figure of God's care over his children in their greatest danger.",
+            "God does not often, as he easily could, cut off their persecutors at a stroke.",
+            "He provides a hiding place for his people, and by methods not less effectual, though less pompous, preserves them from being swept away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mothers of Bethlehem mourned for the loss of their innocent infants, questioning why their children had to suffer such a fate. Yet, it is said that the day would come when the Babe of Bethlehem himself would endure a fate far worse, becoming the sacrificial ram in order to save humanity. The sorrow of Rachel, the ultimate expression of mourning, is repeated throughout history whenever those who speak the truth are persecuted and put to death. This tragedy was a prelude to the salvation that would soon come, a reminder of God's care for his children even in the face of great danger. Though evil may prevail for a time, God provides a hiding place for his people and preserves them from being swept away.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.7357053645305425,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
+            "commentatorTierSimilarities": [
+                44.94,
+                28.75,
+                26.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mothers of Bethlehem wondered why their children had to suffer while the Babe of Bethlehem himself would endure a worse fate, becoming a sacrificial ram for their sake. The wail of Rachel, mourning her children, can be heard throughout history whenever truth-speakers are persecuted. This tragedy foreshadows the salvation to come, showing God's care for his children in danger. Though evil may prevail for a time, God provides a hiding place and preserves his people from destruction.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6381592196043502,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                44.23,
+                29.06,
+                26.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mothers of Bethlehem mourned their innocent babies, questioning why they had to suffer while the Babe of Bethlehem Himself would become a sacrifice, saving them from a worse fate. Their sorrow echoes in the Church whenever truth bearers are persecuted. This tragedy foreshadows the imminent salvation to arrive, demonstrating God's care for His children even in peril. Although evil may prevail temporarily, God protects his people and shields them from annihilation through his providential ways.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.5923321665114694,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                43.75,
+                29.91,
+                26.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mothers of Bethlehem lamented for their innocent infants, questioning why their children endured such suffering while the Babe of Bethlehem, someday, would be the sacrifice that would save them from an even worse fate. Rachel's wailing resonates throughout history as witnesses of the truth are persecuted and put to death. This tragedy serves as a precursor to the impending salvation, highlighting God's care for His children even in times of great danger. Despite temporary victories for evil, God preserves His people and shelters them from destruction.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4956967742980865,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                41.76,
+                31.77,
+                26.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mothers of Bethlehem cried out for their innocent babies, wondering why they had to suffer while the Babe of Bethlehem himself would bear an even greater burden to save them. Rachel's lamentation echoes through history when truth witnesses face persecution and death. This tragedy foreshadows the imminent salvation, showing God's care for his people in times of danger. Though evil may prevail temporarily, God provides a shelter and protects his people from destruction.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.474508147692343,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                40.01,
+                33.58,
+                26.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

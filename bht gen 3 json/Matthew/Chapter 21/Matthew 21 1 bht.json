@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:50:43",
+    "verseRef": "Matthew 21:1",
+    "bestBHT": {
+        "bht": "Jesus came to Bethphage, known as the 'house of unripe young figs', and later reached Bethany. He ascended the Mount of Olives, covered in olive trees, from where he would overlook Jerusalem. This deliberate action by Jesus was a significant moment, serving as a final call to the people of Jerusalem. Riding into the city on a borrowed donkey, with his disciples using their garments as a makeshift saddle, may have seemed meager. Nevertheless, even in this humble state, God honored his Son beyond the splendor of any adorned king.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.5361243832564502,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.42,
+        "commentatorTierSimilarities": [
+            33.3,
+            32.5,
+            34.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The most of the way was a desert, or filled with caves, and rocks, and woods - a suitable place for robbers.\" ",
+            "The Mount of Olives was so called from its producing in abundance the olive.\" ",
+            "The mountain is composed of three peaks or summits."
+        ],
+        "Marvin Vincent": [
+            "Bethphage. House of figs."
+        ],
+        "John Calvin": [
+            "He intended to show, by a solemn performance, what was the nature of his kingdom.",
+            "He enters Jerusalem, riding an ass. A magnificent display, truly! more especially when the ass was borrowed from some person, and when the want of a saddle and of accouterments compelled the disciples to throw their garments on it, which was mark of mean and disgraceful poverty.",
+            "In order, therefore, that the mean aspect of Christ may not hinder us from perceiving in this exhibition, his spiritual kingdom, let us keep before our eyes the heavenly prediction, by which God conferred more honor on his Son under the revolting aspect of a beggar, than if he had been decorated with all the dazzling ornaments of kings."
+        ],
+        "Philip Schaff": [
+            "The mount of Olives...overlooking every part of Jerusalem, which lies west of it, separated from it by the valley of the Kidron.",
+            "The sending of the two disciples proves the deliberate intention of Jesus to give a certain solemnity to this scene.",
+            "It was a last call addressed by Him to the population of Jerusalem. This course...could no longer compromise His work."
+        ],
+        "Archibald T. Robertson": [
+            "Unto Bethphage (\u03b5\u03b9\u03c2 \u0392\u03b5\u03b8\u03c6\u03b1\u03b3\u03b7). An indeclinable Aramaic name here only in O.T. or N.T. It means 'house of unripe young figs.'",
+            "Both Mark and Luke speak of Christ's coming 'unto Bethphage and Bethany' as if Bethphage was reached first.",
+            "Mount of Olives, the Mount of Olive trees, the mountain covered with olive trees."
+        ],
+        "John Gill": [
+            "Bethphage, the house of slaughter.",
+            "The true reading and signification of it is, 'the house of figs'.",
+            "This mount was so called from the abundance of olive trees which grew upon it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus made his way to Bethphage, which means 'house of unripe young figs', an Aramaic name found only here in the Bible. It is said that Jesus arrived at Bethphage before reaching Bethany. He then proceeded to the Mount of Olives, a mountain covered with olive trees, overlooking Jerusalem. This deliberate act by Jesus was a last call to the people of Jerusalem, showcasing the nature of his kingdom. Riding into Jerusalem on a borrowed donkey, with his disciples placing their garments on it due to the lack of a saddle, may have seemed like a display of mean and disgraceful poverty. However, we must remember that God honored his Son even in this seemingly humble state, as He gave him more honor than any adorned king.",
+            "wordCount": 127,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5430667030320193,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.65,
+            "commentatorTierSimilarities": [
+                34.37,
+                30.94,
+                34.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus made his way to Bethphage, the 'house of unripe young figs', before reaching Bethany. From the Mount of Olives, a mountain covered with olive trees, he overlooked Jerusalem. This intentional act served as a final appeal to the people of Jerusalem, revealing the nature of his kingdom. Riding into the city on a borrowed donkey, with his disciples placing their garments on it due to the lack of a saddle, may have appeared as a display of poverty. Yet, in this humbleness, God bestowed greater honor upon his Son than any adorned king could possess.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.4987877401576557,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+            "commentatorTierSimilarities": [
+                32.82,
+                29.96,
+                37.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus traveled to Bethphage, meaning 'house of unripe young figs', before reaching Bethany. The Mount of Olives, covered in abundant olive trees, provided a vantage point overlooking Jerusalem. This intentional act by Jesus was a final call to the people of Jerusalem, demonstrating the nature of his kingdom. Riding into the city on a borrowed donkey, with his disciples using their garments as makeshift saddles, may have seemed impoverished. However, in this humble display, God honored his Son more than any adorned king.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.495600196716878,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                33.59,
+                31.18,
+                35.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus came to Bethphage, known as the 'house of unripe young figs', and later reached Bethany. He ascended the Mount of Olives, covered in olive trees, from where he would overlook Jerusalem. This deliberate action by Jesus was a significant moment, serving as a final call to the people of Jerusalem. Riding into the city on a borrowed donkey, with his disciples using their garments as a makeshift saddle, may have seemed meager. Nevertheless, even in this humble state, God honored his Son beyond the splendor of any adorned king.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.5361243832564502,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.42,
+            "commentatorTierSimilarities": [
+                33.3,
+                32.5,
+                34.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus made his way to Bethphage, the 'house of unripe young figs', before reaching Bethany. From the Mount of Olives, covered in olive trees, he looked out over Jerusalem. This intentional act by Jesus was a final call to the people, revealing the nature of his kingdom. Riding into the city on a borrowed donkey, with his disciples using garments as a makeshift saddle, may have seemed humble. However, God bestowed greater honor upon his Son than any adorned king, even in this seemingly meager state.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.483488761571772,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
+            "commentatorTierSimilarities": [
+                33.18,
+                29.15,
+                37.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

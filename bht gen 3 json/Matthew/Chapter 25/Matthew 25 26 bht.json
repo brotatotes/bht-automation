@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:02",
+    "verseRef": "Matthew 25:26",
+    "bestBHT": {
+        "bht": "If you truly believed that I was such a demanding master, then why didn't you at least invest my money to avoid ruin? Your laziness and refusal to act show your wickedness and slothfulness. You had the opportunity to make use of what I gave you with minimal effort, but you chose to neglect it. This questioning tone in the Lord's response highlights the sarcasm and emphasizes the servant's wickedness and slothfulness. It serves as a reminder that God judges not just for doing wrong, but also for failing to do what is right.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.22,
+        "qualityScore": 1.587873778731608,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+        "commentatorTierSimilarities": [
+            27.96,
+            35.76,
+            36.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Out of thine own mouth will I judge thee.",
+            "If thou hadst really thought me such an hard master, thou oughtest...in order to avoid utter ruin.",
+            "God is not really such a Master."
+        ],
+        "Albert Barnes": [
+            "God will judge people not merely for doing wrong, but for not 'doing' right.\" ",
+            "That servant was 'wicked,' because he had such an opinion of his master.\" ",
+            "Didst thou know that I reap, etc.? Then thou shouldst have given my money to the exchangers, etc."
+        ],
+        "Marvin Vincent": [
+            "With no more trouble than he expended in digging, he might have gone to the exchangers.",
+            "The verse should be read interrogatively, Didst thou indeed know this of me?",
+            "To omit the interrogation is to make the Lord admit that he was a hard master."
+        ],
+        "Philip Schaff": [
+            "Wicked because slothful. Neglect is also wickedness.",
+            "A question. Granting that this were the case; comp. Luke 19:22: \u2018Out of thine own mouth will I condemn thee.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Thou wicked and slothful servant.\" ",
+            "It is sarcasm."
+        ],
+        "John Gill": [
+            "Thou wicked and slothful servant; a very just character of him...",
+            "This man's wickedness lay in his slothfulness, in not doing the good he might...",
+            "Thou knowest that I reap where I sowed not, and gather where I have not strawed..."
+        ],
+        "John Wesley": [
+            "Thou knewest \u2014 That I require impossibilities! This is not an allowing, but a strong denial of the charge."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Did you truly believe that I was such a demanding master? If you truly thought that of me, then you should have at least invested my money to avoid complete ruin. But instead, you were lazy and chose to do nothing. You had the opportunity to go to the exchangers, to make use of what I had given you with little effort. This verse should be read as a question, as an interrogation, to highlight the sarcasm in the Lord's response. This servant was both wicked and slothful because of his low opinion of his master and his neglect of the good he could have done. This shows us that God will judge not just for doing wrong, but also for failing to do right.",
+            "wordCount": 126,
+            "quoteTokenProportion": 52.87,
+            "qualityScore": 1.5570637371308211,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                31.38,
+                36.59,
+                32.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you truly believed that I was such a hard master, then why didn't you at least invest my money to avoid ruin? Your laziness and refusal to act show your wickedness and slothfulness. You had the opportunity to make use of what I gave you with minimal effort, but you chose to neglect it. This verse should be read as an interrogation, a question that exposes the sarcasm in the Lord's response. It reminds us that God will judge not just for doing wrong, but also for failing to do right.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.67,
+            "qualityScore": 1.6123652219759883,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                29.64,
+                34.73,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you truly thought of me as a demanding master, then you should have made an effort to avoid ruin by investing the money I gave you. Your laziness is evident in your failure to take action. Instead of seizing the opportunity and using what you were given, you chose to do nothing. This questioning tone in the Lord's response emphasizes the sarcasm, highlighting the servant's wickedness and slothfulness. It serves as a reminder that God judges not only for doing wrong, but also for neglecting to do what is right.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.5370812343838756,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                28.98,
+                35.28,
+                35.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you truly considered me a hard master, then wouldn't you have taken steps to avoid utter ruin by investing the money? Your negligence and idleness reveal your wickedness and slothfulness. You could have easily engaged with the exchangers with little effort, instead of doing nothing. This verse should be read as an interrogative, exposing the sarcasm in the Lord's response and implying that you knew better. It is a reminder that God will judge not just for wrongdoing, but also for failing to do what is right.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.6114543603684828,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                30.36,
+                32.47,
+                37.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you truly believed that I was such a demanding master, then why didn't you at least invest my money to avoid ruin? Your laziness and refusal to act show your wickedness and slothfulness. You had the opportunity to make use of what I gave you with minimal effort, but you chose to neglect it. This questioning tone in the Lord's response highlights the sarcasm and emphasizes the servant's wickedness and slothfulness. It serves as a reminder that God judges not just for doing wrong, but also for failing to do what is right.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.587873778731608,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "commentatorTierSimilarities": [
+                27.96,
+                35.76,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:45:42",
+    "verseRef": "Matthew 10:7",
+    "bestBHT": {
+        "bht": "As the disciples embarked on their mission, they were entrusted with the task of being itinerant preachers, heralding the good news that the kingdom of heaven is at hand. This message aimed to awaken the people, just as the Baptist's proclamation did, to expect an imminent redemption. Their focus was on the kingdom rather than the King Himself, seeking to educate people about its nature and authenticate its proximity through miraculous works. This proclamation remains essential today, inviting us to seek the King and embrace the heavenly and eternal happiness found within His reign.",
+        "wordCount": 95,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.8850131548058962,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+        "commentatorTierSimilarities": [
+            30.79,
+            34.01,
+            35.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7.] This announcement shews the preparatory nature of this first apostolic mission. Compare, as shewing the difference of their ultimate message to the world, Col. i. 26\u201328."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. And as ye go, preach, saying, The",
+            "\tkingdom of heaven is at hand\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "The kingdom of heaven is at hand - Or, more literally, the \u201creign\u201d of heaven, or of God, draws near. See the notes at Matthew 3:2."
+        ],
+        "John Calvin": [
+            "Preach, saying: This is the preaching, I spoke of, by which Christ intended to arouse the minds of the nation to expect an approaching redemption.",
+            "The kingdom of heaven is at hand: It was to inform the Jews... that under the reign of God their condition would be prosperous.",
+            "The happiness which had been promised to them was not earthly and fading, but heavenly and eternal."
+        ],
+        "Philip Schaff": [
+            "The matter of their preaching was the approach of the kingdom of heaven...Their mission was preparatory; the gospel tells of a kingdom already come.\" ",
+            "As yet they were not instructed to proclaim the King, but were sent rather to announce the kingdom...to teach men its nature, and to prove it at hand by their miracles.",
+            "If men had faith in the words of the Apostles, they would soon come to Jesus to be taught by Him."
+        ],
+        "Archibald T. Robertson": [
+            "As ye go, preach...They were itinerant preachers on a 'preaching tour,' heralds proclaiming good news.\" ",
+            "The summary message is the same as that of the Baptist (Matthew 3:2) that first startled the country, 'the kingdom of heaven has drawn nigh.'",
+            "That same amazing message is needed today. But 'the apprentice apostles' could tell not a little about the King of the Kingdom who was with them."
+        ],
+        "John Gill": [
+            "For these were itinerant preachers, who were not to abide long in any place, but to move about, that the Gospel might be spread all over the land, and the lost sheep in every corner be sought out and found.",
+            "This was to be the subject matter of their ministry, which they were to proclaim aloud in every place.",
+            "For the meaning of the phrase; see Gill 'Mt 3:2'. The Cambridge copy reads, 'repent, for the kingdom', &c."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the disciples embarked on their itinerant preaching tour, they were tasked with proclaiming a profound message: the kingdom of heaven is at hand. This announcement served as a preparatory measure, similar to the Baptist's proclamation, awakening the nation to expect an approaching redemption. The essential focus of their preaching was not merely the King Himself, but rather the kingdom and its imminent arrival. Through their ministry, the apostles aimed to teach people about the nature of this kingdom and substantiate its nearness through miracles. This message of the kingdom's proximity remains as essential today as it was then, encouraging us to seek the King and embrace the heavenly and eternal happiness offered within his reign.",
+            "wordCount": 118,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.9843864879861088,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                29.51,
+                36.17,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Embarking on their itinerant preaching tour, the disciples were appointed to proclaim a vital message: the kingdom of heaven is at hand. This announcement prepared the nation for an impending redemption. Their preaching focused on the kingdom rather than the King Himself, aiming to educate people about its nature and validate its nearness through miraculous works. This proclamation of the kingdom's proximity remains crucial today, as it invites us to seek the King and embrace the heavenly and eternal happiness found within His reign.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8430058630354738,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                30.89,
+                35.5,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the disciples embarked on their itinerant preaching tour, they were called to proclaim a transformative message: the kingdom of heaven is at hand. This announcement served as a preparatory measure, awakening the nation to anticipate an approaching redemption. Their preaching focused on the kingdom itself, aiming to teach people its nature and validate its proximity through miraculous acts. Today, this proclamation remains vital, urging us to seek the King and embrace the heavenly and eternal happiness found within His reign.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8516840133345938,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                30.59,
+                35.11,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the disciples embarked on their mission, they were entrusted with the task of being itinerant preachers, heralding the good news that the kingdom of heaven is at hand. This message aimed to awaken the people, just as the Baptist's proclamation did, to expect an imminent redemption. Their focus was on the kingdom rather than the King Himself, seeking to educate people about its nature and authenticate its proximity through miraculous works. This proclamation remains essential today, inviting us to seek the King and embrace the heavenly and eternal happiness found within His reign.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.8850131548058962,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                30.79,
+                34.01,
+                35.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the disciples embarked on their mission, they were called to be itinerant preachers, proclaiming the transformative message that the kingdom of heaven is at hand. This proclamation aimed to awaken the people's anticipation of an imminent redemption. Their focus was on the kingdom itself, rather than the King, as they sought to teach people about its nature and validate its proximity through extraordinary acts. Today, this proclamation remains crucial, urging us to seek the King and embrace the everlasting joy found within His reign.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.7903545987919733,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                30.75,
+                34.77,
+                34.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

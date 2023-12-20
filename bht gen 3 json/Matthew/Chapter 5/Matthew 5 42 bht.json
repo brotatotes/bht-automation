@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:44:15",
+    "verseRef": "Matthew 5:42",
+    "bestBHT": {
+        "bht": "When we pray to God, He answers us in a way that is ultimately better than what we ask for. While it may not always be exactly what we desire, it is always what is good for us. We are called to practice a higher form of charity, one that flows from inner springs of love, guiding us to make timely concessions and refusals. In the case of lending to others, it is important to understand that the original sense of borrowing here refers to simple lending, not lending with interest. We should not be indiscriminate in our giving, but carefully consider the welfare of the one asking. In our modern world, it can be easy for the milk of human kindness to dry up in the midst of organized charities. Therefore, let us embrace the spirit, rather than the letter, of these teachings, seeking to be generous and kind to all who are genuinely in need.",
+        "wordCount": 157,
+        "quoteTokenProportion": 39.18,
+        "qualityScore": 1.8354630248261756,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+        "commentatorTierSimilarities": [
+            34.64,
+            28.43,
+            36.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our gracious Saviour, knowing what is good for us, so answers our prayers, that we never are sent empty away; not always, indeed, receiving what we ask,\u2014but that which, in the very disappointment, we are constrained thankfully to confess is better than our wish.",
+            "To give every thing to every one\u2014the sword to the madman, the alms to the impostor, the criminal request to the temptress\u2014would be to act as the enemy of others and ourselves.",
+            "Ours should be a higher and deeper charity, flowing from those inner springs of love, which are the sources of outward actions sometimes widely divergent; whence may arise both the timely concession, and the timely refusal."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though the word signifies classically 'to have money lent to one on security,' or 'with interest,' yet as this was not the original sense of the word, and as usury was forbidden among the Jews, it is doubtless simple borrowing which our Lord here means, as indeed the whole strain of the exhortation implies."
+        ],
+        "Albert Barnes": [
+            "It is better to give sometimes to an undeserving person than to turn away one who is really in need.",
+            "To give to such is to encourage laziness, and to support the idle at the expense of the industrious.",
+            "If a widow, an orphan, a man of misfortune, or an infirmed man, lame, or sick, is at your door, never send any of them away empty."
+        ],
+        "Marvin Vincent": [
+            "Borrow [\u03b4\u03b1\u03bd\u03b9\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9] . Properly, to borrow at interest."
+        ],
+        "John Calvin": [
+            "Christ exhorts his disciples to be liberal and generous.",
+            "The way of doing it is, not to think that they have discharged their duty when they have aided a few persons, but to study to be kind to all, and not to be weary of giving, so long as they have the means.",
+            "To have an open hand to petitioners is to be generously disposed to all who need our assistance, and who cannot return the favor."
+        ],
+        "Philip Schaff": [
+            "Refusal may often be the best gift.",
+            "Our gifts and loans are to be measured by the welfare, not by the desert of the asker.",
+            "To be made in the spirit of our Heavenly Father."
+        ],
+        "Archibald T. Robertson": [
+            "This is one of the clearest instances of the necessity of accepting the spirit and not the letter of the Lord's commands.",
+            "Not only does indiscriminate almsgiving do little but injury to society, but the words must embrace far more than almsgiving.",
+            "In the organized charities of modern life, we are in danger of letting the milk of human kindness dry up."
+        ],
+        "John Gill": [
+            "Give it freely, readily, cheerfully, according to your abilities, and as the necessity of the object requires.",
+            "Refuse him not, turn not away from him with a frown, or without speaking to him, or with a denial; look upon him with a pleasant countenance, cheerfully lend him what he wants.",
+            "Lend him freely, 'hoping for nothing again', which must not be understood of not hoping for the money lent, for then it would be giving, and not lending; but of not hoping for any reward for lending it."
+        ],
+        "John Wesley": [
+            "Give to him that asketh thee - Give and lend to any so far, (but no further, for God never contradicts himself) as is consistent with thy engagements to thy creditors, thy family, and the household of faith.\" ",
+            "Give and lend to any so far, (but no further, for God never contradicts himself) as is consistent with thy engagements.\" ",
+            "Give and lend to any so far, (but no further, for God never contradicts himself)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we pray to God, He answers us in a way that is ultimately better than what we ask for. While it may not always be exactly what we desire, it is always what is good for us. We are called to practice a higher form of charity, one that flows from inner springs of love, guiding us to make timely concessions and refusals. In the case of lending to others, it is important to understand that the original sense of borrowing here refers to simple lending, not lending with interest. We should not be indiscriminate in our giving, but carefully consider the welfare of the one asking. In our modern world, it can be easy for the milk of human kindness to dry up in the midst of organized charities. Therefore, let us embrace the spirit, rather than the letter, of these teachings, seeking to be generous and kind to all who are genuinely in need.",
+            "wordCount": 157,
+            "quoteTokenProportion": 39.18,
+            "qualityScore": 1.8354630248261756,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                34.64,
+                28.43,
+                36.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we pray, God answers our requests in a way that is better than we could have imagined. Though our desires may not be fulfilled, we are led to acknowledge that His response is for our ultimate good. We are called to practice a deeper form of charity that stems from love, allowing us to make timely concessions and refusals. The concept of lending in this verse refers to simple borrowing, not with interest. We should consider the welfare of the one asking before giving, rather than engaging in indiscriminate almsgiving. In our modern age, we must avoid allowing the milk of human kindness to dry up amidst organized charities. Thus, let us wholeheartedly embrace the spirit, rather than the letter, of these teachings, seeking to be generous and kind to all who are genuinely in need.",
+            "wordCount": 137,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8307346202763095,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                34.59,
+                27.66,
+                37.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we pray, God answers us in ways that exceed our expectations. Our gracious Savior always provides - not always with what we ask for, but with something better. We are called to exercise a deeper form of charity that stems from love, leading us to make wise judgments about when to concede and when to refuse. In the context of lending, it is important to note that the original meaning of borrowing refers to simple lending, not with interest. Our giving should be thoughtful and considerate, taking into account the welfare of those in need. In our modern society, we must guard against allowing our kindness to diminish amidst organized assistance programs. Therefore, let us embody the spirit, rather than the legalistic interpretation, of these teachings, seeking to be generous and compassionate to all who genuinely require our help.",
+            "wordCount": 139,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.7973206380498428,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                34.46,
+                29.07,
+                36.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we pray, God responds by giving us what is ultimately better than what we ask for. Our charity should flow from a deep well of love, influencing our actions and guiding us to make both concessions and refusals when necessary. The word borrow in this verse refers to lending without interest. In our giving and lending, we should consider the welfare of the person asking. As society has become reliant on organized charities, we must not let our compassion dry up. Let us embrace the true spirit behind these teachings, being generous and kind to those in genuine need.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.8105898617725864,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                32.19,
+                29.64,
+                38.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we pray, God answers by providing what is ultimately better than our requests. It is crucial for our charity to stem from a deep wellspring of love, leading us to make wise decisions about giving and refusing. In the context of lending, it is important to understand that the original meaning of borrowing refers to lending without interest. Our acts of giving should be thoughtful, considering the welfare of the recipient. In a world with organized charities, we must prevent our kindness from diminishing. Therefore, let us embody the true essence of these teachings, generously and compassionately assisting those in genuine need.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7689646523550002,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                32.02,
+                32.94,
+                35.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

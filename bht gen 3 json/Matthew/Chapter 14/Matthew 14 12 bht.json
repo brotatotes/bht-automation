@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:48:04",
+    "verseRef": "Matthew 14:12",
+    "bestBHT": {
+        "bht": "The fate of John the Baptist, known only to Jesus, came as a shock, serving as a prophecy of what awaited Jesus. In response, Jesus withdrew privately to the desert. Those deeply affected by John's fate naturally sought Jesus, while others distanced themselves and formed a new sect. In a final act of love and respect, John's disciples buried him, a testament to their unwavering adherence to his teachings. They continued to follow Jesus, recognizing him as the Messiah and maintaining their faith in him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.4529746995428336,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+        "commentatorTierSimilarities": [
+            49.34,
+            20.09,
+            30.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Took up the corpse and buried him\" is a literal rendering.",
+            "They would naturally go to Him, if properly affected by the interview recorded in chap. 11.",
+            "Others kept aloof and formed a new sect."
+        ],
+        "Archibald T. Robertson": [
+            "It was a shock to the Master who alone knew how great John really was.",
+            "The fate of John was a prophecy of what was before Jesus.",
+            "The news of the fate of John led to the withdrawal of Jesus to the desert privately."
+        ],
+        "John Gill": [
+            "This was the last office of love to their master, and was done in respect and gratitude to him, and to show that they still abode by his doctrine.\" ",
+            "Their coming to Christ, and informing him of all this, show, that they were taught by their master to respect him as the Messiah, and believe in him, and adhere to him.\" ",
+            "It is very likely that they continued with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The news of John the Baptist's fate was a shock to Jesus, as only He knew how truly great John was. This event served as a prophecy of what was to come for Jesus. In response, Jesus chose to withdraw to the desert privately. Those who were properly affected by John's fate naturally sought Jesus, while others distanced themselves and formed a new sect. John's disciples, however, remained loyal to their master, expressing their love by taking up his corpse and burying him. By coming to Jesus and informing Him of these events, they showed their respect for Him as the Messiah and their continued adherence to His teachings.",
+            "wordCount": 112,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.4699434331069665,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
+            "commentatorTierSimilarities": [
+                52.78,
+                17.08,
+                30.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fate of John, a shock to Jesus who understood his greatness, foreshadowed what was to come for Jesus himself. This tragic news led Jesus to retreat to the desert in solitude. Those deeply affected by the encounter with John naturally sought Jesus, while others distanced themselves to form a new group. Remaining loyal to their master, John's disciples lovingly buried his remains, demonstrating their respect and gratitude for him. They continued to walk with Jesus, believing in him as the Messiah and adhering to his teachings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.426068200006641,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                48.53,
+                17.45,
+                34.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fate of John the Baptist, known only to Jesus, came as a shock, serving as a prophecy of what awaited Jesus. In response, Jesus withdrew privately to the desert. Those deeply affected by John's fate naturally sought Jesus, while others distanced themselves and formed a new sect. In a final act of love and respect, John's disciples buried him, a testament to their unwavering adherence to his teachings. They continued to follow Jesus, recognizing him as the Messiah and maintaining their faith in him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4529746995428336,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                49.34,
+                20.09,
+                30.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The news of John's fate was a shock to Jesus, who knew his true greatness. It served as a prophecy of what was to come for Jesus himself. In response, Jesus withdrew privately to the desert. Those deeply affected by the encounter with John, guided by their master's teachings, sought Jesus. Meanwhile, others distanced themselves and formed a new sect. John's disciples, in a final act of respect and gratitude, lovingly buried his remains, demonstrating their continued belief in Jesus as the Messiah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4418944684292634,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                52.86,
+                19.85,
+                27.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The news of John's fate was a shock to Jesus, who understood his true greatness. It served as a prophecy of what was to come for Jesus himself. In response, Jesus withdrew privately to the desert. Those deeply affected by the encounter with John sought Jesus, guided by their master's teachings. Others distanced themselves and formed a new sect. Meanwhile, John's disciples, out of respect and gratitude, lovingly buried his remains. Their actions portrayed their continued devotion to Jesus as the Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.3883796173859726,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                48.61,
+                20.7,
+                30.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

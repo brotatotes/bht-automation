@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:50:52",
+    "verseRef": "Matthew 21:25",
+    "bestBHT": {
+        "bht": "The religious leaders' recognition of John the Baptist's heavenly mission would have led them to acknowledge Jesus' authority. John testified to seeing the Holy Spirit descend on Jesus and declaring that he was sent to bear witness to Him. Jesus challenges them to believe John's words as a testimony to Himself. The leaders find themselves in a dilemma, unable to answer Jesus' question about the authority of John's baptism. Their doubt in John's testimony reveals their disbelief in Jesus as the promised Messiah.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.8662235610531117,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+        "commentatorTierSimilarities": [
+            46.37,
+            16.47,
+            37.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If they had recognized the heavenly mission of John, they must have also acknowledged the authority by which Jesus did these things.\" ",
+            "John expressly declared that he was sent to testify of Him, and bore witness to having seen the Holy Spirit descend and rest upon Him.\" ",
+            "Believe him, 'give credit to his words:\u2019 'for those words were testimonies to Me.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The baptism of John\u2014meaning his whole mission and ministry, of which baptism was the proper character.",
+            "What wisdom there was in this way of meeting their question will best appear by their reply.",
+            "Why did ye not believe the testimony which he bore to Me, as the promised and expected Messiah?"
+        ],
+        "John Calvin": [
+            "He did not therefore shelter arrogant men, who without any commission, but out of their own hardihood, take upon themselves a public office; nor did he countenance, by his example, the art of suppressing the truth.",
+            "For hence we infer, that no doctrine and no sacrament ought to be received among the godly, unless it be evident that it has come from God; and that men are not at liberty to make any invention of this nature.",
+            "So then Christ does not allow those men to go without a reply, but sends them away ashamed and confounded, and, by bringing forward the testimony of John, sufficiently proves that he is furnished with divine power."
+        ],
+        "Philip Schaff": [
+            "Matthew 21:25. The baptism of John. As representing his whole ministry.",
+            "\t",
+            " And they reasoned, consulted, so as to agree upon the answer.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The baptism of John. This represents his relation to Jesus who was baptized by him.",
+            "At once the ecclesiastical leaders find themselves in a dilemma created by their challenge of Christ.",
+            "They reasoned with themselves. Picturesque imperfect tense describing their hopeless quandary."
+        ],
+        "John Gill": [
+            "By what authority did John administer the ordinance of water baptism, which had never been administered before by any?",
+            "Did he receive his authority from heaven, or of men? That is, from God or man?",
+            "They saw plainly, that if they owned the divine authority of John's baptism and ministry, they must allow Jesus to be the true Messiah."
+        ],
+        "John Wesley": [
+            "Why did ye not believe him \u2014 Testifying this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the religious leaders had truly recognized the divine mission of John the Baptist, they would have also acknowledged Jesus' authority. John himself testified to seeing the Holy Spirit descend upon Jesus and proclaimed that he was sent to bear witness to Him. Jesus challenges them to believe John's testimony, for it served as a testimony to Himself. The leaders find themselves in a dilemma, trying to reason their way out, but Jesus brilliantly exposes their disbelief in John's testimony, which points to Him as the promised Messiah. In questioning the authority of John's baptism, they inadvertently question Jesus' authority as well.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8940147816348705,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                45.32,
+                16.01,
+                38.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the religious leaders truly recognized the divine mission of John the Baptist, they would have also acknowledged Jesus' authority. John declared that he was sent to testify of Jesus and saw the Holy Spirit rest upon Him. Jesus challenges them to believe John's testimony, as it testified to Himself. The leaders find themselves in a dilemma, unable to answer Jesus' question. By questioning the authority of John's baptism, they inadvertently question Jesus' authority as the promised Messiah. In disbelief, they reject the truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7042575925871772,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+            "commentatorTierSimilarities": [
+                44.4,
+                15.78,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the religious leaders recognized John the Baptist's heavenly mission, they would have acknowledged Jesus' authority. John bore witness to seeing the Holy Spirit descend on Jesus, testifying to Him as the Messiah. Jesus challenges them to believe John's testimony, which directly pointed to Himself. The leaders find themselves in a dilemma, unable to answer Jesus' question. By questioning the authority of John's baptism, they indirectly question Jesus' authority. Their disbelief in John's testimony reveals their rejection of the truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7637449504096248,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.99,
+            "commentatorTierSimilarities": [
+                45.6,
+                16.85,
+                37.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the religious leaders recognized the heavenly mission of John, they must have acknowledged Jesus' authority. John declared that he was sent to testify of Jesus and saw the Holy Spirit rest upon Him. Jesus challenges them to believe John's testimony as a testimony to Himself. The leaders find themselves in a dilemma, unable to answer Jesus' question. By questioning John's baptism, they indirectly question Jesus' authority as the promised Messiah. Their disbelief in John's testimony reveals their rejection of the truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.772629076084295,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                46.0,
+                15.9,
+                38.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders' recognition of John the Baptist's heavenly mission would have led them to acknowledge Jesus' authority. John testified to seeing the Holy Spirit descend on Jesus and declaring that he was sent to bear witness to Him. Jesus challenges them to believe John's words as a testimony to Himself. The leaders find themselves in a dilemma, unable to answer Jesus' question about the authority of John's baptism. Their doubt in John's testimony reveals their disbelief in Jesus as the promised Messiah.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8662235610531117,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                46.37,
+                16.47,
+                37.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:49:58",
+    "verseRef": "Matthew 19:18",
+    "bestBHT": {
+        "bht": "Jesus exposes the young man's self-righteousness by listing the commandments, specifically focusing on those related to interpersonal relationships. While piety towards God holds a higher rank, the second table of commandments is better suited for scrutiny, as observance of the first table can often be feigned. Though selling all is not explicitly commanded in the law, it serves to correct the young man's false conviction and encourage humility and self-denial. Jesus emphasizes moral precepts rather than ceremonial laws or traditions, illustrating the importance of fulfilling our duties towards others in authentic worship of God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 35.53,
+        "qualityScore": 1.4978208669762982,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+        "commentatorTierSimilarities": [
+            34.02,
+            23.65,
+            42.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord gives this enumeration of the commandments to bring out the self-righteous spirit of the young man.",
+            "He only mentions those of the second table, having in ver. 17, in His declaration respecting 'good,' included those of the first.",
+            "Mark has the addition of 'Defraud not,' representing probably the tenth commandment."
+        ],
+        "John Calvin": [
+            "Piety towards God holds, no doubt, a higher rank; but as the observation of the first table is often feigned by hypocrites, the second table is better adapted for making a scrutiny.",
+            "The law must have been dead to him, when he vainly imagined that he was so righteous; for if he had not flattered himself through hypocrisy, it was an excellent advice to him to learn humility, to contemplate his spots and blemishes in the mirror of the law.",
+            "I confess that we are nowhere commanded in the law to sell all; but as the design of the law is, to bring men to self-denial, and as it expressly condemns covetousness, we see that Christ had no other object in view than to correct the false conviction of the young man."
+        ],
+        "Philip Schaff": [
+            "Which? That is, of what kind.",
+            "Those commandments involving duties toward our fellow men are cited, so as to meet the young man on his own ground."
+        ],
+        "John Gill": [
+            "Christ takes no notice of the ceremonial law, nor of the traditions of the elders, only moral precepts.",
+            "He chose to instance in these, partly to show, that if men are under obligation to regard these, much more such as concern God more immediately.",
+            "If men are deficient in their duty to one another, they are much more so in their worship of God; and consequently, eternal life is never to be got and enjoyed by the performance of these things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus enumerates the commandments to expose the self-righteousness of the young man, focusing on those regarding interactions with others. The choice to emphasize the second table of commandments highlights the importance of meeting others' needs. Even though piety towards God is of higher importance, the observation of the first table can be feigned by hypocrites, making the second table more suitable for scrutiny. Jesus' advice to the young man to sell all is not explicitly commanded in the law, but it serves to correct the young man's false conviction of righteousness and promote self-denial. Jesus does not mention the ceremonial law or traditions, only the moral precepts, suggesting that if men are deficient in their duty towards one another, their worship of God is likely to be even more lacking.",
+            "wordCount": 133,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.5386962943190203,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.5,
+            "commentatorTierSimilarities": [
+                35.32,
+                23.67,
+                41.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reveals the young man's self-righteousness by listing the commandments, specifically those related to interactions with others. This choice shows that while piety towards God is crucial, the observance of the first table can be feigned. Selling all is not explicitly commanded, but it corrects the young man's false conviction and promotes self-denial. Jesus focuses on the moral precepts and not the ceremonial law or traditions, implying that one's duty towards others should be a priority over worshiping God, since deficient behavior towards others reveals deficient worship.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.4822838313863689,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+            "commentatorTierSimilarities": [
+                36.1,
+                22.57,
+                41.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus lists the commandments to expose the young man's self-righteousness, emphasizing those related to interpersonal relationships. While piety towards God is important, it can be feigned, making the second table of commandments more suitable for scrutiny. Although selling all is not explicitly commanded, it challenges the young man's false conviction and promotes self-denial. Jesus focuses on moral precepts rather than ceremonial laws or traditions, indicating that one's duty towards others is essential and should not be neglected in favor of worshiping God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.4609111090122981,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                36.2,
+                22.05,
+                41.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus enumerates the commandments, highlighting those regarding interactions with others to reveal the young man's self-righteousness. While piety towards God is significant, the second table of commandments is better suited for scrutiny as observance of the first can be hypocritical. Though selling all is not specifically commanded, it challenges the young man's false conviction and promotes humility and self-denial. Jesus emphasizes moral precepts, disregarding ceremonial laws and traditions, to emphasize that fulfilling one's duty towards others is crucial for a genuine relationship with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4529329617373072,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                36.4,
+                20.96,
+                42.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus exposes the young man's self-righteousness by listing the commandments, specifically focusing on those related to interpersonal relationships. While piety towards God holds a higher rank, the second table of commandments is better suited for scrutiny, as observance of the first table can often be feigned. Though selling all is not explicitly commanded in the law, it serves to correct the young man's false conviction and encourage humility and self-denial. Jesus emphasizes moral precepts rather than ceremonial laws or traditions, illustrating the importance of fulfilling our duties towards others in authentic worship of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.4978208669762982,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                34.02,
+                23.65,
+                42.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

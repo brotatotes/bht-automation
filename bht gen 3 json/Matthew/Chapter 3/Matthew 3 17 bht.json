@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:43:09",
+    "verseRef": "Matthew 3:17",
+    "bestBHT": {
+        "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency. This voice not only marks the formal entrance of Jesus into His Messianic ministry but also reveals the presence of each person of the Trinity: the Father, the Son, and the Holy Spirit. The love and pleasure of the Father towards the Son are demonstrated, highlighting the glorious manifestation of the Trinity. This announcement serves as a pledge of our adoption and our ability to call God our Father with confidence.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.029091473845603,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+        "commentatorTierSimilarities": [
+            34.32,
+            35.74,
+            29.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The English here, at least to modern ears, is scarcely strong enough. 'I delight' comes the nearest, perhaps, to that ineffable complacency which is manifestly intended...\" ",
+            "This is the rather to be preferred, as it would immediately carry the thoughts back to that august Messianic prophecy to which the voice from heaven plainly alluded...\" ",
+            "Nor are the words which follow to be overlooked, 'I have put My Spirit upon Him; He shall bring forth judgment to the Gentiles.'"
+        ],
+        "Albert Barnes": [
+            "The baptism of Jesus has usually been regarded as a striking manifestation of the doctrine of the Trinity, or the doctrine that there are three Persons in the divine nature.",
+            "In the preaching of John the Baptist we are presented with an example of a faithful minister of God. Neither the wealth, the dignity, nor the power of his auditors deterred him from fearlessly declaring the truth.",
+            "Everything about the work of Jesus was wonderful. No person had before come into the world under such circumstances. His 'name' was to be called 'Wonderful, Councillor, The mighty God, The everlasting Father, The Prince of Peace.'"
+        ],
+        "John Calvin": [
+            "The public appearance of Christ, to undertake the office of Mediator, was accompanied by this announcement, in which he was offered to us by the Father, that we may rely on this pledge of our adoption, and boldly call God himself our Father.",
+            "The love of God rests on Christ in such a manner, as to diffuse itself from him to us all; and not to us only, but even to the angels themselves.",
+            "Even [the angels] become perfectly united to God, only by means of their Head."
+        ],
+        "Archibald T. Robertson": [
+            "A voice out of the heavens... This was the voice of the Father to the Son whom he identifies as His Son, 'my beloved Son.'\" ",
+            "Thus each person of the Trinity is represented (Father, Son, Holy Spirit) at this formal entrance of Jesus upon his Messianic ministry.\" ",
+            "The good pleasure of the Father is expressed by the timeless aorist."
+        ],
+        "John Gill": [
+            "This extraordinary voice from heaven, which was formed in articulate sounds for the sake of John; and, according to the other Evangelists, was directed to Christ... 'this is my beloved Son'.",
+            "Christ always was, and ever will be considered, both in his person as the Son of God, and in his office as mediator, the object of his love and delight.",
+            "The ancients looked upon this as so clear and full a proof of this truth [the doctrine of the Trinity], that they were wont to say; Go to Jordan, and there learn the doctrine of the Trinity."
+        ],
+        "John Wesley": [
+            "We have here a glorious manifestation of the ever - blessed Trinity: the Father speaking from heaven, the Son spoken to, the Holy Ghost descending upon him.",
+            "What an encomium is this! How poor to this are all other kinds of praise!",
+            "To be the pleasure, the delight of God, this is praise indeed: this is true glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency and invoking the Messianic prophecy. This voice not only marks the formal entrance of Jesus into His Messianic ministry but also reveals the presence of each person of the Trinity: the Father, the Son, and the Holy Spirit. The love and pleasure of the Father towards the Son are demonstrated, highlighting the glorious manifestation of the Trinity. This announcement serves as a pledge of our adoption and compels us to confidently call God our Father. It is a remarkable confirmation of Christ's eternal role as the object of God's love and delight, and through Him, this love extends to us and even the angels. This is true praise and glory.",
+            "wordCount": 132,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8275858383792714,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                32.73,
+                33.77,
+                33.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency and invoking the Messianic prophecy. This voice not only marks the formal entrance of Jesus into His Messianic ministry but also reveals the presence of each person of the Trinity: the Father, the Son, and the Holy Spirit. The love and pleasure of the Father towards the Son are demonstrated, highlighting the glorious manifestation of the Trinity. This announcement serves as a pledge of our adoption and compels us to confidently call God our Father.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0269917677358467,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                34.85,
+                34.95,
+                30.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency and invoking the Messianic prophecy. This voice not only marks the formal entrance of Jesus into His Messianic ministry but also reveals the presence of each person of the Trinity: the Father, the Son, and the Holy Spirit. The love and pleasure of the Father towards the Son are demonstrated, highlighting the glorious manifestation of the Trinity. This announcement serves as a pledge of our adoption and compels us to confidently call God our Father.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0269917677358467,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                34.85,
+                34.95,
+                30.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency. This voice not only marks the formal entrance of Jesus into His Messianic ministry but also reveals the presence of each person of the Trinity: the Father, the Son, and the Holy Spirit. The love and pleasure of the Father towards the Son are demonstrated, highlighting the glorious manifestation of the Trinity. This announcement serves as a pledge of our adoption and our ability to call God our Father with confidence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.029091473845603,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                34.32,
+                35.74,
+                29.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At Jesus' baptism, a voice from heaven declares His divine position as the Son of God, expressing an ineffable complacency. This voice not only marks His formal entrance into His Messianic ministry, but also reveals the presence of the Father, Son, and Holy Spirit. The love and pleasure of the Father towards the Son are highlighted, conveying the glorious manifestation of the Trinity. This divine announcement serves as a pledge of our adoption, enabling us to confidently address God as our Father.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.998635956036378,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.8,
+            "commentatorTierSimilarities": [
+                35.79,
+                34.18,
+                30.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

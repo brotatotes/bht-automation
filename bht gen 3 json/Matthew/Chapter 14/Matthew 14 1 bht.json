@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:48:10",
+    "verseRef": "Matthew 14:1",
+    "bestBHT": {
+        "bht": "The ruler of Galilee and Perea, Herod Antipas, heard about the fame and reports of Jesus. As a tetrarch, he governed a fourth part of the kingdom. He had previously been indifferent to Jesus, but now, through the extended labors of the Twelve, he learns about Him. This account emphasizes the widespread celebration of Christ's name, leaving no excuse for the ignorance of the Jews. It also addresses the question of why Judea seemed unaware of Jesus' divine power, as even Herod's court had heard of Him.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.8658207734123895,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+        "commentatorTierSimilarities": [
+            33.52,
+            25.65,
+            40.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The portion of the kingdom allotted to him by the second will of his father was the tetrarchy of Galilee and Per\u00e6a.",
+            "He prevailed on her to leave her husband, and live with him.",
+            "This step, accompanied as it was with a stipulation of putting away the daughter of Aretas, involved him in a war with his father-in-law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Herod Antipas, one of the three sons of Herod the Great, and own brother of Archelaus, who ruled as ethnarch over Galilee and Perea.",
+            "At that time Herod the tetrarch heard of the fame of Jesus.",
+            "For His name was spread abroad."
+        ],
+        "Albert Barnes": [
+            "Herod the tetrarch - See also Mark 6:14-16; Luke 9:7-9. This was a son of Herod the Great.",
+            "The title 'tetrarch' literally denotes one who rules over a 'fourth' part of any country.",
+            "He did not think it a matter worthy of much regard."
+        ],
+        "Marvin Vincent": [
+            "Tetrarch. A ruler of a fourth part.",
+            "Archelaus had obtained two - fourths of his father's dominions, and Antipas (this Herod) and Philip each one - fourth.",
+            "The fame [\u03b1\u03ba\u03bf\u03b7\u03bd]. Better as Rev., report. Lit., hearing."
+        ],
+        "John Calvin": [
+            "The reason why the Evangelists relate this occurrence is, to inform us that the name of Christ was universally celebrated, and, therefore, the Jews could not be excused on the plea of ignorance.",
+            "Many might otherwise have been perplexed by this question, 'How came it that, while Christ dwelt on the earth, Judea remained in a profound sleep, as if he had withdrawn into some corner, and had displayed to none his divine power?'",
+            "The Evangelists accordingly state, that the report concerning him was everywhere spread abroad, and penetrated even into the court of Herod."
+        ],
+        "Philip Schaff": [
+            "At that season. Quite indefinite.",
+            "Herod Antipas...a light-minded, prodigal, and luxurious prince, superstitious and cunning.",
+            "He first heard of Him now, through the more extended labors of the Twelve."
+        ],
+        "Archibald T. Robertson": [
+            "Herod Antipas ruler of Galilee and Perea, one-fourth of the dominion of Herod the Great.",
+            "The report concerning Jesus...heard the hearing (rumour), objective genitive.",
+            "It is rather surprising that he had not heard of Jesus before."
+        ],
+        "John Gill": [
+            "And though he is here called a 'tetrarch', he is in Mark 6:14 called a king: the reason of his being styled a 'tetrarch' was this; his father Herod divided his large kingdom into four parts, and bequeathed them to his sons, which was confirmed by the Roman senate.",
+            "The 'time' referred to, was after the death of John the Baptist; and when Christ had been for a good while, and in many places, preaching and working miracles; the particular instant which respect is had unto, is the sending forth of the twelve disciples to preach and work miracles.",
+            "Heard of the fame of Jesus: what a wonderful preacher he was, and what mighty things were done by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod Antipas, the ruler of Galilee and Perea, heard about the fame and reports of Jesus. This is not surprising, considering the widespread recognition of Jesus' name. Herod's title of tetrarch signifies his rule over a fourth part of the kingdom. He was a light-minded and superstitious prince who had not thought much of Jesus up until this point, but now, through the extended labors of the Twelve, he finally hears of Him. The purpose of the Evangelists including this event is to emphasize that the name of Christ was celebrated everywhere, leaving no room for the Jews to claim ignorance. This occurrence also serves to address the question of why Judea seemed oblivious to Jesus' divine power while He was on earth, by showing that even Herod's court had heard of Him.",
+            "wordCount": 136,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 1.8833124412188127,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                31.08,
+                24.91,
+                44.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod Antipas, the ruler of Galilee and Perea, heard of the fame and reports of Jesus. The title tetrarch indicated his rule over a fourth part of the kingdom. Although Herod had not taken much notice of Jesus before, he now hears about Him through the extended labors of the Twelve. The purpose of sharing this occurrence in the Gospel accounts is to highlight the widespread celebration of Christ's name, leaving no excuse for the ignorance of the Jews. This event also addresses the question of why Judea seemed unaware of Jesus' divine power, as even Herod's court had heard of Him.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9045135164987186,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                33.29,
+                24.92,
+                41.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Herod Antipas, the ruler of Galilee and Perea, heard of the fame and reports of Jesus. The title tetrarch indicated his rule over a fourth part of the kingdom. Although Herod had not taken much notice of Jesus before, he now hears about Him through the extended labors of the Twelve. The purpose of sharing this occurrence in the Gospel accounts is to highlight the widespread celebration of Christ's name, leaving no excuse for the ignorance of the Jews. This event also addresses the question of why Judea seemed unaware of Jesus' divine power, as even Herod's court had heard of Him.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9045135164987186,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                33.29,
+                24.92,
+                41.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler of Galilee and Perea, Herod Antipas, heard about the fame and reports of Jesus. As a tetrarch, he governed a fourth part of the kingdom. Previously indifferent to Jesus, he now learns about Him through the Twelve's widespread efforts. This account highlights the widespread celebration of Christ's name, refuting any excuse for the Jews' ignorance. It also addresses why Judea appeared unaware of Jesus' divine power, as even Herod's court had heard of Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8549786087203988,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                33.97,
+                24.89,
+                41.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler of Galilee and Perea, Herod Antipas, heard about the fame and reports of Jesus. As a tetrarch, he governed a fourth part of the kingdom. He had previously been indifferent to Jesus, but now, through the extended labors of the Twelve, he learns about Him. This account emphasizes the widespread celebration of Christ's name, leaving no excuse for the ignorance of the Jews. It also addresses the question of why Judea seemed unaware of Jesus' divine power, as even Herod's court had heard of Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8658207734123895,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                33.52,
+                25.65,
+                40.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

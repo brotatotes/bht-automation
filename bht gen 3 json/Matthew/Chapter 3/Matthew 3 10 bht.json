@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:43:03",
+    "verseRef": "Matthew 3:10",
+    "bestBHT": {
+        "bht": "This speaks of a personal judgment, not the destruction of Jerusalem. The fire mentioned is the future torment of the impenitent, and the word casting represents just indignation. The present tense emphasizes the immediacy and certainty of the impending judgment. The axe laid at the root signifies imminent destruction, and though there may be blossoms without fruit, the preaching of the gospel will continue to advance God's wrath against the wicked. Immediate repentance is necessary to avoid divine vengeance and escape everlasting burnings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.7347303780461698,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+        "commentatorTierSimilarities": [
+            37.2,
+            25.19,
+            37.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Language so personal and individual as this can scarcely be understood of any national judgment like the approaching destruction of Jerusalem, with the breaking up of the Jewish polity and the extrusion of the chosen people from their peculiar privileges which followed it; though this would serve as the dark shadow, cast before, of a more terrible retribution to come.\" ",
+            "The 'fire,' which in another verse is called 'unquenchable,' can be no other than that future 'torment' of the impenitent whose 'smoke ascendeth up for ever and ever,' and which by the Judge Himself is styled 'everlasting punishment'.\" ",
+            "What a strength, too, of just indignation is in that word 'cast' or 'flung into the fire!'"
+        ],
+        "Albert Barnes": [
+            "Laying the axe at the root of a tree is intended to denote that the tree is to be cut down...a searching, trying kind of preaching has been commenced.",
+            "No art, no dissimulation, will be successful: People are to be tried by their lives, not by birth or profession.",
+            "John regarded them as making a fair and promising profession, as trees in blossom do. But he told them, also, that they should bear fruit as well as flowers."
+        ],
+        "Marvin Vincent": [
+            "Is laid [\u03ba\u03b5\u03b9\u03c4\u03b1\u03b9] . Not, is applied, as 'She layeth her hands to the spindle' (Proverbs 31:19), but is lying.",
+            "The present tense is graphic, denoting what is to happen at once and certainly.",
+            "Is hewn down and cast. The present tense is graphic, denoting what is to happen at once and certainly."
+        ],
+        "John Calvin": [
+            "God is just about to drive out unworthy persons from the Church, as barren trees are wont to be cut down.",
+            "The grace of God is never manifested for the salvation of the godly, till his judgment first appears for the destruction of the world.",
+            "We have no reason to wonder if the preaching of the gospel and the coming of Christ laid the axe for cutting down barren trees, or if the same causes daily advance the wrath of God against the wicked."
+        ],
+        "Philip Schaff": [
+            "The axe is lying at the root of the trees... A striking declaration of imminent destruction.",
+            "There may be blossoms, professions, and yet no fruit, or the fruit may be bad.",
+            "The present tense represents a certain and immediate future action, or a general law of the 'kingdom' which John heralded."
+        ],
+        "Archibald T. Robertson": [
+            "Is the axe laid...the root of the trees.\" It is there ready for business.",
+            "The prophetic present occurs also with \"is hewn down\" and \"cast."
+        ],
+        "John Gill": [
+            "the axe of God's judgment and vengeance is here designed, which, because of the certainty and near approach of it, is said to be 'now laid'",
+            "in a short time their civil polity and church state would be both at an end",
+            "Temporal ruin and destruction shall come upon him; he shall not escape divine vengeance here, and shall be cast into everlasting burnings hereafter"
+        ],
+        "John Wesley": [
+            "There is no room for such idle pretences.",
+            "Speedy execution is determined against all that do not repent.",
+            "Instantly, without farther delay."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The language in this verse is personal and individual, not referring to a national judgment like the destruction of Jerusalem, but rather to a more terrible retribution to come. The fire mentioned is the future torment of the impenitent and the casting into the fire signifies just indignation. The present tense of is laid and is hewn down and cast denotes what is to happen immediately and certainly. The axe laid at the root of the trees signifies imminent destruction, and though there may be blossoms and professions without fruit, the preaching of the gospel and the coming of Christ will continue to advance the wrath of God against the wicked. Therefore, there is no room for idle pretenses and immediate repentance is necessary.",
+            "wordCount": 124,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.824393435578676,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                39.72,
+                26.74,
+                33.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage speaks of a personal and individual judgment, not the destruction of Jerusalem, but a more terrible retribution to come. The fire mentioned is the future torment of the impenitent, and the word casting represents just indignation. The present tense emphasizes the immediacy and certainty of the impending judgment. The axe laid at the root of the trees signifies imminent destruction, and though there may be blossoms and professions without fruit, the preaching of the gospel will continue to advance the wrath of God against the wicked. Therefore, immediate repentance is necessary.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7012901931920759,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                38.18,
+                26.42,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This speaks of a personal judgment, not the destruction of Jerusalem. The fire mentioned is the future torment of the impenitent, and the word casting represents just indignation. The present tense emphasizes the immediacy and certainty of the impending judgment. The axe laid at the root of the trees signifies imminent destruction, and though there may be blossoms without fruit, the preaching of the gospel will continue to advance the wrath of God against the wicked. Therefore, immediate repentance is necessary.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6653926010545521,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                39.09,
+                25.03,
+                35.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This speaks of a personal judgment, not the destruction of Jerusalem. The fire mentioned is the future torment of the impenitent, and the word casting represents just indignation. The present tense emphasizes the immediacy and certainty of the impending judgment. The axe laid at the root signifies imminent destruction, and though there may be blossoms without fruit, the preaching of the gospel will continue to advance God's wrath against the wicked. Immediate repentance is necessary to avoid divine vengeance and escape everlasting burnings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7347303780461698,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                37.2,
+                25.19,
+                37.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse speaks of a personal judgment, different from the destruction of Jerusalem. The fire mentioned refers to the future torment of the impenitent, and the word casting symbolizes just indignation. The present tense underscores the immediacy and certainty of the impending judgment. The axe laid at the root signifies imminent destruction, and though there may be blossoms without fruit, the preaching of the gospel will continue to advance God's wrath against the wicked. Immediate repentance is necessary to escape divine vengeance and avoid everlasting burnings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.7184805049085052,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                37.15,
+                25.63,
+                37.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

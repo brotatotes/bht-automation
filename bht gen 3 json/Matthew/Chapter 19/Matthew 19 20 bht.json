@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:50:09",
+    "verseRef": "Matthew 19:20",
+    "bestBHT": {
+        "bht": "This young man, though self-righteous, earnestly believed he had kept all of God's commandments. Jesus, in contrast to the hypocritical Pharisees and Scribes, looked upon him with love. However, the young man had an uneasy conscience and felt something was lacking. He yearned to know what more he must do, revealing a mix of pride and desperation. Jesus called him to a deeper understanding of the law's spiritual essence, highlighting that mere external obedience was insufficient.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.7803248354234325,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+        "commentatorTierSimilarities": [
+            46.66,
+            37.13,
+            16.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may remark that this young man, though self-righteous, was no Hypocrite, no Pharisee: he spoke earnestly, and really strove to keep, as he really believed he had kept, all God\u2019s commandments.",
+            "Jesus looking upon him loved him: in spite of his error there was a nobleness and openness about him, contrasted with the hypocritical bearing of the Pharisees and Scribes."
+        ],
+        "Philip Schaff": [
+            "Externally moral, perhaps self-righteous, he yet felt that he lacked something.",
+            "Peace of conscience had not been attained by his keeping of 'all these.'",
+            "He had yet to learn how much he lacked of even comprehending the spirituality of the law."
+        ],
+        "Archibald T. Robertson": [
+            "He claims to have kept all these commandments and yet he was not satisfied. He had an uneasy conscience.\" ",
+            "Jesus called him to something that he did not have.\" ",
+            "Did his question reveal proud complacency or pathetic despair? A bit of both most likely."
+        ],
+        "John Gill": [
+            "For though he was so very rich and in such an exalted station in life, as to be a ruler, it seems he was but a young man; and to be so early serious and religious, amidst so much riches and grandeur, though it was but externally, was both remarkable and commendable.\" ",
+            "What lack I yet? In what am I deficient hitherto? in what have I come short of doing these things? what remains at last to be performed? what other precepts are to be obeyed? if there are any other commands, I am ready to observe them, which may be thought necessary to obtain eternal life.",
+            "Not understanding the internal sense, extensive compass, and spirituality of them; and therefore asks."
+        ],
+        "John Wesley": [
+            "All these have I kept from my childhood.",
+            "So he imagined; and perhaps he had, as to the letter; but not as to the spirit.",
+            "Which our Lord immediately shows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This young man approached Jesus earnestly, claiming to have faithfully kept all of God's commandments. Though self-righteous, he displayed a sincerity that contrasted with the hypocritical Pharisees and Scribes. Jesus, looking upon him with love, recognized the noble and open character within him. However, despite his external morality, the young man had an uneasy conscience and felt that something was lacking. He desired to know what more he must do. This question reveals a mix of proud complacency and desperate longing for something greater. Jesus called him to a deeper understanding, revealing that obedience to the external requirements was not enough; he needed a grasp of the spiritual essence of the law.",
+            "wordCount": 114,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.6298856159036972,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                46.11,
+                36.7,
+                17.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This young man, though self-righteous, earnestly believed he had kept all of God's commandments. Jesus, in contrast to the hypocritical Pharisees and Scribes, looked upon him with love. However, the young man had an uneasy conscience and felt something was lacking. He yearned to know what more he must do, revealing a mix of pride and desperation. Jesus called him to a deeper understanding of the law's spiritual essence, highlighting that mere external obedience was insufficient.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7803248354234325,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                46.66,
+                37.13,
+                16.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This young man believed he had faithfully kept all of God's commandments, displaying a sincerity that contrasted with the hypocrisy of the Pharisees and Scribes. Jesus, lovingly looking upon him, recognized the nobleness and openness within him. However, the young man's uneasy conscience revealed his sense of lacking something. He desired to know what more he must do, acknowledging a mix of proud complacency and desperate longing. Jesus called him to a deeper understanding, emphasizing that obedience to external requirements alone was inadequate; comprehension of the law's spiritual essence was necessary.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7194241228324603,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                46.59,
+                36.9,
+                16.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This young man, though self-righteous, earnestly believed he had faithfully kept all of God's commandments. The sincerity in his approach set him apart from the hypocritical Pharisees and Scribes. Jesus, looking upon him with love, recognized his noble and open character. However, the young man's uneasy conscience revealed his sense of lacking something. He sought to know what more he must do, revealing both proud complacency and desperate longing. Jesus called him to a deeper understanding, teaching that external obedience alone was insufficient without grasping the spiritual essence of the law.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.7467119947686487,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                45.92,
+                37.55,
+                16.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though self-righteous, this young man sincerely believed he had diligently kept all of God's commandments. Jesus, in contrast to the hypocritical Pharisees and Scribes, looked at him with love, recognizing his noble and open character. However, the young man's uneasy conscience revealed a sense of lacking. He sought to know what more he must do, a mix of proud complacency and desperate longing emerging. Jesus called him to a deeper understanding, emphasizing that external obedience was inadequate without grasping the spiritual essence of the law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7659082808273716,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+            "commentatorTierSimilarities": [
+                46.03,
+                37.6,
+                16.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

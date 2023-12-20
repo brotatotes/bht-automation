@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:47:11",
+    "verseRef": "Matthew 12:20",
+    "bestBHT": {
+        "bht": "In Matthew 12:20, Jesus is portrayed as the epitome of tenderness and compassion. He does not break or crush the contrite heart but rather nurtures even the faintest spark of repentance. His victories are achieved quietly but reveal the grandeur and completeness of His triumphs. With matchless tenderness, love, and skill, Jesus uplifts the meek, strengthens the weak, and comforts those who mourn. As both a humble reed and the light of the world, He exemplifies His own words in Matthew 11:28-30, offering unwavering grace during the day of grace.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.0286392823313633,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+        "commentatorTierSimilarities": [
+            36.39,
+            36.91,
+            26.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He will not crush the contrite heart, nor extinguish the slightest spark of repentant feeling in the sinner.",
+            "Until He shall have brought out the conflict, the cause, the judgment, unto victory.",
+            "Such shall be his behavior and such his gracious tenderness, during the day of grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.\" (Matthew 12:20) ",
+            "The grandeur and completeness of Messiah's victories would prove...the unobtrusive noiselessness with which they were to be achieved.\" ",
+            "His it should be, with matchless tenderness, love, and skill, to lift up the meek, to strengthen the weak hands and confirm the feeble knees, to comfort all that mourn, to say to them that are of a fearful heart, Be strong, fear not."
+        ],
+        "Marvin Vincent": [
+            "He himself, partaking of the nature of our frail humanity, is both a lamp and a reed, humble, but not to be broken, and the 'light of the world.'"
+        ],
+        "John Calvin": [
+            "Justice is not established in the world without a great struggle and exertion.\" ",
+            "The devil throws all possible difficulties in the way, which cannot be removed without violent opposition.\" ",
+            "Victory is not obtained in any other way than by fighting."
+        ],
+        "Philip Schaff": [
+            "Our Lord will not reject feeble, marred but contrite, sinners.",
+            "He will not crush the contrite heart, nor extinguish the slightest spark of repentant feeling in the sinner.",
+            "The gentle mode, characteristic of our Lord personally was to be characteristic of His dealings through His militant people up to the day of final decision, when the Judge shall end the conflict in final, absolute victory."
+        ],
+        "Archibald T. Robertson": [
+            "A crushed reed he will not break.",
+            "The wick of a lamp, smoking and flickering and going out.",
+            "Vivid images that picture Jesus in the same strain as his own great words in Matthew 11:28-30."
+        ],
+        "John Gill": [
+            "A bruised reed shall he not break.... but rather young converts, such as are under first awakenings, are here pointed at; who, like to a 'bruised reed', or 'broken' one, one that is in some measure broke, near being broken to pieces, are wounded in their spirits, have their hearts broken and contrite.",
+            "and such Christ is so far from neglecting, and putting out, that he blows up the sparks of grace into a flame, and never utterly leaves the work, till he sends forth judgment into victory.",
+            "which informs their judgments, enlightens their understandings, bows their wills, raises their affections, sanctifies their souls, works effectually in them, under the influence of his Spirit and grace, to the carrying on of the work of grace in them to the end."
+        ],
+        "John Wesley": [
+            "A bruised reed - A convinced sinner: one that is bruised with the weight of sin: smoking flax - One that has the least good desire, the faintest spark of grace.",
+            "Till he send forth judgment unto victory - That is, till he make righteousness completely victorious over all its enemies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 12:20, Jesus is depicted as the epitome of tenderness and compassion. He will not crush or break the contrite heart, but instead, He lovingly nurtures even the feeblest spark of repentant feeling in the sinner. With matchless tenderness, love, and skill, Jesus lifts up the meek, strengthens the weak hands, and comforts those who mourn. His victories are achieved with unobtrusive noiselessness, yet they reveal the grandeur and completeness of Messiah's triumphs. Jesus, both humble as a reed and the light of the world, portrays the same strain found in His words in Matthew 11:28-30. Until the day of His final judgment, He patiently extends His gracious tenderness during the day of grace.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 1.9955650782508445,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                36.01,
+                37.09,
+                26.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in Matthew 12:20, demonstrates unparalleled tenderness and compassion. He refuses to crush the contrite heart or extinguish the faintest spark of repentance. His victories are achieved silently, yet they resound with the greatness and completeness of triumph. With matchless tenderness, love, and skill, Jesus uplifts the meek, strengthens the weak, and comforts the grieving. Like a humble reed and the light of the world, He embodies both fragility and divine radiance. Until the final judgment, He persistently extends His gracious tenderness during the day of grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.9906155629118842,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                35.39,
+                36.75,
+                27.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 12:20, Jesus is portrayed as the epitome of tenderness and compassion. He does not break or crush the contrite heart but rather nurtures even the faintest spark of repentance. His victories are achieved quietly but reveal the grandeur and completeness of His triumphs. With matchless tenderness, love, and skill, Jesus uplifts the meek, strengthens the weak, and comforts those who mourn. As both a humble reed and the light of the world, He exemplifies His own words in Matthew 11:28-30, offering unwavering grace during the day of grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0286392823313633,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                36.39,
+                36.91,
+                26.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Jesus is depicted as a symbol of tenderness and compassion. He refuses to break the contrite heart or extinguish the weakest spark of repentance. His victories, achieved silently, display the greatness and completeness of His triumph. With unmatched love and skill, Jesus uplifts the meek, strengthens the weak, and comforts the mourners. As a humble reed and the light of the world, He embodies His own teachings in Matthew 11:28-30, offering unwavering grace during the day of grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.960422623195821,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                36.47,
+                36.64,
+                26.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus is portrayed as a compassionate figure in this passage, showing tenderness towards the contrite heart and not extinguishing even the faintest spark of repentance. His victories are achieved quietly, yet they reveal the greatness and completeness of His triumphs. With unparalleled tenderness, love, and skill, Jesus uplifts the meek, strengthens the weak, and comforts the mourners. His nature as a humble reed and the light of the world reflects His own teachings in Matthew 11:28-30, offering unwavering grace throughout the day of grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.03942101718529,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                35.05,
+                36.29,
+                28.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

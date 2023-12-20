@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:54:25",
+    "verseRef": "Matthew 27:42",
+    "bestBHT": {
+        "bht": "The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony. They acknowledged that Jesus had saved others through his miracles, yet questioned why he could not save himself. This ironic statement, although spoken in sarcasm, unwittingly highlighted the purpose of Jesus' ultimate sacrifice. His mission was not to save himself but to save humanity spiritually and eternally through his selfless death. Their mocking words reflected the blindness of those who failed to recognize the true power and sacrifice of the Son of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.9356773547383073,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+        "commentatorTierSimilarities": [
+            31.84,
+            35.84,
+            32.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "42.] St. Luke gives, more exactly, the second reproach in this verse as proceeding from the soldiers."
+        ],
+        "Marvin Vincent": [
+            "He saved others, etc. The Greek order is, Others he saved; himself he cannot save."
+        ],
+        "John Calvin": [
+            "Let us, on the contrary, that our faith may firmly rely on Christ, seek a foundation in his cross.",
+            "For the Jews, in consequence of having imagined to themselves a King who had been suggested to them by their own senses, rejected Christ crucified, because they reckoned it absurd to believe in him; while we regard it as the best and highest reason for believing, that he voluntarily subjected himself on our account to the ignominy of the cross.",
+            "And it is too customary with all wicked men to estimate the power of God by present appearances, so that whatever he does not accomplish they think that he cannot accomplish, and so they accuse him of weakness, whenever he does not comply with their wicked desire."
+        ],
+        "Philip Schaff": [
+            "He saved others. This may be ironical, or it is a recognition of His miracles of mercy, to taunt Him with a supposed loss of power just when He needed it most for Himself. His very mercy is used in mockery.",
+            "He is the king of Israel, etc. Ironical, with a mocking suggestion of still being open to the proof of His Messiahship.",
+            "And we will believe on him. Unless there was an atoning purpose in Christ\u2019s death, it will always seem strange that He did not offer some such miraculous proof of His power. The soldiers repeated this reproach, but of course without this last clause (see Luke 23:36-37)."
+        ],
+        "Archibald T. Robertson": [
+            "He saved others; himself he cannot save. The sarcasm is true, though they do not know its full significance.",
+            "If he had saved himself now, he could not have saved any one.",
+            "Christ will not give new proofs to the blind in heart."
+        ],
+        "John Gill": [
+            "He came not to save himself, but others, and to save them spiritually and eternally by dying himself.",
+            "He could easily have caused the nails to have given way, and unloosed himself, and come down, who had done such mighty works among them.",
+            "If he had, there is no reason to conclude they would have believed him to be the Son of God, and the true Messiah; for though after this, he did a much greater work, raised himself from the dead, of which they had the fullest evidence, yet they remained unbelieving."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The taunts hurled at Jesus on the cross highlighted the irony of the situation. As the soldiers mockingly acknowledged, Jesus had saved others through his miracles, but now found himself unable to save himself. However, they did not fully grasp the significance of their words. If Jesus had saved himself at that moment, he would not have been able to save anyone else. His mission was not to demonstrate earthly power but to offer salvation through his sacrificial death. The sarcastic reproach reflects the blindness of those who fail to see the truth and the hardness of heart that rejects the Son of God, even in the face of his ultimate act of selflessness.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8090521960786008,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                35.34,
+                32.67,
+                31.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers' mockery towards Jesus on the cross highlighted an ironic truth. They sarcastically pointed out that Jesus had saved others through his miracles, yet appeared incapable of saving himself. However, they failed to fully grasp the significance of their words. Jesus' purpose was not to save himself but to offer salvation through his selfless sacrifice. Their taunts revealed the blindness of those who reject the Son of God, even in the face of his ultimate act of love and redemption.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7570614657800894,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                33.08,
+                32.97,
+                33.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony. They acknowledged that Jesus had saved others through his miracles, yet questioned why he could not save himself. This ironic statement, although spoken in sarcasm, unwittingly highlighted the purpose of Jesus' ultimate sacrifice. His mission was not to save himself but to save humanity spiritually and eternally through his selfless death. Their mocking words reflected the blindness of those who failed to recognize the true power and sacrifice of the Son of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9356773547383073,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                31.84,
+                35.84,
+                32.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers' cruel taunts toward Jesus on the cross emphasized a profound irony. In their mockery, they acknowledged that Jesus had saved others through his miracles, implicitly questioning why he could not save himself. However, they failed to comprehend the true significance of their words. Jesus willingly chose not to save himself, for his mission was to save humanity spiritually and eternally through his selfless sacrifice. Their sarcastic reproach highlighted the inability of the blind-hearted to recognize the power and purpose of Christ's crucifixion.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7485455265573613,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                31.48,
+                34.17,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers' mocking taunts on the cross captured the profound irony of the situation. They acknowledged Jesus' ability to save others through his miracles but questioned why he could not save himself. Little did they realize that if Jesus had saved himself, he would not have been able to save anyone else. His sacrificial death was not a sign of weakness but a demonstration of his love and power to save humanity. Their insulting words revealed their failure to understand the true purpose and significance of Christ's crucifixion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9340210957269157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                33.06,
+                34.31,
+                32.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

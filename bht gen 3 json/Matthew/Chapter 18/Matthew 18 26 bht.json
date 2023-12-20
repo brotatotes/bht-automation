@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:49:44",
+    "verseRef": "Matthew 18:26",
+    "bestBHT": {
+        "bht": "In the face of fear and anguish, the servant's desperate pleas reflect the voice of mistaken self-righteousness. Prostrating before his lord, he acknowledges the justice of the claim against him and implores for mercy. His promise to pay all his debts highlights a lack of understanding about the nature of sin and the need for divine reconciliation. Ultimately, it is God's patience and longsuffering that lead people to repentance and salvation, bringing them to acknowledge their sins and have faith in His Son.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.8598368041679743,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+        "commentatorTierSimilarities": [
+            36.48,
+            25.41,
+            38.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Luther explains this as the voice of mistaken self-righteousness, which when bitten by sense of sin and terrified with the idea of punishment, runs hither and thither, seeking help...",
+            "It seems simpler to see in the words nothing more than exclamations characteristic of the extreme fear and anguish of the moment...",
+            "...made him ready to promise impossible things, even mountains of gold."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The servant therefore fell down, and worshipped him...acknowledgment of the justice of the claim made against him, and a piteous imploration of mercy.",
+            "Lord, have patience with me, and I will pay thee all...just an acknowledgment of the justice of the claim made against him, and a piteous imploration of mercy."
+        ],
+        "Albert Barnes": [
+            "The servant therefore fell down, and worshipped him - This does not mean that he paid him religious homage, but that in a humble, reverent, and earnest manner he entreated him to have patience with him.",
+            "He prostrated himself before his lord, as is customary in all Eastern nations when subjects are in the presence of their king.",
+            "See the notes at Matthew 2:2."
+        ],
+        "Philip Schaff": [
+            "In fear and terror he makes a promise he could not fulfil.",
+            "The special application is to one convicted of sin and fearing God\u2019s wrath.",
+            "Promising a self-righteous obedience, which he hopes will in some way be a payment in full."
+        ],
+        "John Gill": [
+            "Thus men, under guilt, and dreadful apprehensions of wrath and ruin, frequently promise, that if their lives are but spared, what they will do for God, and in a religious way.",
+            "Which shows them to be exceeding ignorant of the nature of sin, which is committed against an infinite being, and therefore reconciliation for it cannot be made by finite creature.",
+            "Indeed, the patience and longsuffering of God to his people is salvation; not that by giving them time, and bearing with them, they discharge their debts, and work out their salvation; but waiting upon them to be gracious to them, he brings them to repentance, to a sense of themselves and sins, and to an acknowledgment of them, and leads them, by faith, to his Son for righteousness, forgiveness, salvation, and eternal life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In extreme fear and anguish, the servant fell down and worshipped his lord, acknowledging the justice of the claim made against him and imploring for mercy. This moment captures the voice of mistaken self-righteousness, as the servant promises impossible things in a desperate attempt to alleviate his sense of sin and punishment. His plea for patience and willingness to pay all his debts reflects a lack of understanding of the nature of sin and the need for divine reconciliation. Ultimately, it is the patience and longsuffering of God that leads his people to repentance and salvation, bringing them to a place of acknowledgment and faith in His Son.",
+            "wordCount": 109,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.9776412148337312,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                36.45,
+                24.15,
+                39.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of fear and anguish, the servant's desperate pleas reflect the voice of mistaken self-righteousness. Prostrating before his lord, he acknowledges the justice of the claim against him and implores for mercy. His promise to pay all his debts highlights a lack of understanding about the nature of sin and the need for divine reconciliation. Ultimately, it is God's patience and longsuffering that lead people to repentance and salvation, bringing them to acknowledge their sins and have faith in His Son.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8598368041679743,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                36.48,
+                25.41,
+                38.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faced with a sense of sin and the terror of punishment, the servant's mistaken self-righteousness drives him to seek help in desperation. Falling down and worshipping his lord, he humbly acknowledges the justice of the claim against him, imploring for mercy. His promise to pay all his debts, even mountains of gold, reflects his willingness to do the impossible. However, this plea reveals an ignorance about the nature of sin and the need for divine reconciliation. It is through God's patience and longsuffering that true repentance and salvation are achieved.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7929576679358301,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                36.47,
+                26.36,
+                37.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the grip of fear and anguish, the servant's mistaken self-righteousness compels him to seek desperate help. Falling down and worshiping his lord, he acknowledges the justice of the claim against him, imploring for mercy. Pledging to pay all his debts, even impossible amounts like mountains of gold, reflects his desperate willingness to do anything. Yet, this plea signifies his lack of understanding about the nature of sin and the need for divine reconciliation. God's patience and longsuffering lead to repentance, salvation, and acknowledgment of sins.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.7766062754091625,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                37.36,
+                26.34,
+                36.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In fear and anguish, the servant falls down and worships his lord, acknowledging the justice of the claim against him and imploring for mercy. His promise to pay all his debts reflects his mistaken self-righteousness, offering impossible things like mountains of gold. However, this desperate plea reveals a lack of understanding about the nature of sin and the need for divine reconciliation. God's patience and longsuffering lead people to repentance, salvation, acknowledgment of sins, and faith in His Son.",
+            "wordCount": 81,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.7933247907927108,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                37.17,
+                24.87,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

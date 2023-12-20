@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:50:15",
+    "verseRef": "Matthew 19:5",
+    "bestBHT": {
+        "bht": "The original divine constitution of marriage is the union of one man and one woman, forming a bond that transcends a unity of spirit and soul. This union is a binding power, wherein the husband leaves his parents to be glued to his wife, forming one flesh. This sacred unity should not be broken by causeless divorces, as husbands ought to rule as heads without being tyrants, while wives yield modestly. Honoring and preserving the divine institution of marriage is paramount.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 2.0537385148536513,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+        "commentatorTierSimilarities": [
+            33.45,
+            32.13,
+            34.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The essential bond of marriage consists not in unity of spirit and soul, but without which it still exists in all its binding power.\" ",
+            "The wedded pair are ONE FLESH, i.e. ONE MAN within the limits of their united life in the flesh, for this world.",
+            "And herein alone lies the justification of a second marriage, which in no way breaks off the unity of love in spirit with the former partner, now deceased."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus here sends them back to the original constitution of man as one pair, a male and a female; to their marriage, as such, by divine appointment.\" ",
+            "...to the purpose of God, expressed by the sacred historian, that in all time one man and one woman should by marriage become one flesh.\" ",
+            "This being God's constitution, let not man break it up by causeless divorces."
+        ],
+        "Marvin Vincent": [
+            "Shall cleave [\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . Lit., shall be glued. ",
+            "Shall be one flesh [\u03b5\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03b9\u03c2 \u03c3\u03b1\u03c1\u03ba\u03b1 \u03bc\u03b9\u03b1\u03bd] . Lit., \"into one flesh;\" Wyc., two in one flesh."
+        ],
+        "John Calvin": [
+            "But if any man abandon his father, and shake off the yoke by which he is bound, no man will own such a monster; much less will he be at liberty to dissolve a marriage.",
+            "But Christ, as I stated a little ago, applies it in a different manner to his purpose; namely, to show that whoever divorces his wife tears himself in pieces, because such is the force of holy marriage, that the husband and wife become one man.",
+            "Let the husband rule, so as to be the head, and not the tyrant, of his wife; and let the woman, on the other hand, yield modestly to his commands."
+        ],
+        "Philip Schaff": [
+            "God says, Christ says, that the relationship between a man and his wife is closer, higher, and stronger, than even that between children and parents.\" ",
+            "Notice: it is the man who leaves his parents.\" ",
+            "The essential bond is the fact that the twain, by marriage, \u2018became one flesh,\u2019 one man within the limits of their united life in the flesh, for this world."
+        ],
+        "Archibald T. Robertson": [
+            "Shall cleave (\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). First future passive, 'shall be glued to,' the verb means.",
+            "The twain shall become one flesh (\u03b5\u03c3\u03bf\u03bd\u03c4\u03b1 \u03bf \u03b4\u03c5\u03bf \u03b5\u03b9\u03c2 \u03c3\u03b1\u03c1\u03ba\u03b1 \u03bc\u03b9\u03b1\u03bd). This use of \u03b5\u03b9\u03c2 after \u03b5\u03b9\u03bc is an imitation of the Hebrew.",
+            "The frequency of it is due to the Hebrew and here the LXX is a direct translation of the Hebrew idiom."
+        ],
+        "John Gill": [
+            "The phrase denotes that close union between a man and his wife, which is not to be dissolved for every cause, it being stricter than that which is between parents and children; for the wife must be cleaved unto, and father and mother forsaken.\" ",
+            "Not that upon this new relation between man and wife, the former relation between parents and children ceases; nor does this phrase denote an entire separation from them, so as to have the affection alienated from them, or to be disengaged from all duty and obedience to them, and care and regard for them, for the future.",
+            "And denotes that near conjunction, and strict union, between a man and his wife, the wife being a part of himself, and both as one flesh, and one body, and therefore not to be parted on every slight occasion; and has a particular respect to the act of carnal copulation, which only ought to be between one man and one woman, lawfully married to each other."
+        ],
+        "John Wesley": [
+            "And said \u2014 By the mouth of Adam, who uttered the words. Genesis 2:24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 19:5, Jesus reaffirms the original divine constitution of marriage as the union of one man and one woman who become one flesh. This bond is not merely a unity of spirit and soul, but a binding power that exists within their united life in the flesh. It is a relationship closer, higher, and stronger than that between children and parents. Thus, a husband leaves his parents to be glued to his wife, forming a close and inseparable union. This sacred unity of love in spirit should not be broken by causeless divorces. Rather, the husband should rule as the head, not as a tyrant, while the wife yields modestly to his commands. This verse emphasizes the significance and permanence of the marital bond, highlighting the importance of honoring and preserving the divine institution of marriage.",
+            "wordCount": 136,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 1.9541967909280844,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                29.51,
+                36.78,
+                33.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The original divine constitution of marriage is the union of one man and one woman, forming a bond that transcends a unity of spirit and soul. This union is a binding power, wherein the husband leaves his parents to be glued to his wife, forming one flesh. This sacred unity should not be broken by causeless divorces, as husbands ought to rule as heads without being tyrants, while wives yield modestly. Honoring and preserving the divine institution of marriage is paramount.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.0537385148536513,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                33.45,
+                32.13,
+                34.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Marriage is a sacred bond that unites one man and one woman, making them one flesh. This union goes beyond a mere unity of spirit and soul; it is a binding power that endures within their united life in the flesh. Breaking this unity through causeless divorces is not in accordance with God's original constitution. Husbands should lead with love, not tyranny, while wives should submit modestly. It is vital to honor and preserve the divine institution of marriage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9445395156483078,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                37.76,
+                30.56,
+                31.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The constitution of marriage, according to Matthew 19:5, involves the essential bond of one man and one woman becoming one flesh. This union signifies a unity that surpasses a mere connection of spirit and soul. The sacredness of this unity warrants the avoidance of causeless divorces, as it breaks the original intention of God's design. Husbands are called to lead their wives with love rather than tyranny, while wives are encouraged to submit in modesty. It is crucial to honor and preserve the divine institution of marriage as outlined in this verse.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.9071571817095703,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                35.43,
+                30.87,
+                33.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sacred bond of marriage lies in the unity of one man and one woman, who become one flesh within the confines of their united life. This union is not merely a combination of spirit and soul, but a binding power ordained by God. Divorce should not disrupt this profound connection formed by marriage. Husbands should lead their wives with love, not tyranny, while wives should yield modestly. The divine institution of marriage should be honored and upheld, as it fulfills God's purpose for humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9476193723638402,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                35.2,
+                31.93,
+                32.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

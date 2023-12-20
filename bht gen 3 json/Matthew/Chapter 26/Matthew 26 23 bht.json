@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:53:26",
+    "verseRef": "Matthew 26:23",
+    "bestBHT": {
+        "bht": "In response to John's question, Jesus reveals that the betrayer is the one who dips their hand in the dish. This signifies a violation of hospitality by one who had shared a meal with Jesus, emphasizing the lesson for believers to not be discouraged when close friends betray them. The act of dipping one's hand in the dish with Jesus symbolizes an intimate connection, intensifying the gravity of the impending betrayal.",
+        "wordCount": 73,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.7890966574696643,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+        "commentatorTierSimilarities": [
+            36.81,
+            27.3,
+            35.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These first words represent the answer of our Lord to John\u2019s question.",
+            "The latter (ver. 24) were not said now, but formed part of the previous announcement in our ver. 21.",
+            "(Luke, vv. 21, 22) formed part of the previous announcement in our ver. 21."
+        ],
+        "Marvin Vincent": [
+            "The dish [\u03c4\u03c1\u03c5\u03b2\u03bb\u03b9\u03c9] . Wyc., platter. A dish containing a broth made with nuts, raisins, dates, figs, etc., into which pieces of bread were dipped."
+        ],
+        "John Calvin": [
+            "But he answering said...confirms what he said a little before, that one of his friends sitting at the table is the traitor.",
+            "In the person of Judas, our Lord intended to admonish his followers in all ages, not to be discouraged or faint on account of intimate friends proving to be traitors.",
+            "Because the same thing that was experienced by Him who is the Head of the whole Church, must happen to us who are members of it."
+        ],
+        "Philip Schaff": [
+            "He that hath dipped the hand with me in the dish.",
+            "There were probably a number of dishes, or bowls, distributed along the table.",
+            "There is a pathetic tenderness in the language."
+        ],
+        "Archibald T. Robertson": [
+            "The aorist participle with the article simply means that the betrayer is the one who dips his hand in the dish... It is plain that Judas was not recognized by the rest as indicated by what Jesus has said.\" ",
+            "This language means that one of those who had eaten bread with him had violated the rights of hospitality by betraying him.\" ",
+            "Eating one's bread ties your hands and compels friendship."
+        ],
+        "John Gill": [
+            "And in this he says, the master of the family dipped both the herbs, and the unleavened bread, and that both separately and conjunctly.",
+            "And this was twice done in eating the passover; for so it is observed among the many things, which distinguished this night from others: 'in all other nights we dip but once, but in this night twice.'",
+            "But this refers to a particular action then performed by Judas, just at the time Christ spoke these words; and who might sit near him, and dip into the same dish he did."
+        ],
+        "John Wesley": [
+            "He that dippeth his hand with me in the dish...",
+            "This dish was a vessel full of vinegar, wherein they dipped their bitter herbs.",
+            "Which it seems Judas was doing at that very time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse captures the moment when Jesus responds to John's question, indicating that the betrayer is the one who dips his hand in the dish. By using this symbolic act, Jesus reveals that one of his trusted friends will betray him, emphasizing the violation of hospitality and the bondage of friendship. This highlights the perpetual lesson that followers of Christ should not be disheartened by the faithlessness of close companions. The act of dipping one's hand with Jesus in the dish illustrates the intimate connection between the participants and reinforces the tragic poignancy of the impending betrayal.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5089178796798677,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                36.68,
+                21.92,
+                41.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This moment captures Jesus' response to John's inquiry, disclosing that the betrayer is the one who dips their hand in the dish. By this act, Jesus reveals the violation of hospitality and the binding nature of friendship. He admonishes his followers not to despair when close companions prove disloyal, drawing on his own experience. The symbolic significance of dipping one's hand with Jesus in the dish illustrates the deep connection between them and magnifies the impending betrayal's tragic pathos.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4477053540972147,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "commentatorTierSimilarities": [
+                34.44,
+                26.12,
+                39.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to a question from John, Jesus unveils that the betrayer is the one who dips their hand in the dish\u2014an act symbolic of a violation of hospitality by one who had shared a meal with him. This serves as a reminder for believers throughout history not to be disheartened by the faithlessness of close friends. The intimate act of dipping one's hand in the dish with Jesus underscores the profound connection between them, intensifying the tragic weight of the forthcoming betrayal.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5540055279426097,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                37.24,
+                23.97,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to John's question, Jesus reveals that the betrayer is the one who dips their hand in the dish. This signifies a violation of hospitality by one who had shared a meal with Jesus, emphasizing the lesson for believers to not be discouraged when close friends betray them. The act of dipping one's hand in the dish with Jesus symbolizes an intimate connection, intensifying the gravity of the impending betrayal.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.7890966574696643,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                36.81,
+                27.3,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' response to John's question unveils the betrayer as the one who dips their hand in the dish. This act symbolizes the violation of hospitality committed by someone who shared a meal with Jesus. It serves as a poignant reminder for believers not to be disheartened by the faithlessness of close companions. The symbolic act of dipping one's hand with Jesus in the dish reinforces the deep connection between them and magnifies the impending betrayal's tragic nature.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5468785692042313,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
+            "commentatorTierSimilarities": [
+                34.86,
+                28.56,
+                36.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

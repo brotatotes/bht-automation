@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:50:09",
+    "verseRef": "Matthew 19:16",
+    "bestBHT": {
+        "bht": "A man approached Jesus, admiring Him and desiring to know how he could earn eternal life. Jesus responds by highlighting that there is only One Good, redirecting the man from seeking through great merit. The variations in the Gospels are seen as opportunities for correction and harmony. While the man's earnest search for truth is acknowledged, his mistaken belief in earning eternal life through his works is challenged. Jesus points the man towards the law as a path to life, but also reveals the limitations of relying solely on works.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.5651210256873678,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+        "commentatorTierSimilarities": [
+            28.9,
+            36.05,
+            35.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The spirit in which he came [...] seems to have been that of excessive admiration for Jesus as a man of eminent virtue, and of desire to know from Him by what work of exceeding merit he might win eternal life.",
+            "This spirit He reproves, by replying that there is but One Good, and that the walking by His grace in the way of holiness is the path to life.",
+            "This passage furnishes one of the most instructive and palpable cases of the smoothing down of apparent discrepancies by correcting the Gospels out of one another and thus reducing them to conformity."
+        ],
+        "John Calvin": [
+            "He did not come treacherously, as the scribes were wont to do, but from a desire of instruction; and, accordingly, both by words and by kneeling, he testifies his reverence for Christ as a faithful teacher.",
+            "But, on the other hand, a blind confidence in his works hindered him from profiting under Christ, to whom, in other respects, he wished to be submissive.",
+            "He therefore dreams of merits, on account of which he may receive eternal life as a reward due; and therefore Christ appropriately sends him to the keeping of the law, which unquestionably is the way of life."
+        ],
+        "Philip Schaff": [
+            "This young ruler, who ran and kneeled to Christ (Mark 10:17), was an honest, earnest seeker after truth and life.",
+            "But he was in error, as honest and earnest seekers may be.",
+            "Whether a Pharisee or not, he thought to earn eternal life. Hence the passage must not be wrested in favor of legalism."
+        ],
+        "Archibald T. Robertson": [
+            "What good thing (\u03c4 \u03b1\u03b3\u03b1\u03b8\u03bf\u03bd). Mark (Mark 10:17) has the adjective \"good\" with \"Teacher.",
+            "May have (\u03c3\u03c7\u03c9). Ingressive aorist subjunctive, \"may get,\" \"may acquire.\" "
+        ],
+        "John Gill": [
+            "This man was no Sadducee, he believed a future state; was a serious man, thoughtful about another world, and concerned how he should enjoy everlasting life.",
+            "But was entirely upon a legal bottom, and under a covenant of works; and speaks in the language and strain of the nation of Israel, who were seeking for righteousness and life by the works of the law.",
+            "He expected eternal life by doing some good thing, or things; and hoped, as the sequel shows, that he had done every good thing necessary to the obtaining it."
+        ],
+        "John Wesley": [
+            "And behold one came \u2014 Many of the poor had followed him from the beginning. One rich man came at last. Mark 10:17; Luke 18:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A man approached Jesus, admiring Him for His virtue and seeking to know how he could gain eternal life through great merit. Jesus corrected this flawed mindset, emphasizing that there is only One Good (referring to God) and the path to life lies in walking by His grace and pursuing holiness. This passage exemplifies the harmonization of the Gospels, as the variations in wording are corrected to bring them into alignment. The man's genuine search for truth is acknowledged, but he was mistaken in thinking he could earn eternal life through his own efforts. Jesus directs him to the law, revealing that it is indeed the way of life, but also highlighting the limitations of relying solely on works.",
+            "wordCount": 120,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.6650722393787576,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                30.51,
+                34.95,
+                34.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A man approached Jesus, admiring Him and desiring to know how he could earn eternal life. Jesus responds by highlighting that there is only One Good, redirecting the man from seeking through great merit. The variations in the Gospels are seen as opportunities for correction and harmony. While the man's earnest search for truth is acknowledged, his mistaken belief in earning eternal life through his works is challenged. Jesus points the man towards the law as a path to life, but also reveals the limitations of relying solely on works.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5651210256873678,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                28.9,
+                36.05,
+                35.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A man approached Jesus, admiring Him and desiring to know how he could earn eternal life. Jesus responds by highlighting that there is only One Good, redirecting the man from seeking through great merit. The variations in the Gospels are seen as opportunities for correction and harmony. While the man's earnest search for truth is acknowledged, his mistaken belief in earning eternal life through his works is challenged. Jesus points the man towards the law as a path to life, but also reveals the limitations of relying solely on works.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5651210256873678,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                28.9,
+                36.05,
+                35.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A man approached Jesus, admiring Him and desiring to know how to gain eternal life. Jesus responded by highlighting that there is only One Good and that the pathway to life is found through walking in His grace and pursuing holiness. The variations in the Gospels are seen as avenues for harmonization. Though the man's sincere search for truth is recognized, he was mistaken in thinking that he could earn eternal life through his own works. Jesus directs him to the law as a way of life, yet also reveals the limitations of relying solely on works.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5342124068700622,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                28.61,
+                35.74,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A man approached Jesus, admiring Him and seeking guidance on obtaining eternal life. Jesus responded by emphasizing that only God is truly good and that the path to life lies in walking in His grace and pursuing holiness. The variations in the Gospel accounts are viewed as opportunities for clarification. The man's earnest quest for truth is acknowledged, but his erroneous belief in earning eternal life through works is challenged. Jesus directs him to the law as a means to life, while also revealing the limitations of relying solely on works.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.544108584537303,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                28.9,
+                36.94,
+                34.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:46:52",
+    "verseRef": "Matthew 12:3",
+    "bestBHT": {
+        "bht": "Jesus defended his disciples' actions of plucking grain on the Sabbath by referring to King David's similar act of eating the showbread in the temple due to hunger. He highlighted how David's necessity justified his violation of the law, and therefore, the disciples were also justified in satisfying their hunger on the Sabbath. By invoking this well-known biblical example, Jesus challenged the Pharisees' knowledge of the Scriptures and emphasized the principle that acts of necessity do not violate ceremonial laws as long as they do not compromise godliness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.0001996900364487,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+        "commentatorTierSimilarities": [
+            22.06,
+            41.32,
+            36.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It appears from 1 Sam. xxi. 6, that hot bread had been put in on the day of David\u2019s arrival; which therefore, Levit. xxiv. 8, was a sabbath.",
+            "The example was thus doubly appropriate.",
+            "But the Jewish calendar of lessons cannot be shewn to have existed in the form which we now have, in the time of the Gospel history."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have ye not read... what David did when he was an hungered...",
+            "Have ye never read...",
+            "...and they that were with him."
+        ],
+        "Albert Barnes": [
+            "David, among the Jews, had high authority. This act had passed uncondemned. It proved that in 'cases of necessity the laws did not bind a man' - a principle which all laws admit.\" ",
+            "So the 'necessity' of the disciples justified them in doing on the Sabbath what would have been otherwise unlawful.",
+            "To vindicate his disciples, he referred them to a similar case, recorded in the Old Testament, and therefore one with which they ought to have been acquainted."
+        ],
+        "John Calvin": [
+            "If David\u2019s necessity excused him, the same argument ought to be admitted in the case of others.",
+            "Hence it follows, that the ceremonies of the Law are not violated where there is no infringement of godliness.",
+            "What had been prohibited for a particular end no necessity could make lawful."
+        ],
+        "Philip Schaff": [
+            "Have ye not read what David did.\" ",
+            "The case of David was peculiarly in point.",
+            "A model of Jewish piety had, according to the Scriptures, violated the law as they construed it."
+        ],
+        "Archibald T. Robertson": [
+            "The first defence made by Christ appeals to the conduct of David.",
+            "David and those with him did 'what was not lawful' precisely the charge made against the disciples.",
+            "From the necessity of hunger."
+        ],
+        "John Gill": [
+            "If they had not read the Scriptures, they were very unfit persons either to be teachers, or censurers of others, and must have been very slothful and negligent.",
+            "They represent him as thus saying to the priest, 'when he found there was none but showbread, give it me, that we may not die with hunger; for danger of life drives away the sabbath.'",
+            "so that though no man was with him at the priest's house, yet there were some with him, and who partook with him in eating of the showbread."
+        ],
+        "John Wesley": [
+            "Have ye not read what David did \u2014 And necessity was a sufficient plea for his transgressing the law in a higher instance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Pharisees accused Jesus' disciples of breaking the Sabbath by plucking grain, Jesus responded by reminding them of King David's own actions when he and his companions ate the showbread in the temple on the Sabbath. Jesus pointed out that David's hunger and need justified his disobedience of the law, and therefore the disciples were also justified in satisfying their hunger on the Sabbath. By referring to this well-known biblical example, Jesus not only defended his disciples but also challenged the Pharisees' knowledge and understanding of the Scriptures, suggesting that they should have been familiar with this incident. Furthermore, Jesus highlighted the principle that acts of necessity do not violate the ceremonial laws when they do not infringe upon godliness. Thus, Jesus skillfully used David's actions to both defend his disciples and expose the Pharisees' legalistic mindset.",
+            "wordCount": 142,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.8932216213883304,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                22.96,
+                42.19,
+                34.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus defended his disciples' actions of plucking grain on the Sabbath by referring to King David's similar act of eating the showbread in the temple due to hunger. He highlighted how David's necessity justified his violation of the law, and therefore, the disciples were also justified in satisfying their hunger on the Sabbath. By invoking this well-known biblical example, Jesus challenged the Pharisees' knowledge of the Scriptures and emphasized the principle that acts of necessity do not violate ceremonial laws as long as they do not compromise godliness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0001996900364487,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                22.06,
+                41.32,
+                36.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus defended his disciples' actions of plucking grain on the Sabbath by using the example of King David eating the showbread in the temple due to hunger. He argued that David's necessity justified his violation of the law, just as the disciples' hunger justified their actions. By appealing to this familiar biblical story, Jesus challenged the Pharisees' knowledge and understanding of the Scriptures and highlighted the principle that acts of necessity do not violate ceremonial laws if they do not compromise godliness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.977324759996627,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                22.42,
+                40.54,
+                37.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus defended his disciples' actions of plucking grain on the Sabbath by invoking the example of King David eating the showbread in the temple due to hunger. He argued that David's necessity justified his violation of the law, just as the disciples' hunger justified their actions. Jesus challenged the Pharisees' knowledge of the Scriptures, suggesting that they should have been familiar with this incident. Ultimately, Jesus highlighted the principle that acts of necessity do not violate ceremonial laws when they do not compromise godliness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9080188328400582,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                21.48,
+                41.24,
+                37.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus justified his disciples' action of plucking grain on the Sabbath by invoking the example of King David eating the showbread in the temple when he was hungry. He argued that David's necessity allowed him to break the law, just as the disciples' hunger excused their behavior. Jesus called attention to the Pharisees' ignorance of the Scriptures, implying that they should have known about this incident. Ultimately, Jesus emphasized that acts of necessity do not violate ceremonial laws as long as they do not compromise godliness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9047623027228584,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                21.09,
+                39.7,
+                39.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

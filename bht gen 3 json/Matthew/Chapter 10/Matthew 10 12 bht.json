@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:45:56",
+    "verseRef": "Matthew 10:12",
+    "bestBHT": {
+        "bht": "When entering a house, one should extend the usual civilities as a sign of respect. As you enter, simultaneously offer your salutations, which act as an opening to a conversation and a test of the house's worthiness. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.3005995108508306,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+        "commentatorTierSimilarities": [
+            25.0,
+            28.64,
+            46.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "12. And when ye come into an",
+            "\thouse\u2014or \"the house,\" but it means not the worthy",
+            "\thouse, but the house ye first enter, to try if it be worthy. ",
+            "\t",
+            "salute it\u2014show it the",
+            "\tusual civilities."
+        ],
+        "Marvin Vincent": [
+            "The Greek indicates more distinctly the simultaneousness of the entrance and the salutation: as ye are entering.",
+            "Rev., as ye enter.",
+            "So of the departure, as ye are going forth."
+        ],
+        "John Calvin": [
+            "The act of saluting is a kind of opening to a conversation.",
+            "Make trial, when you first enter, whether your entertainers will cheerfully submit to hear you.",
+            "If any shall reject, depart from them immediately, and, so far as lies in your power, withdraw your salutation."
+        ],
+        "Philip Schaff": [
+            "The house\u2019 they might enter, whether it was the house of one really worthy was to be tested.\" ",
+            "Conformity to proper social customs, without official pride, with an immediate and friendly recognition of the expected hospitality.\" ",
+            "Irrespective of the worthiness or unworthiness of the host."
+        ],
+        "John Gill": [
+            "Peace be to this house.\" ",
+            "A very just and proper explanation of saluting.\" ",
+            "By which is meant all kind of happiness and prosperity."
+        ],
+        "John Wesley": [
+            "Salute it \u2014 In the usual Jewish form, \"Peace (that is, all blessings) be to this house."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When entering a house, it is important to show the customary greetings as a sign of respect. As soon as you enter, extend your salutations, as it should be done simultaneously. These salutations act as an opening to a conversation and serve as a test to see if the house is worthy of your stay. It is irrelevant whether the host is deserving or not, as it is about conforming to social customs and showing friendliness. The salutation of Peace be to this house implies a desire for happiness and prosperity for the household. However, if they reject you, withdraw your salutation and depart from them immediately.",
+            "wordCount": 107,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.2909637429798209,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.27,
+            "commentatorTierSimilarities": [
+                24.07,
+                35.43,
+                40.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When entering a house, one should extend the usual civilities as a sign of respect. As you enter, simultaneously offer your salutations, which act as an opening to a conversation and a test of the house's worthiness. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.3005995108508306,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                25.0,
+                28.64,
+                46.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When entering a house, it is customary to extend salutations as a sign of respect. The salutations should be offered simultaneously upon entering. This serves as a test to determine if the house is worthy of your stay. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject you, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.2644422213718003,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+            "commentatorTierSimilarities": [
+                26.01,
+                29.97,
+                44.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When entering a house, it is customary to show the usual civilities by extending salutations. These salutations should be offered simultaneously upon entering. It is a way to make trial and test the worthiness of the house. The act of saluting serves as an opening to a conversation, determining if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.2331975759201992,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.35,
+            "commentatorTierSimilarities": [
+                24.81,
+                30.13,
+                45.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When entering a house, it is customary to show respect by extending salutations. These salutations should be offered simultaneously upon entering, as a way to make trial and test the worthiness of the house. The act of saluting serves as an opening to a conversation, determining if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2848361111069955,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.06,
+            "commentatorTierSimilarities": [
+                24.14,
+                30.24,
+                45.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

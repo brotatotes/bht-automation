@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:52:04",
+    "verseRef": "Matthew 23:15",
+    "bestBHT": {
+        "bht": "The Pharisees went to great lengths to make proselytes from heathenism, but these converts were doubly condemned. They were neither sincere heathens nor sincere Jews, but disciples of hypocrisy. The Pharisees' missionary efforts focused on external forms and rituals, failing to provide true conversion. Their zealousness only intensified the condemnation, making the proselytes twofold more the child of hell than themselves. Instead of leading them to genuine faith, the Pharisees misled them and left them with no restraint against their vices.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.0340107292607446,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+        "commentatorTierSimilarities": [
+            37.27,
+            37.75,
+            24.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was their work of supererogation\u2014not commanded them, nor in the spirit of their law.",
+            "The Lord speaks not here of those pious Godfearing men, who were found dwelling among the Jews, favouring and often attending their worship\u2014but of the proselytes of righteousness, so called, who by persuasion of the Pharisees, took on them the whole Jewish law and its observances.",
+            "For what could such a proselyte, made by such teachers, become? A disciple of hypocrisy merely\u2014neither a sincere heathen nor a sincere Jew\u2014doubly the child of hell: condemned by the religion which he had left\u2014condemned again by that which he had taken."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte\u2014from heathenism.",
+            "and when he is made, ye make him twofold more the child of hell than yourselves\u2014condemned, for the hypocrisy he would learn to practice, both by the religion he left and that he embraced.",
+            "condemned, for the hypocrisy he would learn to practice."
+        ],
+        "Albert Barnes": [
+            "Ye compass sea and land - You take every means, spare no pains, to gain proselytes.",
+            "Twofold more the child of hell - That is, twice as bad.",
+            "The Pharisees gained them... but the Pharisees had given them no religion in its place to restrain them, and they were consequently left to the full indulgence of their vices."
+        ],
+        "John Calvin": [
+            "Christ declares, on the contrary, that so far is this zeal from deserving applause, that they more and more provoke the vengeance of God, because they bring under heavier condemnation those who devote themselves to their sect.",
+            "We ought to observe how corrupt their condition at that time was, and what confusion existed in religion; for as it was a holy and excellent work to gain disciples to God, so to allure the Gentiles to the Jewish worship...was nothing else than to hurry them from Scylla to Charybdis.",
+            "Yet the monk\u2019s habit is a very suitable mantle for concealing enormities of every description."
+        ],
+        "Philip Schaff": [
+            "A proselyte of righteousness was really 'neither a sincere heathen nor a sincere Jew.' The law could only proselyte, it could not convert.",
+            "\u2018Proselytes\u2019 generally become more extreme than their teachers. In this case they would become Pharisees, rather than Jews, lacking even the remnant of good in their teachers. The usual result of sectarian zeal; for men are more easily perverted than converted; perverts are more violently zealous than converts; able to receive only the external forms, they attach to these the greater importance.",
+            "Real missionary effort was contrary to the spirit of the Pharisees, indicating too high an estimate of the Gentiles. Judaism was designed to diffuse certain religious ideas throughout the world, not to convert the world to Judaism."
+        ],
+        "Archibald T. Robertson": [
+            "Twofold more a son of hell than yourselves.\" ",
+            "A very small per cent of [proselytes] became Pharisees.",
+            "The more converted the more perverted."
+        ],
+        "John Gill": [
+            "Ye compass sea and land to make one proselyte; that is, to the Jewish religion, and their particular sect.\" ",
+            "This affair was moved after our Lord's time; was not a settled point till a good while after.",
+            "And when he is made, ye make him two fold more the child of hell than yourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees were zealous in converting people to their sect, going to great lengths to make proselytes from heathenism. However, these proselytes, who took on the Jewish law and observances under the influence and persuasion of the Pharisees, became double condemned. They were neither sincere heathens nor sincere Jews, but disciples of hypocrisy\u2014a small percentage of them actually becoming Pharisees themselves. The Pharisees' missionary efforts were misguided, as they focused on external forms and rituals, failing to provide a true conversion or restrain the vices of the proselytes. In their zeal, the Pharisees compass sea and land to make proselytes, but instead of leading them to genuine faith, they only intensified their condemnation, making them twofold more the child of hell than themselves.",
+            "wordCount": 124,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 2.1356654316460855,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                36.02,
+                37.46,
+                26.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees were relentless in converting individuals to their sect, making proselytes from heathenism. However, these proselytes, influenced by the Pharisees, became doubly condemned. Neither true heathens nor genuine Jews, they were merely disciples of hypocrisy. Some of the proselytes even became Pharisees themselves, but only a small percentage. The Pharisees' zeal in making proselytes was misguided, as they neglected true conversion and failed to restrain the vices of these converts. They hastily moved people from one form of condemnation to another.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.923880750404472,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                39.02,
+                35.75,
+                25.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees went to great lengths to make proselytes from heathenism, but these converts were doubly condemned. They were neither sincere heathens nor sincere Jews, but disciples of hypocrisy. The Pharisees' missionary efforts focused on external forms and rituals, failing to provide true conversion. Their zealousness only intensified the condemnation, making the proselytes twofold more the child of hell than themselves. Instead of leading them to genuine faith, the Pharisees misled them and left them with no restraint against their vices.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0340107292607446,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                37.27,
+                37.75,
+                24.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees exerted great effort in making proselytes from heathenism, but these converts became doubly condemned, being neither sincere heathens nor genuine Jews. The Pharisees' zealousness in gaining proselytes was misguided, as it focused on external forms and rituals rather than true conversion. This zeal often resulted in the proselytes becoming even more zealous, attached only to external practices and lacking the remnant of good in their teachers. The Pharisees' missionary activities demonstrated a lack of concern for genuine faith and instead only intensified condemnation for those they reached.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.9482956947681016,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                34.2,
+                40.72,
+                25.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees were zealous in their mission to gain proselytes from heathenism, going to great lengths to convert them to the Jewish religion. However, these converts, under the influence of the Pharisees, became doubly condemned. They were not sincere heathens nor genuine Jews, but rather disciples of hypocrisy. The Pharisees' efforts to make proselytes focused on external practices and rituals, failing to bring about true conversion. Instead of a genuine faith, their zealousness only intensified the condemnation for those they reached.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9842809344548105,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                36.18,
+                36.73,
+                27.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

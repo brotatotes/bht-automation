@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:43:19",
+    "verseRef": "Matthew 4:19",
+    "bestBHT": {
+        "bht": "Andrew and Simon, who were fishermen by trade, responded promptly to Jesus' call to leave their business and become His disciples. They would now become fishers of men, raising their mission from a lower to a higher level. Their new role involved not only having faith but also engaging in labor, suffering, and cross-bearing. The power of Jesus, rather than their own abilities, would enable them to fulfill their noble purpose of catching the souls of both Jews and Gentiles and leading them to conversion and faith.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.5977735960176536,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+        "commentatorTierSimilarities": [
+            32.77,
+            35.28,
+            31.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Come ye after Me.",
+            "I will make you fishers of men.",
+            "Raising them from a lower to a higher fishing."
+        ],
+        "Albert Barnes": [
+            "Fishers of men - Ministers or preachers of the gospel, whose business it shall be to win souls to Christ."
+        ],
+        "Philip Schaff": [
+            "The call of Jesus to follow Him, 1. A call to faith; 2. A call to labor; 3. A call to suffering and cross-bearing; 4. A call to our blessed home.\" ",
+            "His power, not their ability, made them what they became.\" ",
+            "Let no one assume to be independent of others in any good work."
+        ],
+        "Archibald T. Robertson": [
+            "Fishers of men. Andrew and Simon were fishers by trade.",
+            "They had already become disciples of Jesus, but now they are called upon to leave their business and to follow Jesus in his travels and work.",
+            "These two brothers promptly accepted the call and challenge of Jesus."
+        ],
+        "John Gill": [
+            "And he saith unto them, follow me... be a disciple of mine.",
+            "You shall be fishers still, but in a higher sense; and in a far more noble employment, and to much better purpose.",
+            "The fish they were to catch were the souls of men, both among Jews and Gentiles; of whose conversion and faith they were to be the happy instruments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus called Andrew and Simon, two fishermen by trade, to follow Him and become fishers of men. The call to leave their business and become disciples of Jesus was promptly accepted. As ministers of the gospel, their mission was to win souls to Christ. This call was not just to have faith, but also to labor, suffer, and bear the cross. Their transformation from fishermen to disciples was not because of their abilities, but because of the power of Jesus. It is important for us to recognize our dependence on others in our work for God. The souls they were to catch were of great significance, both among Jews and Gentiles, and their conversion and faith would be the result of their noble and purposeful work.",
+            "wordCount": 126,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.5654869821112203,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                30.0,
+                38.81,
+                31.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Promptly accepting Jesus' call to leave their fishing business and become his disciples, Andrew and Simon were transformed from fishermen to fishers of men. As ministers of the gospel, their mission was to win souls to Christ, relying on his power rather than their own abilities. This call involved not only faith but also labor, suffering, and cross-bearing. Recognizing their dependence on others in doing good work, they would have the noble and purposeful task of catching the souls of both Jews and Gentiles, bringing about their conversion and faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.5794816127293032,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                26.41,
+                42.34,
+                31.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus called Andrew and Simon, two fishermen, to follow Him and become fishers of men. Promptly accepting the call, they left their business behind. As ministers of the gospel, their mission was to win souls to Christ. This involved not only having faith, but also labor, suffering, and cross-bearing. Their transformation was due to the power of Jesus, not their own abilities. They recognized the importance of relying on others in doing good work. Their noble and purposeful task was to catch the souls of both Jews and Gentiles, leading to their conversion and faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.373114483958029,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                28.22,
+                41.25,
+                30.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus called Andrew and Simon, two fishermen, to follow Him and become fishers of men. They promptly accepted the call, leaving their business behind. As ministers of the gospel, their mission was to win souls to Christ. Their transformation was due to the power of Jesus, not their own abilities. They recognized the importance of relying on others in doing good work. Their noble and purposeful task was to catch the souls of both Jews and Gentiles, leading to their conversion and faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4407694092965566,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                29.95,
+                40.2,
+                29.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Andrew and Simon, who were fishermen by trade, responded promptly to Jesus' call to leave their business and become His disciples. They would now become fishers of men, raising their mission from a lower to a higher level. Their new role involved not only having faith but also engaging in labor, suffering, and cross-bearing. The power of Jesus, rather than their own abilities, would enable them to fulfill their noble purpose of catching the souls of both Jews and Gentiles and leading them to conversion and faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5977735960176536,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+            "commentatorTierSimilarities": [
+                32.77,
+                35.28,
+                31.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

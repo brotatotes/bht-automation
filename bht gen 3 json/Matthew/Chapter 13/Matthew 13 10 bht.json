@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:41",
+    "verseRef": "Matthew 13:10",
+    "bestBHT": {
+        "bht": "During a pause in His teaching, the disciples asked Jesus why He spoke to the people in parables, as this method was new to them. Although Jesus had used parables before, it seems that He now formally employed this method for the first time. The disciples were already puzzled over the meaning of this parable, and Jesus, being accustomed to questions, surpassed all teachers in His replies. While the disciples questioned the purpose of using parables, Jesus knew that this manner of speaking had greater energy and force, making the figurative discourse more powerful and clear.",
+        "wordCount": 96,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 2.059826939471008,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+        "commentatorTierSimilarities": [
+            44.76,
+            30.28,
+            24.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This question took place during a pause in our Lord\u2019s teaching, not when He had entered the house, ver. 36.",
+            "The question shews the newness of this method of teaching to the disciples.",
+            "The answer implies it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why speakest thou to them in parables?",
+            "Though before this He had couched some things in the parabolic form, for more vivid illustration",
+            "It would appear that He now, for the first time, formally employed this method of teaching."
+        ],
+        "John Calvin": [
+            "Now though parables are generally found to illustrate the subject of which they treat, yet the uninterrupted course of a metaphor may lead to obscurity.",
+            "But now that the exposition is added, the figurative discourse has greater energy and force than if it had been simple: by which is meant, that it is not only fitted to produce a more powerful impression on the mind, but is also more clear.",
+            "So highly important is the manner in which any thing is said."
+        ],
+        "Philip Schaff": [
+            "The disciples, more than the Twelve.",
+            "Evidently this method of instruction had not been used by our Lord to any great extent before this discourse.",
+            "Mark and Luke omit the question."
+        ],
+        "Archibald T. Robertson": [
+            "Why speakest thou unto them in parables?\" - The disciples are puzzled over the reason for giving them to the people.",
+            "Already the disciples are puzzled over the meaning of this parable\" - The disciples are already puzzled over the meaning of this parable.",
+            "Jesus was used to questions and surpassed all teachers in his replies\" - Jesus surpassed all teachers in his replies, being accustomed to questions."
+        ],
+        "John Gill": [
+            "Why speakest thou unto them in parables?",
+            "Not that this way of speaking was new and surprising to them",
+            "Hoping to be favoured with the meaning of it"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During a pause in His teaching, the disciples asked Jesus why He spoke to the people in parables, as this method was new to them. Although Jesus had used parables before for vivid illustration, it seems that He now formally employed this method for the first time. The disciples were already puzzled over the meaning of this parable, and Jesus, being accustomed to questions, surpassed all teachers in His replies. While the disciples questioned the purpose of using parables, Jesus knew that this manner of speaking had greater energy and force, as the added exposition made the figurative discourse more powerful and clear. The disciples were hopeful to be favored with the explanation of the parables.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.0180631148570307,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                44.03,
+                29.94,
+                26.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During a pause in His teaching, the disciples asked Jesus why He spoke to the people in parables, as this method was new to them. Although Jesus had used parables before, it seems that He now formally employed this method for the first time. The disciples were already puzzled over the meaning of this parable, and Jesus, being accustomed to questions, surpassed all teachers in His replies. While the disciples questioned the purpose of using parables, Jesus knew that this manner of speaking had greater energy and force, making the figurative discourse more powerful and clear.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.059826939471008,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                44.76,
+                30.28,
+                24.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During a pause in His teaching, the disciples wondered why Jesus spoke to the people in parables, as this was a new method to them. Jesus had used parables before for vivid illustration, but it seems He now formally employed this approach for the first time. The disciples were already puzzled by the meaning of the parable, and Jesus, skilled in answering questions, surpassed all other teachers. While the disciples questioned the purpose of parables, Jesus knew that this manner of speaking had greater energy and clarity with the added exposition.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.958380337431858,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                44.86,
+                30.21,
+                24.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During a pause in His teaching, the disciples asked Jesus why He used parables to speak to the people, as this was a new method for them. Although Jesus had previously used parables for vivid illustration, it seemed that He now formally employed this teaching style. The disciples were already puzzled by the meaning of the parable, and Jesus, accustomed to answering questions, surpassed all other teachers in His replies. While the disciples questioned the purpose of using parables, Jesus knew that this manner of speaking had greater energy and clarity, especially with the added exposition.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0018733133859,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                45.62,
+                29.56,
+                24.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a pause in His teaching, the disciples questioned Jesus about His use of parables, perplexed by this new method of instruction. Although Jesus had employed parables before, it appears that He now formally embraced this teaching style. The disciples were already puzzled by the meaning of the parable, but Jesus, skilled in answering queries, surpassed all other teachers with His responses. While the disciples were unsure about the purpose of using parables, Jesus recognized that this manner of speaking carried greater impact and clarity, especially when accompanied by additional explanations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9208646820320232,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                45.91,
+                30.1,
+                23.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

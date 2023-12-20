@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:45:02",
+    "verseRef": "Matthew 7:22",
+    "bestBHT": {
+        "bht": "On the great day of the Lord, there will be astonishment as many people who thought they were known by the Lord will be disowned. Their self-conceit and self-deception will be revealed, showing that worldly success is not a measure of one's knowledge of Christ. Jesus will openly profess their doom, emphasizing that even those who prophesied and performed miracles may not have saving faith. It is a sobering reminder that our works and external results do not guarantee salvation, as only true knowledge and relationship with Christ can.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.8888267401517358,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+        "commentatorTierSimilarities": [
+            29.79,
+            36.14,
+            34.06
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in that day... the great day of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What, Lord? How is this? Are we to be disowned?",
+            "In this sense it is used here, as appears from what follows.",
+            "And the threefold repetition of the question, each time in the same form, expresses in the liveliest manner the astonishment of the speakers at the view now taken of them."
+        ],
+        "Albert Barnes": [
+            "In that day - That is, in the last day, the day of judgment; the time when the principles of all pretenders to prophecy and piety shall be tried."
+        ],
+        "Marvin Vincent": [
+            "Have we not [\u03bf\u03c5]... surely we have prophesied,\" etc.",
+            "That form of the negative is used which expects an affirmative answer.",
+            "It therefore pictures both the self - conceit and the self - deception of these persons."
+        ],
+        "John Calvin": [
+            "He therefore declares, that a day is coming, when he will cleanse his barn, and separate the chaff and straw from the pure wheat.",
+            "To prophesy in the name of Christ is, to discharge the office of teacher by his authority, and, as it were, under his direction.",
+            "To do wonderful works in the name of Christ is nothing else than to perform miracles by his power, authority, command, and direction."
+        ],
+        "Philip Schaff": [
+            "The number of \u2018false teachers\u2019 is large, much more that of hypocrites.",
+            "The confession (Matthew 7:21) now becomes a cry for help.",
+            "Judged by external results hypocrites may appear successful in spiritual works; such may have shared in the miraculous power of the early Church. Their self-deception continues to the very bar of final judgment."
+        ],
+        "Archibald T. Robertson": [
+            "I never knew you\" - Success, as the world counts it, is not a criterion of one's knowledge of Christ and relation to him.",
+            "I will profess unto them\" - This word Jesus will use for public and open announcement of their doom.",
+            "I was never acquainted with you\" - Success, as the world counts it, is not a criterion of one's knowledge of Christ and relation to him."
+        ],
+        "John Gill": [
+            "Many, not of the common people only, but of the preachers of the word, who have filled up the highest station in the church below; not one, or two, or a few of them only, but many of them 'will say to me'; to Christ, who will appear then as the judge of quick and dead.",
+            "An awful consideration it is, that men should be able to cast out devils, and at last be cast to the devil.",
+            "Indeed, the things they instance in, are the greatest done among men; the gifts they had were the most excellent, excepting the grace of God; the works they did were of an extraordinary nature; whence it follows, that there can be no salvation, nor is it to be expected from men's works."
+        ],
+        "John Wesley": [
+            "We have prophesied.",
+            "In thy name done many wonderful works.",
+            "Even the working of miracles is no proof that a man has saving faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the great day of the Lord, there will be astonishment as many people who thought they were known by the Lord will be disowned. Their self-conceit and self-deception will be revealed, showing that worldly success is not a measure of one's knowledge of Christ. Jesus will openly profess their doom, emphasizing that even those who prophesied and performed miracles may not have saving faith. It is a sobering reminder that our works and external results do not guarantee salvation, as only true knowledge and relationship with Christ can.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.8888267401517358,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                29.79,
+                36.14,
+                34.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the day of judgment, the Lord will disown those who thought they were known by Him, revealing their self-conceit and self-deception. Success in the eyes of the world is not indicative of one's knowledge of Christ. Jesus will openly announce their doom, emphasizing that even those who prophesied and performed miracles may lack saving faith. It serves as a stark reminder that our works and external accomplishments do not guarantee salvation, as genuine knowledge and relationship with Christ are what truly matter.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8845757765433975,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                29.07,
+                38.32,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On that day, the great day of the Lord, there will be astonishment as those who thought they were known by Him will be disowned. This threefold repetition of questioning expresses the speakers' disbelief at how they are viewed. Their self-conceit and self-deception will be exposed, showing that worldly success is no measure of one's knowledge of Christ. Jesus will publicly pronounce their doom, stressing that miracles and prophesying alone do not indicate saving faith. It's a reminder that true knowledge and relationship with Christ are what truly matter for salvation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.8070287968916805,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                34.3,
+                35.97,
+                29.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the day of judgment, there will be astonishment as those who thought they were known by God will be disowned. The repetition of the question emphasizes the speakers' surprise at the view taken of them. Their self-conceit and self-deception will be exposed, showing that worldly success is not indicative of one's knowledge and relationship with Christ. Jesus will publicly declare their doom, highlighting that even prophesying and performing miracles do not guarantee salvation. It is a sobering reminder that true knowledge and connection with Christ are what truly matter.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7283717881915064,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                31.1,
+                39.13,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day of judgment, there will be astonishment as those who thought they were known by the Lord will be disowned, revealing their self-conceit and self-deception. The repetition of the question vividly expresses the speakers' disbelief. Worldly success does not measure one's knowledge of Christ. Jesus will openly announce their doom, emphasizing that even those who prophesied and performed miracles may lack saving faith. It is a clear reminder that salvation is not achieved through works alone, but through a genuine knowledge and relationship with Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7670937154107613,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                29.96,
+                37.89,
+                32.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:50:45",
+    "verseRef": "Matthew 21:24",
+    "bestBHT": {
+        "bht": "In response to their question about his authority, Jesus challenges the religious leaders: I will ask you one thing. The answer to his question will reveal the answer to their query. Just as John's authority came from God, so does Jesus' authority. By asking about John's authority, Jesus prompts them to consider its origin. Was it from heaven or from men? This question ultimately points to Jesus as the Christ, as John testified to his identity.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.9,
+        "qualityScore": 1.5389433321799841,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+        "commentatorTierSimilarities": [
+            37.93,
+            20.82,
+            41.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "24. And Jesus answered and said unto",
+            "\tthem, I also will ask you one thing, &amp;c."
+        ],
+        "Philip Schaff": [
+            "Our Lord places His authority and that of John together.",
+            "If they were incompetent to decide in the one case, they were in the other.",
+            "The opportunity to decide aright was given them, but they refused it."
+        ],
+        "Archibald T. Robertson": [
+            "The answer to Christ's word will give the answer to their query.",
+            "The only human ecclesiastical authority that Jesus had came from John."
+        ],
+        "John Gill": [
+            "I also will ask you one thing, word, or question, which if ye tell me; honestly, and plainly answer to it, I likewise will tell you by what authority I do these things.\" ",
+            "Christ promises, that if they would return a plain answer to the question he had to put to them, and which was no unreasonable, nor impertinent one, he would thoroughly satisfy them in this point.",
+            "He would expressly declare his commission and authority, what it was, and from whence he had it."
+        ],
+        "John Wesley": [
+            "Who have asked me many: The baptism, that is, the whole ministry of John, was it from heaven or from men?",
+            "By what authority did he act and teach? Did man or God give him that authority? Was it not God?",
+            "But if so, the consequence was clear. For John testified that Jesus was the Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In response to their question about his authority, Jesus challenges the religious leaders: I will ask you one thing. The commentators suggest that Jesus' answer to their word will give the answer to their query. They emphasize that Jesus' authority, similar to John's, is not of human origin, but from God. By asking them about John's authority, Jesus invites them to consider whether it came from heaven or from men. Ultimately, the question about John's authority also points to Jesus as the Christ, as John testified to his identity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6400449758811457,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                39.16,
+                20.36,
+                40.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In response to their question about his authority, Jesus challenges the religious leaders: I will ask you one thing. The answer to his question will reveal the answer to their query. Just as John's authority came from God, so does Jesus' authority. By asking about John's authority, Jesus prompts them to consider its origin. Was it from heaven or from men? This question ultimately points to Jesus as the Christ, as John testified to his identity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5389433321799841,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                37.93,
+                20.82,
+                41.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to their question about his authority, Jesus challenges the religious leaders: I will ask you one thing. The commentators emphasize that Jesus' answer will give the answer to their query. Jesus' authority, like John's, is not from humans, but from God. By asking about John's authority, Jesus prompts them to consider its origin. Was it from heaven or from men? Ultimately, this question points to Jesus as the Christ, as John testified to his identity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.5415035386163014,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.6,
+            "commentatorTierSimilarities": [
+                39.11,
+                19.25,
+                41.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to their question about his authority, Jesus challenges the religious leaders: I will ask you one thing. The commentators emphasize that Jesus' answer will give the answer to their query. Jesus' authority, similar to John's, is not of human origin but from God. By asking about John's authority, Jesus urges them to consider its source. Was it from heaven or from men? Through this inquiry, Jesus subtly reveals that John testified to his identity as the Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.502654759627771,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                38.82,
+                19.4,
+                41.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When questioned about his authority, Jesus responds, I will ask you one thing. The answer to his question aligns with their query. Jesus and John share an authority that comes not from humans, but from God. By inquiring about John's authority, Jesus prompts them to consider its divine origin. Was it heavenly or human? Through this question, Jesus subtly reveals that John testified to his identity as the Christ.",
+            "wordCount": 70,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.5091683596211616,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                38.69,
+                21.83,
+                39.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

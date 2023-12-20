@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:54:08",
+    "verseRef": "Matthew 27:4",
+    "bestBHT": {
+        "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas made a confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself. The sentiment is that of Cain. Judas not only confesses that he has sinned, but asserts the innocence of Christ; from which it follows that they were guilty of a detestable murder.",
+        "wordCount": 95,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 2.0308344588185943,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+        "commentatorTierSimilarities": [
+            44.49,
+            26.47,
+            29.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What a testimony this to Jesus!",
+            "Guilty or innocent is nothing to us: We have Him now\u2014begone!",
+            "Was ever speech more hellish uttered?"
+        ],
+        "Albert Barnes": [
+            "In that I have betrayed the innocent blood - That is, in betraying an innocent being to death. Blood is put here for 'life,' or for the 'man.'",
+            "His testimony, being a disciple of Jesus, would have been to the chief priests far more valuable than that of any other man; and he might not only have escaped the horrors of a troubled conscience and an awful death, but have looked for an ample reward.",
+            "So all wicked men who make use of the agency of others for the accomplishment of crime or the gratification of passion care little for the effect on the instrument. They will soon cast him off and despise him, and in thousands of instances the instruments of villainy and the panders to the pleasures of others are abandoned to remorse, wretchedness, crime, and death."
+        ],
+        "John Calvin": [
+            "Here is described the stupidity and madness of the priests, since even after having been warned by the dreadful example of Judas, still they do not think about themselves.",
+            "Judas not only confesses that he has sinned, but asserts the innocence of Christ; from which it follows, that they had meditated the death of a righteous man, and, therefore, that they were guilty of a detestable murder.",
+            "Let us therefore learn, that when we see wicked persons, with whom we have any thing in common, filled with alarm, those are so many excitements to repentance."
+        ],
+        "Philip Schaff": [
+            "Although Judas had no real conception of the sinfulness of sin, his feeling was intense.",
+            "Fearful sorrow for the consequences of sin may coexist with entire sinfulness.",
+            "Tools of crime are lightly thrown away after the crime. The rulers have no remorse."
+        ],
+        "Archibald T. Robertson": [
+            "Judas made a belated confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus.",
+            "The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself.",
+            "The sentiment is that of Cain."
+        ],
+        "John Gill": [
+            "Here was a confession, and yet no true repentance; for he confessed, but not to the right persons; not to God, nor Christ, but to the chief priests and elders.",
+            "He knew, and believed in his own conscience, that he was a good man, and a righteous and innocent one: and what he here says is a testimony of Christ's innocence.",
+            "They knew that he was a blasphemer, and deserving of death; and whatever opinion he had of him, it had no weight with them, who should proceed against him as an evildoer, let him think or say what he would to the contrary."
+        ],
+        "John Wesley": [
+            "How easily could they digest innocent blood!",
+            "And yet they had a conscience!",
+            "It is not lawful (say they) to put it into the treasury - But very lawful to slay the innocent!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas made a belated confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself. The sentiment is that of Cain. In that I have betrayed the innocent blood - That is, in betraying an innocent being to death. His testimony, being a disciple of Jesus, would have been to the chief priests far more valuable than that of any other man; and he might not only have escaped the horrors of a troubled conscience and an awful death, but have looked for an ample reward.",
+            "wordCount": 134,
+            "quoteTokenProportion": 50.63,
+            "qualityScore": 2.0284456395081456,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                41.99,
+                30.16,
+                27.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas made a belated confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself. The sentiment is that of Cain. Judas not only confesses that he has sinned, but asserts the innocence of Christ; from which it follows, that they had meditated the death of a righteous man, and, therefore, that they were guilty of a detestable murder.",
+            "wordCount": 108,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 2.0286649552639053,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                43.96,
+                26.62,
+                29.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas made a confession of his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself. The sentiment is that of Cain. Judas not only confesses that he has sinned, but asserts the innocence of Christ; from which it follows that they were guilty of a detestable murder.",
+            "wordCount": 95,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 2.0308344588185943,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                44.49,
+                26.47,
+                29.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas confesses his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin ignore the innocent blood and tell Judas to look after his own guilt himself. The sentiment is that of Cain. Judas not only confesses his sin, but asserts the innocence of Christ, implying that they were guilty of a detestable murder.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.0025457987123656,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                44.56,
+                26.83,
+                28.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What a testimony this to Jesus! Guilty or innocent is nothing to us: We have Him now\u2014begone! Was ever speech more hellish uttered? Judas confesses his sin in betraying innocent blood to the Sanhedrin, but not to God, nor to Jesus. The Sanhedrin overlook the innocent blood and tell Judas to handle his own guilt. The sentiment is that of Cain. Judas not only confesses his sin, but also declares the innocence of Christ, making it clear that they were guilty of a detestable murder.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.9883510290045066,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                44.36,
+                27.08,
+                28.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

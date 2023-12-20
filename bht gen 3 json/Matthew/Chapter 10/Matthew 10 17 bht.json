@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:46:03",
+    "verseRef": "Matthew 10:17",
+    "bestBHT": {
+        "bht": "For the journey ahead, it is advised to have the wisdom of a serpent and the simplicity of a dove when facing external circumstances. The scourging mentioned here refers to a type of punishment inflicted in synagogues. So, one must not be na\u00efve, but rather, be prepared for the conflicts that may arise. However, they are reminded not to worry about how they will answer, as divine guidance will lead them.",
+        "wordCount": 71,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.6459422261008774,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+        "commentatorTierSimilarities": [
+            33.22,
+            32.63,
+            34.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The wisdom of the serpent is needed for this part of their course; the simplicity of the dove for the take not anxious thought...\" ",
+            "The but turns from the internal character to behaviour in regard of outward circumstances.",
+            "The scourging in the synagogues is supposed to have been inflicted by order of the Tribunal of Three, who judged in them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beware of men; for they will deliver you up to the councils.\" ",
+            "They will scourge you in their synagogues."
+        ],
+        "Albert Barnes": [
+            "Do not run unnecessarily into danger. Use suitable prudence and caution, and do not needlessly endanger your lives.",
+            "Scourging, or 'whipping,' is often mentioned in the New Testament as a mode of punishment.",
+            "Paul was five times scourged in this way."
+        ],
+        "Marvin Vincent": [
+            "Of men [\u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd] . Lit., \"the men,\" already alluded to under the term wolves."
+        ],
+        "John Calvin": [
+            "Christ desired that his disciples should foresee at a distance what would happen, that their minds might be early prepared for maintaining a conflict.",
+            "He warns them... that, as instructed and experienced masters, they might not scruple to yield themselves to heavenly guidance.",
+            "This means that the will of God must be proclaimed even to foreign princes, and to distant nations, that they may be without excuse."
+        ],
+        "Philip Schaff": [
+            "To \u2018beware\u2019 they must be \u2018wise.\u2019",
+            "Not needless suspicion but prudent discernment.",
+            "Human nature is selfish and intolerant, and slow to learn the lesson of mercy and charity."
+        ],
+        "Archibald T. Robertson": [
+            "Hold your mind (\u03bd\u03bf\u03c5\u03bd understood) away from."
+        ],
+        "John Gill": [
+            "But beware of men...who would seek all opportunities and occasions against them, and use their power and interest to do them hurt.",
+            "And they will deliver you up to the councils...and they will scourge you in their synagogues.",
+            "Now as this punishment was inflicted by the chazan, or minister of the synagogue, who was a sort of sexton, so it was done in the synagogue itself."
+        ],
+        "John Wesley": [
+            "But think not that all your innocence and all your wisdom will screen you from persecution.",
+            "They will scourge you in their synagogues.",
+            "Take no thought - Neither at this time, on any sudden call, need we be careful how or what to answer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is advised to have the wisdom of a serpent and the simplicity of a dove when facing external circumstances. There will be occasions when one must be cautious and discerning, for there are those who will betray and harm them. The scourging mentioned here refers to a type of punishment, often inflicted in synagogues. So, one must not be na\u00efve, but rather, be prepared for the conflicts that may arise. However, they are reminded not to worry about how they will answer, as divine guidance will lead them.",
+            "wordCount": 92,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.7087732422595083,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+            "commentatorTierSimilarities": [
+                30.02,
+                35.32,
+                34.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the journey ahead, it is crucial to embody both the wisdom of a serpent and the simple innocence of a dove. In this context, it is important to note that the scourging mentioned refers to a form of punishment carried out in synagogues. Therefore, caution is essential as there will be those who will betray and harm them. Despite the challenges, there is no need to worry about how to respond, as divine guidance will prevail.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.5423624221409389,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                30.15,
+                37.94,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For the journey ahead, it is advised to have the wisdom of a serpent and the simplicity of a dove when facing external circumstances. The scourging mentioned here refers to a type of punishment inflicted in synagogues. So, one must not be na\u00efve, but rather, be prepared for the conflicts that may arise. However, they are reminded not to worry about how they will answer, as divine guidance will lead them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.6459422261008774,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                33.22,
+                32.63,
+                34.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Jesus warns his disciples to be as wise as serpents and as innocent as doves. He cautions them to be mindful of the individuals who will deliver them up to councils and scourge them in synagogues. This persecution may seem intimidating, but Jesus advises his disciples to not be anxious about how to respond because the Holy Spirit will guide them. It is important for the disciples to exercise prudence and caution, without needlessly endangering their lives. They must be discerning and aware of the selfish and intolerant nature of human beings. Although they may face opposition, they should not doubt the power of the Gospel message that needs to be proclaimed to all, even foreign leaders and nations.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6440671465394372,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                25.14,
+                36.09,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus exhorts his disciples to possess the wisdom of the serpent and the innocence of the dove. He forewarns them about the deliverance to councils and the scourging in synagogues that they will face. However, they need not fret about their response, as the Holy Spirit will provide guidance. They should exercise prudence without needlessly endangering their lives, remaining cognizant of the selfish and intolerant nature of humanity. Despite the opposition, they should fearlessly proclaim the will of God, even to foreign leaders and nations, without apprehension.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.5763602232638283,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                28.43,
+                32.64,
+                38.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

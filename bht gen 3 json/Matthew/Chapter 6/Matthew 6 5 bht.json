@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:44:12",
+    "verseRef": "Matthew 6:5",
+    "bestBHT": {
+        "bht": "Jesus cautioned against praying in a manner that seeks public attention and praise, warning against the hypocrites who love to pray in synagogues and on street corners that they may be seen of men. While the standing posture in prayer was common, it was the inward motive of seeking approval that was condemned. Jesus emphasized that true prayer should be sincere and private, focusing on the relationship with God rather than the applause of others.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.271580547386045,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+        "commentatorTierSimilarities": [
+            43.82,
+            26.36,
+            29.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No stress must be laid on this word as implying ostentation; for it was the ordinary posture of prayer.\" ",
+            "The synagogues were places of prayer; so that, as Theophylact, it is not the place which matters, but the manner and intent.",
+            "The command in Mark (xi. 25) runs, 'when ye stand praying...'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when ye pray ye shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets\u2014that they may be seen of men.\" ",
+            "The standing posture in prayer was the ancient practice, alike in the Jewish and in the early Christian Church.\" ",
+            "But of course this conspicuous posture opened the way for the ostentatious."
+        ],
+        "Albert Barnes": [
+            "The Jews were much in the habit of praying in public places. At certain times of the day they always offered their prayers.\" (31 words)",
+            "Wherever they were, they suspended their employment and paid their devotions.\" (16 words)",
+            "It seems, also, that they sought publicity, and regarded it as proof of great piety.\" (16 words)"
+        ],
+        "John Calvin": [
+            "Christ does not withdraw us from such an exercise, but only admonishes us to have God always before our eyes when we engage in prayer.",
+            "We must not literally interpret the words, enter into thy closet: as if he ordered us to avoid the presence of men, or declared that we do not pray aright, except when there are no witnesses.",
+            "When Christ says, thy Father shall reward thee, he declares plainly that all the reward, which is promised to us in any part of Scripture, is not paid as a debt, but is a free gift."
+        ],
+        "Philip Schaff": [
+            "Prayerless men cannot consistently praise the Sermon on the Mount and the morality of Jesus of Nazareth.",
+            "No love to man without love to God.",
+            "Not posture and place, but spirit and motive are condemned."
+        ],
+        "Archibald T. Robertson": [
+            "In the synagogues and in the corners of the streets... These were the usual places of prayer... If the hour of prayer overtook a Pharisee here, he would strike his attitude of prayer like a modern Moslem that men might see that he was pious.\" "
+        ],
+        "John Gill": [
+            "They loved to be in the synagogues and streets, rather than in their closets; they liked public better than private prayer, because it gained them applause among men.",
+            "Verily I say unto you, they have their reward; they gain their point; they have what they seek for; and this is all they will have.",
+            "Neither the posture, nor places of prayer, are condemned by our Lord, but their view in all to be seen of men."
+        ],
+        "John Wesley": [
+            "The synagogues...were properly the places where the people assembled for public prayer, and hearing the Scriptures read and expounded.\" ",
+            "They were in every city from the time of the Babylonish captivity, and had service in them thrice a day on three days in the week.",
+            "But the word here...signifies any place of public concourse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus said, when ye pray ye shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets\u2014that they may be seen of men, he was warning against the ostentatious display of prayer. The standing posture in prayer was a common and accepted practice, but it was the insincere intentions of the hypocrites that Jesus condemned. They sought to be noticed and praised by others, rather than having a genuine connection with God. Jesus emphasized that it is not the posture or the place of prayer that matters, but the spirit and motive behind it. He urged his followers to prioritize a sincere and private relationship with God, rather than seeking applause from others.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.184535576765522,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                40.91,
+                28.46,
+                30.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus cautioned his followers not to pray like the hypocrites who love to pray publicly in synagogues and on street corners that they may be seen of men. While the standing posture in prayer was common, it was the insincere intention of seeking attention that Jesus condemned. He emphasized that the focus should not be on the outward posture or place of prayer, but on the genuine spirit and motive behind it. Jesus urged his disciples to prioritize a sincere and private connection with God, rather than seeking human approval.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.2360125443360843,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                42.94,
+                27.34,
+                29.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus cautioned against praying in a manner that seeks public attention and praise, warning against the hypocrites who love to pray in synagogues and on street corners that they may be seen of men. While the standing posture in prayer was common, it was the inward motive of seeking approval that was condemned. Jesus emphasized that true prayer should be sincere and private, focusing on the relationship with God rather than the applause of others.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.271580547386045,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+            "commentatorTierSimilarities": [
+                43.82,
+                26.36,
+                29.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warned against the insincere prayer of the hypocrites who love to pray in synagogues and on street corners that they may be seen of men. The standing posture in prayer was not the issue, but the intention of seeking public recognition. Jesus emphasized that authentic prayer is not about the outward appearance or location, but about the honest spirit and motive behind it. He urged his followers to prioritize a genuine and private connection with God, rather than seeking the approval of others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.195355560967182,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.34,
+            "commentatorTierSimilarities": [
+                43.12,
+                26.68,
+                30.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warned against the insincere prayer of the hypocrites who love to pray in synagogues and on street corners that they may be seen of men. The standing posture in prayer was not the issue, but the intention of seeking public recognition. Authentic prayer is not about the outward appearance or location, but about the honest spirit and motive behind it. Jesus urged his followers to prioritize a genuine and private connection with God, rather than seeking the approval of others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.1875322306649316,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.08,
+            "commentatorTierSimilarities": [
+                42.51,
+                27.29,
+                30.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

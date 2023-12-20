@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 23:51:07",
+    "verseRef": "Matthew 22:27",
+    "bestBHT": {
+        "bht": "A widow, who had never married another person but these seven brethren, becomes the subject of inquiry due to the similarity of the circumstances with each brother. The absence of any child between her and the brothers provokes a question, intensifying the complexity of the situation and the absence of a clear entitlement.",
+        "wordCount": 53,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.3612068854702488,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.6,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "A widow and childless, having never married another person but these seven brethren.",
+            "The case with them being alike, no one having any child by her, upon which any peculiar claim to her could be formed.",
+            "The following question is put."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 22:27, a widow is described who had been married to seven brothers successively, but never had children with any of them. This scenario is presented as a question to Jesus, highlighting the complex legal and social dilemma it poses. The situation is unique given that none of the brothers had any children with her, making it difficult for any of them to claim a particular right to her.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.1884758381923948,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this particular situation discussed in the Bible, there is a widow who had been previously married to seven brothers one after the other. What makes this case even more intricate is the fact that she did not have any children with any of them, which complicates matters regarding any exclusive claim to her. It is this unique circumstance that prompts the question that is posed in the passage.",
+            "wordCount": 69,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.153133545276637,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.69,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this specific biblical instance, a widow was married to seven brothers consecutively, without having children with any of them. Consequently, this raises a perplexing question about the legal and social implications of the situation. Since none of the brothers fathered a child with her, it becomes uncertain as to who can establish a distinct claim over her. Thus, the scenario presented to Jesus tackles this intricate predicament.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 0.9378911726647452,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.53,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 22:27, an intriguing scenario is presented where a widow had been married to seven brothers successively, yet never had any children with them, making it challenging for any of the brothers to establish a unique claim to her. This complex case prompts a thought-provoking question to Jesus, illuminating the legal and social implications entwined within it.",
+            "wordCount": 58,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 0.9881354924095305,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A widow, who had never married another person but these seven brethren, becomes the subject of inquiry due to the similarity of the circumstances with each brother. The absence of any child between her and the brothers provokes a question, intensifying the complexity of the situation and the absence of a clear entitlement.",
+            "wordCount": 53,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.3612068854702488,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

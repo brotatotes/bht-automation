@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:53:46",
+    "verseRef": "Matthew 26:55",
+    "bestBHT": {
+        "bht": "Jesus, when confronted by the chief priests and temple elders, clarifies that He is not a thief or robber, as their armed presence implies. He points out that He used to sit in the temple and teach, a stark contrast to criminal behavior. Despite His innocence, Jesus acknowledges that His arrest is part of God's plan, fulfilling the words of the prophets. In surrendering Himself, Jesus triggers the abandonment of the disciples. This confrontation highlights the striking contrast between Jesus, the peaceful teacher, and the armed group that comes to seize Him.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.5732655668020903,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+        "commentatorTierSimilarities": [
+            44.87,
+            26.07,
+            29.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Luke, here minutely accurate, informs us that it was to the chief priests and captains of the temple elders, that our Lord said this.\" ",
+            "In his submission to be reckoned among the transgressors, our Lord yet protests against any suspicion that He could act as such.",
+            "sat teaching is the greatest possible contrast to a thief and robber."
+        ],
+        "Marvin Vincent": [
+            "A thief. Better Rev., a robber.",
+            "It is more than a petty stealer; rather one with associates, who would require an armed band to apprehend him.",
+            "I sat. The imperfect tense, denoting something habitual. I was accustomed to sit."
+        ],
+        "John Calvin": [
+            "What necessity was there for making such a display of arms against me, as if your object had been to overcome some robber?",
+            "But I have always lived peaceably amongst you, and without using arms.",
+            "Yet, while he complains of their malice in violently rushing upon him, as if he were a seditious man, he again wounds their evil conscience by reminding them...with many marks of distrust."
+        ],
+        "Philip Schaff": [
+            "As against a robber, not \u2018a thief,\u2019 against whom no such display of force would be needed.",
+            "Sat. Unmolested and unlike a robber.",
+            "Not unobserved, so that you needed to seek me; nor yet riotous or robbing, as your present conduct implies."
+        ],
+        "Archibald T. Robertson": [
+            "He will be crucified between two robbers and on the very cross planned for their leader, Barabbas.",
+            "Jesus reminds them that he used to sit in the temple and teach. But he sees God's purpose in it all for the prophets had foretold his 'cup.'",
+            "The desertion of Jesus by the disciples followed this rebuke of the effort of Peter. Jesus had surrendered. So they fled."
+        ],
+        "John Gill": [
+            "Are ye come out as against a thief, with swords and staves, for to take me?",
+            "But how different from this, was the character of Jesus!",
+            "The business he was employed was not thieving and stealing, but teaching."
+        ],
+        "John Wesley": [
+            "Mark 14:48; Luke 22:52"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in Matthew 26:55, reflects on the events leading up to His arrest and crucifixion. He assures the chief priests and temple elders that He is not a robber or thief, as their armed presence suggests. Jesus remarks that He used to sit in the temple and teach, a stark contrast to the behavior of a criminal. Yet, despite His innocence, He acknowledges that this arrest is part of God's plan, foretold by the prophets. In surrendering Himself, Jesus initiates the disciples' desertion, highlighting the fulfillment of Scripture. This confrontation underscores the contrast between Jesus, the peaceful teacher, and the armed mob that comes to apprehend Him.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.5727628907845959,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                45.18,
+                23.97,
+                30.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in His response to the chief priests and temple elders, emphasizes that He is not a robber or thief. He points out that His habit was to sit in the temple and teach, which is a complete contradiction to the actions of a criminal. Jesus accepts His imminent arrest as part of God's plan, foretold by the prophets. This surrender leads to the disciples deserting Him. The encounter highlights the stark contrast between Jesus, the peaceful teacher, and the armed mob that comes to apprehend Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5584976817436704,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                46.77,
+                25.61,
+                27.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, when confronted by the chief priests and temple elders, clarifies that He is not a thief or robber, as their armed presence implies. He points out that He used to sit in the temple and teach, a stark contrast to criminal behavior. Despite His innocence, Jesus acknowledges that His arrest is part of God's plan, fulfilling the words of the prophets. In surrendering Himself, Jesus triggers the abandonment of the disciples. This confrontation highlights the striking contrast between Jesus, the peaceful teacher, and the armed group that comes to seize Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5732655668020903,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                44.87,
+                26.07,
+                29.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus distinguishes Himself from robbers and thieves when confronted by the chief priests and temple elders. He highlights His past habit of peacefully sitting in the temple and teaching, which sharply contrasts with criminal behavior. Jesus recognizes that His arrest is part of God's plan, fulfilling the prophecies of the prophets. His surrender leads to the desertion of His disciples. This encounter showcases the stark difference between Jesus, the gentle teacher, and the armed mob that comes to apprehend Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.4770930247870457,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                47.76,
+                22.3,
+                29.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, when faced with the chief priests and temple elders, disputes the notion that He is a thief or robber, as evidenced by their armed presence. Contrary to criminal behavior, He was accustomed to peacefully sitting in the temple and teaching. Jesus acknowledges that His arrest is part of God's plan, as foretold by the prophets. Consequently, His surrender prompts the disciples to flee. This confrontation underscores the stark contrast between Jesus, the peaceful teacher, and the armed group that comes to apprehend Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5727367058045916,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                44.72,
+                27.32,
+                27.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:46:45",
+    "verseRef": "Matthew 12:12",
+    "bestBHT": {
+        "bht": "A righteous person regards the life of their animal, so how much more should they value their fellow humans? Jesus, revealing His feelings, expresses grief along with His holy anger towards hardened hearts. Christian civilization must address the question of how human beings differ from sheep. The pettifogging Pharisees are left behind, immersed in trivial matters, while Jesus advocates for doing good and saving lives. Even on the Sabbath, it is important to prioritize acts of compassion and mercy towards both humans and animals.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.5138372938439082,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+        "commentatorTierSimilarities": [
+            35.92,
+            29.3,
+            34.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A righteous man regardeth the life of his beast\" (:-)...how much more his nobler fellow man!",
+            "Not to do good, when it is in the power of our hand to do it, is to do evil; not to save life, when we can, is to kill.",
+            "This is one of the very few passages in the Gospel history which reveal our Lord's feelings. How holy this anger was appears from the 'grief' which mingled with it at 'the hardness of their hearts.'"
+        ],
+        "Philip Schaff": [
+            "How much, then, is a man better than a sheep?",
+            "Our Lord recognizes the superiority of man, as well as the superior claims of humanity.",
+            "Hypocrites care more for ceremonies than for their cattle, and more for their cattle than for suffering humanity."
+        ],
+        "Archibald T. Robertson": [
+            "By how much does a human being differ from a sheep? That is the question which Christian civilization has not even yet adequately answered\" (Bruce).",
+            "The poor pettifogging Pharisees are left in the pit."
+        ],
+        "John Gill": [
+            "As a rational creature must be better, and more excellent, than an irrational one, more care is to be taken of, and more mercy shown unto, the one, than the other.",
+            "Even the health of a man is preferable to the life of a beast; and if it is lawful to give food to a beast, and make use of means for its relief, and for the lifting it up out of a ditch, when fallen into it on the Sabbath day, 'wherefore it is lawful to do well on the Sabbath days,' to men.",
+            "And if it was lawful to dig a man out of the snow, and do these several things for him on the Sabbath day, why not cure a man of a withered hand, and especially when done by a word speaking, and without any labor?"
+        ],
+        "John Wesley": [
+            "It is lawful to do good on the Sabbath day \u2014 To save a beast, much more a man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A righteous person values the life of their animal, so how much more should they care for their fellow human beings? Jesus, in this passage, reveals His righteous anger towards those who prioritize legalistic rituals over acts of compassion and mercy. Human beings are far more valuable than sheep, and yet society still struggles to properly prioritize and care for one another. The Pharisees, the ones who nitpick over the smallest details, are left behind, while Jesus advocates for doing good and saving lives, even on the Sabbath.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.6297553017956052,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                33.09,
+                31.78,
+                35.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A righteous person regards the life of their animal, so how much more should they value their fellow humans? Jesus, displaying His holy anger, grieves over the hardness of hearts. A rational creature is better than an irrational one, and thus greater care should be shown. The Pharisees, consumed with trivial matters, are left in the pit while Jesus emphasizes the importance of doing good and saving lives, even on the Sabbath. Society must learn to prioritize compassionate acts and care for one another.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.4079717851703426,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.16,
+            "commentatorTierSimilarities": [
+                34.32,
+                28.36,
+                37.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A righteous person regards the life of their animal, so how much more should they value their fellow humans? Jesus, displaying His holy anger, grieves over the hardness of hearts. A rational creature is better than an irrational one, and thus greater care should be shown. The Pharisees, consumed with trivial matters, are left in the pit. Jesus emphasizes the importance of doing good and saving lives, even on the Sabbath. Society must learn to prioritize compassionate acts and care for one another.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.3722431923327727,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.97,
+            "commentatorTierSimilarities": [
+                35.19,
+                26.53,
+                38.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A righteous person regards the life of their animal, so how much more should they value their fellow humans? Jesus, revealing His feelings, expresses grief along with His holy anger towards hardened hearts. Christian civilization must address the question of how human beings differ from sheep. The pettifogging Pharisees are left behind, immersed in trivial matters, while Jesus advocates for doing good and saving lives. Even on the Sabbath, it is important to prioritize acts of compassion and mercy towards both humans and animals.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.5138372938439082,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                35.92,
+                29.3,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A righteous person regards the life of their animal, so how much more should they value their fellow humans? Jesus, revealing His feelings, expresses grief along with His holy anger towards hardened hearts. The Pharisees, consumed with trivial matters, are left behind, while Jesus advocates for doing good and saving lives. Even on the Sabbath, it is important to prioritize acts of compassion and mercy towards both humans and animals. Society must learn to differentiate between the value of a human being and that of a sheep.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4914002656153578,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                33.58,
+                32.13,
+                34.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

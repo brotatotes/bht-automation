@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:43:58",
+    "verseRef": "Matthew 5:34",
+    "bestBHT": {
+        "bht": "Our Lord's teaching instructs us not to swear at all, for Christians are called to a higher standard where every yea and nay carries the weight of an oath. We should take into account the objections of those who oppose oaths, and work towards their elimination in a Christian society. Engaging in profane language, whether through direct or indirect forms of swearing, abuses and profanes the sacred name of God. Therefore, let us honor God by avoiding all forms of profanity and respecting the sanctity of His name.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 1.968797901778379,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+        "commentatorTierSimilarities": [
+            35.39,
+            29.31,
+            35.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "our Lord does not so much make a positive enactment by which all swearing is to individuals forbidden, e.g. on solemn occasions, and for the satisfaction of others, (for that would be a mere technical Pharisaism, wholly at variance with the spirit of the Gospel...\" ",
+            "the proper state of Christians is, to require no oaths; that when evil is expelled from among them, every yea and nay will be as decisive as an oath, every promise as binding as a vow.",
+            "the greatest regard ought to be had to the scruples of those, not only sects, but individuals, who object to taking an oath, and every facility given in a Christian state for their ultimate entire abolition."
+        ],
+        "John Calvin": [
+            "The Jews had circuitous or indirect ways of swearing: and when they swore by heaven, or by earth, or by the altar, they reckoned it to be next to nothing; and, as one vice springs from another, they defended, under this pretense, any profanation of the name of God that was not openly avowed.",
+            "Christ meant nothing more than this, that all oaths are unlawful, which in any way abuse and profane the sacred name of God, for which they ought to have had the effect of producing a deeper reverence.",
+            "This honor cannot be transferred to another, without committing an outrage on the divine majesty...Thus any one who, in ancient times, swore by 'Moloch,' or by any other idol, withdrew something of what belonged to God...And in our own times, those who swear by angels, or by departed saints, take from God what belongs to him, and ascribe to them a divine majesty."
+        ],
+        "Philip Schaff": [
+            "The prohibition is absolute for private and social life, and also for the kingdom of heaven, for which alone Christ legislates here.",
+            "To swear by heaven, is to swear by God Himself.",
+            "A condemnation of many phrases which are corrupted forms of actual oaths, and are used by those who scruple to swear outright."
+        ],
+        "Archibald T. Robertson": [
+            "Swear not at all...Jesus prohibits all forms of profanity.\" ",
+            "The Jews were past-masters in the art of splitting hairs about allowable and forbidden oaths or forms of profanity.",
+            "Modern Christians employ a great variety of vernacular 'cuss-words' and excuse themselves because they do not use the more flagrant forms."
+        ],
+        "John Gill": [
+            "But I say unto you, swear not at all....but of rash swearing, about trivial matters, and by the creatures.",
+            "The reason why it is forbidden by Christ to swear by heaven, is, for it is God's throne.",
+            "they doubly sinned, first, by openly swearing by that which is God's creature; and then, by tacitly bringing God into their rash and vain oaths."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 5:34, our Lord clearly teaches us that swearing should not be a part of the Christian life. He does not merely prohibit certain forms of swearing, but rather desires that Christians require no oaths at all. Instead, our words should hold the same weight and truthfulness as an oath. We must understand and respect the objections of those who are opposed to taking oaths, and strive to ultimately abolish their use in a Christian society. We must not excuse ourselves for using profane language by arguing that we are not using the more obvious and blatant forms of swearing. Rather, we should seek to honor God and refrain from any form of profanity, recognizing that all oaths, in any way, abuse and profane the sacred name of God.",
+            "wordCount": 129,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 2.016844909586787,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                38.07,
+                28.39,
+                33.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In light of our Lord's teaching in the verse, it is clear that Christians should refrain from swearing altogether. This prohibition applies to all aspects of life, both private and social, as well as the kingdom of heaven. Rather than making technical distinctions about permissible and forbidden oaths, we should strive to live in such a way that our every word is trustworthy, eliminating the need for oaths. Our goal should be to honor God and refrain from any form of profanity, recognizing that all oaths that abuse and profane the sacred name of God are unlawful.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9672146844192735,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                34.23,
+                33.6,
+                32.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's instruction is clear: Christians ought not to swear at all. This command goes beyond forbidding certain types of oaths to advocating for a state where oaths are unnecessary. In so doing, Christians should respect the objections of those who reject oaths and work towards their abolition. We must not justify the use of profanity by claiming that we avoid the more blatant forms of swearing. Instead, we should aspire to honor God by refraining from any language or behavior that abuses and profanes His holy name.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.9262371255616757,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                37.28,
+                29.01,
+                33.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord's command in Matthew 5:34 is not a mere technical Pharisaism, but rather a call to Christians to require no oaths at all. Every yea and nay should be as decisive as an oath, every promise as binding as a vow. We should be mindful and accommodating of those who object to taking oaths, with the ultimate goal of completely eradicating their use in a Christian society. Let us refrain from employing profanity and recognize that all oaths, in any way, abuse and profane the sacred name of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.9943865639165907,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                38.92,
+                28.76,
+                32.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord's teaching instructs us not to swear at all, for Christians are called to a higher standard where every yea and nay carries the weight of an oath. We should take into account the objections of those who oppose oaths, and work towards their elimination in a Christian society. Engaging in profane language, whether through direct or indirect forms of swearing, abuses and profanes the sacred name of God. Therefore, let us honor God by avoiding all forms of profanity and respecting the sanctity of His name.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.968797901778379,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                35.39,
+                29.31,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

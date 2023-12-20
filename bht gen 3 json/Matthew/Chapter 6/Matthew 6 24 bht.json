@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:44:51",
+    "verseRef": "Matthew 6:24",
+    "bestBHT": {
+        "bht": "Man's being cannot be divided between serving God and Mammon; he must be one, either light or dark. One cannot serve two masters of opposing character and interests. It is impossible to serve both God and Mammon, with the service of this god and the true God together being pronounced impossible. Trying to serve both only leads to failure and falling into the ditch. Man must choose to be wholly devoted to one master, as serving Mammon means abandoning the service of God and becoming a slave to the devil.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.287522760171038,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+        "commentatorTierSimilarities": [
+            33.01,
+            30.96,
+            36.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this division in man\u2019s being cannot take place\u2014he is and must be one\u2014light or dark\u2014serving God or Mammon.",
+            "He will either hate A and love B, or cleave to A and despise B:\u2019 the one and the other keeping their individual reference in both members.",
+            "Mammon does not appear to have been the name of any Syrian deity, as some assert."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No man can serve\u2014The word means to 'belong wholly and be entirely under command to.'",
+            "Even if the two masters be of one character and have but one object, the servant must take law from one or the other: though he may do what is agreeable to both, he cannot, in the nature of the thing, be servant to more than one.",
+            "The service of this god and the true God together is here, with a kind of indignant curtness, pronounced impossible."
+        ],
+        "Albert Barnes": [
+            "No man can serve two masters at the same time... His affections and obedience would be divided, and he would fail altogether in his duty to one or the other.",
+            "The supreme affections can be fixed on only one object.",
+            "Ye cannot serve the true God, and at the same time be supremely engaged in obtaining the riches of this world. One must interfere with the other."
+        ],
+        "Marvin Vincent": [
+            "The other [\u03b5\u03c4\u03b5\u03c1\u03bf\u03bd] . Implying distinction in quality rather than numerical distinction [\u03b1\u03bb\u03bb\u03bf\u03c2].",
+            "The word gives the idea of two master of distinct or opposite character and interests, like God and Mammon.",
+            "He who is for God must be against Mammon."
+        ],
+        "John Calvin": [
+            "For the greater part of men are wont to flatter themselves with a deceitful pretense, when they imagine, that it is possible for them to be divided between God and their own lusts.",
+            "True, it is not impossible that those who are rich shall serve God; but whoever gives himself up as a slave to riches must abandon the service of God: for covetousness makes us the slaves of the devil.",
+            "All, indeed, confess in words, that, where the affection is not entire, there is no true worship of God: but they deny it in fact, when they attempt to reconcile contradictions."
+        ],
+        "Philip Schaff": [
+            "A still plainer illustration, to prove that man cannot be thus divided, must be one, light or dark, servant of God or of Mammon.",
+            "The suppositions the reverse of each other, with no particular difference between the two sets of verbs: \u2018He will either hate A and love B, or cleave to A and despise B.\u2019",
+            "Not the possession of money, but its mastery over the mind, is condemned."
+        ],
+        "Archibald T. Robertson": [
+            "No man can serve two masters. Many try it, but failure awaits them all.\" ",
+            "The slave of mammon will obey mammon while pretending to obey God.\" ",
+            "When the guide is blind and leads the blind, both fall into the ditch."
+        ],
+        "John Gill": [
+            "No man can serve two masters... This is a proverbial expression, and is elsewhere used by Christ.\" ",
+            "Either he will hate the one, and love the other... or else he will hold to the one; hearken to his commands, obey his orders, and abide in his service; and despise the other... ye cannot serve God and mammon.\" ",
+            "The word 'mammon' is a Syriac word, and signifies money, wealth, riches, substance, and everything that comes under the name of worldly goods."
+        ],
+        "John Wesley": [
+            "Mammon \u2014 Riches, money; any thing loved or sought, without reference to God. Luke 16:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Man cannot simultaneously serve God and Mammon (Matthew 6:24). This division in man's being is impossible to reconcile, as one's affections and obedience will be divided. Trying to serve both masters is futile, as it results in failure to fulfill one's duty to God. The servant must choose whether to love and obey God or to cleave to and despise Mammon. One cannot serve two masters of distinct and opposing character and interests. The service of God and Mammon together is declared impossible and indignant. Those who attempt to serve Mammon while pretending to obey God are essentially blind guides leading others astray. In reality, those who give themselves up as slaves to riches abandon the service of God and become slaves of the devil. The possession of wealth itself is not condemned, but rather the mastery of money over one's mind.",
+            "wordCount": 145,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2655606671639843,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.67,
+            "commentatorTierSimilarities": [
+                30.97,
+                31.73,
+                37.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one can divide their allegiance between God and Mammon. Man must choose to be wholly devoted to serving one or the other, as it is impossible to serve both masters simultaneously. Any attempt to reconcile this division is futile and contradictory. Those who serve Mammon, being slaves to wealth and worldly gain, forsake the service of God. The possession of riches itself is not condemned, but rather the enslavement of the mind to the pursuit of wealth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.109410060726579,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                29.45,
+                31.69,
+                38.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man's being cannot be divided between serving God and Mammon; he must be one, either light or dark. One cannot serve two masters of opposing character and interests. It is impossible to serve both God and Mammon, with the service of this god and the true God together being pronounced impossible. Trying to serve both only leads to failure and falling into the ditch. Man must choose to be wholly devoted to one master, as serving Mammon means abandoning the service of God and becoming a slave to the devil.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.287522760171038,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                33.01,
+                30.96,
+                36.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No one can divide their allegiance between God and Mammon. Man must choose to be wholly devoted to serving one or the other. It is impossible to serve two masters of opposing character and interests. The service of this god and the true God together is pronounced impossible. Trying to serve both only leads to failure. Man must choose to be wholly devoted to one master, as serving Mammon means abandoning the service of God and becoming a slave to the devil.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.139974385120011,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.49,
+            "commentatorTierSimilarities": [
+                34.77,
+                30.63,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man cannot serve two masters simultaneously. Trying to divide one's allegiance between God and Mammon is futile. The division in one's being cannot take place, as one must be wholly devoted to either serving God or Mammon. The service of both masters together is pronounced impossible. Those who attempt to serve Mammon while pretending to obey God are essentially blind guides leading others astray. Choosing to serve Mammon means forsaking the service of God and becoming a slave to worldly riches.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.2338535093073255,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                33.39,
+                29.36,
+                37.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:48:58",
+    "verseRef": "Matthew 16:15",
+    "bestBHT": {
+        "bht": "The confession that Jesus is the Christ, the Son of the living God, acknowledges both the human and divine nature of the Lord. It surpasses the Jewish Messianic concept of a chosen man. Jesus wanted to hear his disciples' belief about his identity, and Peter's emphatic response recognized him as the anointed Son of God. This confession necessitates a resolute expression of faith, both in belief and outward proclamation. Amidst the world's conflicting voices, we should remain steadfast in our faith, listening to the voice of Christ and unwavering in our confession of him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.723795431989593,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+        "commentatorTierSimilarities": [
+            32.54,
+            34.73,
+            32.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The excellence of this confession is, that it brings out both the human and the divine nature of the Lord.",
+            "The Son of the living God is the Eternal Son, begotten of the Eternal Father, not 'Son of God' in any inferior figurative sense.",
+            "This was a view of the Person of Christ quite distinct from the Jewish Messianic idea, which appears to have been that he should be a man born from men, but selected by God for the office on account of his eminent virtues."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But whom\u2014rather, 'who.' say ye that I am?\" ",
+            "Then I said, I have labored in vain; I have spent my strength for naught, and in vain.",
+            "Yet some there are that have beheld My glory, the glory as of the Only-begotten of the Father, and I shall hear their voice, for it is sweet."
+        ],
+        "Marvin Vincent": [
+            "Thou art the Christ.\" ",
+            "Note the emphatic and definite force of the article in Peter's confession.",
+            "Thou art the anointed, the Son of the God, the living."
+        ],
+        "John Calvin": [
+            "Whatever differences may exist among others, we at least ought not to be led aside from the unity of faith.",
+            "They who shall honestly submit to Christ, and shall not attempt to mix with the Gospel any inventions of their own brain, will never want the true light.",
+            "Among the confused and discordant voices of the world, let this voice of Christ perpetually sound in our ears, which calls us away from unsettled and wavering men, that we may not follow the multitude, and that our faith may not be tossed about amongst the billows of contending opinions."
+        ],
+        "Philip Schaff": [
+            "The question does not imply that they doubted His Messiahship, but is a demand for a decided expression as to what He was as the Messiah.",
+            "This is the main point in Peter\u2019s reply."
+        ],
+        "Archibald T. Robertson": [
+            "But who say ye that I am? This is what matters and what Jesus wanted to hear.",
+            "Note emphatic position of h\u0096meis, 'But you, who say ye that I am?'"
+        ],
+        "John Gill": [
+            "It was not enough to believe in him, they must confess him; both are necessary.",
+            "It is expected of them, that they should know more of Christ than others; and should be come to a point about his person and office, and be ready to make a confession of their faith, and give a reason of their hope in him.",
+            "These ought to be well acquainted with him, who, and what he is; they should have no doubt, nor hesitation in their minds, about him, but be fully satisfied concerning him; and be free, and open, and ready to declare what they know and believe of him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The confession that Jesus is the Christ, the Son of the living God, is an excellent one because it recognizes both the human and divine nature of the Lord. It goes beyond the Jewish Messianic idea, which saw the Messiah as simply a man chosen by God. Jesus wanted to hear who his disciples believed he was, and Peter's emphatic response acknowledged him as the anointed Son of God. This confession requires a decided expression of faith, not just inward belief but also outward confession. In a world of conflicting opinions, we should let the voice of Christ resonate in our ears and be unwavering in our faith in him.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.797507176952991,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                31.09,
+                36.11,
+                32.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The confession that Jesus is the Christ, the Son of the living God, acknowledges both the human and divine nature of the Lord. It surpasses the Jewish Messianic concept of a chosen man. Jesus wanted to hear his disciples' belief about his identity, and Peter's emphatic response recognized him as the anointed Son of God. This confession necessitates a resolute expression of faith, both in belief and outward proclamation. Amidst the world's conflicting voices, we should remain steadfast in our faith, listening to the voice of Christ and unwavering in our confession of him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.723795431989593,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                32.54,
+                34.73,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The confession that Jesus is the Christ, the Son of the living God, emphasizes the divine and human aspects of the Lord. It goes beyond the Jewish concept of the Messiah as a virtuous man chosen by God. Jesus wanted to hear who his disciples believed he was, and Peter's clear and decisive response acknowledged him as the anointed Son of God. This confession requires a firm expression of faith, both in belief and verbal proclamation. In a world filled with conflicting opinions, we should remain unwavering in our faith and confidently declare our belief in him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7002066087438998,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                29.67,
+                36.46,
+                33.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The confession that Jesus is the Christ, the Son of the living God, acknowledges both the human and divine nature of the Lord. It surpasses the Jewish Messianic concept of a chosen man. Jesus wanted to hear his disciples' belief about his identity, and Peter's emphatic response recognized him as the anointed Son of God. This confession necessitates a resolute expression of faith, both in belief and outward proclamation. Amidst the world's conflicting voices, we should remain steadfast in our faith, listening to the voice of Christ and unwavering in our confession of him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.723795431989593,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                32.54,
+                34.73,
+                32.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The confession that Jesus is the Christ, the Son of the living God, emphasizes both the human and divine nature of the Lord. It goes beyond the Jewish Messianic idea of a man selected by God due to his virtues. Jesus wanted to hear his disciples express their belief in him, and Peter's confident response acknowledged him as the anointed Son of God. This confession requires a firm and decisive expression of faith. In a world filled with conflicting opinions, we should remain unwavering in our faith and boldly declare our belief in him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6886898281188105,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                29.86,
+                36.82,
+                33.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

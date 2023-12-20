@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:50:17",
+    "verseRef": "Matthew 20:9",
+    "bestBHT": {
+        "bht": "When those who were hired at the eleventh hour came, they received a full day's wages, much more than they expected. There was no agreement on how much they should be paid, only that justice should be done. This shows that God does not measure His reward based on the length of a person's life, but rather on their fidelity and service. Just as these laborers all received the same payment, so too do all believers, whether early or late, have an equal title to eternal life.",
+        "wordCount": 89,
+        "quoteTokenProportion": 59.46,
+        "qualityScore": 1.402862056986365,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+        "commentatorTierSimilarities": [
+            30.92,
+            40.22,
+            28.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9. And when they came that were",
+            "\thired about the eleventh hour, they received every man a penny\u2014a",
+            "\tfull day's wages."
+        ],
+        "Albert Barnes": [
+            "There was no agreement how much they should receive, but merely that justice should be done.",
+            "The householder supposed they had earned it, or chose to make a present to them to compensate for the loss of the first part of the day.",
+            "They were willing to work, but could not find employment."
+        ],
+        "Philip Schaff": [
+            "They received every man a penny, or \u2018shilling.\u2019 More than they expected.",
+            "God does not measure His reward by the length of man\u2019s life, but by the fidelity of his services.",
+            "The labor is not to earn the reward but to prepare for it."
+        ],
+        "John Gill": [
+            "So the same church privileges and immunities are common to all believers, Jews or Gentiles, sooner or later called; and equal title give to the same eternal life and happiness, which will be enjoyed alike, by one saint as another.",
+            "They are all loved with the same everlasting love by God; they are chosen alike by him in his Son, at the same time, in the same way and manner, and to the same grace and glory.",
+            "Now, indeed, they have not the same measures of grace; some have more, others less; but in heaven, it will be alike, complete and perfect in all."
+        ],
+        "John Wesley": [
+            "Either the Gentiles, who were called long after the Jews into the vineyard of the Church of Christ.",
+            "Those in every age who did not hear, or at least understand the Gospel call, till their day of life was drawing to a period.",
+            "Some circumstances of the parable seem best to suit the former, some the latter of these senses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When those who were hired at the eleventh hour came, they received a full day's wages, much more than they expected. There was no agreement on how much they should be paid, only that justice should be done. This shows that God does not measure His reward based on the length of a person's life, but rather on their fidelity and service. Just as these laborers all received the same payment, so too do all believers, whether they were called early or late, Jew or Gentile, have an equal title to eternal life and happiness. While they may have different measures of grace on earth, in heaven it will be complete and perfect for everyone.",
+            "wordCount": 117,
+            "quoteTokenProportion": 55.43,
+            "qualityScore": 1.3042243649824017,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.71,
+            "commentatorTierSimilarities": [
+                25.62,
+                35.96,
+                38.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When those who were hired at the eleventh hour came, they received a full day's wages, much more than they expected. There was no agreement on how much they should be paid, only that justice should be done. This shows that God does not measure His reward based on the length of a person's life, but rather on their fidelity and service. Just as these laborers all received the same payment, so too do all believers, whether early or late, have an equal title to eternal life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 59.46,
+            "qualityScore": 1.402862056986365,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                30.92,
+                40.22,
+                28.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the laborers who were hired at the eleventh hour arrived, they received a full day's wages, which was more than they expected. This parable teaches us that God's reward is not based on the length of our service, but on our faithfulness. Every believer, regardless of when they were called, whether Jew or Gentile, will receive the same eternal life and happiness. While we may experience varying measures of grace on earth, in heaven, it will be equal and perfect for all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.1988149115319267,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.2,
+            "commentatorTierSimilarities": [
+                24.18,
+                29.0,
+                46.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the laborers who were hired at the eleventh hour arrived, they were given a full day's wages, which exceeded their expectations. This parable emphasizes that God's reward is not determined by the length of our service, but by our faithfulness. All believers, regardless of when they were called or their background, have an equal entitlement to eternal life and happiness. Although we may receive different measures of grace in this life, in heaven, it will be equal and complete for everyone.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.2159459350001354,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.77,
+            "commentatorTierSimilarities": [
+                23.35,
+                31.79,
+                44.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the laborers who were hired at the eleventh hour arrived, they received a full day's wages, surpassing their expectations. This parable illustrates that God's reward is not determined by the length of our service, but by our faithfulness. All believers, regardless of their timing or background, have an equal entitlement to eternal life and happiness. While we may experience varying measures of grace in this life, in heaven, it will be equal and complete for all.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.1855185805689596,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.76,
+            "commentatorTierSimilarities": [
+                23.43,
+                32.17,
+                44.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

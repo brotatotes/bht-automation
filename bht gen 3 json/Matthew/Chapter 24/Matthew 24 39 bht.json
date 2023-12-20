@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:52:29",
+    "verseRef": "Matthew 24:39",
+    "bestBHT": {
+        "bht": "The people in this account can be likened to those who ignored Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending disaster as they carried on with their daily lives. Only a small number, those who believed and trusted in God's message, were able to escape the coming destruction. This serves as a reminder for us to place our faith in the Lord and not be deceived by the false sense of security offered by the world.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.1631464333289154,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.02,
+        "commentatorTierSimilarities": [
+            0.0,
+            40.88,
+            59.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "They knew not - That is, they knew not the exact time until it came upon them.",
+            "They shall not know 'the precise time' until he comes.",
+            "Then they will be found engaged in the ordinary business of life unconcerned."
+        ],
+        "John Calvin": [
+            "The source and cause of their ignorance was, that unbelief had blinded their minds.",
+            "But it must be observed that the reprobate, at that time, were hardened in their wickedness, because the Lord did not show his grace to any but his servants.",
+            "To this small number, therefore, our minds must be directed, if we desire to escape in safety."
+        ],
+        "Philip Schaff": [
+            "Even after Noah was in the ark, their unbelief continued.\" ",
+            "Men will persist in unbelief, despite the fear mentioned in Luke 21:24-25.",
+            "They will at least go on as if unconcerned."
+        ],
+        "John Gill": [
+            "They did not believe, that what he said of the flood was true; they had notice of it, but they would not know it.",
+            "They were careless and secure of danger; they would not believe their ruin was at hand, when it was just upon them.",
+            "They cried peace, peace, when sudden destruction was nigh; even of them all, their nation, city, and temple, a few only excepted, as in the days of Noah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 24:39, people are compared to those who were ignorant of the coming flood during the time of Noah. Their unbelief and blindness led to their ignorance, as they continued with their everyday activities, unaware of the impending catastrophe. Despite the warning signs, they persisted in their unbelief and remained unconcerned. Only a small number, those who believed and trusted in God's word, were able to escape the impending destruction. This serves as a reminder for us to seek refuge in the Lord and not be deceived by the false sense of security that the world offers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.2210516586543991,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.78,
+                55.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in the verse are likened to those who disregarded Noah's warning about the flood. Their ignorance stemmed from their unbelief, which blinded them and made them continue with their daily routines, oblivious to the impending destruction. Only a small number who trusted in God were able to escape. This serves as a cautionary tale for us to put our faith in God's word and not be swayed by worldly distractions.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.1312642700200772,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.96,
+            "commentatorTierSimilarities": [
+                0.0,
+                42.2,
+                57.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in question can be likened to those during Noah's time who were ignorant and unbelieving when it came to the impending flood. They continued with their ordinary activities, disregarding the signs and remaining unconcerned. Only a few were able to escape the impending destruction by trusting in God's warning. This reminds us to place our faith in God's word and not be deceived by the false security that the world offers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.1162319867681392,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.93,
+                53.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people portrayed in this passage can be compared to those who disregarded Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending catastrophe, as they continued their daily activities unconcerned. Only a small number, those who believed and trusted in God's message, were able to escape the impending destruction. This serves as a reminder for us to seek refuge in the Lord and not be deceived by the false sense of security that the world offers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.1776131445800986,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                41.56,
+                58.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in this account can be likened to those who ignored Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending disaster as they carried on with their daily lives. Only a small number, those who believed and trusted in God's message, were able to escape the coming destruction. This serves as a reminder for us to place our faith in the Lord and not be deceived by the false sense of security offered by the world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1631464333289154,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.88,
+                59.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

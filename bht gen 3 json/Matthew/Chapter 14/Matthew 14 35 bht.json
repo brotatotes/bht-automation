@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:48:09",
+    "verseRef": "Matthew 14:35",
+    "bestBHT": {
+        "bht": "The people who had been fed the loaves and fish the day before came to the city, seeking Jesus. They knew Him, not just by reputation, but by face. They had seen and heard Him before, and they had faith in Him to heal their sick and diseased. These people, who were from Galilee, recognized Him when morning came, for He was well known in their region. Their commitment to seeking Jesus and their dedication to doing good for their country serves as an admirable example for us all to follow.",
+        "wordCount": 91,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 1.3880064805175332,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+        "commentatorTierSimilarities": [
+            0.0,
+            62.68,
+            37.32
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The people who had been fed, came to that city \u2018seeking Jesus\u2019",
+            "It is implied that they found Him somewhere else.",
+            "When morning came they would recognize Him, as our Lord was personally well known in Galilee."
+        ],
+        "John Gill": [
+            "Not merely by report, but by face, having seen, and heard him before...",
+            "Which not only expresses their faith in him, that he was able to heal all their sick and diseased, were they ever so many...",
+            "They neither spared cost nor pains, to do good to their country; in all which, they set an example worthy of imitation."
+        ],
+        "John Wesley": [
+            "Mark 6:45."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who had been fed the loaves and fish the day before came to the city, seeking Jesus. They knew Him, not just by reputation, but by face. They had seen and heard Him before, and they had faith in Him to heal their sick and diseased. These people, who were from Galilee, recognized Him when morning came, for He was well known in their region. Their commitment to seeking Jesus and their dedication to doing good for their country serves as an admirable example for us all to follow.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.3880064805175332,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+            "commentatorTierSimilarities": [
+                0.0,
+                62.68,
+                37.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowds who had been fed by Jesus sought Him in the city, recognizing Him from their personal encounters with Him. Their faith in His ability to heal motivated their search, as they believed He could heal all their sick and diseased. Their commitment to finding Jesus and their willingness to do good for their community set a commendable example.",
+            "wordCount": 60,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.202099332404554,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.25,
+                40.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Seeking Jesus, the people who had been fed by Him came to the city, having recognized Him from their previous encounters. Their faith in His healing power compelled them to diligently search for Him, knowing that He had the ability to heal all their sick and diseased. This committed pursuit of Jesus and their selfless acts of kindness towards their community serve as a noteworthy example for us to emulate.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.1966587313100865,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                63.4,
+                36.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people who had been fed by Jesus were determined in their search for Him, having recognized Him from their past encounters. Their faith in His healing abilities led them to diligently seek Him, fully believing that He could heal all their sick and diseased. Their unwavering commitment and willingness to do good for their community serves as a praiseworthy example that we should strive to follow.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.0104621905747442,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.04,
+                41.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowds that had been fed by Jesus came to the city, seeking Him, as they had recognized Him from their previous encounters. Their faith in His power to heal all sickness and disease drove them to earnestly search for Him. Their dedication in finding Jesus and their selfless acts of kindness towards their community provide an inspiring example for us to emulate.",
+            "wordCount": 63,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.15497223659364,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                63.71,
+                36.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

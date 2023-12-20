@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:51:13",
+    "verseRef": "Matthew 22:6",
+    "bestBHT": {
+        "bht": "The rejection of the invitation by the unbelievers can be divided into two groups: the indifferent and the hostile. The former neglect religion while the latter proceed with violence and malice, insulting and abusing the servants of God. The Jews persecuted the apostles, even causing the death of some. Their refusal to accept the message ultimately led to their own demise.",
+        "wordCount": 61,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 1.583371930586058,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+        "commentatorTierSimilarities": [
+            33.12,
+            31.45,
+            35.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "James the brother of John, James the Just, and doubtless other of the Apostles, of whose end we have no certain account, perished by the hands or instigation of the Jews.",
+            "They persecuted Paul all through his life, and most probably brought him to his death at last.",
+            "The guilt of the death of the Lord abode upon them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And the remnant took his servants, and entreated them spitefully\u2014insulted them.\" ",
+            "These are two different classes of unbelievers: the one simply indifferent; the other absolutely hostile\u2014the one, contemptuous scorners; the other, bitter persecutors.\" ",
+            "The one simply indifferent; the other absolutely hostile\u2014the one, contemptuous scorners; the other, bitter persecutors."
+        ],
+        "Albert Barnes": [
+            "Some sinners seem to be well satisfied by merely neglecting religion; others proceed against it with open violence and bitter malice.",
+            "Used harsh and opprobrious words. Reviled and abused them. This was done because they hated and despised the king.",
+            "So sinners often abuse and calumniate ministers of religion because they themselves hate God, and can in no way else show their hatred so well."
+        ],
+        "Philip Schaff": [
+            "The Pharisees...treated them shamefully and slew them.\" ",
+            "Indifference often passes into hostility, as the more consistent attitude."
+        ],
+        "John Gill": [
+            "They not only slighted the message, and took no notice of the invitation, but also abused the messengers.\" ",
+            "Their malice and wickedness proceeded so far, as to take away the lives of some of them.",
+            "Thus they stoned Stephen to death, the first martyr for Christ; and killed James, the brother of John, with the sword."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The unbelievers in Matthew 22:6 can be divided into two categories: those who are indifferent and those who are hostile. The indifferent ones simply neglect religion, while the hostile ones proceed with open violence and bitter malice. They not only insult and abuse the servants of God, but also bring harm upon them. This can be seen in how the Jews persecuted the apostles, with some of them even losing their lives because of their faith. Their rejection of the invitation ultimately led to their own destruction.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.6243305855265007,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                31.97,
+                33.38,
+                34.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rejection of the invitation by the unbelievers can be divided into two groups: the indifferent and the hostile. The former neglect religion while the latter proceed with violence and malice, insulting and abusing the servants of God. The Jews persecuted the apostles, even causing the death of some. Their refusal to accept the message ultimately led to their own demise.",
+            "wordCount": 61,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.583371930586058,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                33.12,
+                31.45,
+                35.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The response has been modified to ensure that at least 50% of the words come from the provided quotes.\n\nThe unbelievers in this passage can be divided into two groups - the indifferent and the hostile. Those who neglect religion are simply indifferent, while others proceed with violence and malice, insulting and abusing the servants of God. The Jews persecuted the apostles, even causing the death of some. Ultimately, their refusal to accept the message led to their own demise.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.4092784357381785,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "commentatorTierSimilarities": [
+                36.18,
+                32.73,
+                31.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of the invitation in Matthew 22:6 categorizes unbelievers into two distinctive groups: the indifferent and the hostile. The former neglect religion, while the latter proceed with violence and malice, insulting and abusing God's servants. The apostles suffered persecution at the hands of the Jews, with some even losing their lives. This refusal to accept the message led to their tragic demise.",
+            "wordCount": 63,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5326346956914287,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                32.78,
+                30.72,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of the invitation in this verse exposes two different categories of unbelievers: those who are indifferent and those who are hostile. The indifferent individuals simply neglect religion, while the hostile ones proceed with violence and malice, insulting and abusing the servants of God. The Jews persecuted the apostles, causing some of them to lose their lives. Ultimately, their refusal to accept the message resulted in their own destruction.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.6306693836229487,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                33.59,
+                32.39,
+                34.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

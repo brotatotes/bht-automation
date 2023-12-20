@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:54:40",
+    "verseRef": "Matthew 28:4",
+    "bestBHT": {
+        "bht": "The guards, who were considered courageous soldiers, were struck with terror at the sight of the angel at the sepulchre. The suddenness and unpredictability of the angel's appearance, along with the accompanying noise and light, caused the guards to become as dead men. The fear that overwhelmed them prevented them from mocking the report of the resurrection. Despite their initial terror, the Lord's grace brought comfort and healing, easing the wounds inflicted upon them.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.6598261720079241,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+        "commentatorTierSimilarities": [
+            25.94,
+            31.29,
+            42.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Is the sepulchre 'sure' now, O ye chief priests?\" ",
+            "He that sitteth in the heavens doth laugh at you.\" ",
+            "They did shake, and became as dead men."
+        ],
+        "Albert Barnes": [
+            "The appearance was sudden and unexpected, and to them terrific.",
+            "At the noise, the light, the suddenness of the appearance, they were affrighted.",
+            "Probably by terror they fainted, or were thrown into a swoon."
+        ],
+        "John Calvin": [
+            "The Lord struck the guards with terror, as if he had engraved their consciences with a hot iron, so as to constrain them reluctantly to feel his divine power.",
+            "The terror had, at least, the effect of hindering them from treating with careless mockery the report of the resurrection which was to be spread abroad shortly afterwards.",
+            "When the Lord has humbled and subdued his elect, he immediately mitigates their dread, that they may not sink under its oppressive influence; and not only so, but by the sweetness of his grace heals the wound which he had inflicted."
+        ],
+        "Philip Schaff": [
+            "For fear of him, i.e., of the angel."
+        ],
+        "Archibald T. Robertson": [
+            "The watchers did quake (\u03b5\u03c3\u03b5\u03b9\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd \u03bf \u03c4\u03b7\u03c1\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2). And no wonder that they became as dead men and fled before the women came. "
+        ],
+        "John Gill": [
+            "Though they were soldiers, Roman soldiers and veterans, who had been used to terrible sights in the field of battle; were men of courage, and fearless of danger...",
+            "...were seized with a panic, and every limb of them shook and trembled at the sight of the angel, for fear he was come as an executioner of divine vengeance upon them...",
+            "...such was the glory and majesty in which he appeared, of which they had never seen the like before, that it had this effect upon them: and became as dead men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The guards stationed at the sepulchre were struck with terror and shaken to the point of becoming like dead men when they witnessed the appearance of the angel. The suddenness and unexpectedness of the angel's arrival, along with the noise and light accompanying it, caused the guards to be affrighted. This fear may have caused them to faint or fall into a swoon. The Lord's divine power and majesty were so overwhelming that even experienced soldiers were seized with panic and trembling. This terror, while ensuring that they couldn't mock the report of the resurrection, was followed by the Lord's grace to comfort and heal their wounds.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.6870476015734028,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                29.97,
+                28.41,
+                41.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The guards were seized with a panic, trembling in fear before the angel. Such was the glory and majesty of the angel's appearance that the guards became like dead men. The sudden and unexpected nature of the event, coupled with the noise and light, caused the guards to be affrighted. This terror, which they could not mock, prevented them from disregarding the report of the resurrection. Despite their fear, the Lord's grace ultimately provided comfort and healing.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.596552471933033,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.43,
+            "commentatorTierSimilarities": [
+                27.87,
+                32.75,
+                39.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The guards, who were considered courageous soldiers, were struck with terror at the sight of the angel at the sepulchre. The suddenness and unpredictability of the angel's appearance, along with the accompanying noise and light, caused the guards to become as dead men. The fear that overwhelmed them prevented them from mocking the report of the resurrection. Despite their initial terror, the Lord's grace brought comfort and healing, easing the wounds inflicted upon them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.6598261720079241,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                25.94,
+                31.29,
+                42.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The guards stationed at the sepulchre were seized with a panic and became as dead men when they encountered the angel. The suddenness and unexpectedness of the angel's appearance, along with the accompanying noise and light, filled the guards with fear. This terror prevented them from disregarding the report of the resurrection, ensuring that they could not mock it. However, the Lord's grace was quick to follow, comforting and healing them from the wounds inflicted by their fear.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6196988240546832,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                27.47,
+                30.4,
+                42.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The guards, who were veterans and had faced terrible sights in battle, were seized with a panic and trembled in fear at the sight of the angel. The suddenness and intensity of the angel's appearance, unlike anything they had seen before, caused them to become like dead men. This fear prevented them from treating the report of the resurrection with careless mockery. The Lord's grace swiftly mitigated their dread, bringing comfort and healing to their wounded spirits.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6496459523589133,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                26.93,
+                30.66,
+                42.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

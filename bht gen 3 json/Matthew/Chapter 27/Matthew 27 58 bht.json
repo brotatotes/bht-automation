@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:54:29",
+    "verseRef": "Matthew 27:58",
+    "bestBHT": {
+        "bht": "The repetition of the body, shared with Mark, signifies a common origin. Pilate's surprise and the change of subject are worth noting. Typically, it would have been unlawful to remove the body without authorization. However, Joseph boldly appealed to Pilate, and his request was easily granted, possibly due to his status and character. Joseph's intention was to prevent the Jews from mistreating and giving Jesus an undignified burial.",
+        "wordCount": 70,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 1.4195416394613174,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.54,
+        "commentatorTierSimilarities": [
+            35.77,
+            30.67,
+            33.56
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The repetition of the body is remarkable, and indicates a common origin...",
+            "...in this verse, with Mark, who after gave expresses the body...",
+            "...on account of the expression of Pilate\u2019s surprise, and the change of subject between."
+        ],
+        "Albert Barnes": [
+            "Because no one had a right to remove the body but by authority of the magistrate.",
+            "Jesus was condemned to be crucified, usually a long and most bitter death.",
+            "In common cases it would have been unlawful to have removed the body so soon."
+        ],
+        "Philip Schaff": [
+            "Although it was the Jewish custom to bury the bodies of the crucified before sunset, Pilate\u2019s consent was necessary.",
+            "He went in boldly.",
+            "The ready consent may have been owing to the station and character of Joseph."
+        ],
+        "John Gill": [
+            "He went to Pilate, boldly; not being ashamed of Christ crucified, or afraid to own him.",
+            "Joseph craved his body; and which he did, to prevent its being abused by the Jews, and interred in such an ignominious manner.",
+            "Joseph had no difficulty to obtain the body of Christ; but as soon as he asked, he had the favour granted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The repetition of the body in this verse indicates a common origin with Mark's account, as they both express the body being wrapped and placed in a tomb. Pilate's surprise and the change of subject between further emphasize the significance of this action. Normally, it would have been unlawful to remove the body so soon and without the magistrate's authority, but Joseph went to Pilate boldly to request Jesus' body. Joseph's request was granted easily, possibly due to his station and character, and he sought to prevent the abuse and ignominious burial of Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.6098714897165882,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                35.61,
+                26.71,
+                37.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The repetition of the body in this account, in line with Mark's, signifies a shared source. Pilate's surprise and the shift in focus between conversational topics also draw attention. Though it was normally unlawful to swiftly remove a body without magisterial permission, Joseph fearlessly approached Pilate to request Jesus' body. Surprisingly, his petition was readily accepted, potentially due to his status and character. Joseph's motive was to prevent the Jews from desecrating and dishonorably laying Jesus to rest.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.2589404790078058,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.2,
+            "commentatorTierSimilarities": [
+                34.15,
+                29.88,
+                35.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The repetition of the body in this verse, similar to Mark's account, suggests a shared source. The surprise of Pilate and the change of subject are noteworthy. Although removing a body promptly without authorization was typically prohibited, Joseph boldly approached Pilate to request Jesus' body. Joseph's request was granted without difficulty, possibly due to his status and character. His intention was to safeguard the body from mistreatment by the Jewish authorities and to ensure a more dignified burial.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.420321630413461,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.57,
+            "commentatorTierSimilarities": [
+                32.55,
+                29.26,
+                38.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The repetition of the body in this passage, along with its correlation to Mark, highlights a shared origin. The surprising reaction of Pilate and the change in topic are significant elements to consider. Despite the usual prohibition on swiftly removing a body, Joseph fearlessly approached Pilate to ask for Jesus' body. Interestingly, Joseph's request was readily granted, potentially due to his standing and reputation. His ultimate goal was to prevent the Jews from mistreating and dishonoring Jesus' remains during the burial process.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.3251048033048844,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.4,
+            "commentatorTierSimilarities": [
+                30.84,
+                27.97,
+                41.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The repetition of the body, shared with Mark, signifies a common origin. Pilate's surprise and the change of subject are worth noting. Typically, it would have been unlawful to remove the body without authorization. However, Joseph boldly appealed to Pilate, and his request was easily granted, possibly due to his status and character. Joseph's intention was to prevent the Jews from mistreating and giving Jesus an undignified burial.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4195416394613174,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.54,
+            "commentatorTierSimilarities": [
+                35.77,
+                30.67,
+                33.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

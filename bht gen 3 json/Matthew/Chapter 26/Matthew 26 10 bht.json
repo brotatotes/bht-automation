@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:16",
+    "verseRef": "Matthew 26:10",
+    "bestBHT": {
+        "bht": "This noble act of love, perceived by Jesus himself, is an excellent and morally beautiful deed that will be celebrated in churches for generations. Despite the disciples' criticism, Jesus champions Mary's action and teaches us the importance of allowing others to express themselves authentically. This reminds us that true acts of love, rooted in faith and performed for the glory of God, possess the essentials of a good work and should be valued, even if they are misunderstood or undervalued by others.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.6911226589115333,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+        "commentatorTierSimilarities": [
+            25.74,
+            33.79,
+            40.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was not only \u2018a good work,\u2019 but a noble act of love...",
+            "...which should be spoken of in all the churches to the end of time.",
+            "On ver. 11, see notes on Mark, where it is more fully expressed."
+        ],
+        "Marvin Vincent": [
+            "Jesus perceived it at once.\" ",
+            "Jesus perceiving it.",
+            "An excellent, morally beautiful deed."
+        ],
+        "John Calvin": [
+            "Certain extraordinary ways of acting are sometimes approved by God, and yet that it would be improper to make them an example.",
+            "Mary was directed by the inspiration of the Spirit, so that this duty, which she performed to Christ, was founded on assured confidence.",
+            "None will ever be courageous and steady in acting properly, unless they depend solely on the will of God."
+        ],
+        "Philip Schaff": [
+            "The impulses of genuine love to Christ, or His people, are often thus checked, even by real Christians, who for the time being speak the cold and selfish language of the world.",
+            "Christ measured the moral quality of the act by the motive, the disciples by its seeming utility.",
+            "This utilitarian age presents many temptations to follow the lead of Judas."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus champions Mary's act with this striking phrase.",
+            "It is so hard for some people to allow others liberty for their own personalities to express themselves.",
+            "A beautiful deed upon Jesus himself."
+        ],
+        "John Gill": [
+            "Had any of the Pharisees blamed her conduct, it would have given her no pain or uneasiness; but that Christ's own disciples should show indignation at an action done by her from a sincere love to Christ, and to do honour to him, must cut her to the heart.",
+            "And so it is when either ministers of the Gospel, or private believers, are blamed for their honest zeal in the cause of Christ, by any that profess to love him; this grieves them more than all the enemies of religion say or do unto them.",
+            "It was done, in the faith of him, as the Messiah; it sprung from real and sincere love to him, and was designed for his honour and glory; and so had the essentials of a good work in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse tells the story of a good work, a noble act of love, that Jesus perceived and championed. It was an excellent and morally beautiful deed that would be spoken of in churches for generations to come. Though some disciples saw it as unnecessary or wasteful, Jesus recognized its true value and praised the love and devotion behind it. This highlights the challenge of allowing others the freedom to express themselves and the tendency to prioritize utility over genuine acts of love. Just as Mary's action cut her to the heart when it was criticized, believers today can feel deeply hurt when their sincere love for Christ is met with indifference or judgment. Nonetheless, true acts of love, rooted in faith and performed for the glory of God, possess the essentials of a good work, regardless of others' opinions.",
+            "wordCount": 141,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.6245215562454414,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                25.03,
+                34.51,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This noble act of love, perceived by Jesus himself, is an excellent and morally beautiful deed that will be celebrated in churches for generations. Despite the disciples' criticism, Jesus champions Mary's action and teaches us the importance of allowing others to express themselves authentically. This reminds us that true acts of love, rooted in faith and performed for the glory of God, possess the essentials of a good work and should be valued, even if they are misunderstood or undervalued by others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6911226589115333,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                25.74,
+                33.79,
+                40.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This noble act of love, recognized by Jesus himself, is not only a good work but a beautiful deed that will be spoken of in churches throughout time. It serves as a reminder that it is important to allow others the liberty to express themselves and that true acts of love, performed with genuine devotion and done for the honor of Christ, possess the essentials of a good work. Despite the criticism and disapproval from others, it is crucial to stay courageous and steadfast in acting properly according to the will of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6015383383778568,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                24.61,
+                30.62,
+                44.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This noble act of love, recognized by Jesus himself, is not only a good work but a beautiful deed. It deserves to be spoken of in churches for generations to come. It reminds us of the importance of allowing others the freedom to express themselves and the need to prioritize sincere acts of love over utility. Even if misunderstood or criticized, such acts, rooted in faith and performed for the glory of God, possess the essentials of a good work.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5007321118326564,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.24,
+            "commentatorTierSimilarities": [
+                28.88,
+                30.69,
+                40.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This noble act of love, recognized and championed by Jesus himself, is not only a good work but an excellent and morally beautiful deed. It deserves to be spoken of in churches throughout time as a testament to Mary's devotion and sincerity. The incident serves as a reminder of the challenge to allow others to freely express themselves and of the tendency to prioritize utility over genuine acts of love. Despite the criticism and disapproval from others, it is important to stay courageous and steadfast in acting properly according to the will of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.4912676031699807,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                23.14,
+                35.19,
+                41.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

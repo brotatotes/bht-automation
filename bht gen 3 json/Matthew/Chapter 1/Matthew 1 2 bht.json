@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:42:27",
+    "verseRef": "Matthew 1:2",
+    "bestBHT": {
+        "bht": "The genealogy in Matthew 1:2 emphasizes the living connection and succession, highlighting the direct descent from Jacob to Judah. The mention of Judah's brethren signifies the connection with the whole covenant nation, and the inclusion of the Twelve Patriarchs reveals the favor of adoption bestowed upon them. This lineage from Jacob in the line of Judah underscores that the Messiah was not to spring from any of Jacob's other descendants or tribes, but specifically from Judah's line, making the blessing promised in Christ equally applicable to all the children of Jacob.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.340794335499762,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.17,
+        "commentatorTierSimilarities": [
+            27.66,
+            36.73,
+            35.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2. and his brethren] These additions probably indicate that Matt. did not take his genealogy from any family or public documents, but constructed it himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jacob begat Judas and his brethren\u2014Only the fourth son of Jacob is here named, as it was from his loins that Messiah was to spring.\" "
+        ],
+        "John Calvin": [
+            "He properly assigns a place in the genealogy to the Twelve Patriarchs, on all of whom God had bestowed a similar favor of adoption.",
+            "He intimates that the blessing promised in Christ does not refer to the tribe of Judah alone, but belongs equally to all the children of Jacob.",
+            "Ishmael and Esau were treated as strangers."
+        ],
+        "Philip Schaff": [
+            "\u2018Begat,\u2019 repeated throughout, makes prominent the idea of a living connection and succession.",
+            "Judah, the direct ancestor, is named; his brethren are added, to indicate the connection with the whole covenant nation."
+        ],
+        "Archibald T. Robertson": [
+            "The word itself does not always mean immediate parentage, but merely direct descent.",
+            "In the case of David the King (Matthew 1:6) and Joseph the husband of Mary (Matthew 1:16) the article is repeated.",
+            "The Virgin Birth of Jesus remains in Matthew 1:16."
+        ],
+        "John Gill": [
+            "The descent of Christ from Abraham is in the line of Isaac... because the Messiah was not to spring from any of them, but from Isaac.",
+            "Isaac begat Jacob... wherefore no mention is made of Esau, he had no concern in the Messiah.",
+            "The lineage of Christ is carried on from Jacob in the line of Judah... our Lord sprung from his tribe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The genealogy in Matthew 1:2 not only emphasizes the direct descent from Jacob to Judah, but also highlights the importance of the connection with the whole covenant nation. This living connection and succession is emphasized through the repetition of the word begat throughout the genealogy. Additionally, the mention of Judah's brethren signifies the role of the Twelve Patriarchs and the fact that the blessing promised in Christ extends to all the children of Jacob. This line of descent from Jacob in the line of Judah underscores that the Messiah was not to spring from any of Jacob's other descendants or tribes, but specifically from Judah's line. The inclusion of the Twelve Patriarchs and the exclusion of Ishmael and Esau further emphasize the unique and exclusive lineage of Christ.",
+            "wordCount": 130,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.2051211361086773,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                27.48,
+                36.24,
+                36.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The genealogy in Matthew 1:2 emphasizes the living connection and succession, highlighting the direct descent from Jacob to Judah. The mention of Judah's brethren signifies the connection with the whole covenant nation, and the inclusion of the Twelve Patriarchs reveals the favor of adoption bestowed upon them. This lineage from Jacob in the line of Judah underscores that the Messiah was not to spring from any of Jacob's other descendants or tribes, but specifically from Judah's line, making the blessing promised in Christ equally applicable to all the children of Jacob.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.340794335499762,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.17,
+            "commentatorTierSimilarities": [
+                27.66,
+                36.73,
+                35.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The genealogy in Matthew 1:2 emphasizes the living connection and succession, highlighting the direct descent from Jacob to Judah. The mention of Judah's brethren signifies the connection with the whole covenant nation, and the inclusion of the Twelve Patriarchs reveals the favor of adoption bestowed upon them. This lineage from Jacob in the line of Judah underscores the Messiah's exclusive lineage, and the blessing promised in Christ extends to all the children of Jacob, not just the tribe of Judah. The genealogy clearly shows that our Lord sprung from Judah's tribe.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.1847353127300915,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                26.73,
+                36.29,
+                36.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Matthew 1:2 emphasizes the living connection and succession, highlighting the direct descent from Jacob to Judah. The mention of Judah's brethren indicates the connection with the whole covenant nation. The inclusion of the Twelve Patriarchs reveals the favor of adoption bestowed upon them, signifying that the blessing promised in Christ extends to all the children of Jacob. This lineage from Jacob in the line of Judah underscores the unique and exclusive lineage of Christ, as the Messiah was not to spring from any of Jacob's other descendants, but specifically from Judah's line.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.199321975495664,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.47,
+            "commentatorTierSimilarities": [
+                26.49,
+                38.26,
+                35.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The genealogy in Matthew 1:2 highlights the direct descent from Jacob to Judah, emphasizing the living connection and succession. The inclusion of Judah's brethren signifies the connection with the whole covenant nation, while the repetition of begat emphasizes a tangible link and succession. The Twelve Patriarchs are also mentioned, indicating the favor of adoption bestowed upon them. This genealogy demonstrates that the blessing promised in Christ extends to all the children of Jacob, reinforcing the unique lineage of Christ from Jacob in the line of Judah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.094747783019727,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.99,
+            "commentatorTierSimilarities": [
+                26.42,
+                40.08,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

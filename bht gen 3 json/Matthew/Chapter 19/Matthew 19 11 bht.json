@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:50:12",
+    "verseRef": "Matthew 19:11",
+    "bestBHT": {
+        "bht": "Not everyone can accept that staying unmarried is better, as it is a saying meant only for those divinely intended to receive it. Jesus recognizes that this demand surpasses the capacity of many and appeals to the spiritual intelligence of his disciples to understand his true meaning. While it might be good in certain circumstances, it is not universally applicable. This high ideal can only be grasped and lived out by those who receive illumination and power from God, for it is not a natural inclination but a gift of grace.",
+        "wordCount": 91,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.7239458657300144,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+        "commentatorTierSimilarities": [
+            37.49,
+            30.79,
+            31.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All men cannot receive this saying, save they to whom it is given\u2014that is, 'That the unmarried state is better, is a saying not for everyone, and indeed only for such as it is divinely intended for.'",
+            "But who are these? they would naturally ask; and this our Lord proceeds to tell them in three particulars.",
+            "That the unmarried state is better, is a saying not for everyone, and indeed only for such as it is divinely intended for."
+        ],
+        "Albert Barnes": [
+            "The minds of people are not prepared for this.",
+            "It might be good in certain circumstances - in times of persecution and trial, or for the sake of laboring in the cause of religion without the care and burden of a family.",
+            "To be married, or unmarried, might be lawful, according to circumstances."
+        ],
+        "John Calvin": [
+            "God, who has declared it to be good that a man should have a woman to be his helper, will punish the contempt of his own appointment.",
+            "Christ proves that it is not free to all to make what choice they please, because the gift of continence is a special gift.",
+            "And this reproves the pride of those who do not hesitate to claim for themselves what Christ so manifestly refuses to them."
+        ],
+        "Philip Schaff": [
+            "This high ideal can be understood and put into practice only by those who get illumination and power from God.",
+            "As a rule, the less Christianity, the lower the ideal of marriage, the more numerous the sins against this state."
+        ],
+        "Archibald T. Robertson": [
+            "It is a voluntary renunciation of marriage for the sake of the kingdom of heaven.",
+            "Jesus recognizes the severity of the demand as going beyond the capacity of all but a select number.",
+            "It was a direct appeal to the spiritual intelligence of the disciples not to misconceive his meaning as certainly the monastic orders have done."
+        ],
+        "John Gill": [
+            "...everyone has not the gift of continency, and indeed very few...",
+            "...what the disciples said, though it might be true in part, yet not in the whole...",
+            "...to receive such a saying, to live unmarried with content, having the gift of chastity; for this is not of nature, but of grace: it is the gift of God."
+        ],
+        "John Wesley": [
+            "This is not universally true; it does not hold, with regard to all men.",
+            "With regard to those only to whom is given this excellent gift of God.",
+            "Who steadily withstand their natural inclinations, that they may wait upon God without distraction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not everyone can accept the idea that staying unmarried is better, as it is a saying meant only for those to whom it is given by divine intention. It requires voluntarily renouncing marriage for the sake of the kingdom of heaven. Jesus recognizes that this demand surpasses the capacity of many, and he appeals to the spiritual intelligence of his disciples to understand his true meaning, cautioning them not to misconceive it like the monastic orders have. While it might be good in certain circumstances, such as times of persecution or for the dedication to religious work, it is not a choice that is universally applicable. This high ideal can only be grasped and lived out by those who receive illumination and power from God, for it is not a natural inclination but a gift of grace that enables one to live contentedly unmarried with the gift of chastity.",
+            "wordCount": 149,
+            "quoteTokenProportion": 36.46,
+            "qualityScore": 1.8131359763953454,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                38.52,
+                32.22,
+                29.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not everyone can accept that staying unmarried is better, as it is a saying meant only for those divinely intended to receive it. Jesus recognizes that this demand surpasses the capacity of many and appeals to the spiritual intelligence of his disciples to understand his true meaning. While it might be good in certain circumstances, it is not universally applicable. This high ideal can only be grasped and lived out by those who receive illumination and power from God, as it is a gift of grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.714459563316718,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+            "commentatorTierSimilarities": [
+                37.47,
+                31.46,
+                31.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not everyone can accept that staying unmarried is better, as it is a saying meant only for those divinely intended to receive it. Jesus recognizes that this demand surpasses the capacity of many and appeals to the spiritual intelligence of his disciples to understand his true meaning. While it might be good in certain circumstances, it is not universally applicable. This high ideal can only be grasped and lived out by those who receive illumination and power from God, for it is not a natural inclination but a gift of grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.7239458657300144,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                37.49,
+                30.79,
+                31.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Not everyone can accept the saying that staying unmarried is better, as it is divinely intended only for certain individuals who have the gift of continence. Jesus acknowledges that this demand exceeds the capacity of most people and warns his disciples to understand his true meaning, avoiding the misunderstanding of the monastic orders. While it may be beneficial in certain circumstances, it is not universally applicable. This high ideal can only be practiced by those who receive illumination and power from God as it is a gift of grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7054702260068542,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                35.78,
+                31.43,
+                32.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The saying that staying unmarried is better is not universally applicable. It is meant only for those divinely intended to receive it, namely those who have the gift of continence. Jesus cautions his disciples to correctly understand his meaning to avoid the misconception of the monastic orders. While it can be beneficial in certain circumstances, it exceeds the capacity of most people. This high ideal can only be fulfilled by those who receive God's enlightenment and empowerment, as it is a gift of grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6200748344383205,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                39.57,
+                27.02,
+                33.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

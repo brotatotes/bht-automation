@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:51:27",
+    "verseRef": "Matthew 22:38",
+    "bestBHT": {
+        "bht": "The great and first commandment is the overarching principle that takes precedence over all others. It is the ultimate surrender of our entire being to God, encompassing our heart, soul, mind, and strength. This commandment not only summarizes the duties of the first table of the Decalogue, but also encompasses all actions directed towards God. It holds the highest significance in nature, order, dignity, and causality, acknowledging God as the first cause and the object of our greatest love. It is widely recognized for its comprehensive nature.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.2382005655288646,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+        "commentatorTierSimilarities": [
+            16.28,
+            40.95,
+            42.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The great and first. With the definite article."
+        ],
+        "Philip Schaff": [
+            "This is the great and first Commandment. \u2018Great\u2019 as embracing all the others; first\u2019 as preceding the other table in the Decalogue.\" ",
+            "Our Lord here declares the unity of the first table of the law, its absolute greatness.",
+            "This \u2018unqualified surrender of our whole being to God\u2019 is to be the aim of our strivings after holiness."
+        ],
+        "John Gill": [
+            "Whether the object of it is considered, who is the first and chief good; or the manner in which it is to be observed, which requires and engrosses the whole heart, soul, and mind, and all the strength and power of man; or its being the principle from whence all the duties, and actions of men should flow, and the end to which all are to be referred; and is not only a compendium of the duties of the first table of the decalogue, but of all others that can be thought to, and do, belong to God.",
+            "This is the first command in order of nature, time, dignity, and causality; God being the first cause of all things, infinitely above all creatures, and love to him being the source, spring and cause of love to the neighbour; and it is the greatest in its object, nature, manner, and end.",
+            "That this command, and these words our Lord cites, are so full and comprehensive, the Jews themselves cannot deny."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the great and first commandment, encompassing and preceding all others. It is the principle by which we strive to fully surrender ourselves to God, requiring our entire being - heart, soul, mind, and strength. This commandment sums up not only the duties of the first table of the Decalogue, but all other duties and actions that should be directed towards God. It is the highest in order, nature, dignity, and causality, as God is the first cause of all things and the object of our greatest love. This commandment is undeniably full and comprehensive, acknowledged even by the Jews themselves.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.375295215607494,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.07,
+            "commentatorTierSimilarities": [
+                15.13,
+                39.64,
+                45.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The great and first commandment is the foundational principle that encompasses all others. It requires a complete surrender of our entire being - heart, soul, mind, and strength - to God. It not only sums up the duties of the first table of the Decalogue, but all other actions directed towards God. This commandment holds the highest importance in nature, order, dignity, and causality because it acknowledges God as the first cause and object of our greatest love. Even the Jews themselves recognize its comprehensive nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.2183778803317074,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.85,
+            "commentatorTierSimilarities": [
+                12.68,
+                41.03,
+                46.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great and first commandment is the overarching principle that takes precedence over all others. It is the ultimate surrender of our entire being to God, encompassing our heart, soul, mind, and strength. This commandment not only summarizes the duties of the first table of the Decalogue, but also encompasses all actions directed towards God. It holds the highest significance in nature, order, dignity, and causality, acknowledging God as the first cause and the object of our greatest love. It is widely recognized for its comprehensive nature.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.2382005655288646,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+            "commentatorTierSimilarities": [
+                16.28,
+                40.95,
+                42.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The great and first commandment, which encompasses all others, demands the complete surrender of our heart, soul, mind, and strength to God. It not only summarizes the obligations of the first table of the Decalogue but also governs all actions directed towards God. This commandment takes precedence in nature, order, dignity, and causality, acknowledging God as the primary cause and object of our profound love. Its comprehensive nature is recognized by all, including the Jews themselves.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.1976057309527501,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.16,
+            "commentatorTierSimilarities": [
+                11.28,
+                40.83,
+                47.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great and first commandment, which embraces the others, requires the unqualified surrender of our whole being to God. This commandment encompasses the duties of the first table of the Decalogue and serves as the principle from which all obligations and actions should flow. It holds the supreme position in nature, time, dignity, and causality, acknowledging God as the first cause and surpassing all creatures. Its comprehensive nature is acknowledged by both its object and manner, leaving no room for denial.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.2288865366471136,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.2,
+            "commentatorTierSimilarities": [
+                14.54,
+                37.37,
+                48.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

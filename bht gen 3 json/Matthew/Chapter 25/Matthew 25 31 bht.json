@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:06",
+    "verseRef": "Matthew 25:31",
+    "bestBHT": {
+        "bht": "When the Son of Man comes in His personal glory, accompanied by all the holy angels, He will sit on the glorious throne of His judicial authority. This vision of the last judgment encourages believers to strive for holy and upright conduct, knowing that the heavenly life will be revealed at Christ's second coming. We are reminded of the unmatched majesty and grandeur in Christ's description of Himself, leaving us in awe before the astonishing picture of the final judgment.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.7906551240656419,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            34.38,
+            25.27,
+            40.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This His glory is that also of all his saints, with whom He shall be accompanied.",
+            "In this his coming they are with the angels, and as the angels.",
+            "They are with the angels, and as the angels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When the Son of man shall come in his glory\u2014His personal glory.\" ",
+            "and all the holy angels with him\u2014See Deuteronomy 33:2; Daniel 7:9; Daniel 7:10; Judges 1:14; Hebrews 1:6; 1 Peter 3:22.\" ",
+            "then shall he sit upon the throne of his glory\u2014the glory of His judicial authority."
+        ],
+        "Albert Barnes": [
+            "None of these things took place at the destruction of Jerusalem.",
+            "In his glory - In his own proper honor.",
+            "The throne of his glory - This means, in the language of the Hebrews, his glorious or splendid throne."
+        ],
+        "John Calvin": [
+            "Believers, in order to encourage themselves to a holy and upright conduct, ought to contemplate with the eyes of faith the heavenly life, which, though it is now concealed, will at length be manifested at the last coming of Christ.",
+            "Hence we infer that this was again added, in order that the disciples, being freed from mistake about immediate and sudden happiness, might keep their minds in warfare till Christ\u2019s second coming, and might not give way, or be discouraged, on account of his absence.",
+            "So then Christ now sits on his heavenly throne, as far as it is necessary that he shall reign for restraining his enemies and protecting the Church; but then he will appear openly, to establish perfect order in heaven and earth, to crush his enemies under his feet, to assemble his believing people to partake of an everlasting and blessed life, to ascend his judgment-seat."
+        ],
+        "Philip Schaff": [
+            "The 'great glory' culminates in 'His glory' (comp. John 17:5).",
+            "It is an objection to the pre-millenial view that it must include the redeemed among these 'angels'.",
+            "The sitting expresses finished victory."
+        ],
+        "John Gill": [
+            "When the son of man shall come in his glory,... this account of the last judgment only concerns them; for though all men that ever have been, are, or shall be in every nation under heaven, from Adam to the last man that will be born, will be judged; yet the part of it here described, though it gives a general and lively idea of the whole, only regards the judgment and final state of such who have made a profession of the Christian religion.",
+            "He will appear 'in his glory'; in the glory of the only begotten of the Father, in the glory of his proper deity, in the glory of all the perfections of the divine nature... He will also come in his mediatorial glory, which he had with the Father before the world was, and with all the honour, power, and authority of the judge of the whole earth, to execute judgment upon men.",
+            "And all the holy angels with him... will accompany him not merely, or only as his attendants, to make the solemnity more grand, pompous, and magnificent; but as ministering spirits, who will be employed by him in gathering all before him, separating the wicked the good, and conducting each to their several apartments of bliss or woe: and when he thus appears, then shall he sit upon the throne of his glory; or glorious throne, upon the clouds of heaven, where he will sit as judge, and be visible to all."
+        ],
+        "John Wesley": [
+            "With what majesty and grandeur does our Lord here speak of himself... giving us one of the noblest instances of the true sublime.",
+            "Indeed not many descriptions in the sacred writings themselves seem to equal this.",
+            "Methinks we can hardly read it without imagining ourselves before the awful tribunal it describes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Son of man shall come in his glory, his personal glory, all the holy angels with him, and sit upon the throne of his glory, the glory of His judicial authority, he will be accompanied not only by angels but also by all his saints. Believers should meditate on this heavenly life in order to strengthen their commitment to holy living. This description of the last judgment specifically pertains to those who have professed the Christian religion, giving them a vivid image of what is to come. The grandeur, majesty, and sublimity expressed in this passage are unmatched in the sacred writings, leaving us in awe as we envision ourselves before the awe-inspiring tribunal.",
+            "wordCount": 117,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 1.5769555897387009,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                32.73,
+                26.08,
+                41.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Son of Man comes in His personal glory, accompanied by all the holy angels, He will sit on the glorious throne of His judicial authority. This vision of the last judgment encourages believers to strive for holy and upright conduct, knowing that the heavenly life will be revealed at Christ's second coming. We are reminded of the unmatched majesty and grandeur in Christ's description of Himself, leaving us in awe before the astonishing picture of the final judgment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7906551240656419,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                34.38,
+                25.27,
+                40.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Son of man shall come in his glory, his personal glory, accompanied by all the holy angels with him and sit upon the throne of his glory, believers are reminded to maintain a holy and upright conduct. The vision of the last judgment serves as an encouragement, urging them to persevere in faith until Christ's second coming. The majesty and grandeur of the description leave a profound impact, instilling a sense of awe as we envision ourselves before the awe-inspiring tribunal.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.616670165159436,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                31.08,
+                28.71,
+                40.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Son of man comes in his personal glory, accompanied by all the holy angels and sits upon the throne of his glory, it reminds believers to maintain their commitment to holy living. This description of the last judgment specifically pertains to those who have made a profession of the Christian religion. The grandeur and majesty of this portrayal are awe-inspiring, leaving us in wonder as we imagine ourselves standing before the breathtaking tribunal.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.5368075005783597,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                31.82,
+                27.39,
+                40.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the Son of man comes in his personal glory, his own proper honor, accompanied by all the holy angels, he will sit upon the glorious throne of his judgment. This vivid description of the last judgment serves as a reminder to believers to remain steadfast and unwavering in their faith, persevering until Christ's second coming. The unparalleled magnificence and sublimity portrayed here fill our hearts with reverence as we envision ourselves standing before the awe-inspiring tribunal.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6919345182175078,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                31.14,
+                27.39,
+                41.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

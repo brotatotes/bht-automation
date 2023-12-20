@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:47:50",
+    "verseRef": "Matthew 13:41",
+    "bestBHT": {
+        "bht": "Jesus addresses those who cause offense and hinder others, mingled with the righteous yet not truly part of the Kingdom of heaven. They remain in the world until the time of separation. Christ, the Son of man, will send angels to gather and remove all things that offend from His kingdom. This serves as an admonition to remain zealous and not be deterred by stumbling-blocks, relying on the strength given by the Son of God to overcome them.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.7125630439820028,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+        "commentatorTierSimilarities": [
+            25.16,
+            42.98,
+            31.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "things that offend... it is better to understand it rather of things, as well as men\" ",
+            "men who give cause of offence, tempters and hinderers of others",
+            "things, as well as men, who are afterwards designated"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ungodly shall not stand in the judgment, nor sinners [abide] in the congregation of the righteous.\" (Psalms 1:5) ",
+            "All those who have proved a stumbling-block to others.\" ",
+            "The former class, as the worst, are mentioned first."
+        ],
+        "John Calvin": [
+            "We ought to draw from this a useful admonition, not to become indolent and careless on account of our being surrounded by so many stumbling-blocks, but to be zealous and active in guarding against them.",
+            "It reproves also the effeminacy of those who are so delicate, that the smallest possible stumbling-blocks make them turn back.",
+            "But our minds ought to be fortified with confidence; for the Son of God, who commands his followers to walk in the midst of stumbling-blocks, will unquestionably give us strength to overcome them all."
+        ],
+        "Philip Schaff": [
+            "The Son of man. Christ Himself is Lord of angels and Ruler in this kingdom.",
+            "Out of His kingdom. The angels sent forth by Christ will accomplish what men could not do, ought not to attempt to do, namely, remove all evil from the Church and from the world.",
+            "And them that do iniquity. This class includes the former and yet more. How long this gathering out will continue is not stated."
+        ],
+        "Archibald T. Robertson": [
+            "Out from the midst of the kingdom, because in every city the good and the bad are scattered and mixed together.",
+            "Just as the wheat and the darnel are mixed together in the field till the separation at harvest, so the evil are mixed with the good in the world.",
+            "Jesus does not mean to say that these 'stumbling-blocks' are actually in the Kingdom of heaven and really members of the Kingdom. They are simply mixed in the field with the wheat and God leaves them in the world till the separation comes."
+        ],
+        "John Gill": [
+            "The Son of man shall send forth his angels,.... Meaning himself, whose ministers the angels are; who wait upon him, and are at his beck and command...\" (24 words)",
+            "and they shall gather out of his kingdom: the Gospel church, over which Christ is king, where he rules and governs in the hearts of his people...\" (33 words)",
+            "even all things that offend; who are scandals to Christ, his church, and Gospel, by their wicked principles, or infamous practices...\" (28 words)"
+        ],
+        "John Wesley": [
+            "They shall gather all things that offend.\" ",
+            "Whatever had hindered or grieved the children of God.",
+            "Whatever things or persons had hindered the good seed which Christ had sown from taking root or bearing fruit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:41, Jesus talks about things that offend, referring to men who tempt and hinder others. These stumbling-blocks are mixed in the world with the righteous, just as wheat and darnel are mixed in a field. However, they are not actually members of the Kingdom of heaven; they are left in the world until the time of separation. The Son of man, Christ Himself, will send forth His angels to gather all things that offend, removing them from His kingdom. This passage serves as an admonition to not become careless or turn back due to the presence of stumbling-blocks, but rather to remain zealous and rely on the strength that the Son of God provides.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6330490226758947,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "commentatorTierSimilarities": [
+                27.47,
+                40.93,
+                31.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus speaks of those who give cause of offense and hinder others. These stumbling-blocks are mixed with the righteous, just as wheat and darnel are mixed together in a field. However, they are not actually members of the Kingdom of heaven; they are left in the world till the separation comes. Christ Himself, the Son of man, will send forth his angels to gather out of his kingdom all things that offend, removing them. This serves as an admonition to remain zealous and rely on the strength that the Son of God provides.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.6244087861049488,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                28.94,
+                40.43,
+                30.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus speaks of those who cause offense and hinder others, a mix of both things and men. They are like the evil mixed with the good in the world, leaving them until the time of separation. Christ, the Son of man, will send his angels to gather out of his kingdom all things that offend. This admonishes us to stay vigilant and not become careless or turn back because of stumbling-blocks, relying on the strength that the Son of God provides.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.654899495917064,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                26.99,
+                40.32,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus refers to those who give cause of offense and hinder others, mixed in the world with the righteous, likening them to the mixture of wheat and darnel in a field. These stumbling-blocks are not members of the Kingdom of heaven, remaining in the world until the separation comes. The Son of man, Christ Himself, will send forth His angels to remove all things that offend from His kingdom. This admonition encourages us to stay zealous and rely on the strength provided by the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7088011277106758,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+            "commentatorTierSimilarities": [
+                26.45,
+                42.65,
+                30.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus addresses those who cause offense and hinder others, mingled with the righteous yet not truly part of the Kingdom of heaven. They remain in the world until the time of separation. Christ, the Son of man, will send angels to gather and remove all things that offend from His kingdom. This serves as an admonition to remain zealous and not be deterred by stumbling-blocks, relying on the strength given by the Son of God to overcome them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7125630439820028,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+            "commentatorTierSimilarities": [
+                25.16,
+                42.98,
+                31.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

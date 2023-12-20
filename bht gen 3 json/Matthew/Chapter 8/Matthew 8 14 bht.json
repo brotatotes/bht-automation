@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:45:02",
+    "verseRef": "Matthew 8:14",
+    "bestBHT": {
+        "bht": "Lying sick of a fever, burning with fever, this woman's condition was severe. The type of fever is not specified, but fever itself was considered a disease. Possessing a dual identity as the city of Andrew and Peter, Bethsaida was the place where Peter's wife's mother lay ill. Even though Peter was married, his wife was not mentioned, leaving room for speculation about her fate. It's interesting to note that ministers of the Gospel, like Peter, have the right to marry. This healing miracle took place in Peter's house, indicating his role as a disciple.",
+        "wordCount": 100,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.5010183383845317,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+        "commentatorTierSimilarities": [
+            27.67,
+            34.61,
+            37.73
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sick of a fever [\u03c0\u03c5\u03c1\u03b5\u03c3\u03c3\u03bf\u03c5\u03c3\u03b1\u03bd] . Derived from pur, fire. Our word fever comes through the German feuer."
+        ],
+        "Philip Schaff": [
+            "Bethsaida, however, is called 'the city of Andrew and Peter.' When or why they removed is unknown.",
+            "Peter was therefore married. Jerome and modem Romanist expositors infer that the wife was dead from the fact that the mother when healed 'ministered unto them;' but were that the case Peter must have married again.",
+            "Lying, prostrate, confined to bed with fever."
+        ],
+        "Archibald T. Robertson": [
+            "Lying sick of a fever (\u03b2\u03b9\u03b2\u03bb\u03b7\u03bc\u03b5\u03bd\u03b7\u03bd \u03ba\u03b1 \u03c0\u03c5\u03c1\u03b5\u03c3\u03c3\u03bf\u03c5\u03c3\u03b1\u03bd). Two participles, bedridden (perfect passive of \u03b2\u03b1\u03bb\u03bb\u03c9) and burning with fever (present active).\" ",
+            "How long the fever had had her we have no means of knowing, possibly a sudden and severe attack (Mark 1:30), as they tell Jesus about her on reaching the house of Peter.",
+            "We are not told what kind of fever it was. Fever itself was considered a disease. 'Fever' is from German feuer (fire) like the Greek \u03c0\u03c5\u03c1."
+        ],
+        "John Gill": [
+            "Though Andrew and Peter were originally of Bethsaida, a place not far from this, but had removed hither since their call by Christ, this being his city.",
+            "The distemper was very raging and furious, it had got to a very great height.",
+            "Hence it may be observed against the Papists, that ministers of the Gospel may lawfully marry; Peter, an apostle, and from whom they pretend to derive their succession of bishops, was a married man."
+        ],
+        "John Wesley": [
+            "Peter's wife's mother \u2014 St. Peter was then a young man, as were all the apostles. Mark 1:29; Luke 4:38."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Lying sick of a fever, burning with fever, this woman's condition was severe. The type of fever is not specified, but fever itself was considered a disease. Possessing a dual identity as the city of Andrew and Peter, Bethsaida was the place where Peter's wife's mother lay ill. Even though Peter was married, his wife was not mentioned, leaving room for speculation about her fate. It's interesting to note that ministers of the Gospel, like Peter, have the right to marry. This healing miracle took place in Peter's house, indicating his role as a disciple.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5010183383845317,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                27.67,
+                34.61,
+                37.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Lying sick of a fever, burning with fever, this woman's condition was severe. The type of fever is not specified, but fever itself was considered a disease. The healing took place in Peter's house, indicating his role as a disciple. The city of Bethsaida, where Peter's wife's mother was, links to Peter and Andrew. The commentary speculates about Peter's wife, with some assuming she was dead. This passage sheds light on the permissibility of ministers marrying.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4328532569966643,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.99,
+            "commentatorTierSimilarities": [
+                29.97,
+                34.02,
+                36.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Lying sick of a fever, burning with fever, this severe illness left the woman bedridden. The type of fever is unspecified, but the word fever itself is derived from the German word feuer, meaning fire. The healing occurred in Peter's house, connecting it to his discipleship. The city of Bethsaida, associated with Peter and Andrew, was his previous residence. There is speculation about the state of Peter's wife, with some suggesting she was deceased. This account highlights the permissible nature of ministers marrying.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.3879881687953475,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+            "commentatorTierSimilarities": [
+                36.66,
+                33.76,
+                29.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Lying sick of a fever, burning with fever, this woman's condition was severe. Fever, derived from the German word feuer, signifies fire. The healing took place in Peter's house, connecting it to his discipleship. The city of Bethsaida, which belongs to Peter and Andrew, is mentioned. Speculation arises about the fate of Peter's wife, with suggestions of her death. This passage sheds light on the permissibility of ministers marrying, emphasizing Peter's marital status as an apostle.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4256607556218015,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
+            "commentatorTierSimilarities": [
+                34.08,
+                32.48,
+                33.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Lying sick of a fever, burning with fever, this woman's condition was severe. Fever, derived from the German word feuer, denotes fire. The healing took place in Peter's house, connecting it to his discipleship. The city of Bethsaida, associated with Peter and Andrew, is mentioned. Speculation arises about the fate of Peter's wife, with suggestions of her death. This highlights the permissibility of ministers marrying, emphasizing Peter's marital status as an apostle.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4438190901921533,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                35.36,
+                32.11,
+                32.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

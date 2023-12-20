@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 23:49:06",
+    "verseRef": "Matthew 16:17",
+    "bestBHT": {
+        "bht": "Blessed are you because the Father revealed the Son to you. The confession of Peter, that Jesus is the Messiah, the Son of the living God, is a result of divine illumination, not human teaching. Peter's humble background contrasts with the spiritual elevation he experiences through God's revelation. Jesus accepts this confession, claiming his deity, and recognizes Peter's role in communicating this truth. The knowledge of Jesus as the Messiah must be a matter of divine revelation, influencing heart and life.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.0971776387026595,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+        "commentatorTierSimilarities": [
+            33.04,
+            40.2,
+            26.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed art thou...is a solemn expression of blessing, an inclusion of him to whom it is addressed in the kingdom of heaven, not a mere word of praise.",
+            "The reason...the fact that the Father had revealed the Son to him...the occurrence of the word 'reveal' seems to indicate a reference to this very saying of the Lord.",
+            "[St. Paul's] claim to be another such rock or pillar as Peter and the other great Apostles, because the Son had been revealed in him not of man nor by men, but by God Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter, in this noble testimony to Christ, only expressed the conviction of all the Twelve, yet since he alone seems to have had clear enough apprehensions to put that conviction in proper and suitable words, and courage enough to speak them out, and readiness enough to do this at the right time\u2014so he only, of all the Twelve, seems to have met the present want, and communicated to the saddened soul of the Redeemer at the critical moment that balm which was needed to cheer and refresh it.",
+            "This name, denoting his humble fleshly extraction, seems to have been purposely here mentioned, to contrast the more vividly with the spiritual elevation to which divine illumination had raised him.",
+            "This is not the fruit of human teaching."
+        ],
+        "Marvin Vincent": [
+            "Blessed [\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c2] . See on ch. Matthew 5:3."
+        ],
+        "John Calvin": [
+            "Christ justly pronounces him to be blessed who has honestly made such a confession.",
+            "Whoever has obtained Christ wants nothing that is necessary to perfect happiness.",
+            "The special illumination of God is here contrasted with flesh and blood."
+        ],
+        "Philip Schaff": [
+            "The knowledge was not from any human source.",
+            "The real knowledge of Jesus as the Messiah, the Son of the living God, is and must be a matter of Divine revelation.",
+            "Men may, of themselves, hold such a doctrine as part of a creed, but a belief that influences heart and life is the result of a Divine revelation made in us."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus accepts the confession as true. Thereby Jesus on this solemn occasion solemnly claims to be the Messiah, the Son of the living God, his deity in other words.",
+            "The disciples express positive conviction in the Messiahship or Christhood of Jesus as opposed to the divided opinions of the populace.",
+            "The Father had helped Peter get this spiritual insight into the Master's Person and Work."
+        ],
+        "John Gill": [
+            "He was a blessed man, not by his first, but by his second birth.",
+            "The knowledge he had of the Messiah, was not owing to his earthly father, or to the advantage of an education, but to the revelation he had from Christ's Father which is in heaven.",
+            "The Gospel is a revelation, it consists of revealed truths; and which are to be received and believed upon the testimony and credit of the revealer, without entering into carnal reasonings, and disputes about them."
+        ],
+        "John Wesley": [
+            "Flesh and blood \u2014 That is, thy own reason, or any natural power whatsoever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are you because the Father revealed the Son to you. This confession of Peter, expressing the conviction that Jesus is the Messiah, the Son of the living God, is a result of divine illumination, not human teaching. Peter's humble background as a fisherman contrasts with the spiritual elevation he experiences through God's revelation. Jesus accepts this confession, claiming his deity, and recognizes Peter's role in communicating this truth. The knowledge of Jesus as the Messiah must be a matter of divine revelation, influencing heart and life. This confession, obtained through the help of the Father, brings true happiness and contrasts with reliance on human reasoning.",
+            "wordCount": 109,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9980182020471529,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                34.43,
+                37.86,
+                27.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are you because the Father revealed the Son to you. This confession of Peter, expressing the conviction that Jesus is the Messiah, the Son of the living God, is a result of divine illumination, not human teaching. Peter's humble background contrasts with the spiritual elevation he experiences through God's revelation. Jesus accepts this confession, claiming his deity, and recognizes Peter's role in communicating this truth. The knowledge of Jesus as the Messiah must be a matter of divine revelation, influencing heart and life, and bringing true happiness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0631394227825584,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                34.24,
+                38.79,
+                26.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are you because the Father revealed the Son to you. The confession of Peter, that Jesus is the Messiah, the Son of the living God, is a result of divine illumination, not human teaching. Peter's humble background contrasts with the spiritual elevation he experiences through God's revelation. Jesus accepts this confession, claiming his deity, and recognizes Peter's role in communicating this truth. The knowledge of Jesus as the Messiah must be a matter of divine revelation, influencing heart and life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0971776387026595,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                33.04,
+                40.2,
+                26.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are you, because the Father revealed the Son to you. This confession of Peter, acknowledging Jesus as the Messiah, the Son of the living God, is not a result of human teaching, but of divine revelation. Peter's humble origins contrast with the spiritual elevation he experiences through this illumination. Jesus accepts this confession, affirming his deity, and acknowledges Peter's pivotal role in conveying this truth. Knowledge of Jesus as the Messiah must come through divine revelation, shaping one's heart and life for true happiness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.0375730061380453,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                34.86,
+                38.01,
+                27.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are you, for the Father revealed the Son to you. The confession made by Peter, recognizing Jesus as the Messiah and the Son of the living God, is not a product of human teaching. This revelation highlights Peter's unique ability to articulate the beliefs shared by all the disciples. Jesus accepts this confession, reaffirming his divine identity. The knowledge of Jesus as the Messiah requires divine illumination, contrasted with reliance on human reasoning. This revelation brings true happiness, surpassing earthly limitations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9314995036313811,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                32.6,
+                38.7,
+                28.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

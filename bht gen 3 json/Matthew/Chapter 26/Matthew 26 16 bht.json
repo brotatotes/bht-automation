@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 23:53:06",
+    "verseRef": "Matthew 26:16",
+    "bestBHT": {
+        "bht": "Judas sought a good chance to betray Jesus and stuck to his task with determination. This opportunity was well-suited for the crafty plan of the Sanhedrin, providing a time and place for the betrayal. Judas acted discreetly, seeking a private moment in order to avoid any disturbances or interference. Influenced by Satan and enticed by the desire for money, he carefully observed and swiftly seized his opportunity to carry out his wicked deed.",
+        "wordCount": 74,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 2.154731445435857,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+        "commentatorTierSimilarities": [
+            40.07,
+            34.75,
+            25.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Opportunity. A time and place suited to the crafty policy of the Sanhedrin."
+        ],
+        "Archibald T. Robertson": [
+            "Sought opportunity (\u03b5\u03b6\u03b7\u03c4\u03b5 \u03b5\u03c5\u03ba\u03b1\u03c1\u03b9\u03b1\u03bd). A good chance. Note imperfect tense. Judas went at his business and stuck to it. "
+        ],
+        "John Gill": [
+            "And from that time he sought opportunity to betray him.",
+            "In the most private manner, when he was alone, and in some solitary place, that no tumult might arise, and that there might be no danger of a rescue.",
+            "Being prompted on by Satan, and the lucre of the money he was to receive, he narrowly watched, and diligently observed, the best and most fitting season to perform his enterprise, and quickly offered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas sought the perfect chance to betray Jesus, persisting in his mission even after he had made his decision. This opportunity was a time and place that would suit the cunning plan of the Sanhedrin. Seeking this moment in private, Judas aimed to avoid any disturbances or chances for Jesus to be rescued. Prompted by Satan and the love of money, he carefully observed and eagerly offered to carry out his wicked scheme.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.99044821762728,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                39.69,
+                34.21,
+                26.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas diligently sought a good chance to betray Jesus, not wavering in his pursuit. This opportunity was a time and place well-suited for the crafty plan of the Sanhedrin. Acting in secrecy, Judas aimed to prevent any disruptions or potential rescue efforts. Driven by Satan's prompting and the lure of financial gain, he carefully observed and swiftly seized upon the most fitting occasion to carry out his treacherous act.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.938090133247944,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                39.45,
+                36.37,
+                24.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas sought a good chance to betray Jesus and stuck to his task with determination. This opportunity was well-suited for the crafty plan of the Sanhedrin, providing a time and place for the betrayal. Judas acted discreetly, seeking a private moment in order to avoid any disturbances or interference. Influenced by Satan and enticed by the desire for money, he carefully observed and swiftly seized his opportunity to carry out his wicked deed.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.154731445435857,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                40.07,
+                34.75,
+                25.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas actively sought a good opportunity, persisting in his mission to betray Jesus. This chance was one that would align with the cunning plan of the Sanhedrin, offering a suitable time and place for the betrayal to occur. Intent on secrecy, Judas chose a private setting to minimize the risk of any rescue attempts or disturbances. Driven by Satan's influence and the allure of financial gain, he carefully observed and promptly seized the most appropriate moment to carry out his treacherous act.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.8673584814389779,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                40.38,
+                31.59,
+                28.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas persistently sought a fitting opportunity for his betrayal, diligently pursuing it without hesitation. This chance aligned with the Sanhedrin's scheme, offering a conducive time and place for the betrayal. Judas acted covertly, aiming to avoid any disruptions or potential rescues. Motivated by Satan and enticed by money, he carefully observed and swiftly seized the optimal moment to execute his treacherous plan.",
+            "wordCount": 63,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.0558072848541284,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                40.92,
+                33.37,
+                25.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

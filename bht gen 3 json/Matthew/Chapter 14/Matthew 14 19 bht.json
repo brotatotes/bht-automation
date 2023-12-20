@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:48:10",
+    "verseRef": "Matthew 14:19",
+    "bestBHT": {
+        "bht": "The thanks to heaven is the blessing on the meat - Christ has taught us that we cannot partake of our food with holiness and purity unless we express our gratitude to God from whose hand it comes to us. This miracle had symbolic meaning for the Twelve, who had just returned from their mission, and the disciples received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them. It is hard for some to believe this nature miracle, but it is recorded by all four Gospels.",
+        "wordCount": 93,
+        "quoteTokenProportion": 48.53,
+        "qualityScore": 1.9666925987072328,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+        "commentatorTierSimilarities": [
+            25.14,
+            41.9,
+            32.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The thanks to heaven is the blessing on the meat.\" ",
+            "This miracle was one of symbolic meaning for the Twelve, who had just returned from their mission.\" ",
+            "The cophinus (which is the word here rendered basket) was the usual accompaniment of the Jew."
+        ],
+        "Marvin Vincent": [
+            "Brake. As the Jewish loaves were thin cakes, a thumb's breadth in thickness, and more easily broken than cut."
+        ],
+        "John Calvin": [
+            "Christ has taught us, by his example, that we cannot partake of our food with holiness and purity, unless we express our gratitude to God, from whose hand it comes to us.",
+            "Christ has therefore laid down for his followers the proper manner of taking food, that they may not profane their own persons and the gifts of God by wicked sacrilege.",
+            "Not that such an attitude is at all times necessary when we pray, but because the Son of God did not choose to disregard the outward forms which are fitted to aid human weakness."
+        ],
+        "Philip Schaff": [
+            "Christ's blessings were received through those He commanded to impart them.",
+            "The word 'bless' in the Bible means God's favoring us, our asking favors of Him and our thanksgiving for such favors; the three senses are always more or less connected.",
+            "The disciples possibly received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them."
+        ],
+        "Archibald T. Robertson": [
+            "The orderly arrangement (Mark) made it easy to count them and to feed them.",
+            "This is a nature miracle that some men find it hard to believe, but it is recorded by all four Gospels and the only one told by all four.",
+            "He who created the universe surely has power to go on creating what he wills to do."
+        ],
+        "John Gill": [
+            "The multitude were commanded to sit down by Christ, which, without his orders, they would never have done.",
+            "And looking up to heaven; to his Father in heaven, who is the Father of mercies; and from whom every mercy and blessing of life comes; and giving thanks to him for the same, as was usually done by him.",
+            "Who received all their food from Christ, which they distributed to the churches, and fed them with."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The thanks to heaven is the blessing on the meat - Christ has taught us that we cannot partake of our food with holiness and purity unless we express our gratitude to God from whose hand it comes to us. This miracle had symbolic meaning for the Twelve, who had just returned from their mission, and the orderly arrangement made it easy to count them and feed them. The disciples received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them. It is hard for some to believe this nature miracle, but it is recorded by all four Gospels and the only one told by all four. Christ's blessings were received through those He commanded to impart them, and the multitude were commanded to sit down by Christ, which, without His orders, they would never have done.",
+            "wordCount": 144,
+            "quoteTokenProportion": 49.47,
+            "qualityScore": 2.044648960927903,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                23.01,
+                43.8,
+                33.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The thanks to heaven is the blessing on the meat. This miracle had symbolic meaning for the Twelve, who had just returned from their mission. The orderly arrangement made it easy to count them and feed them. The disciples received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them. It is hard for some to believe this nature miracle, but it is recorded by all four Gospels.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.8117421553348665,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                31.92,
+                43.88,
+                24.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The thanks to heaven is the blessing on the meat - Christ has taught us that we cannot partake of our food with holiness and purity unless we express our gratitude to God from whose hand it comes to us. This miracle had symbolic meaning for the Twelve, who had just returned from their mission, and the disciples received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them. It is hard for some to believe this nature miracle, but it is recorded by all four Gospels.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.9666925987072328,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                25.14,
+                41.9,
+                32.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The thanks to heaven is the blessing on the meat - Christ has taught us that we cannot partake of our food with holiness and purity unless we express our gratitude to God from whose hand it comes to us. This miracle had symbolic meaning for the Twelve, who had just returned from their mission, and the disciples received the broken loaves and fishes as they were, the miraculous increase taking place as they distributed them. It is hard for some to believe this nature miracle, but it is recorded by all four Gospels.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.9666925987072328,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                25.14,
+                41.9,
+                32.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The miracle of the multiplied loaves and fishes holds symbolic meaning for the Twelve, freshly returned from their mission, and reflects Christ's power as the Creator to continue to create. Expressing gratitude to God for the blessings received is essential, as it ensures the purity and holiness of the food we partake in. This nature miracle is recorded by all four Gospels, testifying to its veracity. The disciples distributed the broken loaves and fishes as they were, witnessing the miraculous increase as they did so.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.900738524666783,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                23.84,
+                47.79,
+                28.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

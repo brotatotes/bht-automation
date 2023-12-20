@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:50:39",
+    "verseRef": "Matthew 21:18",
+    "bestBHT": {
+        "bht": "Jesus, feeling hungry after possibly spending the night outside without breakfast, begins his journey from Bethany to Jerusalem. This physical want may symbolize his desire for better fruit from his chosen people. As hunger troubled him, he overcame it by seeking to promote the glory of the Father. In cursing the tree, he intended to expose the emptiness of hypocrisy and demonstrate the fate that awaits hypocrites. Rising early each day, Christ consistently traveled to and from Jerusalem, demonstrating his true human nature, sinless but fully like ours.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.58,
+        "qualityScore": 1.5530409781639707,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+        "commentatorTierSimilarities": [
+            32.78,
+            34.18,
+            33.04
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "I take for granted that Christ did not pretend hunger, but was actually hungry...",
+            "Certainly it was not the fury of passion that led him to curse the tree... but as hunger was troublesome to him according to the feeling of the flesh, he determined to overcome it by an opposite affection; that is, by a desire to promote the glory of the Father...",
+            "He intended, however, to present in this tree an outward sign of the end which awaits hypocrites, and at the same time to expose the emptiness and folly of their ostentation."
+        ],
+        "Philip Schaff": [
+            "To give point to the incident, Matthew, unites the two morning walks from Bethany (on Monday and Tuesday).",
+            "An actual physical want; it may have been occasioned by His leaving Bethany very early in His zeal to purify the temple where He had seen the abuses as He looked about on the previous evening.",
+            "Human want and Divine power are exhibited simultaneously...This hunger may symbolize His longings for some better fruit from His chosen people."
+        ],
+        "Archibald T. Robertson": [
+            "He hungered (\u03b5\u03c0\u03b5\u03b9\u03bd\u03b1\u03c3\u03b5\u03bd). Ingressive aorist indicative, became hungry, felt hungry (Moffatt). Possibly Jesus spent the night out of doors and so had no breakfast. "
+        ],
+        "John Gill": [
+            "so early did Christ rise, and return from Bethany to Jerusalem",
+            "Thus Christ, day after day, went to and from Jerusalem",
+            "which proves the truth of his human nature, which was in all respects like to ours, excepting sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, feeling hungry after possibly spending the night outside without breakfast, begins his journey from Bethany to Jerusalem. This physical want may symbolize his desire for better fruit from his chosen people. As hunger troubled him, he overcame it by seeking to promote the glory of the Father. In cursing the tree, he intended to expose the emptiness of hypocrisy and demonstrate the fate that awaits hypocrites. Rising early each day, Christ consistently traveled to and from Jerusalem, demonstrating his true human nature, sinless but fully like ours.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.5530409781639707,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+            "commentatorTierSimilarities": [
+                32.78,
+                34.18,
+                33.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Feeling hungry after spending the night outside, Jesus begins his journey from Bethany to Jerusalem, symbolizing his desire for better fruit from his chosen people. As hunger troubles him, he seeks to promote the Father's glory and overcomes it by his opposite affection. In cursing the tree, he exposes the folly of ostentation and the fate that awaits hypocrites. Rising early each day, Christ consistently travels to and from Jerusalem, proving his true human nature, sinless but like ours.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.4463557946232053,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "commentatorTierSimilarities": [
+                28.21,
+                35.26,
+                36.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After spending the night outside, Jesus feels hunger as he starts his journey from Bethany to Jerusalem, emphasizing his longing for better fruit from his chosen people. Hunger troubles him, but he overcomes it by seeking to promote the glory of the Father. Cursing the tree, he intends to expose the emptiness of hypocrisy and the fate that awaits hypocrites. Rising early each day, Christ consistently travels to and from Jerusalem, proving his true human nature, which is similar to ours except for sin.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4698623772471677,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
+            "commentatorTierSimilarities": [
+                29.49,
+                34.82,
+                35.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, feeling hunger after spending the night outside without breakfast, begins his journey from Bethany to Jerusalem. This physical want symbolizes his desire for better fruit from his chosen people. As hunger troubles him, he seeks to promote the glory of the Father. In cursing the tree, he exposes the emptiness of hypocrisy and the fate that awaits hypocrites. Rising early each day, Christ travels to and from Jerusalem, proving his true human nature, similar to ours but sinless.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.506553067877679,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                32.29,
+                34.46,
+                33.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus feels hunger as he begins his journey from Bethany to Jerusalem, symbolizing his desire for better fruit from his chosen people. He overcomes this physical want by seeking to promote the glory of the Father. In cursing the tree, he exposes the emptiness of hypocrisy and the fate awaiting hypocrites. Rising early each day, Christ consistently travels to and from Jerusalem, proving his true human nature, which is like ours in all respects except sin.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.3006363092606266,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                24.49,
+                35.99,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

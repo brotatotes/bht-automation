@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:46",
+    "verseRef": "Matthew 26:58",
+    "bestBHT": {
+        "bht": "Peter, though more courageous than the rest, still fell short in his courage. He followed Jesus, but from a distance, hoping to avoid being noticed. This act of following Him afar off revealed his fear and lack of true devotion. Many of us imitate Peter's hesitation, afraid to closely follow the Savior. However, true piety requires us to be near Christ, to desire His companionship, and to willingly follow Him at all times. Peter's choice to remain at a distance led him into dangerous situations and eventually to denial.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.5624394533130213,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+        "commentatorTierSimilarities": [
+            36.18,
+            25.93,
+            37.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Many, in this, imitate Peter. They are afraid to follow the Saviour closely.",
+            "Religion requires us to be near to Christ.",
+            "We may measure our piety by our desire to be with him, to be like him, and by our willingness to follow him always."
+        ],
+        "Philip Schaff": [
+            "Such following leads to danger, not to victory.",
+            "He remained there for some time, from about midnight to cock crowing (three o\u2019clock).",
+            "Annas and Caiaphas therefore probably lived in the same house."
+        ],
+        "Archibald T. Robertson": [
+            "Peter rallied from the panic and followed afar off...more courageous than the rest and yet not courageous enough.",
+            "Peter 'sat with the officers' to see and hear and hoping to escape notice.",
+            "Peter...not courageous enough."
+        ],
+        "John Gill": [
+            "Peter's following Christ showed love to him; he was lothe to leave him, his bowels moved towards him, and he wanted to know how it would fare with him, and what would become of him.\" ",
+            "Following him afar off betrayed fear, lest he should be observed, and taken up, and come into danger.",
+            "He had got into bad company, and was in the way of temptation; and though he had no design in following Jesus, and in going into the high priest's palace, and seating himself among the servants to deny his Lord, yet all this led on to it."
+        ],
+        "John Wesley": [
+            "Peter followed him afar off \u2014 Variously agitated by conflicting passions.",
+            "Love constrained him to follow his Master; fear made him follow afar off.",
+            "Unfit companions as the event showed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, though more courageous than the others, was still not courageous enough. He followed Jesus from a distance, hoping to remain unnoticed. However, this fear and distance betrayed his lack of true courage and devotion. Many of us are like this, afraid to draw near to Christ. Yet true religion requires us to be close to Him, to desire His presence, and to be willing to follow Him always. Following Him from afar may seem safer, but it leads us into danger rather than victory. Peter's unfortunate decision to sit among the officers in the high priest's palace only set him up for the temptation and denial that would follow. Love compelled him to follow, but fear kept him at a distance, leading him to unfit companions and the eventual denial of his Lord.",
+            "wordCount": 136,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.4906358463100886,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.91,
+            "commentatorTierSimilarities": [
+                35.26,
+                26.37,
+                38.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, though more courageous than the rest, was still not courageous enough. He followed Jesus, but from a safe distance, not wanting to draw attention to himself. This was a demonstration of fear rather than true devotion. Many of us are like Peter, afraid to closely follow Christ. However, true religion requires us to be near Him, to desire His presence, and be willing to follow Him in all circumstances. Peter's decision to keep his distance led him to unfit company and eventually to deny Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.492295946795589,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+            "commentatorTierSimilarities": [
+                38.14,
+                26.39,
+                35.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, though more courageous than the rest, still fell short in his courage. He followed Jesus, but from a distance, hoping to avoid being noticed. This act of following Him afar off revealed his fear and lack of true devotion. Many of us imitate Peter's hesitation, afraid to closely follow the Savior. However, true piety requires us to be near Christ, to desire His companionship, and to willingly follow Him at all times. Peter's choice to remain at a distance led him into dangerous situations and eventually to denial.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5624394533130213,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                36.18,
+                25.93,
+                37.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, though more courageous than the rest, still lacked true courage. He followed Jesus, but from a distance, hoping to go unnoticed. This act of following afar off revealed his fear and lack of genuine devotion. Many of us imitate Peter in our reluctance to closely follow the Savior. However, authentic faith requires us to draw near to Christ, desiring His presence and intentionally choosing to follow Him. Peter's decision to keep his distance led to danger and, ultimately, to his denial of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4875979954364724,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "commentatorTierSimilarities": [
+                37.33,
+                25.41,
+                37.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, though braver than the others, still lacked the necessary courage. He followed Jesus from a distance, hoping to stay unnoticed. This act of distant following revealed his fear and insufficient devotion. Many of us imitate Peter in our hesitation to closely follow the Savior. Yet true faith calls us to draw near to Christ, desiring His presence, and willingly following Him. Peter's choice to keep his distance led him into danger and ultimately to the denial of his Lord.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4692867861522927,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                36.06,
+                25.56,
+                38.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:43:20",
+    "verseRef": "Matthew 4:7",
+    "bestBHT": {
+        "bht": "Jesus teaches an important lesson in Matthew 4:7. By quoting Deuteronomy, he emphasizes the need to understand Scripture as a whole and avoid distorting isolated passages. We should not create unnecessary danger or doubt in an attempt to test God's promises. Rather, we should humbly submit to His guidance and not neglect the means He has provided for our protection. By embracing the unity of Scripture, we guard ourselves against error and resist the temptation to use God's Word for our own purposes.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.121042193421032,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+        "commentatorTierSimilarities": [
+            31.97,
+            30.98,
+            37.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "not \u2018on the contrary,\u2019 which the original word never simply means",
+            "The addition of a second Scripture qualifies and interprets the first",
+            "but does not refute it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "True, it is so written, and on that promise I implicitly rely; but in using it there is another Scripture which must not be forgotten.",
+            "Preservation in danger is divinely pledged: shall I then create danger, either to put the promised security skeptically to the proof, or wantonly to demand a display of it?",
+            "That were 'to tempt the Lord my God,' which, being expressly forbidden, would forfeit the right to expect preservation."
+        ],
+        "Albert Barnes": [
+            "Again the Saviour replied to Satan by a text of Scripture - a passage which expressly forbade an act like this.\" ",
+            "Thou shalt not try him; or, thou shalt not, by throwing thyself into voluntary and uncommanded dangers, appeal to God for protection, or trifle with the promises made to those who are thrown into danger by his providence.",
+            "Thus, Satan, artfully using and perverting Scripture, was met and repelled by Scripture rightly applied."
+        ],
+        "Marvin Vincent": [
+            "In that 'It is written again' of Christ, lies a great lesson, quite independent of that particular scripture which, on this occasion, he quotes, or of the use to which he turns it.",
+            "There lies in it the secret of our safety and defence against all distorted use of isolated passages in holy scripture.",
+            "Only as we enter into the unity of scripture, as it balances, completes, and explains itself, are we warned against error and delusion, excess or defect on this side or the other."
+        ],
+        "John Calvin": [
+            "There is no other way, in which we have a right to expect the assistance promised in that passage, than when believers humbly submit themselves to his guidance.",
+            "God is tempted in many ways: but in this passage, the word tempt denotes the neglect of those means which he puts into our hands.",
+            "Whoever desires to make an experiment of the divine power, when there is no necessity for it, tempts God by subjecting his promises to an unfair trial."
+        ],
+        "Philip Schaff": [
+            "Our Lord corrects the misinterpretation of poetic Scripture by citing a plain statement of the law.",
+            "Thou shalt not tempt, turning it directly upon the tempter, for every tempting of God is caused by Satan.",
+            "By such rash confidence God would be tempted. The direct address involves another thought: that Satan in thus tempting Him was tempting the Lord his God. Religious fanaticism is a tempting of God."
+        ],
+        "Archibald T. Robertson": [
+            "Thou shall not tempt (\u03bf\u03c5\u03ba \u03b5\u03ba\u03c0\u03b5\u03b9\u03c1\u03b1\u03c3\u03b5\u03b9\u03c2). Jesus quotes Deuteronomy again (Deuteronomy 6:16) and shows that the devil has wholly misapplied God's promise of protection. "
+        ],
+        "John Gill": [
+            "Christ takes no notice of the false and wrong citation of scripture made by the devil, nor of any misapplication of it; but mildly replies, by opposing another passage of scripture to him.\" ",
+            "He thereby tacitly shows that he had produced scripture to a very wrong purpose, since that could never contradict itself.",
+            "He himself was God; and therefore as it was not right in him to tempt God the Father, by taking such a step as Satan solicited him to; nor would it be right in any other; so it was iniquitous in the devil to tempt him who was God over all, blessed for ever."
+        ],
+        "John Wesley": [
+            "Thou shalt not tempt the Lord thy God \u2014 By requiring farther evidence of what he hath already made sufficiently plain. Deuteronomy 6:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 4:7, Jesus teaches us a vital lesson about the proper use of Scripture. By quoting from Deuteronomy, he not only interprets and qualifies the previous verse, but also emphasizes the importance of considering all of God's Word in unity. Jesus shows us that we should not create unnecessary danger or doubt in order to put God's promises to the test. Rather, we should humbly submit ourselves to His guidance and not neglect the means He has provided for our protection. By understanding and applying the fullness of Scripture, we guard ourselves against error and the temptation to distort God's Word for our own purposes.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.220171271297831,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                32.24,
+                31.3,
+                36.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's response in Matthew 4:7 reveals a crucial lesson about Scripture. By quoting from Deuteronomy, he not only affirms the previous statement but highlights the importance of considering Scripture as a whole. He teaches us not to deliberately put ourselves in danger to test God's promises, for that would be tempting Him. Instead, we should faithfully rely on His protection in times of genuine need. This passage reminds us to approach the Bible unifiedly, guarding against any misuse or misinterpretation of isolated verses.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.16318428045703,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+            "commentatorTierSimilarities": [
+                31.07,
+                32.13,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches an important lesson in Matthew 4:7. By quoting Deuteronomy, he emphasizes the need to understand Scripture as a whole and avoid distorting isolated passages. We should not create unnecessary danger or doubt in an attempt to test God's promises. Rather, we should humbly submit to His guidance and not neglect the means He has provided for our protection. By embracing the unity of Scripture, we guard ourselves against error and resist the temptation to use God's Word for our own purposes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.121042193421032,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                31.97,
+                30.98,
+                37.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 4:7, Jesus cautions against distorting isolated passages of Scripture by quoting from Deuteronomy. He reminds us that we must not test God's promises by deliberately creating danger or doubt. Instead, we should humbly rely on His guidance and not neglect the means provided for our protection. By embracing the unity of Scripture, we guard ourselves against error and resist the temptation to misuse God's Word. This passage teaches us the importance of interpreting and applying the entirety of Scripture for our spiritual well-being.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.2200830934858233,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                32.06,
+                32.74,
+                35.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 4:7, Jesus teaches us to respect the unity of Scripture by quoting Deuteronomy. He warns against creating unnecessary danger or doubt to test God's promises. Instead, we should humbly submit to His guidance and not neglect the means He provides for our protection. By considering the entirety of Scripture, we guard against error and avoid distorting isolated verses. This passage encourages us to approach God's Word with reverence, relying on its balanced and complete message for our understanding and application.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.1680465447497568,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+            "commentatorTierSimilarities": [
+                32.37,
+                31.89,
+                35.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

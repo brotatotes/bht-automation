@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:52:57",
+    "verseRef": "Matthew 25:42",
+    "bestBHT": {
+        "bht": "The surprise displayed by the sheep and the goats reveals an uncertainty about their own identities, as some sheep even question if they are goats and vice versa. Nonetheless, the more pressing issue here is the failure to provide food to the hungry, showcased through the repetition of the negative. This neglect exposes a lack of compassion and care, indicating a lack of true faith and love for Christ. Consequently, those who disregard the needs of others, despite professing allegiance to Christ, face just condemnation and are unworthy of the kingdom of heaven.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.1338648986491764,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.04,
+        "commentatorTierSimilarities": [
+            44.35,
+            0.0,
+            55.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "No meat (\u03bf\u03c5\u03ba \u03b5\u03b4\u03c9\u03ba\u03b1\u03c4\u03b5 \u03bc\u03bf \u03c6\u03b1\u03b3\u03b5\u03b9\u03bd). You did not give me anything to eat.",
+            "The repetition of the negative \u03bf\u03c5 in Matthew 25:42 and Matthew 25:43 is like the falling of clods on the coffin or the tomb.",
+            "It is curious the surprise here shown both by the sheep and the goats. Some sheep will think that they are goats and some goats will think that they are sheep."
+        ],
+        "John Gill": [
+            "Hence it appears, that these were such as dwelt among Christians, and professed the Christian name, and yet disregarded the poor members of Christ in distress.",
+            "which showed that they had no true faith in him, and love to him, and therefore are justly condemned by him.",
+            "the grace of God was not in them, and therefore had neither right unto, nor meetness for, the kingdom of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 25:42, it is clear that the importance of giving and receiving extends beyond material possessions. Not providing food to the hungry represents a failure to show compassion and care. The repetition of the negative emphasizes the severity of this neglect, as if it were the final nails on a coffin. What is most striking is the surprise shown by both the sheep and the goats. Some sheep may doubt their own identity, thinking they are goats, while some goats may believe they are sheep. This suggests that outward appearances can be deceiving, and even those who profess to follow Christ may fail to display genuine love and faith. Those who neglect the needs of others, despite claiming the Christian name, are ultimately revealed to have no true faith or love for Christ. As a result, they are justly condemned, for their lack of grace and compassion reveals their unworthiness of the kingdom of heaven.",
+            "wordCount": 155,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.1663402401915388,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.12,
+            "commentatorTierSimilarities": [
+                45.58,
+                0.0,
+                54.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is striking to see that, in the mentioned verse, both the sheep and the goats express surprise, as if unsure of their own identity. This suggests that even those who claim to be followers of Christ may fall short in displaying genuine love and faith. The repetition of the negative emphasizes the severity of neglecting to provide for the hungry, likening it to the closing of a coffin. This neglect reveals a lack of true faith, love, and grace, rendering one unworthy of the kingdom of heaven.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.2386935066569782,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.53,
+            "commentatorTierSimilarities": [
+                44.52,
+                0.0,
+                55.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, the surprise shown by both the sheep and the goats highlights the ambiguity of one's identity. Some sheep might question if they are actually goats, while some goats may believe they are sheep. However, the failure to provide food to the hungry signifies a lack of compassion and care, illustrated by the repetition of the negative. Those who disregard the needs of others, despite professing the Christian name, reveal a lack of true faith and love for Christ, resulting in their condemnation and exclusion from the kingdom of heaven.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3508489807656323,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.26,
+            "commentatorTierSimilarities": [
+                53.9,
+                0.0,
+                46.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The surprise expressed by both the sheep and the goats in this verse suggests a confusion about their own identities, with some sheep doubting if they are actually goats, and vice versa. However, a more critical matter at hand is the failure to provide nourishment for the hungry. This neglect indicates a lack of genuine compassion, as emphasized by the repetition of the negative. Despite claiming to be Christians, those who disregard the needs of others demonstrate a lack of true faith and love for Christ, justifying their condemnation and exclusion from the kingdom of heaven.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1055380403487187,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.1,
+            "commentatorTierSimilarities": [
+                47.2,
+                0.0,
+                52.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The surprise displayed by the sheep and the goats reveals an uncertainty about their own identities, as some sheep even question if they are goats and vice versa. Nonetheless, the more pressing issue here is the failure to provide food to the hungry, showcased through the repetition of the negative. This neglect exposes a lack of compassion and care, indicating a lack of true faith and love for Christ. Consequently, those who disregard the needs of others, despite professing allegiance to Christ, face just condemnation and are unworthy of the kingdom of heaven.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.1338648986491764,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
+            "commentatorTierSimilarities": [
+                44.35,
+                0.0,
+                55.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

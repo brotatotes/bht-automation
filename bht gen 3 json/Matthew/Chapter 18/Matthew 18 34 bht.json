@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:50:19",
+    "verseRef": "Matthew 18:34",
+    "bestBHT": {
+        "bht": "He who falls from a state of grace falls into a state of condemnation, overwhelmed with the debt of enmity to God. The motive of the parable can only be fully understood in light of the great act of Atonement. The severity of the treatment reflects the severe punishment demanded by such a case. Imprisonment here is not purgatorial but punitive, for the debtor could never pay back the vast debt. The parable serves to enforce mutual forgiveness among people, as those who have received full and free pardon are expected to extend forgiveness to others.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 2.054077783147135,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+        "commentatorTierSimilarities": [
+            29.0,
+            36.5,
+            34.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Remember he was to have been sold into slavery before, and now his punishment is to be greater.\" ",
+            "He who falls from a state of grace falls into a state of condemnation, and is overwhelmed with \u2018all that debt,\u2019 not of this or that actual sin formerly remitted, but of a whole state of enmity to God.",
+            "Meyer well remarks, that the motive held up in this parable could only have full light cast on it by the great act of Atonement which the Lord was about to accomplish."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And his lord was wroth, and delivered him to the tormentors\u2014more than jailers; denoting the severity of the treatment which he thought such a case demanded.",
+            "Till he should pay all that was due unto him."
+        ],
+        "Albert Barnes": [
+            "Delivered him to the tormentors - The word 'tormentors' here probably means keepers of the prisons.",
+            "Torments were inflicted on criminals, not on debtors.",
+            "It is not probable that anything of this kind is intended, but only that the servant was punished by imprisonment until the debt should be paid."
+        ],
+        "Marvin Vincent": [
+            "To the tormentors [\u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03c3\u03c4\u03b1\u03b9\u03c2].",
+            "Livy pictures an old centurion complaining that he was taken by his creditor, not into servitude, but to a workhouse and torture, and showing his back scarred with fresh wounds.",
+            "Showing his back scarred with fresh wounds."
+        ],
+        "John Calvin": [
+            "The Papists are very ridiculous in endeavoring to light the fire of purgatory by the word till.",
+            "Christ here points out not temporal death, by which the judgment of God may be satisfied, but eternal death."
+        ],
+        "Philip Schaff": [
+            "To the tormentors. Not simply \u2018jailers\u2019 but those who (among the ancient Romans) sought by legal tortures to find out whether the debtor had any concealed hoard. It adds the thought of actual punishment.",
+            "Till he should pay. This condition \u2018is the strongest possible way of expressing the eternal duration of his punishment\u2019 (Trench). The debt incurred by sin cannot decrease, but increases even in a state of punishment; the original debt, according to the parable, is so great that no human being can discharge it.",
+            "The passage opposes both the doctrine of purgatory and that of the final restoration of unbelievers."
+        ],
+        "Archibald T. Robertson": [
+            "The tormentors (\u03c4\u03bf\u03b9\u03c2 \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03c3\u03c4\u03b1\u03b9\u03c2). Not to prison simply, but to terrible punishment.",
+            "The papyri give various instances of the verb \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03c9, to torture, used of slaves and others.",
+            "But this is not purgatorial, but punitive, for he could never pay back that vast debt."
+        ],
+        "John Gill": [
+            "And his Lord was wroth.... Very angry, greatly incensed, and justly provoked at such inhuman treatment.",
+            "but it is not an offer of pardon, that Christ, by his blood, has procured, and is exalted to give, but that itself; and this man had his debt, his whole debt forgiven him.",
+            "the scope of the parable is to be attended to; which is to enforce mutual forgiveness among men, from having received full and free pardon at the hands of God; and that without the former, there is little reason to expect the latter."
+        ],
+        "John Wesley": [
+            "Imprisonment is a much severer punishment in the eastern countries than in ours.",
+            "And shall we still say, but when we are once freely and fully forgiven, our pardon can never be retracted?",
+            "Verily, verily, I say unto you, So likewise will my heavenly Father do to you, if ye from your hearts forgive not every one his brother their trespasses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who falls from a state of grace falls into a state of condemnation, overwhelmed with the debt of enmity to God. The motive of the parable can only be fully understood in light of the great act of Atonement. The severity of the treatment reflects the severe punishment demanded by such a case. Imprisonment here is not purgatorial but punitive, for the debtor could never pay back the vast debt. The parable serves to enforce mutual forgiveness among people, as those who have received full and free pardon are expected to extend forgiveness to others. Failure to do so will result in consequences from the heavenly Father.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.9731433234639053,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                28.22,
+                36.64,
+                35.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who falls from a state of grace falls into a state of condemnation, overwhelmed with the debt of enmity to God. The motive of the parable can only be fully understood in light of the great act of Atonement. The severity of the treatment reflects the severe punishment demanded by such a case. Imprisonment here is not purgatorial but punitive, for the debtor could never pay back the vast debt. The parable serves to enforce mutual forgiveness among people, as those who have received full and free pardon are expected to extend forgiveness to others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.054077783147135,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                29.0,
+                36.5,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, the one who falls from grace is condemned and burdened with the debt of enmity to God. The severity of the treatment reflects the immense punishment demanded, as it is not merely imprisonment but a form of torture. The debtor is unable to pay back such a vast debt, emphasizing the impossibility of human efforts to satisfy it. The parable highlights the importance of mutual forgiveness, as those who have received pardon must extend forgiveness to others, or face consequences from God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.0332741387685167,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.95,
+            "commentatorTierSimilarities": [
+                28.15,
+                36.44,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this parable, the one who falls from grace is condemned and burdened with the debt of enmity to God. The severity of the treatment reflects the immense punishment demanded, as it is not merely imprisonment but a form of torture. The debtor is unable to pay back the vast debt, emphasizing the impossibility of human efforts. The parable underscores the importance of mutual forgiveness, as those pardoned must extend forgiveness themselves, or face consequences from God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.049552592101106,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                27.95,
+                37.03,
+                35.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable reveals that one who falls from grace is condemned, weighed down by a debt of enmity to God. The severity of the treatment, involving torture, expresses the level of punishment warranted. Imprisonment is not purgatorial, but punitive; the debtor could never repay the immense debt. The parable serves as a reminder of the necessity of mutual forgiveness, as those who have received pardon from God are expected to extend forgiveness to others. Failure to do so will result in consequences from the Heavenly Father.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0022954578007006,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                27.15,
+                37.84,
+                35.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

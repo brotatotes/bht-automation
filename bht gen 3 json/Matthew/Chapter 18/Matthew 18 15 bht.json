@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:50:02",
+    "verseRef": "Matthew 18:15",
+    "bestBHT": {
+        "bht": "If someone has offended you personally, the remedy lies in exercising caution and brotherly love. The first step is to seek private explanation by going to the person who hurt you, rather than waiting for them to apologize. Show them their fault and if they acknowledge and make reparation, you have done them a greater service than obtaining justice for yourself. If this approach fails, involve two or three witnesses to confirm the validity of your complaint and your brotherly spirit. If all else fails, regard them as no longer a fellow Christian.",
+        "wordCount": 93,
+        "quoteTokenProportion": 48.57,
+        "qualityScore": 1.789623426300952,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+        "commentatorTierSimilarities": [
+            31.2,
+            33.01,
+            35.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The remedy for the former must be, in each individual being cautious in his own person,\u2014that of the latter, in the exercise of brotherly love.\" ",
+            "Then follows an exposition of what that authority is.",
+            "This direction is only in case of personal offence against ourselves, and then the injured person is to seek private explanation, and that by going to his injurer, not waiting till he comes to apologize."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Take him aside, show him his fault, and if he own and make reparation for it, you have done more service to him than even justice to yourself.",
+            "If this fail, take two or three to witness how just your complaint is, and how brotherly your spirit in dealing with him.",
+            "If even this fail, regard him as no longer a brother Christian, but as one 'without'\u2014as the Jews did Gentiles and publicans."
+        ],
+        "Albert Barnes": [
+            "Moreover, if thy brother - The word 'brother,' here, evidently means a fellow-professor of religion. Christians are called brethren because they belong to the same redeemed family, having a common Father - God; and because they axe united in the same feelings, objects, and destiny.",
+            "Go and tell him his fault between thee and him alone - This was required under the law, Leviticus 19:17. In the original it is 'go and reprove him.' Seek an explanation of his conduct, and if he has done wrong, administer a friendly and brotherly reproof.",
+            "Thou hast gained thy brother - To gain means, sometimes, to preserve or to save. Here it means thou hast preserved him, or restored him, to be a consistent Christian. Perhaps it may include the idea, also, thou hast reconciled him to thyself - thou hast gained him as a Christian brother."
+        ],
+        "Marvin Vincent": [
+            "Go [\u03c5\u03c0\u03b1\u03b3\u03b5] . Do not wait for him to come to you.\" ",
+            "Tell him his fault [\u03b5\u03bb\u03b5\u03b3\u03be\u03bf\u03bd] . Rev., shew him. The verb means, first, to test, try, search out; therefore, to cross-examine with a view of convincing or refuting; thence to rebuke or chide.",
+            "The Rev. shew is better than tell, which implies merely naming the fault; whereas the injunction is, go and prove to him how he has erred."
+        ],
+        "John Calvin": [
+            "Christ enjoins his disciples to forgive one another, but to do so in such a manner as to endeavor to correct their faults.\" (552)",
+            "Christ recommends to his disciples a mutual love, which is widely distant from flattery; only he enjoins them to season their admonitions with moderation, lest, by excessive severity and harshness, they discourage the weak.\" (552)",
+            "Nothing, therefore, is more appropriate than meekness, which reconciles to God those who had departed from him.\" (Commentary on Luke)"
+        ],
+        "Philip Schaff": [
+            "The first step is to be in private.",
+            "Shew, not simply 'tell,' but convince him of his fault.",
+            "Regained him for God, by inducing repentance: regained him for thyself, by regaining his love and fellowship."
+        ],
+        "Archibald T. Robertson": [
+            "Such private reproof is hard to do, but it is the way of Christ.",
+            "Aorist active indicative of \u03ba\u03b5\u03c1\u03b4\u03b1\u03b9\u03bd\u03c9 in conclusion of a third-class condition, a sort of timeless aorist, a blessed achievement already made.",
+            "Literally, commit a sin (ingressive aorist subjunctive of \u03b1\u03bc\u03b1\u03c1\u03c4\u03b1\u03bd\u03c9)."
+        ],
+        "John Gill": [
+            "This is spoken not to the apostles as such, but as believers in Christ; and concerns everyone that stands in the relation of a brother, or church member to each other, and only such.",
+            "Go and tell him his fault between thee, and him alone; do not wait for his coming to thee, as being the aggressor, to acknowledge his fault, testify his repentance, express his sorrow for his sin, and ask pardon.",
+            "If he shall hear thee; patiently, take your reproof kindly, acknowledge his offence, declare his hearty sorrow for it, and desire it might be overlooked, and reconciliation made; thou hast gained thy brother."
+        ],
+        "John Wesley": [
+            "Whosoever closely observes this threefold rule, will seldom offend others, and never be offended himself.",
+            "Christ does here as expressly command all Christians who see a brother do evil, to take this way, not another, and to take these steps, in this order.",
+            "Let him be to thee as the heathen - To whom thou still owest earnest good will, and all the offices of humanity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The remedy for personal offense is to exercise caution and brotherly love, seeking private explanation by going to the injurer. Show the person his fault and if he acknowledges and makes reparation for it, you have done him a great service. If this fails, take two or three witnesses. If even this fails, regard him as no longer a brother Christian. The first step is to be in private, to convince the person of his fault. The goal is to preserve and restore him as a consistent Christian, while also reconciling and regaining fellowship. Christ recommends mutual love seasoned with moderation and meekness, so as not to discourage the weak. This threefold rule, if followed closely, will prevent offense and cultivate reconciliation.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.7478801606645455,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                28.74,
+                34.49,
+                36.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The remedy for personal offense is to exercise caution and brotherly love. Seek private explanation by going to the injurer, showing them their fault. If they acknowledge and make reparation, you have done a great service. If this fails, take two or three witnesses. If even this fails, regard them as no longer a brother Christian. The first step is private, to convince them of their fault. The goal is to restore them as a consistent Christian and reconcile them to yourself. Christ recommends mutual love, seasoned with moderation and meekness, to prevent discouraging the weak.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6524861861876796,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                29.82,
+                34.31,
+                35.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with personal offense, the remedy is to exercise caution and brotherly love. Seek private explanation by going to the injurer, showing them their fault. If they acknowledge and make reparation, you have done them a great service. If this fails, take witnesses and demonstrate how just your complaint is and how brotherly your spirit is. If even this fails, regard them as no longer a brother Christian. The goal is to restore them as a consistent Christian and reconcile them to yourself.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7709301581954002,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                30.5,
+                33.49,
+                36.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To address personal offense, exercise caution and brotherly love. Go privately to the one who offended you, showing them their fault. If they acknowledge and make amends, you have done them a great service. If not, take witnesses to demonstrate the validity of your complaint and your brotherly approach. If this fails, treat them as a non-Christian. Seek reconciliation and restoration, showing mutual love seasoned with moderation and meekness. This threefold rule prevents offense and encourages reconciliation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.637502294164482,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                27.36,
+                32.84,
+                39.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If someone has offended you personally, the remedy lies in exercising caution and brotherly love. The first step is to seek private explanation by going to the person who hurt you, rather than waiting for them to apologize. Show them their fault and if they acknowledge and make reparation, you have done them a greater service than obtaining justice for yourself. If this approach fails, involve two or three witnesses to confirm the validity of your complaint and your brotherly spirit. If all else fails, regard them as no longer a fellow Christian.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.789623426300952,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                31.2,
+                33.01,
+                35.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:47:41",
+    "verseRef": "Matthew 13:38",
+    "bestBHT": {
+        "bht": "The parable of the wheat and tares in the field reveals that the good seed represents the children of the kingdom, while the tares symbolize the children of the wicked one. This distinction emphasizes that the Gospel sows only good seed, and the presence of tares is the result of the enemy's work. It is important to understand that the field represents the world, not just the Church, and the separation between the two groups will occur at the consummation of the age.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.9936235460271385,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+        "commentatorTierSimilarities": [
+            29.4,
+            31.29,
+            39.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The field is the world; if understood of the Church, then the Church only as commensurate with the world, Go ye into all the world, and preach the gospel to every creature (Mark xvi. 15); THE CHURCH standing for THE WORLD, not, the world for the Church.",
+            "The parable sets forth to us the universal sowing of GOOD SEED by the Gospel: it sows no bad seed: all this is done by the enemy, and further we may not enquire.",
+            "We are not to suppose that the wheat can never become tares, or the tares wheat: this would be to contradict the purpose of Him who willeth not the death of a sinner, but rather that he should be converted and live; and this gracious purpose shines through the command 'let both grow together'\u2014let time be given (as above) for the leaven to work."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The tares are the children of the wicked one.\" ",
+            "As this sowing could only be 'while men slept', no blame seems intended.",
+            "It is probably just the dress of the parable."
+        ],
+        "Philip Schaff": [
+            "The field is the world.\" ",
+            "The intertwining of the roots suggests that the tares are in the Church also.",
+            "In the world, and in the Church both as an organized body and as engaged in its missionary enterprises, there exist side by side two such classes; those made heirs of Christ\u2019s kingdom by Divine sowing and those who are of the seed of the serpent."
+        ],
+        "Archibald T. Robertson": [
+            "The field is the world... It is extremely important to understand that both the good seed and the darnel (tares) are sown in the world, not in the Kingdom, not in the church.\" ",
+            "The separation comes at the consummation of the age, the harvest time.\" ",
+            "They all grow together in the field (the world)."
+        ],
+        "John Gill": [
+            "The field is the world...the whole world, into which the apostles were afterwards sent; or the church of Christ, in the several parts of the world.",
+            "The good seed are the children of the kingdom...who are possessed of the kingdom of grace here, and are heirs of the kingdom of glory.",
+            "The tares are the children of the wicked one...show that they are of their father the devil...more hurtful and scandalous to the interest of Christ."
+        ],
+        "John Wesley": [
+            "The good seed are the children of the kingdom \u2014 That is, the children of God, the righteous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the wheat and the tares in Matthew 13:38 uses the field as a representation of the world, not just the church. The good seed symbolizes the children of the kingdom, who are part of God's grace and heirs of glory. Conversely, the tares represent the children of the wicked one, who are harmful and detrimental to the cause of Christ. The parable emphasizes that in the world, both the righteous and the wicked coexist, and the ultimate separation will occur at the consummation of the age.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9147013891732518,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                27.22,
+                27.28,
+                45.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the wheat and tares in the field illustrates the coexistence of the righteous and the wicked in the world. The field represents the world, not just the church, and the good seed represents the children of the kingdom, while the tares symbolize the children of the wicked one. This parable highlights the necessity of allowing time for the leaven to work and teaches that the separation between these two groups will take place at the consummation of the age.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.92289699455729,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                30.62,
+                29.15,
+                40.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the wheat and tares in the field emphasizes the universal sowing of good seed by the Gospel. The field represents the world, not just the Church, and both the righteous and the wicked grow together. The separation between them will happen at the end of the age. It is important to understand that the good seed refers to the children of the kingdom, while the tares represent the children of the wicked one. The purpose of this parable is to show that the Gospel sows only good seed, and the presence of tares is the work of the enemy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9322207669975717,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                31.33,
+                27.04,
+                41.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the wheat and tares presents the field as a representation of the world, where the good seed and tares coexist. The tares are the children of the wicked one, while the good seed refers to the children of the kingdom. This parable reminds us of the universal sowing of the Gospel, where only good seed is sown. The separation between the righteous and the wicked will take place at the end of the age.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.979094409681966,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                31.07,
+                24.04,
+                44.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the wheat and tares in the field reveals that the good seed represents the children of the kingdom, while the tares symbolize the children of the wicked one. This distinction emphasizes that the Gospel sows only good seed, and the presence of tares is the result of the enemy's work. It is important to understand that the field represents the world, not just the Church, and the separation between the two groups will occur at the consummation of the age.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9936235460271385,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                29.4,
+                31.29,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

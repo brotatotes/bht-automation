@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:46:23",
+    "verseRef": "Matthew 11:17",
+    "bestBHT": {
+        "bht": "The concept of mourning is associated with the beating or striking during funeral lamentations. The children playing in the streets serve as a vivid illustration, representing both the serious preachers, John and Jesus, and the Jews engaged in childish pursuits, displaying disagreement, discontent, and petulance. The contrast between John's austere life and doctrine of repentance and the joyful and harmonious ministry of the Gospel represented by the children is highlighted in the verse.",
+        "wordCount": 74,
+        "quoteTokenProportion": 26.92,
+        "qualityScore": 1.616984057996121,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+        "commentatorTierSimilarities": [
+            22.13,
+            39.08,
+            38.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Mourn [\u03b5\u03ba\u03bf\u03c8\u03b1\u03c3\u03b8\u03b5] . Lit., beat or strike (the beast), as in oriental funeral lamentations."
+        ],
+        "Philip Schaff": [
+            "The children calling, represent John and Jesus, but these two earnest preachers would not be likened to idling, petulant children...\" ",
+            "Those who will not play represent the two preachers, but this is opposed to the word \u2018fellows\u2019 or \u2018companions\u2019 in Matthew 11:16...",
+            "The simplest view: The whole company of children represent the Jews, engaged in the childish pursuits of amusement and showing disagreement, discontent, and petulance."
+        ],
+        "Archibald T. Robertson": [
+            "He has really created the modern child's world out of the indifference of the past.",
+            "These metaphors in the Gospels are vivid to those with eyes to see.",
+            "Even today with all the automobiles children play in the streets."
+        ],
+        "John Gill": [
+            "The clear, comfortable, and joyful ministry of the Gospel; which is delightful music to a sensible sinner; and may be compared to it, for distinction of sounds, harmony, and agreement, being charming and delightful.",
+            "The character and ministry of John, is signified by 'mourning': his life was a very austere one; he and his disciples fasted oft; he appeared in a very coarse habit; his speech was rough, his voice thundering: his doctrine was the doctrine of repentance, and he used very severe threatenings, in case of impenitence.",
+            "They were a true picture and emblem of many persons, who like neither law nor Gospel, but are morose, sullen, and quarrelsome, let them hear what they will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of mourning, with the commentators interpreting it as the beating or striking of the beast during oriental funeral lamentations. This metaphor is vividly depicted in the modern child's world, as children play in the streets even with the presence of automobiles. However, the children in this verse represent John and Jesus, serious preachers who would not be likened to idling, petulant children. Another interpretation suggests that the children represent the Jews engaged in childish pursuits and showing discontent and petulance. Overall, the verse highlights the contrasting ministries of John and Jesus, with John characterized by mourning and a severe doctrine of repentance, and the joyful ministry of the Gospel represented by the children.",
+            "wordCount": 117,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.6307038981016533,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                23.62,
+                46.77,
+                29.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The concept of mourning in this passage is associated with the beating or striking of a beast during funeral lamentations. The imagery of children playing in the streets, despite potential danger, illustrates the contrast between the serious preachers, John and Jesus. The children symbolize the Jews engaged in childish pursuits, displaying disagreement, discontent, and petulance. The verse highlights the austere life and severe doctrine of repentance preached by John, contrasting with the joyful and harmonious ministry of the Gospel represented by the children.",
+            "wordCount": 83,
+            "quoteTokenProportion": 22.81,
+            "qualityScore": 1.5593073738502372,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                21.0,
+                41.69,
+                37.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The idea of mourning in this context is manifested through the beating or striking of a beast during funeral lamentations. The presence of children playing in the streets, even amidst potential danger, serves as a vivid metaphor. These children are seen as representing the serious preachers, John and Jesus, while also symbolizing the Jews engaged in childish pursuits, displaying disagreement, discontent, and petulance. The verse underscores the contrast between John's austere life and doctrine of repentance, and the joyful and harmonious ministry of the Gospel represented by the children.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5182043716093787,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                23.29,
+                40.43,
+                36.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mourning in this context refers to the beating or striking during funeral lamentations. The imagery of children playing in the streets, despite potential danger, depicts the contrast between the serious preachers, John and Jesus. These children symbolize the Jews engaged in childish pursuits, displaying disagreement, discontent, and petulance. The passage highlights John's austere life and doctrine of repentance, while also emphasizing the joyful and harmonious ministry of the Gospel represented by the children.",
+            "wordCount": 74,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.5494857707851377,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                22.41,
+                41.7,
+                35.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The concept of mourning is associated with the beating or striking during funeral lamentations. The children playing in the streets serve as a vivid illustration, representing both the serious preachers, John and Jesus, and the Jews engaged in childish pursuits, displaying disagreement, discontent, and petulance. The contrast between John's austere life and doctrine of repentance and the joyful and harmonious ministry of the Gospel represented by the children is highlighted in the verse.",
+            "wordCount": 74,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.616984057996121,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+            "commentatorTierSimilarities": [
+                22.13,
+                39.08,
+                38.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:49",
+    "verseRef": "Matthew 2:16",
+    "bestBHT": {
+        "bht": "In a blind fury, the bloodthirsty Herod, who had already committed heinous acts, was angered by being deceived by the wise men. Seeking to prevent the newborn king's escape, he ordered the slaughter of all male children in Bethlehem who were two years old and under. However, his evil plan was in vain, as the divine hand protected the blessed Babe from his grasp. This chilling event served as a fulfillment of the prophecy, with the weeping of Rachel for her innocent children serving as a poignant reminder of the horrors inflicted upon them.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.99,
+        "qualityScore": 1.941482972035692,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+        "commentatorTierSimilarities": [
+            31.97,
+            27.98,
+            40.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Herod had marked the way to his throne, and his reign itself, with blood; had murdered his wife and three sons (the last just about this time); and was likely enough, in blind fury, to have made no enquiries, but given the savage order at once.\" ",
+            "The word 'privily' in ver. 7 seems to favour this view. was mocked] The Evangelist is speaking of Herod\u2019s view of the matter.\" ",
+            "This expression must not be taken as any very certain indication of the time when the star did actually appear. The addition 'and under' implies that there was uncertainty in Herod\u2019s mind as to the age pointed out; and if so, why might not the jealous tyrant, although he had accurately ascertained the date of the star\u2019s appearing, have taken a range of time extending before as well as after it, the more surely to attain his point?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No, Herod, thou art not mocked of the wise men, but of a Higher than they. He that sitteth in the heavens doth laugh at thee the Lord hath thee in derision.",
+            "That blessed Babe shall die indeed, but not by thy hand.",
+            "Heaven and earth shall sooner pass away than thou shalt have that Babe into thy hands."
+        ],
+        "Albert Barnes": [
+            "It is an illustration of the power of anger. It stops at nothing. If it cannot accomplish just what it wishes, it does not hesitate to go much further, and accomplish much more evil than it at first designed.",
+            "He that has a wicked heart, and indulges in anger, knows not where it will end, and will commonly commit far more evil than he at first intended.",
+            "This destruction of the infants of Bethlehem is not mentioned by Josephus, but for this omission three reasons may be given: 1. Josephus, a Jewish historian and a Jew, would not be likely to record anything that would appear to confirm the truth of Christianity. 2. This act of Herod was really so small, compared with his other crimes, that the historian might not think it worthy of record. Bethlehem was a small and obscure village, and the other crimes of Herod were so great and so public, that it is not to be wondered at that the Jewish historian has passed over this. 3. The order was probably given in secret, and might not have been known to Josephus."
+        ],
+        "Marvin Vincent": [
+            "The children [\u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03b9\u03b4\u03b1\u03c2] . Male children, as is indicated by the masculine form of the article, and so Rev."
+        ],
+        "John Calvin": [
+            "Fear prevented him at that time from employing a traitor, in a secret manner, to make an investigation.",
+            "It is even possible, that he first murdered the Judges, in order to deprive the people of their leaders, and thus to compel them to look upon the crime as one for which there was no remedy.",
+            "The adverb then (\u03c4\u1f79\u03c4\u03b5) does not always denote in Scripture uninterrupted time, but frequently occurs, when there is a great distance between the events."
+        ],
+        "Philip Schaff": [
+            "The beginning of the persecutions which culminated in the crucifixion."
+        ],
+        "Archibald T. Robertson": [
+            "The flight of Joseph was justified, for Herod was violently enraged that he had been mocked by the Magi, deluded in fact.",
+            "Herod did not know, of course, how old the child was, but he took no chances and included all the little boys in Bethlehem two years old and under, perhaps fifteen or twenty.",
+            "It was another fulfillment of the prophecy in Jeremiah 31:15. The quotation seems to be from the Septuagint. It was originally written of the Babylonian captivity but it has a striking illustration in this case also."
+        ],
+        "John Gill": [
+            "A most cruel and barbarous action, and agrees with the character given of him, that he was in the beginning of his reign, and it seems too in the latter end of it, \u05d0\u05d9\u05e9 \u05d3\u05de\u05d9\u05dd \u05d5\u05de\u05e8\u05de\u05d4, 'a bloody and deceitful man': he slew, or ordered to be slain, 'children', infants who had done him no injury, nor were capable of doing any.",
+            "He slew the infants at Bethlehem, because this was the place of the Messiah's birth, the knowledge of which he had got from the chief priests and scribes; he slew all of them, that there might be no possibility of the young child's escaping.",
+            "Killing of infants as soon as born, or while in their cradles, is by the Jews ascribed to one Lilith, which, R. Elias says, is the name of a devil, which kills children; and indeed such an action is truly a diabolical one."
+        ],
+        "John Wesley": [
+            "Herod, seeing that he was deluded by the wise men \u2014 So did his pride teach him to regard this action, as if it were intended to expose him to the derision of his subjects.",
+            "Sending forth \u2014 a party of soldiers: In all the confines thereof - In all the neighboring places, of which Rama was one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With his reign marked by bloodshed and blinded by fury, Herod, in a state of savage order, acted without hesitation when he believed he was being mocked by the wise men seeking the newborn king. His jealousy drove him to include all the male children in Bethlehem who were two years old and under, in a futile attempt to thwart the plans of a Higher power. But, as prophesied, the blessed Babe would not fall into his hands. The horrifying slaughter of these innocent infants fulfilled yet another prophecy, echoing the weeping of Rachel for her children.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.878203923915263,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                36.72,
+                24.49,
+                38.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a blind fury, Herod acted on his belief that he was being mocked by the wise men. Fueled by jealousy, he ordered the slaughter of all the male children in Bethlehem who were two years old and under. However, the plans of a Higher power could not be thwarted. This horrifying act fulfilled the prophecy, bringing forth the weeping of Rachel for her children.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7242642942397874,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                34.19,
+                28.99,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by fury and blinded by jealousy, Herod, a king marked with bloodshed, was deceived by the wise men. In a desperate attempt to defy destiny, Herod cruelly ordered the slaughter of all male children in Bethlehem who were two years old and younger. Despite his efforts, the plans of a Higher power could not be thwarted. This horrifying event served as a fulfillment of prophetic words, echoing the weeping of Rachel for her innocent children.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.762621525897086,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                31.65,
+                29.14,
+                39.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a blind fury, the bloodthirsty Herod, who had already committed heinous acts, was angered by being deceived by the wise men. Seeking to prevent the newborn king's escape, he ordered the slaughter of all male children in Bethlehem who were two years old and under. However, his evil plan was in vain, as the divine hand protected the blessed Babe from his grasp. This chilling event served as a fulfillment of the prophecy, with the weeping of Rachel for her innocent children serving as a poignant reminder of the horrors inflicted upon them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.941482972035692,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                31.97,
+                27.98,
+                40.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a blind fury, the bloodthirsty Herod ordered the slaughter of male children in Bethlehem two years old and under, seeking to prevent the escape of the newborn king. Despite his evil plan, the divine hand protected the blessed Babe from his grasp. This chilling event served as a fulfillment of prophecy, with Rachel's weeping for her innocent children echoing the horrors inflicted upon them.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.8643360189408904,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                32.98,
+                28.93,
+                38.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

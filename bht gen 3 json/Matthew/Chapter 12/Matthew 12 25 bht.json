@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:47:11",
+    "verseRef": "Matthew 12:25",
+    "bestBHT": {
+        "bht": "Jesus counters the Pharisees' accusation that He expels demons with Satan's power. He exposes the fallacy of their argument by emphasizing the unity and organization within Satan's kingdom. Just as a nation cannot survive when divided, Satan's kingdom cannot stand if at odds with itself. Jesus, aware of their thoughts, uses rhetorical questions, sarcasm, and logic to expose their insincerity. Through His miracles, Jesus affirms His divine power and its opposition to Satan. This confirms the reality and uniqueness of the kingdom of evil engaged in an eternal conflict with Christ.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.706626403544972,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+        "commentatorTierSimilarities": [
+            36.66,
+            32.07,
+            31.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is at first sight a difficulty in the argument which our Saviour draws from the oneness of the kingdom of Satan: viz. that it seems the very idea of this kingdom, that it should be this anarchy; blind rage and hate not only against God, but each part of it warring against every other part.",
+            "Just as a nation or kingdom may embrace within itself infinite parties, divisions, discords, jealousies, and heartburnings: yet, if it is to subsist as a nation at all, it must not, as regards other nations, have lost its sense of unity; when it does so, of necessity it falls to pieces and perishes.",
+            "Our Lord here in the most solemn manner re-asserts and confirms the truths respecting the kingdom of evil which the Jews also held. The kingdoms are so set parallel with one another, that the denial of the reality of the one with its chief, or the supposing it founded merely in assent on the part of our Lord to Jewish notions, inevitably brings with it the same conclusions with regard to the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And Jesus knew their thoughts\u2014'called them'",
+            "Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand\u2014'house', that is, 'household'",
+            "-"
+        ],
+        "John Calvin": [
+            "Christ reproved them with the greater severity, because he was a witness and judge of their inward malice.",
+            "There is no community of interest between him and Satan, because that father of cunning keeps one object in view \u2014 the preservation of his kingdom.",
+            "Everybody knew that Christ had driven Satan from his possession, and nothing was plainer than that all his miracles tended to this object; and hence it was easy to conclude, that his power, which was so much opposed to Satan, was divine."
+        ],
+        "Philip Schaff": [
+            "He perceived not only that they opposed, but their very thoughts.",
+            "This organized kingdom of darkness, because it is only evil, is racked with discords and hatred, but against the kingdom of God it is a unit.",
+            "An organization which acts against itself, its own distinctive aims, must destroy itself."
+        ],
+        "Archibald T. Robertson": [
+            "By parables, by a series of conditions (first class), by sarcasm, by rhetorical question, by merciless logic, he lays bare their hollow insincerity and the futility of their arguments.\" ",
+            "Satan does not cast out Satan.\" ",
+            "Christ is engaged in deathless conflict with Satan the strong man."
+        ],
+        "John Gill": [
+            "He not only heard their blasphemous words, but was privy to their secret thoughts; he knew their vile malicious intentions and designs.",
+            "A government, in which there is a disagreement between the chiefs of it, and the body of the people... cannot continue in any comfortable situation, and flourishing state, but must come to nothing.",
+            "If citizens fall out with their magistrates, or one with another, and turn out, and disfranchise each other; and if the heads of families, and the respective branches thereof, quarrel with, and divide from one another, a dissolution of the whole must ensue."
+        ],
+        "John Wesley": [
+            "Jesus knowing their thoughts \u2014 It seems they had as yet only said it in their hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 12:25, Jesus addresses the unity and organization of the kingdom of Satan, using it as an argument against the Pharisees who accused Him of casting out demons by the power of Satan. Just as a nation cannot survive if it loses its sense of unity, so too the kingdom of Satan cannot stand if it is divided against itself. Jesus knew their thoughts and exposed their insincerity through various means, including sarcasm and logical reasoning. His miracles were a clear indication that His power came from a divine source and was opposed to Satan. Therefore, it is impossible for Satan to cast out Satan. Jesus, engaged in a deathless conflict with Satan, firmly establishes the reality and distinctiveness of the kingdom of evil.",
+            "wordCount": 124,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.734217107435772,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                36.86,
+                30.71,
+                32.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus confronts the Pharisees' accusation that He casts out demons by the power of Satan. He exposes the fallacy of their argument by highlighting the unity within the kingdom of Satan, explaining that a kingdom divided against itself cannot stand. Jesus knows their thoughts and uses rhetorical questions, sarcasm, and logic to expose their insincerity. His miracles demonstrate that His power is divine and opposed to Satan. This emphasizes the reality and distinctiveness of the kingdom of evil, engaging in an eternal conflict with Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.6393699312207382,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
+            "commentatorTierSimilarities": [
+                36.15,
+                30.82,
+                33.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus addresses the accusation from the Pharisees that He casts out demons by the power of Satan, showcasing the unity and organization of Satan's kingdom as part of His response. He exposes the flaw in their argument by illustrating that a kingdom divided against itself cannot stand. He knew their thoughts and effectively refutes their insincerity using sarcasm, rhetorical questions, and logical reasoning. Jesus' miracles serve as evidence of His divine power, opposing Satan and engaging in an eternal conflict with him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.653660721492659,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                35.75,
+                30.22,
+                34.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus refutes the Pharisees' claim that He casts out demons by the power of Satan. He highlights the unity within Satan's kingdom in His response, explaining that a kingdom divided against itself cannot endure. Jesus, knowing their thoughts, exposes their insincerity through sarcasm, rhetorical questions, and logical reasoning. His miracles demonstrate the divine origin of His power, contradicting Satan's authority. This emphasizes the reality and distinctiveness of the kingdom of evil, engaged in an eternal conflict with Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.647729261341306,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                36.6,
+                29.27,
+                34.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus counters the Pharisees' accusation that He expels demons with Satan's power. He exposes the fallacy of their argument by emphasizing the unity and organization within Satan's kingdom. Just as a nation cannot survive when divided, Satan's kingdom cannot stand if at odds with itself. Jesus, aware of their thoughts, uses rhetorical questions, sarcasm, and logic to expose their insincerity. Through His miracles, Jesus affirms His divine power and its opposition to Satan. This confirms the reality and uniqueness of the kingdom of evil engaged in an eternal conflict with Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.706626403544972,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                36.66,
+                32.07,
+                31.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

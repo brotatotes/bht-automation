@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:50:05",
+    "verseRef": "Matthew 18:19",
+    "bestBHT": {
+        "bht": "The power of unity in prayer is highlighted when two individuals come together in agreement and ask, for it shall be done for them. The key is not just the number of people praying, but their unity, agreement, and alignment with God's will. This demonstrates the need for moderation and humility in religious acts, recognizing God's sovereignty over the church. By encouraging united prayer, believers are invited to engage in a concord of voices, seeking God's intervention and blessings together.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.8629107818370834,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+        "commentatorTierSimilarities": [
+            29.92,
+            33.11,
+            36.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The power of unity in prayer.",
+            "When two individuals come together in agreement and ask, it shall be done for them.",
+            "The key here is not just the number of people praying, but their unity, agreement, and alignment with God's will."
+        ],
+        "Albert Barnes": [
+            "When two of you agree, or have the same mind, feelings, and opinion, about the arrangement of affairs in the church, or about things desired for its welfare, and shall ask of God, it shall be done for them.\" ",
+            "The promise here has respect to the apostles in organizing the church.",
+            "It cannot with any propriety be applied to the ordinary prayers of believers."
+        ],
+        "Marvin Vincent": [
+            "It has so far lost its distinctive character as a concord of voices as to be used for agreement in the deeper and more inward sense.",
+            "The literal rendering is, if any thing, stronger: Everything, whatever it be, for which they may have asked.",
+            "The word pragma, thing, is used like the Latin res; a matter, affair, business, with the meaning at bottom of something to be done, since it is cognate to the verb prassw, to do."
+        ],
+        "John Calvin": [
+            "By uniting agreement with prayer, he reminds us with what moderation and humility believers ought to conduct themselves in all religious acts.",
+            "Hence appears more clearly what I have formerly stated, that men are not allowed the liberty of doing whatever they please, but that God is declared to have the sole claim to the government of the Church, so that he approves and ratifies the decisions of which he is himself the Author.",
+            "Here Christ makes a remarkable promise to public prayers, in order to invite us more earnestly to the practice of them."
+        ],
+        "Philip Schaff": [
+            "\u2018Two\u2019 could still constitute a fellowship.\" ",
+            "This agreement could only be wrought by the Holy Spirit, selfish ends being excluded from the nature of the case.",
+            "An encouragement to united prayer."
+        ],
+        "Archibald T. Robertson": [
+            "Our word 'symphony' is this very root.",
+            "It is no longer looked at as a concord of voices, a chorus in harmony.",
+            "From the side of, 'by my Father.'"
+        ],
+        "John Gill": [
+            "that if two of you shall agree on earth, as touching anything that they shall ask; both in the case before mentioned, and in any other thing",
+            "though they are here on earth, and at such a distance from heaven, from whence their help and assistance come",
+            "a great encouragement this to social prayer, though ever so few are engaged in it"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When two individuals come together in unity and agreement in prayer, they have the power to see their petitions fulfilled. The key lies not only in the number of people praying, but in their alignment with God's will. In this promise, Jesus emphasizes the significance of this unity, likening it to a concord of voices in perfect harmony. By uniting agreement with prayer, believers are reminded of the need for moderation and humility in their religious acts, acknowledging that God alone governs the church. This verse serves as an encouragement for the practice of united prayer, inviting believers to come together with a shared mind and purpose, regardless of their number.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.7755927229736341,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                28.14,
+                33.11,
+                38.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When two individuals come together in unity and agreement in prayer, they have the power to see their petitions fulfilled. The key lies not only in the number of people praying, but in their alignment with God's will. In this promise, Jesus emphasizes the significance of this unity, likening it to a concord of voices in perfect harmony. By uniting agreement with prayer, believers are reminded of the need for moderation and humility in their religious acts, acknowledging that God alone governs the church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7729153313148291,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                31.07,
+                31.14,
+                37.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power of unity in prayer is highlighted when two individuals come together in agreement and ask, for it shall be done for them. The key is not just the number of people praying, but their unity, agreement, and alignment with God's will. This demonstrates the need for moderation and humility in religious acts, recognizing God's sovereignty over the church. By encouraging united prayer, believers are invited to engage in a concord of voices, seeking God's intervention and blessings together.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8629107818370834,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                29.92,
+                33.11,
+                36.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When two individuals come together in agreement and ask, it shall be done for them. The power of unity in prayer is not limited to the number of people praying, but to their alignment with God's will. The significance lies in the concord of voices, a chorus in harmony, as believers unite in prayer. This promise serves as an encouragement for united prayer, reminding believers to approach religious acts with moderation and humility, recognizing God's authority over the church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8407610286610037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                30.21,
+                33.88,
+                35.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When believers unite in agreement and ask, their prayers hold the power of fulfillment. It is not simply the quantity of prayers, but the unity, alignment, and agreement with God's will that matters. A concord of voices, a symphony, is formed as believers come together in harmony. This verse serves as an encouragement for united prayer, emphasizing the need for moderation and humility in all religious acts. It reminds us that God alone governs the church and welcomes the petitions of those who gather in prayerful agreement.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8220311857494118,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                28.68,
+                34.26,
+                37.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

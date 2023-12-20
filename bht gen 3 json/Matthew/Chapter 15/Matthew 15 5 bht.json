@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:48:38",
+    "verseRef": "Matthew 15:5",
+    "bestBHT": {
+        "bht": "The religious leaders cunningly used the word Corban to avoid their obligation to support their parents. By declaring their possessions as offerings to God with this word, they claimed exemption from their familial responsibilities. However, Jesus denounced this practice, revealing their hypocrisy and the nullification of God's commandments due to their tradition. Their selfish pursuit of personal gain took precedence over their duty to honor and care for their parents, a stark contrast to true obedience to God.",
+        "wordCount": 79,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.9801104174260549,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "commentatorTierSimilarities": [
+            30.51,
+            39.55,
+            29.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression cited by our Lord did not always bind the utterer to consecrate his property to religious uses, but was by its mere utterance sufficient to absolve him from the duty of caring for his parents.\" ",
+            "Whosoever shall say to his father or mother, 'That from which thou mightest have been benefited by me, is an offering (consecrated to God; see above).... (understand, is free).'",
+            "Such an one will certainly not honour his [father or his mother]."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever shall say to his father or his mother, It is a gift\u2014or simply, 'A gift!'\" ",
+            "Corban!\" that is, \"An oblation!",
+            "Meaning, any unbloody offering or gift dedicated to sacred uses."
+        ],
+        "Marvin Vincent": [
+            "Whatever that may be by which you might be helped by me, is not mine to give. It is vowed to God.\" (14 words)",
+            "By a quibble it was regarded as something like Corban, as if it were laid on the altar and put entirely out of reach.\" (27 words)",
+            "It was expressly stated that such a vow was binding, even if what was vowed involved a breach on the law.\" (20 words)"
+        ],
+        "John Calvin": [
+            "The scribes were altogether wrong in acquitting those persons who fail to perform their duties to their parents, provided that this deficiency be supplied, on their part, by a voluntary sacrifice, which might have been omitted without offending God.",
+            "For we must not understand Christ's words to bear that the scribes had forbidden men to render all proper obedience.",
+            "They were so eager to pursue their own gain, that children were allowed, in the meantime, to neglect their duties to their parents."
+        ],
+        "Philip Schaff": [
+            "God said one thing, \u2018ye say\u2019 another, and though you quote tradition, it has only your own authority.",
+            "That from which thou mightest have been benefited by me, is an offering to God.",
+            "The Rabbins taught that by saying \u2018corban\u2019 of his possessions (Mark 7:11), a man was absolved from the duty of caring for his parents, yet the brief expression was not considered sufficient to bind the party to devote his property to religious uses."
+        ],
+        "Archibald T. Robertson": [
+            "They dodged this command of God about the penalty for dishonouring one's father or mother by the use 'Corban'...\" (30 words)",
+            "All one had to do to evade one's duty to father or mother was to say 'Corban' or 'Gift'...\" (24 words)",
+            "By this magic word one set himself free from obedience to the fifth commandment.\" (16 words)"
+        ],
+        "John Gill": [
+            "The plain and evident sense of the tradition before us, is this that when, upon application being made to a man by his parents, for support and sustenance, he makes a vow in such form as this, 'Corban, whatsoever thou mightest be profited by me' that is, whatsoever profit or advantage thou mightest have, or expect to have from me, let it be as 'Corban', as a gift devoted to God, that can never be revoked and converted to another use; or, in other words, I vow and protest thou shalt never have any profit from me, not a penny.",
+            "Nay they expressly say that \u05e0\u05d3\u05e8\u05d9\u05dd \u05d7\u05dc\u05d5\u05ea \u05e2\u05dc \u05d3\u05d1\u05e8\u05d9 \u05de\u05e6\u05d5\u05d4, 'vows fall upon things of a (divine) commandment', as well as upon things in a man's power, and that he is bound by them; so that without sin he cannot do what the law commands; insomuch, that if a man vows a vow, and that it may be ratified, a command must be made void, his vow must stand, and the command be abrogated.",
+            "So truly and justly does Christ charge them with making the command of God of none effect, by their tradition."
+        ],
+        "John Wesley": [
+            "It is a gift by whatsoever thou mightest have been profited by me.\" "
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus rebukes the religious leaders for using the word Corban to evade their duty of caring for their parents. By simply uttering this word, they claimed that their possessions were consecrated to God and therefore exempt from supporting their parents. This loophole allowed them to neglect their responsibilities by falsely appearing pious. The religious leaders prioritized their own gain over honoring their parents and God's commandments. Jesus condemns this practice, exposing their hypocrisy and upholding the importance of honoring and caring for one's parents.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.864513336008602,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                31.48,
+                36.83,
+                31.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders cunningly used the word Corban to avoid their obligation to support their parents. By declaring their possessions as offerings to God with this word, they claimed exemption from their familial responsibilities. However, Jesus denounced this practice, revealing their hypocrisy and the nullification of God's commandments due to their tradition. Their selfish pursuit of personal gain took precedence over their duty to honor and care for their parents, a stark contrast to true obedience to God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9801104174260549,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                30.51,
+                39.55,
+                29.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders conveniently evaded their duty to care for their parents by declaring Corban and consecrating their possessions to God. This allowed them to disregard their familial responsibilities while appearing religious. Jesus exposes their hypocrisy, emphasizing that their actions nullified God's commandment. Their selfish desire for personal gain overshadowed their obligation to honor their parents. This practice, condemned by Jesus, highlights the importance of genuine obedience to God and the essential role of honoring and caring for one's parents.",
+            "wordCount": 82,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.7509647690376262,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                28.79,
+                39.74,
+                31.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders used the word Corban as a means to shirk their responsibility to care for their parents. By consecrating their possessions to God with this utterance, they avoided supporting their families. Jesus denounces this practice, revealing the hypocrisy behind their actions and the disregard for God's command. Their selfish pursuit of personal gain overshadowed their duty to honor their parents. Jesus exposes their deception, teaching the importance of genuine obedience to God's laws and the significance of honoring and caring for one's parents.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.8533652178136975,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                30.35,
+                39.25,
+                30.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders cunningly evaded their responsibility to care for their parents by invoking the word Corban to consecrate their possessions to God. This allowed them to neglect their familial duties while appearing pious. However, Jesus condemns this practice, exposing their hypocrisy and the nullification of God's commandments through their tradition. Their selfish pursuit of personal gain took precedence over their obligation to honor and care for their parents, showcasing the importance of genuine obedience to God and the significance of honoring one's parents.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8424322658200754,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                29.8,
+                38.07,
+                32.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:52:53",
+    "verseRef": "Matthew 25:29",
+    "bestBHT": {
+        "bht": "The faithful receive abundance as they wisely utilize what is entrusted to them, while the negligent and unproductive face loss. This principle extends to all aspects of one's spiritual journey, as rewards are graciously given by God according to individual development. The idea of giving and taking away is repeated throughout the Bible, reflecting God's commitment to the rule that those with resources will be blessed with even more, while those without will have what little they possess taken away.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.287267251298953,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.14,
+        "commentatorTierSimilarities": [
+            17.11,
+            48.52,
+            34.37
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "29. For unto every one that hath",
+            "\tshall be given, &amp;c.\u2014See on :-."
+        ],
+        "Albert Barnes": [
+            "Whosoever rightly improves what is committed to him shall receive more, or shall be rewarded.",
+            "In the spiritual sense of the parable it means that they who are faithful shall be rewarded - not, however, that anything shall be taken from the unfaithful and given to them.",
+            "It means also that the unfaithful and indolent shall be taken away from their privileges and punished."
+        ],
+        "John Calvin": [
+            "29.To every one that hath shall be given has been explained (694) under Matthew 13:12 ",
+            "(694) See p. 104 of this volume. "
+        ],
+        "Philip Schaff": [
+            "The expression is well-nigh proverbial... here it refers to the whole spiritual life.\" ",
+            "The principle is not arbitrary... the taking away is the result of slothfulness and misuse.",
+            "The giving is a gracious reward, but always in accordance with the previous development."
+        ],
+        "John Gill": [
+            "For unto everyone that hath shall be given...he that has gifts; and talents, shall have an addition to them.",
+            "He shall have abundance of spiritual gifts and knowledge.",
+            "From him that hath not, shall be taken away, even that which he hath."
+        ],
+        "John Wesley": [
+            "To every one that hath shall he given \u2014 So close does God keep to this stated rule, from the beginning to the end of the world. Matthew 13:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who rightly improve what is entrusted to them will receive even more as a reward, while those who are unfaithful and lazy will be punished and have their privileges taken away. This principle applies to the whole spiritual life, and the giving of rewards is always in accordance with one's previous development. This concept of giving and taking away is consistent throughout the Bible, as seen in Matthew 13:12, and reflects God's faithfulness to the rule that those who have will be given more, while those who do not have will have even what they have taken away.",
+            "wordCount": 100,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.3204152226101944,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.25,
+            "commentatorTierSimilarities": [
+                7.19,
+                56.56,
+                36.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who faithfully utilize what they have been entrusted with will be rewarded with even more, while those who are negligent and unproductive will face consequences and have their privileges revoked. This principle applies to the entirety of one's spiritual life, and the granting of rewards by God is always in accordance with a person's previous development. This concept of giving and taking away is consistently emphasized throughout the Bible, as demonstrated in Matthew 13:12, where it is revealed that those who possess will receive abundantly, while those lacking will have even that taken away.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.1588750997184112,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.88,
+            "commentatorTierSimilarities": [
+                3.16,
+                54.49,
+                42.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who faithfully use what they have been given will be rewarded with more, while those who are lazy or unfaithful will have their privileges taken away and face punishment. This principle applies to all aspects of one's spiritual life, and rewards are given by God in accordance with a person's previous development. This pattern of giving and taking away is consistent throughout the Bible, as seen in Matthew 13:12, reflecting God's unwavering adherence to the rule that those who possess will receive more, while those without will lose even what they have.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.2904569541595194,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                8.92,
+                53.84,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who faithfully utilize what they have been entrusted with will be rewarded with even more, while those who are negligent and unproductive will face consequences and have their privileges revoked. This principle applies to the entirety of one's spiritual life, and the granting of rewards by God is always in accordance with a person's previous development. This concept of giving and taking away is consistently emphasized throughout the Bible, demonstrating God's faithfulness to the rule that those who have will be given more, while those who do not have will have even what they have taken away.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.2214267261083043,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.96,
+            "commentatorTierSimilarities": [
+                6.42,
+                53.82,
+                39.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The faithful receive abundance as they wisely utilize what is entrusted to them, while the negligent and unproductive face loss. This principle extends to all aspects of one's spiritual journey, as rewards are graciously given by God according to individual development. The idea of giving and taking away is repeated throughout the Bible, reflecting God's commitment to the rule that those with resources will be blessed with even more, while those without will have what little they possess taken away.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.287267251298953,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.14,
+            "commentatorTierSimilarities": [
+                17.11,
+                48.52,
+                34.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

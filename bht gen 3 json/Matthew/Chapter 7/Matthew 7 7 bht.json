@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:33",
+    "verseRef": "Matthew 7:7",
+    "bestBHT": {
+        "bht": "These three similitudes are all about prayer, forming a climax that emphasizes the importance of asking for what we need, seeking what we lack, and persistently knocking when faced with closed doors. The repetition of the triple assurance of success in a different form negates any complaints or doubts. As we engage in prayer, we are called to have an earnest desire, perseverance, and a firm conviction that our prayers will be answered. These teachings encourage us to diligently seek the Lord's guidance and provision through prayer.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.897501317808621,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+        "commentatorTierSimilarities": [
+            36.3,
+            39.43,
+            24.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7.] The three similitudes are all to be understood of prayer, and form a climax."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ask for what we wish; seek for what we miss; knock for that from which we feel ourselves shut out.",
+            "Answering to this threefold representation is the triple assurance of success to our believing efforts.",
+            "To meet this, our Lord repeats the triple assurance He had just given, but in such a form as to silence every such complaint."
+        ],
+        "John Calvin": [
+            "Ask, seek, knock: but lest the simple doctrine should be unimpressive, he perseveres in order to rouse us from our inactivity.",
+            "Nothing is better adapted to excite us to prayer than a full conviction that we shall be heard.",
+            "We ought to remember the gentle invitation, by which Christ assures us of God\u2019s fatherly kindness."
+        ],
+        "Philip Schaff": [
+            "Ask, and it shall be given to you etc. 'Ask,' 'seek,' 'knock,' refer to prayer, forming a climax. The first implies simple petition, the second earnest desire, the third perseverance.",
+            "'To ask, indicates the want of an object, which can only be obtained by free gift; to seek, that it has been lost; to knock that it has been shut up hence this prayer, which is both the work of life and the evidence of life.'",
+            "Others apply 'ask' to prayer, 'seek' to our endeavors, 'knock' to our investigation of the Scripture; the former explanation is simpler."
+        ],
+        "John Gill": [
+            "Ask and it shall be given you... such, who ask according to the will of God, in the name of Christ, and under the direction, guidance, and influence of the Spirit, who ask in faith and fear, and with submission to the divine will, shall have what they ask for.\" ",
+            "Seek, and ye shall find... seek in a right way, by Christ, and with their whole hearts, diligently.",
+            "Knock and it shall be opened unto you... Faith in prayer is a key that opens this door, when a poor soul finds grace and mercy to help it in time of need."
+        ],
+        "John Wesley": [
+            "Pray for them, as well as for yourselves: in this there can be no such danger.",
+            "Add your own diligent endeavors to your asking.",
+            "Persevere importunately in that diligence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ask for what we wish; seek for what we miss; knock for that from which we feel ourselves shut out - these three similitudes in Matthew 7:7 are all to be understood as referring to prayer, forming a climax. The repetition of the triple assurance of success to our believing efforts in a different form is meant to silence any complaints. We are urged to ask, seek, and knock in our prayers, with each action representing a different level of intensity and purpose. And as we do so, we can have a full conviction that our prayers will be heard, leading us to diligently persevere in seeking the Lord's answers.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.1684518945662496,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                35.84,
+                40.95,
+                23.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The three similitudes in this verse are all about prayer and form a climax - asking for what we wish, seeking for what we miss, and knocking for that from which we feel shut out. The repetition of the triple assurance of success in a different form silences complaints. We are urged to ask, seek, and knock in our prayers, with each action representing a different level of intensity and purpose. As we do so, we can have a full conviction that our prayers will be heard, leading us to diligently persevere in seeking the Lord's answers.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.0659530991726953,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                38.62,
+                38.68,
+                22.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These three similitudes in Matthew 7:7 are meant to teach us about prayer, with each action representing a different intensity and purpose. The repetition of the triple assurance of success in a different form is intended to address any complaints. We are encouraged to ask, seek, and knock in our prayers, signifying our longing, our pursuit, and our persistence. By having a firm conviction that our prayers will be heard, we are motivated to persevere diligently in seeking the Lord's answers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8856003472213507,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                35.62,
+                40.16,
+                24.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These three similitudes are all about prayer, forming a climax that emphasizes the importance of asking for what we need, seeking what we lack, and persistently knocking when faced with closed doors. The repetition of the triple assurance of success in a different form negates any complaints or doubts. As we engage in prayer, we are called to have an earnest desire, perseverance, and a firm conviction that our prayers will be answered. These teachings encourage us to diligently seek the Lord's guidance and provision through prayer.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.897501317808621,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                36.3,
+                39.43,
+                24.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The three similitudes in this passage all pertain to prayer, forming a climactic sequence. They signify the importance of asking for our needs, seeking what is missing, and persistently knocking despite closed doors. The repeated triple assurance assures us of success in our believing efforts and aims to silence any complaints. Prayer requires us to have earnest desire, perseverance, and a firm conviction that our petitions will be answered. Through prayer, we diligently seek the Lord's guidance, provision, and open doors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7630480838701563,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                33.57,
+                40.41,
+                26.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

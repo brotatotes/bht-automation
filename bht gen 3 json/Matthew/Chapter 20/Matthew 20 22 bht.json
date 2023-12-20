@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:50:30",
+    "verseRef": "Matthew 20:22",
+    "bestBHT": {
+        "bht": "The disciples, in their ignorance and self-confidence, made a selfish request to be exalted before being abased. They were blinded by their ambition, not understanding the nature of Christ's kingdom. They failed to realize the bitter cup of suffering that Jesus had to drink and the sea of sorrows and sufferings he would be plunged into. Instead of seeking worldly grandeur, the disciples were urged to consider the bitter cup and the baptism of suffering that Jesus had to undergo, as all who share in his kingdom must also share in his sufferings.",
+        "wordCount": 95,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.636459727704257,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+        "commentatorTierSimilarities": [
+            28.18,
+            31.09,
+            40.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The flesh ever seeks to be glorified, before it is crucified: exalted, before it is abased.",
+            "The 'cup' is a frequent Scripture image for joy or sorrow... It here seems to signify more the inner and spiritual bitterness, resembling the agony of the Lord Himself.",
+            "This answer of our Lord contains in it the kernel of the doctrine of the Sacraments in the Christian Church."
+        ],
+        "John Calvin": [
+            "Whoever is not satisfied with the free adoption of God, and desires to raise himself, such a person wanders beyond his limits, and, by unseasonably pressing himself forward beyond what was proper for him to do, is ungrateful to God.",
+            "In these words, therefore, those who are desirous to obtain the prize before the proper time are enjoined by Christ to employ themselves in attending to the duties of piety.",
+            "For thus are those things which at first sight appear to be deadly made to yield to us salvation and life."
+        ],
+        "Philip Schaff": [
+            "When John saw the crucified thieves on the right and left hand of his dying Lord, he knew what he had asked.",
+            "The cup? A frequent Scriptural figure for the Providential portion assigned to any one; especially for a suffering lot.",
+            "We are able. They were not the least courageous of the Twelve, but they also forsook Him and fled in the hour of trial."
+        ],
+        "Archibald T. Robertson": [
+            "Ye know not what ye ask... a selfish request.\" ",
+            "We are able... Amazing proof of their ignorance and self-confidence.\" ",
+            "Ambition had blinded their eyes."
+        ],
+        "John Gill": [
+            "They were ignorant of the nature of Christ's kingdom, which is spiritual, and not of this world: or they would never have asked such a question...",
+            "It would have been much more proper and seasonable, on hearing of Christ's being mocked, scourged, spit upon, and crucified, if they had put such a question to themselves...",
+            "Now Christ suggests to these disciples, that instead of indulging their ambitious desires of worldly grandeur, that they would do well to consider what a bitter cup he had to drink of, and what a sea of sorrows and sufferings he was about to be plunged into..."
+        ],
+        "John Wesley": [
+            "All who share in my kingdom must first share in my sufferings.",
+            "The cup, the baptism, are to be understood of his sufferings and death.",
+            "The like expressions are common among the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, in their ignorance and self-confidence, made a selfish request to be exalted before being abased. They were blinded by their ambition, not understanding the nature of Christ's kingdom. They failed to realize the bitter cup of suffering that Jesus had to drink and the sea of sorrows and sufferings he would be plunged into. Instead of seeking worldly grandeur, the disciples were urged to consider the bitter cup and the baptism of suffering that Jesus had to undergo, as all who share in his kingdom must also share in his sufferings.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.636459727704257,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                28.18,
+                31.09,
+                40.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, in their ignorance and self-confidence, made a selfish request to be exalted before being abased. They were blinded by their ambition, not understanding the nature of Christ's kingdom. They failed to realize the bitter cup of suffering that Jesus had to drink and the sea of sorrows and sufferings he would be plunged into. Instead of seeking worldly grandeur, the disciples were urged to consider the bitter cup and the baptism of suffering.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.625955355337466,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.41,
+            "commentatorTierSimilarities": [
+                29.16,
+                30.51,
+                40.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, in their ignorance and self-confidence, made a selfish request without understanding the nature of Christ's kingdom. They were blinded by ambition, not realizing the bitter cup of suffering that Jesus had to drink and the sea of sorrows he would endure. Instead of seeking worldly grandeur, they were urged to consider the cup and baptism of suffering. Those who desire to be exalted before being humbled are ungrateful to God and wander beyond their limits. Christ's kingdom requires sharing in his sufferings in order to partake in his glory.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5924985093986237,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                26.25,
+                31.63,
+                42.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were unaware of what they were truly asking for, driven by their ignorance and ambitious desires. They were blinded by their aspirations for worldly grandeur, failing to comprehend the spiritual nature of Christ's kingdom. Jesus emphasized the bitter cup of suffering he would soon face, mentioning the baptism of suffering. Those who seek to be exalted prematurely and go beyond their limits are ungrateful to God. It is only through sharing in Christ's sufferings that one can experience true glory in his kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5138902102842509,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                29.14,
+                28.05,
+                42.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were ignorant of the true nature of Christ's kingdom, lacking understanding and driven by their own self-confidence and ambition. They made a selfish request, unaware of the bitter cup of suffering and the sea of sorrows that Jesus would experience. Instead of seeking worldly grandeur, Jesus urged them to consider the cup and baptism of suffering, for those who desire exaltation before abasement act ungratefully towards God. Sharing in Christ's sufferings is the pathway to experiencing the true glory of his kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6148792379938683,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                27.57,
+                30.96,
+                41.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

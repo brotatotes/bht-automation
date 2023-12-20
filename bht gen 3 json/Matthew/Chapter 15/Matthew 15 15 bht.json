@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:48:40",
+    "verseRef": "Matthew 15:15",
+    "bestBHT": {
+        "bht": "In response to the disciples' confusion over the hard saying regarding defilement, Peter asked Jesus to explain its meaning, referring to it as a parable or a hard saying. It appeared contradictory to their understanding of traditions and God's laws. Jesus clarified that pollution does not come from external sources like food but rather from the internal pollution of sins, manifesting in one's actions. He emphasized that it is crucial to focus on the proper and lawful use of things within our control, recognizing that corruption originates from within oneself.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.4749486681945576,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.38,
+        "commentatorTierSimilarities": [
+            30.74,
+            25.98,
+            43.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The saying in ver. 11... was not strictly a parable, but a plain declaration.",
+            "Either Peter took it for a parable, or the word must be taken in its wider sense of \u2018an hard saying.\u2019",
+            "Their questioning as to the meaning of parables in ch. xiii. had habituated them to asking for explanations in this form."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. Then answered Peter and said",
+            "\tunto him, Declare unto us this parable\u2014\"when He was",
+            "\tentered into the house from the people,\" says Mark ( :-)."
+        ],
+        "John Calvin": [
+            "Men are not polluted by food, but they have within themselves the pollution of sins, which afterwards shows itself in the outward actions.",
+            "Christ speaks only of the proper and lawful use of those things which God has put in our power.",
+            "If any corruption be added, it proceeds from the man himself, and therefore must be regarded not as external, but internal."
+        ],
+        "Philip Schaff": [
+            "He again acts as the spokesman, hence 'unto us.'",
+            "The declaration in Matthew 15:11, was a 'hard saying 'to those who were born Jews.",
+            "The censure of the next verse favors this explanation."
+        ],
+        "Archibald T. Robertson": [
+            "Declare unto us the parable (\u03c6\u03c1\u03b1\u03c3\u03bf\u03bd \u03c5\u03bc\u03b9\u03bd \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b7\u03bd). Explain the parable (pithy saying) in verse Matthew 15:11, not in verse Matthew 15:14.",
+            "As a matter of fact, the disciples had been upset by Christ's powerful exposure of the 'Corban' duplicity and the words about 'defilement' in verse Matthew 15:11."
+        ],
+        "John Gill": [
+            "Then answered Peter,.... Mark says, 'his disciples asked him concerning the parable'; which might be by the mouth of Peter.",
+            "He accordingly did: and said unto him, declare unto us this parable; that not what goes into the mouth, but what comes out of it, defiles the man.",
+            "Which, though expressed in very plain words, and easy to be understood, yet did not appear clear to their understandings; and seemed to be contrary, not only to the traditions of the elders, but to the laws of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, acting as the spokesman for the disciples, asked Jesus to explain the hard saying in Matthew 15:11, which was a plain declaration rather than a parable. This saying had upset the disciples, as it exposed the hypocrisy of the Pharisees regarding the issue of defilement. Jesus then clarifies that it is not what goes into the mouth, but what comes out of it, that defiles a person. He emphasizes that external things like food do not pollute a person, but rather, it is the internal pollution of sin within that manifests in their actions. Therefore, it is crucial to focus on the proper and lawful use of things within our control, knowing that any corruption originates from within ourselves.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.674204219650975,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                32.19,
+                28.19,
+                39.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter asked Jesus to explain the hard saying in Matthew 15:11, seeking clarity on an issue that appeared contradictory to traditions and laws. Jesus responded that what goes into the mouth does not defile a person, but rather, it is what comes out of the mouth that reveals inner corruption. He emphasized that pollution stems from within, not from external factors, and that one should focus on the proper use of things within their control.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5341375792655412,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.35,
+            "commentatorTierSimilarities": [
+                31.1,
+                24.43,
+                44.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, representing the disciples, requested that Jesus explain the hard saying that had unsettled them, regarding defilement. Jesus clarified that the pollution of sin comes from within a person and is reflected in their actions. He emphasized that external factors, such as food, do not contaminate an individual. Rather, the focus should be on using what is within one's control properly and lawfully, recognizing that any corruption originates internally.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.370354840362241,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.91,
+            "commentatorTierSimilarities": [
+                32.82,
+                24.11,
+                43.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to the disciples' confusion over the hard saying regarding defilement, Peter asked Jesus to explain its meaning, referring to it as a parable or a hard saying. It appeared contradictory to their understanding of traditions and God's laws. Jesus clarified that pollution does not come from external sources like food but rather from the internal pollution of sins, manifesting in one's actions. He emphasized that it is crucial to focus on the proper and lawful use of things within our control, recognizing that corruption originates from within oneself.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.4749486681945576,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.38,
+            "commentatorTierSimilarities": [
+                30.74,
+                25.98,
+                43.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Seeking clarification, Peter asked Jesus to explain the hard saying and the disciples' confusion over its meaning, perceiving it as a parable or a difficult statement. This understanding seemed contradictory to their knowledge of traditions and divine laws. In response, Jesus clarified that pollution of a person does not arise from external factors, like food, but rather from the internal contamination of sin, which ultimately reveals itself in one's actions. It is vital to focus on the proper, lawful use of what is within our control, as external factors are not the source of corruption.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.3715883827511333,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.95,
+            "commentatorTierSimilarities": [
+                31.88,
+                22.55,
+                45.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

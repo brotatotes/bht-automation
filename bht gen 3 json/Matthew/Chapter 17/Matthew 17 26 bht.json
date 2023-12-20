@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:49:16",
+    "verseRef": "Matthew 17:26",
+    "bestBHT": {
+        "bht": "Jesus, being the Son of God and the proprietor of the temple, is exempt from paying the temple tax. This is in line with the principle observed by sovereigns who do not require taxes from their own children. Although he acknowledges that he is practically not exempt, Jesus states that the tax is not due from Him since it is for upholding His Father's house. Thus, as His Son, Jesus is free from any obligation to pay it.",
+        "wordCount": 79,
+        "quoteTokenProportion": 52.83,
+        "qualityScore": 1.8258028848706966,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            33.74,
+            30.58,
+            35.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Then are the children free\u2014By 'the children' our Lord cannot here mean Himself and the Twelve together... He can refer here, then, only to Himself; using the word 'children' evidently in order to express the general principle observed by sovereigns, who do not draw taxes from their own children, and thus convey the truth respecting His own exemption the more strikingly...",
+            "If the sovereign's own family be exempt, you know the inference in My case.",
+            "This is a tax for upholding My Father's House. As His Son, then, that tax is not due by Me\u2014I AM FREE."
+        ],
+        "Philip Schaff": [
+            "Surely then the sons are free.",
+            "The real Temple need not pay tribute to that which foreshadowed it.",
+            "Christians are free, not from the duties of citizens, but from the yoke of legality the priesthood would put upon them."
+        ],
+        "Archibald T. Robertson": [
+            "Thus a reply to Peter's prompt 'Yes.'\" ",
+            "Logically (\u03b1\u03c1\u03b1\u03b3\u03b5) free from the temple tax, but practically not as he proceeds to show."
+        ],
+        "John Gill": [
+            "then are the children free.",
+            "supposing it was a civil tax, that since he was the son of David, king of Israel, was of his house and family, and heir apparent to his throne and kingdom; according to this rule, he must be exempt from such tribute.",
+            "that since he was the Son of the King of kings, for the support of whose worship and service that money was collected; and was also the Lord and proprietor of the temple, and greater than that, he might well be excused the payment of it."
+        ],
+        "John Wesley": [
+            "Then are the sons free.\" ",
+            "This is paid for the use of the house of God.",
+            "But I am the Son of God. Therefore I am free from any obligation of paying this to my own Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches that as the Son of God, Jesus is exempt from paying the temple tax. This exemption is based on the general principle observed by sovereigns who do not tax their own children. Jesus, as the Son of the King of kings and the Lord and proprietor of the temple, is logically free from paying the tax, even though he acknowledges that he is practically not exempt. This tax is for upholding His Father's house, and as His Son, Jesus is free from any obligation of paying it.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.9078123125461417,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                34.63,
+                29.08,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the Son of God, is exempt from paying the temple tax since He is the proprietor of the temple and the Son of the King of kings. This exemption follows the general rule that sovereigns do not levy taxes on their own children. Although practically not exempt, Jesus asserts that the tax is not due from Him, as it is for the upholding of His Father's house. Therefore, as His Son, Jesus is free from any obligation to pay it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.905611254267411,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                33.13,
+                30.43,
+                36.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, being the Son of God and the proprietor of the temple, is exempt from paying the temple tax. This is in line with the principle observed by sovereigns who do not require taxes from their own children. Although he acknowledges that he is practically not exempt, Jesus states that the tax is not due from Him since it is for upholding His Father's house. Thus, as His Son, Jesus is free from any obligation to pay it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 1.8258028848706966,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                33.74,
+                30.58,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the Son of God, Jesus knew that he was exempt from the temple tax, since sovereigns typically do not tax their own children. Thus, he confidently declared that the tax was not due by him because he was free. He emphasized that this tax was for upholding his Father's house, and as the Son, it was unnecessary for him to pay it. While it might be argued that he was logically free from the tax, in practice, he went on to show his compliance by instructing Peter to pay it. Nevertheless, Jesus' assertion of freedom from the tax highlighted his divine status and the unique position he held as the Son of the King of kings.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.6519783942961639,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                39.01,
+                25.6,
+                35.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the Son of God, Jesus was exempt from the temple tax, just as sovereigns do not tax their own children. He clarified that the purpose of the tax was to support his Father\u2019s house, and as the Son, he was not obligated to pay it. Although he could have logically claimed freedom, in practice, he still instructed Peter to pay the tax. Nonetheless, Jesus' declaration highlighted his divine status and his unique position as the Son of the King of kings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.6865977047425673,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                35.84,
+                27.86,
+                36.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

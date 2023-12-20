@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 23:46:20",
+    "verseRef": "Matthew 10:38",
+    "bestBHT": {
+        "bht": "When Jesus first introduced the concept of taking up one's own cross to his disciples, it must have seemed strange and unfamiliar, as crucifixion was not a Jewish form of punishment. This saying emphasized the preparedness to go forth even to the extreme of crucifixion for the sake of Christ. The image of carrying one's own cross was borrowed from the practice of criminals being required to bear their own cross to their execution. It signifies the specific afflictions that believers must bear individually for Christ, which may include various trials, reproaches, persecutions, and even death itself.",
+        "wordCount": 99,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 2.341530458069327,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.2,
+        "commentatorTierSimilarities": [
+            35.29,
+            28.59,
+            36.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How strange must this prophetic announcement have seemed to the Apostles!",
+            "It was no Jewish proverb (for crucifixion was not a Jewish punishment), no common saying.",
+            "This is one of those sayings of which John xii. 16 was eminently true."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have become so accustomed to this expression\u2014\"taking up one's cross\"\u2014in the sense of \"being prepared for trials in general for Christ's sake,\" that we are apt to lose sight of its primary and proper sense here\u2014\"a preparedness to go forth even to crucifixion.\"",
+            "a saying the more remarkable as our Lord had not as yet given a hint that He would die this death, nor was crucifixion a Jewish mode of capital punishment.",
+            "a preparedness to go forth even to crucifixion."
+        ],
+        "Albert Barnes": [
+            "To carry the cross...denotes that we must endure whatever is burdensome, or is trying, or is considered disgraceful, in following Christ.",
+            "It consists simply in doing our duty, let the people of the world think of it or speak of it as they may.",
+            "It does not consist in making trouble for ourselves, or doing things merely 'to be opposed;' it is doing just what is required of us in the Scriptures, let it produce whatever shame, disgrace, or pain it may."
+        ],
+        "Marvin Vincent": [
+            "His cross: his own. All are not alike. There are different crosses for different disciples.\" ",
+            "Every cross hath its inscription\" - the name of him for whom it is shaped.",
+            "The figure itself was borrowed from the practice which compelled criminals to bear their own cross to the place of execution."
+        ],
+        "John Calvin": [
+            "We cannot be reckoned his disciples unless we are prepared to endure many afflictions.",
+            "Let us also bear in mind this consolation, that, in bearing the cross, we are the companions of Christ.",
+            "Let us therefore learn to connect these two things, that believers must bear the cross in order to follow their Master."
+        ],
+        "Philip Schaff": [
+            "Taketh not his cross, etc. We may supply in thought: as I shall carry my cross.\" ",
+            "The culprit bore his own cross to the place of crucifixion.",
+            "The first allusion to the mode of the death, which must have startled the Apostles, even after what had been said."
+        ],
+        "Archibald T. Robertson": [
+            "Doth not take his cross (\u03bf\u03c5 \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5 \u03c4\u03bf\u03bd \u03c3\u03c4\u03b1\u03c5\u03c1\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5). The first mention of cross in Matthew.",
+            "The Jews had become familiar with crucifixion since the days of Antiochus Epiphanes and one of the Maccabean rulers (Alexander Jannaeus) had crucified 800 Pharisees.",
+            "It is not certain whether Jesus was thinking of his own coming crucifixion when he used this figure, though possible, perhaps probable."
+        ],
+        "John Gill": [
+            "By the 'cross', which was a Roman punishment, whereby malefactors were put to death, are meant all sorts of afflictions, reproaches, persecutions, and death itself.",
+            "Every minister of Christ, or professor of his name, has 'his' own cross, his own particular afflictions, appointed by God, and laid on him by Christ, and which he should cheerfully take up, and patiently bear, for his sake.",
+            "If a man, who would be thought to be a disciple of Christ, is not willing to do all this, but, in order to avoid it, complies with his friends, conforms to the world, and turns his back on Christ; of such an one he may well say, he is not worthy of me."
+        ],
+        "John Wesley": [
+            "He that taketh not his cross \u2014 That is, whatever pain or inconvenience cannot be avoided, but by doing some evil, or omitting some good. Matthew 16:24; Luke 14:27."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus spoke these words to his disciples, it must have seemed strange and unfamiliar to them, as crucifixion was not a Jewish punishment. He was introducing a radical concept - a preparedness to go even to the point of crucifixion for his sake. The figure of taking up one's own cross was borrowed from the practice where criminals had to bear their own cross to the place of execution. It signified the individual and specific afflictions that believers must bear for Christ. It is a reminder that to be a true disciple of Christ requires a willingness to endure various trials and tribulations, even if it means facing shame, reproach, persecution, or death itself.",
+            "wordCount": 115,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 2.2353600889878074,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                34.17,
+                28.89,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus first introduced the concept of taking up one's own cross to his disciples, it must have seemed strange and unfamiliar, as crucifixion was not a Jewish form of punishment. This saying emphasized the preparedness to go forth even to the extreme of crucifixion for the sake of Christ. The image of carrying one's own cross was borrowed from the practice of criminals being required to bear their own cross to their execution. It signifies the specific afflictions that believers must bear individually for Christ, which may include various trials, reproaches, persecutions, and even death itself.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.341530458069327,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.2,
+            "commentatorTierSimilarities": [
+                35.29,
+                28.59,
+                36.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus spoke about taking up one's own cross, it must have been a strange and unexpected announcement for the disciples. Crucifixion was not a common Jewish punishment, so this saying carried a weighty significance. It referred to a preparedness to go even to the point of crucifixion for the sake of Christ. The image of carrying one's own cross was taken from the Roman practice of criminals bearing their cross to the place of execution. It represents the individual afflictions that believers are called to bear for Christ's sake, including trials, reproaches, persecutions, and even death.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.287447254549198,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                36.72,
+                28.3,
+                34.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' statement about taking up one's own cross must have seemed strange to the disciples, as crucifixion was not part of Jewish punishment. However, this saying carried a deeper meaning. It signified a readiness to go even as far as crucifixion for Christ's sake. The idea of bearing one's own cross came from the Roman practice of criminals carrying their cross to their execution. This imagery represented the unique afflictions believers are called to bear individually for Christ, including trials, reproaches, persecutions, and even death.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1209616950063612,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.86,
+            "commentatorTierSimilarities": [
+                36.35,
+                28.66,
+                34.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' command to take up one's own cross might have appeared strange to the disciples, as it was not a commonly known Jewish proverb. It carried a significant, deeper meaning: a preparedness to go forth, even to the extent of crucifixion, for the sake of Christ. The image of taking up one's cross was borrowed from the practice of criminals being compelled to bear their own cross to the place of execution. This phrase indicated the varied afflictions, reproaches, persecutions, and even death that believers should willingly endure for the cause of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.291543529284145,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.53,
+            "commentatorTierSimilarities": [
+                34.71,
+                28.43,
+                36.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

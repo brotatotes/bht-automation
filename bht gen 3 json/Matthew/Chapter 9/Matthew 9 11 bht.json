@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:34",
+    "verseRef": "Matthew 9:11",
+    "bestBHT": {
+        "bht": "The Pharisees raised objections to Jesus eating with sinners and tax collectors, implying that such association tarnished His own righteousness. Instead of confronting Jesus directly, they directed the question to His disciples. This is because the Pharisees held these individuals in low regard and considered any form of interaction with them to be forbidden. However, the disciples acted rightly by bringing their concerns to Jesus, who validated and encouraged them in the face of the Pharisees' accusations.",
+        "wordCount": 77,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.9727072640485224,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+        "commentatorTierSimilarities": [
+            35.24,
+            26.2,
+            38.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These Pharisees appear to have been the Pharisees of the place.",
+            "The very circumstances related shew that this remonstrance cannot have taken place at the feast.",
+            "This denotes an occasion when our Lord and the disciples were present, but not surely intermixed with the great company of publicans."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why eateth your Master with publicans and sinners?",
+            "And when the Pharisees saw it, they said unto his disciples.",
+            "Not venturing to put their question to Jesus Himself."
+        ],
+        "Albert Barnes": [
+            "To eat and drink with others denotes intimacy and familiarity.",
+            "The Pharisees, by asking this question, accused him of seeking the society of such people, and of being the companion of the wicked.",
+            "The inference which they would draw was, that he could not be himself righteous, since he delighted in the company of abandoned people."
+        ],
+        "John Calvin": [
+            "Of what use was it that he should be their Master, if it were not to withdraw them from the majority of men to lead a holier life?",
+            "He withdrew them from a respectable and passable condition in life to ungodly licentiousness, and to pollute themselves by wicked companions.",
+            "But they act properly when, not finding themselves sufficiently fortified against such a calumny, they carry their complaint to their Master: for Christ, by opposing the scribes, confirms his disciples for the future."
+        ],
+        "Philip Schaff": [
+            "They were not at the feast; the conversation took place after dinner.",
+            "Bold enough to act as spies, but not to censure Him to His face.",
+            "The strict Jews would not eat with the Gentiles... and these classes were regarded as heathen."
+        ],
+        "John Gill": [
+            "The 'publicans', or gatherers of the Roman tax, toll, or tribute of any sort, whether Jews or Gentiles, were persons of a very infamous character.",
+            "Now, with such sort of men as these the Pharisees held it unlawful to have any sort of conversation; they expelled such their society, would not dwell with them in the same house, nor eat or drink with them.",
+            "Hence they looked upon Christ and his disciples as such, and would insinuate that they were evil men, who had no regard to purity of life and conversation."
+        ],
+        "John Wesley": [
+            "The Pharisees said to his disciples, Why eateth your Master? \u2014 Thus they commonly ask our Lord, Why do thy disciples this? And his disciples, Why doth your Master?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, known for their strict adherence to Jewish customs, questioned why Jesus would choose to eat with sinners and tax collectors. This criticism was not directed at Jesus directly, but rather at his disciples. The Pharisees, who were not present at the feast, accused Jesus of associating with the wicked, insinuating that he couldn't possibly be righteous himself. By withdrawing the disciples from their respectable lives, the Pharisees accused Jesus of leading them into a life of ungodliness. However, the disciples responded appropriately by bringing their concerns to Jesus, who confirmed and supported them in the face of such accusations. The Pharisees despised tax collectors and considered them to be unclean, refusing to have any association with them. Therefore, they viewed Jesus and his disciples as evil individuals who lacked moral purity.",
+            "wordCount": 134,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.9104154584494415,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                34.28,
+                26.37,
+                39.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, questioning the disciples instead of Jesus, accused Him of associating with sinners and tax collectors, implying that He couldn't be righteous. The disciples, feeling insufficiently fortified against such accusations, brought their concerns to Jesus. The Pharisees despised tax collectors and had no association with them, viewing Jesus and His disciples as immoral. However, Jesus supported His disciples and confirmed them in the face of these accusations, upholding their actions and teachings.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8719665970208643,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                34.81,
+                23.88,
+                41.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees criticized Jesus for eating with sinners and tax collectors, accusing Him of associating with the wicked and questioning His righteousness. They directed their question to the disciples, possibly as an attempt to avoid confronting Jesus face-to-face. The Pharisees viewed tax collectors as impure and considered association with them as unlawful. However, the disciples took their concerns to Jesus, seeking his support. In response, Jesus affirmed and strengthened his disciples against the Pharisees' accusations.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.8689614950306446,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                35.98,
+                25.33,
+                38.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees raised objections to Jesus eating with sinners and tax collectors, implying that such association tarnished His own righteousness. Instead of confronting Jesus directly, they directed the question to His disciples. This is because the Pharisees held these individuals in low regard and considered any form of interaction with them to be forbidden. However, the disciples acted rightly by bringing their concerns to Jesus, who validated and encouraged them in the face of the Pharisees' accusations.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9727072640485224,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                35.24,
+                26.2,
+                38.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, known for their stringent adherence to religious customs, questioned the disciples, not Jesus himself, about why their Master would choose to dine with sinners and tax collectors. By doing so, they insinuated that Jesus could not be righteous if he associated with such individuals. The disciples, feeling unequipped to counter these accusations, turned to Jesus for guidance and support. The Pharisees despised tax collectors and viewed them as impure, believing that having any form of interaction with them was prohibited. However, Jesus affirmed his disciples and reinforced their actions in the face of the Pharisees' condemnation.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8833024695327927,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                34.93,
+                25.9,
+                39.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

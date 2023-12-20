@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:42:26",
+    "verseRef": "Matthew 1:8",
+    "bestBHT": {
+        "bht": "Between Joram and Uzziah, there are intentionally omitted names, possibly to reduce the number of generations. Some suggest erasions were made on account of their connection with the cursed house of Ahab, but it is more likely for the sake of convenience in aligning the genealogical portions. Despite these omissions, the purpose of the Gospel is to show that Jesus is of the house of David. Thus, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 1.408400147949597,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.17,
+        "commentatorTierSimilarities": [
+            31.71,
+            34.07,
+            34.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Some think that they were erased on account of their connexion, by means of Athaliah, with the accursed house of Ahab.",
+            "But more probably such erasion, even if justifiable by that reason, was not made on account of it, but for convenience, in order to square the numbers of the different portions of the genealogies, as here.",
+            "Compare, as illustrating such omissions, 1 Chron. viii. 1 with Gen. xlvi. 21."
+        ],
+        "Philip Schaff": [
+            "Between Joram and Uzziah, three names are intentionally omitted.",
+            "Probably to reduce the number of generations.",
+            "Chosen, either because personally unworthy, or because descendants to the fourth generation from Jezebel, through Athaliah."
+        ],
+        "John Gill": [
+            "He also was a very good prince.",
+            "Because he was the firstborn.",
+            "Nor does this omission at all affect the design of the Evangelist, which is to show that Jesus, the true Messiah, is of the house of David."
+        ],
+        "John Wesley": [
+            "Jehoram begat Uzziah \u2014 Jehoahaz, Joash, and Amaziah coming between.\" ",
+            "So that he begat him mediately, as Christ is mediately the son of David and of Abraham.",
+            "So the progeny of Hezekiah, after many generations, are called the sons that should issue from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Between Joram and Uzziah in the genealogy, there are intentionally omitted names, possibly to reduce the number of generations. Some suggest that the erasions were made due to their connection with the cursed house of Ahab, but it is more likely for the sake of convenience in aligning the genealogical portions. This omission does not affect the purpose of the Gospel, which is to demonstrate that Jesus is of the house of David. Therefore, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David. It is worth noting that Jehoram was a good prince and the firstborn, while the subsequent generations are referred to as the sons who would come from Hezekiah after many generations.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.406432467739399,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.11,
+            "commentatorTierSimilarities": [
+                29.66,
+                32.44,
+                37.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Between Joram and Uzziah, there are intentionally omitted names, possibly to reduce the number of generations. Some suggest erasions were made on account of their connection with the cursed house of Ahab, but it is more likely for the sake of convenience in aligning the genealogical portions. Despite these omissions, the purpose of the Gospel is to show that Jesus is of the house of David. Thus, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.408400147949597,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.17,
+            "commentatorTierSimilarities": [
+                31.71,
+                34.07,
+                34.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Between Joram and Uzziah, intentionally omitted names may have been for the convenience of aligning the genealogical portions and reducing the number of generations. These erasions were not necessarily due to their connection with the cursed house of Ahab. Omitting them does not affect the Gospel's purpose, which is to demonstrate that Jesus is of the house of David. Therefore, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.3381767209240547,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.84,
+            "commentatorTierSimilarities": [
+                31.68,
+                31.74,
+                36.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Between Joram and Uzziah, names are intentionally omitted, possibly to reduce the generations and align the genealogies conveniently. Some suggest the erasions were due to their connection with the cursed house of Ahab, but it is more likely for convenience. This omission does not affect the Gospel's purpose of showing that Jesus is from the house of David. Therefore, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3426264468187445,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.99,
+            "commentatorTierSimilarities": [
+                31.53,
+                30.49,
+                37.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Between Joram and Uzziah, names are intentionally omitted in the genealogy, potentially to reduce the number of generations and align the genealogical portions. While some suggest this omission is due to their connection with the cursed house of Ahab, it is more likely for convenience. The purpose of this Gospel is to demonstrate that Jesus is from the house of David, and therefore, Jehoram mediately begat Uzziah, just as Christ is mediately the son of David.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.3238056063851542,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.36,
+            "commentatorTierSimilarities": [
+                33.19,
+                32.95,
+                33.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

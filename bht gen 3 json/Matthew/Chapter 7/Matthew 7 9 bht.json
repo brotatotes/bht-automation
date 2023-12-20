@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:44:45",
+    "verseRef": "Matthew 7:9",
+    "bestBHT": {
+        "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. However, comparing God's willingness with that of a human father, we can be assured that no earthly father would ever act so mercilessly toward their child. If even the smallest acts of kindness yield great beneficence, imagine the boundless generosity we can expect from God, the inexhaustible ocean of love and compassion.",
+        "wordCount": 100,
+        "quoteTokenProportion": 39.73,
+        "qualityScore": 1.8201805419716584,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+        "commentatorTierSimilarities": [
+            39.5,
+            33.11,
+            27.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Or what man is there...whom if his son ask bread...will he give him a stone?\" ",
+            "Round and smooth like such a loaf or cake as was much in use, but only to mock him.\" ",
+            "Only to mock him."
+        ],
+        "Marvin Vincent": [
+            "Bread, a stone [\u03b1\u03c1\u03c4\u03bf\u03bd, \u03bb\u03b9\u03b8\u03bf\u03bd] . Rev. for bread reads loaf, which is better. On the resemblance of certain stones to cakes of bread, see on Matthew 4:3."
+        ],
+        "John Calvin": [
+            "Self-love (\u03c6\u03b9\u03bb\u03b1\u03c5\u03c4\u1f77\u03b1) renders us malicious: for every man is too much devoted to himself, and neglects and disregards others.",
+            "But this vice yields to the stronger feelings of a father\u2019s love, so that men forget themselves, and give to their children with overflowing liberality.",
+            "If the little drops produce such an amount of beneficence, what ought we to expect from the inexhaustible ocean?"
+        ],
+        "Philip Schaff": [
+            "Or, to view the matter in another light, comparing God's willingness with that of a human father.",
+            "What man is there of you, more exactly, 'who is there among you, a man,' a mere man.",
+            "Of whom, etc. In the Greek there are two questions, one broken off: 'Whom his son shall ask for bread (and who shall not), he will not give him a stone. The loaves or cakes, used in the East, resembled somewhat a smooth, flat stone. A deceptive answer is meant."
+        ],
+        "Archibald T. Robertson": [
+            "Loaf--stone (\u03b1\u03c1\u03c4\u03bf\u03bd--\u03bb\u03b9\u03b8\u03bf\u03bd). Some stones look like loaves of bread. So the devil suggested that Jesus make loaves out of stones (Matthew 4:3). "
+        ],
+        "John Gill": [
+            "No, by no means; no man can act such a merciless, cruel part as this to a child.",
+            "though he might impose upon him by the likeness of some sort of stones with bread; yet could not hope to satisfy his hunger, or stop his mouth this way.",
+            "but must expect to hear from him again with bitter complaints."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them with a cruel deception. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. However, comparing God's willingness with that of a human father, we can be assured that no earthly father would ever act so mercilessly toward their child. Self-love may render us malicious, but a father's love surpasses such vices and leads to overflowing liberality. If even the smallest acts of kindness yield great beneficence, imagine the boundless generosity we can expect from God, the inexhaustible ocean of love and compassion.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7560723318571916,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                35.09,
+                32.66,
+                32.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. However, comparing God's willingness with that of a human father, we can be assured that no earthly father would ever act so mercilessly toward their child. If even the smallest acts of kindness yield great beneficence, imagine the boundless generosity we can expect from God, the inexhaustible ocean of love and compassion.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.8201805419716584,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                39.5,
+                33.11,
+                27.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. Comparing God's willingness with that of a human father, we can be assured that no earthly father would act so heartlessly towards their child. The smallest acts of kindness yield great beneficence, imagine the boundless generosity we can expect from God, the inexhaustible ocean of love and compassion.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8056585604442503,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                40.38,
+                33.11,
+                26.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. Comparing God's willingness with that of a human father, we can be assured that no earthly father would act so mercilessly towards their child. The smallest acts of kindness yield great beneficence, imagine the boundless generosity we can expect from God, the inexhaustible ocean of love and compassion.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8090833242065392,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                40.29,
+                32.81,
+                26.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a child asks for bread, what parent would give them a stone? It would be like offering a loaf-shaped stone, only to mock them. The resemblance between certain stones and loaves of bread is what prompted the devil to tempt Jesus in a similar manner. Comparing God's willingness with that of a human father, we can be assured that no earthly father would act so mercilessly towards their child. The smallest acts of kindness yield great beneficence, revealing the boundless generosity we can expect from God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.795759483556703,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                40.2,
+                33.52,
+                26.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

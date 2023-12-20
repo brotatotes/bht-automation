@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:38",
+    "verseRef": "Matthew 23:12",
+    "bestBHT": {
+        "bht": "The lofty Pharisees faced swift humiliation as a result of their self-exaltation, a principle that applies universally in God's dealings. Humility is a prerequisite for entering the kingdom of heaven, while the lack thereof led the Pharisees to become murderers of Christ. However, those who humble themselves will experience God's exaltation and receive His abundant grace and glory. This statement, repeatedly emphasized by Jesus throughout the Gospels, holds enduring relevance as a reminder of the consequences of pride and the rewards of humility.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.7828982665879987,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+        "commentatorTierSimilarities": [
+            28.62,
+            38.28,
+            33.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This often-repeated saying points here not only to the universal character of God\u2019s dealings, but to the speedy humiliation of the lofty Pharisees.",
+            "This often-repeated saying...finds a most striking parallel in Ezek. xxi. 26, 27.",
+            "The speedy humiliation of the lofty Pharisees."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. And whosoever shall exalt",
+            "\thimself shall be abased\u2014See on :-. What follows was addressed more immediately to the scribes",
+            "\tand Pharisees."
+        ],
+        "Philip Schaff": [
+            "A universal rule of God\u2019s dealings, including both worlds in its scope.",
+            "The possession of humility is the first requisite in entering the kingdom of heaven.",
+            "The absence of it made the Pharisees the murderers of the King."
+        ],
+        "Archibald T. Robertson": [
+            "Exalt himself (\u03c5\u03c8\u03c9\u03c3\u03b5 \u03b5\u03b1\u03c5\u03c4\u03bf\u03bd). Somewhat like Matthew 18:4; Matthew 20:26. Given by Luke in other contexts (Matthew 14:11; Matthew 18:14). Characteristic of Christ. "
+        ],
+        "John Gill": [
+            "And whosoever shall exalt himself... shall be abased... and he that shall humble himself... shall be exalted.\" ",
+            "They shall fall into disgrace with men, and are abominable in the sight of God.",
+            "God gives more grace unto them, and will at last give them glory."
+        ],
+        "John Wesley": [
+            "Whosoever shall exalt himself shall be humbled, and he that shall humble himself shall he exalted.\" ",
+            "It is observable that no one sentence of our Lord's is so often repeated as this: it occurs, with scarce any variation, at least ten times in the evangelists.\" ",
+            "Luke 14:11; 18:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever exalts themselves will be humbled by God, as seen in the swift and inevitable downfall of the proud Pharisees. This principle of God's dealings applies universally, encompassing both this world and the next. The possession of humility is essential for entering the kingdom of heaven, whereas the absence of it led to the Pharisees becoming the murderers of Christ. In contrast, those who humble themselves will be exalted by God, receiving more of His grace and ultimately, glory. This saying of Jesus is repeatedly emphasized throughout the Gospels, solidifying its significance and relevance.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6942392599530436,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+            "commentatorTierSimilarities": [
+                27.97,
+                36.65,
+                35.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who exalt themselves will be humbled by God, as demonstrated by the swift downfall of the proud Pharisees. This principle of God's dealings applies universally and extends even beyond this world. Humility is a vital prerequisite for entering the kingdom of heaven, highlighting its crucial importance. Conversely, the absence of humility led the Pharisees to become murderers of Christ. However, those who humble themselves will experience God's exaltation, receiving His abundant grace and eventual glory. This saying of Jesus, repeated repeatedly throughout the Gospels, serves as a powerful reminder of its timeless relevance.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.673335940935353,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                27.57,
+                37.36,
+                35.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who exalt themselves will be humbled by God, as seen in the swift and inevitable downfall of the proud Pharisees. This principle of God's dealings applies universally, encompassing both this world and the next. The possession of humility is essential for entering the kingdom of heaven, whereas the absence of it led to the Pharisees becoming the murderers of Christ. In contrast, those who humble themselves will be exalted by God, receiving more of His grace and ultimately, glory. This saying of Jesus is repeatedly emphasized throughout the Gospels, solidifying its significance and relevance.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.709302454390571,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                28.02,
+                36.44,
+                35.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exaltation of oneself inevitably leads to humiliation by God, as evidenced by the swift downfall of the proud Pharisees. This principle of divine justice applies universally and extends beyond the boundaries of this world. The possession of humility is vital for entrance into the kingdom of heaven, while the absence of it caused the Pharisees to become murderers of the King. Conversely, those who humble themselves will receive God's exaltation, bestowing upon them abundant grace and eventual glory. Throughout the Gospels, Jesus reinforces the enduring significance of this profound statement.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.6388978625100075,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.84,
+            "commentatorTierSimilarities": [
+                26.94,
+                38.47,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lofty Pharisees faced swift humiliation as a result of their self-exaltation, a principle that applies universally in God's dealings. Humility is a prerequisite for entering the kingdom of heaven, while the lack thereof led the Pharisees to become murderers of Christ. However, those who humble themselves will experience God's exaltation and receive His abundant grace and glory. This statement, repeatedly emphasized by Jesus throughout the Gospels, holds enduring relevance as a reminder of the consequences of pride and the rewards of humility.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7828982665879987,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                28.62,
+                38.28,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

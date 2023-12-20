@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:47:36",
+    "verseRef": "Matthew 13:19",
+    "bestBHT": {
+        "bht": "The parable of the sower demonstrates the widespread sowing of the word of God by both Christ and His servants in various places. However, the enemy, symbolized by the birds, snatches away the word from the hearts of those who hear it. This parable stresses the importance of actively receiving and understanding the word, as well as guarding against distractions and temptations. It emphasizes the responsibility of the individual to prepare their heart and not let the devil seize the seed before it has a chance to grow.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.580452254548672,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.89,
+        "commentatorTierSimilarities": [
+            48.52,
+            13.58,
+            37.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sower is first the Son of Man (ver. 37), then His ministers and servants (1 Cor. iii. 6) to the end.",
+            "The simple idea of the parable must be borne in mind, and its limits not transgressed\u2014 'a sower went out to sow'\u2014his SOWING\u2014sowing over all places, is the idea of the parable.",
+            "By fowls of the air\u2014passing thoughts and desires, which seem insignificant and even innocent\u2013does Satan do his work, and rob the heart of the precious seed."
+        ],
+        "Marvin Vincent": [
+            "While any one is hearing, the evil one is coming and snatching away, just as the birds do not wait for the sower to be out of the way, but are at work while he is sowing.",
+            "He that was sown; identifying the seed of the figure with the man signified."
+        ],
+        "John Calvin": [
+            "He mentions, in the first place, the barren and uncultivated, who do not receive the seed within, because there is no preparation in their hearts.",
+            "The wickedness and depravity of men do not make the word to lose its own nature, or to cease to have the character of seed.",
+            "Hence we infer that, as hungry birds are wont to do at the time of sowing, this enemy of our salvation, as soon as the doctrine is delivered, watches and rushes forth to seize it."
+        ],
+        "Philip Schaff": [
+            "Active, personal apprehension is involved.",
+            "Almost during the act of hearing.",
+            "The loss of the seed is the loss of real life."
+        ],
+        "Archibald T. Robertson": [
+            "Not putting together\" or \"not grasping.\" ",
+            "The devil is busy with his job of snatching or seizing like a bandit or rogue the word of the kingdom before it has time even to sprout.",
+            "The seed in the heart is not of itself responsible, but the man who lets the devil snatch it away."
+        ],
+        "John Gill": [
+            "Such a hearer of this word is here described, who hears it accidentally, and only externally; hears the sound of it with his ears, and understandeth it not with his heart.",
+            "He is one that is careless and inattentive, negligent and forgetful... his heart is not opened to attend to, and receive the word, but continues hard and obdurate.",
+            "The word only fell 'upon', not 'into' his heart... and it made no impression, nor was it inwardly received, but as soon as ever dropped, was 'catched' away by the enemy."
+        ],
+        "John Wesley": [
+            "The first and most general cause of unfruitfulness.",
+            "The wicked one cometh - Either inwardly; filling the mind with thoughts of other things; or by his agent.",
+            "Such are all they that introduce other subjects, when men should be considering what they have heard."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the sower is a simple yet profound illustration of the spreading of the word of God. The sower, representing Christ and His servants, scatters the seed indiscriminately in various places. However, as the seed is being sown, the evil one, symbolized by the birds, snatches away the word from the hearts of those who hear it. These passing thoughts and desires are the work of Satan, who relentlessly strives to prevent the word from taking root. This parable highlights the responsibility of the individual in receiving and nurturing the seed within their heart. It calls for active, personal engagement in understanding and internalizing the word, guarding against the distractions and temptations that seek to hinder its growth. Ultimately, the seed's effectiveness in producing fruit relies not on its inherent nature but on the willingness and readiness of the individual to receive it.",
+            "wordCount": 146,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5686770799893448,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                47.19,
+                15.0,
+                37.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the sower illustrates the widespread sowing of the word of God by Christ and His servants, encompassing all places. Satan, represented by the birds, swiftly snatches away the word from the hearts of those who hear it, before it has a chance to sprout. This parable emphasizes the importance of active engagement and personal apprehension in receiving and nurturing the word, guarding against distractions. The effectiveness of the seed lies not in itself, but in the readiness of the individual to receive it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5620264209174044,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                43.62,
+                20.73,
+                35.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the sower illustrates the concept of widespread sowing, where the Son of Man and His ministers scatter the seed across all places. However, Satan swiftly seizes the word through passing thoughts and desires, preventing it from taking root. This parable emphasizes the responsibility of the individual in actively receiving and understanding the word, guarding against distractions. The effectiveness of the seed lies in the willingness of the individual to internalize it, rather than the inherent nature of the word itself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5669510924996892,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                46.35,
+                16.46,
+                37.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the sower portrays the Son of Man and His ministers spreading the word of God in various places. However, Satan swiftly snatches away the word, represented by passing thoughts and desires, from the hearts of those who hear it. This parable emphasizes the importance of actively receiving and understanding the word, guarding against distractions. It highlights the need for personal engagement and an open heart to prevent the enemy from robbing the precious seed of the word before it has a chance to take root.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.4785815617330584,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.51,
+            "commentatorTierSimilarities": [
+                47.48,
+                13.57,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the sower demonstrates the widespread sowing of the word of God by both Christ and His servants in various places. However, the enemy, symbolized by the birds, snatches away the word from the hearts of those who hear it. This parable stresses the importance of actively receiving and understanding the word, as well as guarding against distractions and temptations. It emphasizes the responsibility of the individual to prepare their heart and not let the devil seize the seed before it has a chance to grow.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.580452254548672,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.89,
+            "commentatorTierSimilarities": [
+                48.52,
+                13.58,
+                37.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

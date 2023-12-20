@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:46:10",
+    "verseRef": "Matthew 10:23",
+    "bestBHT": {
+        "bht": "When persecution arises, Jesus advises his disciples to escape to another city, recognizing the limited opportunities for Israel to grasp the significance of his visitations. The disciples will not have completed their mission until the coming of the Son of Man, which some interpret as the Transfiguration, the advent of the Holy Spirit at Pentecost, or even the Second Coming. Regardless, their duty remains unchanged: to persist in spreading the Gospel until the second coming of Christ, ensuring the continuation of the Church's missionary work.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.0213440808460104,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+        "commentatorTierSimilarities": [
+            44.69,
+            28.82,
+            26.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But when they persecute you in this city, flee ye into another... had special reference to the brief opportunities which Israel was to have of 'knowing the time of His visitations.'",
+            "Ye shall not have gone over\u2014Ye shall in nowise have completed the cities of Israel, till the Son of man be come... the crisis of Israel's history as the visible kingdom of God, when Christ was to come and judge it.",
+            "To understand this...seems almost trifling. 'The coming of the Son of man' has a fixed doctrinal sense, here referring immediately to the crisis of Israel's history as the visible kingdom of God."
+        ],
+        "Albert Barnes": [
+            "We are to preserve our lives by all proper means, but we are rather to die than save ourselves by doing anything wrong.",
+            "In fleeing from persecutors from one city to another, you shall not have gone to every city in Judea until the end of the Jewish economy shall occur.",
+            "By 'the coming of the Son of Man,' that is, of 'Christ,' is probably meant the destruction of Jerusalem, which happened about thirty years after this was spoken."
+        ],
+        "John Calvin": [
+            "He who has sustained one persecution would willingly withdraw as a soldier who has served his time. But no such exemption is granted to the followers of Christ, who commands them to fulfill their whole course with unabated zeal.",
+            "We must abide by the moderation which Augustine recommends... no man must expose himself precipitately, or at random.",
+            "Christ promises that he will come before they have traveled through the whole of Judea: that is, by the power of his Spirit, he will shed around his reign such luster, that the apostles will be enabled to discern that glory and majesty which they had hitherto been unable to discover."
+        ],
+        "Philip Schaff": [
+            "Flight in persecution, from selfish regard to personal safety and comfort, is cowardice and sin; but flight from conscientious conviction of duty to God and to the Church, is commanded by Christ.",
+            "It often transfers to a wider field of usefulness.",
+            "There will always be a new sphere of labor for Christ\u2019s people when excluded from the old one; this succession of opportunities will not cease until the end comes; the missionary work of the Church shall continue till the second coming of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Till the Son of man be come (\u03b5\u03c9\u03c2 \u03b5\u03bb\u03b8\u03b7 \u03bf \u03c5\u03b9\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5). Moffatt puts it 'before the Son of man arrives' as if Jesus referred to this special tour of Galilee. Jesus could overtake them.",
+            "Possibly so, but it is by no means clear. Some refer it to the Transfiguration, others to the coming of the Holy Spirit at Pentecost, others to the Second Coming.",
+            "Some hold that Matthew has put the saying in the wrong context. Others bluntly say that Jesus was mistaken, a very serious charge to make in his instructions to these preachers."
+        ],
+        "John Gill": [
+            "They were not to be discouraged, and to leave off, because of persecution in one place, but to persist in the ministration of the Gospel.",
+            "Nor need they fear going on too fast, lest they should have no places to preach in.",
+            "Ye shall not have gone over the cities of Israel, or 'finished' them...till the son of man be come."
+        ],
+        "John Wesley": [
+            "Ye shall not have gone over the cities of Israel...",
+            "Make what haste ye will; till the Son of man be come - To destroy their temple and nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When facing persecution in a city, Jesus instructs his disciples to flee to another. This guidance is tied to the limited time Israel has to recognize the significance of Christ's visitation. They must quickly spread the message throughout the cities before the Son of Man comes. The exact timing of this coming is subject to interpretation - some suggest the Transfiguration, the coming of the Holy Spirit at Pentecost, or even the Second Coming. Regardless, the disciples' mission is clear: to continue their work until the second coming of Christ, always finding new opportunities to share the gospel and advancing the missionary work of the Church.",
+            "wordCount": 106,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.8125120839903768,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                45.66,
+                26.39,
+                27.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When persecuted, Jesus instructs his disciples to flee to another city, highlighting the urgency of Israel's knowledge of His visitations. The disciples are to spread the message throughout the cities before the Son of Man comes, with differing interpretations of this coming. Despite the uncertainty, the mission remains constant: to persist in sharing the gospel until the second coming of Christ, continually finding new opportunities for the Church's missionary work.",
+            "wordCount": 72,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.8980550665432325,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                42.27,
+                29.49,
+                28.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When persecuted, flee to another city \u2013 this command signifies the limited time Israel has to recognize Christ's visitations. The disciples must quickly share the message before the Son of Man comes to judge Israel and its history as God's visible kingdom. While interpretations of this coming vary, the mission remains constant: to continue the work until the second coming of Christ, advancing the missionary work of the Church.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.948229328430903,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                45.33,
+                28.39,
+                26.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When faced with persecution in one city, Jesus instructs his disciples to flee to another, as the opportunities to spread the gospel in Israel are limited. The exact meaning of the Son of Man coming is subject to debate, with various interpretations such as the Transfiguration, Pentecost, or the Second Coming. However, the disciples are encouraged to press on, persisting in their mission to minister the Gospel and finding new spheres of labor until the second coming of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.95887456616226,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                45.3,
+                27.7,
+                26.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When persecution arises, Jesus advises his disciples to escape to another city, recognizing the limited opportunities for Israel to grasp the significance of his visitations. The disciples will not have completed their mission until the coming of the Son of Man, which some interpret as the Transfiguration, the advent of the Holy Spirit at Pentecost, or even the Second Coming. Regardless, their duty remains unchanged: to persist in spreading the Gospel until the second coming of Christ, ensuring the continuation of the Church's missionary work.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.0213440808460104,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                44.69,
+                28.82,
+                26.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

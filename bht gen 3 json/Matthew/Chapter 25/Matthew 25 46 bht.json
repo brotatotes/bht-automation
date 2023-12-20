@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:20",
+    "verseRef": "Matthew 25:46",
+    "bestBHT": {
+        "bht": "The contrast between punishment and life in this teaching is not about mere existence and annihilation, but rather about misery and reward, blessedness and punishment. The Greek word used for punishment implies age-long suffering, indicating an everlasting and unending sentence. Interestingly, this same word is used for eternal life, underscoring that both are without end. The righteous will witness the descent of the wicked into everlasting burnings, while they themselves partake in boundless and eternal life. This judgment is final, irreversible, and everlasting.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.0690276714965408,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+        "commentatorTierSimilarities": [
+            24.87,
+            39.31,
+            35.82
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe, the same epithet is used in the original for punishment and life\u2014which are here contraries\u2014for the life here spoken of is not bare existence, which would have annihilation for its opposite; but blessedness and reward, to which punishment and misery are antagonist terms.",
+            "As regards the interpretation of this chapter, the coincidence of these portions of Scripture prophecy with the process of the great things in Rev. xx. and xxi. is never to be overlooked, and should be our guide to their explanation, however distrustful we may be of its certainty.\" ",
+            "Those who set this coincidence aside, and interpret each portion by itself, without connexion with the rest, are clearly wrong."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sentence, it should seem, was first pronounced\u2014in the hearing of the wicked\u2014upon the righteous, who thereupon sit as assessors in the judgment upon the wicked.",
+            "Their descent into 'their own place' will be witnessed by the righteous, as BENGEL notes.",
+            "The decisions of this awful day will be final, irreversible, unending."
+        ],
+        "Albert Barnes": [
+            "Besides, sin, as an abstract thing, cannot be punished. Sin is nothing but an 'act' - the act of a transgressor, and, to be reached at all, it must be reached by punishing the offender himself.",
+            "It does not mean simply a 'state or condition,' but absolute, positive suffering; and if this word does not teach it, no word 'could' express the idea that the wicked would suffer.",
+            "That the word used here is the same in the original as that used to express the eternal life of the righteous; if one can be proved to be limited in duration, the other can by the same arguments."
+        ],
+        "Philip Schaff": [
+            "Into eternal punishment. The opposite is eternal life, both never ending, the Greek word being the same.",
+            "The word \u2018punishment\u2019 expresses positive misery, not \u2018 annihilation;\u2019 especially \u2018life,\u2019 the contrasted expression, means here far more than mere continued existence.",
+            "Endless and boundless life is contrasted with endless and boundless misery."
+        ],
+        "Archibald T. Robertson": [
+            "If by etymology we limit the scope of \u03ba\u03bf\u03bb\u03b1\u03c3\u03b9\u03bd, we may likewise have only age-long \u03b6\u03c9\u03b7\u03bd.\" ",
+            "There is not the slightest indication in the words of Jesus here that the punishment is not coeval with the life.",
+            "The word \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03c2 (from \u03b1\u03b9\u03c9\u03bd, age, \u03b1\u03b5\u03c2\u03c5\u03bc, \u03b1\u03b5) means either without beginning or without end or both. It comes as near to the idea of eternal as the Greek can put it in one word."
+        ],
+        "John Gill": [
+            "Their excuses will not be regarded, their pleas will be of no avail, their pretensions to interest in Christ, and love to him, will be set aside; the sentence will remain irrevocable, and there will be no appeal from it...",
+            "These goats, or formal professors, shall be obliged, whether they will or not, to depart from the presence of Christ; the angels will be ordered to take and cast them into everlasting burnings...",
+            "Such as are justified by the righteousness of Christ, and who, though they have done works of righteousness under the influence, and by the assistance of the grace of God, yet have not depended upon them, but upon Christ, for life and salvation: these shall go into heaven..."
+        ],
+        "John Wesley": [
+            "Either therefore the punishment is strictly eternal, or the reward is not: the very same expression being applied to the former as to the latter.",
+            "The wicked shall then go away into everlasting fire, in the view of the righteous. Thus the damned shall see nothing of the everlasting life; but the just will see the punishment of the ungodly.",
+            "It is not only particularly observable here, 1. That the punishment lasts as long as the reward; but, 2. That this punishment is so far from ceasing at the end of the world, that it does not begin till then."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the contrast between punishment and life, with punishment representing not annihilation but rather misery and reward being synonymous with blessedness. The etymology of the Greek word used for punishment implies an age-long suffering, indicating a lasting and unending sentence. The word used for punishment is the same as the word used for eternal life, further emphasizing that both are without end. In this final judgment, the righteous will serve as assessors, witnessing the descent of the wicked into their place of everlasting burnings. The punishment is not a mere state or condition, but absolute suffering, contrasting with the endless and boundless life enjoyed by the righteous. The decisions made on this day are final, irreversible, and everlasting.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.102011075485395,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                25.94,
+                38.82,
+                35.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The punishment and life spoken of in this passage are not mere existence and annihilation, but rather represent the contrast between misery and reward, blessedness and punishment. The Greek word used for punishment implies an age-long suffering, indicating a lasting and unending sentence. The same word is used for eternal life, emphasizing that both are without end. The righteous will witness the descent of the wicked into everlasting burnings, while they themselves enjoy endless and boundless life. This judgment is final, irreversible, and everlasting in its consequences.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.095484046848552,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                25.31,
+                39.04,
+                35.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The punishment and life mentioned here are not opposites of mere existence and annihilation. Instead, they signify the contrast between reward and misery, blessedness and punishment. The Greek word for punishment indicates age-long suffering, highlighting that it is everlasting and unending, just like eternal life. The righteous will witness the condemned descending into everlasting burnings, while they themselves partake in boundless and endless life. This final judgment is irreversible, final, and eternal in nature.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.025479810098034,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                24.21,
+                38.58,
+                37.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The original epithet used for punishment and life in this verse signifies that they are contraries, with punishment representing misery and reward representing blessedness. The Greek word for punishment implies an age-long suffering, indicating that it is lasting and unending. Both punishment and eternal life are described by the same word, emphasizing that they are without end. The righteous serve as assessors in the judgment, witnessing the descent of the wicked into their own place of everlasting burnings, while they themselves enjoy boundless and eternal life. This judgment is final, irreversible, and unending.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1254943836029154,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                25.78,
+                37.78,
+                36.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The contrast between punishment and life in this teaching is not about mere existence and annihilation, but rather about misery and reward, blessedness and punishment. The Greek word used for punishment implies age-long suffering, indicating an everlasting and unending sentence. Interestingly, this same word is used for eternal life, underscoring that both are without end. The righteous will witness the descent of the wicked into everlasting burnings, while they themselves partake in boundless and eternal life. This judgment is final, irreversible, and everlasting.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.0690276714965408,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                24.87,
+                39.31,
+                35.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

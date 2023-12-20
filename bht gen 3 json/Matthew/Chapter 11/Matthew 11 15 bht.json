@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:46:25",
+    "verseRef": "Matthew 11:15",
+    "bestBHT": {
+        "bht": "These words are often used by our Lord when there is a deeper meaning in His words. If John the Baptist is Elias and the forerunner of the Lord, then the Lord is come. He that hath ears to hear, let him hear. This proverbial expression implies that the highest attention should be given to what was spoken. The comparison that follows suggests that few would receive the truth about John or have ears to hear the glad news of the Messiah's presence. Mutual influence can hinder the fruit of God's speaking to others.",
+        "wordCount": 96,
+        "quoteTokenProportion": 47.83,
+        "qualityScore": 1.907025211786702,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+        "commentatorTierSimilarities": [
+            37.49,
+            31.2,
+            31.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words are generally used by our Lord when there is a further and deeper meaning in His words than is expressed.",
+            "If John the Baptist is Elias, and Elias is the forerunner of the coming of the Lord, then know surely that the Lord is come."
+        ],
+        "Albert Barnes": [
+            "He that hath ears ... - This expression is frequently used by Christ. It is a proverbial expression, implying that the highest attention should be given to what was spoken.",
+            "The doctrine about John he regarded as of the greatest importance.",
+            "He among you, says he, that has the faculty of understanding this, or that will believe that this is the Elijah spoken of, let him attend to it and remember it."
+        ],
+        "John Calvin": [
+            "He that hath ears to hear, let him hear.",
+            "Now, as every man is hindered not only by his own unbelief, but by the mutual influence which men exercise on each other...",
+            "...to consider attentively this remarkable secret of God, and not to remain deaf with unbelievers."
+        ],
+        "Philip Schaff": [
+            "He that hath ears to hear, etc. This usually follows an important statement, intimating that he who has the discernment to understand will find the deeper meaning.",
+            "Then, as now, properly to understand the Scriptures was to know Christ.",
+            "The comparison which follows intimates that few would \u2018receive\u2019 the truth respecting John, or have \u2018ears to hear\u2019 the glad news of the Messiah\u2019s presence."
+        ],
+        "John Gill": [
+            "He that hath ears to hear, let him hear.",
+            "...everyone had not spiritual ears and understandings, to hear and take in things of such an high nature, and excellent use.",
+            "Such ought to attend to them, and, seriously weigh and consider the importance of them."
+        ],
+        "John Wesley": [
+            "He that hath ears to hear, let him hear \u2014 A kind of proverbial expression; requiring the deepest attention to what is spoken."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These words are generally used by our Lord when there is a further and deeper meaning in His words than is expressed. If John the Baptist is Elias, and Elias is the forerunner of the coming of the Lord, then know surely that the Lord is come. He that hath ears to hear, let him hear. This expression is frequently used by Christ, implying that the highest attention should be given to what was spoken. The comparison which follows intimates that few would \u2018receive\u2019 the truth respecting John, or have \u2018ears to hear\u2019 the glad news of the Messiah\u2019s presence. Now, as every man is hindered not only by his own unbelief, but by the mutual influence which men exercise on each other, one man may abundantly hinder the fruit of God\u2019s speaking to another.",
+            "wordCount": 137,
+            "quoteTokenProportion": 47.87,
+            "qualityScore": 2.092800954832213,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                37.68,
+                32.43,
+                29.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These words are often used by our Lord when there is a deeper meaning in His words. If John the Baptist is Elias and the forerunner of the Lord, then the Lord is come. He that hath ears to hear, let him hear. This proverbial expression implies that the highest attention should be given to what was spoken. The comparison that follows suggests that few would receive the truth about John or have ears to hear the glad news of the Messiah's presence. Mutual influence can hinder the fruit of God's speaking to others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.907025211786702,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                37.49,
+                31.2,
+                31.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If John the Baptist is Elias, and Elias is the forerunner of the coming of the Lord, then know surely that the Lord is come. He that hath ears to hear, let him hear. This expression is frequently used by Christ, implying that the highest attention should be given to what was spoken. The comparison which follows intimates that few would \u2018receive\u2019 the truth respecting John, or have \u2018ears to hear\u2019 the glad news of the Messiah\u2019s presence. Mutual influence can hinder the fruit of God\u2019s speaking to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8969270497023811,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                33.52,
+                34.64,
+                31.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If John the Baptist is Elias, and Elias is the forerunner of the coming of the Lord, then know surely that the Lord is come. He that hath ears to hear, let him hear. This expression is frequently used by Christ, implying that the highest attention should be given to what was spoken. The comparison which follows intimates that few would \u2018receive\u2019 the truth respecting John, or have \u2018ears to hear\u2019 the glad news of the Messiah\u2019s presence. Mutual influence can hinder the fruit of God\u2019s speaking to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8969270497023811,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                33.52,
+                34.64,
+                31.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If John the Baptist is Elias, and Elias is the forerunner of the coming of the Lord, then know surely that the Lord is come. He that hath ears to hear, let him hear. This expression is frequently used by Christ, implying that the highest attention should be given to what was spoken. The comparison that follows intimates that few would \u2018receive\u2019 the truth respecting John, or have \u2018ears to hear\u2019 the glad news of the Messiah\u2019s presence. Mutual influence can hinder the fruit of God\u2019s speaking to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8932921286549584,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                33.64,
+                34.53,
+                31.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

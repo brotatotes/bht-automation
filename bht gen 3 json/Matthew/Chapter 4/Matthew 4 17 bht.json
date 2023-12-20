@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 23:43:28",
+    "verseRef": "Matthew 4:17",
+    "bestBHT": {
+        "bht": "From that time Jesus began to preach, echoing the words of his honored forerunner. His ministry in Galilee focused on preaching repentance and the nearness of the kingdom of heaven. While he proclaimed the kingdom as already present, its full realization awaited his sacrificial death on the cross. Jesus' preaching encompassed not only the primary announcement of the message but also ongoing instruction. As both herald and teacher, he emphasized the importance of repentance and shared the good news of the kingdom, revealing the necessary preparation for embracing it.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.204962157026321,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+        "commentatorTierSimilarities": [
+            34.98,
+            24.34,
+            40.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "began His ministry in Galilee.",
+            "It is not correct to suppose...that this preaching of repentance was of a different character from the after-teaching of our Lord.",
+            "we find our Lord still preaching repentance, after repeated declarations of His Messiahship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From that time Jesus began to preach, and to say, Repent; for the kingdom of heaven is at hand\" \u2013 Thus did our Lord not only take up the strain, but give forth the identical summons of His honored forerunner.",
+            "Our Lord sometimes speaks of the new kingdom as already come - in His own Person and ministry; but the economy of it was only 'at hand' until the blood of the cross was shed.",
+            "The Spirit on the day of Pentecost opened the fountain for sin and for uncleanness to the world at large."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 3:2."
+        ],
+        "Marvin Vincent": [
+            "The standing expression in the New Testament for the proclamation of the Gospel.",
+            "Confined to the primary announcement of the message and facts of salvation.",
+            "Not including continuous instruction in the contents and connections of the message, which is expressed by didaskein (to teach)."
+        ],
+        "Philip Schaff": [
+            "Jesus began to preach. The beginning of the ministry in Galilee, to an account of which Matthew confines himself.",
+            "The expression \u2018at hand,\u2019 indicates that Jesus had not yet publicly declared Himself to be the Messiah.",
+            "His preaching at this period was not of a different character from His subsequent teachings."
+        ],
+        "Archibald T. Robertson": [
+            "His message carries on the words of the Baptist about 'repentance' and the 'kingdom of heaven' being at hand.",
+            "Both proclaimed the good news of the kingdom.",
+            "He was both herald and teacher as every preacher should be."
+        ],
+        "John Gill": [
+            "From that time Jesus began to preach and to say....\" ",
+            "The words with which he began his ministry are the same with which John begun his; which shows the entire agreement between them, in that they not only preached the same doctrine, but in the same words..."
+        ],
+        "John Wesley": [
+            "From that time Jesus began to preach \u2014 He had preached before, both to Jews and Samaritans, John 4:41,45. But from this time begin his solemn stated preaching.",
+            "Repent, for the kingdom of heaven is at hand \u2014 Although it is the peculiar business of Christ to establish the kingdom of heaven in the hearts of men, yet it is observable, he begins his preaching in the same words with John the Baptist: because the repentance which John taught still was, and ever will be, the necessary preparation for that inward kingdom.",
+            "But that phrase is not only used with regard to individuals in whom it is to be established, but also with regard to the Christian Church, the whole body of believers. In the former sense it is opposed to repentance; in the latter the Mosaic dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From that time Jesus began to preach, proclaiming the identical message of his forerunner John the Baptist. His ministry in Galilee was characterized by preaching repentance and the coming of the kingdom of heaven. Though he spoke of the kingdom as already present in his person and ministry, its full realization would only come through his sacrificial death on the cross. Jesus' preaching extended beyond the primary announcement of the message to include continuous instruction in the contents and connections of the gospel. He was both herald and teacher, echoing John's call to repentance and heralding the good news of the kingdom. Just as repentance was the necessary preparation for that inward kingdom, it continues to be a vital aspect of embracing the kingdom of heaven in our hearts.",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 2.2402868086839844,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.83,
+            "commentatorTierSimilarities": [
+                35.67,
+                24.1,
+                40.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From that time Jesus began to preach, proclaiming the identical message of his forerunner. His ministry in Galilee was characterized by preaching repentance and the coming of the kingdom. Though he spoke of the kingdom as already present in his person and ministry, the full realization would come through his sacrificial death. Jesus' preaching extended beyond the primary announcement of the message to include continuous instruction. He was both herald and teacher, echoing John's call to repentance and heralding the good news of the kingdom. Repentance continues to be vital for embracing the kingdom of heaven.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.1990974520895423,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.46,
+            "commentatorTierSimilarities": [
+                35.71,
+                24.49,
+                39.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From that time Jesus began to preach, echoing the words of his honored forerunner. His ministry in Galilee focused on preaching repentance and the nearness of the kingdom of heaven. While he proclaimed the kingdom as already present, its full realization awaited his sacrificial death on the cross. Jesus' preaching encompassed not only the primary announcement of the message but also ongoing instruction. As both herald and teacher, he emphasized the importance of repentance and shared the good news of the kingdom, revealing the necessary preparation for embracing it.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.204962157026321,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                34.98,
+                24.34,
+                40.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From that time Jesus began to preach, delivering the very same summons as John the Baptist. His ministry in Galilee centered on preaching repentance and the approaching kingdom of heaven. While he spoke of the kingdom as already present through his person and ministry, its full realization awaited his crucifixion. Jesus' preaching extended beyond the initial proclamation of the message to provide continuous teaching. He embodied both a herald and a teacher, echoing John's call for repentance and proclaiming the good news of the kingdom. Repentance remains crucial for embracing the kingdom of heaven.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1712664027166007,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+            "commentatorTierSimilarities": [
+                34.92,
+                25.16,
+                39.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus began his ministry in Galilee, preaching the same message as John the Baptist. His proclamation focused on repentance and the nearness of the kingdom of heaven. Though he spoke of the kingdom as already present through his ministry, its complete realization would come through his sacrificial death. Jesus, as both a herald and a teacher, emphasized the necessity of repentance and proclaimed the good news of the kingdom. Repentance is the essential preparation for embracing the kingdom of heaven, both individually and within the Christian Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.1763249544140684,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                36.05,
+                24.3,
+                39.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

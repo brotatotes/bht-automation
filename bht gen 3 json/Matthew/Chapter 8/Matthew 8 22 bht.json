@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:10",
+    "verseRef": "Matthew 8:22",
+    "bestBHT": {
+        "bht": "While it is a duty to bury the dead, it is a greater duty to prioritize the kingdom of heaven and preach Christ. Jesus reminds us not to be drawn away from our obedience by the spiritually dead who are indifferent towards God's work. We must not allow anything to divert our minds from religion and following Him. Our ultimate goal should be devotion to Christ and caring for the kingdom of heaven, as nothing is more important than our obedience to God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.9062607227925472,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+        "commentatorTierSimilarities": [
+            24.87,
+            40.2,
+            34.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "First time, as Rev. iii. 1, spiritually,\u2014second, literally dead.",
+            "The two meanings are similarly used in one saying by our Lord in John xi. 25, 26.",
+            "See Heb. vi. 1; ix, 14: and the weighty addition in Luke, ver. 62."
+        ],
+        "Albert Barnes": [
+            "The Jews used the word 'dead' often to express indifference toward a thing; or, rather, to show that that thing has no 'influence' over us.",
+            "Let people, says he, who are uninterested in my work, and who are 'dead in sin' Ephesians 2:1, take care of the dead. Your duty is now to follow me.",
+            "The Saviour meant to teach by this that nothing is to be allowed to divert the mind from religion nothing to be an excuse for not following him."
+        ],
+        "John Calvin": [
+            "He intended only to show, that whatever withdraws us from the right course, or retards us in it, deserves no other name than death.",
+            "Those only live, he tells us, who devote all their thoughts, and every part of their life, to obedience to God.",
+            "Those who do not rise above the world, \u2014 who devote themselves to pleasing men, and forget God, \u2014 are like dead men, who are idly and uselessly employed in taking care of the dead."
+        ],
+        "Philip Schaff": [
+            "The goal and end of those who are spiritually dead their last and highest aim here is to bury one another.\" ",
+            "Let the dead bury themselves, i.e.., better let them be unburied than that Christ\u2019s disciples be drawn away from their obedience.\" ",
+            "Nothing, not even the most important work of natural duty and affection, is so momentous, as care for the kingdom of heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Leave the dead to bury their own dead.",
+            "The spiritually dead are always on hand to bury the physically dead, if one's real duty is with Jesus.",
+            "While it is a good deed to bury the dead, it is a better one to preach Christ."
+        ],
+        "John Gill": [
+            "Christ's meaning is, let such who are dead in trespasses and sins, and to all that is spiritually good, bury those who are dead in a natural or corporal sense.",
+            "And in this sense is the word used, in the former part of this phrase; and Christ's meaning is, let such who are dead in trespasses and sins, and to all that is spiritually good, bury those who are dead in a natural or corporal sense.",
+            "It is likely the deceased was an unregenerate man; however, it is plainly suggested, that many of the relations were; and there were enough of them to take care of this service: and therefore, there was no need why he should neglect the ministry of the Gospel to attend that; but, ought to leave it to persons who were fitter for it."
+        ],
+        "John Wesley": [
+            "But Jesus said \u2014 When God calls, leave the business of the world to them who are dead to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While it is a duty and act of kindness to bury the physically dead, Jesus reminds us in Matthew 8:22 that it is an even greater duty to preach Christ and prioritize the kingdom of heaven. The phrase let the dead bury their own dead has both a spiritual and literal meaning. Spiritually, it refers to those who are spiritually dead and indifferent towards the work of God. Instead of being drawn away from our obedience to Christ, we must focus on following Him wholeheartedly. In a literal sense, Jesus highlights the importance of not allowing anything to divert our minds from religion and following Him. Therefore, our ultimate goal should be obedience to God and caring for the kingdom of heaven, as nothing is more crucial than our devotion to Christ and the Gospel.",
+            "wordCount": 134,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 1.922504751021691,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                27.08,
+                38.09,
+                34.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While it is a duty to bury the dead, it is a greater duty to prioritize the kingdom of heaven and preach Christ. Jesus reminds us not to be drawn away from our obedience by the spiritually dead who are indifferent towards God's work. We must not allow anything to divert our minds from religion and following Him. Our ultimate goal should be devotion to Christ and caring for the kingdom of heaven, as nothing is more important than our obedience to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9062607227925472,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                24.87,
+                40.2,
+                34.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 8:22, Jesus explains that while it is a good deed to bury the dead, it is an even better one to preach Christ and prioritize the kingdom of heaven. He uses the phrase let the dead bury their own dead to emphasize the importance of not allowing anything to divert us from our obedience and devotion to God. We must not be drawn away by the spiritually dead or be indifferent towards God's work. Our duty is to follow Jesus and focus on the kingdom of heaven above all else.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.1135132167630957,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+            "commentatorTierSimilarities": [
+                28.22,
+                37.92,
+                33.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Jesus teaches us that it is more important to prioritize the kingdom of heaven and preach Christ than to be preoccupied with burying the dead. When Jesus says, let the dead bury their own dead, He calls us to remain steadfast in our obedience to God and not be distracted by worldly concerns. We should devote ourselves to the work of God and focus on spreading the Gospel, knowing that nothing is more significant than our commitment to Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0575637221610075,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                26.49,
+                36.23,
+                37.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this teaching, Jesus emphasizes the priority of preaching Christ and the kingdom of heaven over the act of burying the dead. He challenges us to not be swayed by the spiritually dead or allow anything to divert our obedience. Our duty is to follow Jesus and focus on the kingdom of heaven, rather than being drawn away by indifference or worldly matters. Ultimately, our devotion to Christ and the Gospel should take precedence over any other responsibilities or distractions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7804171320886382,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                24.35,
+                41.04,
+                34.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

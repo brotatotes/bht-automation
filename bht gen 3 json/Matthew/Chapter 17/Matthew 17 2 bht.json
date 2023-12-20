@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:49:22",
+    "verseRef": "Matthew 17:2",
+    "bestBHT": {
+        "bht": "The appearance of Christ was dramatically transformed, with His countenance shining radiantly like the sun and His garments becoming white as light. This remarkable change indicated the manifestation of His essential spiritual and divine being. It was not a mere external alteration but symbolized the revelation of His divine nature breaking forth in glorious form. This transfiguration offered a glimpse of His celestial glory, enabling His disciples to partially experience what could not be fully comprehended. The radiance emitted from within Him transformed His clothes into a brilliant, luminous brightness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9897321517920656,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+        "commentatorTierSimilarities": [
+            28.61,
+            31.85,
+            39.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fashion of his countenance was altered.\" ",
+            "By being lighted with radiance both from without and from within.\" ",
+            "Exceeding white as snow so as no fuller on earth can white them."
+        ],
+        "Albert Barnes": [
+            "His face shone as the sun; that is, with a special brightness.\" ",
+            "The second change was that of his garments. They were white as the light.",
+            "There is no evidence here that what is commonly said of him is true, that his body was so changed as to show what his glorified body is. His body, so far as the sacred writers inform us, underwent no change."
+        ],
+        "Marvin Vincent": [
+            "The deeper truth of the case, which is, that the visible change gets its real character and meaning from that which is essential in our Lord - his divine nature.",
+            "There was a fact and a power in that vision which mere radiance and the appearance of the patriarchs could not wholly convey : a revelation of Deity breaking out in that glorified face and form,",
+            "An indefinable change had passed upon him, the characteristic of which was that it prefigured his passing into the condition peculiar and appropriate to his essential spiritual and divine being."
+        ],
+        "John Calvin": [
+            "He always ascribed to the Father whatever he did as a divine Person... he intended to excite us to prayer by his example.",
+            "His transfiguration did not altogether enable his disciples to see Christ, as he now is in heaven, but gave them a taste of his boundless glory.",
+            "For this was not a complete exhibition of the heavenly glory of Christ, but, under symbols which were adapted to the capacity of the flesh, he enabled them to taste in part what could not be fully comprehended."
+        ],
+        "Philip Schaff": [
+            "The change in His appearance took place while He was praying.",
+            "His face did shine as the snow, and his garments became white as the light.",
+            "No explanation is possible that denies the supernatural element."
+        ],
+        "Archibald T. Robertson": [
+            "The word is the same as the metamorphoses (cf. Ovid) of pagan mythology.",
+            "But it will not do in Matthew 17:2 to use the English transliteration \u03bc\u03b5\u03c4\u03b1\u03bc\u03bf\u03c1\u03c6\u03c9\u03c3\u03b9\u03c2 because of its pagan associations.",
+            "Matthew guards against the pagan idea by adding and explaining about the face of Christ 'as the sun' and his garments 'as the light'."
+        ],
+        "John Gill": [
+            "\u2026only it received a more glorious form; that whereas before he appeared in the form of a servant, and looked mean and despicable, now he appeared in the form and majesty of God.\" ",
+            "\u2026his face did shine as the sun it had still the same appearance of a human face, but had such a dazzling glory upon it, as equaled the sun shining in its full strength.\" ",
+            "\u2026his raiment was white as the light: he did not put off his clothes, nor were the nature and substance, and fashion of them changed; but such rays of glory darted through his flesh, and through his clothes, as made them as bright and shining, as the light of the sun at noonday."
+        ],
+        "John Wesley": [
+            "The indwelling Deity darted out its rays through the veil of the flesh; and that with such transcendent splendour, that he no longer bore the form of a servant.",
+            "His face shone with Divine majesty, like the sun in its strength.",
+            "All his body was so irradiated by it, that his clothes could not conceal its glory, but became white and glittering as the very light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The face of Christ was altered, illuminated with radiance both from without and within, and appeared exceeding white as snow, symbolizing the revelation of His divine nature. It was a transformative change, prefiguring His transition into a state befitting His spiritual and divine essence. This metamorphosis, distinct from pagan mythology, was accompanied by the radiance of the sun, emphasizing the divine nature of Christ. His transfiguration gave a glimpse of His boundless glory, enabling the disciples to partially taste what could not be fully comprehended. From within His human form, the indwelling Deity emitted such transcendent splendor that His raiments became as bright and shining as the light itself.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.067077126024578,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                30.04,
+                29.0,
+                40.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The appearance of Christ was dramatically transformed, with His countenance shining radiantly like the sun and His garments becoming white as light. This remarkable change indicated the manifestation of His essential spiritual and divine being. It was not a mere external alteration but symbolized the revelation of His divine nature breaking forth in glorious form. This transfiguration offered a glimpse of His celestial glory, enabling His disciples to partially experience what could not be fully comprehended. The radiance emitted from within Him transformed His clothes into a brilliant, luminous brightness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9897321517920656,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                28.61,
+                31.85,
+                39.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The countenance of Christ underwent a significant alteration, radiating with both external and internal brilliance. His appearance became exceedingly white, surpassing the whitest snow. This transformation reflected His essential spiritual and divine nature. The transfiguration demonstrated the revelation of deity emanating from His glorified face and form. This metamorphosis, though comparable to pagan mythology, was distinct from it. The face of Christ shone with divine majesty, resembling the strength of the noonday sun, and His garments became as dazzling as the light.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.879463933124167,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                31.12,
+                32.37,
+                36.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The transfiguration of Christ was a remarkable display of divine glory. His countenance and garments underwent a profound change, becoming radiant and white as snow. This transformation revealed His essential spiritual and divine nature, as the visible change derived its true character and meaning from the divine reality within Him. The illuminating radiance and dazzling appearance symbolized the deity breaking forth from His glorified face and form, offering a glimpse of His celestial majesty that defied human comprehension.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.9614899279478697,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                31.49,
+                31.54,
+                36.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The transfiguration of Christ involved a notable alteration in His countenance and garments. His face shone with radiant brilliance, resembling the sun, while His garments became intensely white like light. This transformation was a reflection of His divine nature, passing into a spiritual and divine state. It was a profound manifestation of deity, with His glorified face and form revealing the inexpressible glory that surpassed human understanding. The transfiguration offered a partial taste of His infinite splendor and majesty, as His clothing radiated with a luminosity akin to the brilliance of the midday sun.",
+            "wordCount": 94,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.9579195597701184,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                28.43,
+                31.74,
+                39.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

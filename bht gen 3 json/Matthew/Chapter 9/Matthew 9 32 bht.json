@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:45:55",
+    "verseRef": "Matthew 9:32",
+    "bestBHT": {
+        "bht": "Behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. This particular case underscores the incredible power of Jesus' healing. The man did not come seeking Jesus on his own accord but was brought by his friends, illustrating the continuous stream of Jesus' compassionate ministry.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.5386718897901335,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.5,
+        "commentatorTierSimilarities": [
+            29.11,
+            37.25,
+            33.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "32. As they went out, behold, they",
+            "\tbrought to him a dumb man possessed with a devil\u2014\"demonized.",
+            "\tThe dumbness was not natural, but was the effect of the possession."
+        ],
+        "Albert Barnes": [
+            "This seems to have occurred as soon as the blind men which had been healed left him.",
+            "Possibly it was from what they had observed of his power in healing them.",
+            "Those 'possessed with devils' were affected in different ways (see the notes at Matthew 4:24), and there is no improbability in supposing that if other forms of disease occurred under demoniacal possessions, this form might occur also."
+        ],
+        "Marvin Vincent": [
+            "Dumb [\u03ba\u03c9\u03c6\u03bf\u03bd]. The word is also used of deafness... It means dull or blunted... The classical writers use it of speech, hearing, sight, and mental perception.\" ",
+            "In the New Testament, only of hearing and speech, the meaning in each case being determined by the context.",
+            "The meaning of 'dumb' in each case being determined by the context."
+        ],
+        "John Calvin": [
+            "It is probable that this man was not naturally dumb, but that, after he had been given up to the devil, he was deprived of the use of speech.",
+            "The exclamation of the multitudes...appears to be hyperbolical: for God had formerly revealed his glory among that people by greater miracles.",
+            "Besides, it ought to be observed, that this was not a premeditated statement, but a sudden burst of admiration."
+        ],
+        "Philip Schaff": [
+            "Behold. Another remarkable case, mentioned by Matthew alone.",
+            "Both he (Matthew 12:22 ff.) and Luke (Luke 6:14 ff.) mention a similar case.",
+            "A dumb man possessed with a demon, 'a dumb demoniac,' the dumbness being the effect of the possession."
+        ],
+        "Archibald T. Robertson": [
+            "A dumb man (\u03ba\u03c9\u03c6\u03bf\u03bd). Literally blunted in tongue as here and so dumb, in ear as in Matthew 11:5 and so deaf.",
+            "Homer used it of a blunted dart (Iliad xi. 390).",
+            "Others applied it to mental dullness."
+        ],
+        "John Gill": [
+            "Partly to show how busy Christ was, how he was continually employed in doing good, and that as soon as one work of mercy was over, another offered.",
+            "[The man] seems to be dumb, not by nature, but through the possession of Satan, who had taken away, or restrained the use of his speech, out of pure malice and ill will.",
+            "This man did not come of himself to Christ, perhaps being unwilling, through the power and influence the devil had over him; but his friends... brought him to him."
+        ],
+        "John Wesley": [
+            "Luke 11:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they went out, behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. It is important to note that the dumbness was not a natural condition, but rather a consequence of the demonic influence. This particular case, mentioned by Matthew alone, demonstrates the extraordinary power of Jesus' healing. The man did not come to Jesus on his own, but was brought by his friends. This shows the continuous cycle of Jesus' ministry, with one act of mercy following another. The parallel account in Luke 11:14 further supports this narrative.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4641831950313295,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "commentatorTierSimilarities": [
+                24.94,
+                38.62,
+                36.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As they went out, behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. It is important to note that the dumbness was not a natural condition, but rather a consequence of the demonic influence. This particular case emphasizes the extraordinary power of Jesus' healing and the continuous cycle of his ministry, with one act of mercy following another.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5214771083602,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                31.75,
+                36.65,
+                31.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. The particular case demonstrates the extraordinary power of Jesus' healing. The man did not come to Jesus on his own, but was brought by his friends. This shows the continuous cycle of Jesus' ministry, with one act of mercy following another.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4878315168439533,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "commentatorTierSimilarities": [
+                28.37,
+                37.82,
+                33.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. This particular case demonstrates the extraordinary power of Jesus' healing. The man did not come to Jesus on his own, but was brought by his friends. This shows the continuous cycle of Jesus' ministry, with one act of mercy following another.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4858717862258835,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.75,
+            "commentatorTierSimilarities": [
+                27.61,
+                38.42,
+                33.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, they brought to him a dumb man possessed with a devil, or demonized. The word dumb in this context refers to both speech and hearing, indicating a bluntness or dullness in communication. The man's dumbness was a result of being under the possession of a demon. This particular case underscores the incredible power of Jesus' healing. The man did not come seeking Jesus on his own accord but was brought by his friends, illustrating the continuous stream of Jesus' compassionate ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5386718897901335,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.5,
+            "commentatorTierSimilarities": [
+                29.11,
+                37.25,
+                33.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

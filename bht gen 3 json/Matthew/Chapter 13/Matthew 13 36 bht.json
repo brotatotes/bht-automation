@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:47:35",
+    "verseRef": "Matthew 13:36",
+    "bestBHT": {
+        "bht": "The disciples seized the opportunity to request a clear explanation of the parable of the tares of the field, recognizing its importance among the other parables. They sought understanding and clarification from Jesus, as they had done before with the parable of the sower. The disciples understood that this parable depicted the vastness of the world as Christ's own field, and desired to delve deeper into its profound meaning, choosing it over the parables of the mustard seed and leaven.",
+        "wordCount": 81,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.51636201588252,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.01,
+        "commentatorTierSimilarities": [
+            30.1,
+            38.78,
+            31.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But here that word has been received into the heart, and has converted him that received it into a new creature, a 'child of the kingdom,' according to that saying of James.\" ",
+            "It is worthy of notice that this vast field of the world is here said to be Christ's own\u2014'His field,' says the parable.\" ",
+            "Declare unto us the parable of the tares of the field."
+        ],
+        "Philip Schaff": [
+            "The purpose was to explain the parables more fully and to add others for the benefit of His disciples.\" ",
+            "The parable of the tares would be less likely to be understood by the multitudes."
+        ],
+        "Archibald T. Robertson": [
+            "Explain unto us... 'Make thoroughly clear right now' (aorist tense of urgency).\" ",
+            "The disciples waited till Jesus left the crowds and got into the house to ask help on this parable.",
+            "Jesus had opened up the Parable of the Sower and now they pick out this one, passing by the mustard seed and the leaven."
+        ],
+        "John Gill": [
+            "That his disciples might have the opportunity of conversing with him alone, about the sense of the parables he had delivered.",
+            "By which they mean, not a rehearsal of it, but an explication of the sense and meaning of it.",
+            "They ask nothing about the parables of the mustard seed and leaven, either because they better understood them; or because there were some things very remarkable and striking in this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, seizing the moment when Jesus was alone with them, urgently requested Him to explain the parable of the tares of the field. They sought a thorough clarification on its meaning, as they had done previously with the parable of the sower. They understood the importance of comprehending this parable which revealed the vastness of the world, described as Christ's own field. The disciples' desire to delve deeper into this particular parable demonstrates their recognition of its profundity, choosing to focus on it over the parables of the mustard seed and leaven.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.385740950356703,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.67,
+            "commentatorTierSimilarities": [
+                30.71,
+                37.17,
+                32.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing the significance of the parable of the tares of the field, the disciples urgently implored Jesus to thoroughly explain its meaning, seeking a clear understanding of this profound teaching. They understood that this parable depicted the vastness of the world as Christ's own field and desired to grasp its depths. Their focused request for explanation highlights their awareness of the importance of comprehending the message conveyed by this particular parable, surpassing their curiosity regarding the parables of the mustard seed and leaven.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.2642528608233112,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.63,
+            "commentatorTierSimilarities": [
+                30.2,
+                35.78,
+                34.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Realizing the weightiness of the parable of the tares of the field, the disciples urgently approached Jesus in the privacy of the house to request a thorough elucidation of its meaning. This demonstrated their deep desire to fully comprehend its significance, as they had previously sought clarification on the parable of the sower. They recognized the profound nature of this parable, depicting the vastness of the world as Christ's own field, and prioritized understanding it over the parables of the mustard seed and leaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.29097357479368,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                31.62,
+                35.71,
+                32.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples seized the opportunity to request a clear explanation of the parable of the tares of the field, recognizing its importance among the other parables. They sought understanding and clarification from Jesus, as they had done before with the parable of the sower. The disciples understood that this parable depicted the vastness of the world as Christ's own field, and desired to delve deeper into its profound meaning, choosing it over the parables of the mustard seed and leaven.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.51636201588252,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.01,
+            "commentatorTierSimilarities": [
+                30.1,
+                38.78,
+                31.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Desiring to attain a comprehensive understanding of the parable of the tares of the field, the disciples approached Jesus privately, urgently requesting an explication of its sense and meaning. Recognizing the significance of this parable, which depicted the world as Christ's own field, they focused their queries on it rather than inquiring about the parables of the mustard seed and leaven. Their earnest request demonstrated their longing to grasp the profundity of this parable and engage in a meaningful conversation with Jesus regarding its implications.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.249522312522456,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                29.96,
+                34.92,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

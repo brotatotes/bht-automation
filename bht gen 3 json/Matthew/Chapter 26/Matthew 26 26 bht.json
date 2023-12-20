@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:34",
+    "verseRef": "Matthew 26:26",
+    "bestBHT": {
+        "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. The purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread serves as a beautifully simple, poetic symbol of his sacrifice. As we take and eat the bread, we symbolically take and receive him by the hand of faith, feeding on him spiritually.",
+        "wordCount": 81,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.086877952947649,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+        "commentatorTierSimilarities": [
+            42.73,
+            25.23,
+            32.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The looking up to heaven, and giving thanks was a virtual \u2018blessing\u2019 of the meal or the bread.",
+            "It is thought by some...that He did: e.g. Chrysostom, 'He Himself drank His own Blood.'",
+            "This last leads us to the important addition in Luke and 1 Cor. which is (being given, Luke,\u2014omitted in 1 Cor.) for you,\u2014this do in remembrance of me."
+        ],
+        "John Calvin": [
+            "Christ, at this time, abolished the figures of the Law, and instituted a new Sacrament.",
+            "Consecration is nothing else than a solemn testimony, by which the Lord appoints to us for a spiritual use an earthly and corruptible sign.",
+            "We must attend to the proper method of seeking Christ; that is, our minds must not be fixed on the earth, but must ascend upwards to the heavenly glory in which he dwells."
+        ],
+        "Philip Schaff": [
+            "Matthew 26:26. As they were eating. During the paschal feast, hence this was probably not the usual breaking of the Passover cakes.",
+            "Took bread. The unleavened cakes, used on these occasions, easily broken.",
+            "And blessed. As was the custom. Luke and Paul say: \u2018gave thanks,\u2019 which is the same thing."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus broke one of the passover wafers or cakes that each might have a piece, not as a symbol of the breaking of his body.",
+            "The bread as a symbol represents the body of Jesus offered for us, 'a beautifully simple, pathetic, and poetic symbol of his death.'",
+            "Jesus, of course, does not mean that the bread actually becomes his body and is to be worshipped. The purpose of the memorial is to remind us of his death for our sins."
+        ],
+        "John Gill": [
+            "This is my body; in like manner, as the Jews in the eating of their passover used to say of the unleavened bread, 'This is the bread of affliction', which our fathers ate in the land of Egypt.''",
+            "The words, 'take, eat', show that Christ did not put the bread into the mouths of the disciples, but they took it in their hands, and ate it; expressive of taking and receiving Christ by the hand of faith, and feeding on him in a spiritual manner.",
+            "I do here by this bread, in an emblematical way, set before you 'my body', which is to be given to obtain spiritual deliverance, and eternal redemption for you; in remembrance of which, you, and all my followers in successive generations, are to take and eat of it, till I come."
+        ],
+        "John Wesley": [
+            "This bread is, that is, signifies or represents my body, according to the style of the sacred writers.",
+            "Thus in the grand type of our Lord, Exodus 12:11, God says of the paschal lamb, This is the Lord's passover.",
+            "Now Christ substituting the holy communion for the passover, follows the style of the Old Testament, and uses the same expressions the Jews were wont to use in celebrating the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. While some believe that Jesus actually drank his own blood, it is clear that the purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread serves as a beautifully simple, poetic symbol of his sacrifice. In instituting the sacrament, Christ abolished the figures of the Law and established a new way for us to seek him, with our minds fixed on the heavenly glory where he dwells. As we take and eat the bread, we are symbolically taking and receiving Christ by the hand of faith, feeding on him in a spiritual manner. Just as the Jews said of the unleavened bread, This is the bread of affliction which our fathers ate in the land of Egypt, so too does Jesus signify that the bread is his body, in the same manner as the sacred writers used figures of speech in the Old Testament.",
+            "wordCount": 182,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.072495786521089,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                40.01,
+                24.97,
+                35.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. The purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread serves as a beautifully simple, poetic symbol of his sacrifice. As we take and eat the bread, we symbolically take and receive him by the hand of faith, feeding on him spiritually.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.086877952947649,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                42.73,
+                25.23,
+                32.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. It is important to note that the purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread itself serves as a beautifully simple and poetic symbol of his sacrifice. As we partake in the sacrament, we symbolically take and receive Christ by the hand of faith, feeding on him spiritually.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0201670121095,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                42.64,
+                24.14,
+                33.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. The purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread serves as a beautifully simple, poetic symbol of his sacrifice. As we take and eat the bread, we symbolically take and receive him by the hand of faith, feeding on him spiritually.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.086877952947649,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                42.73,
+                25.23,
+                32.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the paschal feast, Jesus took one of the passover wafers and broke it, giving thanks and blessing it as a symbol of his body offered for us. The purpose of the memorial is to remind us of his death for our sins, not to be worshipped. The bread represents his beautiful, simple, and poetic sacrifice. As we take and eat the bread, we symbolically take and receive him through faith, feeding on him spiritually.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.051316317996923,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                42.53,
+                25.39,
+                32.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

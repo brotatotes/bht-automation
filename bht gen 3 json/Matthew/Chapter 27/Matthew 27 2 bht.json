@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:54:03",
+    "verseRef": "Matthew 27:2",
+    "bestBHT": {
+        "bht": "Pontius Pilate, the governor, ordinarily resided in Caesarea but during the feast, in Jerusalem. The Jews took Jesus to Pilate, all a form and a farce. He had been bound in the garden and may have been unbound before Caiaphas. Pilate had an unyielding disposition, often leading to revolts among the Jews. The Jews did not enter themselves, lest they should be defiled, but that they might eat the Passover, and they wanted Jesus to die the death of the cross.",
+        "wordCount": 81,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 1.94591201264705,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.04,
+        "commentatorTierSimilarities": [
+            40.88,
+            36.95,
+            22.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Pontius Pilate the governor.",
+            "Pilate ordinarily resided at C\u00e6sarea; but during the feast, in Jerusalem.",
+            "On the reason of their taking Him to Pilate."
+        ],
+        "Albert Barnes": [
+            "He was 'bound' when they took him in the garden... The binding consisted, probably, in nothing more than tying his hands.",
+            "Pontius Pilate, the governor... The duty of the office were, chiefly, to collect the revenues due to the Roman emperor, and in certain cases to administer justice.",
+            "The Jews did not, however, enter in themselves, lest they should be defiled, but that they might eat the Passover... they would not enter into the house of a pagan, lest they should contract some defilement that would render them unfit to keep the Passover."
+        ],
+        "Philip Schaff": [
+            "The bonds put on Him in the garden seem to have been removed sometime during the night.",
+            "Probably in a solemn procession, with a view of influencing both the people and the governor.",
+            "Pilate had an unyielding and severe disposition, and his conduct led to repeated revolts among the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "What they had done was all a form and a farce.",
+            "He was no longer the master of assemblies in the temple, able to make the Sanhedrin cower before him.",
+            "He had been bound in the garden and was bound before Annas, but may have been unbound before Caiaphas."
+        ],
+        "John Gill": [
+            "Perhaps he might be unloosed whilst he was examining before the high priest, under a show of freedom to speak for himself; or they might bind him faster now, partly greater security, as he passed through the streets, and partly for his greater reproach; as also, that he might be at once taken to be a malefactor by the Roman judge\" (Matthew 27:2).",
+            "And so fulfilled what Christ had predicted\" (Matthew 27:2).",
+            "This they did, either because the power of judging in cases of life and death was taken away from them; or if it was not, they chose that the infamy of his death should be removed from them, and be laid upon a Gentile magistrate; and chiefly because they were desirous he should die the death of the cross\" (Matthew 27:2)."
+        ],
+        "John Wesley": [
+            "Having bound him \u2014 They had bound him when he was first apprehended.",
+            "But they did it now afresh, to secure him from any danger of an escape.",
+            "As he passed through the streets of Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pontius Pilate the governor ordinarily resided in Caesarea but during the feast, he was in Jerusalem. The Jews took Jesus to Pilate, but it was all just a form and a farce. He had been bound in the garden and may have been unbound before Caiaphas. Pilate had an unyielding and severe disposition, which often led to revolts among the Jews. The Jews, not wanting to be defiled, did not enter Pilate's house themselves. They wanted Jesus to be seen by the people, and they also wanted him to die a death of disgrace on the cross.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.8852892250920952,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                39.93,
+                37.22,
+                22.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pontius Pilate, the Governor, usually resided in Caesarea but was in Jerusalem during the feast. The Jews took Jesus to Pilate, although it was all a form and a farce. They did not want to enter Pilate's house themselves due to fear of defilement. Pilate had an unyielding and severe disposition, often leading to revolts among the Jews. They wanted to make sure Jesus was seen by the people and die a disgraceful death on the cross.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8639605951625002,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                40.49,
+                36.76,
+                22.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pontius Pilate, the governor, ordinarily resided in Caesarea but during the feast, he was in Jerusalem. The Jews took Jesus to Pilate, but it was all a form and a farce. He had been bound in the garden and may have been unbound before Caiaphas. Pilate had an unyielding and severe disposition, which often led to revolts among the Jews. The Jews, not wanting to be defiled, did not enter Pilate's house themselves. They wanted Jesus to be seen by the people and they also wanted him to die a death of disgrace on the cross.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.885790281190371,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                39.98,
+                37.19,
+                22.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pontius Pilate, the Governor, usually resided in Caesarea but during the feast, he was in Jerusalem. The Jews took Jesus to Pilate, although it was all a form and a farce. They did not want to enter Pilate's house themselves due to fear of defilement. Pilate had a severe disposition and often led to revolts among the Jews. They wanted Jesus to be seen by the people and die a death of disgrace on the cross.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.836233714524149,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                40.41,
+                37.37,
+                22.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pontius Pilate, the governor, ordinarily resided in Caesarea but during the feast, in Jerusalem. The Jews took Jesus to Pilate, all a form and a farce. He had been bound in the garden and may have been unbound before Caiaphas. Pilate had an unyielding disposition, often leading to revolts among the Jews. The Jews did not enter themselves, lest they should be defiled, but that they might eat the Passover, and they wanted Jesus to die the death of the cross.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.94591201264705,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.04,
+            "commentatorTierSimilarities": [
+                40.88,
+                36.95,
+                22.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

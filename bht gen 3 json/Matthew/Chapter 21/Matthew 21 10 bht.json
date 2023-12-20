@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:50:43",
+    "verseRef": "Matthew 21:10",
+    "bestBHT": {
+        "bht": "The arrival of Jesus in Jerusalem was not a quiet affair; it stirred the city with a profound groundswell of emotion, shaking the hearts of the people like an earthquake. The excitement was palpable as the multitude shouted and a triumphant procession moved through the city. This event sparked discussions about Jesus' character and even instilled fear in the Pharisees. In the midst of this, those who welcomed Jesus demonstrated their piety, standing out from the rest of the indifferent crowd. The impact was undeniable, filling the inhabitants with concern, astonishment, and fear, prompting them to seek understanding.",
+        "wordCount": 98,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.758161497102201,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+        "commentatorTierSimilarities": [
+            36.4,
+            29.45,
+            34.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "There was great excitement.",
+            "The sight of such a multitude, the shouts of the people, and the triumphant procession through the city.",
+            "Excited much attention and inquiry."
+        ],
+        "Marvin Vincent": [
+            "Was moved [\u03b5\u03c3\u03b5\u03b9\u03c3\u03b8\u03b7] . Moved is hardly strong enough. It is shaken as by an earthquake. Rev., stirred. As Morison happily observes, \"a profounder ground - swell of feeling."
+        ],
+        "John Calvin": [
+            "Under this despicable aspect of the flesh the majesty of the Spirit was apparent.",
+            "The substance of it therefore is, that Christ\u2019s entrance was not made in a private manner, and that his enemies abstained from opposing it, not because they treated him with contempt, but rather because they were restrained by secret fear.",
+            "At the same time, the Evangelist glances at the careless indifference of the city, and commends the piety of those who have just reached it."
+        ],
+        "Philip Schaff": [
+            "The question indicates a discussion of His character rather than ignorance of His person.",
+            "The effect on the Pharisees is mentioned in Luke 19:39-40; John 12:19.",
+            "All the city was moved. Excited by this occurrence."
+        ],
+        "Archibald T. Robertson": [
+            "Was stirred (\u03b5\u03c3\u03b5\u03b9\u03c3\u03b8\u03b7). Shaken as by an earthquake. \"Even Jerusalem frozen with religious formalism and socially undemonstrative, was stirred with popular enthusiasm as by a mighty wind or by an earthquake\" (Bruce). "
+        ],
+        "John Gill": [
+            "all the city was moved; as Bethlehem was, when Naomi with Ruth returned thither; and of which the same phrase is used.",
+            "And so here the sense is, that the inhabitants of the city of Jerusalem were in general alarmed at the uncommon apparatus, and shouting, and ran in great numbers to inquire what was the matter.",
+            "it seemed greatly to affect them, and fill them with concern, astonishment, and fear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The arrival of Jesus in the city caused a deep stirring and excitement, almost like an earthquake shaking the hearts of the people. This profound groundswell of feeling was not only visible in the multitude of people and the triumphant procession, but it also sparked discussions about His character. Even the Pharisees, though they may have been restrained by secret fear, could not ignore the impact that Jesus had on the city. The piety of those who welcomed Jesus is commended, contrasting with the careless indifference of the rest of the city. Truly, this event affected the inhabitants of Jerusalem, filling them with concern, astonishment, and fear as they eagerly sought to understand what was happening.",
+            "wordCount": 116,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.750741109721109,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                37.11,
+                26.61,
+                36.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The arrival of Jesus in the city caused a profound groundswell of feeling, shaking the hearts of the people like an earthquake. This excitement was visible in the multitude of people, the shouts, and the triumphant procession. It sparked discussions about His character and even made the Pharisees fearful. While some in Jerusalem remained indifferent, those who welcomed Jesus demonstrated their piety. The event deeply affected the inhabitants, filling them with concern, astonishment, and fear, as they eagerly sought to understand what was happening.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7208841560422634,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                35.95,
+                31.07,
+                32.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The arrival of Jesus in Jerusalem stirred a profound groundswell of emotion, shaking the hearts of the people like an earthquake. The excitement was evident in the multitude of people, the shouts, and the triumphant procession through the city. It sparked discussions about His character and even made the Pharisees fearful. While some remained indifferent, those who welcomed Jesus demonstrated their piety. The event deeply affected the inhabitants, filling them with concern, astonishment, and fear, as they eagerly sought to understand its significance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6684394655647075,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.82,
+            "commentatorTierSimilarities": [
+                34.52,
+                31.73,
+                33.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The arrival of Jesus in Jerusalem was not a quiet affair; it stirred the city with a profound groundswell of emotion, shaking the hearts of the people like an earthquake. The excitement was palpable as the multitude shouted and a triumphant procession moved through the city. This event sparked discussions about Jesus' character and even instilled fear in the Pharisees. In the midst of this, those who welcomed Jesus demonstrated their piety, standing out from the rest of the indifferent crowd. The impact was undeniable, filling the inhabitants with concern, astonishment, and fear, prompting them to seek understanding.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.758161497102201,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                36.4,
+                29.45,
+                34.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The arrival of Jesus in Jerusalem was marked by a powerful stirring of the city, like an earthquake shaking the hearts of the people. The excitement was evident as the multitude gathered, shouting and participating in a triumphant procession through the city. This event prompted discussions about Jesus' character and even stirred fear among the Pharisees. While some in Jerusalem remained indifferent, those who welcomed Jesus showed their piety. The impact was profound, causing concern, astonishment, and fear among the inhabitants who sought to understand the significance of these events.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7328753359733253,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                37.49,
+                29.85,
+                32.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

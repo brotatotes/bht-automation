@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 23:45:12",
+    "verseRef": "Matthew 8:34",
+    "bestBHT": {
+        "bht": "The city's request for Jesus to leave after the miracle of healing the demoniacs reveals their preference for material possessions over the well-being of their souls. They were more concerned about the loss of their hogs than the remarkable power displayed by Jesus in casting out the demons. Unfortunately, their fear of worldly loss overshadowed any sense of humility or recognition of Jesus' divine authority. It serves as a reminder that sometimes people prioritize material wealth over the presence and salvation offered by Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.4773842708916987,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.47,
+        "commentatorTierSimilarities": [
+            38.08,
+            34.6,
+            27.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This request, which is related by all three Evangelists, was probably not from humility, but for fear the miraculous powers of our Lord should work them still more worldly loss.",
+            "For the additional particulars of this miracle, see Mark v. 15, 16, 18\u201320: Luke vii. 35, and notes."
+        ],
+        "Philip Schaff": [
+            "Christ healed madmen where calculating selfishness drove Him away.",
+            "This miracle alone tells of a transfer of demoniacal possession and of its effect upon other creatures than man.",
+            "That in the time of Christ persons were, actually and bodily, possessed by personal evil spirits."
+        ],
+        "Archibald T. Robertson": [
+            "The whole city was excited over the destruction of the hogs and begged Jesus to leave, forgetful of the healing of the demoniacs in their concern over the loss of property.",
+            "They cared more for hogs than for human souls, as often happens today."
+        ],
+        "John Gill": [
+            "And behold, the whole city...great numbers flocked from all parts.\" ",
+            "Not out of any love and respect to him, but either out of curiosity to see such an extraordinary person, or being terrified at the report concerning him.",
+            "They besought him that he would depart out of their coasts...preferring the presence of swine to the presence of Christ."
+        ],
+        "John Wesley": [
+            "They besought him to depart out of their coasts \u2014 They loved their swine so much better than their souls! How many are of the same mind!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of the city were more concerned about the loss of their hogs than the healing of the demoniacs. They asked Jesus to leave, showing that they cared more about their material possessions than the well-being of their souls. The miracle of casting out the demons and the subsequent destruction of the hogs demonstrates the transfer of demoniacal possession and how it affected not just humans but other creatures as well. This request stemmed from fear of incurring more worldly loss, rather than humility. It is a sad reminder that sometimes people prioritize worldly possessions over the presence of Christ and the salvation of their souls.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.567194535885132,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                37.99,
+                33.74,
+                28.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The city's request for Jesus to leave after the miracle of healing the demoniacs reveals their preference for material possessions over the well-being of their souls. They were more concerned about the loss of their hogs than the remarkable power displayed by Jesus in casting out the demons. Unfortunately, their fear of worldly loss overshadowed any sense of humility or recognition of Jesus' divine authority. It serves as a reminder that sometimes people prioritize material wealth over the presence and salvation offered by Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4773842708916987,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.47,
+            "commentatorTierSimilarities": [
+                38.08,
+                34.6,
+                27.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The city's concern over the loss of their hogs overshadowed their recognition of the miraculous healing of the demoniacs. Instead of embracing the presence and power of Jesus, they made a request for Him to leave. Their fear of incurring further worldly loss drove them to prioritize material possessions over the salvation of their souls. This incident highlights the unfortunate tendency of some to value worldly wealth over the transformative presence of Christ in their lives.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.4020800328152476,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
+            "commentatorTierSimilarities": [
+                35.43,
+                32.0,
+                32.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The city's fear of losing their hogs caused them to prioritize worldly possessions over the healing power of Jesus. They requested His departure, disregarding the miraculous deliverance of the demoniacs. The incident serves as a stark reminder of how material concerns can overshadow the significance of spiritual healing. Just as the people in the city valued their swine over their souls, many today also prioritize temporary earthly gains over the eternal blessings found in Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.4583751819999324,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                38.59,
+                31.33,
+                30.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The city's concern over the loss of their hogs led them to prioritize material possessions over the transformative power of Jesus. They requested His departure, neglecting the healing of the demoniacs. It is a reminder that some people value temporary worldly gains more than the salvation of their souls. This incident underscores the unfortunate reality that many choose to prioritize material wealth and possessions over the presence and transformative work of Christ in their lives.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3053964376281146,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                36.12,
+                31.78,
+                32.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:57",
+    "verseRef": "Matthew 28:8",
+    "bestBHT": {
+        "bht": "With fear and great joy, the women quickly ran to tell the disciples what they had witnessed and heard. This combination of emotions is understandable, as they were both amazed by the prodigies they had seen and filled with joy from the promises they had received. They were struck with fear and held in suspense between joy and perplexity, not fully relying on the testimony of the angel. Their fear and joy led them to run swiftly, carrying the news to the disciples with both dread and excitement.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.202094516827759,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+        "commentatorTierSimilarities": [
+            25.52,
+            29.83,
+            44.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] \u201cWith fear, because of the prodigies; with joy, for the promises,\u201d Euthym."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And they departed quickly\u2014Mark (Mark 16:8) says 'they fled.'",
+            "How natural this combination of feelings! See on a similar statement of Mark 16:11.",
+            "This appearance is recorded only by Matthew."
+        ],
+        "Albert Barnes": [
+            "With fear and great joy - Fear because of: 1.The wonderful scenes which they had witnessed the stone rolled away, and the presence of an angel; 2.A confused state of mind, apprehensive, perhaps, that it might not, after all, be true.",
+            "The news was too good to be credited at once, yet they had sufficient faith in it to fill them with great and unexpected joy.",
+            "And did run ... - They ran to announce what they had seen to the disciples. The city, where the disciples were, was half a mile or more from the place."
+        ],
+        "John Calvin": [
+            "By these words Matthew means that they were indeed gladdened by what the angel told them, but, at the same time, they were struck with fear, so that they were held in suspense between joy and perplexity.",
+            "Fear, mingled with joy, shows that they had not yet fully relied on the testimony of the angel.",
+            "This was an astonishing instance of goodness, that Christ manifested his heavenly glory to a wretched woman, who had been possessed by seven devils, and, intending to display the light of a new and eternal life, began where there was nothing in the eyes of man but what was base and contemptible."
+        ],
+        "Philip Schaff": [
+            "Fear at what they had seen, joy at what they had heard, and both mingled because the latter seemed too good to be true.",
+            "A natural state of mingled feeling, in view of what they had seen and heard.",
+            "The same state of mind is indicated in all the accounts."
+        ],
+        "Archibald T. Robertson": [
+            "With fear and great joy (\u03bc\u03b5\u03c4\u03b1 \u03c6\u03bf\u03b2\u03bf\u03c5 \u03ba\u03b1 \u03c7\u03b1\u03c1\u03b1\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7\u03c2). A touch of life was this as the excited women ran quickly (\u03c4\u03b1\u03c7\u03c5 \u03b5\u03b4\u03c1\u03b1\u03bc\u03bf\u03bd) as they had been told 'to bring his disciples word' (\u03b1\u03c0\u03b1\u03b3\u03b3\u03b5\u03b9\u03bb\u03b1 \u03c4\u03bf\u03b9\u03c2 \u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). They had the greatest piece of news that it was possible to have.",
+            "Mark calls it fear and ecstasy. Anything seemed possible now.",
+            "But these mingled emotions of ecstasy and dread need cause no surprise when all things are considered."
+        ],
+        "John Gill": [
+            "with fear and great joy: a mixture of both these; with fear and dread, because of the vision they had seen, and with joy at the news of Christ's resurrection",
+            "between both joy and fear, they set out, and did run to bring his disciples word",
+            "Their fright, as well as their joy, and their regard to the angel's order, might cause them to run, and make the quicker dispatch"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With fear and great joy, the women quickly ran to tell the disciples what they had witnessed and heard. This combination of emotions is understandable, as they were both amazed by the prodigies they had seen and filled with joy from the promises they had received. They were struck with fear and held in suspense between joy and perplexity, not fully relying on the testimony of the angel. It was a natural state of mingled feelings, considering the astonishing goodness of Christ in revealing his resurrection to these women. Their fear and joy led them to run swiftly, carrying the news to the disciples with both dread and excitement.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.106605406579056,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+            "commentatorTierSimilarities": [
+                25.61,
+                29.92,
+                44.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With fear and great joy, the women quickly ran to tell the disciples what they had witnessed and heard. This combination of emotions is understandable, as they were both amazed by the prodigies they had seen and filled with joy from the promises they had received. They were struck with fear and held in suspense between joy and perplexity, not fully relying on the testimony of the angel. Their fear and joy led them to run swiftly, carrying the news to the disciples with both dread and excitement.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.202094516827759,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+            "commentatorTierSimilarities": [
+                25.52,
+                29.83,
+                44.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The women, filled with fear and great joy, swiftly ran to tell the disciples what they had witnessed and heard. Their emotions were a natural combination, as they were amazed by the prodigies and promises they had experienced. Struck with fear and suspended between joy and perplexity, they had not fully relied on the angel's testimony. Their fear and joy led them to run quickly, obediently carrying the news to the disciples with both dread and excitement.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.128889445571591,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                26.15,
+                29.88,
+                43.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With a mixture of fear and great joy, the women hastened to convey the incredible news to the disciples. Their state of mind was understandable as they were awed by the miraculous events they had witnessed and filled with joy by the promises they had received. This combination of emotions, fear and joy, caused them to run swiftly, faithfully fulfilling the angel's instruction. Their hurried departure was a result of their fear and excitement, compelling them to promptly convey this extraordinary message to the disciples.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.067396423395167,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.08,
+            "commentatorTierSimilarities": [
+                27.16,
+                30.19,
+                42.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a mixture of fear and great joy, the women quickly ran to inform the disciples of what they had seen and heard. This combination of emotions was natural, as they were deeply impacted by the prodigies they had witnessed and elated by the promises they had received. Their fearful yet joyful disposition prompted them to promptly carry the news to the disciples, faithfully executing the angel's instructions. Their swift departure reflected their blend of fear and excitement, driving them to relay this remarkable message without delay.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9156637674090513,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                25.78,
+                31.56,
+                42.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

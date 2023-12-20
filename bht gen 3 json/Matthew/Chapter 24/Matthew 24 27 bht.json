@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:52:16",
+    "verseRef": "Matthew 24:27",
+    "bestBHT": {
+        "bht": "The coming of the Lord will be a plain, unmistakable fact, like the lightning which lightens both ends of the heaven at once and is seen of all. It will not be connected with some particular place, but will manifest itself and be recognized over the whole world. His coming will be sudden and all-pervading, unmistakable and fearful, visible too, like the lightning. This prediction can only be fulfilled by a personal coming of Christ.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.2450554858624145,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.99,
+        "commentatorTierSimilarities": [
+            35.96,
+            30.12,
+            33.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He does not mean to affirm that the 'Son of man' will come from the 'east,' but that he will come in a rapid and unexpected manner, like the lightning.\" ",
+            "It was useless to look to any particular part of the heavens to know where the lightning would next flash. In a moment it would blaze in an unexpected part of the heavens, and shine at once to the other part. So rapidly, so unexpectedly, in so unlooked-for a quarter, would be his coming.\" ",
+            "The words had, doubtless, a primary reference to the destruction of Jerusalem, but they had, at the same time, such an amplitude of meaning as also to express his coming to judgment."
+        ],
+        "Marvin Vincent": [
+            "The coming of the Lord will be a plain, unmistakable fact, like the lightning which lightens both ends of the heaven at once, and is seen of all.\" ",
+            "It will not be connected with some particular place, but will manifest itself and be recognized over the whole world.\" ",
+            "Every eye shall see him."
+        ],
+        "Philip Schaff": [
+            "For as the lightning, etc. At this point we must accept a direct reference to the end of the world.",
+            "The sense is Christ\u2019s coming will be sudden and all-pervading, unmistakable and fearful; visible too, we infer; glorious and purifying also, like the lightning.",
+            "Only a Personal coming will fulfil this prediction."
+        ],
+        "Archibald T. Robertson": [
+            "As seen (\u03c6\u03b1\u03b9\u03bd\u03b5\u03c4\u03b1). Visible in contrast to the invisibility of the false Messiahs. Cf. Revelation 1:7. Like a flash of lightning. "
+        ],
+        "John Gill": [
+            "For as the lightning cometh out of the east,.... The eastern part of the horizon, and shineth even unto the west; to the western part of it, with great clearness; in a moment; in the twinkling of an eye, filling the whole intermediate space;",
+            "he will at once come to, and be seen by all, in the clouds of heaven, and not in deserts and secret chambers.",
+            "his coming was as sudden, visible, powerful, and general, to the destruction of that nation, as the lightning that comes from the east, and, in a moment, shines to the west."
+        ],
+        "John Wesley": [
+            "For as the lightning goeth forth \u2014 For the next coming of Christ will he as quick as lightning; so that there will not be time for any such previous warning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The coming of the Lord will be unmistakable, manifesting itself and being recognized by all, just like a flash of lightning that lights up the entire sky. It will not be limited to a specific location but will be seen around the world. His coming will be rapid and unexpected, shining from one end of the heavens to the other in an instant, just as lightning does. This reference to the end of the world emphasizes the suddenness and all-encompassing nature of Christ's coming. It will be a personal coming, fulfilling the prediction that every eye shall see him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.119064261928968,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.8,
+            "commentatorTierSimilarities": [
+                33.54,
+                31.71,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coming of the Lord will be unmistakable, manifesting itself and being recognized by all, just like a flash of lightning that lights up the entire sky. His coming will be rapid and unexpected, shining from one end of the heavens to the other in an instant, just as lightning does. This reference to the end of the world emphasizes the suddenness and all-encompassing nature of Christ's coming. It will be a personal coming, fulfilling the prediction that every eye shall see him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.2590613510415882,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.45,
+            "commentatorTierSimilarities": [
+                32.66,
+                32.63,
+                34.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The coming of the Lord will be a plain, unmistakable fact, like the lightning which lightens both ends of the heaven at once and is seen of all. It will not be connected with some particular place, but will manifest itself and be recognized over the whole world. His coming will be sudden and all-pervading, unmistakable and fearful, visible too, like the lightning. This prediction can only be fulfilled by a personal coming of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.2450554858624145,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.99,
+            "commentatorTierSimilarities": [
+                35.96,
+                30.12,
+                33.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The coming of the Lord will be a plain, unmistakable fact, like the lightning which lightens both ends of the heaven at once, and is seen of all. It will not be connected with some particular place, but will manifest itself and be recognized over the whole world. Every eye shall see him. His coming will be sudden and all-pervading, unmistakable and fearful; visible too, glorious and purifying, like the lightning. As the lightning comes out of the east and shines to the west, so will be the swift and unexpected nature of his coming. It will be as quick as lightning, without time for any previous warning.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.252160618340373,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                35.33,
+                28.1,
+                36.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The coming of the Lord will be a plain, unmistakable fact, like the lightning which lightens both ends of the heaven at once, and is seen of all. It will not be connected with some particular place, but will manifest itself and be recognized over the whole world. Every eye shall see him. His coming will be sudden and all-pervading, unmistakable and fearful; visible too, glorious and purifying, like the lightning. It will be as quick as lightning, without time for any previous warning.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.238139695065418,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                37.71,
+                27.09,
+                35.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

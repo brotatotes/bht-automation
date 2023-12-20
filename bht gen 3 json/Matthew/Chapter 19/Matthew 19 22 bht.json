@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:50:07",
+    "verseRef": "Matthew 19:22",
+    "bestBHT": {
+        "bht": "When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.26352678687061,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+        "commentatorTierSimilarities": [
+            41.21,
+            29.62,
+            29.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "If we are not prepared to endure poverty, it is manifest that covetousness reigns in us.",
+            "We are reminded also by this example that, if we would persevere steadily in the school of Christ, we must renounce the flesh.",
+            "The same thing will happen to us, unless the sweetness of the grace of Christ render all the allurements of the flesh distasteful to us."
+        ],
+        "Philip Schaff": [
+            "He went away sorrowful. Not unaffected, he yet went away.",
+            "But the silence about his future course hints, that whatever light and love one receives, the decision is to be made by the man himself.",
+            "The hindrance is often removed by God's Providence."
+        ],
+        "Archibald T. Robertson": [
+            "He worshipped money more than God when put to the test.",
+            "Does Jesus demand this same test of every one? Not unless he is in the grip of money.",
+            "Different persons are in the power of different sins. One sin is enough to keep one away from Christ."
+        ],
+        "John Gill": [
+            "he went away sorrowful; not with a godly sorrow for his sin and imperfections, but with the sorrow of the world, which worketh death",
+            "he was ashamed and confounded, that he could not perform what he had just now so briskly promised",
+            "he chose rather to turn his back on Christ, and drop his pursuits of the happiness of the other world, than part with the present enjoyments of this"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When faced with the test of choosing between God and money, the man in this verse worshiped money more than God. This brings up the question of whether Jesus demands this same test of everyone, and the commentary suggests that he does so only if someone is in the grip of money. Each person may be under the power of different sins that keep them away from Christ. The man in the verse went away sorrowful, indicating that he was affected by the encounter but still made his own decision. This highlights the importance of the individual's own choice, and that the hindrance to following Christ is often removed by God's Providence. Ultimately, this example serves as a reminder to renounce the flesh and find alluring the sweetness of Christ's grace in order to persevere in His teachings.",
+            "wordCount": 141,
+            "quoteTokenProportion": 44.94,
+            "qualityScore": 1.402932823074605,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                43.34,
+                26.97,
+                29.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When faced with the test of choosing between God and money, the man in this passage worshiped money more than God. Jesus may only demand this test if one is in the grip of money, as different sins are enough to keep one away from Christ. The man went away sorrowful, indicating that although affected, he made his own decision. This emphasizes the importance of personal choice, while God's Providence can remove hindrances. The example serves as a reminder to renounce the flesh and find allure in the sweetness of Christ's grace to persevere in His teachings.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.4356951952747399,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
+            "commentatorTierSimilarities": [
+                42.54,
+                28.44,
+                29.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.26352678687061,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+            "commentatorTierSimilarities": [
+                41.21,
+                29.62,
+                29.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this story, the man faced a test and prioritized money over God. This raises the question of whether Jesus demands the same test from everyone, which seems to be the case if one is controlled by money. Each person may be bound by different sins that keep them from Christ. The man left with a sense of sorrow, indicating the impact of the encounter, but ultimately, he made his own decision. Our choices play a significant role, and God's Providence can remove obstacles. We are reminded to renounce worldly desires and embrace the allure of Christ's grace to faithfully follow Him.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.2329749818691658,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "commentatorTierSimilarities": [
+                42.72,
+                27.58,
+                29.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man in this story prioritized money over God, revealing his worship of money over God when put to the test. However, it is not expected that Jesus demands this specific test from everyone unless they are in the grip of money. Each person may be held captive by different sins that separate them from Christ. Despite being affected, the man went away sorrowful, making his own choice. Our decisions are crucial, and God's Providence can remove hindrances. We are reminded to renounce the flesh and find solace in the sweetness of Christ's grace to remain steadfast in His teachings.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.3551316071671442,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                40.82,
+                28.42,
+                30.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

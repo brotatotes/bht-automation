@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:51:13",
+    "verseRef": "Matthew 22:1",
+    "bestBHT": {
+        "bht": "Jesus speaks a parable that serves as a response to the Pharisees' anger and their limited understanding of eternal life. By employing this parable, Jesus aims to challenge their earthly mindset, highlighting the sin and fate of the Jews, the calling of the Gentiles, and God's demand for righteousness. This parable also sheds light on the varying attitudes towards the gospel and emphasizes the importance of reflecting on spiritual matters rather than indulging in superficial conversations about blessings in the kingdom of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.8296399332219657,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+        "commentatorTierSimilarities": [
+            39.88,
+            24.69,
+            35.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He made a still further statement, to show how the gospel would be received and treated by them.",
+            "The real answer here, as is frequently the case in the New Testament, refers to what was passing in the mind, or to the conduct of those who were addressed, not to what they said.",
+            "He answered or made reply to the Pharisees, who had been enraged at him for what he had already spoken to them."
+        ],
+        "John Calvin": [
+            "But we must attend to Luke\u2019s narrative, who says that, when one of those who sat at table with him said, Blessed is he that eateth bread in the kingdom of God, Christ took occasion from it to upbraid the Jews with ingratitude.",
+            "Still, I do not look upon it as having been spoken in derision; but, as persons who have a moderate knowledge of the faith, and are not openly wicked, are in the habit of indulging, amidst their cups, in idle talk about eternal life, I think that this man threw out a remark about future blessedness, in order to draw out some observation in return from Christ.",
+            "And his words make it manifest, that he had nothing in view beyond what was gross and earthly; for he did not employ the phrase, eat bread, as a metaphor for enjoy eternal life, but appears to have dreamed of I know not what state, filled with prosperity and abundance of all things."
+        ],
+        "Philip Schaff": [
+            "Matthew 22:1. Answered. See above.",
+            "\t",
+            " Again in parables; not necessarily, in a number of parables, but in parabolic discourse.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Some regard it as not spoken by Jesus at all, but an effort on the part of the writer to cover the sin and fate of the Jews, the calling of the Gentiles, and God's demand for righteousness.",
+            "But that is a gratuitous indictment of Matthew's report which definitely locates the parable here by \u03c0\u03b1\u03bb\u03b9\u03bd.",
+            "But here again it is like Jesus and suits the present occasion."
+        ],
+        "John Gill": [
+            "Jesus answered and spake unto them again...Not to the multitude only, but to the chief priests, elders, Scribes, and Pharisees.\" ",
+            "They might not leave him until they had heard that, which is spoken with much the same design as the former, and might increase their resentment the more.",
+            "He spake by parables, similitudes, and comparisons, taken from earthly things, and against whom he directed the following one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 22:1, Jesus speaks a parable to address the sin and fate of the Jews, the calling of the Gentiles, and God's demand for righteousness. It is a direct response to the Pharisees, who had been angered by Jesus' previous words. While one of the guests at the table mentioned blessings in the kingdom of God, Jesus used this opportunity to confront the Jews with their ingratitude and superficial understanding of eternal life. Thus, Jesus employs the parable to challenge their earthly mindset and evoke a deeper reflection on spiritual matters.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8061996849232167,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                39.58,
+                25.61,
+                34.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus delivers a parable in Matthew, responding directly to the Pharisees and confronting the Jews' ingratitude and superficial understanding of eternal life. By drawing on earthly examples, Jesus challenges their earthly mindset and beckons them to contemplate spiritual matters more deeply, enlightening them on the calling of the Gentiles and God's demand for righteousness. This parable serves as a reminder that the gospel can be received and treated differently, offering insight into the varying attitudes towards the truth of the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.754986038962767,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                38.5,
+                27.36,
+                34.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus speaks a parable that serves as a response to the Pharisees' anger and their limited understanding of eternal life. By employing this parable, Jesus aims to challenge their earthly mindset, highlighting the sin and fate of the Jews, the calling of the Gentiles, and God's demand for righteousness. This parable also sheds light on the varying attitudes towards the gospel and emphasizes the importance of reflecting on spiritual matters rather than indulging in superficial conversations about blessings in the kingdom of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8296399332219657,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                39.88,
+                24.69,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responds to the Pharisees' anger by delivering a parable that addresses the sin and fate of the Jews and the calling of the Gentiles. He aims to challenge their limited understanding of eternal life and their earthly mindset. The parable also serves as a reminder of God's demand for righteousness. Through this story, Jesus highlights the varied attitudes towards the gospel and urges listeners to delve deeper into spiritual matters rather than engaging in superficial conversations about blessings in the kingdom of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5907992220735494,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+            "commentatorTierSimilarities": [
+                40.49,
+                25.25,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In response to the Pharisees' anger, Jesus offers a parable that addresses the Jews' sin and fate and highlights the calling of the Gentiles. He aims to challenge their limited understanding of eternal life and their earthly mindset. Through this parable, Jesus emphasizes God's demand for righteousness and invites reflection on the varied attitudes towards the gospel. It serves as a reminder to delve deeper into spiritual matters rather than engaging in superficial conversations about blessings in the kingdom of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6159941885096791,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+            "commentatorTierSimilarities": [
+                38.39,
+                25.66,
+                35.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

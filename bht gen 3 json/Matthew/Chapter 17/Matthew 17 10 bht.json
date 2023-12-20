@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:49:15",
+    "verseRef": "Matthew 17:10",
+    "bestBHT": {
+        "bht": "The disciples were confused about the coming of Elijah and whether or not it had already occurred. They referenced the prophecy in Malachi 4:6 and questioned if what they had witnessed was indeed the fulfillment. The scribes, who had been using this prophecy as proof against Jesus, may have been intentionally trying to undermine His authority. The disciples struggled to understand why the scribes insisted that Elijah must come before the Messiah, especially since they had just seen Elijah himself. This confusion highlights the misinterpretation of the prophecy and the attempt to discredit Jesus as the Messiah. Ultimately, the disciples needed further clarification on the true meaning of Elijah's coming.",
+        "wordCount": 110,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0875808575255483,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+        "commentatorTierSimilarities": [
+            31.49,
+            33.21,
+            35.3
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If this was not the coming of Elias, was he yet to come? If it was, how was it so secret and so short?\" (Commentary)",
+            "Our Lord speaks here plainly in the future, and uses the very word of the prophecy Mal. iv. 6.\" (Commentary)",
+            "The double allusion is only the assertion that the Elias (in spirit and power) who foreran our Lord\u2019s first coming, was a partial fulfillment of the great prophecy which announces the real Elias (the words of Malachi will hardly bear any other than a personal meaning), who is to forerun His greater and second coming.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "No sooner is the resurrection mentioned than the disciples imagine that the reign of Christ is commenced... for they explain this word to mean that the world would acknowledge him to be the Messiah.\" ",
+            "Perhaps, too, they cunningly and wickedly endeavored to lessen the authority of Christ by bringing forward Elijah... It may not usually be conjectured that this expedient was purposely resorted to by the scribes, in order to represent Christ as unworthy of confidence.",
+            "We see how the Rabbins corrupt the pure word of God by their inventions... it is probable that the people had also embraced this foolish notion."
+        ],
+        "Philip Schaff": [
+            "If this was not the coming of Elijah, was he yet to come? If it was, how was it so secret and so short?"
+        ],
+        "Archibald T. Robertson": [
+            "They had just seen Elijah, but Jesus the Messiah had come before Elijah.",
+            "The scribes used Malachi 4:5.",
+            "Jesus had also spoken again of his death (resurrection)."
+        ],
+        "John Gill": [
+            "Why then say the Scribes, that Elias must first come? That is, come before the Messiah comes; for certain it is, that this was the sense of the Scribes, as it was of the ancient Jews, and is still the opinion of the modern ones.",
+            "They argued, that if he was the Messiah, Elias would be come; but whereas he was not come, therefore he could not be the Messiah.",
+            "Or else the sense is, whereas they had seen Elias, and he was gone again, without making any public appearance in the nation, their question is, how came the Scribes to say, that he should come first?"
+        ],
+        "John Wesley": [
+            "Why then say the scribes, that Elijah must come first \u2014 Before the Messiah? If no man is to know of his coming?\" ",
+            "Should we not rather tell every man, that he is come, and that we have seen him, witnessing to thee as the Messiah?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were confused about the coming of Elijah and whether or not it had already occurred. They referenced the prophecy in Malachi 4:6 and questioned if what they had witnessed was indeed the fulfillment. The scribes, who had been using this prophecy as proof against Jesus, may have been intentionally trying to undermine His authority. The disciples struggled to understand why the scribes insisted that Elijah must come before the Messiah, especially since they had just seen Elijah himself. This confusion highlights the misinterpretation of the prophecy and the attempt to discredit Jesus as the Messiah. Ultimately, the disciples needed further clarification on the true meaning of Elijah's coming.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0875808575255483,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                31.49,
+                33.21,
+                35.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were perplexed about whether the coming of Elijah had already happened or if it was still to come. They were referencing the prophecy in Malachi 4:6 and questioning the scribes' insistence on Elijah's prior arrival before the Messiah. This confusion stemmed from the misinterpretation of the prophecy and the scribes' attempt to undermine Jesus' authority. The disciples needed further clarification regarding the true meaning of Elijah's coming.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.071370735702404,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.21,
+            "commentatorTierSimilarities": [
+                31.47,
+                35.05,
+                33.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were perplexed about the coming of Elijah, questioning if it had already occurred or if it was still to come. They referenced the prophecy in Malachi 4:6 and asked why the scribes insisted that Elijah must come before the Messiah, especially since they had just seen Elijah themselves. This confusion highlighted the misinterpretation of the prophecy and the possible intention of the scribes to undermine Jesus' authority. The disciples sought further clarification on the true meaning of Elijah's coming.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.1255477745273974,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                30.46,
+                36.13,
+                33.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were puzzled about the coming of Elijah, questioning whether it had taken place or if it was still to come. They referred to the prophecy in Malachi 4:6 and wondered why the scribes insisted that Elijah must precede the Messiah, especially since they had just seen Elijah themselves. This bewilderment highlighted the misinterpretation of the prophecy and the possible motive behind the scribes' desire to undermine Jesus' authority. The disciples sought clarification regarding the true significance of Elijah's coming.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1390084215913054,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                29.99,
+                36.55,
+                33.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were perplexed, questioning whether the coming of Elijah had occurred or was still to come. They referred to the prophecy in Malachi 4:6 and wondered why the scribes insisted on Elijah preceding the Messiah, despite having seen him themselves. This confusion revealed a misunderstanding of the prophecy and the scribes possibly trying to undermine Jesus' authority. Seeking clarity, the disciples desired a deeper understanding of the true nature and timing of Elijah's coming.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.0691705540276946,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                29.25,
+                37.15,
+                33.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

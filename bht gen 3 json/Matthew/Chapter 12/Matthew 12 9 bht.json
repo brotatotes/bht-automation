@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:46:43",
+    "verseRef": "Matthew 12:9",
+    "bestBHT": {
+        "bht": "Following a journey back to Galilee, Jesus encountered opposition from his enemies as they dogged his steps, seeking materials to use against him. Unafraid of the Pharisees and undeterred by their attempts to discredit him, Jesus willingly exposed their ignorance and malice. He addressed their thoughts and motives while cautioning against prioritizing ceremonial observances over what truly matters to God. This incident took place in the synagogue of his opponents, marking a significant confrontation between Jesus and his adversaries.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.4288249144235667,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+        "commentatorTierSimilarities": [
+            31.62,
+            32.44,
+            35.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This change of place is believed by Greswell to have been a journey back to Galilee after the Passover.",
+            "In John vii. 3, the cognate expression, 'Depart hence,' is used of a journey from Galilee to Jud\u00e6a.",
+            "So that certainly it is not implied here (as Meyer, al., suppose) that the incident took placo on the same day as the previous one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was his right hand, as Luke (Mark 3:7- :) graphically notes.\" ",
+            "They were now come to the length of dogging His steps, to collect materials for a charge of impiety against Him.",
+            "It is probable that it was to their thoughts rather than their words that Jesus addressed Himself in what follows."
+        ],
+        "John Calvin": [
+            "We need not wonder if men, whose minds were so depraved, were his implacable enemies.",
+            "We see also, that it is usual with hypocrites to pursue what is nothing more than a shadow of the righteousness of the Law, and as the common saying is, to stickle more about the form than about the substance.",
+            "We ought to beware lest, by attaching undue importance to ceremonial observances, we allow other things to be neglected, which are of far higher value in the sight of God."
+        ],
+        "Philip Schaff": [
+            "The miracle which follows, took place on another Sabbath, probably the next one.",
+            "Went into their synagogue. The synagogue of His opponents, probably in some important town in Galilee.",
+            "Luke says He taught there, as seems to have been His habit."
+        ],
+        "John Gill": [
+            "He might indeed directly go into one of their synagogues the same day, where he and his disciples seem to have been going, and stay in the city the week following.",
+            "Not being afraid of the Pharisees, who sought an advantage against him; nor deterred by them from doing good to men.",
+            "And willing to take another opportunity of exposing their ignorance and malice."
+        ],
+        "John Wesley": [
+            "Mark 3:1; Luke 6:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After a journey back to Galilee, Jesus encountered opposition from his enemies as they followed him, seeking evidence against him. It is clear that Jesus was intentionally addressing their thoughts and motives in what follows. The incident that occurred on this Sabbath was a separate event from the previous one, and it took place in the synagogue of his opponents. Jesus, undeterred by their malice and unafraid of their attempts to discredit him, seized the opportunity to expose their ignorance and hypocrisy. This passage reminds us not to become overly fixated on outward observances at the expense of neglecting what truly matters in the eyes of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.448329921356304,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.5,
+            "commentatorTierSimilarities": [
+                33.75,
+                33.78,
+                32.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Following a journey back to Galilee, Jesus encountered opposition from his enemies who dogged his steps, seeking material to use against him. Undeterred by their malice and unafraid of their attempts to discredit him, Jesus willingly exposed their ignorance and hypocrisy. He addressed their thoughts and motives, focusing on the importance of not neglecting what truly matters in the sight of God while avoiding undue attachment to ceremonial observances. The incident that followed took place in the synagogue of his opponents, emphasizing the confrontation between Jesus and his adversaries.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.3705753288343163,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.91,
+            "commentatorTierSimilarities": [
+                29.64,
+                33.29,
+                37.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After returning to Galilee, Jesus faced opposition from those seeking to bring charges against him. Undeterred and unafraid, he addressed their thoughts and motives, exposing their ignorance and hypocrisy. Focusing on the importance of not neglecting what truly matters to God, Jesus cautioned against excessive emphasis on ceremonial observances. This incident occurred in the synagogue of his opponents, highlighting the confrontation between Jesus and his adversaries.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3011118076365706,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.61,
+            "commentatorTierSimilarities": [
+                31.35,
+                32.5,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Following a journey back to Galilee, Jesus encountered opposition from his enemies as they dogged his steps, seeking materials to use against him. Unafraid of the Pharisees and undeterred by their attempts to discredit him, Jesus willingly exposed their ignorance and malice. He addressed their thoughts and motives while cautioning against prioritizing ceremonial observances over what truly matters to God. This incident took place in the synagogue of his opponents, marking a significant confrontation between Jesus and his adversaries.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.4288249144235667,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                31.62,
+                32.44,
+                35.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a journey back to Galilee, Jesus faced opposition from those seeking to bring charges against him. Undeterred by their malice and unafraid of their attempts to discredit him, Jesus willingly exposed their ignorance and hypocrisy. Focusing on the importance of not neglecting what truly matters to God, Jesus cautioned against excessive emphasis on ceremonial observances. This incident occurred in the synagogue of his opponents, highlighting the confrontation between Jesus and his adversaries.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3750354370463849,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+            "commentatorTierSimilarities": [
+                31.65,
+                32.26,
+                36.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

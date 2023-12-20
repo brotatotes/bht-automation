@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:59",
+    "verseRef": "Matthew 26:70",
+    "bestBHT": {
+        "bht": "Peter's response of I know not what thou sayest was a deceitful evasion, an easy subterfuge that failed to deceive anyone. Denying his discipleship and association with Jesus, he even feigned ignorance of the question. This denial, fueled by fear of man, only served to bring snare upon him. Let us remember that withholding our testimony for Christ exposes His name to ridicule. Therefore, we must hold firmly to a sincere and open profession of Christ, for denying it deprives Him of the testimony He rightly deserves.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.43,
+        "qualityScore": 1.648737293531187,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+        "commentatorTierSimilarities": [
+            32.5,
+            33.97,
+            33.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "70.] I know not what thou sayest is an indirect form of denial, conveying in it absolute ignorance of the circumstances alluded to."
+        ],
+        "Albert Barnes": [
+            "He denied that he was a disciple; he denied that he knew Jesus; he denied (Mark) that he understood what was meant - that is, he did not see any reason why this question was asked.",
+            "All this was palpable falsehood, and Peter must have known that it was such.",
+            "It is more remarkable, because the edge of the charge was taken off by the insinuation that 'John' was known to be a disciple thou 'also' wast with Jesus of Galilee."
+        ],
+        "John Calvin": [
+            "But if, in presence of those who wickedly despise God and oppose the Gospel, we withhold from Christ the testimony which is due to him, we expose his sacred name to the ridicule of all.",
+            "(Commentary, Quote 1)",
+            "The more eminent a man is, therefore, he ought to be the more careful to be on his guard; for his elevation makes it impossible for him to fall from it without doing greater harm.",
+            "(Commentary, Quote 2)",
+            "Let us therefore hold:, that as soon as we depart from a plain and candid profession of Christ, we deprive him of the testimony to which he has a lawful claim.",
+            "(Commentary, Quote 3)"
+        ],
+        "Philip Schaff": [
+            "But he denied before them all. Before those gathered about the fire.",
+            "I know not what thou sayest. On this first occasion he denies, not only his discipleship and knowledge of Jesus (Luke and John), but even that he understood what she could mean (Matthew and Mark); possibly to two different maids.",
+            "Christ\u2019s cause is not helped, nor His people defended, by crafty policy. Peter drew his sword in the presence of an armed band, but lied to a bantering maid-servant."
+        ],
+        "Archibald T. Robertson": [
+            "It was an affectation of extreme ignorance that deceived no one.",
+            "It was an easy and ancient dodge and easy subterfuge.",
+            "Peter used the Galilean Aramaean word for know instead of the Judean Aramaean word which betrayed at once his Galilean residence."
+        ],
+        "John Gill": [
+            "He did not deny that Christ was God, or the Son of God, or that he was come in the flesh, or that Jesus was the Christ, or that he was the only Saviour of sinners; but that he was with him, or one of his disciples...\" ",
+            "He denied that he was a disciple of Christ, which was his greatest character, and highest glory...",
+            "This denial did not arise from any diffidence of his being one, or from a sense of his unworthiness to be one, but from the fear of man, which brought this snare upon him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's response of I know not what thou sayest in Matthew 26:70 indirectly denied any knowledge or association with Jesus, and was an affectation of extreme ignorance that convinced no one. It was an easy and ancient dodge, a crafty subterfuge. Despite knowing that his words were palpable falsehoods, Peter denied his discipleship, familiarity with Jesus, and even understanding of the question. His denial took place in front of those gathered around the fire, and Christ's cause is not helped by such deceitful tactics. In withholding our testimony for Christ, we expose His sacred name to ridicule. The more prominent we are, the more cautious we should be, for our fall can bring greater harm. Let us hold firmly to a sincere and open profession of Christ, for denying it deprives Him of the testimony He rightfully deserves.",
+            "wordCount": 139,
+            "quoteTokenProportion": 39.0,
+            "qualityScore": 1.5425864294344014,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                32.15,
+                36.27,
+                31.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's response of I know not what thou sayest was a deceitful evasion, an easy subterfuge that failed to deceive anyone. Denying his discipleship and association with Jesus, he even feigned ignorance of the question. This denial, fueled by fear of man, only served to bring snare upon him. Let us remember that withholding our testimony for Christ exposes His name to ridicule. Therefore, we must hold firmly to a sincere and open profession of Christ, for denying it deprives Him of the testimony He rightly deserves.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.648737293531187,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                32.5,
+                33.97,
+                33.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's response of I know not what thou sayest was a crafty subterfuge that failed to deceive anyone, as it was an affectation of extreme ignorance. Denying his discipleship and familiarity with Jesus, Peter even pretended not to understand the question. This denial, driven by fear of man, only brought a snare upon him. Let us be cautious, for the more prominent we are, the greater harm our fall can bring. Therefore, we must hold firmly to an honest profession of Christ to give Him the testimony He deserves.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.4867122260170953,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.78,
+            "commentatorTierSimilarities": [
+                33.59,
+                33.91,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's response of I know not what thou sayest in Matthew 26:70 was a crafty subterfuge, an affectation of extreme ignorance that failed to deceive anyone. He denied his discipleship, familiarity with Jesus, and even understanding of the question, driven by fear of man. This denial brought a snare upon him. Let us remember that withholding our testimony for Christ exposes His name to ridicule. We must hold firmly to a sincere and open profession of Christ, giving Him the testimony He deserves.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.5724108361293063,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                30.56,
+                33.69,
+                35.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's response of I know not what thou sayest was a deceitful evasion, an easy subterfuge to deny his association with Jesus. It was an affectation of extreme ignorance that deceived no one and failed to conceal his discipleship. This denial, driven by fear, only trapped him in a snare. We need to be cautious, as our fall from grace can bring greater harm. Let us hold firmly to an honest profession of Christ, for denying it deprives Him of the rightful testimony He deserves.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.5839377462376114,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                36.94,
+                31.4,
+                31.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

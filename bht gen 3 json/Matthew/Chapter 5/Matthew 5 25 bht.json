@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:44:02",
+    "verseRef": "Matthew 5:25",
+    "bestBHT": {
+        "bht": "Agreeing with an adversary before judgment is passed is wise, as it helps to avoid harsh imprisonment for the wrongs committed. Reconciliation with an offended brother is essential to prevent their cry against us in front of the Great Judge, which could lead to eternal condemnation. The adversary represents the offended law of God and the offended brother, serving as a reminder of our obligations. By being well-minded towards our adversary and seeking compromise, we can prioritize justice and avoid personal interests.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.7305303534093703,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+        "commentatorTierSimilarities": [
+            33.77,
+            25.73,
+            40.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As in worldly affairs, it is prudent to make up a matter with an adversary before judgment is passed, which may deliver a man to a hard and rigorous imprisonment.",
+            "Reconciliation with an offended brother in this life is absolutely necessary before his wrong cry against us to the Great Judge, and we be cast into eternal condemnation.",
+            "The adversary, in its abstract personification, is the offended law of God, which will cry against us in that day for all wrongs done to others; but in its concrete representation it is the offended brother, who is to us that law, as long as he has its claim upon us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Agree with thine adversary\u2014thine opponent in a matter cognizable by law.",
+            "Quickly, whiles thou art in the way with him\u2014to the magistrate, as in",
+            "Lest at any time\u2014here, rather, 'lest at all,' or simply 'lest.'"
+        ],
+        "Marvin Vincent": [
+            "Agree with [\u03b9\u03c3\u03b8\u03b9 \u03b5\u03c5\u03bd\u03bf\u03c9\u03bd] . Lit., be well - minded towards; inclined to satisfy by paying or compromising.\" ",
+            "Officer [\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b7] . Denoting a subordinate official, as a herald or an orderly, and in this sense applied to Mark as the 'minister' or attendant of Paul and Barnabas (Acts 13:5).\" ",
+            "It furnishes an interesting instance of the expansion of a word from a limited and special meaning into a more general one; and also of the influence of the Gospel in lifting words into higher and purer associations."
+        ],
+        "John Calvin": [
+            "To meet all hatred, enmity, debates, and acts of injustice, Christ reproves that obstinacy, which is the source of these evils, and enjoins his own people to cultivate moderation and justice, and to make some abatement from the highest rigor, that, by such an act of justice, they may purchase for themselves peace and friendship.",
+            "It were to be wished, indeed, that no controversy of any kind should ever arise among us; and undoubtedly men would never break out into abuse or quarrelling, if they possessed a due share of meekness.",
+            "But I view it more simply, as an admonition that, even among men, it is usually advantageous for us to come to an early agreement with adversaries, because, with quarrelsome persons, their obstinacy often costs them dear."
+        ],
+        "Philip Schaff": [
+            "Agree with thine adversary quickly. An opponent in a law-suit",
+            "With him in the way, i.e., to the place of judgment, the last opportunity for settlement.",
+            "Officer, is the same as our sheriff."
+        ],
+        "Archibald T. Robertson": [
+            "Agree with (\u03b9\u03c3\u03b8 \u03b5\u03c5\u03bd\u03bf\u03c9\u03bd). A present periphrastic active imperative. The verb is from \u03b5\u03c5\u03bd\u03bf\u03bf\u03c2 (friendly, kindly disposed). 'Mak up wi' yere enemy' (Braid Scots). Compromise is better than prison where no principle is involved, but only personal interest.",
+            "It is so easy to see principle where pride is involved.",
+            "The officer (\u03c4\u03c9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b7). This word means 'under rower' on the ship with several ranks of rowers, the bottom rower (\u03c5\u03c0\u03bf under and \u03b7\u03c1\u03b5\u03c3\u03c3\u03c9, to row), the galley-slave, then any servant, the attendant in the synagogue (Luke 4:20)."
+        ],
+        "John Gill": [
+            "Agree with thine adversary quickly...to prevent lawsuits about debts.",
+            "Lest at any time the adversary should deliver thee to the judge...and thou be cast into prison.",
+            "Now it is one of these that is meant by 'the officer'; who, when he had authority from the judge, could cast into prison, and that for debt."
+        ],
+        "John Wesley": [
+            "Agree with thine adversary \u2014 With any against whom thou hast thus offended: while thou art in the way - Instantly, on the spot; before you part.",
+            "Lest the adversary deliver thee to the judge \u2014 Lest he commit his cause to God.",
+            "Luke 12:58."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Gospel of Matthew, there is a verse that advises believers to quickly make amends with their adversaries before judgment is passed. This is because reconciliation with an offended brother is crucial before facing the ultimate judgment of God. The adversary mentioned here can refer to both the offended law of God and the offended brother who represents that law. To agree with one's adversary means to be inclined to satisfy and compromise in order to avoid harsh consequences such as imprisonment. It is important for believers to settle disputes, not just in legal matters, but in all conflicts, as this reflects a spirit of moderation and justice. By doing so, they can foster peace and friendship.",
+            "wordCount": 119,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.5501427111429438,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.88,
+            "commentatorTierSimilarities": [
+                33.16,
+                24.85,
+                41.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In matters of conflict, it is wise to resolve issues with adversaries before facing judgment. Reconciliation with an offended brother is necessary to avoid eternal condemnation before the Great Judge. The adversary can represent both the offended law of God and the offended brother who embodies that law. To agree with this adversary means being inclined to compromise. Quick resolution is crucial, as the consequences of obstinacy can be severe. It is essential to prioritize moderation and justice to promote peace and friendship in relationships.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5807553119779465,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                33.49,
+                29.32,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Settling matters with adversaries before judgment is passed is both prudent and necessary. Reconciliation with an offended brother is vital to prevent condemnation when facing the law of God. This adversary can be viewed as both the offended law and the offended brother who embodies it. Agreeing with this adversary means being inclined to compromise and seek resolution. It is crucial to act quickly while still in the process of legal proceedings, to prevent severe consequences like imprisonment. Prioritizing justice and moderation fosters peace and friendship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5311247823607672,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                34.11,
+                29.5,
+                36.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid harsh punishment or eternal condemnation, it is prudent to reconcile with an offended brother or adversary before judgment. In doing so, one shows a willingness to satisfy and compromise, preventing the law of God from crying out against them. Quick resolution is advised, as delay may lead to imprisonment or the adversary delivering the matter to the judge. Prioritizing moderation and justice over pride is crucial to cultivate peace and friendship in relationships.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5640981102793956,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.35,
+            "commentatorTierSimilarities": [
+                36.37,
+                21.86,
+                41.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Agreeing with an adversary before judgment is passed is wise, as it helps to avoid harsh imprisonment for the wrongs committed. Reconciliation with an offended brother is essential to prevent their cry against us in front of the Great Judge, which could lead to eternal condemnation. The adversary represents the offended law of God and the offended brother, serving as a reminder of our obligations. By being well-minded towards our adversary and seeking compromise, we can prioritize justice and avoid personal interests.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7305303534093703,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                33.77,
+                25.73,
+                40.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

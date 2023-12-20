@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:53:35",
+    "verseRef": "Matthew 26:35",
+    "bestBHT": {
+        "bht": "Though I should die with thee, yet will I not deny thee - this notwithstanding seems to have the certainty of an emphatic affirmation. The disciples were undoubtedly influenced by Peter's noble speech and his boast of loyalty, which made him even stronger in his commitment. However, their confidence was rooted in ignorance of their own weakness, a difference from the Lord's conflict, where the ruling will may be overwhelmed by depression and suffering. The other disciples were undoubtedly embarrassed by Peter's bold declaration.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 1.5141661570088993,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+        "commentatorTierSimilarities": [
+            29.71,
+            37.95,
+            32.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This though I must again appears to have the precision of a repeated asseveration.",
+            "The right understanding of the whole important narration must be acquired by bearing in mind the reality of the manhood of our Lord, in all its abasement and weakness.",
+            "The conflict however of the Lord differs from ours in this,\u2014that in us, the ruling will itself is but a phase of our human will, and may be and is often carried away by the excess of depression and suffering."
+        ],
+        "Marvin Vincent": [
+            "Though I should die...Even if I must die.",
+            "If it shall behove me to die.",
+            "Though it should be necessary for me to die."
+        ],
+        "Philip Schaff": [
+            "Even if I must die with thee. In Luke and John, something like this precedes the prediction of the denial: in Matthew and Mark it occurs at this point. This favors the view that two different occasions are referred to.",
+            "The ardent spokesman influenced the rest. Their asseverations were probably not so strong, but were as inconsiderate.",
+            "So \u2018all\u2019 forsook Him (Matthew 26:56), but Peter alone denied Him."
+        ],
+        "Archibald T. Robertson": [
+            "A noble speech and meant well.",
+            "His boast of loyalty is made still stronger.",
+            "The other disciples were undoubtedly embarrassed by Peter's boast."
+        ],
+        "John Gill": [
+            "though I should die with thee, yet will I not deny thee",
+            "he would most cheerfully embrace it, rather than be guilty of so dreadful a crime",
+            "This they said, being also self-confident and ignorant of their own weakness"
+        ],
+        "John Wesley": [
+            "But such was the tenderness of our Lord, that he would not aggravate their sin by making any reply.",
+            "",
+            ""
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though I should die with thee, yet will I not deny thee - this notwithstanding seems to have the certainty of an emphatic affirmation. The disciples were undoubtedly influenced by Peter's noble speech, though their asseverations were likely not as strong. However, their confidence was rooted in ignorance of their own weakness. Yet, even in their self-assurance, the tenderness of the Lord led him to remain silent, not wanting to exacerbate their sin. Undoubtedly, Peter's boast of loyalty posed a challenge for the other disciples, leaving them unsure of how to respond.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4751850260428352,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+            "commentatorTierSimilarities": [
+                21.35,
+                36.8,
+                41.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though I should die with thee, yet will I not deny thee - this notwithstanding seems to have the certainty of an emphatic affirmation. The disciples were undoubtedly influenced by Peter's noble speech, though their asseverations were likely not as strong. However, their confidence was rooted in ignorance of their own weakness. Yet, even in their self-assurance, the tenderness of the Lord led him to remain silent, not wanting to exacerbate their sin.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.4862284809027635,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                19.99,
+                34.45,
+                45.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though I should die with thee, yet will I not deny thee - this notwithstanding seems to have the certainty of an emphatic affirmation. The disciples were undoubtedly influenced by Peter's noble speech and his boast of loyalty, which made him even stronger in his commitment. However, their confidence was rooted in ignorance of their own weakness, a difference from the Lord's conflict, where the ruling will may be overwhelmed by depression and suffering. The other disciples were undoubtedly embarrassed by Peter's bold declaration.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.5141661570088993,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                29.71,
+                37.95,
+                32.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though I should die with thee, yet will I not deny thee - this notwithstanding seems to have the certainty of an emphatic affirmation. The disciples were undoubtedly influenced by Peter's noble speech and his boast of loyalty, which made him even stronger in his commitment. However, their confidence was rooted in ignorance of their own weakness, a difference from the Lord's conflict, where the ruling will may be overwhelmed by depression and suffering. The other disciples were undoubtedly embarrassed by Peter's bold declaration.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.5141661570088993,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                29.71,
+                37.95,
+                32.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter confidently declared, Though I should die with thee, yet will I not deny thee. His noble speech, made stronger by his boast of loyalty, influenced the other disciples, though their affirmations were likely less fervent. Ignorant of their own weakness, they were self-confident in their commitment. However, the Lord's conflict differed from theirs, as His ruling will was not easily carried away by suffering and depression. Though Peter's words may have embarrassed the other disciples, the tenderness of the Lord led Him to refrain from further comment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4936864918209545,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                23.71,
+                35.43,
+                40.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

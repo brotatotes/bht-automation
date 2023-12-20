@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:54:17",
+    "verseRef": "Matthew 27:29",
+    "bestBHT": {
+        "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, a cruel mockery that served as a symbol of the curse of sin. They added insult to injury by placing a reed in Jesus' hand, a simple stalk of cane grass serving as a counterfeit scepter. The soldiers kneeled before Him, not in genuine adoration, but in false homage, hailing Him as the King of the Jews. In this act of mockery, the crown of thorns and the reed conveyed deeper meaning, highlighting the stark contrast between the weakness of humanity and the unwavering strength of Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 26.23,
+        "qualityScore": 1.8799437981453089,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+        "commentatorTierSimilarities": [
+            27.27,
+            38.29,
+            34.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The acanthus, with its large succulent leaves, is singularly unfit for such a purpose.",
+            "Some flexile shrub or plant must be understood\u2014possibly some variety of the cactus or prickly pear.",
+            "Hasselquist, a Swedish naturalist, supposes a very common Plant, naba or nubka of the Arabs, with many small and sharp spines; soft, round, and pliant branches; leaves much resembling ivy, of a very deep green, as if in designed mockery of a victor\u2019s wreath."
+        ],
+        "Philip Schaff": [
+            "A crown of thorns. This would wound as well as mock Him, though the latter was the chief design.",
+            "And a reed in his right hand, as a mock sceptre. The original, according to the best authorities, represents the passive demeanor of Christ, as if His hand did not close on the reed.",
+            "They bowed the knee. In feigned homage, greeting Him in the usual form: Hail, King of the Jews! A symbolical meaning may be found in all this mock-adoration."
+        ],
+        "Archibald T. Robertson": [
+            "A crown of thorns... It was more like a victor's garland than a royal diadem, but it served the purpose.",
+            "So with the reed, a stalk of common cane grass which served as sceptre.",
+            "The soldiers added the insults used by the Sanhedrin, spitting on him and smiting him with the reed."
+        ],
+        "John Gill": [
+            "The crown of thorns... had its significance, and was an emblem... either of wicked men, and of his being encompassed with them at this time; or of good men, chosen out from among them, redeemed by him, and accounted as a royal diadem with him.",
+            "This may teach us many useful lessons: we may see what a curse sin brought upon man... we may observe the difference between us and Christ: we are a crown of glory... he was crowned with thorns.",
+            "Christ does not disdain to hold a reed in his hand: nor will he break the bruised reed, or discourage, or crush the weakest believer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, not a regal diadem, but a cruel instrument of mockery. Some believe it may have been made from a flexile plant with small, sharp spines or soft, round branches resembling ivy. The soldiers added to the mockery by placing a reed in Jesus' hand, a simple stalk of cane grass serving as a fake scepter. They kneeled before Him, not in true adoration, but in feigned homage, hailing Him as the King of the Jews. In this act, the crown of thorns and the reed held deeper significance, highlighting the curse of sin while contrasting the weakness of mankind with the unwavering strength of Christ.",
+            "wordCount": 117,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8302869935978243,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                30.58,
+                36.64,
+                32.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, not a royal diadem, but a cruel mockery. Some suggest it was made from a flexible plant with small, sharp spines or soft branches resembling ivy. They added to the mockery by placing a reed in Jesus' hand, a simple stalk of cane grass serving as a fake scepter. The soldiers kneeled before Him, not in true adoration, but in feigned homage, hailing Him as the King of the Jews. The crown of thorns and the reed held significant symbolism, exposing the curse of sin and the stark contrast between the weakness of mankind and the unwavering strength of Christ.",
+            "wordCount": 112,
+            "quoteTokenProportion": 28.77,
+            "qualityScore": 1.8064539344186836,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                31.47,
+                36.13,
+                32.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, a cruel mockery that served as a symbol of the curse of sin. They added insult to injury by placing a reed in Jesus' hand, a simple stalk of cane grass serving as a counterfeit scepter. The soldiers kneeled before Him, not in genuine adoration, but in false homage, hailing Him as the King of the Jews. In this act of mockery, the crown of thorns and the reed conveyed deeper meaning, highlighting the stark contrast between the weakness of humanity and the unwavering strength of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.8799437981453089,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                27.27,
+                38.29,
+                34.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, not a regal diadem, but a cruel and mocking symbol. Some believe it may have been made from a flexible plant with sharp spines or soft branches resembling ivy. Adding to the humiliation, they placed a reed in Jesus' hand, a simple cane grass serving as a mock scepter. The soldiers kneeled before Him, not in true reverence, but in false homage, hailing Him as the King of the Jews. In this act, the crown of thorns and the reed contrasted the curse of sin with the strength of Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8382066417034233,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                30.78,
+                36.49,
+                32.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus stood before the soldiers, they crafted a crown of thorns, not a regal diadem, but a cruel mockery. Some suggest it may have been made from a flexible plant with small, sharp spines or soft, round branches resembling ivy. They added insult to injury by placing a reed in Jesus' hand, a simple stalk of cane grass serving as a false scepter. The soldiers kneeled before Him, not in true adoration, but in feigned homage, proclaiming Him as the King of the Jews. Here, the crown of thorns and the reed served as symbols, highlighting the curse of sin and contrasting the weakness of mankind with the unwavering strength of Christ.",
+            "wordCount": 113,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 1.8077349628016108,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                31.69,
+                35.26,
+                33.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

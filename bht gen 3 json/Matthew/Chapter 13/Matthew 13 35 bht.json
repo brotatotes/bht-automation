@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:48:08",
+    "verseRef": "Matthew 13:35",
+    "bestBHT": {
+        "bht": "Asaph, the prophet, declared his teachings as parables and dark sayings, containing ancient, hidden truths only revealed with the arrival of the Gospel. The verb used to express the utterance of these parables conveys the impassioned proclamation of a prophet. Through Christ's use of parables, the Gospel and its mysterious content are unveiled, previously concealed from the foundation of the world, but now made known according to the will of God. These teachings shed light on God's hidden purposes throughout history.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.9527029792287065,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+        "commentatorTierSimilarities": [
+            42.84,
+            27.57,
+            29.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that it might be fulfilled",
+            "The prophet, according to the superscription of Psalm lxxviii., is Asaph",
+            "so called 2 Chron. xxix. 30, LXX"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will open my mouth in parables, &c.\" - The psalmist's statement about using parables in their teachings.",
+            "Calls it a parable... dark sayings from of old\" - The description provided by the psalmist for the content of the Psalm, highlighting its nature as a parable and containing ancient and obscure teachings.",
+            "Underneath the history, truths for all time, not fully brought to light till the Gospel day.\" - Acknowledging that the hidden truths within the Psalm, which go beyond historical accounts, are only fully revealed with the arrival of the Gospel."
+        ],
+        "Marvin Vincent": [
+            "The verb, in which the sound corresponds to the sense [\u03b5\u03c1\u03b5\u03c5\u03be\u03bf\u03bc\u03b1\u03b9], means originally to belch, to disgorge.",
+            "There seems to lie in the word a sense of full, impassioned utterance, as of a prophet.",
+            "The history of the dealings is one long Old Testament parable. Things long kept secret, and that were hidden indeed in the depths of the divine mind from before the foundation of the world, were involved in these dealings."
+        ],
+        "John Calvin": [
+            "I will not speak of trifling matters, but will handle with becoming gravity subjects of the highest importance.",
+            "Christ spoke figuratively, in order that his very style, being more brilliant than ordinary discourse, might carry more weight and dignity.",
+            "He intended to conceal from the reprobate what he was saying, yet he labored to make them feel, even in the midst of their amazement, that there was something heavenly and divine in his language."
+        ],
+        "Philip Schaff": [
+            "That, i.e., \u2018in order that.\u2019",
+            "The prophet. From Psalms 78:2, the author of which was Asaph, \u2018the seer\u2019 (2 Chronicles 29:30), or prophet.",
+            "The Psalm is historical, but the events it mentions have a reference to Christ (comp. 1 Corinthians 10:6; 1 Corinthians 10:11, where the same events are spoken of)."
+        ],
+        "Archibald T. Robertson": [
+            "I will utter (\u03b5\u03c1\u03b5\u03c5\u03be\u03bf\u03bc\u03b1). To cast forth like a river, to gurgle, to disgorge, the passion of a prophet.",
+            "The Psalmist claims to be able to utter 'things hidden from the foundation of the world' and Matthew applies this language to the words of Jesus.",
+            "Certain it is that the life and teaching of Jesus throw a flood of light on the purposes of God long kept hidden (\u03ba\u03b5\u03ba\u03c1\u03c5\u03bc\u03bc\u03b5\u03bd\u03b1)."
+        ],
+        "John Gill": [
+            "I will open my mouth in parables, I will utter things which have been kept secret from the foundation of the world.",
+            "Christ expressed the Gospel, and the mysteries of it, in a parabolical way, which were hid in God, and under the shadows of the law.",
+            "The Gospel...was kept secret from the beginning of the world, and from the multitude, though now made known to the apostles, and by them to others, according to the will of God."
+        ],
+        "John Wesley": [
+            "Psalm 78:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:35, the fulfillment of the prophecy spoken by Asaph in Psalm 78 is highlighted. The psalmist refers to his teachings as parables and dark sayings, encompassing ancient and obscure truths. These hidden truths were only fully revealed with the arrival of the Gospel. The verb used to describe the utterance of these parables conveys a sense of passionate and full expression, akin to a prophet's proclamation. The life and teachings of Jesus shed light on God's hidden purposes from before the foundation of the world. Christ spoke using parables to reveal the Gospel and its mysteries, previously concealed and now made known according to the will of God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.8772170786193814,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+            "commentatorTierSimilarities": [
+                40.83,
+                26.57,
+                32.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The psalmist, Asaph, described his teachings as parables and dark sayings, containing ancient and obscure truths, which are fully revealed with the arrival of the Gospel. The verb used to describe their utterance evokes a sense of impassioned proclamation, akin to that of a prophet. Through Christ's use of parables, the Gospel and its hidden mysteries are unveiled, previously kept secret from the beginning of the world and now made known according to God's will. These teachings shine a light on God's hidden purposes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8702485225077656,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                43.11,
+                25.6,
+                31.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Asaph, the prophet, declared his teachings as parables and dark sayings, containing ancient, hidden truths only revealed with the arrival of the Gospel. The verb used to express the utterance of these parables conveys the impassioned proclamation of a prophet. Through Christ's use of parables, the Gospel and its mysterious content are unveiled, previously concealed from the foundation of the world, but now made known according to the will of God. These teachings shed light on God's hidden purposes throughout history.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9527029792287065,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                42.84,
+                27.57,
+                29.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The psalmist, Asaph, used parables and dark sayings in his teachings, containing ancient and obscure truths that have only been fully revealed with the arrival of the Gospel. The verb used to describe the utterance of these parables suggests a passionate and prophetic expression. Jesus, in His teachings, also employed parables to reveal the Gospel and its hidden mysteries, previously concealed from the foundation of the world but now made known according to the will of God. Through these teachings, God's hidden purposes are illuminated.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8731622373891135,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                43.1,
+                24.44,
+                32.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Asaph, the prophet, spoke in parables, using ancient and obscure teachings that were hidden until the Gospel was revealed. Jesus, too, employed parables as a means of disclosing the hidden mysteries of the Gospel, previously concealed from the foundation of the world. Through these teachings, God's secret purposes are brought to light, providing insight into the depths of His divine wisdom.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9425295208581268,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                42.79,
+                23.67,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

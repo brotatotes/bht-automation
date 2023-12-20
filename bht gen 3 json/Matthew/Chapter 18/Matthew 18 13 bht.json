@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:49:20",
+    "verseRef": "Matthew 18:13",
+    "bestBHT": {
+        "bht": "If it should so come to pass that a sheep goes astray, the good Shepherd's special care is for that sheep in greatest need. He rejoices more at finding that one lost sheep, whose loss greatly affected him, than the ninety and nine which did not go astray. This parable, also mentioned in Luke 15:3, emphasizes Christ's purpose in coming into the world to save lost sinners. It teaches us that our care should be for those in greatest need, even if they are a small fraction of those in our charge.",
+        "wordCount": 93,
+        "quoteTokenProportion": 51.47,
+        "qualityScore": 1.1063347703269477,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.13,
+        "commentatorTierSimilarities": [
+            14.34,
+            40.46,
+            45.2
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "If so be [\u03b5\u03b1\u03bd \u03b3\u03b5\u03bd\u03b7\u03c4\u03b1\u03b9] . If it should so come to pass. God 's grace is not irresistible."
+        ],
+        "Philip Schaff": [
+            "The ninety and nine which have not gone astray.",
+            "Either the unfallen beings in other worlds, whom Christ in a certain sense left, to save the \u2018one\u2019 in this lost world, or those who think they are not lost and who cannot be saved as long as they think so.",
+            "The good Shepherd's special care was for those in greatest need, so should yours be; even if the needy be but the smallest fraction of those committed to your care."
+        ],
+        "John Gill": [
+            "Verily I say unto you, he rejoiceth more of that sheep; at the finding of it, whose loss greatly affected him,",
+            "than of the ninety and nine which went not astray.",
+            "This same parable is related in Luke 15:3, and it being there more largely expressed, and along with other parables of the same kind, I shall refer the more particular consideration of it to that place.",
+            "It seems to me that this parable was twice delivered by our Lord, and that on two different occasions; once, as here, in his discourse on offenses, and upon mention of his coming into this world to save lost sinners; at another time, as there, upon the Pharisees murmuring at his receiving sinners, and eating with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If it should so come to pass that a sheep goes astray, the good Shepherd's special care is for that sheep in greatest need. He rejoices more at finding that one lost sheep, whose loss greatly affected him, than the ninety and nine which did not go astray. This parable, also mentioned in Luke 15:3, emphasizes Christ's purpose in coming into the world to save lost sinners. It teaches us that our care should be for those in greatest need, even if they are a small fraction of those in our charge.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.1063347703269477,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.13,
+            "commentatorTierSimilarities": [
+                14.34,
+                40.46,
+                45.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a sheep should go astray, the good Shepherd's special care is for that sheep in greatest need. He rejoices more at finding the one lost sheep than the ninety and nine which did not go astray. This parable, mentioned in Luke 15:3 as well, emphasizes Christ's purpose in coming to save lost sinners. It teaches us to care for those in greatest need, even if they are a small fraction of those in our charge.",
+            "wordCount": 77,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 1.0741520943320708,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.06,
+            "commentatorTierSimilarities": [
+                12.35,
+                42.28,
+                45.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If it should so come to pass that one sheep goes astray, the good Shepherd's special care is for that sheep in greatest need, rejoicing more at finding it than at the ninety-nine which went not astray. Just as Christ left the unfallen beings in other worlds to save the one in this lost world, so should our care be for the smallest fraction of those entrusted to us. This parable, also found in Luke 15:3, emphasizes the importance of seeking the lost and the joy that comes from their restoration.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.2366283213541205,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.46,
+            "commentatorTierSimilarities": [
+                17.15,
+                42.03,
+                40.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If it should so come to pass that one sheep goes astray, the good Shepherd's special care is for that sheep in greatest need, rejoicing more at finding it than at the ninety-nine which went not astray. Just as Christ left the unfallen beings in other worlds to save the one in this lost world, so should our care be for the smallest fraction of those entrusted to us. This parable, also found in Luke 15:3, emphasizes the importance of seeking the lost and the joy that comes from their restoration.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.2366283213541205,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.46,
+            "commentatorTierSimilarities": [
+                17.15,
+                42.03,
+                40.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If one sheep goes astray, the good Shepherd's special care is for that sheep in greatest need, rejoicing more at finding it than at the ninety-nine which went not astray. Christ left the unfallen beings in other worlds to save the one in this lost world, so our care should be for the smallest fraction of those entrusted to us. This parable emphasizes the importance of seeking the lost and the joy that comes from their restoration.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.1288855969575833,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.88,
+            "commentatorTierSimilarities": [
+                12.07,
+                46.41,
+                41.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

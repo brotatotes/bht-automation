@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:49:10",
+    "verseRef": "Matthew 17:11",
+    "bestBHT": {
+        "bht": "The fulfillment of the prophecy regarding the coming of Elijah before the Messiah is significant in Jewish chronology. John the Baptist, embodying the spirit and power of Elijah, had already taken on this role, initiating the work of restoration. Christ affirms the validity of this prophecy, emphasizing the rejection by false teachers of both the Redeemer and His forerunner. The prophecy speaks of Elijah purifying and restoring all things, turning the disobedient to the wisdom of the just, in preparation for the coming of the Lord.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9164389628158243,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+        "commentatorTierSimilarities": [
+            36.56,
+            31.75,
+            31.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Cometh. Elijah cometh first. An abstract statement expressing the fact that Elijah's coming precedes in time the coming of the Messiah.",
+            "It is a point of Jewish chronology; just as a teacher of history might say to his pupils, 'The Saxons and Danes precede the Normans in England.'",
+            "Elijah had already come in the person of John the Baptist."
+        ],
+        "John Calvin": [
+            "Christ now declares that every thing which Malachi uttered was true, but that his prediction had been misunderstood and distorted from its true meaning.",
+            "This does not mean that John the Baptist restored them perfectly, but that he conveyed and handed them over to Christ, who would complete the work which he had begun.",
+            "And that no one might be distressed by a proceeding so strange, our Lord mentions that the Scripture contained predictions of both events, that the Redeemer of the world, and Elijah his forerunner, would be rejected by false and wicked teachers."
+        ],
+        "Philip Schaff": [
+            "Elijah indeed cometh. Our Lord confirms the view that Elijah should come.",
+            "Shall restore or 'establish anew,' all things.",
+            "The actual work of restoration was however the work of the Messiah, for which Elijah should prepare the way."
+        ],
+        "John Gill": [
+            "Elias truly shall first come: this is indeed a tenet of the Scribes, and it is also certain, that there is a prophecy in Malachi 4:5 of the coming of Elias; of one that goes under that name, not of Elias the Tishbite, in person, but of one that was to come in his power and spirit, and restore all things.",
+            "The truest sense of the phrase is to be learned out of Malachi 4:6. 'He shall restore, \u05d4\u05e9\u05d9\u05d1, he shall turn all things, the heart of the fathers to the children, and the heart of the children to their fathers'; and as this is explained in Luke 1:17 'he shall turn the disobedient to the wisdom of the just, and make ready a people prepared for the Lord.'",
+            "They often speak of his purifying q of things, or pronouncing things pure, that were defiled; and among others, that he will purify bastards, and \u05d9\u05e9\u05d9\u05d1\u05dd, 'restore them' to the congregation of the Lord."
+        ],
+        "John Wesley": [
+            "Regulate all things \u2014 In order to the coming of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Elijah's coming before the Messiah is a significant point in Jewish chronology, similar to the Saxons and Danes preceding the Normans in England. John the Baptist, who came in the spirit and power of Elijah, had already fulfilled this role. While John initiated the restoration, it was the Messiah who would ultimately establish and complete the work. This declaration by Christ affirms the validity of the prophecy in Malachi and addresses the rejection of both the Redeemer and His forerunner by false teachers. The prophecy spoke of Elijah turning the disobedient to the wisdom of the just, purifying and restoring all things in preparation for the coming of the Lord.",
+            "wordCount": 111,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.8360666748260122,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                39.43,
+                30.3,
+                30.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Elijah's coming before the Messiah is a significant point in Jewish chronology, similar to the Saxons and Danes preceding the Normans in England. John the Baptist, who came in the spirit and power of Elijah, had already fulfilled this role. This declaration by Christ affirms the validity of the prophecy in Malachi and addresses the rejection of both the Redeemer and His forerunner by false teachers. The prophecy spoke of Elijah turning the disobedient to the wisdom of the just, purifying and restoring all things in preparation for the coming of the Lord.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.882700546816433,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                42.42,
+                27.32,
+                30.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The coming of Elijah before the Messiah is a crucial point in Jewish chronology, illustrating how John the Baptist fulfilled this role. The prophecy in Malachi spoke of Elijah turning the disobedient to the wisdom of the just, purifying and restoring all things in preparation for the coming of the Lord. This declaration by Christ confirms the validity of the prophecy and addresses the rejection of both the Redeemer and His forerunner by false teachers. The work of restoration initiated by John would be completed by the Messiah.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.8976003390970886,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                35.95,
+                33.52,
+                30.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fulfillment of the prophecy regarding the coming of Elijah before the Messiah is significant in Jewish chronology. John the Baptist, embodying the spirit and power of Elijah, had already taken on this role, initiating the work of restoration. Christ affirms the validity of this prophecy, emphasizing the rejection by false teachers of both the Redeemer and His forerunner. The prophecy speaks of Elijah purifying and restoring all things, turning the disobedient to the wisdom of the just, in preparation for the coming of the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9164389628158243,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                36.56,
+                31.75,
+                31.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy concerning Elijah preceding the Messiah carries significant weight in Jewish chronology, much like the Saxons and Danes before the Normans in England. John the Baptist, embodying Elijah's spirit and power, had already fulfilled this role. Christ's affirmation of this fulfillment confirms the validity of the prophecy, addressing the rejection by false teachers of both the Redeemer and His forerunner. The prophecy speaks of Elijah purifying and restoring all things, preparing for the coming of the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.8076313519926956,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                40.5,
+                29.11,
+                30.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

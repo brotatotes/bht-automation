@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:53:08",
+    "verseRef": "Matthew 26:9",
+    "bestBHT": {
+        "bht": "Jesus's head was anointed with a highly valuable ointment, estimated to be worth more than 800 denarii. Pliny notes that this ointment cost over four hundred denarii per pound. While some suggest the omission of the word 'ointment,' it remains clear that this was a precious and costly substance. These insights shed light on the potential harm caused by greed and hypocrisy, particularly in relation to handling trust funds. They serve as a reminder of the extravagant value of the ointment and the influence of deceitful actions.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.1496179117287981,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.57,
+        "commentatorTierSimilarities": [
+            22.67,
+            35.43,
+            41.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9. for much] 800 denarii (John),\u2014even more than that (Mark). On the singular relation which these three accounts bear to one another, see notes on Mark."
+        ],
+        "Philip Schaff": [
+            "The best authorities omit \u2018ointment\u2019 here, but it is necessary to supply it.",
+            "Pliny says that a pound of this ointment cost more than four hundred denarii (comp.\u2019 three hundred pence,\u2019 Mark and John).",
+            "Those who hold trust funds, even for benevolent purposes, are often as unscrupulous in adding to them as in increasing, their private store."
+        ],
+        "John Gill": [
+            "For this ointment might have been sold for much.",
+            "It might well be called very precious and costly ointment.",
+            "What mischief an hypocrite may do in a church, and what influence he may have over good men to draw them into his measures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This particular verse refers to the precious ointment that a woman poured on Jesus's head. It is estimated to be worth 800 denarii, even more than that according to Mark's account. Pliny states that it cost over four hundred denarii per pound. The commentators suggest that the omission of the word ointment is necessary to understand the verse fully. They also caution against the dangers of greed and hypocrisy, highlighting how trust funds can sometimes be misused. Overall, these commentaries shed light on the extravagant value of the ointment and the potential harm that can come from deceitful actions.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.135349394256969,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.09,
+            "commentatorTierSimilarities": [
+                32.58,
+                33.84,
+                33.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The valuable ointment poured on Jesus's head was estimated to be worth 800 denarii, even more than that according to another account. It is noteworthy that Pliny states it cost over four hundred denarii per pound. Some suggest that the omission of the word 'ointment' is necessary. These accounts caution against the dangers of greed and hypocrisy, emphasizing how trust funds can be manipulated. Ultimately, these insights emphasize the extravagant value of the ointment and the potential harm caused by deceitful actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.024586660677298,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.41,
+            "commentatorTierSimilarities": [
+                24.52,
+                34.39,
+                41.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The precious ointment poured on Jesus's head was estimated to be worth more than 800 denarii, and even more than that in another account. Pliny mentions that this ointment cost over four hundred denarii per pound. It is suggested that the word 'ointment' should be supplied. These insights caution against the dangers of greed and hypocrisy, particularly in relation to trust funds and the potential harm caused by deceitful actions. Ultimately, they highlight the extravagant value of the ointment and its implications.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.0297594860229882,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.58,
+            "commentatorTierSimilarities": [
+                22.01,
+                35.25,
+                42.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's head was anointed with a highly valuable ointment, estimated to be worth more than 800 denarii. Pliny notes that this ointment cost over four hundred denarii per pound. While some suggest the omission of the word 'ointment,' it remains clear that this was a precious and costly substance. These insights shed light on the potential harm caused by greed and hypocrisy, particularly in relation to handling trust funds. They serve as a reminder of the extravagant value of the ointment and the influence of deceitful actions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.1496179117287981,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.57,
+            "commentatorTierSimilarities": [
+                22.67,
+                35.43,
+                41.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ointment poured on Jesus's head is estimated to be worth more than 800 denarii, even more than that according to another account. Pliny states that this ointment cost over four hundred denarii per pound. While some suggest an omission, it remains clear that this was a precious and costly substance. These accounts caution against the dangers of greed and hypocrisy, highlighting the potential harm caused by deceitful actions. They emphasize the extravagant value of the ointment and its influence over others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.100199317865543,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.93,
+            "commentatorTierSimilarities": [
+                27.66,
+                32.9,
+                39.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:49:11",
+    "verseRef": "Matthew 16:21",
+    "bestBHT": {
+        "bht": "From that time forth, Jesus began explicitly revealing to his disciples that he must go to Jerusalem and suffer many things, be rejected, and ultimately be put to death. This revelation was necessary to fulfill the divine purpose and was prompted by the great confession of Peter. It was important for the disciples to understand the gravity of Jesus' suffering and death, even though they had not fully grasped it earlier. Jesus reproached them for their slowness of belief, emphasizing the necessity of his sufferings and resurrection.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.1214272525824,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+        "commentatorTierSimilarities": [
+            30.18,
+            32.78,
+            37.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Certainly enough was known of such a prophecy to make the Jews set a watch over the grave (Matt. xxvii. 63), which of itself answers the objection.",
+            "Some Commentators reason about the state of the disciples after the crucifixion, just as if they had not suffered any remarkable overthrow of their hopes and reliances.",
+            "He Himself reproaches them with this very slowness of belief after His resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From that time forth began Jesus to show unto his disciples...with an explicitness and frequency He had never observed before.\" ",
+            "He must go unto Jerusalem and suffer many things...and be rejected.",
+            "He spake that saying openly\u2014'explicitly,' or 'without disguise.'"
+        ],
+        "Marvin Vincent": [
+            "From that time began. He had not shown it to them before.\" ",
+            "Must. It was necessary in fulfilment of the divine purpose.\" ",
+            "Suffer. This first announcement mentions this passion and death generally."
+        ],
+        "Philip Schaff": [
+            "The confession prepared them for the revelation.",
+            "The necessity of His sufferings was revealed: not in all its bearings, since after His resurrection He must still ask: \u2018Ought not Christ to have suffered,\u2019 etc.",
+            "\u2018The cross\u2019 is the necessary climax of His sufferings."
+        ],
+        "Archibald T. Robertson": [
+            "The great confession of Peter made this seem an appropriate time.",
+            "So the necessity of his suffering death at the hands of the Jerusalem ecclesiastics who have dogged his steps in Galilee is now plainly stated.",
+            "Jesus added his resurrection 'on the third day,' not 'on the fourth day,' please observe."
+        ],
+        "John Gill": [
+            "From that time forth began Jesus to show unto his disciples... his sufferings and death, than he had done before...",
+            "This also furnishes out some reasons why Jesus would not have his disciples, for the present, declare him to be the Messiah, that his death might not, by any means, be prevented...",
+            "The word 'must', not only belongs to his going to Jerusalem, but to his sufferings, death, and resurrection; all which must be because of the immutable decree of God..."
+        ],
+        "John Wesley": [
+            "From this time he taught them another, That Christ must through sufferings and death enter into his glory.",
+            "Would not one have expected, that these should have been the very first to receive him? But not many wise, not many noble were called.",
+            "Favour thyself - The advice of the world, the flesh, and the devil, to every one of our Lord's followers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From that time forth, Jesus began explicitly revealing to his disciples that he must go to Jerusalem and suffer many things, be rejected, and ultimately be put to death. This revelation was necessary to fulfill the divine purpose and was prompted by the great confession of Peter. It was important for the disciples to understand the gravity of Jesus' suffering and death, even though they had not fully grasped it earlier. This revelation significantly impacted the disciples, as they had suffered a remarkable overthrow of their hopes and reliances. Jesus reproached them for their slowness of belief, emphasizing the necessity of his sufferings and resurrection. By adding the detail of his resurrection on the third day, Jesus made it clear that the cross was the necessary climax of his sufferings and that his death could not be prevented.",
+            "wordCount": 138,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.0763156806562493,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                29.35,
+                33.37,
+                37.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From that time forth, Jesus began explicitly revealing to his disciples that he must go to Jerusalem and suffer many things, be rejected, and ultimately be put to death. This revelation was necessary to fulfill the divine purpose and was prompted by the great confession of Peter. It was important for the disciples to understand the gravity of Jesus' suffering and death, even though they had not fully grasped it earlier. Jesus reproached them for their slowness of belief, emphasizing the necessity of his sufferings and resurrection.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.1214272525824,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                30.18,
+                32.78,
+                37.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From that time forth, Jesus explicitly revealed to his disciples the necessity of his suffering, death, and resurrection. This revelation, prompted by Peter's confession, was a vital understanding for the disciples to grasp. Jesus reproached them for their slowness of belief, highlighting the importance of his sufferings. By openly declaring his upcoming death and resurrection, Jesus emphasized the fulfillment of the divine purpose. This revelation marked a significant shift in Jesus' teaching as he began to explicitly convey the gravity of his impending sacrifice to his disciples.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.062446892479606,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                28.96,
+                34.11,
+                36.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From that time forth, Jesus began explicitly revealing to his disciples the necessity of his suffering, death, and resurrection. This revelation, prompted by Peter's confession, was a vital understanding for the disciples to grasp. Jesus reproached them for their slowness of belief, highlighting the importance of his sufferings. By openly declaring his upcoming death and resurrection, Jesus emphasized the fulfillment of the divine purpose. This revelation marked a significant shift in Jesus' teaching as he began to explicitly convey the gravity of his impending sacrifice to his disciples.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.0609614450154403,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                29.22,
+                33.78,
+                37.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From that time forth, Jesus explicitly revealed to his disciples the necessity of his suffering, death, and resurrection. This revelation was prompted by Peter's confession and marked a significant shift in Jesus' teaching. Jesus reproached the disciples for their slow belief, emphasizing the importance of his sufferings. By openly declaring his upcoming death and resurrection, Jesus emphasized the fulfillment of the divine purpose and the gravity of his sacrifice. It was crucial for the disciples to fully grasp the magnitude of Jesus' suffering and death, as they had experienced an overthrow of their hopes and reliances.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0860125083113825,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                27.88,
+                33.27,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

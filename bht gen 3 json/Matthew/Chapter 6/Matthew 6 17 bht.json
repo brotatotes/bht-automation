@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:44:14",
+    "verseRef": "Matthew 6:17",
+    "bestBHT": {
+        "bht": "When fasting, it is important to appear as usual and not draw attention. Anointing the head and washing the face were customary practices among the Jews, except during mourning. This applies to voluntary and private fasts, as well as public ones. It is crucial to avoid hypocrisy and false asceticism while maintaining a cheerful and joyful demeanor. Dressing oneself as usual helps prevent ostentation and allows for a sense of normalcy in fasting.",
+        "wordCount": 73,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.513865390808342,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+        "commentatorTierSimilarities": [
+            28.82,
+            39.29,
+            31.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "i.e. 'appear as usual:\u2019 \u2018seem to men the same as if thou wert not fasting.\u2019",
+            "It has been observed that this precept applies only to voluntary and private fasts, (such as are mentioned Luke xviii. 12,) not to public and enjoined ones.",
+            "But this distinction does not seem to be necessary; the one might afford just as much occasion for ostentation as the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Appear as usual\"\u2014appear so as to attract no notice.",
+            "Anoint thine head, and wash thy face\u2014as the Jews did, except when mourning.",
+            "The meaning is, 'Appear as usual.'"
+        ],
+        "Philip Schaff": [
+            "Perform the cleansing usual and proper before meals even when fasting.",
+            "Special preparation would involve hypocrisy also.",
+            "Hypocrisy and false asceticism reverse the maxim."
+        ],
+        "John Gill": [
+            "Christ allows of fasting, but what is of a quite different kind from that of the Jews.",
+            "Cheerfulness, and a free use of the creatures, without an abuse of them, best became such persons.",
+            "Anointing and washing were signs of cheerfulness and joy."
+        ],
+        "John Wesley": [
+            "Anoint thy head \u2014 So the Jews frequently did. Dress thyself as usual."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to fasting, it is important to maintain a sense of normalcy and not draw attention to oneself. The focus should be on the internal, rather than the external. The advice given in Matthew 6:17 is to appear as usual so that one does not appear to be fasting. This applies mainly to voluntary and private fasts, not those that are public or enjoined. Customary acts, such as anointing the head and washing the face, can be done to blend in with society. Ultimately, the goal is to avoid hypocrisy and false asceticism, and to maintain a cheerful and joyful attitude.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.3020834878484,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.64,
+            "commentatorTierSimilarities": [
+                32.19,
+                40.36,
+                27.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When fasting, it is important to maintain a sense of normalcy and not draw attention to oneself. The advice given is to appear as usual so that one does not appear to be fasting. Customary acts, such as anointing the head and washing the face, can be done to blend in with society. The goal is to avoid hypocrisy and false asceticism, and to maintain a cheerful and joyful attitude.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.463049131957983,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                28.92,
+                42.61,
+                28.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When fasting, it is important to appear as usual so as not to attract attention. Anointing the head and washing the face were customary practices among the Jews, and they can be done to blend in with society. The focus should be on the internal rather than the external, avoiding hypocrisy and false asceticism. Maintaining a cheerful and joyful attitude is key.",
+            "wordCount": 62,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.2663275710372983,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.45,
+            "commentatorTierSimilarities": [
+                27.67,
+                40.56,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When fasting, it is important to appear as usual and not draw attention to oneself. This applies to voluntary and private fasts, as well as public and enjoined ones. The act of anointing the head and washing the face was commonly practiced by the Jews, except during times of mourning. The goal is to avoid hypocrisy and false asceticism, and to maintain a cheerful and joyful demeanor. Dressing oneself as usual is encouraged, as it helps to maintain a sense of normalcy and prevents any ostentation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4327682443181669,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+            "commentatorTierSimilarities": [
+                28.81,
+                38.56,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When fasting, it is important to appear as usual and not draw attention. Anointing the head and washing the face were customary practices among the Jews, except during mourning. This applies to voluntary and private fasts, as well as public ones. It is crucial to avoid hypocrisy and false asceticism while maintaining a cheerful and joyful demeanor. Dressing oneself as usual helps prevent ostentation and allows for a sense of normalcy in fasting.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.513865390808342,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                28.82,
+                39.29,
+                31.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

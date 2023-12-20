@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:43:12",
+    "verseRef": "Matthew 4:4",
+    "bestBHT": {
+        "bht": "Jesus' response to Satan's temptation underscores the authority of scripture, affirming that Not by bread alone shall man live. This statement emphasizes that human support depends not on physical sustenance alone, but on God's unfailing word and providential care. Even though Jesus could have used his divine power, he chooses to await divine supply, trusting that it will come at the fitting time. By relying on Scripture and trusting God for extraordinary help in trying circumstances, we too can overcome the temptations we face.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 2.028847792908929,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+        "commentatorTierSimilarities": [
+            29.01,
+            39.1,
+            31.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not by bread alone shall man live.\" ",
+            "Human support depends not upon bread, but upon God's unfailing word of promise and pledge of all needful providential care.",
+            "I will await divine supply, nothing doubting that at the fitting time it will arrive."
+        ],
+        "Albert Barnes": [
+            "It is not so imperiously necessary that I should have bread as to make a miracle proper to procure it. Life depends on the will of God.",
+            "Satan\u2019s temptations are often the strongest immediately after we have been remarkably favored.",
+            "We are to meet the temptations of Satan, as the Saviour did, with the plain and positive declarations of Scripture."
+        ],
+        "Marvin Vincent": [
+            "The first recorded words of Jesus after his entrance upon his ministry are an assertion of the authority of scripture.",
+            "When addressing man, our Lord seldom quoted scripture, but said I say unto you.",
+            "In answer to Satan he says, It is written."
+        ],
+        "John Calvin": [
+            "When you see that you are forsaken by God, you are driven by necessity to attend to yourself. Provide then for yourself the food, with which God does not supply you.",
+            "Man shall not live by bread alone. You advise me to contrive some remedy, for obtaining relief in a different manner from what God permits.",
+            "We ought to trust in God for food, and for the other necessaries of the present life, in such a manner, that none of us may overleap the boundaries which he has prescribed."
+        ],
+        "Philip Schaff": [
+            "Jesus, who was fulfilling the law, answers Satan from the law... The quotation is very slightly varied from the Greek of the Septuagint.\" ",
+            "Feeling so keenly His human needs, our Lord does not exert his Divine power, nor assert His Divine dignity, but overcomes the temptation by identifying Himself with \u2018man,\u2019 conquering Satan for us men.",
+            "Man is ordinarily sustained by bread, but if it pleases God, under whose Providential care he stands, to sustain him by other means, this will be done... We are here taught to overcome Satan with Scripture; to trust God for extraordinary help in extraordinary circumstances."
+        ],
+        "John Gill": [
+            "The meaning of this scripture is; not that as the body lives by bread, so the soul lives by the word of God, and doctrines of the Gospel; though this is a certain truth.",
+            "God, in satisfying man's hunger, and in supporting and preserving his life, is not tied to bread only, but can make use of other means, and order whatever he pleases to answer these ends.",
+            "Our Lord hereby expresses his strong faith and confidence in God, that he was able to support him, and would do it, though in a wilderness, and destitute of supply; whereby he overcame this temptation of Satan."
+        ],
+        "John Wesley": [
+            "By every word that proceedeth out of the mouth of God \u2014 That is, by whatever God commands to sustain him.",
+            "Thus Christ answered, and thus we may answer all the suggestions of the devil.",
+            "Therefore it is not needful I should work a miracle to procure bread, without any intimation of my Father's will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in responding to Satan's temptation, asserts the authority of Scripture by saying, Not by bread alone shall man live. By doing so, he emphasizes that human reliance is not solely on physical sustenance, but on the unfailing word of God. Even though Jesus, as the Son of God, could have used his divine power to overcome the temptation, he chose to identify with humanity and rely on God's providential care. Therefore, when faced with trials and temptations, we are reminded to overcome them by trusting in the Scriptures and seeking extraordinary help from God in exceptional circumstances.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.9665441487798168,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                25.79,
+                40.33,
+                33.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in response to Satan's temptation, asserts that Not by bread alone shall man live. This highlights that human reliance is not only on physical sustenance but also on God's word of promise and providential care. By identifying with humanity, Jesus shows his strong faith and confidence in God's ability to support him, even in the wilderness. This serves as a reminder for us to trust in Scripture and seek God's extraordinary help in times of trials and temptations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8752312430052247,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                27.35,
+                38.22,
+                34.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' response to Satan's temptation underscores the authority of scripture, affirming that Not by bread alone shall man live. This statement emphasizes that human support depends not on physical sustenance alone, but on God's unfailing word and providential care. Even though Jesus could have used his divine power, he chooses to await divine supply, trusting that it will come at the fitting time. By relying on Scripture and trusting God for extraordinary help in trying circumstances, we too can overcome the temptations we face.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.028847792908929,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                29.01,
+                39.1,
+                31.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responds to Satan's temptation by affirming the authority of Scripture: Not by bread alone shall man live. This declaration emphasizes that human support relies not solely on physical nourishment but also on the unwavering word of God and His providential care. In choosing not to exert His divine power, Jesus exemplifies his faith in God's ability to sustain and conquer temptations on behalf of humanity. This reminds us to overcome challenges by trusting in Scripture and seeking God's extraordinary aid when needed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.9423299174472994,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                26.09,
+                39.63,
+                34.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus responds to Satan's temptation by asserting the authority of Scripture, stating, Not by bread alone shall man live. He emphasizes that human support relies not on physical sustenance alone, but on God's unfailing word and providential care. Jesus chooses to await divine supply, trusting that it will come at the appointed time. His example encourages us to overcome trials and temptations by relying on Scripture and trusting in God's extraordinary help in exceptional circumstances.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9738584082874069,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                30.18,
+                37.47,
+                32.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

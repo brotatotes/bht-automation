@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:47:40",
+    "verseRef": "Matthew 13:39",
+    "bestBHT": {
+        "bht": "The devil, known as the enemy, is responsible for sowing the tares, symbolizing the children of the wicked one. According to this parable, the end of the world corresponds to Christ's second coming when the righteous and the wicked will be separated. The angels will serve as reapers, leading the saints into the heavenly kingdom and executing judgment upon the wicked. This parable advises caution and charity when addressing discipline, emphasizing the importance of exercising prudential rather than punitive measures.",
+        "wordCount": 81,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.597029442991078,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+        "commentatorTierSimilarities": [
+            41.97,
+            24.43,
+            33.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The enemy that sowed them is the devil\u2014emphatically 'His enemy.'",
+            "The tares are the children of the wicked one.",
+            "The harvest is the end of the world\u2014the period of Christ's second coming, and of the judicial separation of the righteous and the wicked."
+        ],
+        "John Calvin": [
+            "Let us therefore hold, that nothing was farther from the design of Christ than to encourage pollution by lending countenance to it.",
+            "Christ does not now speak of the office of pastors or of magistrates, but removes the offense which is apt to disturb weak minds, when they perceive that the Church is composed not only of the elect, but of the polluted dregs of society.",
+            "Those who proceed, with undue haste, to root out whatever displeases them, prevent, as far as lies in their power, the sentence of Christ, deprive angels of their office, and rashly take that office on themselves."
+        ],
+        "Philip Schaff": [
+            "The devil is here represented as the author of evil in the world (and in the Church as affected by the world).",
+            "The application to the question of discipline has been hotly discussed from the fourth century until now...the whole drift of the parable enjoins caution and charity.",
+            "As regards discipline; when necessary, it is to be exercised with a prudential not a punitive purpose."
+        ],
+        "John Gill": [
+            "The enemy that sowed them is the devil...and shows what an adversary he is to the peace, comfort, and fruitfulness of the churches of Christ.",
+            "The harvest is the end of the world...when the heavens and the earth, and all that is therein, shall be burnt up; when the righteous will enter into life, and the wicked go into everlasting punishment.",
+            "The reapers are the angels...who shall be the means of introducing the saints into the heavenly kingdom...and will be employed in the end of time, against the wicked, and for the righteous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 13:39, it is emphasized that the enemy that sowed [the tares] is the devil\u2014a clear indication of the devil's opposition to Christ and His Church. The tares, in turn, represent the children of the wicked one. This parable reveals that the end of the world, which coincides with Christ's second coming, will mark the time of judgment when the righteous and wicked are separated. The angels, as the appointed reapers, will be instrumental in ushering the saints into the heavenly kingdom and executing judgment upon the wicked. In light of this parable, it is important for us to exercise caution and charity in dealing with discipline, ensuring it serves a prudent purpose, without prematurely uprooting what displeases us.",
+            "wordCount": 122,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.598583108411841,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                41.89,
+                22.66,
+                35.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the devil is depicted as the enemy who sowed the tares, representing the children of the wicked one. The parable signifies the end of the world, marked by the second coming of Christ, when the righteous and wicked are separated. During this period, the angels, as the reapers, will play a significant role, leading the saints into the heavenly kingdom and executing judgment on the wicked. This parable teaches us to approach discipline with caution and charity, exercising prudence rather than hasty punishment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6010658284083261,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.58,
+            "commentatorTierSimilarities": [
+                41.05,
+                25.8,
+                33.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil, identified as the enemy, is portrayed as the one who sowed the tares, representing the offspring of the wicked. This parable points to the end of the world, when Christ returns, and emphasizes the separation between the righteous and the wicked. The role of the angels as reapers becomes essential during this time, as they will guide the saints into the heavenly realm while executing judgment on the unrighteous. As the parable suggests, discipline should be handled cautiously and compassionately rather than punitively.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5391891950657302,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                40.13,
+                24.37,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil, referred to as the enemy, is seen as the one who sowed the tares, representing the wicked offspring. This parable serves as a reminder that the end of the world, coinciding with Christ's second coming, will mark the time of judgment and the separation of the righteous and the wicked. The angels, acting as reapers, will play a crucial role in escorting the saints to the heavenly realm and executing judgment on the unrighteous. This parable also stresses the importance of exercising prudential discipline rather than hasty punishment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5253026800385507,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                39.31,
+                24.88,
+                35.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devil, known as the enemy, is responsible for sowing the tares, symbolizing the children of the wicked one. According to this parable, the end of the world corresponds to Christ's second coming when the righteous and the wicked will be separated. The angels will serve as reapers, leading the saints into the heavenly kingdom and executing judgment upon the wicked. This parable advises caution and charity when addressing discipline, emphasizing the importance of exercising prudential rather than punitive measures.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.597029442991078,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                41.97,
+                24.43,
+                33.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

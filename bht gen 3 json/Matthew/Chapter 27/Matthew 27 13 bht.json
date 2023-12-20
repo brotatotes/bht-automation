@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:54:01",
+    "verseRef": "Matthew 27:13",
+    "bestBHT": {
+        "bht": "Falsely accused, he remained silent. The charges against him were repeated, accusing him of inciting the people and teaching throughout the region. His claim to be a king was not a political offense. Despite attempts to provoke a response, he did not engage in tricks. In the face of injustice, he chose silence, recognizing the futility of debating false accusations.",
+        "wordCount": 60,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.2308394593001712,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+        "commentatorTierSimilarities": [
+            0.0,
+            55.79,
+            44.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "They witness against thee - This means, rather, that they accused him.",
+            "These accusations were repeated and pressed.",
+            "They charged him with exciting the people, teaching throughout, all Judea from Galilee to Jerusalem, and exciting the nation to sedition, Luke 23:5."
+        ],
+        "Philip Schaff": [
+            "His claim to be a king was not a political offence.",
+            "He had stirred up the people, etc., but not to mutiny or for political purposes.",
+            "Honest advocates at the bar should avoid the tricks of these murderers of Christ."
+        ],
+        "John Gill": [
+            "Observing he made no reply to the accusations of the chief priests and elders...",
+            "...in order to draw something out of him.",
+            "...dost thou not consider the nature of these charges?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even when faced with false accusations, the accused chose to remain silent. The accusations against him were repeated and pressed, accusing him of exciting the people and teaching throughout the region. However, his claim to be a king was not a political offense, nor did he incite mutiny or stir up the people for political purposes. Despite the attempts to provoke a response, he did not engage in the tricks of those who sought his demise. In the face of injustice, he chose silence, perhaps recognizing the futile nature of engaging in a debate based on false charges.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.1968192884475226,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.14,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.07,
+                41.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even when faced with accusations, he chose silence. The accusations against him were repeated and pressed, accusing him of exciting the people and teaching throughout the region. However, his claim to be a king was not a political offense. Despite attempts to provoke a response, he did not engage in tricks. In the face of injustice, he chose silence, recognizing the futility of engaging in a debate based on false charges.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.1432671961216374,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.36,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.36,
+                44.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even when falsely accused, he maintained his silence. The accusations against him were repeated and pressed, alleging that he incited the people and taught throughout the land. However, his claim to be a king was not a political offense. Despite the attempt to provoke a response, he did not fall into the trap set by those seeking his destruction. In the face of unjust accusations, he chose not to engage, understanding the fruitlessness of debating against false charges.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.1835675635950944,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.9,
+                44.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even when faced with false accusations, he chose to remain silent. The accusations against him were repeated and pressed, accusing him of exciting the people and teaching throughout the region. However, his claim to be a king was not a political offense, nor did he incite mutiny or stir up the people for political purposes. Despite the attempts to provoke a response, he did not engage in the tricks of those who sought his demise. In the face of injustice, he chose silence, perhaps recognizing the futility of engaging in a debate based on false charges.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.1851270964643432,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.74,
+                41.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Falsely accused, he remained silent. The charges against him were repeated, accusing him of inciting the people and teaching throughout the region. His claim to be a king was not a political offense. Despite attempts to provoke a response, he did not engage in tricks. In the face of injustice, he chose silence, recognizing the futility of debating false accusations.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.2308394593001712,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.79,
+                44.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

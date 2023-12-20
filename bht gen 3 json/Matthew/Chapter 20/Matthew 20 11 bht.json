@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:50:15",
+    "verseRef": "Matthew 20:11",
+    "bestBHT": {
+        "bht": "When the workers received their wages, they expressed their discontent by grumbling and complaining against the householder. The word murmur itself carries the connotation of a sound that suits the meaning, perhaps similar to the grumbling and complaining we are familiar with. It is important to note that this expression of dissatisfaction does not necessarily indicate a moral failing, but rather a response to the disparities in compensation. The workers were dissatisfied with the perceived unfairness of their reward, highlighting the external privileges of the Gospel dispensation and the inheritance reserved for the sanctified.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.127094161556377,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.82,
+        "commentatorTierSimilarities": [
+            23.85,
+            24.61,
+            51.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "11. And when they had received it,",
+            "\tthey murmured against the goodman of the house\u2014rather, \"the",
+            "\thouseholder,\" the word being the same as in :-."
+        ],
+        "Albert Barnes": [
+            "Murmured - Complained; found fault with.",
+            "The goodman of the house - The original...should have been so translated here.",
+            "It expresses no moral quality."
+        ],
+        "Archibald T. Robertson": [
+            "They murmured (\u03b5\u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03bf\u03bd). Onomatopoetic word, the meaning suiting the sound.",
+            "Our words murmur and grumble are similar.",
+            "Probably here inchoative imperfect, began to grumble."
+        ],
+        "John Gill": [
+            "The external privileges of the Gospel dispensation, an inheritance among them that are sanctified..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the workers received their wages, they expressed their discontent by grumbling and complaining against the householder. The word murmur itself carries the connotation of a sound that suits the meaning, perhaps similar to the grumbling and complaining we are familiar with. It is important to note that this expression of dissatisfaction does not necessarily indicate a moral failing, but rather a response to the disparities in compensation. The workers were dissatisfied with the perceived unfairness of their reward, highlighting the external privileges of the Gospel dispensation and the inheritance reserved for the sanctified.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.127094161556377,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.82,
+            "commentatorTierSimilarities": [
+                23.85,
+                24.61,
+                51.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the workers received their wages, they murmured against the householder, expressing their discontent. This act of murmuring is akin to our own grumbling and complaining, as the onomatopoetic nature of the word suggests. It is important to note that this expression of dissatisfaction does not necessarily indicate a moral failing, but rather a response to perceived unfairness of their reward. This incident highlights the external privileges of the Gospel dispensation and the inheritance reserved for the sanctified.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.0997776510596229,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.91,
+            "commentatorTierSimilarities": [
+                18.51,
+                22.3,
+                59.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon receiving their wages, the workers began to murmur against the householder, murmuring being similar to grumbling and complaining. This grumbling was a response to their dissatisfaction with the perceived unfairness of their reward. It is worth noting that this discontent does not necessarily imply moral failure. The incident serves as a reminder of the external privileges associated with the Gospel dispensation and the inheritance that awaits the sanctified.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.1157453261229893,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.44,
+            "commentatorTierSimilarities": [
+                16.72,
+                26.0,
+                57.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the workers received their wages, they murmured against the householder, expressing their discontent. This act of murmuring is akin to our own grumbling and complaining, as the commentators suggest. It is essential to note that this expression of dissatisfaction does not necessarily indicate a moral failing, but rather a response to the perceived unfairness of their reward. The incident highlights the external privileges of the Gospel dispensation and serves as a reminder of the inheritance reserved for the sanctified.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.0772674925754313,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.16,
+            "commentatorTierSimilarities": [
+                17.68,
+                23.51,
+                58.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the workers received their wages, they murmured against the householder, expressing their discontent. This act of murmuring is akin to our own grumbling and complaining, as the first-tier commentary suggests. It is important to note that this expression of dissatisfaction does not necessarily indicate a moral failing, but rather a response to the perceived unfairness of their reward. The incident highlights the external privileges of the Gospel dispensation and serves as a reminder of the inheritance reserved for the sanctified, as mentioned in the third-tier commentary.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.0235865462813138,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.38,
+            "commentatorTierSimilarities": [
+                17.74,
+                27.0,
+                55.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

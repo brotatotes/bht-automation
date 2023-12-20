@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:53:22",
+    "verseRef": "Matthew 26:21",
+    "bestBHT": {
+        "bht": "During the Last Supper, Jesus made a startling announcement, revealing that one of his disciples would betray him. This announcement was recorded by Matthew, Mark, and John, highlighting the treachery of Judas. Despite partaking in the sacred meal with Jesus, Judas was harboring thoughts of betrayal. The enormity of this act is accentuated by the fact that it was committed by one of Jesus' intimate friends. While the exact sequence of events may vary among the Gospel accounts, the gravity of this moment remains deeply significant.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.3133589275101005,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.01,
+        "commentatorTierSimilarities": [
+            27.74,
+            37.25,
+            35.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This announcement is common to Matt., Mark, and John.",
+            "In the part of the events of the supper which relates to Judas, St. Luke is deficient.",
+            "The whole minute detail is given by St. John, who bore a considerable part in it."
+        ],
+        "John Calvin": [
+            "To render the treachery of Judas more detestable, he points out the aggravated baseness of it by this circumstance, that he was meditating the act of betraying him while he sat with him at the holy table.",
+            "For if a stranger had done this, it would have been more easily endured; but that one of his intimate friends should form such a design, and \u2014 what is more \u2014 that, after having entered into an infamous bargain, he should be present at the sacred banquet, was incredibly monstrous.",
+            "And though Luke adds this saying of Christ after the supper was finished, we cannot obtain from it any certainty as to the order of time, which, we know, was often disregarded by the Evangelists."
+        ],
+        "Philip Schaff": [
+            "This indefinite announcement would give Judas an opportunity of repentance.",
+            "But it produced no effect, except to startle and sadden them all.",
+            "The four Evangelists are entirely independent in their accounts of the Last Supper."
+        ],
+        "Archibald T. Robertson": [
+            "This was a bolt from the blue for all..."
+        ],
+        "John Gill": [
+            "it is an affirmative precept of the law, to declare the signs and wonders which were done to our fathers in Egypt",
+            "everyone that adds and enlarges in expounding this section, lo! he is praiseworthy",
+            "he said, verily I say unto you, that one of you shall betray me; meaning to the chief priests and Scribes, who should condemn him to death"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Last Supper, Jesus made an announcement that would soon shock his disciples. This revelation, mentioned by Matthew, Mark, and John, was not recorded by Luke, who focused more on other aspects of the supper. However, it was John who provided a detailed account of the events that unfolded. The betrayal that Jesus foretold was an act of incredible baseness, as Judas was both meditating on betraying Jesus and participating in the sacred meal. This treachery was even more detestable because it came from one of Jesus' closest friends. Although Luke presents this saying of Christ after the supper, it is important to note that the exact order of events may not be strictly adhered to by the Gospel writers. Nevertheless, the significance of this moment cannot be understated, and it serves as a reminder of the solemnity and gravity surrounding the act of betrayal.",
+            "wordCount": 146,
+            "quoteTokenProportion": 39.56,
+            "qualityScore": 1.2310599935588928,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.28,
+            "commentatorTierSimilarities": [
+                28.95,
+                31.69,
+                39.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Last Supper, Jesus made an announcement that would soon shock his disciples. This revelation, mentioned by Matthew, Mark, and John, was not recorded by Luke, who focused more on other aspects of the supper. The betrayal that Jesus foretold was an act of incredible baseness, as Judas was both meditating on betraying Jesus and participating in the sacred meal. The gravity of this moment is emphasized by the fact that it came from one of Jesus' closest friends, making it even more detestable. The exact order of events may not be strictly adhered to by the Gospel writers, but the significance of this act of betrayal remains undeniable.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2569067720688962,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.14,
+            "commentatorTierSimilarities": [
+                26.23,
+                34.81,
+                38.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Last Supper, Jesus shocked his disciples with a revelation that one of them would betray him. This announcement, mentioned by Matthew, Mark, and John, exposed the treachery of Judas. Despite sitting at the holy table with Jesus, Judas was contemplating his act of betrayal. The magnitude of this betrayal is heightened by the fact that it was committed by someone so close to Jesus. Although the exact order of events may differ among the Gospel writers, the solemnity of this moment remains unmistakable.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.3131681711934178,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.01,
+            "commentatorTierSimilarities": [
+                27.15,
+                36.68,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Last Supper, Jesus made a startling announcement, revealing that one of his disciples would betray him. This announcement was recorded by Matthew, Mark, and John, highlighting the treachery of Judas. Despite partaking in the sacred meal with Jesus, Judas was harboring thoughts of betrayal. The enormity of this act is accentuated by the fact that it was committed by one of Jesus' intimate friends. While the exact sequence of events may vary among the Gospel accounts, the gravity of this moment remains deeply significant.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3133589275101005,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.01,
+            "commentatorTierSimilarities": [
+                27.74,
+                37.25,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Last Supper, Jesus shocked his disciples by disclosing that one of them would betray him. This revelation, mentioned by Matthew, Mark, and John, underscored the heinousness of Judas' actions. Jesus' words highlighted the striking contradiction of Judas contemplating betrayal while seated at the holy table. The intimacy of their friendship made this act of treachery all the more abhorrent. While the sequence of events may differ slightly in the Gospel accounts, the profound significance of this moment remains resolute.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.228807632394041,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.2,
+            "commentatorTierSimilarities": [
+                23.98,
+                41.23,
+                34.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

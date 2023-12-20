@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:54:42",
+    "verseRef": "Matthew 28:3",
+    "bestBHT": {
+        "bht": "The angel's countenance, or appearance, was like lightning, and his raiment white as snow\u2014the one expressing the glory, the other the purity of the celestial abode from which he came. This appearance signifies the power and authority of the celestial realm and emphasizes the inability of human power to suppress the new faith that was born through the resurrection of Jesus Christ. The angel's radiant and dazzling appearance serves as a testament to the victory and triumph of Christ over death and the grave.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.9279068343038936,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+        "commentatorTierSimilarities": [
+            23.39,
+            27.91,
+            48.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] His appearance; not in shape (as some would explain it away), but in brightness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. His countenance\u2014appearance.",
+            "\t",
+            "was like lightning, and his",
+            "\traiment white as snow\u2014the one expressing the glory, the",
+            "\tother the purity of the celestial abode from which he came."
+        ],
+        "Albert Barnes": [
+            "His countenance - In our language the word 'countenance' refers to the 'face only;' in the original it refers to his 'whole person.' His 'general aspect, or the appearance of the angel himself,' was, etc.",
+            "Like lightning - Peculiarly bright and shining.",
+            "His raiment white as snow - Celestial beings are usually represented as clothed in white... White, among the Jews, was the symbol of 'purity or innocence.'"
+        ],
+        "Marvin Vincent": [
+            "Countenance [\u03b5\u03b9\u03b4\u03b5\u03b1] . Rev., more correctly, appearance... It does not refer to the face alone, but to the general aspect.",
+            "Matthew alone notes the outward glory, the earthquake, the agency of the angel, and the impotence of the military and priestly power to crush the new faith.",
+            "He only notices the adoration of the risen Lord before his ascension, and traces to its origin the calumny current among the Jews to this day."
+        ],
+        "Philip Schaff": [
+            "His appearance, rather than his form.",
+            "As lightning. In its exceeding brightness.",
+            "These angelic appearances cannot be regarded as visions. The accounts are too explicit."
+        ],
+        "Archibald T. Robertson": [
+            "Appearance (\u03b5\u03b9\u03b4\u03b5\u03b1). Here only in the N.T. Compare \u03bc\u03bf\u03c1\u03c6\u03b7 and \u03c3\u03c7\u03b7\u03bc\u03b1. "
+        ],
+        "John Gill": [
+            "His countenance was like lightning...such a lustre and brightness in his face, that it glittered like lightning.\" ",
+            "The angel appeared clad in white, as a token of the purity and innocence of his nature; and because of the victory and triumph of Christ over death and the grave.",
+            "The commonly received notion of the Jews, that ministering angels were clothed in white."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel's appearance in Matthew 28:3 is described as having a countenance or general aspect that was radiant, shining like lightning, and raiment as white as snow, symbolizing the glory and purity of his celestial abode. This appearance signifies the power and authority of the celestial realm and emphasizes the inability of human power to suppress the new faith that was born through the resurrection of Jesus Christ. The angel's radiant and dazzling appearance serves as a testament to the victory and triumph of Christ over death and the grave.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9104584678155891,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                22.76,
+                29.23,
+                48.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel's countenance, or appearance, was as radiant as lightning, and his raiment as white as snow, symbolizing the glory and purity of his celestial abode. This appearance demonstrates the power and authority of the celestial realm and highlights the inability of human power to suppress the new faith that arose from Christ's resurrection. The dazzling and triumphant nature of the angel's presence serves as a testament to the victory achieved by Christ over death and the grave.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.8588891312496774,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                21.87,
+                28.61,
+                49.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel's countenance, or appearance, was as bright as lightning, while his raiment was white as snow, revealing the celestial glory and purity from which he came. This extraordinary display of radiance emphasizes the angel's divine authority and power, transcending any human efforts to crush the burgeoning faith in the risen Lord. The brilliance and triumph of the angel's presence serve as a tangible testament to Christ's victory over death and the subsequent spread of the new faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8447186910885363,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "commentatorTierSimilarities": [
+                20.89,
+                28.48,
+                50.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's countenance, or appearance, was as radiant as lightning, while his raiment was white as snow, symbolizing the celestial glory and purity of his origin. This dazzling sight demonstrates the angel's divine power and authority, rendering human attempts to suppress the new faith futile. The brilliance of the angel's presence serves as a vivid testimony to the triumph and victory of Christ over death and the grave, inspiring awe and reinforcing the belief in the resurrection.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.8085131253312685,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+            "commentatorTierSimilarities": [
+                19.96,
+                29.5,
+                50.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel's countenance, or appearance, was like lightning, and his raiment white as snow\u2014the one expressing the glory, the other the purity of the celestial abode from which he came. This appearance signifies the power and authority of the celestial realm and emphasizes the inability of human power to suppress the new faith that was born through the resurrection of Jesus Christ. The angel's radiant and dazzling appearance serves as a testament to the victory and triumph of Christ over death and the grave.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9279068343038936,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                23.39,
+                27.91,
+                48.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

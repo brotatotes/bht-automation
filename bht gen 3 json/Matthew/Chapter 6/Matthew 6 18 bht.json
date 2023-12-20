@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 23:44:15",
+    "verseRef": "Matthew 6:18",
+    "bestBHT": {
+        "bht": "When it comes to fasting, Jesus encourages His disciples to do so in such a way that it is not obvious to others, but only known by the Father who sees in secret. The focus is on seeking God's approval rather than the approval of men. By keeping one's fasting hidden, it is a demonstration of one's faith and trust in God alone. And while fasting may seem like a hidden act, the Father acknowledges and rewards the dedication and sincerity behind it.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 1.5667446302528842,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+        "commentatorTierSimilarities": [
+            36.37,
+            23.89,
+            39.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.\" "
+        ],
+        "Philip Schaff": [
+            "That thou appear not, etc.",
+            "The usual preparations would leave men unaware that the disciple was fasting, but God...",
+            "...sees and rewards."
+        ],
+        "Archibald T. Robertson": [
+            "In secret (\u03b5\u03bd \u03c4\u03c9 \u03ba\u03c1\u03c5\u03c6\u03b1\u03b9\u03c9). Here as in Matthew 6:4; Matthew 6:6 the Textus Receptus adds \u03b5\u03bd \u03c4\u03c9 \u03c6\u03b1\u03bd\u03b5\u03c1\u03c9 (openly), but it is not genuine.",
+            "The word \u03ba\u03c1\u03c5\u03c6\u03b1\u03b9\u03bf\u03c2 is here alone in the New Testament, but occurs four times in the Septuagint."
+        ],
+        "John Gill": [
+            "But Christ directs to such sorts of fasting, and which is to be done in such a manner, as only to be seen by God.",
+            "Thy Father which seeth in secret, shall reward thee openly.",
+            "To have honour from God is infinitely more than to have the applause of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to fasting, Jesus encourages His disciples to do so in such a way that it is not obvious to others, but only known by the Father who sees in secret. The focus is on seeking God's approval rather than the approval of men. By keeping one's fasting hidden, it is a demonstration of one's faith and trust in God alone. And while fasting may seem like a hidden act, the Father acknowledges and rewards the dedication and sincerity behind it. Ultimately, receiving honor from God far outweighs any praise or recognition from others.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.4980649350179704,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                34.29,
+                24.37,
+                41.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When it comes to fasting, Jesus encourages His disciples to do so in such a way that it is not obvious to others, but only known by the Father who sees in secret. The focus is on seeking God's approval rather than the approval of men. By keeping one's fasting hidden, it is a demonstration of one's faith and trust in God alone. And while fasting may seem like a hidden act, the Father acknowledges and rewards the dedication and sincerity behind it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.5667446302528842,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                36.37,
+                23.89,
+                39.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches His disciples to fast in secret, not seeking the approval of others but focusing on the approval of the Father who sees everything. By fasting without drawing attention to oneself, they demonstrate their genuine faith and trust in God. While fasting may appear to be a private act, it holds great significance in the eyes of the Father. He appreciates the sincerity and devotion behind it and promises to reward openly those who seek His approval rather than the praise of men.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.4633600975553143,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                37.73,
+                23.37,
+                38.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus urges His disciples to fast in secret, not seeking the recognition of others but solely desiring the approval of the Father who observes everything. By fasting discreetly, they exhibit their true faith and reliance on God. Though fasting seems to be a hidden practice, it carries immense importance to the Father. He genuinely values the authenticity and commitment demonstrated in this act, promising to openly reward those who seek His endorsement rather than the applause of humanity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4085746599068252,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+            "commentatorTierSimilarities": [
+                36.8,
+                22.15,
+                41.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus instructs His disciples to fast privately, avoiding the need for applause from others and instead focusing on gaining the Father's approval. By fasting in secret, they demonstrate genuine faith and reliance on God alone. Despite the concealed nature of fasting, the Father recognizes its significance, promising open rewards for those who seek His endorsement rather than the praises of people. Ultimately, receiving honor from God holds far greater value than any fleeting admiration from humanity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.4501203386098347,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.56,
+            "commentatorTierSimilarities": [
+                36.12,
+                21.3,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

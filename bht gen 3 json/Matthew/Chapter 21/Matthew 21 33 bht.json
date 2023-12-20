@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:51:16",
+    "verseRef": "Matthew 21:33",
+    "bestBHT": {
+        "bht": "This parable is based on the vineyard described in Isaiah 5:1-7, representing the nation of Israel. The vineyard symbolizes the people entrusted with cultivating righteousness, while the hedge serves as protection and the tower represents watchmen guarding it. The spiritual guides, or vine dressers, were expected to care for the vineyard. The parable highlights the ingratitude and wickedness of these leaders who sought to defraud God. It warns that those who reject God's authority and mistreat His vineyard will not go unpunished.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.7671764152741978,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+        "commentatorTierSimilarities": [
+            29.8,
+            35.38,
+            34.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "These details are taken, as is the basis of the parable itself, from that beautiful parable of Isaiah 5:1-7, in order to fix down the application and sustain it by Old Testament authority.",
+            "These are just the ordinary spiritual guides of the people, under whose care and culture the fruits of righteousness are expected to spring up.",
+            "Leaving the vineyard to the laws of the spiritual husbandry during the whole time of the Jewish economy."
+        ],
+        "Marvin Vincent": [
+            "Set a hedge about it; possibly of the thorny wild aloe, common in the East.",
+            "The tower alluded to in this passage would seem to have been of a more permanent character.",
+            "There can scarcely be a doubt that it is the latter kind of lease which is referred to in the parable."
+        ],
+        "John Calvin": [
+            "The substance of this parable is, that it is no new thing, if the priests and the other rulers of the Church wickedly endeavor to defraud God of his right.",
+            "But they will not go unpunished, for God will arise to defend his right.",
+            "Christ says that the vineyard was well furnished, and in excellent condition, when the husbandmen received it from the hands of the proprietor. By this statement he presents no slight aggravation of their crime; for the more generously he had acted toward them, the more detestable was their ingratitude."
+        ],
+        "Philip Schaff": [
+            "This parable points out the crime to which their enmity was leading them, though still spoken in love.",
+            "God had separated His people from other nations, and guarded them from heathen influences, by the law and by external marks of distinction.",
+            "This represents the provision made by God for the protection and prosperity of His people, especially the Old Testament Church."
+        ],
+        "Archibald T. Robertson": [
+            "A hedge (\u03c6\u03c1\u03b1\u03b3\u03bc\u03bf\u03bd). Or fence as a protection against wild beasts.",
+            "Digged a winepress (\u03c9\u03c1\u03c5\u03be\u03b5\u03bd \u03bb\u03b7\u03bd\u03bf\u03bd). Out of the solid rock to hold the grapes and wine as they were crushed. Such wine-vats are to be seen today in Palestine.",
+            "Built a tower (\u03c9\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b7\u03c3\u03b5\u03bd \u03c0\u03c5\u03c1\u03b3\u03bf\u03bd). This for the vinedressers and watchmen (2 Chronicles 26:10). Utmost care was thus taken."
+        ],
+        "John Gill": [
+            "By this vineyard is meant, the house of Israel and the men of Judah, the nation of the Jews, as in Isaiah 5:7 from whence our Lord seems to have taken many of the ideas expressed in this parable.",
+            "By this \"hedge\" is designed, either the law, not the oral law, or the traditions of the elders, which the Jews call \u05e1\u05d9\u05d2 \u05dc\u05ea\u05d5\u05e8\u05d4, 'an hedge for the law', which was none of God's setting, but their own; but either the ceremonial law, which distinguished them from other people, was a middle wall of partition between them, and the nations of the world, and kept them from coming among them, and joining together; or the moral law, which taught them their duty to God and man, and was the means of keeping them within due bounds; or else the protection of them by the power of God, which was an hedge about them, is here intended.",
+            "By this may be meant, the city or Jerusalem, which stood in the midst, and on the highest part of the land of Israel; or the temple, which stood on the highest part of Jerusalem, where the priests and Levites kept their watch every night; and so the Targumist interprets it, by \u05de\u05e7\u05d3\u05e9\u05d9, 'my sanctuary I built among them': that is, the temple."
+        ],
+        "John Wesley": [
+            "A certain householder planted a vineyard \u2014 God planted the Church in Canaan; and hedged it round about - First with the law, then with his peculiar providence.",
+            "and digged a wine press - Perhaps it may mean Jerusalem: and built a tower - The temple.",
+            "and went into a far country - That is, left the keepers of his vineyard, in some measure, to behave as they should see good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This parable draws upon Isaiah 5:1-7, where the vineyard is symbolic of the nation of Israel. The vineyard represents the people who were responsible for cultivating righteousness. The hedge around the vineyard serves as protection, and the tower signifies the watchmen who were supposed to guard it. The vine dressers represent the spiritual guides of the people, who were entrusted with the care of the vineyard. The parable emphasizes the ingratitude and wickedness of the spiritual leaders who sought to defraud God of his rights. It also highlights God's generous provision and protection for his people. Ultimately, this parable warns that those who reject God's authority and mistreat His vineyard will not go unpunished.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.7885438611585158,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                28.62,
+                37.95,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This parable is based on the vineyard described in Isaiah 5:1-7, representing the nation of Israel. The vineyard symbolizes the people entrusted with cultivating righteousness, while the hedge serves as protection and the tower represents watchmen guarding it. The spiritual guides, or vine dressers, were expected to care for the vineyard. The parable highlights the ingratitude and wickedness of these leaders who sought to defraud God. It warns that those who reject God's authority and mistreat His vineyard will not go unpunished.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7671764152741978,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                29.8,
+                35.38,
+                34.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Drawing from the parable in Isaiah 5:1-7, this passage depicts the vineyard as a symbol for the nation of Israel. The vineyard represents the people responsible for cultivating righteousness, with the hedge offering protection and the tower serving as a watchtower. The spiritual guides, or vine dressers, were expected to care for the vineyard. The parable reveals the ingratitude and wickedness of these leaders who sought to defraud God. It warns that those who reject God's authority and wrongfully mistreat His vineyard will not escape retribution.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7642788328138388,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.0,
+            "commentatorTierSimilarities": [
+                29.87,
+                34.99,
+                35.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Based on the parable in Isaiah 5:1-7, this verse portrays the vineyard as a representation of Israel. The vineyard represents the people entrusted with cultivating righteousness, while the hedge provides protection and the tower symbolizes watchmen. The spiritual guides, or vine dressers, were tasked with caring for the vineyard. This parable exposes the ingratitude and wickedness of these leaders who attempted to defraud God. It serves as a warning that those who reject God's authority and mistreat His vineyard will face inevitable consequences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7855520521713415,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                30.24,
+                35.75,
+                34.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Based on the parable in Isaiah 5:1-7, this passage portrays the vineyard as a symbol for Israel. The vineyard represents the people responsible for cultivating righteousness, with the hedge offering protection and the tower serving as a watchtower. The spiritual guides, or vine dressers, were expected to care for the vineyard. The parable unveils the ingratitude and wickedness of these leaders who sought to defraud God. It warns that those who reject God's authority and mistreat His vineyard will not escape punishment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7675156152876,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+            "commentatorTierSimilarities": [
+                30.7,
+                33.98,
+                35.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

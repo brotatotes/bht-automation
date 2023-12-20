@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:51:19",
+    "verseRef": "Matthew 22:35",
+    "bestBHT": {
+        "bht": "A lawyer, one of the Mosaic jurists who interpreted the law, asked Jesus a tempting question to test his understanding. The lawyer's intention was to trap Jesus and expose him as an ignorant man. However, Jesus's answer not only counters the question but also demonstrates his profound wisdom in addressing the distinction between the great and small commandments. It becomes clear that the seemingly innocent question was a snare, and Jesus's response triumphantly reveals his knowledge and understanding of the law.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.6444723438182676,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+        "commentatorTierSimilarities": [
+            39.85,
+            30.66,
+            29.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35. a lawyer] These were Mosaic jurists, whose special province was the interpretation of the Law. Scribe is a wider term, including them. tempting] See above."
+        ],
+        "Philip Schaff": [
+            "The temptation lay in the distinction of the great and small commandments...any answer would place our Lord in opposition to some party. This makes the attack very weak.",
+            "The seemingly innocent question becomes the greatest temptation. They expected by His answer, either to disprove His Messiahship, or to find in His own words a basis for the charge of blasphemy in making Himself the Son of God.",
+            "The answer thus prepares the way for His triumphant counter-question."
+        ],
+        "John Gill": [
+            "Then one of them, which was a lawyer...asked him a question, tempting him, and saying: he put a difficult and knotty question to him, and thereby making a trial of his knowledge and understanding of the law.\" ",
+            "And laying a snare for him, to entrap him if he could, and expose him to the people, as a very ignorant man.",
+            "This man was one of them, one that interpreted the law to the people."
+        ],
+        "John Wesley": [
+            "A scribe asking him a question, trying him.\" ",
+            "Not, as it seems, with any ill design.",
+            "Barely to make a farther trial of that wisdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A lawyer, who was one of the Mosaic jurists and interpreters of the Law, asked Jesus a tempting question to test his knowledge and understanding. The lawyer wanted to expose Jesus as an ignorant man or even disprove his Messiahship. The seemingly innocent question was a snare, meant to lay a trap for Jesus. However, Jesus's answer not only triumphantly counters the question, but it also addresses the distinction between the great and small commandments, showing his profound wisdom and understanding of the law.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5459353958396245,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                39.56,
+                30.15,
+                30.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A lawyer, one of the Mosaic jurists who interpreted the law, asked Jesus a tempting question to test his understanding. The lawyer's intention was to trap Jesus and expose him as an ignorant man. However, Jesus's answer not only counters the question but also demonstrates his profound wisdom in addressing the distinction between the great and small commandments. It becomes clear that the seemingly innocent question was a snare, and Jesus's response triumphantly reveals his knowledge and understanding of the law.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6444723438182676,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                39.85,
+                30.66,
+                29.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A lawyer, one of the Mosaic jurists who interpreted the law, asked Jesus a tempting question to test his understanding. The lawyer's intention was to trap Jesus and expose him as an ignorant man. However, Jesus's answer not only counters the question but also demonstrates his profound wisdom in addressing the distinction between the great and small commandments. It becomes clear that the seemingly innocent question was a snare, and Jesus's response triumphantly reveals his knowledge and understanding of the law.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6444723438182676,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                39.85,
+                30.66,
+                29.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A lawyer, one of the Mosaic jurists, tempted Jesus by asking him a knotty question to test his knowledge and understanding of the law. The lawyer wanted to expose Jesus as an ignorant man or disprove his Messiahship. However, Jesus's wise and triumphant answer not only counters the question but also addresses the distinction between the great and small commandments. The seemingly innocent question was a snare, but Jesus's response showcases his profound wisdom and knowledge of the law.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.5614081588715387,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.26,
+            "commentatorTierSimilarities": [
+                38.02,
+                32.94,
+                29.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A lawyer, one of the Mosaic jurists, tempted Jesus by asking him a knotty question to test his knowledge and understanding of the law. The lawyer wanted to expose Jesus as an ignorant man or disprove his Messiahship. However, Jesus's wise and triumphant answer not only counters the question but also addresses the distinction between the great and small commandments. It becomes clear that the seemingly innocent question was a snare, and Jesus's response reveals his profound wisdom and knowledge of the law.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5140114638371673,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                36.11,
+                34.03,
+                29.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

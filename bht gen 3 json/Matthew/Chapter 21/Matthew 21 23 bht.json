@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:50:50",
+    "verseRef": "Matthew 21:23",
+    "bestBHT": {
+        "bht": "The religious authorities confronted Jesus and openly challenged His authority, demanding to know by what authority He was carrying out these actions, specifically mentioning the expulsion of the buyers and sellers from the temple. This challenge not only questioned His teachings, but also sought to undermine His ministry and bring it into contempt. It reflects their malicious intent to create doubt in the minds of the people, disregarding the undeniable miracles and displays of divine authority they had witnessed, and attacking His commission and authority.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.210536238852686,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.59,
+        "commentatorTierSimilarities": [
+            12.78,
+            36.68,
+            50.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23. By what authority doest thou",
+            "\tthese things!\u2014referring particularly to the expulsion of the",
+            "\tbuyers and sellers from the temple, ",
+            "\t",
+            "and who gave thee this",
+            "\tauthority?"
+        ],
+        "John Calvin": [
+            "They do not debate with him as to the doctrine itself, whether it was true or not\u2014for already had they often enough attacked him in vain on that question\u2014but they raise a dispute as to his calling and commission.",
+            "They act maliciously and wickedly in inquiring whence he came, as if they had been ignorant of all that he had done.",
+            "What could be more unreasonable than that, after seeing the hand of God openly displayed in curing the lame and blind, they should doubt if he were a private individual who had rashly assumed this authority?"
+        ],
+        "Philip Schaff": [
+            "By what authority doest thou these things! Referring both to His teaching there, and to His cleansing of the temple on the previous day. They were the proper persons to challenge His authority.",
+            "And who gave thee, etc. 'Even if you assume to be a prophet, who sent you?' A hint at the old charge of Satanic power.",
+            "A hint at the old charge of Satanic power."
+        ],
+        "John Gill": [
+            "The principal members of it, if not the whole sanhedrim, came in a body together, if possible, by their presence and authority, to daunt Christ, discourage his ministry, bring it into contempt with the people, and stop his proceedings and success.",
+            "They do not object to his doctrines, or dispute whether they were true or false; nor examine his miracles, whether they were of God, or of the devil: in these points they might fear he would be able to put them to silence and confusion, of which some of them had had an experience before; but they proceed in another way, in which they might hope for success, and attack him about his commission and authority under which he acted, whether he pretended to derive his authority from God, or from men.",
+            "Should he say that God gave him the authority to do these things, they would charge him with enthusiasm and blasphemy, urging, that it was wickedness and presumption any man to pretend to be sent immediately from God; since the order of the priesthood, and of teaching was fixed, and none were to take upon them the office of a priest, or of a teacher of the people, but by their appointment."
+        ],
+        "John Wesley": [
+            "Who thought he violated their right: and the elders of the people.",
+            "These, with the chief priests, seem purposely to have appeared in a considerable company, to give the more weight to what they said, and if need were, to bear a united testimony against him.",
+            "By what authority dost thou these things \u2014 Publicly teach the people!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious authorities approached Jesus and challenged His authority, questioning by what authority He was doing these things. They specifically referred to His expulsion of the buyers and sellers from the temple. This challenge not only questioned His teaching but also His actions in cleansing the temple. It was a direct challenge to His commission and calling, aiming to undermine His ministry and bring it into contempt. The religious leaders, acting maliciously, attempted to create doubt in the minds of the people, despite the undeniable miracles and displays of divine authority they had witnessed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.123777676127061,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.71,
+            "commentatorTierSimilarities": [
+                15.88,
+                36.46,
+                47.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious authorities questioned Jesus' authority, specifically referring to His expulsion of the buyers and sellers from the temple. This challenge aimed to undermine His ministry and bring it into contempt. It was an attempt to create doubt in the minds of the people, despite the undeniable miracles and displays of divine authority they had witnessed. The religious leaders acted maliciously, disregarding the truth of His doctrine and miracles, and instead attacked His commission and authority.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.1057584268069167,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.11,
+            "commentatorTierSimilarities": [
+                13.47,
+                36.22,
+                50.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious authorities approached Jesus and challenged His authority, questioning by what authority He was doing these things. They specifically referred to His expulsion of the buyers and sellers from the temple. This challenge not only questioned His teaching but also His actions in cleansing the temple. It was a direct challenge to His commission and calling, aiming to undermine His ministry and bring it into contempt. The religious leaders, acting maliciously, attempted to create doubt in the minds of the people, despite the undeniable miracles and displays of divine authority they had witnessed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.123777676127061,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.71,
+            "commentatorTierSimilarities": [
+                15.88,
+                36.46,
+                47.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious authorities questioned Jesus' authority, specifically referring to His expulsion of the buyers and sellers from the temple. This challenge aimed to undermine His ministry and bring it into contempt. It was an attempt to create doubt in the minds of the people, despite the undeniable miracles and displays of divine authority they had witnessed. The religious leaders acted maliciously, disregarding the truth of His doctrine and miracles, and instead attacked His commission and authority.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.1057584268069167,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.11,
+            "commentatorTierSimilarities": [
+                13.47,
+                36.22,
+                50.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious authorities confronted Jesus and openly challenged His authority, demanding to know by what authority He was carrying out these actions, specifically mentioning the expulsion of the buyers and sellers from the temple. This challenge not only questioned His teachings, but also sought to undermine His ministry and bring it into contempt. It reflects their malicious intent to create doubt in the minds of the people, disregarding the undeniable miracles and displays of divine authority they had witnessed, and attacking His commission and authority.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.210536238852686,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.59,
+            "commentatorTierSimilarities": [
+                12.78,
+                36.68,
+                50.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

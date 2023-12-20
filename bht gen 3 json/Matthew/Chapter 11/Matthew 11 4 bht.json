@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:46:13",
+    "verseRef": "Matthew 11:4",
+    "bestBHT": {
+        "bht": "The disciples were given a symbolic message to deliver to John the Baptist, asking him to interpret what they had witnessed. They were tasked with recounting the preaching of the Gospel to the poor and the miracles they had personally seen, including the healing of various ailments. These tangible demonstrations of Jesus\u2019 power serve as proof of his identity as the Messiah, portraying him as a spiritual physician who offers deliverance and salvation to sinners. Through this message, the disciples encouraged humility and invited others to have confidence in Jesus' grace.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.443954263573721,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+        "commentatorTierSimilarities": [
+            38.94,
+            25.69,
+            35.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "He speaks, no doubt, of spiritual deliverance from all diseases and remedies; but under outward symbols, as has been already mentioned, Christ shows that he came as a spiritual physician to cure souls.\" ",
+            "This passage is purposely quoted by Christ, partly to teach all his followers the first lesson of humility, and partly to remove the offense which the flesh and sense might be apt to raise against his despicable flock.",
+            "As Christ here guards his Gospel against contempt, he likewise reminds us who they are that are qualified to appreciate the grace of salvation which it offers to them; and in this manner, kindly inviting wretched sinners to the hope of salvation, raises them to full confidence."
+        ],
+        "Philip Schaff": [
+            "Matthew 11:4. Go and tell John, etc. Our Lord sends a message to John, but does not instruct his disciples.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The things which ye do hear and see (\u03b1 \u03b1\u03ba\u03bf\u03c5\u03b5\u03c4\u03b5 \u03ba\u03b1 \u03b2\u03bb\u03b5\u03c0\u03b5\u03c4\u03b5). This symbolical message was for John to interpret, not for them. "
+        ],
+        "John Gill": [
+            "He bids them go, and show John again, those things which ye do hear and see.",
+            "Relate to him the doctrines which they had heard preached by him to the poor; and the miracles which they had seen with their own eyes.",
+            "There were at that time about Christ, that had infirmities, plagues, and evil spirits, and that were blind, and he instantly cured them in their presence."
+        ],
+        "John Wesley": [
+            "Go and tell John the things that ye hear and see.\" ",
+            "Which are a stronger proof of my being the Messiah.",
+            "Than any bare assertion can be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples of Jesus were sent to deliver a symbolic message to John the Baptist, asking him to interpret what they had heard and seen. Jesus instructs them to go and tell John the things that they had witnessed \u2013 the preaching of the Gospel to the poor and the miracles they had personally observed, including the healing of infirmities, plagues, evil spirits, and blindness. By referring to these tangible demonstrations, Jesus showcases his power as a spiritual physician who has come to cure souls. Through this message, he both encourages humility and invites sinners to have full confidence in the salvation offered through his grace.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.5155155746674558,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                41.26,
+                23.39,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples of Jesus were instructed to relay a symbolic message to John the Baptist, asking him to interpret what they had witnessed. They were to convey the preaching of the Gospel to the poor and the miracles they had personally seen, such as the healing of infirmities, plagues, evil spirits, and blindness. This served as a powerful proof of Jesus being the Messiah and highlighted his role as a spiritual physician, curing souls through his grace and inviting sinners to find hope and salvation in him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4239536922750393,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.69,
+            "commentatorTierSimilarities": [
+                39.92,
+                21.73,
+                38.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples of Jesus were sent with a symbolic message for John the Baptist, telling him to interpret what they had witnessed. They were to describe the preaching of the Gospel to the poor and the miracles they had seen, which included healing various afflictions. These tangible demonstrations of Jesus' power as a spiritual physician underscored his role as the Messiah. By relaying these experiences, the disciples invited sinners to find confidence and hope in the salvation offered through Jesus' grace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4434847563000481,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "commentatorTierSimilarities": [
+                39.81,
+                25.05,
+                35.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were given a symbolic message to deliver to John the Baptist, asking him to interpret what they had witnessed. They were tasked with recounting the preaching of the Gospel to the poor and the miracles they had personally seen, including the healing of various ailments. These tangible demonstrations of Jesus\u2019 power serve as proof of his identity as the Messiah, portraying him as a spiritual physician who offers deliverance and salvation to sinners. Through this message, the disciples encouraged humility and invited others to have confidence in Jesus' grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.443954263573721,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                38.94,
+                25.69,
+                35.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were sent with a symbolic message for John the Baptist, recounting what they had witnessed. They were to describe the preaching of the Gospel to the poor and the miracles they had seen, including healing various afflictions. These demonstrations of Jesus' power as a spiritual physician showed that he was the Messiah and offered hope and salvation to sinners. By delivering this message, the disciples encouraged humility and invited others to have confidence in the grace of Jesus' salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4364055910782716,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "commentatorTierSimilarities": [
+                39.76,
+                24.37,
+                35.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

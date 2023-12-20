@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 23:42:16",
+    "verseRef": "Matthew 2:21",
+    "bestBHT": {
+        "bht": "After their escape to Egypt, Joseph intended to return to Bethlehem of Judea, where he planned to rear the Infant King in His own royal city, as evident from the subsequent verses. Jerusalem, as 'the city of the Great King,' was the anticipated place for Jesus to occupy. Joseph's ready and cheerful obedience to God's commands sets an example worthy of imitation. As Mary's husband, he faithfully preserved, protected, and provided for her and the young child, fulfilling God's purpose.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.8116437534179024,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+        "commentatorTierSimilarities": [
+            42.61,
+            25.12,
+            32.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Intending, as is plain from what follows, to return to Bethlehem of Judea, there, no doubt, to rear the Infant King, as at His own royal city.",
+            "Until the time should come when they would expect Him to occupy Jerusalem, 'the city of the Great King.'",
+            "To return to Bethlehem of Judea, there, no doubt, to rear the Infant King, as at His own royal city."
+        ],
+        "Philip Schaff": [
+            "Matthew 2:21. The land of Israel included Galilee, but Judea would be reached first on the return."
+        ],
+        "John Gill": [
+            "He exactly conformed in every circumstance to the orders given him... an example of ready and cheerful obedience to the commands of God, worthy of imitation.",
+            "Mary was a virgin, and even if she was to continue so, yet she must be espoused to Joseph as her husband; that she might have one to take care of her and her young child...",
+            "He... be a means, under God, of preserving, protecting, and providing for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After fleeing to Egypt to escape Herod's wrath, Joseph had the intention to return to Bethlehem of Judea, where he intended to rear the Infant King in His own royal city. The time would come when Jerusalem, referred to as 'the city of the Great King,' was expected to be the place for Jesus to occupy. Joseph's obedience to the command of God was evident in his every action, providing a faithful example for others to follow. As Mary's husband, he was committed to protecting and providing for her and the young child.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7651202316391248,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                43.36,
+                24.02,
+                32.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After fleeing to Egypt, Joseph had the intention to return to Bethlehem of Judea, rearing the Infant King in His own royal city. Jerusalem, known as 'the city of the Great King,' was the expected place for Jesus to occupy. Joseph's obedient example demonstrated his readiness to fulfill God's commands. As Mary's husband, he was devoted to protecting and providing for her and the young child, serving as a means, under God, to ensure their well-being.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.7849488745654893,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                43.16,
+                24.61,
+                32.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Intending to return to Bethlehem of Judea, Joseph planned to rear the Infant King in His own royal city, as is revealed in the subsequent verses. Jerusalem, referred to as 'the city of the Great King,' would be the expected place for Jesus to occupy. Joseph's prompt and cheerful obedience to the commands of God serves as an exemplary model for believers to follow. As Mary's husband, he played an essential role in protecting and providing for her and the young child, ensuring their preservation under God's care.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.788092652797367,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                43.51,
+                26.46,
+                30.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After their escape to Egypt, Joseph intended to return to Bethlehem of Judea, where he planned to rear the Infant King in His own royal city, as evident from the subsequent verses. Jerusalem, as 'the city of the Great King,' was the anticipated place for Jesus to occupy. Joseph's ready and cheerful obedience to God's commands sets an example worthy of imitation. As Mary's husband, he faithfully preserved, protected, and provided for her and the young child, fulfilling God's purpose.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8116437534179024,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                42.61,
+                25.12,
+                32.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After fleeing to Egypt to escape Herod's wrath, Joseph intended to return to Bethlehem of Judea, where he planned to rear the Infant King in His own royal city. Jerusalem, referred to as 'the city of the Great King,' would be the expected place for Jesus to occupy. Joseph's obedience to God's commands serves as an example of ready and cheerful obedience, worthy of imitation. As Mary's husband, he played a vital role in preserving, protecting, and providing for them, a means under God's care.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7784343849087354,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                41.96,
+                25.03,
+                33.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

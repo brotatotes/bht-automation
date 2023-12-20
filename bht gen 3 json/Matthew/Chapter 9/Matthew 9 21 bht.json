@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:45:20",
+    "verseRef": "Matthew 9:21",
+    "bestBHT": {
+        "bht": "A woman who had been suffering for twelve years firmly believed that if she could touch any part of Jesus' clothes, she would be healed. This woman had exhausted all other avenues of treatment, but she had faith that Jesus held the power to bring about her healing. Her faith was so strong that she reasoned within herself that by touching Jesus, she would be saved from her desperate condition. She trusted that Jesus had the ability to cure her where others had failed.",
+        "wordCount": 84,
+        "quoteTokenProportion": 53.45,
+        "qualityScore": 1.4317646312716286,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+        "commentatorTierSimilarities": [
+            0.0,
+            40.56,
+            59.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "She may have looked for some magical influence, but twelve years in the hands of physicians in those days would certainly excuse such a thought in a weak woman.",
+            "If I do but touch, etc. 'May' should be omitted; she was timid, not doubtful.",
+            "It is implied that she wished only to touch some part of His clothes, no matter which."
+        ],
+        "John Gill": [
+            "For she said within herself,.... That is, she thought within herself, she reasoned the matter in her mind, she concluded upon it, and firmly believed it...",
+            "Her faith was, that if she might be allowed, or if she could by any means come at him, to touch any part of his garment, she should have a cure...",
+            "I shall be whole, or 'I shall be saved'; that is, from her disease, from which she could have no deliverance, by the advice and prescriptions of all her former physicians, and by all the means she had made use of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A woman who had been suffering from a hemorrhage for twelve years believed that if she could just touch Jesus' clothes, she would be healed. This shows the depth of her faith and her determination to find a cure, even after trying various treatments without success. By having this confident and steadfast belief, she hoped for complete healing from her long-standing illness. Her trust in Jesus' power was so strong that she did not doubt or question, she simply knew that if she could just touch Him, she would finally be saved from her affliction.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.313990489089756,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.51,
+                59.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A woman who had been suffering for twelve years firmly believed that if she could touch any part of Jesus' clothes, she would be healed. This woman had exhausted all other avenues of treatment, but she had faith that Jesus held the power to bring about her healing. Her faith was so strong that she reasoned within herself that by touching Jesus, she would be saved from her desperate condition. She trusted that Jesus had the ability to cure her where others had failed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.4317646312716286,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.56,
+                59.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A woman who had endured a hemorrhage for twelve years was convinced that if she could just touch Jesus' clothes, she would be healed. Her unwavering faith led her to believe that this simple act would bring about her salvation from the disease that had eluded medical treatment. Despite her past disappointments, she held onto the hope that Jesus possessed the power to deliver her from her affliction. Her resolute belief in the transformative touch of Jesus' garments propelled her forward in pursuit of healing.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2582464060839016,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.3,
+                59.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A woman who had been suffering from a hemorrhage for twelve years believed that if she could just touch Jesus' clothes, she would be healed. This shows the depth of her faith and her determination to find a cure, even after trying various treatments without success. By having this confident and steadfast belief, she hoped for complete healing from her long-standing illness. Her trust in Jesus' power was so strong that she did not doubt or question, she simply knew that if she could just touch Him, she would finally be saved from her affliction.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.313990489089756,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                40.51,
+                59.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A woman who had suffered for twelve years believed that by touching any part of Jesus' garment, she would find healing. Her unwavering faith led her to reason within herself that this act would bring about her cure. After exhausting all other means of treatment, she put her trust in Jesus, confidently convinced that He held the power to save her from her affliction. Her resolute belief in the transformative touch of Jesus' clothes propelled her toward the hope of complete restoration.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.2021213469762355,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.76,
+                62.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

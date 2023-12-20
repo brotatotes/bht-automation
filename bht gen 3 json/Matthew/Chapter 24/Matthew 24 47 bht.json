@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:52:26",
+    "verseRef": "Matthew 24:47",
+    "bestBHT": {
+        "bht": "The faithful servant diligently serves his lord and is rewarded with blessings and promotion, becoming the possessor of the full inheritance. This heavenly promotion differs from earthly ones, as the more each person receives, the more there is for all. This truth is dependable and certain, ensuring that the servant will receive greater gifts, including an abundance of Gospel light and knowledge. In the other world, the servant will inherit all things, experiencing the fullness of glory, happiness, and bliss.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.8383832604766,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+        "commentatorTierSimilarities": [
+            0.0,
+            56.51,
+            43.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The servant, faithful up to the unexpected arrival of his lord, is rewarded, and is called 'blessed'.\" ",
+            "The reward is promotion to be possessor of the full inheritance.\" ",
+            "That promotion shall not be like earthly promotion...the more each has, the more there is for all."
+        ],
+        "John Gill": [
+            "Nothing is a greater truth, more certain, or to be depended on, than this.",
+            "Will honour him with greater gifts, bestow a larger degree of Gospel light and knowledge on him.",
+            "Cause him to inherit all things in the other world, all glory, happiness, and bliss."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The faithful servant in Matthew 24:47 is commended for being loyal and diligent in the absence of his lord. This servant is ultimately rewarded with promotion and blessedness, receiving a full inheritance. The reward is not comparable to earthly promotions because in God's kingdom, the more each person receives, the more there is for all. This truth is certain and dependable, and the faithful servant will be honored with greater gifts and inherit all things in the other world, including glory, happiness, and bliss.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7745045277155433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.96,
+                38.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The faithful servant in this passage is praised for his unwavering devotion and diligence in serving his lord. He is promised a reward, being blessed and promoted to possess the full inheritance. This promotion differs from earthly promotions, as the more each person receives, the more there is for all. This truth is steadfast and reliable, ensuring that the servant will be honored with greater gifts and will inherit everything in the other world, including glory, happiness, and bliss.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7745804768108744,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.35,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.5,
+                38.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The faithful servant is commended for his loyalty and diligence in serving his lord. He will be rewarded, receiving blessings and a promotion, becoming the possessor of the full inheritance. The reward he receives is unlike earthly promotions, as in God's kingdom, the more each person has, the more there is for all. This truth is certain and reliable. The faithful servant will be honored with greater gifts, including a larger degree of Gospel light and knowledge. He will inherit all things in the other world, including glory, happiness, and bliss.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6201159220609762,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.1,
+                47.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The faithful servant diligently serves his lord and is rewarded with blessings and promotion, becoming the possessor of the full inheritance. This heavenly promotion differs from earthly ones, as the more each person receives, the more there is for all. This truth is dependable and certain, ensuring that the servant will receive greater gifts, including an abundance of Gospel light and knowledge. In the other world, the servant will inherit all things, experiencing the fullness of glory, happiness, and bliss.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8383832604766,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.51,
+                43.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The faithful servant in Matthew 24:47 is commended for being loyal and diligent in serving his lord. This servant is ultimately rewarded with promotion and blessedness, receiving a full inheritance. The reward is not comparable to earthly promotions because in God's kingdom, the more each person receives, the more there is for all. This truth is certain and dependable, and the faithful servant will be honored with greater gifts and inherit all things in the other world, including glory, happiness, and bliss.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7701574794296084,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                62.51,
+                37.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

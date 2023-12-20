@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:49:12",
+    "verseRef": "Matthew 17:22",
+    "bestBHT": {
+        "bht": "After performing a miracle, Jesus privately taught his disciples in Galilee, cautioning them not to be deceived by the recent grandeur but to remember his previous warnings about the impending darkness. However, deep-rooted prejudices hindered their understanding, causing the plain and distinct announcement of Christ's betrayal and handover to the Gentiles to appear as a riddle to them. Their minds were shrouded by foolish imaginings, obscuring the significance of the cross and the treacherous path that awaited their Master.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 1.4376876304082709,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+        "commentatorTierSimilarities": [
+            40.58,
+            25.72,
+            33.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This followed immediately after the miracle (Mark ix. 30). Our Lord went privately through Galilee; For he taught his disciples, &c.:\u2014"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not carried off your feet by the grandeur you have lately seen in Me, but remember what I have told you, and now tell you again, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom.",
+            "The plainest statements, when they encounter long-continued and obstinate prejudices, are seen through a distorting and dulling medium.",
+            "How artless is all this!"
+        ],
+        "John Calvin": [
+            "So great is the influence of preconceived opinion, that it brings darkness over the mind in the midst of the clearest light.",
+            "Whence came it that a discourse so clear and distinct was not understood, but because their minds were covered by the thick veil of a foolish imagination?",
+            "Their stupidity could not entirely be excused, but we have no reason to wonder that a plain and distinct announcement of the cross of their Master... appeared to them a riddle."
+        ],
+        "Philip Schaff": [
+            "The Son of God would be left to the power of men; a new feature in the prediction.",
+            "They were abiding in Galilee. The first prophecy did not take place in Galilee.",
+            "Delivered up, etc."
+        ],
+        "John Gill": [
+            "Christ intimates, that the son of man, meaning himself, should be betrayed by the Jews, into the hands of the Gentiles; than which, with the Jews, nothing was reckoned a fouler action, or a viler crime.",
+            "They forgot this rule, when they delivered Christ to Pontius Pilate.",
+            "It is lawful to kill a betrayer in any place, even at this time, in which they do not judge capital crimes."
+        ],
+        "John Wesley": [
+            "Mark 9:30; Luke 9:44."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After performing the miracle, Jesus privately taught his disciples while traveling through Galilee. He warns them not to be too captivated by the grandeur they witnessed, but rather to remember his previous teachings and the forthcoming darkness that would overshadow them. However, due to their deep-seated prejudices, even the most straightforward explanations appeared distorted and dull to them. Their minds were veiled by foolish imaginings, obscuring the clarity of Christ's message about his impending betrayal and delivery into the hands of the Gentiles. This plain and distinct announcement was seen as a riddle, a puzzling concept that they struggled to comprehend. While their ignorance cannot be completely excused, it is not surprising that they failed to fully grasp the significance of the cross and the treacherous path that lay ahead for their Master.",
+            "wordCount": 135,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.189050686515259,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.88,
+            "commentatorTierSimilarities": [
+                39.13,
+                23.1,
+                37.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After performing the miracle, Jesus privately taught his disciples through Galilee, reminding them not to be carried away by the recent grandeur but to heed his repeated warning of the impending darkness. However, their deeply ingrained prejudices distorted and dulled their understanding, causing them to struggle to grasp the plain and distinct announcement about Christ's betrayal and being handed over to the Gentiles. While their ignorance cannot be entirely excused, their minds were veiled by foolish imaginings, hindering their comprehension of the significance of the cross ahead.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.3194782174943622,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.22,
+            "commentatorTierSimilarities": [
+                40.63,
+                21.31,
+                38.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After performing a miracle, Jesus privately taught his disciples while traveling through Galilee. He warned them not to be carried away by the recent grandeur they had witnessed, but to remember his previous teachings about the forthcoming darkness. However, their long-held prejudices distorted and dulled their understanding, causing them to struggle to comprehend the plain and distinct announcement of Christ's betrayal and delivery into the hands of the Gentiles. Their minds were veiled by foolish imaginings, making it difficult for them to grasp the significance of the cross that lay ahead.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.3323579268773393,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.64,
+            "commentatorTierSimilarities": [
+                41.39,
+                25.78,
+                32.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After performing a miracle, Jesus privately taught his disciples in Galilee, cautioning them not to be deceived by the recent grandeur but to remember his previous warnings about the impending darkness. However, deep-rooted prejudices hindered their understanding, causing the plain and distinct announcement of Christ's betrayal and handover to the Gentiles to appear as a riddle to them. Their minds were shrouded by foolish imaginings, obscuring the significance of the cross and the treacherous path that awaited their Master.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.4376876304082709,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+            "commentatorTierSimilarities": [
+                40.58,
+                25.72,
+                33.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After performing a miracle, Jesus privately taught his disciples in Galilee, urging them not to be carried away by the recent grandeur and to remember his previous warnings of the forthcoming darkness. However, their long-standing and stubborn prejudices created a distorted lens through which they perceived even the most straightforward statements. Their minds were clouded by foolish imaginings, preventing them from fully comprehending the clear and distinct announcement of Christ's betrayal and his imminent delivery into the hands of the Gentiles. The significance of the cross remained a riddle to them, obscured by their own ignorance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.2597460189058753,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.23,
+            "commentatorTierSimilarities": [
+                39.92,
+                23.26,
+                36.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

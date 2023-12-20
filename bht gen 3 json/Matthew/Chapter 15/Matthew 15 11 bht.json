@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:48:34",
+    "verseRef": "Matthew 15:11",
+    "bestBHT": {
+        "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This saying emphasizes the fundamental truth that moral uncleanness is what truly defiles a person, not external things. The distinction between clean and unclean, upheld by the Mosaic law, is surpassed by this teaching. It is sin, originating from the heart and expressed through words and actions, that renders a person loathsome and abominable in the sight of God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.6909158931233632,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+        "commentatorTierSimilarities": [
+            29.58,
+            29.49,
+            40.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.\" ",
+            "If any man have ears to hear, let him hear.\" ",
+            "This so oft-repeated saying seems designed to call attention to the fundamental and universal character of the truth it refers to."
+        ],
+        "Philip Schaff": [
+            "Defileth the man, i.e., makes him common, impure or profane.",
+            "The Mosaic law, by a variety of regulations, kept up the distinction between pure and impure, to teach the importance of moral purity.",
+            "Some people make their whole religion consist in not allowing certain meats and drinks to enter 'into the mouth.'"
+        ],
+        "Archibald T. Robertson": [
+            "This goes beyond the tradition of the elders and virtually abrogates the Levitical distinctions between clean and unclean.\" ",
+            "Moral uncleanness is what makes a man common, defiles him. That is what is to be dreaded, not to be glossed over.",
+            "One can see the pettifogging pretenders shrivel up under these withering words."
+        ],
+        "John Gill": [
+            "No sorts of meats, or drinks, or whatever is proper food for men, or manner of eating and drinking them, when moderately used, defile a man, or render him loathsome and odious in the sight God.",
+            "It is sin, and that only, which takes its rise from the heart, lies in thought, and is either expressed by the mouth, or performed by some outward action, which defiles the man, and renders him loathsome, abominable, and odious in the sight of God.",
+            "Sinful words, which, through the abundance of wickedness in the heart, come out of the mouth, have the same influence and effect: words are of a defiling nature; with these men pollute both themselves and others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This so oft-repeated saying seems designed to call attention to the fundamental and universal character of the truth it refers to. It goes beyond the tradition of the elders and virtually abrogates the Levitical distinctions between clean and unclean. Moral uncleanness is what makes a man common, defiles him, and that is what is to be dreaded, not to be glossed over. It is sin, and that only, which takes its rise from the heart, lies in thought, and is either expressed by the mouth, or performed by some outward action, which defiles the man and renders him loathsome, abominable, and odious in the sight of God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.809617857340514,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                35.32,
+                25.12,
+                39.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This saying highlights the universal truth that moral uncleanness is what defiles a person, not external things. It goes beyond traditional customs and emphasizes the importance of genuine purity. Sinful words that come from the heart and are expressed through the mouth have a defiling nature, polluting both oneself and others. Hence, it is the wickedness within that renders a person loathsome and abominable to God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.604551324437264,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                29.32,
+                28.96,
+                41.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This saying emphasizes the fundamental truth that moral uncleanness is what truly defiles a person, not external things. The distinction between clean and unclean, upheld by the Mosaic law, is surpassed by this teaching. It is sin, originating from the heart and expressed through words and actions, that renders a person loathsome and abominable in the sight of God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6909158931233632,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                29.58,
+                29.49,
+                40.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This universally applicable truth signifies that moral uncleanness is what truly contaminates a person. It surpasses the traditional customs and disregards the distinctions between clean and unclean. Sinful words originating from a corrupted heart and expressed through speech have a defiling effect, polluting both the individual and others. Such moral impurity renders a person detestable and repugnant in the eyes of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.594317864433413,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                29.77,
+                30.59,
+                39.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man. This powerful statement highlights the universal truth that moral impurity is what truly defiles a person. It supersedes any traditional practices and challenges the distinction between clean and unclean. Sinful words that originate from a corrupted heart and are expressed through speech have a contaminating effect, polluting both the individual and those around them. It is this spiritual uncleanness that renders a person despicable and repulsive in the presence of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5844499565242072,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                29.06,
+                30.41,
+                40.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

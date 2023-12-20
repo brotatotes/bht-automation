@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:48:04",
+    "verseRef": "Matthew 14:14",
+    "bestBHT": {
+        "bht": "Jesus, filled with compassion, went forth from His place of retirement to heal the sick and teach the multitude. Their physical weakness and spiritual destitution moved Him deeply, as He saw famishing souls who were like sheep without a shepherd. His active compassion, both in healing and teaching, demonstrated his humanity and divinity. Despite his own weariness, Jesus tirelessly ministered to their bodies and souls, proving himself to be a merciful high priest.",
+        "wordCount": 73,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.4949745960906786,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.05,
+        "commentatorTierSimilarities": [
+            16.75,
+            38.77,
+            44.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] went forth, from His place of retirement."
+        ],
+        "John Calvin": [
+            "It was because he saw famishing souls, whom the warmth of zeal had carried away from their homes and led into a desert place.",
+            "Not that, as to his Divine nature, he looked upon them all as sheep, but that, as man, he judged according to the present aspect of the case.",
+            "So strongly was Christ moved by this feeling of compassion, that though, in common with his disciples, he was fatigued and almost worn out by uninterrupted toil, he did not spare himself."
+        ],
+        "Philip Schaff": [
+            "His compassion manifested itself in healing their sick, and in giving them instruction.",
+            "All had followed Him so far and were in a state of spiritual destitution; many of them were sick.",
+            "The approach of the Passover season accounts for the greatness of the multitude; many of them were probably on their way to Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "Their sick, without strength.\" ",
+            "\u0395\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b9\u03c3\u03b8\u03b7 is a deponent passive.",
+            "The verb gives the oriental idea of the bowels as the seat of compassion."
+        ],
+        "John Gill": [
+            "Because they were as sheep, not having a shepherd\": all which shows the truth of Christ's human nature; proves him to be a merciful high priest, and one truly concerned for both the bodies and souls of men.",
+            "He not only healed their bodies, but he taught them the doctrines of the Gospel; and spake to them concerning the kingdom of God, for the good of their souls.",
+            "The former phrase gives proof of his humanity, this attests his divinity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 14:14, Jesus went forth from His place of retirement and was moved with compassion for the multitude, who were like sheep without a shepherd, physically weak and spiritually destitute. His compassion was not a passive feeling, but an active expression of His deep care. He healed their sick and taught them the doctrines of the Gospel, revealing his divine nature and showing his concern for both their physical and spiritual well-being. Despite his own fatigue, Jesus did not spare himself, demonstrating his true concern for the bodies and souls of the people.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.4103755562348488,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.24,
+            "commentatorTierSimilarities": [
+                17.76,
+                36.73,
+                45.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, filled with compassion, went forth from His place of retirement to heal the sick and teach the multitude. Their physical weakness and spiritual destitution moved Him deeply, as He saw famishing souls who were like sheep without a shepherd. His active compassion, both in healing and teaching, demonstrated his humanity and divinity. Despite his own weariness, Jesus tirelessly ministered to their bodies and souls, proving himself to be a merciful high priest.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4949745960906786,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.05,
+            "commentatorTierSimilarities": [
+                16.75,
+                38.77,
+                44.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, moved by His deep compassion, emerged from His place of seclusion to tend to the multitude. Their physical weakness and spiritual destitution deeply affected Him, as He perceived them as famishing souls, like sheep without a shepherd. His compassionate nature compelled Him to heal their infirmities and guide them with teachings about the kingdom of God. Even amidst His own exhaustion, Jesus tirelessly ministered to their well-being, exemplifying His humanity and divinity while fulfilling His role as a merciful high priest.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4160728086073715,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.43,
+            "commentatorTierSimilarities": [
+                13.86,
+                38.71,
+                47.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with compassion, Jesus departed from His place of retirement, recognizing the multitude as famishing souls, feeble and in need of guidance. His active display of compassion included healing their sick and teaching them about the kingdom of God, revealing both His humanity and divinity. Despite His own weariness, Jesus tirelessly ministered to their physical and spiritual well-being, exemplifying His role as a merciful high priest who genuinely cared for the souls and bodies of those around Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4696033936097583,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.21,
+            "commentatorTierSimilarities": [
+                16.12,
+                37.76,
+                46.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by compassion, Jesus left His place of retreat to care for the multitude who were like sheep without a shepherd, physically weak and lacking spiritual sustenance. His deep empathy compelled Him to heal their sick and teach them about the kingdom of God. Despite His own weariness, Jesus selflessly ministered to their physical and spiritual needs, embodying both His humanity and divinity as a merciful high priest who genuinely cared for the souls and bodies of those around Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.41462084912093,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                16.49,
+                37.82,
+                45.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

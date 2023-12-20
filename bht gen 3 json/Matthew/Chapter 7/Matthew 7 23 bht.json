@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:45:06",
+    "verseRef": "Matthew 7:23",
+    "bestBHT": {
+        "bht": "Jesus reveals the truth, declaring, I never knew you, emphasizing that mere preaching and miracles in His name do not guarantee true discipleship. It is not about claiming to be a follower, but about a life devoted to God's will. Their false professions and iniquitous actions are dismissed, emphasizing the importance of self-examination. These verses remind us to depart from iniquity, for true discipleship requires genuine devotion to Christ, rather than relying on outward appearances or achievements.",
+        "wordCount": 79,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.5933299899515871,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+        "commentatorTierSimilarities": [
+            23.42,
+            43.97,
+            32.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I will tell them the plain truth. I never knew you...",
+            "Neither the preaching Christ, nor doing miracles in His Name, is an infallible sign of being His genuine servants...",
+            "...but only the devotion of life to God's will which this knowledge brings about."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our acquaintance was not broken off\u2014there never was any.",
+            "So much the worse for you,\" He replies: \"I bore with that long enough; but now\u2014begone!",
+            "ye that work iniquity\u2014not 'that wrought iniquity'; for they are represented as fresh from the scenes and acts of it as they stand before the Judge."
+        ],
+        "Albert Barnes": [
+            "I never knew you - That is, I never approved of your conduct; never loved you; never regarded you as my friends.\" (34 words)",
+            "Jesus will not then say to false prophets and false professors of religion that he had once known them and then rejected them; that they had been once Christians and then had fallen away; that they had been pardoned and then had apostatized but that he had never known them - they had never been true christians.\" (48 words)",
+            "I do not know of a more decided proof that Christians do not fall from grace than this text. It settles the question; and proves that whatever else such people had, they never had any true religion.\" (41 words)"
+        ],
+        "Marvin Vincent": [
+            "There is great authority in this saying,\" remarks Bengel.",
+            "Who digged and went deep, and laid a foundation upon the rock\" (Rev.).",
+            "Descended the rain, and came the floods, and blew the winds."
+        ],
+        "John Calvin": [
+            "The confession of my name is now heard aloud from their tongue. But I too will confess on the opposite side, that their profession is deceitful and false.",
+            "He orders those persons to go out from his presence, who had stolen, under a false title, an unjust and temporary possession of his house.",
+            "He then exhorts all those who wish to be reckoned among the disciples of Christ, to withdraw early from iniquity, that Christ may not drive them from his presence."
+        ],
+        "Philip Schaff": [
+            "And then, at once, will I profess unto them. They make false professions, but \u2018I will tell them the plain truth.'",
+            "I never knew you. They had not fallen away, they had never been called by Christ, though called by His name, and calling on His name. Intimate knowledge of persons implies sympathy and similarity.",
+            "Depart from me (comp. chap. Matthew 25:41), ye that work Iniquity. The seeming success of a hypocrite is habitual and heightened iniquity. Important for self-examinations."
+        ],
+        "John Gill": [
+            "I never knew you; which must be understood consistent with the omniscience of Christ... the meaning of Christ here is, I never had any love, or affection for you... I never approved of you, nor your conduct... I never knew you believe in me, nor love me, or mine.\" ",
+            "I never knew you as my sheep, for whom, in time, I died, and called by name... I never knew you do one good work in all your lives, with a single eye to my glory... wherefore, I will neither hear, nor see you; I have nothing to do with you.\" ",
+            "Depart from me, ye workers of iniquity... they did the work of the Lord deceitfully, preached themselves, and not Christ; sought their own things, and not his; what they did, they did with a wicked mind, and not with a view to his glory; they wrought iniquity, whilst they were doing the very things they pleaded on their own behalf."
+        ],
+        "John Wesley": [
+            "I never knew you \u2014 There never was a time that I approved of you...\" ",
+            "...as many souls as they had saved, they were themselves never saved from their sins.\" ",
+            "Lord, is it my case?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares, I will tell them the plain truth. I never knew you. Just preaching in His name or performing miracles in His name does not guarantee authenticity as His servants. What truly matters is a life devoted to God's will. Their acquaintance with Christ was never established, and He does not acknowledge their false professions. They are dismissed with a harsh rebuke, as He says, You have practiced iniquity. Unfortunately, their seeming success only masks habitual and heightened iniquity. These verses carry grave importance for self-examination, urging us to depart from iniquity and strive for genuine devotion to Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.5214929173919791,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                26.12,
+                41.6,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reveals the truth, declaring, I never knew you, emphasizing that mere preaching and miracles in His name do not guarantee true discipleship. It is not about claiming to be a follower, but about a life devoted to God's will. Their false professions and iniquitous actions are dismissed, emphasizing the importance of self-examination. These verses remind us to depart from iniquity, for true discipleship requires genuine devotion to Christ, rather than relying on outward appearances or achievements.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.5933299899515871,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                23.42,
+                43.97,
+                32.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus bluntly proclaims, I will tell them the plain truth. I never knew you. The claims of preaching in His name or performing miracles do not guarantee authenticity as His followers. Instead, it is the devotion to God's will that truly matters. Their acquaintance with Christ was never established, and their false professions are rejected. They are sternly dismissed, as He says, You have practiced iniquity. These verses serve as a reminder to examine our own lives, urging us to depart from iniquity and cultivate a genuine devotion to Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5169170936941936,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                26.59,
+                40.92,
+                32.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares, I will tell them the plain truth. I never knew you. Mere preaching or performing miracles in His name does not guarantee authenticity as His servants. What matters is a life devoted to God's will. They were never truly acquainted with Christ, and their false professions are rejected. They are dismissed with a stern rebuke, You have practiced iniquity. These verses call for introspection, urging us to depart from sin and cultivate a genuine devotion to Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.5136517287797235,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                26.06,
+                41.15,
+                32.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus boldly declares, I will tell them the plain truth. I never knew you. Simply preaching or performing miracles in His name is not a reliable sign of genuine discipleship. What truly matters is a life devoted to God's will. Their acquaintance with Christ was non-existent, and their false professions are rejected. They are sternly dismissed, as He reproaches, You have practiced iniquity. These verses serve as a stern reminder to examine our hearts and actions, urging us to forsake sin and cultivate a sincere devotion to Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.512379506621015,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                26.16,
+                41.23,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

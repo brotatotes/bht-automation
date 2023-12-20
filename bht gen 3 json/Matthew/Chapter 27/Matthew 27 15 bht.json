@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:54:06",
+    "verseRef": "Matthew 27:15",
+    "bestBHT": {
+        "bht": "Every year at the feast, it was custom for Pilate to release a prisoner chosen by the crowd. This year, a man named Bar-abbas attracted attention, though the reason for his notability remains unclear. Some suggest Pilate intentionally chose a wicked man like Bar-abbas to contrast with Jesus, shaming the people into releasing him. Nevertheless, Christ willingly accepted humiliation and crucifixion, leading to his heavenly glory. Pilate likely introduced this custom to win favor with the people during the Passover feast.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.3564397991955555,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.44,
+        "commentatorTierSimilarities": [
+            20.05,
+            35.7,
+            44.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At every feast.",
+            "The name Bar-abbas, \u2018son of his father,\u2019 was not an uncommon one.",
+            "It does not appear why this man was notable."
+        ],
+        "John Calvin": [
+            "There can be no doubt that Pilate, in order to prevail upon them through shame, selected a very wicked man, by contrast with whom Christ might be set free.",
+            "Meanwhile, we ought to consider the purpose of God, by which Christ was appointed to be crucified, as if he had been the basest of men.",
+            "Christ was sunk into the depths of ignominy, that he might obtain for us, by his humiliation, an ascent to the heavenly glory."
+        ],
+        "Philip Schaff": [
+            "Now at the feast, or \u2018a feast\u2019 Annually at the Passover.",
+            "When the custom arose is unknown, but it was undoubtedly designed to soften the Roman yoke.",
+            "A turbulent people always sympathizes with criminals condemned by hated rulers."
+        ],
+        "John Gill": [
+            "It was but once a year that this was done; at every returning passover; and so the Persic version renders it, 'every year on the day of the feast'; that is, of the passover, and which was frequently called by way of emphasis, \u05d7\u05d2, 'the feast':",
+            "It was not a law, but a custom; it was not enjoined by the law of Moses; for they that sinned against that; died without mercy: nor is it agreeable to strict justice, that there should be such a release of criminals;",
+            "but it seems to be a Roman one: and from all the accounts of the evangelist, it appears to be peculiar to the Roman governor, who, either by the order of Caesar, or of himself, introduced such a custom to get the favour of the people."
+        ],
+        "John Wesley": [
+            "At every feast \u2014 Every year, at the feast of the passover. Mark 15:6; Luke 23:17; John 18:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every year at the feast, it was the custom for Pilate to release a prisoner chosen by the crowd. This year, the name Bar-abbas, meaning 'son of his father,' stood out, as it was a common name. However, it is not clear why this particular man was notable. Some suggest that Pilate purposely selected a very wicked man like Bar-abbas, in order to shame the people and compel them to release Jesus. Regardless, we should remember that Christ, though innocent, willingly humbled himself and allowed himself to be crucified, so that through his humiliation, we may receive heavenly glory. Additionally, this custom of releasing a prisoner was likely introduced by Pilate himself as a means to gain favor with the people during the passover feast.",
+            "wordCount": 127,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3755168723369602,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.08,
+            "commentatorTierSimilarities": [
+                29.57,
+                30.5,
+                39.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every year at the feast of the passover, it was Pilate's custom to release a prisoner chosen by the crowd. This year, a man named Bar-abbas caught the attention, though it is not clear why he was notable. Some suggest that Pilate deliberately chose a wicked man like Bar-abbas to contrast with Jesus, shaming the people and compelling them to release him. Nevertheless, Christ willingly endured humiliation and crucifixion to grant us heavenly glory. Pilate's introduction of this custom was likely aimed at gaining favor with the people.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.2798840640149796,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.9,
+            "commentatorTierSimilarities": [
+                21.93,
+                35.52,
+                42.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every year at the feast, it was custom for Pilate to release a prisoner chosen by the crowd. This year, a man named Bar-abbas attracted attention, though the reason for his notability remains unclear. Some suggest Pilate intentionally chose a wicked man like Bar-abbas to contrast with Jesus, shaming the people into releasing him. Nevertheless, Christ willingly accepted humiliation and crucifixion, leading to his heavenly glory. Pilate likely introduced this custom to win favor with the people during the Passover feast.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.3564397991955555,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.44,
+            "commentatorTierSimilarities": [
+                20.05,
+                35.7,
+                44.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every year at the feast, Pilate had the custom of releasing a prisoner chosen by the crowd. This time, a man named Bar-abbas gained attention, although the reason behind his notability is unclear. Some suggest that Pilate purposely selected a wicked man like Bar-abbas to contrast with the innocent Jesus, hoping to shame the people into releasing him. However, Christ willingly endured humiliation and crucifixion, paving the way for his ultimate heavenly glory. Pilate likely introduced this custom to gain favor with the people during the Passover feast.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.354609584680238,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
+            "commentatorTierSimilarities": [
+                19.8,
+                36.23,
+                43.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every year at the feast, Pilate adhered to the custom of releasing a prisoner chosen by the crowd. This time, a man named Bar-abbas caught attention, though his specific notability remains unclear. It is suggested that Pilate purposefully selected a wicked man like Bar-abbas to serve as a stark contrast to Jesus, shaming the people and pushing them to release him. Nonetheless, Christ willingly embraced humiliation and crucifixion, a path leading to his heavenly glory. Pilate likely implemented this custom to curry favor with the people during the Passover celebration.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.3233951961793808,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.35,
+            "commentatorTierSimilarities": [
+                19.62,
+                36.21,
+                44.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

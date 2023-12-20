@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:58",
+    "verseRef": "Matthew 13:55",
+    "bestBHT": {
+        "bht": "These brethren mentioned, often referred to as the brethren of the Lord, were not among the twelve disciples. The discussion revolves around whether they were actual siblings of Jesus or close relatives. Their skepticism regarding Jesus's wisdom and miracles suggests that they failed to recognize His unique divine nature. The fact that Jesus was known as the carpenter's son further hindered their understanding of His true identity. Despite their familiarity with His background, they did not perceive the extraordinary nature of Jesus's ministry.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.5496437928291766,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+        "commentatorTierSimilarities": [
+            37.01,
+            26.79,
+            36.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That there were four persons known as 'His brethren,' or 'the brethren of the Lord,' NOT OF THE NUMBER OF THE TWELVE.",
+            "That not a word is any where dropped to prevent us from inferring that these brethren were His relations in the same literal sense as we know His mother to have been; but that His own saying, where He distinguishes His relations according to the flesh from His disciples, seems to sanction that inference.",
+            "The silence of the Scripture narrative leaves it free for Christians to believe these to have been real (younger) brethren and sisters of our Lord, without incurring any imputation of unsoundness of belief as to His miraculous conception."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whence, then, such wisdom and such miracles?",
+            "These particulars of our Lord's human history constitute the most valuable testimony.",
+            "His townsmen had discovered nothing about Him different from other men."
+        ],
+        "John Calvin": [
+            "Most improperly and unjustly, therefore, were the inhabitants of Nazareth offended on this account; for they ought rather to have received him with reverence, as one who had suddenly come down from heaven.",
+            "They see God working in Christ, and intentionally turn away their eyes from this sight, to behold Joseph, and Mary, and all his relatives; thus interposing a veil to shut out the clearest light.",
+            "The word brothers, we have formerly mentioned, is employed, agreeably to the Hebrew idiom, to denote any relatives whatever; and, accordingly, Helvidius displayed excessive ignorance in concluding that Mary must have had many sons, because Christ\u2019s brothers are sometimes mentioned."
+        ],
+        "Philip Schaff": [
+            "The carpenter\u2019s son. The word rendered \u2018carpenter\u2019 is sometimes applied to artisans in general, but it means strictly a worker in wood.",
+            "The question, though not contemptuous, implies: He is one of us, no better than we are, etc.",
+            "They knew His family, and mention the name of His mother and brothers, speaking also of His sisters, who possibly still resided in Nazareth."
+        ],
+        "John Gill": [
+            "Is not this the carpenter's son?... The generally received notion of the ancient Christians is, that he was a carpenter, and that Jesus was brought up to the same business, which lay in making ploughs and yokes.",
+            "Plain Mary, without any other title, or civil respect; a poor spinstress, that got her bread by her hand labour: the Jews say, she was a plaiter of women's hair, and treat her with the utmost scorn.",
+            "The Jews ought not to have made these remarks, since many of their great doctors were of mean parentage; as R. Zachariah was a butcher's son, and R. Jochanan a blacksmith's son."
+        ],
+        "John Wesley": [
+            "The carpenter's son \u2014 The Greek word means, one that works either in wood, iron, or stone.",
+            "His brethren \u2014 Our kinsmen. They were the sons of Mary, sister to the virgin, and wife of Cleophas or Alpheus.",
+            "James \u2014 Styled by St. Paul also, the Lord's brother, Galatians 1:19. Simon - Surnamed the Canaanite."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These commentators discuss the identity of the brethren mentioned in this verse and how they were not part of the twelve disciples. They debate whether these brethren were literal siblings of Jesus or simply close relatives. Some argue that Jesus's extraordinary wisdom and miracles question their low opinion of Him, while others point out that His familiarity as a carpenter's son hinders their recognition of His divinity. Ultimately, these details shed light on Jesus's human history and the incredulity of His townspeople who failed to recognize His true nature.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6260106781493104,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.41,
+            "commentatorTierSimilarities": [
+                37.78,
+                27.13,
+                35.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These brethren mentioned, often referred to as the brethren of the Lord, were not among the twelve disciples. The discussion revolves around whether they were actual siblings of Jesus or close relatives. Their skepticism regarding Jesus's wisdom and miracles suggests that they failed to recognize His unique divine nature. The fact that Jesus was known as the carpenter's son further hindered their understanding of His true identity. Despite their familiarity with His background, they did not perceive the extraordinary nature of Jesus's ministry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5496437928291766,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                37.01,
+                26.79,
+                36.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These brethren mentioned in the passage, often referred to as the brethren of the Lord, were not part of the twelve disciples. The debate centers around whether they were actual siblings of Jesus or close relatives. Their skepticism regarding Jesus's wisdom and miracles suggests that they failed to recognize His divine nature. His recognition as the carpenter's son further impacted their perception of Him. Despite their familiarity with His background, they overlooked the extraordinary nature of Jesus's ministry.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3618081265879107,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.62,
+            "commentatorTierSimilarities": [
+                38.48,
+                26.53,
+                35.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These brethren, known as the brethren of the Lord, were not part of the twelve disciples. There is debate over whether they were literal siblings of Jesus or close relatives. Their doubts about Jesus's wisdom and miracles suggest that they failed to recognize His divine nature. Being called the carpenter's son further influenced their perception of Him. Despite their familiarity with His background, they overlooked the extraordinary nature of Jesus's ministry.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4425252379270979,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.31,
+            "commentatorTierSimilarities": [
+                38.4,
+                26.2,
+                35.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These brethren, commonly referred to as the brethren of the Lord, were not among the twelve disciples. The disagreement arises over whether they were actual siblings of Jesus or close relatives. Their skepticism regarding Jesus's wisdom and miracles suggests their failure to acknowledge His divine nature. The fact that Jesus was known as the carpenter's son impacted their perception of Him. Despite their familiarity with His background, they seemingly overlooked the extraordinary nature of Jesus's ministry.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.502277352991865,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                35.9,
+                27.21,
+                36.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

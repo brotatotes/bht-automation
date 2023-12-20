@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:54:56",
+    "verseRef": "Matthew 28:11",
+    "bestBHT": {
+        "bht": "Simple, unsophisticated soldiers were astounded that their tale of the empty tomb did not immediately convince their terrified employers. Naively, they had approached the Sanhedrin, who had control over them, with the only other explanation they could fathom. The soldiers had been placed at the disposal of the chief priests, and although they told a truthful account to the best of their understanding, the Sanhedrin remained unconvinced of Jesus' resurrection. However, it was possible that the soldiers hoped for a bribe when they truthfully recounted their experiences to the chief priests.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.7849531553787943,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+        "commentatorTierSimilarities": [
+            39.46,
+            38.14,
+            22.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Simple, unsophisticated soldiers! How could ye imagine that such a tale as ye had to tell would not at once commend itself to your scared employers?\" ",
+            "Had they doubted this for a moment, would they have ventured to go near them, knowing it was death to a Roman soldier to be proved asleep when on guard?",
+            "And of course that was the only other explanation of the case."
+        ],
+        "Albert Barnes": [
+            "Some of the watch - Some of the guard that had been set around the tomb to keep it safe.",
+            "Probably the leaders or officers came to give a true account of what had happened.",
+            "Showed unto the chief priests - To Annas and Caiaphas."
+        ],
+        "John Calvin": [
+            "Those men, therefore, being addicted to making gain, and seizing on opportunities of making it from every quarter, after having found that their diligence was of no service to them, contrive a new method of cheating their employers out of their money.",
+            "Thus it is evident that the reprobate, after having once given themselves up to a course of sinning, are continually entangled in new crimes; and this arises out of their desire to conceal their shame before men, while they give themselves no concern about the offense committed against God.",
+            "And what constrains them, in addition to the expense which they have laid out, to incur so serious a risk, but because inveterate rage does not permit them to withdraw until they have added sin to sin?"
+        ],
+        "Philip Schaff": [
+            "The fact that the soldiers did not go first, indicates that all the occurrences at the sepulchre occupied but a short time.",
+            "They told the truth, possibly hoping for a bribe.",
+            "Chief priests, under whose directions they had been, and to whom they ought to report."
+        ],
+        "Archibald T. Robertson": [
+            "These Roman soldiers had been placed at the disposal of the Sanhedrin.",
+            "They apparently told a truthful account as far as they understood it.",
+            "But were the Sanhedrin convinced of the resurrection of Jesus?"
+        ],
+        "John Gill": [
+            "The very persons who were... should be the first persons that should relate it.",
+            "That he rolled away the stone from the sepulchre, and then sat upon it.",
+            "Sure they were that the women did not carry it away, nor any other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simple, unsophisticated soldiers were astounded that their tale of the empty tomb did not immediately convince their terrified employers. Naively, they had approached the Sanhedrin, who had control over them, with the only other explanation they could fathom. The soldiers had been placed at the disposal of the chief priests, and although they told a truthful account to the best of their understanding, the Sanhedrin remained unconvinced of Jesus' resurrection. However, it was possible that the soldiers hoped for a bribe when they truthfully recounted their experiences to the chief priests.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7849531553787943,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                39.46,
+                38.14,
+                22.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simple, unsophisticated soldiers were astounded that their tale of the empty tomb did not immediately convince their terrified employers. Naively, they had approached the Sanhedrin, who had control over them, with the only other explanation they could fathom. The soldiers had been placed at the disposal of the chief priests, and although they told a truthful account to the best of their understanding, the Sanhedrin remained unconvinced of Jesus' resurrection. However, it was possible that the soldiers hoped for a bribe when they truthfully recounted their experiences to the chief priests.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7849531553787943,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                39.46,
+                38.14,
+                22.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their naivety, the unsophisticated soldiers were surprised that their account of the empty tomb did not immediately impress their fearful employers. Placed under the authority of the Sanhedrin, they presented the only plausible explanation they could conceive of. Even though they truthfully recounted their experience as far as they understood it, the Sanhedrin remained unconvinced of Jesus' resurrection. It is possible that the soldiers expected a bribe when they shared their story with the chief priests.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6943593461653341,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+            "commentatorTierSimilarities": [
+                39.69,
+                37.19,
+                23.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These unsophisticated soldiers were simple-minded to think that their tale would immediately convince their terrified superiors. After all, these Roman soldiers were under the control of the Sanhedrin and had no reason to fabricate such an account. Although the soldiers truthfully relayed their experience as far as they comprehended it, the Sanhedrin remained skeptical of Jesus' resurrection. However, it is conceivable that the soldiers harbored hopes of receiving a bribe as they disclosed their encounters to the chief priests.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7121290649428291,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                41.29,
+                37.57,
+                21.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These simple, unsophisticated soldiers approached the Sanhedrin with their truthful account of the empty tomb, hoping it would convince their fearful employers. Placed under the control of the chief priests, they had no reason to fabricate the events they witnessed. However, the Sanhedrin remained unconvinced of Jesus' resurrection, possibly causing the soldiers to regret not receiving a bribe for revealing their encounters.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.7342748579231455,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                35.59,
+                40.85,
+                23.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

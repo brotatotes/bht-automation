@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:52:41",
+    "verseRef": "Matthew 25:22",
+    "bestBHT": {
+        "bht": "The two-talent servant in this parable is lauded as a good and faithful servant, commended in the same terms as the five-talent servant. Their reward is identical, as is the invitation to enter into their Lord's joy. The contrasts drawn highlight the servant's promotion from faithful servant to ruler, from being entrusted with a few things to having dominion over many. This servant's faithfulness and fruitful use of what was entrusted to him led to his elevation and invitation to share in the joy of his Lord.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.5508135124092148,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+        "commentatorTierSimilarities": [
+            67.74,
+            0.0,
+            32.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He also that had received two talents came . . . good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things\u2014Both are commended in the same terms, and the reward of both is precisely the same.",
+            "Observe also the contrasts: 'Thou hast been faithful as a servant; now be a ruler\u2014thou hast been entrusted with a few things; now have dominion over many things.'",
+            "enter thou into the joy of thy lord\u2014thy Lord's own joy."
+        ],
+        "John Gill": [
+            "A lesser degree of ministerial gifts... who in proportion to what he had received, had traded and gained.\" ",
+            "I have gained two other talents besides them: his account, abating the sum and gains, is given in, in the same form as the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Matthew 25:22 emphasizes the commendable faithfulness and diligence of the servant who was given two talents. Both servants who multiplied their talents were praised equally and their reward was the same. The contrasts between being faithful as a servant and becoming a ruler, and between being entrusted with few things and having dominion over many things, highlight the servant's elevation in status. As a result of his faithfulness, the servant is invited to enter into the joy of his Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5185119754771748,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                58.92,
+                0.0,
+                41.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The two-talent servant in this parable is lauded as a good and faithful servant, commended in the same terms as the five-talent servant. Their reward is identical, as is the invitation to enter into their Lord's joy. The contrasts drawn highlight the servant's promotion from faithful servant to ruler, from being entrusted with a few things to having dominion over many. This servant's faithfulness and fruitful use of what was entrusted to him led to his elevation and invitation to share in the joy of his Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5508135124092148,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                67.74,
+                0.0,
+                32.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The two-talent servant is praised as a good and faithful servant and is rewarded similarly to the five-talent servant. By faithfully utilizing what was entrusted to him, he is promoted from servant to ruler, gaining dominion over many. The invitation to enter into the joy of his Lord signifies the servant's elevated status. This parable emphasizes the importance of faithfulness and diligence in carrying out God's entrusted tasks, promising great rewards and a share in the joy of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4672892567442546,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.13,
+            "commentatorTierSimilarities": [
+                66.79,
+                0.0,
+                33.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The two-talent servant in Matthew 25:22 is commended as a good and faithful servant, with the same praise and reward as the five-talent servant. The contrasts highlighted in the parable emphasize the servant's elevation from faithful servant to ruler and from being entrusted with few things to having dominion over many. The invitation to enter into the joy of the Lord reflects the servant's elevated position. This parable underscores the significance of faithfulness, promising great rewards and a share in the joy of the Lord for those who faithfully fulfill their entrusted responsibilities.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.4630543466637587,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                70.89,
+                0.0,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Both the two-talent and five-talent servants are commended in the same terms and receive the same reward. The parable highlights the contrast of going from a faithful servant to a ruler, and from being entrusted with few things to having dominion over many. The invitation for the servant to enter into the joy of the Lord signifies the exalted position attained. Faithfulness is of utmost importance, as it leads to great rewards and a share in the joy that comes from serving the Lord diligently.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5191700487924353,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                65.31,
+                0.0,
+                34.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

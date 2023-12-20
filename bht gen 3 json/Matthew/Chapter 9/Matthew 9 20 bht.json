@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:45:38",
+    "verseRef": "Matthew 9:20",
+    "bestBHT": {
+        "bht": "The woman with the issue of blood reaches out to touch the hem of Jesus' garment, the fringe or tassel worn by Jews to signify holiness unto God. Each tassel was carefully crafted with specific numbers of threads and knots, representing the name of Jehovah. Despite the superstition in her faith, Jesus honors the woman's belief and heals her. We learn that God accepts our imperfect faith and works wonders through it, reminding us to trust in Him rather than specific examples.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.5765777759092878,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+        "commentatorTierSimilarities": [
+            57.5,
+            0.0,
+            42.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'hem,' see ref. Num., was the fringe or tassel which the Jews were commanded to wear on each corner of their outer garment.",
+            "As a sign that they were to be holy unto God.",
+            "The article, as in ch. xiv. 36, designates the particular tassel which was touched."
+        ],
+        "Marvin Vincent": [
+            "Hem [\u03ba\u03c1\u03b1\u03c3\u03c0\u03b5\u03b4\u03bf\u03c5]. Rev., border. The fringe worn on the border of the outer garment, according to the command in Numbers 14:38.",
+            "Dr. Edersheim (\"Life and Times of Jesus\") says that, according to tradition, each of the white fringes was to consist of eight threads, one of them wound round the others; first seven times, with a double knot; then eight times with a double knot; then eleven times with a double knot; and, lastly, thirteen times.",
+            "The Hebrew characters representing these numbers formed the words Jehovah One."
+        ],
+        "John Calvin": [
+            "Certainly, when she afterwards thinks that she has done wrong, and fears and trembles, there is no apology for that kind of doubt: for it is opposed to faith.",
+            "God deals kindly and gently with his people, \u2014 accepts their faith, though imperfect and weak, \u2014 and does not lay to their charge the faults and imperfections with which it is connected.",
+            "Were we even to grant that this was suggested to her by the Spirit, it still remains a fixed rule, that our faith must not be driven hither and thither by particular examples, but ought to rest wholly on the word of God."
+        ],
+        "Archibald T. Robertson": [
+            "The hem or fringe of a garment, a tassel or tuft hanging from the edge of the outer garment according to Numbers 15:38.",
+            "The Jews actually counted the words Jehovah One from the numbers of the twisted white threads, a refinement that Jesus had no concern for.",
+            "This poor woman had an element of superstition in her faith as many people have, but Jesus honors her faith and cures her."
+        ],
+        "John Gill": [
+            "This woman might be truly called \u05d6\u05d1\u05d4 \u05d2\u05d3\u05d5\u05dc\u05d4, 'the greater profluvious woman', in the language of the doctors; for if one that had a flux but three days was called so, much more one that had had it twelve years.",
+            "She having heard of Jesus, and his miraculous cures, had faith given her to believe, that she also should receive one from him.",
+            "However, we learn from hence, that Christ complied with the rites of the ceremonial law in apparel, as well as in other things."
+        ],
+        "John Wesley": [
+            "Coming behind \u2014 Out of bashfulness and humility."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 9:20, the woman with the issue of blood reaches out to touch the hem of Jesus' garment. The hem refers to the fringe or tassel worn by Jews on the border of their outer garment as a sign of being devoted to God. Each tassel was meticulously crafted with specific numbers of threads and knots, representing the name of God. While the woman's faith had an element of superstition, Jesus honors that faith and heals her. We see that even in our imperfect and weak faith, God is gracious and accepts it. However, our faith should ultimately rest on the word of God, not on specific examples.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.5400867986784665,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                56.56,
+                0.0,
+                43.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman with the issue of blood reaches out to touch the hem of Jesus' garment, the fringe or tassel worn by Jews as a sign of holiness to God. Each tassel had specific numbers of threads and knots, representing God's name. Although the woman's faith had elements of superstition, Jesus honors her and heals her. This teaches us that God accepts our imperfect and weak faith, but we must ultimately rest our faith on the word of God rather than specific examples.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.5613289008283022,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.26,
+            "commentatorTierSimilarities": [
+                57.35,
+                0.0,
+                42.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman with the issue of blood had faith to touch the hem of Jesus' garment. The 'hem' referred to the fringe or tassel on the outer garment, symbolizing holiness to God. The woman's act of touching the specific tassel showed her devotion and belief in Jesus' healing power. Despite her element of superstition, Jesus acknowledged her faith and healed her. This reminds us that God accepts our imperfect faith and works with us where we are, honoring our trust in Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5431974586617467,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.65,
+            "commentatorTierSimilarities": [
+                57.17,
+                0.0,
+                42.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman with the issue of blood reaches out to touch the hem of Jesus' garment, the fringe or tassel worn by Jews as a sign of holiness. This symbol of devotion held significance, as each tassel represented the name of God with its specific threads and knots. Although the woman's faith had a touch of superstition, Jesus honors her belief and heals her. This teaches us that even in our imperfect and weak faith, God graciously accepts it and works miracles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5652599211896039,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                55.67,
+                0.0,
+                44.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman with the issue of blood reaches out to touch the hem of Jesus' garment, the fringe or tassel worn by Jews to signify holiness unto God. Each tassel was carefully crafted with specific numbers of threads and knots, representing the name of Jehovah. Despite the superstition in her faith, Jesus honors the woman's belief and heals her. We learn that God accepts our imperfect faith and works wonders through it, reminding us to trust in Him rather than specific examples.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5765777759092878,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                57.5,
+                0.0,
+                42.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

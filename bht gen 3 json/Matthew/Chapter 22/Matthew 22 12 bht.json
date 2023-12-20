@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 23:51:23",
+    "verseRef": "Matthew 22:12",
+    "bestBHT": {
+        "bht": "This guest thought that his own garment would be acceptable, disregarding the need for a proper wedding garment, and therefore he was speechless when questioned about it. The term friend here does not imply friendship, but rather refers to his fellow companions. This man's lack of a wedding garment represents the pride of self-righteousness and failure to be righteous through and in Christ Jesus. Just as this guest had no excuse, so it will be with all hypocrites. In the end, their righteousness will not save them, and they will be left speechless.",
+        "wordCount": 95,
+        "quoteTokenProportion": 52.17,
+        "qualityScore": 1.8550293342375523,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+        "commentatorTierSimilarities": [
+            20.51,
+            52.76,
+            26.73
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This guest imagines his own garment will be as acceptable, and therefore neglects to provide himself.",
+            "Friend.",
+            "See note on ch. xx. 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. Friend, how camest thou in",
+            "\thither, not having a wedding garment? And he was speechless\u2014being",
+            "\tself-condemned."
+        ],
+        "Albert Barnes": [
+            "Friend - Rather, \u201ccompanions.\u201d The word does not imply friendship.",
+            "He was speechless - He had no excuse. So it will be with all hypocrites."
+        ],
+        "Marvin Vincent": [
+            "What were you thinking of, where was your respect for me and for my guests, when you allowed yourself to come hither not [\u03bc\u03b7] having the proper garment, as you knew you ought to have?",
+            "He was speechless [\u03b5\u03c6\u03b9\u03bc\u03c9\u03b8\u03b7]. Lit., he was muzzled or gagged.",
+            "The outer darkness."
+        ],
+        "Philip Schaff": [
+            "Friend. The word used in chap. Matthew 20:13, and addressed to Judas (chap. Matthew 26:50). It means \u2018companion,\u2019 without implying friendship.",
+            "How camest thou! It was a bold intrusion, a despising of the king, to appear in his own ordinary dress. This points to the pride of self-righteousness. Some think it indicates lawlessness or hypocrisy.",
+            "He was speechless. There can be no excuse for failure to have on the wedding garment, to be righteous through and in Christ Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Not having a wedding-garment (\u03bc\u03b7 \u03b5\u03c7\u03c9\u03bd \u03b5\u03bd\u03b4\u03c5\u03bc\u03b1 \u03b3\u03b1\u03bc\u03bf\u03c5). \u039c\u03b7 is in the Koine the usual negative with participles unless special emphasis on the negative is desired...\" ",
+            "There is a subtle distinction between \u03bc\u03b7 and \u03bf\u03c5 like our subjective and objective notions.",
+            "Wunsche does report a parable by a rabbi of a king who set no time for his feast and the guests arrived, some properly dressed waiting at the door; others in their working clothes did not wait, but went off to work and, when the summons suddenly came, they had no time to dress properly and were made to stand and watch while the others partook of the feast."
+        ],
+        "John Gill": [
+            "How couldest thou have the assurance to come in hither in such a dress, having nothing but the filthy rags of thine own righteousness?",
+            "He had nothing to say for himself... their mouths will be stopped, and they will have nothing to say in vindication of themselves.",
+            "Their righteousness will not answer for them in a time to come."
+        ],
+        "John Wesley": [
+            "A wedding garment \u2014 The righteousness of Christ, first imputed, then implanted.",
+            "It may easily be observed, this has no relation to the Lord's Supper...",
+            "...but to God's proceeding at the last day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This guest thought that his own garment would be acceptable, disregarding the need for a proper wedding garment, and therefore he was speechless when questioned about it. The term friend here does not imply friendship, but rather refers to his fellow companions. This man's lack of a wedding garment represents the pride of self-righteousness and failure to be righteous through and in Christ Jesus. Just as this guest had no excuse, so it will be with all hypocrites. In the end, their righteousness will not save them, and they will be left speechless.",
+            "wordCount": 95,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.8550293342375523,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                20.51,
+                52.76,
+                26.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This guest neglected to provide himself with a proper wedding garment, thinking his own garment would suffice, which led to his speechlessness when questioned. The term friend refers to his fellow companions, not friendship. This lack of a wedding garment symbolizes the pride of self-righteousness and failure to be righteous through Christ. Like this guest, hypocrites will have no excuse and be left speechless. Their self-righteousness will not save them in the end.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.738503290788394,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                20.91,
+                51.91,
+                27.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This guest, presuming his own garment adequate, neglected a wedding garment and was rendered speechless. The term friend pertains to companions, not friendship. The missing wedding garment represents the pride of self-righteousness and the failure to be righteous through Christ. Hypocrites will be without excuse and silenced. Their self-righteousness will ultimately prove insufficient.",
+            "wordCount": 55,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7248039522372585,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                21.41,
+                53.28,
+                25.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This guest, imagining his own garment would suffice, neglected to provide himself with a proper wedding garment and was left speechless. The term friend refers to companions, not friendship. The absence of a wedding garment signifies the pride of self-righteousness and failure to be righteous through Christ. Hypocrites will have no excuse and their self-righteousness will not save them.",
+            "wordCount": 61,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8854594667367377,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                21.61,
+                54.23,
+                24.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This guest imagined his own garment would be acceptable and neglected to provide himself with a wedding garment, making him speechless upon being questioned. The term friend refers to his companions rather than indicating friendship. The absence of a wedding garment represents the pride of self-righteousness and the failure to be righteous through Christ. Hypocrites will have no excuse and their self-righteousness will not save them in the end.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.8453159641364045,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                21.53,
+                52.97,
+                25.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

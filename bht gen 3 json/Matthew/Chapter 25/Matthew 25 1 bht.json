@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:52:59",
+    "verseRef": "Matthew 25:1",
+    "bestBHT": {
+        "bht": "The lesson of the parable of the ten virgins is clear - it is not enough to be prepared once for our duty, but we must endure to the end. Representing faithful souls who have separated from the world, these virgins bear lamps filled with the oil of God's Spirit. The parable emphasizes the need for believers to remain faithful and watchful, eagerly awaiting the Second Coming of the Lord. It reminds us of the importance of being prepared and not being caught off guard by the suddenness of Christ's return.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.8426343485909742,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+        "commentatorTierSimilarities": [
+            28.28,
+            32.97,
+            38.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The point of the parable consists... in this, 'that it is not enough to have been once girt and prepared for duty, unless we endure even to the end.'",
+            "These are souls come out from the world into the Church, and there waiting for the coming of the Lord\u2014not hypocrites, but faithful souls, bearing their lamps... the inner spiritual life fed with the oil of God\u2019s Spirit.",
+            "All views of this parable which represent the foolish virgins as having only a dead faith, only the lamp without the light, the body without the spirit, &c., are quite beside the purpose."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then\u2014at the time referred to at the close of the preceding chapter, the time of the Lord's Second Coming to reward His faithful servants and take vengeance on the faithless.\" ",
+            "This entire and beautiful change of figure brings out the lesson of the former parable in quite a new light.\" ",
+            "Nor could believers be represented both as Bride and Bridal Attendants without incongruity."
+        ],
+        "Albert Barnes": [
+            "When the Son of man returns to judgment, it will be as it was in the case of ten virgins in a marriage ceremony.",
+            "The marriage relation is the most tender, firm, and endearing of any known on earth, and on this account it suitably represents the union of believers to Christ.",
+            "Never was I so struck with our Lord\u2019s beautiful parable as at this moment - \u2018And the door was shut.\u2019"
+        ],
+        "Marvin Vincent": [
+            "Lamps [\u03bb\u03b1\u03bc\u03c0\u03b1\u03b4\u03b1\u03c2] . Lit., torches.\" ",
+            "Probably a short, wooden stem held in the hand, with a dish at the top.",
+            "In which was a piece of cloth dipped in oil or pitch."
+        ],
+        "John Calvin": [
+            "By this term is meant the condition of the future Church, which was to be collected by the authority and direction of Christ.",
+            "He employs this remarkable title, that believers may not deceive themselves by an erroneous opinion that they have arrived at absolute perfection.",
+            "The general instruction of the parable consists in this, that it is not enough to have been once ready and prepared for the discharge of duty, if we do not persevere to the end."
+        ],
+        "Philip Schaff": [
+            "Ten. The number of completion among the Jews; this number may have been usual in wedding processions.",
+            "Virgins, as representing separation from the world, if any special significance is to be sought.",
+            "The best explanation is: that the bridegroom was coming from a distance, before the wedding; that the virgins went out to meet him to attend him to the wedding at the house of the bride, where the marriage was to take place."
+        ],
+        "Archibald T. Robertson": [
+            "No special point in the number ten.",
+            "Probably torches with a wooden staff and a dish on top.",
+            "That may be the meaning here."
+        ],
+        "John Gill": [
+            "the parable is manifestly connected with, and refers to the preceding chapter, which chiefly treats of Jerusalem's destruction",
+            "it seems right and best to understand this parable, and the following, as having respect to that: and that the design of it is to show, what will be the case of professors at that time",
+            "the suddenness of Christ's coming; the necessity of being ready for it; and how watchful the saints should be, that they be not surprised with it"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the ten virgins teaches us the importance of enduring in our faith until the end, for it is not enough to simply be prepared once for our duty. The virgins in this parable represent faithful souls who have come out from the world and are waiting for the coming of the Lord. They bear lamps, filled with the oil of God's Spirit, nourishing their inner spiritual life. This parable emphasizes that it is not about having a dead faith or merely a lamp without light. Rather, it speaks to the need for believers to remain faithful and watchful, eagerly awaiting the Lord's Second Coming. The ten virgins carrying the lamps with wooden stems and dishes on top represent believers who are both the Bride and the Bridal Attendants, symbolizing their intimate union with Christ. While the number ten may hold no particular significance, it is likely that there were ten virgins because this was the number commonly seen in wedding processions. Overall, this parable highlights the importance of being prepared and watchful for the suddenness of Christ's return, as believers should not be caught off guard but should eagerly anticipate His coming.",
+            "wordCount": 198,
+            "quoteTokenProportion": 40.17,
+            "qualityScore": 1.8635266751271593,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                30.01,
+                35.82,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The lesson of the parable of the ten virgins is clear - it is not enough to be prepared once for our duty, but we must endure to the end. Representing faithful souls who have separated from the world, these virgins bear lamps filled with the oil of God's Spirit. The parable emphasizes the need for believers to remain faithful and watchful, eagerly awaiting the Second Coming of the Lord. It reminds us of the importance of being prepared and not being caught off guard by the suddenness of Christ's return.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8426343485909742,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                28.28,
+                32.97,
+                38.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the ten virgins teaches the lesson that it is not enough to be ready and prepared for our duty if we do not endure until the end. The virgins symbolize faithful souls who have come out from the world into the Church, waiting for the coming of the Lord. They carry lamps with wooden stems and dishes on top, representing their inner spiritual life fed with the oil of God\u2019s Spirit. This parable reminds us of the need to be watchful and prepared for the sudden coming of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8204323536017002,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.87,
+            "commentatorTierSimilarities": [
+                30.23,
+                31.69,
+                38.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the ten virgins emphasizes the importance of enduring in our faith until the end. It is not sufficient to be prepared once for our duty, but we must persevere. The virgins represent faithful individuals who have separated themselves from the world and are eagerly awaiting the coming of the Lord. They carry lamps, symbolizing their inner spiritual life that is fueled by the oil of God\u2019s Spirit. This parable urges believers to be watchful and ready for the sudden return of Christ, reminding us of the need for ongoing spiritual vigilance.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6646243608236062,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                29.14,
+                33.87,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the ten virgins teaches us the crucial lesson that it is not enough to have been once prepared for duty, but we must endure until the end. These virgins represent faithful souls who have come out from the world and are eagerly waiting for the coming of the Lord. Their lamps, symbolic of their inner spiritual life, are filled with the oil of God\u2019s Spirit. This parable underscores the need for believers to remain watchful and prepared for the suddenness of Christ's return.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7949048211774115,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                29.76,
+                31.61,
+                38.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:42:34",
+    "verseRef": "Matthew 2:17",
+    "bestBHT": {
+        "bht": "The fulfillment of the prophecy spoken by Jeremiah should not be narrowly interpreted, but rather understood within the traditional Jewish approach to prophetic fulfillment. The closely connected tribes of Judah and Benjamin are relevant to the prophecy, and the words spoken by Jeremiah effectively convey the sorrowful nature of the event. The mention of Rama, a neighboring town to Bethlehem, adds further meaning to the prophecy. Rachel symbolically represents the grieving mothers, their lamentation, weeping, and mourning expressing their deep sorrow. Although not an exact correspondence, the fulfillment appropriately applies to this tragic event.",
+        "wordCount": 94,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 1.6430929508954986,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+        "commentatorTierSimilarities": [
+            25.79,
+            44.69,
+            29.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must not draw any fanciful distinction between 'then was fulfilled' and 'that might be fulfilled,' but rather seek our explanation in the acknowledged system of prophetic interpretation among the Jews...",
+            "None of the expressions of this prophecy must be closely and literally pressed.",
+            "We must also take into account the close relation between the tribes of Judah and Benjamin, which had long subsisted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17. Then was fulfilled that which",
+            "\twas spoken by Jeremy the prophet, saying\u2014 ( :-, from which the quotation differs but verbally)."
+        ],
+        "Albert Barnes": [
+            "Then was fulfilled - The word \u2018fulfilled,\u2019 here, is used evidently in the sense that the words in Jeremiah aptly express the event which Matthew was recording.\" (Commentary)",
+            "That which was spoken by Jeremy the prophet - Jeremiah.\" (Commentary)",
+            "The sadness of such a scene is well expressed in the language of the prophet, and it no less beautifully and suitably applies to the melancholy event which the evangelist records.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Matthew 2:17. Jeremiah the prophet (Jeremiah 32:15). Free quotation (from the Septuagint) of a typical prophecy. Not: \u2018that it might be fulfilled,\u2019 but simply: \u2018was fulfilled.\u2019"
+        ],
+        "John Gill": [
+            "By the slaughter of the infants at Bethlehem was literally accomplished what had been predicted by Jeremy the prophet.\" ",
+            "Rama was not in Arabia, but a town in the tribe of Benjamin, very near to Bethlehem.\" ",
+            "Rachel is introduced in the prophecy representing the sorrowful mothers of those parts, weeping for their children; whose distress and grief are signified by several words, 'lamentation, weeping and great mourning'."
+        ],
+        "John Wesley": [
+            "Then was fulfilled",
+            "A passage of Scripture...is in the language of the New Testament fulfilled",
+            "when an event happens to which it may with great propriety be accommodated"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophecy that then was fulfilled in Matthew 2:17 must not be taken too literally, but rather understood in the context of the Jewish interpretation of prophecies. It is important to consider the close relationship between the tribes of Judah and Benjamin in order to fully grasp the meaning. The words spoken by Jeremy the prophet aptly express the sadness of the event, and though the prophecy was not an exact match, it beautifully applies to the tragic scene of the slaughter of infants in Bethlehem. The mention of Rama, a town near Bethlehem, helps to further situate the prophecy. Rachel is used to represent the sorrowful mothers in that region, and her lamentation, weeping, and great mourning signify their grief. The fulfillment of the prophecy is not a perfect match, but rather an appropriate and suitable application to the event that occurred.",
+            "wordCount": 142,
+            "quoteTokenProportion": 29.07,
+            "qualityScore": 1.7662072974142289,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                28.52,
+                42.55,
+                28.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fulfillment of the prophecy in Matthew 2:17 should not be taken literally, but rather understood in the context of Jewish prophetic interpretation. The connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremy the prophet express the sorrow of the event. The mention of Rama, a town near Bethlehem, helps to situate the prophecy. Rachel represents the grieving mothers, and her lamentation, weeping, and mourning signify their sorrow. The fulfillment of the prophecy is not an exact match, but it appropriately applies to the tragic event.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7026634001155858,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                26.26,
+                43.9,
+                29.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy fulfilled in this verse should not be interpreted too literally, but rather in the context of Jewish understanding. The connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremiah the prophet express the sorrow of the event. The mention of Rama, a town near Bethlehem, situates the prophecy. Rachel symbolizes the grieving mothers, with her lamentation, weeping, and mourning representing their sorrow. Although not an exact match, the fulfillment of the prophecy appropriately applies to this tragic event.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.7167899906619861,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                26.05,
+                43.93,
+                30.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fulfillment of the prophecy, as described by the prophet Jeremiah, should not be taken overly literally. Instead, it should be understood within the framework of Jewish prophetic interpretation. The close connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremiah effectively express the sorrowful nature of the event. The mention of Rama, a town near Bethlehem, adds contextual depth to the prophecy. Rachel is used symbolically to represent the grieving mothers, whose lamentation, weeping, and mourning reflect their deep sorrow. While not an exact match, the fulfillment appropriately applies to this tragic occurrence.",
+            "wordCount": 100,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.5984595593711446,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                27.13,
+                43.33,
+                29.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fulfillment of the prophecy spoken by Jeremiah should not be narrowly interpreted, but rather understood within the traditional Jewish approach to prophetic fulfillment. The closely connected tribes of Judah and Benjamin are relevant to the prophecy, and the words spoken by Jeremiah effectively convey the sorrowful nature of the event. The mention of Rama, a neighboring town to Bethlehem, adds further meaning to the prophecy. Rachel symbolically represents the grieving mothers, their lamentation, weeping, and mourning expressing their deep sorrow. Although not an exact correspondence, the fulfillment appropriately applies to this tragic event.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6430929508954986,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                25.79,
+                44.69,
+                29.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

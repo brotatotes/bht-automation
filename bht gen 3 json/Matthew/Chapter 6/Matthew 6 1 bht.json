@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:44:11",
+    "verseRef": "Matthew 6:1",
+    "bestBHT": {
+        "bht": "Jesus now transitions from actions to motives, focusing on the righteousness of the kingdom of heaven. He distinguishes between the open benevolence of a Christian seeking to glorify God and the self-seeking ostentation of one motivated by praise from others. While it is important to let our light shine before men and be seen doing good works, we should avoid displaying our righteousness for self-glorification. Our ultimate goal should be the reward awaiting us by the side of our Father.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.822034985573837,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+        "commentatorTierSimilarities": [
+            32.96,
+            32.67,
+            34.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The discourse of our Lord now passes from actions to motives; not that He has not spoken to the heart before, but then it was only by inference, now directly.\" ",
+            "It is best then to understand righteousness as in ch. v. 20, as a general term, including the three duties afterwards treated of.",
+            "Not the open benevolence of the Christian who lets his light shine that men may glorify God, but the ostentation of him whose object is the praise and glory coming from man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By 'righteousness,' in this case, we are to understand that same righteousness of the kingdom of heaven, whose leading features\u2014in opposition to traditional perversions of it\u2014it is the great object of this discourse to open up.\" ",
+            "To 'do' this righteousness, was an old and well-understood expression. Thus, 'Blessed is he that doeth righteousness at all times.'",
+            "True, He had required them to let their light so shine before men that they might see their good works, and glorify their Father which is in heaven... But this is quite consistent with not making a display of our righteousness for self-glorification. In fact, the doing of the former necessarily implies our not doing the latter."
+        ],
+        "Albert Barnes": [
+            "Our Saviour here does not positively command his disciples to aid the poor, but supposes that they would do it of course, and gives them directions how to do it.",
+            "To a person who is disposed to do good from a right motive, it matters little whether it be in public or in private.",
+            "Take heed, therefore, that you do not do it to be seen, 'otherwise' God will not reward you."
+        ],
+        "Marvin Vincent": [
+            "Reserved for you and awaiting you by the side of your Father.\" ",
+            "The true sense is, reserved for you and awaiting you by the side of your Father.\" ",
+            "Rev., rightly, with."
+        ],
+        "John Calvin": [
+            "A very necessary admonition; for in all virtues the entrance of ambition is to be dreaded, and there is no work so laudable, as not to be in many instances corrupted and polluted by it.",
+            "Under one class he lays down, by a synecdoche, a general doctrine: for he speaks of alms only, as he speaks shortly afterwards about prayers.",
+            "But the difference is of little moment: for in either way there is no room to doubt, that the design is, to correct the disease of ambition, when, in doing what is right, we seek glory from men."
+        ],
+        "Philip Schaff": [
+            "The method to be cared for to guard against the wrong end.",
+            "Hiding from men only necessary to prevent the praise of men from becoming the motive.",
+            "The reward may (usually does) come from men, but not from God."
+        ],
+        "Archibald T. Robertson": [
+            "To 'hold the mind on a matter,' take pains, take heed.",
+            "Our word theatrical is this very word, spectacular performance.",
+            "Literally 'beside your Father,' standing by his side, as he looks at it."
+        ],
+        "John Gill": [
+            "Alms was so called, because it is a righteous action, which ought to be performed; and to withhold from the poor what is meet, is to deal unrighteously.",
+            "Alms is a sign of a 'righteous' man, the seed of Abraham our father.",
+            "Giving of alms and beneficence are equal to the whole law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 6:1, Jesus shifts His discourse from actions to motives, addressing the righteousness of the kingdom of heaven. This righteousness encompasses various duties, including acts of benevolence. Jesus distinguishes between the open benevolence of a Christian who seeks to glorify God and the ostentation of one who desires praise from others. While it is important to let our light shine before men and be seen doing good works, it is crucial not to make a display of righteousness for self-glorification. Instead, our focus should be on reserving our reward in heaven, awaiting us by the side of our Father. Therefore, we are admonished to take heed and be cautious, ensuring that our motives are pure and free from the corrupting influence of ambition.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7296929019306,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                33.15,
+                30.54,
+                36.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus transitions from actions to motives, addressing the righteousness of the kingdom of heaven. He distinguishes between the open benevolence of a Christian and the ostentation of one seeking praise. Though we are called to let our light shine before others and be seen doing good works, we must avoid self-glorification. Instead, our focus should be reserving our heavenly reward. Thus, we are cautioned to be cautious and ensure our motives are pure, free from the corrupting influence of ambition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6873194935152018,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.45,
+            "commentatorTierSimilarities": [
+                28.73,
+                32.9,
+                38.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus now transitions from actions to motives, focusing on the righteousness of the kingdom of heaven. He distinguishes between the open benevolence of a Christian seeking to glorify God and the self-seeking ostentation of one motivated by praise from others. While it is important to let our light shine before men and be seen doing good works, we should avoid displaying our righteousness for self-glorification. Our ultimate goal should be the reward awaiting us by the side of our Father.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.822034985573837,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                32.96,
+                32.67,
+                34.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus shifts His discourse from actions to motives, addressing the righteousness of the kingdom of heaven. He distinguishes between the open benevolence of a Christian who lets their light shine and the self-glorifying ostentation of one seeking praise from man. While it is important to be seen doing good works, it should not be for self-glorification. Instead, our focus should be on reserving our reward awaiting us by the side of our Father. Therefore, we are admonished to be cautious and ensure our motives are pure, free from the corrupting influence of ambition.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7268825647659853,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                30.81,
+                32.34,
+                36.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 6:1, Jesus addresses the righteousness of the kingdom of heaven, emphasizing the importance of motives over actions. He highlights the distinction between the genuine benevolence of a Christian shining their light before others and the self-glorifying ostentation of one seeking praise from men. While it is commendable to be seen doing good works, it is crucial not to make a display of righteousness for self-glorification. Instead, our focus should be on reserving our reward in heaven, free from the corrupting influence of ambition.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8117869095692183,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                28.93,
+                32.24,
+                38.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

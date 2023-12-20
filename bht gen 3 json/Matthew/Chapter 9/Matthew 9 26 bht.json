@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 23:45:18",
+    "verseRef": "Matthew 9:26",
+    "bestBHT": {
+        "bht": "The news of this miracle spread throughout the land, reaching all who heard. Many witnesses, having seen the girl dead, now saw her alive. Jesus did not seek the praise of others, yet his actions could not be hidden, as the truth of the miraculous resurrection was undeniable. People needed to be convinced that this incredible event had truly taken place.",
+        "wordCount": 61,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.1463250372712461,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.46,
+        "commentatorTierSimilarities": [
+            0.0,
+            68.77,
+            31.23
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "And the fame hereof, lit, \u2018this fame,\u2019 or \u2018report,\u2019 went forth into all that land.",
+            "Many who had seen the girl dead, must afterwards have seen her alive."
+        ],
+        "John Gill": [
+            "He not affecting the applause of men.",
+            "It was not possible the thing should be entirely concealed.",
+            "They must be persuaded of the miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The news of this miracle spread throughout the land, reaching all who heard. Many witnesses, having seen the girl dead, now saw her alive. Jesus did not seek the praise of others, yet his actions could not be hidden, as the truth of the miraculous resurrection was undeniable. People needed to be convinced that this incredible event had truly taken place.",
+            "wordCount": 61,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.1463250372712461,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                68.77,
+                31.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The report of this extraordinary event quickly spread throughout the entire region, capturing the attention of all who heard it. It is likely that many who had witnessed the girl's lifeless body firsthand were now witnesses to her restored vitality. Jesus did not seek to bask in the admiration of others, but the sheer impossibility of keeping this miraculous occurrence entirely secret made it undeniable to the people. The incredulous onlookers needed convincing that this wondrous miracle had indeed occurred.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 0.8355420305500227,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.59,
+                51.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The astounding news of this event rapidly spread throughout the land, captivating the attention of all who heard. Given that numerous individuals had likely seen the girl in her lifeless state, the subsequent sight of her restored to life must have been astonishing. Jesus was not driven by a desire for acclaim, but the sheer impossibility of keeping this supernatural occurrence hidden made it undeniable to those who witnessed it. Convincing the skeptical observers was crucial in affirming the reality of this extraordinary miracle.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 0.8595456236097605,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.99,
+                44.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The remarkable news of this incident quickly spread throughout the entire region, captivating the attention of all who heard. It is likely that many who had witnessed the girl lifeless firsthand were now witnesses to her restored vitality. Jesus did not seek the applause of others, yet the sheer impossibility of concealing this event entirely made it undeniable. People needed to be convinced of the authenticity of this miracle, further illustrating the divine power at work.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 0.8642901076933416,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.08,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.8,
+                53.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The news of this miracle swiftly circulated, capturing the interest of all within the land. Those who had witnessed the girl's lifeless state would subsequently witness her revived and animated. Jesus did not pursue human admiration, but the sheer impossibility of suppressing this occurrence made it irrefutable. The compelling testimony of eyewitnesses was indispensable in persuading others of the reality of this extraordinary event.",
+            "wordCount": 65,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 0.8899652845194848,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.55,
+                41.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+# Matthew 6:10 Commentary Help Text
+
+## BHT:
+We pray for the fulfillment of your kingdom on earth, as it is already established in heaven. This prayer acknowledges that your kingdom involves a process of events that lead to its accomplishment, as described in Scripture. We long for your will to be done on earth, as it is in heaven, and willingly submit our desires to yours. By praying for the success of the Gospel and the conversion of souls, we express our hope for your kingdom to be revealed among all people.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Thy kingdom here is the fulness of the accomplishment of the kingdom of God, so often spoken of in prophetic Scripture; and by implication, all that process of events which lead to that accomplishment." 
+2. "May it be conformed to and subordinated to thine. The literal rendering is, Let thy will be done, as in heaven, (so) also on earth."
+3. "May thy kingdom come on earth, so as to be as fully established, as it is already in heaven."
+
+### John Calvin:
+1. "We must first attend to the definition of the kingdom of God. He is said to reign among men, when they voluntarily devote and submit themselves to be governed by him, placing their flesh under the yoke, and renouncing their desires."
+2. "The substance of this prayer is, that God would enlighten the world by the light of his Word, — would form the hearts of men, by the influences of his Spirit, to obey his justice, and would restore to order, by the gracious exercise of his power, all the disorder that exists in the world."
+3. "It is enough for us to declare, by such a prayer as this, that we hate and regret whatever we perceive to be contrary to the will of God, and long for its utter destruction, not only that it may be the rule of all our affections, but that we may yield ourselves without reserve, and with all cheerfulness, to its fulfillment."
+
+### Philip Schaff:
+1. "The Messiah’s kingdom, which in organized form had not yet come, but was proclaimed by the Lord Himself, as at hand. It did speedily come, as opposed to the Old Testament theocracy; but in its fulness, including the triumph of Christ’s kingdom over the kingdom of darkness it has not yet come."
+2. "For this coining we now pray and the prayer is answered, in part by every success of the gospel, and will be answered entirely when the King comes again. A missionary petition, but not less a prayer for our own higher sanctification and for the second coming of Christ."
+3. "'Heaven' and 'earth,' put for their inhabitants. As by pure angels, so by men. The idea of human doing is prominent, our will subordinate to God’s will 'As' expresses similarity in kind and completeness."
+
+### John Gill:
+1. "Thy kingdom come, to let them know that the Messiah was come; and that it was the kingdom of the Father, in the power of his grace, upon the souls of men, they must pray for and expect."
+2. "In this petition the disciples were taught to pray for the success of the Gospel, both among Jews and Gentiles; for the conversion of God's elect, in which the kingdom of God would greatly appear."
+3. "Thy will be done in earth, as it is in heaven...the will of God may be said to be done by us, when our wills are resigned to his; when we patiently submit to every adverse dispensation of providence; when our hearts and actions are, in some measure, conformed to his law..."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 23:44:16
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 85
+- BHT Commentary Usage: 47.17%
+- BHT Quality Score: 2.1733109179325862
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (53):
+	['a', 'accomplishment', 'acknowledges', 'all', 'already', 'among', 'and', 'as', 'be', 'by', 'conversion', 'described', 'desires', 'done', 'earth', 'established', 'events', 'express', 'for', 'fulfillment', 'gospel', 'heaven', 'hope', 'in', 'involves', 'is', 'it', 'its', 'kingdom', 'lead', 'long', 'of', 'on', 'our', 'people', 'pray', 'prayer', 'praying', 'process', 'revealed', 'scripture', 'souls', 'submit', 'success', 'that', 'the', 'this', 'to', 'we', 'will', 'willingly', 'your', 'yours']
+- ChatGPT injected words (significant words only) (28):
+	['accomplishment', 'acknowledges', 'conversion', 'described', 'desires', 'earth', 'established', 'events', 'express', 'fulfillment', 'gospel', 'heaven', 'hope', 'involves', 'kingdom', 'lead', 'long', 'people', 'pray', 'prayer', 'praying', 'process', 'revealed', 'scripture', 'souls', 'submit', 'success', 'willingly']
+
+### Logs
+- Attempt 1 BHT: Let your kingdom come on earth just as it is in heaven. The kingdom of God is the fullness of the accomplishment of His reign, and we pray that His rule and His will would be established here on earth as it already is in heaven. It is a prayer for the establishment of God's kingdom among His people and for His will to be done by us, willingly surrendering our desires and submitting to His authority. As we pray for the success of the Gospel and the conversion of souls, we long for the world to be enlightened by God's Word and for His Spirit to shape and transform hearts in obedience to His justice. Our prayer reflects our deep longing for the eradication of all that opposes God's will, so that we may fully and joyfully surrender ourselves to Him.
+- 🔄 Matthew 6:10 (attempt 1, 145 words, 41.89% quotes quality score: 2.1721725667216587, V2 normalized quality score: 63.57, commentator tiers 1-3: 34.18%, 30.88%, 34.94%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Let your kingdom come on earth, as in heaven, as we long for the complete establishment of God's reign and the fulfillment of His will. This prayer is a declaration of our surrender to God's authority and our desire for His kingdom to be proclaimed among all people. We pray for the success of the Gospel and the transformation of hearts by the power of the Spirit. Our prayer reflects a deep longing to see God's Word bring light to the world and restore order to all the disorder that exists.
+- 🔄 Matthew 6:10 (attempt 2, 94 words, 37.29% quotes quality score: 1.9613708697308079, V2 normalized quality score: 56.56, commentator tiers 1-3: 32.03%, 31.8%, 36.17%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: We pray for your kingdom to be established on earth, just as it is in heaven. This is a prayer for the fulfillment of God's reign, as prophesied in Scripture, and for the process of events that lead to its accomplishment. We seek for your will to be done on earth, willingly submitting our desires to yours. Our prayer reflects a longing for the triumph of your kingdom over the kingdom of darkness and a desire to see it fully established among humanity.
+- 🔄 Matthew 6:10 (attempt 3, 84 words, 48.08% quotes quality score: 1.9960832074035688, V2 normalized quality score: 57.71, commentator tiers 1-3: 38.78%, 29.72%, 31.5%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: We pray for the fulfillment of your kingdom on earth, as it is already established in heaven. This prayer acknowledges that your kingdom involves a process of events that lead to its accomplishment, as described in Scripture. We long for your will to be done on earth, as it is in heaven, and willingly submit our desires to yours. By praying for the success of the Gospel and the conversion of souls, we express our hope for your kingdom to be revealed among all people.
+- 🔄 Matthew 6:10 (attempt 4, 85 words, 47.17% quotes quality score: 2.1733109179325862, V2 normalized quality score: 63.6, commentator tiers 1-3: 40.41%, 28.84%, 30.75%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: We pray for the fulfillment of God's kingdom on earth, reflecting a longing for His reign to be fully established as it already is in heaven. This prayer acknowledges the process of events leading to this accomplishment as described in Scripture. It also expresses our willingness to submit to God's will and desires. As we pray for the success of the Gospel and the transformation of hearts, we yearn for God's Word to bring light, order, and obedience to a world in need of His grace.
+- 🔄 Matthew 6:10 (attempt 5, 89 words, 33.93% quotes quality score: 1.978349710882822, V2 normalized quality score: 57.12, commentator tiers 1-3: 33.8%, 30.77%, 35.43%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 6:10 bht prompt v0.8 (85 words, 47.17% quotes)
+- quality score: 2.1733109179325862, V2 normalized quality score: 63.6, commentator tiers 1-3: 40.41%, 28.84%, 30.75%)

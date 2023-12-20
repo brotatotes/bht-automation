@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 23:50:54",
+    "verseRef": "Matthew 21:40",
+    "bestBHT": {
+        "bht": "The verse raises the question of what the lord of the vineyard would do to the unfaithful husbandmen. This brings to mind the settling time, where judgment is left when all means have been exhausted. The verse serves as a warning and condemnation to the Jewish ecclesiastics who were facing a judicial trial that would result in the destruction of their state. The question is posed to the chief priests, elders, and Scribes who, by their own words, are made judges in this case, ultimately sealing their own fate. The fuller account in Matthew emphasizes the gravity of the situation.",
+        "wordCount": 100,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.1967361676101433,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.13,
+        "commentatorTierSimilarities": [
+            28.05,
+            32.3,
+            39.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See Isa. v. 5. All means had been tried, and nothing; but judgment was now left."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This represents 'the settling time,' which, in the case of the Jewish ecclesiastics, was that judicial trial of the nation and its leaders which issued in the destruction of their whole state.",
+            "When the lord therefore of the vineyard cometh...",
+            "What will he do unto those husbandmen?"
+        ],
+        "Philip Schaff": [
+            "The question is asked, that they may be warned and condemned out of their own mouth.\" ",
+            "Matthew is fuller here than Mark and Luke."
+        ],
+        "John Gill": [
+            "When the Lord therefore of the vineyard cometh...what will he do unto those husbandmen?\" ",
+            "This question is put to the chief priests, elders, and Scribes\" ",
+            "They themselves, who are designed hereby, are made judges in this case"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse raises the question of what the lord of the vineyard would do to the unfaithful husbandmen. This brings to mind the settling time, where judgment is left when all means have been exhausted. The verse serves as a warning and condemnation to the Jewish ecclesiastics who were facing a judicial trial that would result in the destruction of their state. The question is posed to the chief priests, elders, and Scribes who, by their own words, are made judges in this case, ultimately sealing their own fate. The fuller account in Matthew emphasizes the gravity of the situation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.1967361676101433,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.13,
+            "commentatorTierSimilarities": [
+                28.05,
+                32.3,
+                39.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The lord of the vineyard's impending arrival invokes the question of how he will respond to the unfaithful husbandmen. This scenario reflects a settling time, where judgment becomes the sole recourse after all other attempts have failed. The verse serves as a cautionary tale for the Jewish ecclesiastics, as they face an imminent judicial trial leading to the destruction of their entire state. The chief priests, elders, and Scribes find themselves in the uncomfortable position of being judges in their own case. Matthew's account provides a more detailed depiction of the gravity of the situation.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 0.9593264472263049,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.24,
+            "commentatorTierSimilarities": [
+                26.0,
+                28.75,
+                45.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The approaching presence of the lord of the vineyard prompts speculation about the retribution awaiting the unfaithful husbandmen. This narrative echoes a period of reckoning where all other efforts have been exhausted, leaving judgment as the sole recourse. The passage serves as a warning and indictment aimed at the Jewish ecclesiastics, who face an imminent legal trial that will result in the downfall of their entire state. The question posed implicates the chief priests, elders, and Scribes themselves, compelling them to pass judgment on their own actions. Matthew provides a more comprehensive account of this momentous event.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 0.9977871409309809,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.52,
+            "commentatorTierSimilarities": [
+                30.36,
+                34.93,
+                34.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The impending arrival of the lord of the vineyard begs the question of the consequences awaiting the unfaithful husbandmen. This scenario mirrors a time of reckoning, where every possible means has been attempted and the only option left is judgment. This verse serves as a warning and denouncement targeted at the Jewish ecclesiastics, who are on the verge of a judicial trial that will culminate in the destruction of their entire state. The inquiry pushes the chief priests, elders, and Scribes to act as judges, inadvertently sealing their own fate. Matthew's account provides a more detailed portrayal of this critical juncture.",
+            "wordCount": 102,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 1.0308165668312808,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.62,
+            "commentatorTierSimilarities": [
+                29.6,
+                30.88,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The imminent arrival of the lord of the vineyard raises the pivotal question of how he will deal with the unfaithful husbandmen. This predicament reflects a turning point where all efforts have been exhausted, leaving judgment as the only remaining option. This verse acts as a cautionary tale and indictment aimed specifically at the Jewish ecclesiastics, who are facing an impending trial that will lead to the demise of their entire state. The query places the chief priests, elders, and Scribes in the position of unwittingly judging their own actions. The account in Matthew offers a more detailed narrative of this significant event.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 0.9093681866375041,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.58,
+            "commentatorTierSimilarities": [
+                25.86,
+                30.72,
+                43.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

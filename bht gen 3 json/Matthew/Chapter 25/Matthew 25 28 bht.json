@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 23:52:46",
+    "verseRef": "Matthew 25:28",
+    "bestBHT": {
+        "bht": "In this command, the gift is to be given to the one who already possesses many talents. What may seem like an act of judgment on the slothful servant ends up being an act of mercy towards the faithful one. It is important to note that this gift does not represent special grace, as special grace cannot be taken away. However, it serves as a reminder that gifts can fail and be taken away, highlighting the significance of diligently utilizing our gifts and avoiding laziness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2393111481849968,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.55,
+        "commentatorTierSimilarities": [
+            0.0,
+            38.63,
+            61.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "This command will be given, whether the latter be a spiritual or temporal gift.",
+            "\t",
+            "Give it unto him that hath the ten talents.",
+            "\t",
+            "This act of judgment on the slothful servant becomes an act of mercy to the faithful one."
+        ],
+        "John Gill": [
+            "This shows it was not special grace, which is intended by the talent; for the gift and calling of special grace are without repentance, and are that good part which shall not be taken away.",
+            "Gifts may fail, cease, and vanish; they may be taken away from men, and men from them; a right arm may be clean dried up, and a right eye be utterly darkened.",
+            "But that their gifts appear the more illustrious through the slothfulness of others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 25:28, a command is given to give a certain gift to the one who already has many talents. This act of judgment on the slothful servant actually becomes an act of mercy to the faithful servant. The talent mentioned in this verse does not refer to special grace, as special grace is not taken away. However, gifts can fail and be taken away from individuals, and this highlights the importance of using our gifts diligently and not being slothful.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2384095085084845,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                41.5,
+                58.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, a command is given to give a certain gift to the one who already has many talents. This act of judgment on the slothful servant actually becomes an act of mercy to the faithful servant. The gift mentioned in this context does not refer to special grace, as special grace is not taken away. However, gifts can fail and be taken away from individuals, which emphasizes the importance of using our gifts diligently and avoiding slothfulness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.216330311337589,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.7,
+                60.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this command, the gift is to be given to the one who already possesses many talents. What may seem like an act of judgment on the slothful servant ends up being an act of mercy towards the faithful one. It is important to note that this gift does not represent special grace, as special grace cannot be taken away. However, it serves as a reminder that gifts can fail and be taken away, highlighting the significance of diligently utilizing our gifts and avoiding laziness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2393111481849968,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.63,
+                61.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this command, the gift is to be given to the one who already possesses many talents, turning what appears to be judgment into an act of mercy. While this gift does not represent special grace, which cannot be taken away, it serves as a reminder of the potential for gifts to fail or be removed. This emphasizes the importance of using our gifts diligently and avoiding slothfulness. Through contrast, the laziness of others can make the gifts of the faithful shine even brighter.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.162342157506715,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                31.86,
+                68.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this command, the gift is given to the one with many talents, showcasing mercy rather than judgment. Though not special grace, which cannot be taken away, this gift serves as a reminder of the potential for gifts to fail or be removed. Thus, it underscores the need to use our gifts diligently and avoid slothfulness. The contrast with the idle servant highlights the excellence of the faithful servant's gifts.",
+            "wordCount": 71,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.138459325616638,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.75,
+                65.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

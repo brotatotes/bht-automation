@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:51:22",
+    "verseRef": "Matthew 22:20",
+    "bestBHT": {
+        "bht": "The coin shown to Christ was likely a Roman coin with the image and name of Tiberius Caesar on it. The Rabbis had a saying that wherever any king's money is accepted, that king is considered lord. The Jews had a strong dislike for coins with images, and earlier Herods avoided putting their own image on them. However, Tetrarch Philip introduced the image of Caesar on strictly Jewish coins, and Herod Agrippa I followed suit. Therefore, the coin shown to Christ was most likely stamped in Rome with the image and name of Tiberius Caesar on it.",
+        "wordCount": 98,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1175504364934823,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.75,
+        "commentatorTierSimilarities": [
+            46.6,
+            19.53,
+            33.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was a saying of the Rabbis, quoted by Lightfoot and Wetstein, that \u2018wherever any king\u2019s money is current, there that king is lord.\u2019"
+        ],
+        "Marvin Vincent": [
+            "Images on coins were not approved by the Jews.",
+            "Out of respect to this prejudice none of the earlier Herods had his own image impressed on them.",
+            "The coin shown to Christ must either have been struck in Rome, or else was one of the Tetrarch Philip, who was the first to introduce the image of Caesar on strictly Jewish coins."
+        ],
+        "Philip Schaff": [
+            "Matthew 22:20. Whose is this image. The likeness of the ruler at the date of the coin. Superscription. The name, etc., on the coin.",
+            "\t",
+            "Click image for full-size version"
+        ],
+        "Archibald T. Robertson": [
+            "This image and superscription (\u03b7 \u03b5\u03b9\u03ba\u03c9\u03bd \u03b1\u03c5\u03c4\u03b7 \u03ba\u03b1 \u03b7 \u03b5\u03c0\u03b9\u03b3\u03c1\u03b1\u03c6\u03b7). Probably a Roman coin because of the image (picture) on it.",
+            "The earlier Herods avoided this practice because of Jewish prejudice, but the Tetrarch Philip introduced it on Jewish coins and he was followed by Herod Agrippa I.",
+            "This coin was pretty certainly stamped in Rome with the image and name of Tiberius Caesar on it."
+        ],
+        "John Gill": [
+            "What is the coin of Jerusalem? The answer is, David and Solomon on one side, and Jerusalem the holy city on the other side.",
+            "What was the coin of Abraham our father? An old man and an old woman on one side, and a young man and a young woman on the other side.",
+            "Not that there was on it the form of an old man and an old woman on one side, and of a young man and a young woman on the other, for it is forbidden to make the form of a man; but so it was written on one side, an old man and an old woman, and on the other side, a young man and a young woman."
+        ],
+        "John Wesley": [
+            "The tribute money \u2014 A Roman coin, stamped with the head of Cesar, which was usually paid in tribute."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in Matthew 22:20 refers to a coin that was shown to Christ, which had the image and superscription of Tiberius Caesar on it. This was a significant detail because it was a saying among the Rabbis that wherever a king's money is accepted, that king is considered lord. The Romans were known to have their images on coins, but the Jews had a strong dislike for this practice, so the earlier Herods did not include their own images on coins. However, Tetrarch Philip and later Herod Agrippa I introduced the image of Caesar on Jewish coins. Therefore, the coin shown to Christ was most likely struck in Rome and had the image of Tiberius Caesar on it.",
+            "wordCount": 119,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.130650210684785,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                46.84,
+                20.11,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coin shown to Christ was likely a Roman coin with the image and name of Tiberius Caesar on it. The Rabbis had a saying that wherever any king's money is accepted, that king is considered lord. The Jews had a strong dislike for coins with images, and earlier Herods avoided putting their own image on them. However, Tetrarch Philip introduced the image of Caesar on strictly Jewish coins, and Herod Agrippa I followed suit. Therefore, the coin shown to Christ was most likely stamped in Rome with the image and name of Tiberius Caesar on it.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1175504364934823,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.75,
+            "commentatorTierSimilarities": [
+                46.6,
+                19.53,
+                33.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The coin shown to Christ, according to the first-tier commentary, was most likely a Roman coin with the image and superscription of Tiberius Caesar on it. This is because it was a common saying among the Rabbis that wherever a king's money is accepted, that king is considered lord. The second-tier commentary explains that the image refers to the likeness of the ruler at the time the coin was minted, while the superscription refers to the name and other details inscribed on the coin itself. Therefore, based on historical context, it can be inferred that the coin shown to Christ was likely a Roman coin depicting Tiberius Caesar.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0693732598646264,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                42.11,
+                21.7,
+                36.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The coin shown to Christ, according to the first-tier commentary, was most likely a Roman coin with the image and superscription of Tiberius Caesar on it. The Rabbis had a saying that wherever a king's money is accepted, that king is considered lord. The Jews did not approve of images on coins, but Tetrarch Philip introduced the image of Caesar on Jewish coins, followed by Herod Agrippa I. This suggests that the coin shown to Christ was probably stamped in Rome with the image and name of Tiberius Caesar.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.200047967928467,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                46.45,
+                18.94,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The coin shown to Christ was likely a Roman coin with the image and name of Tiberius Caesar on it. The Rabbis believed that if a king's money was accepted, that king was considered lord. The Jews had a strong aversion to images on coins, but Tetrarch Philip introduced the practice on strictly Jewish coins, followed by Herod Agrippa I. Thus, the coin shown to Christ, bearing the image and superscription of Tiberius Caesar, was probably minted in Rome.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1046695885960442,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+            "commentatorTierSimilarities": [
+                46.39,
+                18.25,
+                35.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

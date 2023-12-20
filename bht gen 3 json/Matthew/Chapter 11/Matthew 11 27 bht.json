@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:47:05",
+    "verseRef": "Matthew 11:27",
+    "bestBHT": {
+        "bht": "Jesus asserts that all things have been delivered to him by the Father, evidencing the deep mystery of his divine nature and unique relationship with the Father. Only the Son truly comprehends the extent of the Father's love and grace. This solidifies the Son's claim to equality with the Father, affirming his proper divinity. We can find hope in the Son's willingness to reveal the Father to us, as he retains the power and will to unveil the profound mysteries of God's being and perfections.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.4547015257138893,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+        "commentatorTierSimilarities": [
+            33.92,
+            39.49,
+            26.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All things were delivered to me answers to 'thou hast revealed' in ver. 25, only 'revealed' could not be used of the Eternal Son, for He is Himself the Revealer.",
+            "None but the Almighty Father has full entire possession of the mystery of the Person and Office of the Son: it is a depth hidden from all being but His, Whose Purposes are evolved in and by it.",
+            "Neither... the Father... nor does any fully apprehend, in the depths of his being, the love and grace of the Father, except the Son, and he to whom the Son, by the Eternal Spirit, proceeding from the Father and the Son, will reveal Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Father and the Son are mutually and exclusively known to each other!\" A higher claim to equality with the Father cannot be conceived.",
+            "Either, then, we have here one of the revolting assumptions ever uttered, or the proper divinity of Christ should to Christians be beyond dispute.",
+            "If it be thus with us, what can any poor creature do but lie down in passive despair, unless he could dare to hope that he may be one of the favored class 'to whom the Son is willing to reveal the Father.'"
+        ],
+        "Albert Barnes": [
+            "It means that Christ has control over all things for the good of his church; that the government of the universe is committed to him 'as Mediator,' that he may redeem his people and guide them to glory.",
+            "Such is the nature of the Son of God, such the mystery of the union between the divine and human nature, such his exalted character as 'divine,' that no mortal can fully comprehend Jesus.",
+            "No man or angel clearly and fully comprehends the character of the infinite God; none but the Son - the Lord Jesus - and he to whom he makes him known, have any just apprehensions of his being and perfections."
+        ],
+        "Marvin Vincent": [
+            "Are delivered [\u03c0\u03b1\u03c1\u03b5\u03b4\u03bf\u03b8\u03b7] . More lit., were delivered, as of a single act at a given time, as in this case, where the Son was sent forth by the Father, and clothed with authority.\" ",
+            "Knoweth [\u03b5\u03c0\u03b9\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03b9] . The compound indicating full knowledge.\" ",
+            "Other behold only in part, 'through a glass, darkly.'"
+        ],
+        "John Calvin": [
+            "The meaning is, that life is exhibited to us in Christ himself, and that no man will partake of it who does not enter by the gate of faith.",
+            "We must understand him to mean, not that the Father knoweth for himself, but that He knoweth for us to reveal him to us.",
+            "The Father, who dwells in inaccessible light, and is in himself incomprehensible, is revealed to us by the Son, because he is the lively image of Him, so that it is in vain to seek for Him elsewhere."
+        ],
+        "Philip Schaff": [
+            "All things were by the Father brought into connection with, and subordination to the economy instituted by Christ.",
+            "This great mystery of Christ\u2019s power over all things rests upon the greatest of mysteries, the person of Christ, the Son, as related to the Father, a mystery thoroughly known only to the two parties, the Father and the Son.",
+            "The Son is the Revealer of this mystery, and about it all revelation centres, not only written revelation, but the revelation made to our hearts."
+        ],
+        "Archibald T. Robertson": [
+            "All things have been delivered unto me of my Father. [...] It is the timeless aorist like \u03b5\u03b4\u03bf\u03b8\u03b7 in Matthew 28:18 and 'points back to a moment in eternity, and implies the pre-existence of the Messiah' (Plummer).",
+            "The Messianic consciousness of Christ is here as clear as a bell. It is a moment of high fellowship.",
+            "The Son retains the power and the will to reveal the Father to men."
+        ],
+        "John Gill": [
+            "All things are delivered unto me of my Father...all the blessings of grace, and the promises of the everlasting covenant, and all the glory and happiness of his people, are put into his hands.",
+            "No man knoweth the Son, but the Father...all that he was to do, and suffer, for his people; all that he had done for them, and should communicate to, and bestow upon them.",
+            "Neither knoweth any man the Father, save the Son...what he has prepared and laid up for them, and will make them partakers of to all eternity."
+        ],
+        "John Wesley": [
+            "None can know it by natural reason: none but those to whom he revealeth it.",
+            "Our Lord, here addressing himself to his disciples, shows why men, wise in other things, do not know this.",
+            "All things are delivered to me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 11:27, Jesus declares, All things have been delivered to me by my Father. This statement reveals the deep mystery of the Son's divine nature and his unique relationship with the Father. Only the Son, as the Revealer, can fully fathom the depths of the Father's love and grace. The Father and the Son exist in mutual and exclusive knowledge, indicating the Son's claim to equality with the Father. This assertion affirms the proper divinity of Christ, underscoring the need to place our hope in the Son, who is willing to reveal the Father to us. Through Christ, all authority and power have been bestowed, pointing back to a moment in eternity and affirming his pre-existence. The Son retains the power and will to reveal the Father to us, guiding us into the profound mysteries of God's being and perfections.",
+            "wordCount": 145,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 2.3690565299305666,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.11,
+            "commentatorTierSimilarities": [
+                34.78,
+                39.09,
+                26.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus affirms that All things have been delivered to me by my Father. This proclamation highlights the mysterious nature of the Son's divinity and his unique relationship with the Father. The Son alone comprehends the depths of the Father's love and grace, as they mutually and exclusively know each other. This affirms the Son's claim to equality with the Father and solidifies his authority and power. Through the Son, we can have hope that he will reveal the Father to us, unveiling the profound mysteries of God's being.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.316541392441607,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+            "commentatorTierSimilarities": [
+                35.13,
+                38.19,
+                26.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 11:27, Jesus asserts that all things have been delivered to him by the Father, emphasizing the Son's divine nature and his exclusive knowledge of the Father. The Son's claim to equality with the Father is apparent, leaving no room for doubt about his proper divinity. Through the Son, we can hope to have the Father revealed to us, as the Son retains the power and will to disclose the mysteries of God's love and grace. It's a profound statement that underscores the significance of the Son's role as the Revealer.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.3588205721790594,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+            "commentatorTierSimilarities": [
+                34.53,
+                39.36,
+                26.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares that all things have been delivered to him by his Father. This reveals the deep mystery of the Son's divine nature and his unique relationship with the Father. Only the Son fully comprehends the Father's love and grace. The Son's claim to equality with the Father cannot be denied, affirming his proper divinity. Through the Son, we can have hope that he will reveal the Father to us, as the Son retains the power and will to disclose the mysteries of God's being and perfections.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.4476012059931787,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.72,
+            "commentatorTierSimilarities": [
+                34.33,
+                38.5,
+                27.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus asserts that all things have been delivered to him by the Father, evidencing the deep mystery of his divine nature and unique relationship with the Father. Only the Son truly comprehends the extent of the Father's love and grace. This solidifies the Son's claim to equality with the Father, affirming his proper divinity. We can find hope in the Son's willingness to reveal the Father to us, as he retains the power and will to unveil the profound mysteries of God's being and perfections.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.4547015257138893,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+            "commentatorTierSimilarities": [
+                33.92,
+                39.49,
+                26.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 23:49:10",
+    "verseRef": "Matthew 18:9",
+    "bestBHT": {
+        "bht": "In this cautionary message, the phrase the hell of fire underscores the grave outcome that awaits those who prioritize sinful desires over their loyalty to Christ. The emphasis of the warning lies on the certainty and severity of this punishment, especially when individuals stubbornly hold onto their beloved sins. Additional insights can be gleaned from the detailed account in Mark 9:43-48, further illuminating the seriousness and repercussions of making such choices.",
+        "wordCount": 70,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 0.8196414570222401,
+        "qualityScoreNormalizedComparedToV2BHTs": 18.6,
+        "commentatorTierSimilarities": [
+            0.0,
+            61.2,
+            38.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The hell of fire.\" ",
+            "Certain and awful future punishment is threatened in cases where some darling sin (or cause of sin) is preferred to Christ.",
+            "Suggestive...comp. the more detailed form in Mark 9:43-48."
+        ],
+        "John Gill": [
+            ":-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 18:9, we find a warning that highlights the severity of choosing sinful desires over Christ. In this verse, the phrase the hell of fire is used to convey a certain and dreadful punishment that awaits those who prioritize their cherished sins above their relationship with Jesus. The specific details of this punishment are further explored in Mark 9:43-48, reinforcing the seriousness and consequences of such choices.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 0.8562295165975009,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.81,
+            "commentatorTierSimilarities": [
+                0.0,
+                69.69,
+                30.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the phrase the hell of fire is a vivid and solemn reminder of the terrifying future punishment that awaits those who choose to prioritize sinful desires over their commitment to Christ. The commentary emphasizes how this warning clearly establishes the certainty and awfulness of this punishment, particularly in cases where individuals stubbornly cling to their beloved sins. By considering the more detailed account in Mark 9:43-48, we gain a deeper understanding of the gravity and consequences of these choices.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 0.8998049249506652,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.26,
+            "commentatorTierSimilarities": [
+                0.0,
+                64.1,
+                35.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The phrase the hell of fire serves as a poignant warning about the impending punishment for those who prioritize sinful desires over their devotion to Christ. This verse underscores the certainty and gravity of this punishment, especially when individuals cling stubbornly to their cherished sins. By exploring the more detailed account in Mark 9:43-48, we gain further insight into the significant consequences of these choices.",
+            "wordCount": 64,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 0.8102498311516069,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                67.08,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this warning, the phrase the hell of fire highlights the dire consequences awaiting those who prioritize sinful desires over their commitment to Christ. The commentary emphasizes the certainty and seriousness of this punishment, particularly when individuals persist in clinging to their beloved sins. Exploring the additional details provided in Mark 9:43-48 further illuminates the gravity and ramifications of such choices.",
+            "wordCount": 60,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 0.8194120718388449,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                66.94,
+                33.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this cautionary message, the phrase the hell of fire underscores the grave outcome that awaits those who prioritize sinful desires over their loyalty to Christ. The emphasis of the warning lies on the certainty and severity of this punishment, especially when individuals stubbornly hold onto their beloved sins. Additional insights can be gleaned from the detailed account in Mark 9:43-48, further illuminating the seriousness and repercussions of making such choices.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 0.8196414570222401,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.2,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

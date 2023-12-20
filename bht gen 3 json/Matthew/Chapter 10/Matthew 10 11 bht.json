@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:45:53",
+    "verseRef": "Matthew 10:11",
+    "bestBHT": {
+        "bht": "When Jesus sends out his disciples, he instructs them to seek out those who are worthy and willing to receive them and their message. This worthiness does not refer to social status, but rather to a congenial disposition and a readiness to receive the gospel. The disciples are to find a fixed abode in each city, demonstrating a courteous and contented disposition. Jesus emphasizes the need for haste in their mission, moving from one city to another, seeking out those who are prepared to receive the teachings of the Gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.487387124362431,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+        "commentatorTierSimilarities": [
+            27.06,
+            31.25,
+            41.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "worthy] Inclined to receive you and your message,\u2014worthy that you should become his guest.\" ",
+            "Such persons in this case would be of the same ind as those spoken of Acts xiii. 48 as 'disposed to eternal life' (see there).\" ",
+            "The precept in this verse is very much more fully set forth by Luke, x. 7 ff. till ye go thence] i.e. Until ye depart out of the city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who in it is worthy\u2014or 'meet' to entertain such messengers; not in point of rank, of course, but of congenial disposition.",
+            "And into whatsoever city or town\u2014town or village.",
+            "And there abide till ye go thence\u2014not shifting about, as if discontented, but returning the welcome given with a courteous, contented, accommodating disposition."
+        ],
+        "John Calvin": [
+            "By these words, he bids them ask, if there are any godly and upright men, who have some fear and reverence for God, and of whose readiness to receive instruction good hopes may be entertained, that they may direct their labors chiefly to them.",
+            "For, as they were not at liberty to remain long in any one place, it was proper to begin with those who, in some respect were better prepared.",
+            "When, therefore, Christ enjoins them to remain in the house of the person who shall first receive them, till they depart to another city, he intimates that they must make haste, so that, after having published the Gospel in one city, they may immediately run to another."
+        ],
+        "Philip Schaff": [
+            "Left to choose their own precise route, their work involved the exercise of judgment and prudence, it was not a mere mechanical routine.",
+            "This refers either to hospitable or to pious character, probably to both, since they are often united.",
+            "In this fixed abode they were not to give unnecessary trouble. They were not social visitors but messengers of the gospel."
+        ],
+        "John Gill": [
+            "And besides, who could answer to such a question when asked? Who in any town, or city, could tell who in it were worthy of Christ, of his Gospel, and ministers, to which they were all equally strangers before they came among them?",
+            "Nor does it mean a man famous for piety and religion, or one that feared God, and was a worshipper of him, but an hospitable man; one that was very liberal; who was willing and ready to entertain strangers.",
+            "Christ's meaning is, that he would not have his disciples be difficult, and dainty, or fickle, and inconstant, but be content with such things they should have provided for them; and not seek for other, and better quarters, nor fear being troublesome where they were."
+        ],
+        "John Wesley": [
+            "Inquire who is worthy \u2014 That you should abide with him: who is disposed to receive the Gospel.",
+            "There abide \u2014 In that house, till ye leave the town. Mark 6:10; Luke 9:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus sends out his disciples, he instructs them to seek out those who are worthy and willing to receive them and their message. This worthiness does not refer to social status, but rather to a congenial disposition and a readiness to receive the gospel. The disciples are to find a fixed abode in each city and remain there until they depart to another. By doing so, they demonstrate a courteous and contented disposition, returning the welcome given to them. Jesus emphasizes the need for haste in their mission, moving from one city to another, seeking out those who are prepared to receive the teachings of the Gospel.",
+            "wordCount": 108,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.4662225157726856,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                27.04,
+                32.54,
+                40.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus sends his disciples, he tells them to find those who are worthy of receiving them and their message. The disciples are to stay in the houses of those who first welcome them, demonstrating a contented disposition and returning the welcome given. They are not to be fickle or seek better accommodations, but be satisfied with what is provided. Jesus urges them to act quickly, moving from one city to another, sharing the Gospel with those who are prepared to receive it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.3812993505271378,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+            "commentatorTierSimilarities": [
+                28.55,
+                29.53,
+                41.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus sends out his disciples, he instructs them to seek those who are worthy of receiving them and their message. This worthiness is not based on social status, but rather on a congenial disposition and a readiness to embrace the gospel. The disciples are to find a fixed abode in each city, remaining there until they depart for another. This instruction emphasizes the need for haste in their mission, moving from one city to another, and sharing the teachings of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.3859341982050881,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.43,
+            "commentatorTierSimilarities": [
+                25.61,
+                34.7,
+                39.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus sends out his disciples, he instructs them to seek out those who are worthy and willing to receive them and their message. This worthiness does not refer to social status, but rather to a congenial disposition and a readiness to receive the gospel. The disciples are to find a fixed abode in each city, demonstrating a courteous and contented disposition. Jesus emphasizes the need for haste in their mission, moving from one city to another, seeking out those who are prepared to receive the teachings of the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.487387124362431,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+            "commentatorTierSimilarities": [
+                27.06,
+                31.25,
+                41.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus sends his disciples, he tells them to find those who are worthy of receiving them and their message. The disciples are to stay in the houses of those who first welcome them, demonstrating a contented disposition and returning the welcome given. They are not to be fickle or seek better accommodations, but be satisfied with what is provided. Jesus urges them to act quickly, moving from one city to another, sharing the Gospel with those who are prepared to receive it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.3812993505271378,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+            "commentatorTierSimilarities": [
+                28.55,
+                29.53,
+                41.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

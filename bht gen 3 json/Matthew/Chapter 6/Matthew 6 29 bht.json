@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:44:22",
+    "verseRef": "Matthew 6:29",
+    "bestBHT": {
+        "bht": "The comparison between human pomp and the meanest of God's works reveals the Creator's perspective on relative glory and beauty. True adornment is not achieved through external means, but by the unfolding of one's individual life from within, through the work of the Almighty Spirit. Even the magnificence of Solomon's glory cannot match the arrayed beauty of a humble lily. This teaching is characterized by its transparent clearness and rich simplicity, emphasizing the surpassing glory found in God's creation.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.8653598847256423,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+        "commentatorTierSimilarities": [
+            28.72,
+            43.14,
+            28.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We here have the declaration of the Creator Himself concerning the relative glory and beauty of all human pomp, compared with the meanest of His own works.",
+            "As the beauty of the flower is unfolded by the divine Creator Spirit from within, from the laws and capacities of its own individual life, so must all true adornment of man be unfolded from within by the same Almighty Spirit.",
+            "As nothing from without can defile a man, so neither can anything from without adorn him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even Solomon in all his glory was not arrayed like one of these.\" ",
+            "Incomparable teaching!\" ",
+            "Transparent clearness and rich simplicity."
+        ],
+        "John Calvin": [
+            "The kindness of God, which is gloriously displayed in herbs and flowers, exceeds all that men can accomplish by their wealth or power, or in any other way.",
+            "Believers ought to be convinced that, though all means fail, they will want nothing that is necessary for their full satisfaction, provided they continue to enjoy the blessing of God alone.",
+            "The more powerfully we are affected, according to our own grovelling views, by anxiety about the present life, the more do we show our unbelief, if everything does not happen to our wish."
+        ],
+        "Philip Schaff": [
+            "The meanest of God's creatures exceed in glory the highest earthly pomp.",
+            "'As the beauty of the flower is unfolded by the Divine Creator-Spirit from within, from the laws and capacities of its own individual life, so must all true adornment of man be unfolded from within by the same Almighty Spirit.'"
+        ],
+        "Archibald T. Robertson": [
+            "Was not arrayed (\u03bf\u03c5\u03b4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03b5\u03b2\u03b1\u03bb\u03b5\u03c4\u03bf). Middle voice and so \"did not clothe himself,\" \"did not put around himself.\" "
+        ],
+        "John Gill": [
+            "Even Solomon in all his glory... was not arrayed like one of these lilies.",
+            "Their glory and beauty... can never be equalled by art.",
+            "He was exceeded in array by a single lily."
+        ],
+        "John Wesley": [
+            "Solomon in all his glory was not arrayed like one of these \u2014 Not in garments of so pure a white. The eastern monarchs were often clothed in white robes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the Creator's declaration about the relative glory and beauty of human pomp compared to even the meanest of His own works. Just as the beauty of a flower is unfolded by the Divine Creator-Spirit from within, true adornment for humans must also come from within, not from external sources. Even the glorious and wealthy Solomon was not arrayed like one of these lilies, showcasing the incomparable teaching and transparent simplicity of this truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.919860288042036,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                30.63,
+                40.29,
+                29.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The comparison between human pomp and the meanest of God's works reveals the Creator's perspective on relative glory and beauty. True adornment is not achieved through external means, but by the unfolding of one's individual life from within, through the work of the Almighty Spirit. Even the magnificence of Solomon's glory cannot match the arrayed beauty of a humble lily. This teaching is characterized by its transparent clearness and rich simplicity, emphasizing the surpassing glory found in God's creation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8653598847256423,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+            "commentatorTierSimilarities": [
+                28.72,
+                43.14,
+                28.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Creator's declaration compares human pomp to His own works, highlighting the unfolding beauty of a flower and emphasizing the need for true adornment to come from within. Even Solomon's glory cannot match the radiance of a simple lily. This teaching is marked by its transparent clearness and rich simplicity, showcasing the surpassing glory found in God's creation. The kind display of God's creation exceeds worldly accomplishments, and believers should find full satisfaction in His blessings alone.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7567783022231813,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "commentatorTierSimilarities": [
+                29.4,
+                40.66,
+                29.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The beauty of human pomp pales in comparison to even the meanest of God's works. True adornment comes from the unfolding of one's individual life by the Almighty Spirit. Even the glorious Solomon falls short of the arrayed beauty seen in a humble lily. This teaching, with its transparent clearness and rich simplicity, reminds believers that the kindness of God, displayed in herbs and flowers, exceeds all human accomplishments. True satisfaction lies in enjoying the blessings of God alone.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.7508327384682016,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                24.74,
+                46.8,
+                28.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The comparison between human pomp and God's works declares the relative glory and beauty. True adornment unfolds from within, by the Almighty Spirit. Even Solomon in all his glory was not arrayed like a lily. This teaching is marked by transparent clearness and rich simplicity. The kindness of God displayed in herbs and flowers transcends human accomplishments. Believers should find satisfaction in God's blessings alone, realizing that anxiety about the present life shows unbelief.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5905643798294962,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                29.29,
+                39.15,
+                31.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

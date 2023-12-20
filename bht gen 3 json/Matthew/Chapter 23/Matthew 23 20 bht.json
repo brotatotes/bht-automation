@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 23:51:35",
+    "verseRef": "Matthew 23:20",
+    "bestBHT": {
+        "bht": "When Jesus speaks of swearing by the altar, temple, or heaven, he is not condoning the act itself. Rather, he wants people to understand the gravity of their oaths. By reminding them that all of these things are connected to God and His holiness, Jesus emphasizes that any oath made through them is ultimately an appeal to God. Therefore, one should be mindful that such oaths carry weight and are binding. It is not just the object or place being sworn by, but also everything associated with it, including the gifts and offerings presented there.",
+        "wordCount": 95,
+        "quoteTokenProportion": 51.43,
+        "qualityScore": 1.0525112619728716,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.34,
+        "commentatorTierSimilarities": [
+            34.2,
+            0.0,
+            65.8
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "20-22. Whoso therefore shall swear",
+            "\tby the altar, &amp;c.\u2014See on :-."
+        ],
+        "John Gill": [
+            "Not that Christ allowed of swearing by the altar, or by the temple, or by heaven, or by any creature, animate or inanimate...",
+            "...he ought to know, and consider that he not only sweareth by it, but by all the gifts, and offerings that are brought, and laid upon it, and by all things thereon...",
+            "...such oaths must be binding."
+        ],
+        "John Wesley": [
+            "He that sweareth by the altar, sweareth by it, and by all things thereon.\" ",
+            "Not only by the gift, but by the holy fire, and the sacrifice.",
+            "Every oath by a creature is an implicit appeal to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus speaks of swearing by the altar, temple, or heaven, he is not condoning the act itself. Rather, he wants people to understand the gravity of their oaths. By reminding them that all of these things are connected to God and His holiness, Jesus emphasizes that any oath made through them is ultimately an appeal to God. Therefore, one should be mindful that such oaths carry weight and are binding. It is not just the object or place being sworn by, but also everything associated with it, including the gifts and offerings presented there.",
+            "wordCount": 95,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.0525112619728716,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.34,
+            "commentatorTierSimilarities": [
+                34.2,
+                0.0,
+                65.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus mentions swearing by the altar, temple, or heaven, he is not endorsing the practice, but rather highlighting the significance of oaths made through these entities. By drawing attention to the interconnectedness of these objects with God's holiness, Jesus reminds individuals that such oaths are ultimately appeals to God. It is crucial to recognize the binding nature of these oaths, as they encompass not only the object itself, but also everything related to it, including the gifts and offerings presented at the altar.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.0073383237368694,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.84,
+            "commentatorTierSimilarities": [
+                30.86,
+                0.0,
+                69.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus does not approve of swearing by the altar, temple, or heaven, but he wants people to realize the weight of their oaths. These acts are not endorsed by Jesus, but rather an appeal to God through these objects and places. Oaths made in this manner are binding and encompass not just the object itself, but also everything associated with it, including the gifts and offerings brought to the altar.",
+            "wordCount": 70,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.1640579039984968,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.05,
+            "commentatorTierSimilarities": [
+                34.66,
+                0.0,
+                65.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus does not explicitly endorse swearing by the altar or other entities, but he prompts individuals to recognize the significance of their oaths. Such oaths carry weight because they implicitly appeal to God, encompassing not just the object being sworn by, but also everything connected to it, such as the gifts and offerings placed on the altar. Therefore, one should be aware of the binding nature of these oaths made by a creature, as they indirectly invoke the authority and presence of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.1137875879170689,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.38,
+            "commentatorTierSimilarities": [
+                32.26,
+                0.0,
+                67.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus does not explicitly endorse swearing by the altar or other entities. However, he urges individuals to understand the gravity of their oaths. These oaths, though not approved, have significant meaning as they implicitly invoke God's authority. They encompass not only the object being sworn by, but also everything associated with it, such as the gifts and offerings presented on the altar. It is important to recognize that oaths made in this manner are binding, as they are ultimately an appeal to God's presence and power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.0678390837843847,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.85,
+            "commentatorTierSimilarities": [
+                35.66,
+                0.0,
+                64.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

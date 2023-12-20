@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:46:32",
+    "verseRef": "Matthew 11:11",
+    "bestBHT": {
+        "bht": "John the Baptist, the greatest among those born of women, is still surpassed by the least in the kingdom of heaven. While he stands on the threshold between the old and the new era, those in the kingdom have entered into a new birth and possess greater privilege. This verse signifies the transition from the old covenant to the new, where the ministers of the Gospel are far superior to John, and the kingdom of heaven, with its complete redemption and eternal satisfaction in Christ, is proclaimed.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.4209485624620495,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.84,
+        "commentatorTierSimilarities": [
+            34.35,
+            29.05,
+            36.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he that is least in the of heaven, is greater than he.",
+            "John, not inferior to any born of women\u2014but these, even the least of them, are born of another birth.",
+            "John, the nearest to the King and the Kingdom\u2014standing on the threshold\u2014but never having himself entered; these, 'in the Kingdom,' subjects and citizens and indwellers of the realm, whose citizenship is in heaven."
+        ],
+        "Albert Barnes": [
+            "Among them that are born of women - This is an emphatic way of saying that there 'had never' been a greater 'man' than John.\" ",
+            "He that is least in the kingdom of heaven is greater than he - It here probably means, 'in preaching the kingdom of God,' or the gospel.\" ",
+            "But of the apostles of the Saviour, of the first preachers who were with him and who heard his instructions, it might be said that they had more correct apprehensions than any of the ancient prophets, or than John."
+        ],
+        "John Calvin": [
+            "He was, no doubt, a Prophet, like others whom God had appointed in his Church to be expounders of the Law, and messengers of his will; but he was more excellent than the Prophets in this respect, that he did not, like them, make known redemption at a distance and obscurely under shadows, but proclaimed that the time of redemption was now manifest and at hand.\" ",
+            "The ministers of the Gospel will be as far superior to John as John was superior to the Prophets.\" ",
+            "The kingdom of heaven and the kingdom of God denote the new condition of the Church... because it holds out Christ as having rendered complete and eternal satisfaction by his one sacrifice, as the conqueror of death and the Lord of life."
+        ],
+        "Philip Schaff": [
+            "Only One could thus speak concerning the greatest 'born of women.'",
+            "Among mankind in general. Christ was 'born of a woman' (Galatians 4:4), but this differs from the phrase here used as 'Son of man' does from 'men.'",
+            "Those born of the Spirit are greater than the greatest born of women."
+        ],
+        "Archibald T. Robertson": [
+            "He surely means that John is greater (\u03bc\u03b5\u03b9\u03b6\u03c9\u03bd) than all others in character, but that the least in the kingdom of heaven surpasses him in privilege.",
+            "John is the end of one age, 'until John' (Matthew 11:14), and the beginning of the new era.",
+            "All those that come after John stand upon his shoulders. John is the mountain peak between the old and the new."
+        ],
+        "John Gill": [
+            "Among them that are born of women, there hath not risen a greater than John the Baptist.",
+            "There has not been raised up by God a greater prophet than John, the first administrator of baptism.",
+            "He that is least in the kingdom of heaven, is greater than [John the Baptist]."
+        ],
+        "John Wesley": [
+            "One perfect in the law, as John was, is inferior to one who is baptized into the death of Christ.",
+            "John was greater than all who had been then born of women, but he was cut off before the kingdom of heaven was given.",
+            "Whosoever, therefore, is least in the kingdom of heaven, by Christian regeneration, is greater than any who has attained only the righteousness of the law, because the law maketh nothing perfect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the superiority of those in the kingdom of heaven over John the Baptist, stating that even the least in the kingdom is greater than him. John, though not lacking in stature, represents the end of an era and stands on the threshold of the new age. While he proclaims the coming of the kingdom, those in the kingdom are its citizens and dwellers, having entered into a new birth. The least in the kingdom of heaven surpasses John in privilege and is part of the realm whose citizenship is in heaven. The ministers of the Gospel will be far superior to John, just as he was greater than the Prophets who preceded him. This verse highlights the new condition of the Church and the complete satisfaction and redemption offered through Christ.",
+            "wordCount": 134,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.1420140107423804,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                37.3,
+                25.4,
+                37.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist, though not inferior to any born of women, is surpassed in privilege by even the least in the kingdom of heaven, who are subjects and citizens of a realm whose citizenship is in heaven. John stands on the threshold between the old and the new era, proclaiming the coming of the kingdom. Those in the kingdom, however, have entered into a new birth and experience the greatness and privilege that surpasses even John's. The ministers of the Gospel, who are part of the kingdom, will far surpass John, as he was greater than the Prophets who came before him. In this way, the verse emphasizes the surpassing superiority of those in the kingdom over John the Baptist, exemplifying the new condition of the Church.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.353573610915401,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.6,
+            "commentatorTierSimilarities": [
+                37.1,
+                27.07,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist, though not inferior to any born of women, is surpassed in privilege by even the least in the kingdom of heaven. While John proclaims the coming of the kingdom, those in the kingdom are its citizens and dwellers, having entered into a new birth. The least in the kingdom of heaven surpasses John in privilege and is part of the realm whose citizenship is in heaven. This verse highlights the new condition of the Church and the complete satisfaction and redemption offered through Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.204187946437418,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                37.05,
+                26.58,
+                36.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist, not inferior to any born of women, is surpassed in privilege by the least in the kingdom. While John stands as the peak between the old and the new era, those in the kingdom are its subjects, citizens, and indwellers. The least in the kingdom surpasses John in privilege and is born of a different birth. This verse highlights the superiority of those in the kingdom, who have entered into a new condition of the Church, experiencing complete satisfaction and redemption through Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.292441483865239,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                37.03,
+                28.79,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, the greatest among those born of women, is still surpassed by the least in the kingdom of heaven. While he stands on the threshold between the old and the new era, those in the kingdom have entered into a new birth and possess greater privilege. This verse signifies the transition from the old covenant to the new, where the ministers of the Gospel are far superior to John, and the kingdom of heaven, with its complete redemption and eternal satisfaction in Christ, is proclaimed.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.4209485624620495,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.84,
+            "commentatorTierSimilarities": [
+                34.35,
+                29.05,
+                36.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

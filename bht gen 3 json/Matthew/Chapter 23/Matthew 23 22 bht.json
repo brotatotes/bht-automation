@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:51:41",
+    "verseRef": "Matthew 23:22",
+    "bestBHT": {
+        "bht": "Jesus emphasizes the significance of oaths by highlighting that heaven is God's throne. Swearing by an altar, gift, or temple lacks power unless it is an appeal to God Himself. The crucial aspect of an oath is invoking God as a witness to our honesty. These verses entail more than just swearing, emphasizing the necessity of truthfulness in both words and actions. False distinctions used to justify lying are condemned, as swearing by anything connected to God is implicitly swearing by Him.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.873778867789547,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+        "commentatorTierSimilarities": [
+            0.0,
+            50.56,
+            49.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Heaven is his throne, Matthew 5:34. It is so called as being the place where he sits in glory.",
+            "To swear by an altar, a gift, or a temple is of no force unless it be meant to appeal to God himself.",
+            "The essential thing in an oath is calling God to witness our sincerity."
+        ],
+        "Philip Schaff": [
+            "Every oath is by God; hence make no distinctions between oaths.\" ",
+            "These verses really refer, not only to swearing, but to truthfulness, in word and act.",
+            "They forbid those false distinctions used to palliate the crime of lying."
+        ],
+        "John Gill": [
+            "Swearing by anything that has any relation to God, is implicitly swearing by him; and therefore ought to be considered as binding...\" ",
+            "Since an appeal cannot be made to things inanimate, nor indeed to any creature, but to God, the searcher of hearts.\" ",
+            "Thus swearing by anything that has any relation to God is implicitly swearing by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus teaches in Matthew 23:22 about the seriousness of oaths in relation to God. It is essential to understand that heaven is God's throne, the place where he sits in glory. Swearing by an altar, gift, or temple has no weight unless it is meant to appeal to God himself. The important aspect of an oath is calling God as our witness to our sincerity. These verses go beyond just the act of swearing, emphasizing the importance of truthfulness in both our words and actions. Jesus condemns the false distinctions used to justify the sin of lying and reminds us that when we swear by anything related to God, we are ultimately swearing by Him.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.7756347046774599,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.54,
+                47.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus emphasizes the significance of oaths by highlighting that heaven is God's throne. Swearing by an altar, gift, or temple lacks power unless it is an appeal to God Himself. The crucial aspect of an oath is invoking God as a witness to our honesty. These verses entail more than just swearing, emphasizing the necessity of truthfulness in both words and actions. False distinctions used to justify lying are condemned, as swearing by anything connected to God is implicitly swearing by Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.873778867789547,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.56,
+                49.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's teaching in Matthew 23:22 highlights the importance of oaths and their relation to God. Emphasizing that heaven is God's throne, He establishes that swearing by an altar, gift, or temple is ineffective unless it appeals to God Himself. The essence of an oath lies in calling upon God as a witness to our sincerity. These verses go beyond mere swearing, underscoring the significance of truthfulness in both our words and actions. Jesus condemns the deceptive distinctions used to justify lying, reminding us that swearing by anything connected to God is implicitly swearing by Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8452809930630891,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.75,
+                49.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's teachings in these verses emphasize the importance of oaths and their relationship to God. He points out that heaven is God's throne, highlighting the significance of swearing by an altar, gift, or temple only if it is meant to appeal to God himself. The essence of an oath lies in invoking God as a witness to our sincerity. Jesus condemns the false distinctions used to downplay the sin of lying, emphasizing that swearing by anything related to God is, in essence, swearing by God himself.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8614112130164664,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.16,
+                47.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasizes the weightiness of oaths in Matthew 23:22, highlighting heaven as God's throne and the need to appeal to Him directly when making vows. Swearing by altars, gifts, or temples lacks power unless it is a genuine invocation of God Himself. Jesus stresses the sincerity of oaths by calling God as a witness, extending the lesson beyond mere swearing to encompass truthfulness in all aspects of life. He rejects the artificial distinctions employed to justify dishonesty, affirming that all oaths implicitly involve commitment to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7859678901119127,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                51.15,
+                48.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:48:02",
+    "verseRef": "Matthew 14:29",
+    "bestBHT": {
+        "bht": "Peter, having received permission from Jesus, stepped out of the boat and walked on the water towards Jesus, an incredible feat made possible through his faith in Christ's power. While Christ walked upon the water by his own divine power, Peter was upheld by the power of Christ, an extraordinary and miraculous action. This moment demonstrated the supernatural aid Peter received from Jesus and showcased the incredible faith he had in his Master.",
+        "wordCount": 74,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 1.6626499063889084,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+        "commentatorTierSimilarities": [
+            8.57,
+            35.32,
+            56.12
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "29. And he said, Come. And when",
+            "\tPeter had come down out of the boat. he walked on the water, to go to",
+            "\tJesus\u2014(Also see on :-.)"
+        ],
+        "Marvin Vincent": [
+            "To go to [\u03b5\u03bb\u03b8\u03b5\u03b9\u03bd \u03c0\u03c1\u03bf\u03c2] . But some of the best texts read kai hlqen prov, and went toward."
+        ],
+        "Philip Schaff": [
+            "More of a permission than a command, as the result proved.",
+            "He walked upon the waters... through supernatural aid from Christ.",
+            "The power was obtained and conditioned by faith in Christ\u2019s power."
+        ],
+        "John Gill": [
+            "Christ walked upon the water by his own power, as God; Peter walked upon the water, being held up by the power of Christ.",
+            "This was an extraordinary and miraculous action: for if it was so in Christ, it was much more so in Peter.",
+            "He did not, as at another time, cast himself into the sea, and swim to Christ; but as soon as he came down from the ship, standing upright, he walked upon the waters, to go to Jesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, having received permission from Jesus, stepped out of the boat and walked on the water towards Jesus, an incredible feat made possible through his faith in Christ's power. While Christ walked upon the water by his own divine power, Peter was upheld by the power of Christ, an extraordinary and miraculous action. This moment demonstrated the supernatural aid Peter received from Jesus and showcased the incredible faith he had in his Master.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.6626499063889084,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                8.57,
+                35.32,
+                56.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, upon receiving Jesus' permission, courageously came down from the boat and walked on the water towards Jesus, an extraordinary feat made possible by his unwavering faith in Christ's power. While Jesus walked on the water by His own divine authority, Peter, standing upright, confidently walked upon the waters, firmly supported by the supernatural power of Christ. This remarkable event highlighted the incredible faith Peter had in his Master and the incredible demonstration of Christ's ability to provide miraculous assistance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.578705757224627,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                8.92,
+                34.02,
+                57.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon receiving Jesus' permission, Peter courageously stepped out of the boat and walked on water towards Him, a remarkable feat enabled by his unwavering faith in Christ's power. While Christ naturally walked on the water, Peter,  upheld by Christ's power, also walked upon the waters, signifying the extraordinary and miraculous nature of the event. This astonishing account showcases both the supernatural aid Peter received from Jesus and the tremendous faith he had in his Master.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.584374256867677,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.02,
+            "commentatorTierSimilarities": [
+                10.06,
+                34.15,
+                55.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With Jesus' permission, Peter descended from the boat and walked on water towards Him, a remarkable feat accomplished through his firm belief in Christ's power. While Jesus walked on water by His own divine power, Peter, supported by Christ's supernatural strength, also walked upon the waters. This extraordinary event serves as a testament to the extraordinary nature of Christ's power and Peter's exceptional faith in His abilities.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5948221670856002,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                8.66,
+                35.91,
+                55.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By Jesus' command, Peter had the courage to step out of the boat and walk on water towards Him, an extraordinary achievement made possible through his firm faith in Christ's power. While Christ walked on water through his own divine power, Peter walked on water with the support of Christ's power. This astonishing event demonstrates the miraculous assistance that Peter received from Jesus and highlights his unwavering belief in his Master's abilities.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5656137910311576,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.4,
+            "commentatorTierSimilarities": [
+                9.63,
+                34.48,
+                55.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

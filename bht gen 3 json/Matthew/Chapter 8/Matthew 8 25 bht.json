@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 23:45:03",
+    "verseRef": "Matthew 8:25",
+    "bestBHT": {
+        "bht": "The disciples woke the Lord and urgently cried out, Save, Lord; we perish! Their plea for salvation emphasized their desperate need for deliverance from danger. Their anxious words reveal a reliance on the mere letter of the Scriptures, rather than seeking the deeper spiritual meaning. While their fear was not entirely blameless, their faith in Christ's divinity led them to call upon Him for help in their extremity. The disciples knew that only the Son of God could save them from the storms of divine wrath and their imminent peril.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.5665381337205062,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+        "commentatorTierSimilarities": [
+            33.27,
+            26.38,
+            40.35
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sense of the disciples waking the Lord and seeking to be saved, is one and the same: nor is it worth while to enquire which of these three was really said to Christ.",
+            "What matters it?\" ",
+            "The inspiration of the mere letter is set up against those who seek for life in searching the real spirit of the Scriptures."
+        ],
+        "Albert Barnes": [
+            "Save us - Save our lives.",
+            "We perish - We are in danger of perishing.",
+            "There is none that can save from the storms of divine wrath but the Son of God."
+        ],
+        "John Calvin": [
+            "They ought to have believed that the Divinity of Christ was not oppressed by carnal sleep, and to his Divinity they ought to have had recourse.",
+            "Is every kind of fear sinful and contrary to faith? First, he does not blame them simply because they fear, but because they are timid.",
+            "But as it never happens that believers exercise such restraint on themselves as to keep their faith from being injured, their fear is almost always attended by sin."
+        ],
+        "Philip Schaff": [
+            "Matthew 8:25. Save, we perish, or, \u2018are perishing.\u2019 Disconnected language of anxiety or terror, as in the parallels (Mark 4:33; Luke 8:24).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Save, Lord; we perish (\u039a\u03c5\u03c1\u03b9\u03b5, \u03c3\u03c9\u03c3\u03bf\u03bd, \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc\u03b5\u03b8\u03b1). More exactly, \"Lord, save us at once (aorist), we are perishing (present linear).\" "
+        ],
+        "John Gill": [
+            "Lord, save us, we perish.\" ",
+            "They saw no probability of escaping by any natural, rational methods.",
+            "They apply to Christ, believing that he was able to save them, in this their extremity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples woke the Lord and urgently cried out, Save, Lord; we perish! Their plea for salvation emphasized their desperate need for deliverance from danger. Their anxious words reveal a reliance on the mere letter of the Scriptures, rather than seeking the deeper spiritual meaning. While their fear was not entirely blameless, their faith in Christ's divinity led them to call upon Him for help in their extremity. The disciples knew that only the Son of God could save them from the storms of divine wrath and their imminent peril.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.5665381337205062,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+            "commentatorTierSimilarities": [
+                33.27,
+                26.38,
+                40.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples waking the Lord and urgently crying out, Save, Lord; we perish! demonstrated their desperate need for deliverance from danger. Their fear arose from a lack of faith in the Scriptures and a reliance on the outer, literal meaning rather than seeking the deeper spiritual truth. Yet, in their extremity, they turned to Christ, recognizing His ability to save them from imminent peril. Their plea emphasized their dependence on the Son of God alone to rescue them from the storms of divine wrath.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.5012169092980183,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.26,
+            "commentatorTierSimilarities": [
+                30.92,
+                27.51,
+                41.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' cry of Save, Lord; we perish! revealed their desperate need for deliverance from danger. Their fear stemmed from a reliance on the mere letter of the Scriptures rather than seeking the true spirit within. However, in their extreme situation, they turned to Christ, believing in His ability to save them from imminent peril. They understood that only the Son of God could deliver them from the storms of divine wrath.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.5355434814629079,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+            "commentatorTierSimilarities": [
+                32.06,
+                26.81,
+                41.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, in their extreme fear, woke the Lord and urgently cried out, Save, Lord; we perish! Their plea showcased their desperate need for deliverance from impending danger. While their fear was not without fault, their faith in Christ's divinity prompted them to turn to Him for help. In their distress, they acknowledged His ability to rescue them from the storms of divine wrath. Their words expressed a reliance on Christ's power to save them when all other means seemed impossible.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4583603363722661,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                27.41,
+                26.5,
+                46.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' urgent cry, Save, Lord; we perish! conveyed their desperate need for deliverance from imminent danger. Though their fear was not without fault, their appeal demonstrated faith in Christ's ability to rescue them. They recognized that only the Son of God could save them from the storms of divine wrath. In their extremity, they sought refuge in Christ's power, believing that He alone could deliver them when all other means seemed futile.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.495885260737373,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.08,
+            "commentatorTierSimilarities": [
+                28.78,
+                27.3,
+                43.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

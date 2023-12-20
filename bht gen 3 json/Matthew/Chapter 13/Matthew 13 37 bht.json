@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 23:47:36",
+    "verseRef": "Matthew 13:37",
+    "bestBHT": {
+        "bht": "Christ Himself, the Son of Man, is represented by those who preach Him. When wicked men are mingled with believers, we must charge the blame of this evil on the devil. The Gospel is preached, not only by Christ's command, but by His authority and direction. He is ready to answer requests and willing to communicate spiritual knowledge, showing condescension and affection. The Son of Man, Jesus, preached the everlasting Gospel, using his apostles and ministers as instruments for the good of souls.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.525782425478607,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+        "commentatorTierSimilarities": [
+            0.0,
+            48.76,
+            51.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "When many wicked men are mingled with believers, this is no accidental or natural occurrence, as if they were the same seed, but that we must learn to charge the blame of this evil on the devil.",
+            "Not that, by condemning him, men are acquitted of guilt; but, in the first place, that no blame whatever may be laid on God on account of this fault which arose from the agency of another.",
+            "Let us, therefore, remember, that the Gospel is preached, not only by Christ's command, but by his authority and direction; in short, that we are only his hand, and that He alone is the Author of the work."
+        ],
+        "Philip Schaff": [
+            "The Son of Man. Christ Himself.",
+            "Our Lord uses the present tense, but this does not forbid an application to later events.",
+            "Christ is represented by those who preach Him."
+        ],
+        "John Gill": [
+            "Being very ready to answer their request, and willing to communicate spiritual knowledge to them; thereby showing great condescension, and humility in himself, and great affection to them.",
+            "He that is signified by the man that sowed good seed in his field, is 'the son of man'; by whom he means himself, the seed of the woman; and the son of David; who being anointed with the Holy Ghost without measure, went about Judea and Galilee, preaching the everlasting Gospel, to the conversion of sinners.",
+            "This may be understood of him, as including his apostles and ministers, whom he makes use of as instruments for the good of souls, by preaching the Gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son of Man, Christ Himself, is represented by those who preach Him. When many wicked men are mingled with believers, we must charge the blame of this evil on the devil. Men are not acquitted of guilt by condemning the devil, but we must remember that the Gospel is preached by Christ's authority and direction. He is the Author of the work. He is very ready to answer our requests and willing to communicate spiritual knowledge to us, showing condescension, humility, and great affection. The Son of Man, Jesus, preached the everlasting Gospel, using his apostles and ministers as instruments for the good of souls.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.3627362434008679,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                45.19,
+                54.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ Himself, the Son of Man, is represented by those who preach Him. When wicked men are mixed with believers, blame falls on the devil. The Gospel is preached by Christ's authority. He is ready to answer our requests, showing condescension and affection. Jesus, the Son of Man, preached the everlasting Gospel using his apostles and ministers as instruments for the good of souls.",
+            "wordCount": 65,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.4192189351074074,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.53,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.76,
+                46.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ Himself, the Son of Man, is represented by those who preach Him. When wicked men are mingled with believers, we must charge the blame of this evil on the devil. The Gospel is preached, not only by Christ's command, but by His authority and direction. He is ready to answer requests and willing to communicate spiritual knowledge, showing condescension and affection. The Son of Man, Jesus, preached the everlasting Gospel, using his apostles and ministers as instruments for the good of souls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.525782425478607,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.76,
+                51.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ Himself, the Son of Man, is represented by those who preach Him. When wicked men are mingled with believers, we must charge the blame of this evil on the devil. The Gospel is preached by Christ's authority and direction. He is ready to answer requests and willing to communicate spiritual knowledge, showing condescension and affection. The Son of Man, Jesus, preached the everlasting Gospel using his apostles and ministers as instruments for the good of souls.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4723039925370864,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.86,
+                51.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ Himself, the Son of Man, is represented by those who preach Him. When many wicked men are mingled with believers, this is no accidental occurrence, but we must charge the blame of this evil on the devil. The Gospel is preached by Christ's authority and direction; in short, we are only His hand, and He alone is the Author of the work. He is very ready to answer requests, showing condescension and affection. The Son of Man, Jesus, preached the everlasting Gospel using his apostles and ministers as instruments for the good of souls.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.4783368343603178,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.08,
+                51.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

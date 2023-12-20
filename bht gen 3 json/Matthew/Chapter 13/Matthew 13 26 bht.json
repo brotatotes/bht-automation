@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 23:47:34",
+    "verseRef": "Matthew 13:26",
+    "bestBHT": {
+        "bht": "When the wheat started to grow and produce fruit, the tares also appeared. This manifestation of antagonistic principles became evident during harvest time, as the tares revealed themselves. The evil result of malicious sowing became apparent when things seemed promising for the wheat. The distinction between genuine believers and false ones emerged through the zeal and fruitfulness of true converts, setting them apart from the tares. Although the initial appearances may be peaceful and joyful, the true nature of each eventually becomes clear.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.5176564433596778,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+        "commentatorTierSimilarities": [
+            36.57,
+            34.59,
+            28.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The growth in both cases running parallel, as antagonistic principles are seen to do.",
+            "When the blade was sprung up, and brought forth fruit, then appeared the tares also.",
+            "Antagonistic principles are seen to do."
+        ],
+        "Philip Schaff": [
+            "Matthew 13:26. Then appeared the tares also. After a time, and at a time of promise in the wheat the evil result of the malicious sowing is apparent.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Then appeared also (\u03c4\u03bf\u03c4\u03b5 \u03b5\u03c6\u03b1\u03bd\u03b7 \u03ba\u03b1). The darnel became plain (\u03b5\u03c6\u03b1\u03bd\u03b7, second aorist passive, effective aorist of \u03c6\u03b1\u03b9\u03bd\u03c9 to show) by harvest. "
+        ],
+        "John Gill": [
+            "And such a profession ought to be made by all that are partakers of the grace of God; and ought to be made both verbally, by a confession of the mouth, and a declaration of the work of God upon the heart, and by deeds, by submitting to the ordinances of the Gospel; and should be sincere, and from the heart, and be visible to men, and be held fast unto the end without wavering.",
+            "But the first appearances of grace under a profession, such as sorrow for sin, after a godly sort, fear and reverence of God, great humility, much self-denial, ardent love to Christ, pantings and breathings after him, and communion with him, strong affection for the people of God, some exercise of faith on Christ, zeal for his cause and interest, and a concern to honour and glorify God.",
+            "They always appeared to be what they were to God the searcher of hearts; but now, through the zeal of true converts, to which these opposed themselves, and the fruitfulness of their lives, from which they were so very different, they became manifest to ministers and churches."
+        ],
+        "John Wesley": [
+            "It was not discerned before: it seldom appears, as soon as the good seed is sown.\" ",
+            "All at first appears to be peace, and love, and joy.",
+            "When the blade was sprung up, then appeared the darnel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the wheat had begun to grow and bear fruit, the tares also became evident. These two opposing forces, embodying good and evil, can exist side by side and remain unnoticed until a moment of revelation. The tares, representing the malicious sowing of evil, only reveal themselves during the time of promise and growth in the wheat. It is through the zeal of true converts and the fruitfulness of their lives that the distinction between the two becomes clear. This contrast between the genuine and the false is not always immediate, as at first, all may seem peaceful and joyful. But as time goes on, the true nature of each becomes manifest.",
+            "wordCount": 112,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 1.3360057490045167,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.77,
+            "commentatorTierSimilarities": [
+                34.28,
+                33.41,
+                32.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the wheat began to grow and bear fruit, the tares also surfaced, bringing to light the coexistence of opposing principles. The tares, representing the malicious sowing of evil, become evident during the time of promise and growth in the wheat. This contrast is revealed through the zeal and fruitfulness of true converts, displaying the distinction between the genuine and the false. Although initially everything may appear peaceful and joyful, with time, the true nature of each becomes apparent.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.4973860395448386,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                34.99,
+                35.33,
+                29.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the blade of wheat sprung up and produced fruit, the tares, representing antagonistic principles, also manifested themselves. This revelation occurred at harvest time, indicating the clear visibility of the tares. The evil result of the malicious sowing became apparent during a promising period for the wheat. The contrasting nature between the genuine and the false was exposed through the zeal and fruitfulness of true converts, distinguishing them from the tares. Although initially unnoticed, the true nature of each eventually became evident.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4633121120369341,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                38.99,
+                33.16,
+                27.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the blade of wheat sprouted and bore fruit, the tares, symbolizing antagonistic principles, also came into view. This revelation took place at the time of harvest, which made the tares clearly visible. The evil outcome of the malicious sowing became evident during a promising period for the wheat. The stark contrast between the sincere believers and the false ones became apparent through the fervor and productivity of the true converts. Over time, the true nature of each was revealed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4005000526207008,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.91,
+            "commentatorTierSimilarities": [
+                38.58,
+                34.16,
+                27.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the wheat started to grow and produce fruit, the tares also appeared. This manifestation of antagonistic principles became evident during harvest time, as the tares revealed themselves. The evil result of malicious sowing became apparent when things seemed promising for the wheat. The distinction between genuine believers and false ones emerged through the zeal and fruitfulness of true converts, setting them apart from the tares. Although the initial appearances may be peaceful and joyful, the true nature of each eventually becomes clear.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5176564433596778,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                36.57,
+                34.59,
+                28.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

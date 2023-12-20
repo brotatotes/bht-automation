@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:53:37",
+    "verseRef": "Matthew 26:29",
+    "bestBHT": {
+        "bht": "The Lord's Supper is not only a commemoration but also a prophetic anticipation of the future Marriage Supper in the heavenly kingdom. Whether wine or grape juice is used, the emphasis is on partaking in remembrance of Christ's redemptive work. The language of newness in Jesus' words signifies a higher quality experience that believers will enjoy. Through the celebration of the Lord's Supper, believers are assured of their victory and directed towards the anticipation of unity with Christ in the glorious kingdom of the Father.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.9905866030306716,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+        "commentatorTierSimilarities": [
+            35.68,
+            37.87,
+            26.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord still calls the sacramental cup the fruit of the vine, although by Himself pronounced to be His Blood.",
+            "The Lord\u2019s Supper points not only to the past, but to the future also. It has not only a commemorative, but also a prophetic meaning.",
+            "Every celebration of the Lord\u2019s Supper is a foretaste and prophetic anticipation of the great Marriage Supper which is prepared for the Church at the second appearing of Christ."
+        ],
+        "Marvin Vincent": [
+            "The difference is between newness regarded in point of time or of quality.",
+            "In our Lord's expression, 'drink it new,' the idea of quality is dominant.",
+            "All the elements of festivity in the heavenly kingdom will be of a new and higher quality."
+        ],
+        "John Calvin": [
+            "All that the Evangelists intend to state by it is, that the disciples were warned both of their Master\u2019s approaching death, and of the new and heavenly life.",
+            "It is true, indeed, that I am now hastening to my death, but it is in order that I may pass from it to a blessed immortality, not to live alone without you in the kingdom of God, but to have you associated with me in the same life.",
+            "Christ recommends to us the fruit and effect of the redemption which he procured by his death."
+        ],
+        "Philip Schaff": [
+            "He is done with earthly rites, and at this sad moment points them to a future reunion at the Marriage Supper of the Lamb.",
+            "The ordinance now receives its prophetic meaning...directing believers to the perfect vision and fruition of that time.",
+            "The continued celebration of the Lord\u2019s Supper is an expression of assured victory on the part of His militant Church."
+        ],
+        "Archibald T. Robertson": [
+            "In the Messianic banquet it is not necessary to suppose that Jesus means the language literally, 'the fruit of the vine.'",
+            "The language here employed does not make it obligatory to employ wine rather than pure grape juice if one wishes the other.",
+            "This language rather implies that Jesus himself partook of the bread and the wine, though it is not distinctly stated."
+        ],
+        "John Gill": [
+            "the cup he had just drank of, was the last he should drink with them: he should drink no more wine at the passover; he had kept the last, and which now of right was to cease...",
+            "something distinct from the kingdom of the Son, or of the Messiah, which was already come; and appeared more manifestly after the resurrection of Christ, upon his ascension to heaven, and the effusion of the holy Spirit, and the success of the Gospel, both among Jews and Gentiles; and which will be more glorious in the latter day...",
+            "to 'drink' hereof, denotes the full enjoyment of them, which Christ, as man and mediator, and his people with him, shall be possessed of; and is different from the superficial 'taste of the powers of the world to come'..."
+        ],
+        "John Wesley": [
+            "I shall taste no more wine, till I drink wine of quite another kind in the glorious kingdom of my Father.",
+            "And of this you shall also partake with me.",
+            "I will not drink henceforth of this fruit of the vine, till I drink it new with you in my Father's kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord's Supper is not only a commemoration of the past, but also a prophetic symbol of the future. It points to the great Marriage Supper that awaits the Church at the second coming of Christ. While the use of wine in this sacrament is not mandatory, it is significant that Jesus himself partook of the bread and the wine. The language of drinking new implies a higher quality that will be experienced in the heavenly kingdom. Through the Lord's Supper, believers are assured of their victory and are directed towards the perfect vision and fruition of the future unity with Christ at the Marriage Supper of the Lamb.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0172794709518613,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                35.29,
+                42.05,
+                22.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord's Supper is not only a commemoration, but also a prophetic symbol. It points to the great Marriage Supper of the Lamb that awaits the Church at Christ's second coming. While using wine is not required, Jesus himself partook of it. By saying to drink it new, Jesus emphasizes the higher quality and newness that will be experienced in the heavenly kingdom. Through the Lord's Supper, believers are assured of their victory and directed towards the future unity with Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.916060063230311,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                35.29,
+                39.48,
+                25.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's Supper not only serves as a commemoration but also holds prophetic significance, pointing to the future. While the sacramental cup is referred to as the fruit of the vine, its quality rather than time is emphasized. The heavenly kingdom promises a new and higher quality experience, surpassing earthly festivities. Whether wine or grape juice, the focus is on partaking in remembrance of Christ's redemptive work. This commemoration assures believers of victory and directs them towards the anticipation of reunion at the Marriage Supper of the Lamb in the kingdom of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.9336871650786733,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                36.93,
+                37.88,
+                25.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's Supper serves as a commemoration and holds a prophetic meaning, pointing to the future. Whether using wine or pure grape juice, the focus is on partaking in remembrance of Christ's redemptive work. The language of newness emphasizes the higher quality experience that awaits believers in the heavenly kingdom. Through the Lord's Supper, believers are assured of victory and directed towards the anticipation of reunion at the Marriage Supper of the Lamb, symbolizing their association with Christ in the same life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9676132357346368,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                35.29,
+                40.72,
+                23.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's Supper is not only a commemoration but also a prophetic anticipation of the future Marriage Supper in the heavenly kingdom. Whether wine or grape juice is used, the emphasis is on partaking in remembrance of Christ's redemptive work. The language of newness in Jesus' words signifies a higher quality experience that believers will enjoy. Through the celebration of the Lord's Supper, believers are assured of their victory and directed towards the anticipation of unity with Christ in the glorious kingdom of the Father.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9905866030306716,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                35.68,
+                37.87,
+                26.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

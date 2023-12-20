@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:44:28",
+    "verseRef": "Matthew 7:2",
+    "bestBHT": {
+        "bht": "People often shy away from others who consistently pass harsh judgment on them and others. However, it is important to remember that whatever standard of judgment we apply to others will be used to judge us. This proverb, which Jesus adopted as his own sentiments, reveals that the rule by which God will judge us is the same rule we use to judge others. Therefore, we should make sure to judge others with kindness and mercy, as we will receive the same in return.",
+        "wordCount": 84,
+        "quoteTokenProportion": 56.14,
+        "qualityScore": 2.0222190262797746,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+        "commentatorTierSimilarities": [
+            42.14,
+            33.0,
+            24.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Whatever standard of judgment ye apply to others.",
+            "Unkind judgment of others will be judicially returned upon ourselves.",
+            "People shrink from contact with those who systematically deal out harsh judgment upon others."
+        ],
+        "Albert Barnes": [
+            "With what judgment ... - This was a proverb among the Jews. It expressed a truth; and Christ did not hesitate to adopt it as conveying his own sentiments.\" ",
+            "It refers no less to the way in which people will judge of us, than to the rule by which God will judge us.\" ",
+            "You shall be judged by the same rule which you apply to others."
+        ],
+        "Philip Schaff": [
+            "The 'measure' according to which God\u2019s judgment will take place, namely, our own severe judgment.",
+            "The second clause repeats the same idea, making it more general."
+        ],
+        "John Gill": [
+            "He that judgeth his neighbour according to the balance of righteousness, or innocence, they judge him according to righteousness.",
+            "When you see a man as it were in 'equilibrio', inclining to neither part, it is not clear from what he does, that he is either good or evil, righteous or unrighteous; yet when you see him do a thing which may be interpreted either to a good or a bad sense, it ought always to be interpreted to the best.",
+            "With what measure a man measures, they measure to him. One might fill up almost a page, in referring to places, where it is used in this form: besides those in the margin, take the following, and the rather because it gives instances of this retaliation."
+        ],
+        "John Wesley": [
+            "With what measure ye mete, it shall be measured to you \u2014 Awful words!",
+            "So we may, as it were, choose for ourselves, whether God shall be severe or merciful to us.",
+            "God and man will favour the candid and benevolent: but they must expect judgment without mercy, who have showed no mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "People often shy away from others who consistently pass harsh judgment on them and others. However, it is important to remember that whatever standard of judgment we apply to others will be used to judge us. This proverb, which Jesus adopted as his own sentiments, reveals that the rule by which God will judge us is the same rule we use to judge others. Therefore, we should make sure to judge others with kindness and mercy, as we will receive the same in return. Ultimately, our measure of judgment will determine whether God's judgment is severe or merciful towards us.",
+            "wordCount": 101,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 2.0514979107915394,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                40.0,
+                33.04,
+                26.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "People often shy away from others who consistently pass harsh judgment on them and others. However, it is important to remember that whatever standard of judgment we apply to others will be used to judge us. This proverb, which Jesus adopted as his own sentiments, reveals that the rule by which God will judge us is the same rule we use to judge others. Therefore, we should make sure to judge others with kindness and mercy, as we will receive the same in return.",
+            "wordCount": 84,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 2.0222190262797746,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                42.14,
+                33.0,
+                24.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we pass harsh judgment on others, we must be prepared for the same judgment to be returned to us. Jesus warned that the measure by which we judge others will be used to judge us. Therefore, it is essential to show kindness and mercy in our judgment of others. If we choose to be harsh and critical, we should not be surprised if God's judgment reflects the same severity. However, those who show mercy and compassion will find favor with both God and man.",
+            "wordCount": 86,
+            "quoteTokenProportion": 58.18,
+            "qualityScore": 1.8490616194822378,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                39.51,
+                30.15,
+                30.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The measure of judgment we apply to others will be reciprocated upon us. Jesus emphasized that the same standard we use to judge others will be the standard by which God judges us. This calls for caution and empathy in our judgments, as we should strive to show kindness and mercy. Those who consistently deal out harsh judgment upon others may find that people will withdraw from them. Ultimately, it is crucial to be fair and benevolent in our assessments, as we reap what we sow when it comes to judgment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.0082928844346166,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                44.87,
+                30.78,
+                24.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We should be mindful of the measure of judgment we apply to others, as it will be used to judge us. Jesus echoed the proverb that whatever standard we use to judge others will be reciprocated. It is essential to exercise caution in passing harsh judgments, as unkind judgment may be returned upon us. People tend to distance themselves from those who consistently deal out severe judgment. Therefore, it is crucial to approach others with kindness and empathy, showing mercy in our assessments.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9047277325949579,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                46.68,
+                28.99,
+                24.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

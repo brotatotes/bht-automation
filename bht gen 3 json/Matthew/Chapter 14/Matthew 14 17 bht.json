@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:48:08",
+    "verseRef": "Matthew 14:17",
+    "bestBHT": {
+        "bht": "Andrew comes forward, bringing five loaves and two fishes provided by a lad. The crowd had gathered due to the approaching Passover, as seen in John's account. This miracle resembles similar ones in 2 Kings 4:42-44 and Numbers 11:21-22. The disciples, like us, quickly give reasons for their inability to fulfill Jesus' command, overlooking His power to multiply the limited provisions and adequately provide for everyone.",
+        "wordCount": 64,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.510432169001836,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+        "commentatorTierSimilarities": [
+            33.17,
+            41.55,
+            25.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "it was Andrew who spoke in ver. 17, and the five loaves and two fishes were brought by a lad.\" (30 words)",
+            "And we have the vast concourse accounted for in John by the fact that the Passover was at hand, and so they were collected on their journey to Jerusalem.\" (32 words)",
+            "See a very similar miracle in 2 Kings iv. 42\u201344; only then there were twenty barley loaves and an hundred men. See also Numbers xi. 21, 22.\" (28 words)"
+        ],
+        "Philip Schaff": [
+            "The loaves and fishes thus obtained, of which they said 'What are they among so many,' were given by them to the people.",
+            "Five loaves (\u2018barley loaves\u2019) and two fishes (\u2018small fishes,\u2019 probably salt ones). Plain common food."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples, like us today, are quick with reasons for their inability to perform the task imposed by Jesus.",
+            "Reasons for their inability.",
+            "The task imposed by Jesus."
+        ],
+        "John Gill": [
+            "We have here but five loaves; and these barley ones, coarse bread; and two fishes.\" ",
+            "But what are they among so many?",
+            "Not thinking of the power of Christ, who was able to multiply, and make this provision a sufficiency for the whole company."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 14:17, Andrew speaks up and brings to Jesus five loaves and two fishes that were brought by a lad. The vast concourse of people can be explained by the fact that the Passover was near, and they were on their journey to Jerusalem. This miracle is similar to the one in 2 Kings 4:42-44, though with more limited resources. The disciples, like us today, were quick with reasons for their inability to perform the task imposed by Jesus. However, they failed to recognize the power of Christ, who was able to multiply and make this provision sufficient for the whole company.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.5984665951904478,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                36.35,
+                36.19,
+                27.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Andrew brings forward the five loaves and two fishes provided by a lad. With the Passover approaching, a great crowd had gathered on their journey to Jerusalem. This miracle is reminiscent of the one in 2 Kings 4:42-44 and Numbers 11:21-22. The disciples, much like us today, were quick to give reasons for their inability to meet Jesus' command. However, they failed to recognize the boundless power of Christ, who was able to multiply the limited resources and make them sufficient for the entire multitude.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.5375295685456467,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                33.88,
+                39.88,
+                26.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Andrew steps forward in Matthew 14:17, presenting the five loaves and two fishes brought by a lad. The large crowd had gathered due to the approaching Passover, as seen in John's account. Comparable miracles can be found in 2 Kings 4:42-44 and Numbers 11:21-22. The disciples, much like us today, hastily offered reasons for their inability to fulfill Jesus' command. However, they overlooked the limitless power of Christ, who could multiply the meager provisions to abundantly satisfy the multitude.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.4836798504131954,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.68,
+            "commentatorTierSimilarities": [
+                36.68,
+                38.32,
+                25.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Andrew steps forward, bringing the five loaves and two fishes provided by a lad. A vast crowd had gathered due to the approaching Passover, as noted in John's account. This miracle parallels similar ones in 2 Kings 4:42-44 and Numbers 11:21-22. The disciples, like us today, were swift to offer reasons for their inability to meet Jesus' command. Yet, they underestimated the power of Christ, who could multiply and make these provisions sufficient for the entire company.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.4885831051719598,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                31.89,
+                40.07,
+                28.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Andrew comes forward, bringing five loaves and two fishes provided by a lad. The crowd had gathered due to the approaching Passover, as seen in John's account. This miracle resembles similar ones in 2 Kings 4:42-44 and Numbers 11:21-22. The disciples, like us, quickly give reasons for their inability to fulfill Jesus' command, overlooking His power to multiply the limited provisions and adequately provide for everyone.",
+            "wordCount": 64,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.510432169001836,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                33.17,
+                41.55,
+                25.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

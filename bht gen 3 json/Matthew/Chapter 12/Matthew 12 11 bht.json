@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:46:57",
+    "verseRef": "Matthew 12:11",
+    "bestBHT": {
+        "bht": "Jesus challenges the religious leaders to consider their own actions and attitudes. He uses the example of a man rescuing his sheep on the Sabbath to emphasize the primacy of compassion and mercy. This act of mercy towards animals was allowed and customary at the time. However, Jesus implies that the religious leaders were neglecting their duty to assist those in distress, prioritizing the well-being of animals over that of human beings. He admonishes them for using a holy act to compel him to do evil.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.5335592270152083,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+        "commentatorTierSimilarities": [
+            43.8,
+            26.49,
+            29.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What man shall there be among you that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?",
+            "Jesus challenges the religious leaders to reflect on their own actions and attitudes.",
+            "By using this example, Jesus shows that compassion and mercy should always take precedence."
+        ],
+        "John Calvin": [
+            "For if any man\u2019s sheep had fallen into a ditch, no person would have hindered it from being taken out: but in proportion as a man is of more value than a sheep, so much the more are we at liberty to assist him.\" ",
+            "He who takes away the life of a man is held to be a criminal; and there is little difference between manslaughter and the conduct of him who does not concern himself about relieving a person in distress.\" ",
+            "Christ indirectly charges them with endeavoring, under the pretense of a holy act, to compel him to do evil; for sin is committed, as we have already said, not only by him who does anything contrary to the Law, but also by him who neglects his duty."
+        ],
+        "Philip Schaff": [
+            "Luke introduces the reply of this verse on another occasion. It was always appropriate under such circumstances.",
+            "Such an act of mercy to a beast was allowed and usual then.",
+            "The Rabbins afterwards (perhaps on account of this reply) forbade anything more than to 'lay planks' so that the animal could come out of itself."
+        ],
+        "John Gill": [
+            "In which, through covetousness, they showed more regard to their beasts, than they did humanity to their fellow creatures.",
+            "Christ appeals to them in a case which was usually done among them, and which, without delay, no man would scruple to do.",
+            "Which seems to have been made since the times of Christ, and in opposition to this observation of his."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus challenges the religious leaders by asking them to consider their own actions and attitudes. He uses the example of a man rescuing his sheep from a pit on the Sabbath day to show that compassion and mercy should always take precedence. This act of mercy towards an animal was allowed and usual during that time. In fact, it was even considered permissible to lay planks so that the animal could come out of the pit by itself. Jesus indirectly charges the religious leaders with neglecting their duty to assist those in distress, as they showed more regard for their beasts than for their fellow human beings. They were trying to use a holy act to compel Jesus to do evil, which goes against the principles of the Law.",
+            "wordCount": 129,
+            "quoteTokenProportion": 45.05,
+            "qualityScore": 1.6012364070834848,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.58,
+            "commentatorTierSimilarities": [
+                40.56,
+                31.47,
+                27.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus challenges the religious leaders by asking if they would hesitate to rescue their sheep from a pit on the Sabbath. He uses this example to emphasize that compassion and mercy should always take precedence. According to the second-tier commentary, such acts of mercy towards animals were allowed and customary. However, the third-tier commentary points out that the religious leaders were neglecting their duty to assist those in distress, showing more concern for their animals than their fellow humans. Jesus indirectly accuses them of trying to use a holy act to compel him to do evil.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.550280424794408,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                41.96,
+                29.19,
+                28.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus challenges the religious leaders by asking if they would prioritize rescuing their sheep on the Sabbath. This example serves to highlight the importance of compassion and mercy. Such acts of mercy towards animals were allowed and customary. However, the religious leaders were accused of neglecting their duty to assist those in distress. They showed more concern for their animals than their fellow humans. Jesus suggests that they were trying to use a holy act to compel him to do evil.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.3615213426577628,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                42.61,
+                28.13,
+                29.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus challenges the religious leaders to consider their own actions and attitudes. He uses the example of a man rescuing his sheep on the Sabbath to emphasize the primacy of compassion and mercy. This act of mercy towards animals was allowed and customary at the time. However, Jesus implies that the religious leaders were neglecting their duty to assist those in distress, prioritizing the well-being of animals over that of human beings. He admonishes them for using a holy act to compel him to do evil.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.5335592270152083,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                43.8,
+                26.49,
+                29.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus challenges the religious leaders by highlighting the contrast between their actions and the act of rescuing a sheep on the Sabbath. He reminds them of the importance of compassion and mercy, as exemplified by this example. This act of mercy towards animals was allowed and customary during that time. The religious leaders, however, were accused of neglecting their duty to assist those in distress, showing more concern for their animals than for fellow human beings. Jesus suggests that they were trying to pervert a holy act for their own selfish purposes.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.461784891686296,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                40.78,
+                29.38,
+                29.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

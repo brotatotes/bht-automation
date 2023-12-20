@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:53:30",
+    "verseRef": "Matthew 26:24",
+    "bestBHT": {
+        "bht": "There are some today who seek to palliate the crime of Judas, but Jesus here pronounces his terrible doom. The Son of man goeth, even as it is written of him. Let us always place before our minds the providence of God, which Judas himself, and all wicked men, are compelled to obey. It would have been better for him if he had not been created, signifying that it is better to have no being at all, than to be punished with everlasting destruction.",
+        "wordCount": 84,
+        "quoteTokenProportion": 57.58,
+        "qualityScore": 1.8000100022190184,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+        "commentatorTierSimilarities": [
+            34.68,
+            30.1,
+            35.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "For never are we fully confirmed in the result of the death of Christ, till we are convinced that he was not accidentally dragged by men to the cross, but that the sacrifice had been appointed by an eternal decree of God for expiating the sins of the world.",
+            "Let us always place before our minds the providence of God, which Judas himself, and all wicked men \u2014 though it is contrary to their wish, and though they have another end in view \u2014 are compelled to obey.",
+            "Those two principles, no doubt, appear to human reason to be inconsistent with each other, that God regulates the affairs of men by his Providence in such a manner, that nothing is done but by his will and command, and yet he damns the reprobate, by whom he has carried into execution what he intended."
+        ],
+        "Philip Schaff": [
+            "The Son of man goeth, even as it is written of him... The prophecy implied the purpose. But God\u2019s purposes include our freedom.",
+            "Woe unto that man... Our Lord seems to forget His own woes in pity for this man.",
+            "Good were it for that man... A proverbial expression for the most terrible destiny, forbidding the thought of any deliverance however remote."
+        ],
+        "Archibald T. Robertson": [
+            "There are some today who seek to palliate the crime of Judas.\" ",
+            "But Jesus here pronounces his terrible doom.\" ",
+            "And Judas heard it and went on with his hellish bargain with the Sanhedrin."
+        ],
+        "John Gill": [
+            "The phrase is expressive of his death, as in Joshua 23:14, and denotes the voluntariness of it, and which is no ways inconsistent with the divine determinations about it.",
+            "Christ died for the sins of his people, in perfect agreement with these Scriptures, which were written of him.",
+            "It would have been better for him if he had not been created\"; signifying, that it is better to have no being at all, than to be punished with everlasting destruction."
+        ],
+        "John Wesley": [
+            "The Son of man goeth through sufferings to glory, as it is written of him.",
+            "Yet this is no excuse for him that betrayeth him: miserable will that man be: it had been good for that man if he had not been born.",
+            "May not the same be said of every man that finally perishes? But who can reconcile this, if it were true of Judas alone, with the doctrine of universal salvation?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There are some today who seek to palliate the crime of Judas, but Jesus here pronounces his terrible doom and Judas heard it and went on with his hellish bargain with the Sanhedrin. The Son of man goeth, even as it is written of him. Woe unto that man. Our Lord seems to forget His own woes in pity for this man. Good were it for that man. Let us always place before our minds the providence of God, which Judas himself, and all wicked men, are compelled to obey. It would have been better for him if he had not been created, signifying that it is better to have no being at all, than to be punished with everlasting destruction.",
+            "wordCount": 121,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.6779272390527262,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.13,
+            "commentatorTierSimilarities": [
+                30.61,
+                38.7,
+                30.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There are some today who seek to palliate the crime of Judas, but Jesus here pronounces his terrible doom. The Son of man goeth, even as it is written of him. Let us always place before our minds the providence of God, which Judas himself, and all wicked men, are compelled to obey. It would have been better for him if he had not been created, signifying that it is better to have no being at all, than to be punished with everlasting destruction.",
+            "wordCount": 84,
+            "quoteTokenProportion": 57.58,
+            "qualityScore": 1.8000100022190184,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                34.68,
+                30.1,
+                35.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus pronounces Judas's terrible doom and it would have been better for him if he had not been created. The Son of man goes according to God's plan, even as it is written. Let us always remember God's providence, which even Judas, and all wicked men, are compelled to obey.",
+            "wordCount": 53,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7071803344441732,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+            "commentatorTierSimilarities": [
+                32.17,
+                33.64,
+                34.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There are those who seek to downplay the severity of Judas' crime, but Jesus pronounces his terrible fate. Judas heard it, yet still proceeded with his hellish arrangement with the Sanhedrin. While the prophecy implies the purpose, it is important to remember that God's purposes also include our freedom. Our Lord, in His pity for Judas, declares woe unto that man. The expression Good were it for that man is a proverbial phrase representing a most terrible destiny with no possibility of deliverance. We must always remember that the death of Christ was not an accidental occurrence, but rather an ordained sacrifice for the expiation of the sins of the world. Through God's providence, even wicked men like Judas are compelled to carry out His will, despite their own desires and intentions. Nonetheless, this concept of God's sovereignty and damnation of the reprobate may appear contradictory to human reason. Yet, Christ's death perfectly aligns with the Scriptures written about Him, demonstrating His purpose in dying for the sins of His people. The phrase The Son of man goeth signifies the voluntary nature of His death, in perfect agreement with the divine determinations. Ultimately, it is said that it would have been better for Judas to have never been created, emphasizing the severity of his punishment. We can't help but wonder if the same may be said for every person who finally perishes, which raises questions about the doctrine of universal salvation.",
+            "wordCount": 246,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.6688902550877598,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+            "commentatorTierSimilarities": [
+                30.67,
+                35.57,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There are those who seek to downplay the severity of Judas' crime, but Jesus pronounces his terrible fate. Judas heard it and proceeded with his hellish arrangement, ignoring the pity shown by our Lord. The voluntary nature of Christ's death aligns perfectly with the divine determinations. The Scriptures highlight his purpose in dying for the sins of His people and reveal the providence of God in compelling even wicked men to carry out His will. The expression Good were it for that man signifies the severity of Judas' punishment and raises questions about the doctrine of universal salvation.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.737692994086349,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                36.4,
+                29.84,
+                33.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

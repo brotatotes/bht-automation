@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:44:05",
+    "verseRef": "Matthew 5:29",
+    "bestBHT": {
+        "bht": "Jesus's words compel us to resist the initial triggers of evil desires, even if it means letting go of what is valuable to us. In doing so, we prioritize our own self-interest, recognizing the profitability of self-denial. This call to self-mastery emphasizes the need to strike at the root of unholy tendencies and avoid actions that lead to moral stumbling. Disregarding this warning could result in severe consequences, underscoring the urgency of making difficult sacrifices to overcome sin and ensure our eternal well-being.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.8032175063803235,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+        "commentatorTierSimilarities": [
+            24.84,
+            37.89,
+            37.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An admonition, arising out of the truth announced in the last verse, to withstand the first springs and occasions of evil desire, even by the sacrifice of what is most useful and dear to us.",
+            "Our Lord grounds His precept of the most rigid and decisive self-denial on the considerations of the truest self-interest,\u2014it is profitable for thee.",
+            "See ch. xviii. 8, 9, and notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If thine eye be single, thy whole body shall be full of light, and, when directed by a holy mind, becomes an 'instrument of righteousness unto God.'\" ",
+            "Our Lord certainly means that we are to strike at the root of such unholy dispositions, as well as cut off the occasions which tend to stimulate them.\" ",
+            "He who despises the warning to cast from him, with indignant promptitude, an offending member, will find his whole body 'cast,' with a retributive promptitude of indignation, 'into hell.'"
+        ],
+        "Albert Barnes": [
+            "An evil eye denotes sometimes envy...and sometimes an evil passion, or sin in general.\" ",
+            "It means to cause to fall into sin. The eye does this when it wantonly looks upon a woman to lust after her.\" ",
+            "It is better to deny yourself the gratification of an evil passion here, however much it may cost you, than to go down to hell forever."
+        ],
+        "Marvin Vincent": [
+            "The Rev., by restoring the picture in the word, restores its true meaning, causeth to stumble.",
+            "Christ's meaning here is: 'If your eye or your hand serve as an obstacle or trap to ensnare or make you fall in your moral walk.'",
+            "He who, when his eye proves a stumbling-block, takes care not to see, does in reality blind himself."
+        ],
+        "John Calvin": [
+            "However difficult, or severe, or troublesome, or harsh, any commandment of God may be, yet no excuse ought to be pleaded on those grounds, because the justice of God ought to stand higher in our estimation.",
+            "You have no right to object to me, that you can scarcely turn your eyes in any direction, without being suddenly drawn away by some temptation: for you ought rather to part with your eyes, than to depart from the commandments of God.",
+            "Whatever hinders us from yielding that obedience to God which he requires in his law, ought to be cut off."
+        ],
+        "Philip Schaff": [
+            "We should resist 'the first springs and occasions of evil desire, even by the sacrifice of what is most useful and dear to us.'\" ",
+            "The surgeon does not hesitate to amputate a limb, if he hopes thereby to save a life; no earthly sacrifice is too great where eternal life is concerned.",
+            "However 'profitable,' the overcoming of sin is painful."
+        ],
+        "Archibald T. Robertson": [
+            "It is not the notion of giving offence or provoking, but of setting a trap or snare for one.\" ",
+            "These vivid pictures are not to be taken literally, but powerfully plead for self-mastery.",
+            "The man who plays with fire will get burnt."
+        ],
+        "John Gill": [
+            "Our Lord has no regard here to near and dear relations seeking to alienate us from God and Christ, and hinder us in the pursuit of divine things; whose solicitations are to be rejected with the utmost indignation, and they themselves to be parted with, and forsaken, rather than complied with.",
+            "Persons should...turn them away from beholding such objects, which may tend to excite impure thoughts and desires; deny themselves the gratification of the sense of seeing, or feeding the eyes with such sights, as are graceful to the flesh; and with indignation and contempt, reject, and avoid all opportunities and occasions of sinning.",
+            "It will turn to better account, to lose all the carnal pleasures of the eye, or all those pleasing sights, which are grateful to a carnal heart, than, by enjoying them, to expose the whole man, body and soul, to everlasting destruction, in the fire of hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus's words in Matthew 5:29 serve as a reminder to us to guard against the first seeds of evil desire, even if it means sacrificing what is most important to us. He emphasizes the importance of self-denial and self-interest, urging us to remove anything that may cause us to stumble. This imagery is not to be taken literally, but rather to underscore the need for self-mastery and the drastic measures required to overcome sinful tendencies. Jesus warns that failing to do so may lead to severe consequences, illustrating the urgency and seriousness of the matter. It is better to willingly deny ourselves the gratification of sinful passions in this life, regardless of the cost, than to face eternal damnation.",
+            "wordCount": 122,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.947129758060488,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.08,
+            "commentatorTierSimilarities": [
+                24.82,
+                36.25,
+                38.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's instruction in this verse urges us to resist and cut off the first occasions of evil desires, even if it means sacrificing what is most useful and dear to us. By doing so, we prioritize our own self-interest and well-being. These vivid pictures of self-denial stress the importance of striking at the root of unholy dispositions and abstaining from anything that may cause us to stumble morally. Ignoring this warning may have severe consequences, highlighting the need for self-mastery and the willingness to make difficult sacrifices to overcome sin.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.8228020839727257,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                24.73,
+                36.9,
+                38.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's words compel us to resist the initial triggers of evil desires, even if it means letting go of what is valuable to us. In doing so, we prioritize our own self-interest, recognizing the profitability of self-denial. This call to self-mastery emphasizes the need to strike at the root of unholy tendencies and avoid actions that lead to moral stumbling. Disregarding this warning could result in severe consequences, underscoring the urgency of making difficult sacrifices to overcome sin and ensure our eternal well-being.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8032175063803235,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                24.84,
+                37.89,
+                37.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus emphasizes the importance of self-denial in Matthew 5:29, urging us to resist the first springs of evil desire, even if it means sacrificing what is most dear to us. This admonition is grounded in the idea of self-interest, as it is profitable for us to turn away from anything that may lead us astray. By cutting off unholy dispositions and avoiding temptation, we can ensure the well-being of our whole being, both body and soul, and avoid the retribution of hell.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.0702482290475044,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                23.82,
+                38.77,
+                37.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's call in this passage urges us to resist the first springs of evil desires, even if it means giving up what is most dear and useful to us. By sacrificing these things, we prioritize our true self-interest and well-being. The imagery used here serves as a powerful reminder to strike at the root of unholy dispositions and cut off any occasions that might stimulate them. Ignoring this warning can result in severe consequences, reflecting the urgent need for self-mastery and the willingness to make difficult sacrifices to overcome sin.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.889418121316175,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                26.7,
+                37.71,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

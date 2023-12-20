@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:32",
+    "verseRef": "Matthew 9:12",
+    "bestBHT": {
+        "bht": "Jesus, as the great Physician, came to heal the sin-sick souls of social outcasts. The saying, They that be whole need not a physician, but they that are sick, implies that those who think themselves righteous do not recognize their need for Jesus's aid, while those who acknowledge their sinfulness are the ones with whom He can be useful. By associating with sinners, Jesus demonstrates His mission to save the worst of men. As the universal and infallible Physician, Jesus heals all diseases without charge.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.033199515601028,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+        "commentatorTierSimilarities": [
+            39.51,
+            32.61,
+            27.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Both words, in the application of the saying, must be understood subjectively",
+            "not as though the Pharisees were objectively either 'whole' or 'righteous'",
+            "however much objective truth 'sick' and 'sinners' may have had as applied to the publicans and sinners."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye deem yourselves whole; My mission, therefore, is not to you: The physician's business is with the sick; therefore eat I with publicans and sinners.",
+            "Oh, what myriads of broken hearts, of sin-sick souls, have been bound up by this matchless saying!",
+            "They that be whole need not a physician, but they that are sick."
+        ],
+        "Albert Barnes": [
+            "If you Pharisees are such as you think yourselves - already pure and holy - you do not need my aid. It would be of no use to you, and you would not thank me for it.",
+            "With those persons who feel that they are sinners I may be useful, and there is my proper place.",
+            "I came on purpose to save sinners: my business is with them. There are none righteous; and as a physician is in his proper place with the 'sick,' so am I with guilty and miserable sinners."
+        ],
+        "John Calvin": [
+            "While they spared their own vices, they proudly despised all others.",
+            "If we consider that this was his office and the end of his coming, \u2014 if we remember that this was the reason why he took upon him our flesh, why he shed his blood, why he offered the sacrifice of his death, why he descended even to hell, we will never think it strange that he should gather to salvation those who have been the worst of men, and who have been covered with a mass of crimes.",
+            "Now, if we feel disgust at being associated by Baptism and the Lord\u2019s Supper with vile men, and regard our connection with them as a sort of stain upon us, we ought immediately to descend into ourselves, and to search without flattery our own evils."
+        ],
+        "Philip Schaff": [
+            "They that are whole have no need of physician, but they that are sick.\" ",
+            "Those thinking themselves whole (although really they are not) need not (or do not admit their need of) a physician.\" ",
+            "Those thinking themselves sick (which is really their case)."
+        ],
+        "Archibald T. Robertson": [
+            "As a physician of body and soul Jesus was bound to come in close touch with the social outcasts."
+        ],
+        "John Gill": [
+            "He is an universal one, with regard both to diseases and to persons, that apply to him; he heals all sorts of persons, and all sorts of diseases.",
+            "He is an infallible one, none ever went from him without a cure; none ever perished under his hands.",
+            "He does all freely, without money, and without price."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, as the great Physician of body and soul, came to bind up the broken hearts and heal the sin-sick souls of the social outcasts. The saying, They that be whole need not a physician, but they that are sick, reveals that those who think themselves righteous do not recognize their need for Jesus's aid, while those who acknowledge their sinfulness are the ones with whom He can be useful. By associating with publicans and sinners, Jesus demonstrates His mission to save sinners and His willingness to gather the worst of men to salvation, regardless of their crimes. As the universal and infallible Physician, Jesus heals all sorts of diseases and persons, offering His services freely and without price. Therefore, instead of looking down upon others, we should examine our own faults and recognize our need for the healing touch of Jesus.",
+            "wordCount": 144,
+            "quoteTokenProportion": 39.78,
+            "qualityScore": 1.9859213492333807,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                36.06,
+                32.44,
+                31.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the great Physician, came to heal the sin-sick souls of social outcasts. The saying, They that be whole need not a physician, but they that are sick, implies that those who think themselves righteous do not recognize their need for Jesus's aid, while those who acknowledge their sinfulness are the ones with whom He can be useful. By associating with sinners, Jesus demonstrates His mission to save the worst of men. As the universal and infallible Physician, Jesus heals all diseases without charge.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.033199515601028,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                39.51,
+                32.61,
+                27.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the great Physician, recognized that the Pharisees considered themselves whole and righteous, not in need of His help. However, His mission was to heal the broken hearts and sin-sick souls of those who acknowledged their sickness. By eating with publicans and sinners, Jesus demonstrated His commitment to saving the worst of men. As the universal and infallible Physician, Jesus freely healed all sorts of diseases and people, offering His services without cost. We too should acknowledge our own faults instead of looking down upon others.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7916782904762267,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.92,
+            "commentatorTierSimilarities": [
+                36.15,
+                30.65,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, as the great Physician, came to heal sin-sick souls and bind up broken hearts. Those who consider themselves righteous do not recognize their need for Him, but He is useful and willing to save sinners. By associating with outcasts, Jesus demonstrates His mission to gather the worst of men to salvation. As the universal, infallible Physician, He heals all sorts of diseases and people without cost. We should reflect on our own faults instead of looking down on others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7267184170315943,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                34.15,
+                31.18,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, the great Physician, came to heal the sin-sick souls of social outcasts. They that be whole need not a physician, but they that are sick. This saying reveals that those who think themselves righteous do not recognize their need for Jesus's help, while those who acknowledge their sinfulness are the ones He can assist. By associating with sinners, Jesus demonstrates His mission to save the worst of men. As the universal and infallible Physician, He freely heals all kinds of diseases and people without charge.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9896930793596255,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                36.61,
+                35.74,
+                27.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

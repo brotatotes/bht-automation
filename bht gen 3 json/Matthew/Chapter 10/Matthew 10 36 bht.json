@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 23:45:58",
+    "verseRef": "Matthew 10:36",
+    "bestBHT": {
+        "bht": "Jesus warns that a person's foes may arise from within their own household, echoing Micah 7:6. This choice between loyalty to Christ or to family members presents a profound test, exemplified by Judas' treachery against our Lord. It serves as a reminder that even our closest relationships can be strained when it comes to the unwavering faith we place in Christ.",
+        "wordCount": 61,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.39799391037998,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.83,
+        "commentatorTierSimilarities": [
+            56.16,
+            0.0,
+            43.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And a man's foes shall be they of his own household\u2014This saying, which is quoted, as is the whole verse, from Micah 7:6, is but an extension of the Psalmist's complaint.\" ",
+            "Hence would arise the necessity of a choice between Christ and the nearest relations, which would put them to the severest test.",
+            "which had its most affecting illustration in the treason of Judas against our Lord Himself."
+        ],
+        "John Gill": [
+            "And a man's foes shall be they of his own household."
+        ],
+        "John Wesley": [
+            "And the foes of a man \u2014 That loves and follows me. Micah 7:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 10:36, Jesus warns that a person's own household can become their enemies. This idea, taken from Micah 7:6, highlights the difficult choice one must make between following Christ and remaining loyal to their family. The betrayal of Judas serves as a profound example of this, emphasizing the severity of the test. Ultimately, this verse serves as a reminder that even our closest relationships can be challenged when it comes to our faith in Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.249940129485969,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.9,
+            "commentatorTierSimilarities": [
+                56.81,
+                0.0,
+                43.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In facing opposition, Jesus reveals that the foes a person contends with may emerge from within their own household, as Micah 7:6 expresses. The predicament of choosing between loyalty to Christ or to one's closest family members represents an arduous test. The treacherous act committed by Judas against the Lord Himself offers a poignant demonstration of this predicament, underscoring the gravity of the challenge. This serves as a compelling reminder that even the closest of relationships can be strained when it comes to the steadfastness of one's faith in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.2331206192443727,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "commentatorTierSimilarities": [
+                64.76,
+                0.0,
+                35.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "One's own household can become their adversaries, as conveyed in Micah 7:6. Thus, the difficult choice arises between following Christ and remaining loyal to family members, as emphasized by the betrayal of Judas. This verse highlights the severity of the test, underscoring that even the closest relationships can be challenged when it comes to unwavering faith in Christ.",
+            "wordCount": 58,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2625119060986638,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "commentatorTierSimilarities": [
+                56.7,
+                0.0,
+                43.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warns that a person's foes may arise from within their own household, echoing Micah 7:6. This choice between loyalty to Christ or to family members presents a profound test, exemplified by Judas' treachery against our Lord. It serves as a reminder that even our closest relationships can be strained when it comes to the unwavering faith we place in Christ.",
+            "wordCount": 61,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.39799391037998,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.83,
+            "commentatorTierSimilarities": [
+                56.16,
+                0.0,
+                43.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of opposition, Jesus cautions about the potential adversaries found within one's own household, echoing Micah 7:6. The gravity of this situation lies in the challenging decision individuals must make between their loyalty to Christ and their closest family members. Notably, the ultimate example of this struggle is seen in the betrayal of Jesus by Judas. Consequently, this verse underscores the significant test posed to believers, reminding them that even the closest bonds can be strained due to their unwavering faith in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.2289475636920617,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.21,
+            "commentatorTierSimilarities": [
+                62.94,
+                0.0,
+                37.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:47:47",
+    "verseRef": "Matthew 13:31",
+    "bestBHT": {
+        "bht": "The kingdom of heaven is compared to a grain of mustard seed, illustrating the Lord's intention to begin His reign with something feeble and despicable in order to demonstrate His astonishing power. This parable encourages us not to be discouraged by the small beginnings of the Gospel church state, but to have faith in the boundless and incalculable power of God. It emphasizes the importance of bearing good fruit and serves as a reminder of the Gospel dispensation and the inward kingdom.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.6677242556036205,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+        "commentatorTierSimilarities": [
+            30.21,
+            23.09,
+            46.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed.",
+            "[The man] took, and sowed in his field.",
+            "The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field."
+        ],
+        "John Calvin": [
+            "The Lord opens his reign with a feeble and despicable commencement, for the express purpose, that his power may be more fully illustrated by its unexpected progress.",
+            "If the aspect of Christ's kingdom be despicable in the eyes of the flesh, let us learn to raise our minds to the boundless and incalculable power of God.",
+            "Let us not despond, but rise by faith against the pride of the world, till the Lord give us that astonishing display of his power."
+        ],
+        "Philip Schaff": [
+            "A grain of mustard seed\u2019 was the proverbial expression for the smallest thing conceivable.",
+            "Took. Probably a hint that the small seed must be taken up carefully or it would be lost."
+        ],
+        "Archibald T. Robertson": [
+            "Is like (\u03bf\u03bc\u03bf\u03b9\u03b1 \u03b5\u03c3\u03c4\u03b9\u03bd). Adjective for comparison with associative instrumental as in Matthew 13:13; Matthew 13:44; Matthew 13:45; Matthew 13:47; Matthew 13:52.",
+            "Grain of mustard seed (\u03ba\u03bf\u03ba\u03ba\u03c9 \u03c3\u03b9\u03bd\u03b1\u03c0\u03b5\u03c9\u03c2). Single grain in contrast with the collective \u03c3\u03c0\u03b5\u03c1\u03bc\u03b1 (Matthew 17:20).",
+            "Took and sowed (\u03bb\u03b1\u03b2\u03c9\u03bd \u03b5\u03c3\u03c0\u03b5\u03b9\u03c1\u03b5\u03bd). Vernacular phrasing like Hebrew and all conversational style. In Koine."
+        ],
+        "John Gill": [
+            "The kingdom of heaven is like to a grain of mustard seed, which a man took and sowed in his field.",
+            "By 'the kingdom of heaven' is meant, as before, the Gospel dispensation, or the Gospel church state, and the ministry of the word, and the administration of ordinances in it.",
+            "[The mustard seed] expresses the small beginnings of [the Gospel church state], and the large increase and growth of it, and its great usefulness to the saints."
+        ],
+        "John Wesley": [
+            "The former parables relate chiefly to unfruitful hearers; these that follow, to those who bear good fruit.",
+            "The kingdom of heaven \u2014 Both the Gospel dispensation, and the inward kingdom.",
+            "Mark 4:30; Luke 13:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The kingdom of heaven is like a grain of mustard seed, which a man took and sowed in his field. This parable illustrates that the Lord intentionally starts his reign with something feeble and unimpressive so that the power of God can be more fully displayed through its unexpected progress. Even though the beginnings may appear despicable to the world, we should not lose hope, but rather have faith in the boundless and incalculable power of God. This mustard seed also symbolizes the small beginnings and the remarkable growth and usefulness of the Gospel church state. It emphasizes the importance of bearing good fruit in the kingdom of heaven and serves as a reminder of the Gospel dispensation and the inward kingdom.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.732615025255346,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                32.59,
+                26.63,
+                40.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the mustard seed in Matthew 13:31 teaches us that the kingdom of heaven starts with something seemingly feeble and insignificant. Yet, this humble beginning serves to showcase the astonishing power and unexpected progress of God. Though it may appear despicable in the eyes of the world, the mustard seed symbolizes both the small beginnings and the remarkable growth and usefulness of the Gospel church. This parable reminds us to have faith in God's boundless power and to bear good fruit in His kingdom.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7446712573855863,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                31.15,
+                28.63,
+                40.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The kingdom of heaven is compared to a grain of mustard seed, illustrating the Lord's intention to begin His reign with something feeble and despicable in order to demonstrate His astonishing power. This parable encourages us not to be discouraged by the small beginnings of the Gospel church state, but to have faith in the boundless and incalculable power of God. It emphasizes the importance of bearing good fruit and serves as a reminder of the Gospel dispensation and the inward kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6677242556036205,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                30.21,
+                23.09,
+                46.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the mustard seed reveals that the kingdom of heaven starts with something small and seemingly insignificant. This feeble beginning showcases the power and unexpected progress of God. Although it may appear despised and unimpressive, we should have faith in God's boundless power. The mustard seed symbolizes the small beginnings and remarkable growth of the Gospel church state, highlighting the importance of bearing good fruit. Overall, this parable emphasizes the Gospel dispensation and the inward kingdom.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.6632513125735828,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                30.35,
+                31.13,
+                38.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The kingdom of heaven is like a grain of mustard seed, symbolizing the small beginnings and remarkable growth of the Gospel church state. Despite its feeble and despised nature, this parable highlights God's boundless power and the unexpected progress of His kingdom. It teaches us not to be discouraged by the humble beginnings of the Gospel, but rather to have faith in the astonishing display of God's power. This parable emphasizes the importance of bearing good fruit and serves as a reminder of the Gospel dispensation and the inward kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6396042391136454,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                31.26,
+                22.93,
+                45.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

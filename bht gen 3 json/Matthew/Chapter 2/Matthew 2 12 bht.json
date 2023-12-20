@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:42:41",
+    "verseRef": "Matthew 2:12",
+    "bestBHT": {
+        "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid Herod's wrath. The Lord, knowing the tyrant's true nature, protected them from being discovered again. This unexpected vision came when they were preparing to announce their findings to the pious king. By seeking God's counsel, they followed the divine admonition and took a different route. The flight into Egypt, the massacre at Bethlehem, and their settlement in Nazareth all reveal the divine interventions that ensured the safety of Joseph, Mary, and the baby Jesus.",
+        "wordCount": 91,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.6532313592709276,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+        "commentatorTierSimilarities": [
+            29.01,
+            28.65,
+            42.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But the Lord knew the bloody old tyrant better than to let him see their face again.",
+            "What a surprise would this vision be to the sages, just as they were preparing to carry the glad news of what they had seen to the pious king!",
+            "THE FLIGHT INTO EGYPT\u2014THE MASSACRE AT BETHLEHEM\u2014THE RETURN OF JOSEPH AND MARY WITH THE BABE, AFTER HEROD'S DEATH, AND THEIR SETTLEMENT AT NAZARETH."
+        ],
+        "Albert Barnes": [
+            "God will watch over those whom He loves; that He knows how to foil the purposes of the wicked, and to deliver His own out of the hands of those who would destroy them.",
+            "Warned of God - This was done, doubtless, because, if they had given Herod precise information where he was, it would have been easy for him to send forth and kill him.",
+            "In a dream - See the note at Matthew 1:20."
+        ],
+        "Marvin Vincent": [
+            "The word therefore implies that the wise men had sought counsel of God.\" ",
+            "The verb means to give a response to one who asks or consults.",
+            "And answer taken in sleep."
+        ],
+        "Philip Schaff": [
+            "Heaven and earth move, as it were, about the holy child as their centre; He is so remote, so hidden, so disowned, yet near, discovered and acknowledged by those who seek Him.",
+            "The star of Bethlehem is a beautiful symbol of the nobler aspirations of heathenism and of every human soul toward the incarnate God to whom it points and over whom it abides.",
+            "The Magi, like Melchizedek and Job, open to us a vista of hope respecting the salvation of many who live outside the visible church and removed from the ordinary means of grace."
+        ],
+        "Archibald T. Robertson": [
+            "Warned in a dream [...] to instruct, to admonish.\" ",
+            "In the Septuagint and the New Testament it occurs with the idea of being warned by God.\" ",
+            "An answer taken in sleep."
+        ],
+        "John Gill": [
+            "Being warned of God in a dream, they received a divine oracle, were admonished and counselled by God.",
+            "They thought it most advisable to hearken to the divine oracle; wherefore, they departed into their own country another way.",
+            "What became of these persons afterwards, and whether they were spiritually and savingly enlightened into the knowledge of Christ, we have no account of, either in sacred or profane history."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid the wrath of Herod, the tyrant king. The Lord, knowing Herod's wickedness, protected the wise men from his clutches. This unexpected vision came at the moment when the sages were ready to bring the joyous news to the pious king. The verb used to describe the divine response implies that the wise men sought God's counsel. The dream served as a message of warning and admonition, guiding them to take a different route home. These magi, like Melchizedek and Job, give us hope that even those outside the visible church can find salvation and knowledge of Christ. The flight into Egypt, the massacre at Bethlehem, and the return to Nazareth all display the divine intervention that protected the Holy Family. We have no historical records of what happened to the wise men after their encounter with Jesus, but their obedience to the divine oracle demonstrates their faithfulness.",
+            "wordCount": 163,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.6419725177312166,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                27.17,
+                31.09,
+                41.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid the wrath of Herod. The Lord protected them from his tyranny, knowing his true nature. This unexpected vision came as they were about to deliver the glad tidings to the pious king. By seeking God's counsel, they heeded the divine admonition and took a different route back home. The flight into Egypt, the massacre at Bethlehem, and the subsequent settlement at Nazareth all demonstrate the divine intervention that safeguarded the Holy Family.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6214029893975102,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                28.74,
+                31.08,
+                40.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid Herod's wrath. The Lord, knowing the tyrant's true nature, protected them from being discovered again. This unexpected vision came when they were preparing to announce their findings to the pious king. By seeking God's counsel, they followed the divine admonition and took a different route. The flight into Egypt, the massacre at Bethlehem, and their settlement in Nazareth all reveal the divine interventions that ensured the safety of Joseph, Mary, and the baby Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.6532313592709276,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                29.01,
+                28.65,
+                42.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid Herod's wrath. The Lord, knowing the tyrant's true nature, protected them from being discovered again. This unexpected vision came when they were preparing to announce their findings to the pious king. By seeking God's counsel, they followed the divine admonition and took a different route. The flight into Egypt, the massacre at Bethlehem, and their settlement in Nazareth all reveal the divine interventions that ensured the safety of Joseph, Mary, and the baby Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.6532313592709276,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                29.01,
+                28.65,
+                42.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Warned by God in a dream, the wise men were divinely instructed to avoid the wrath of Herod, the tyrant king. The Lord, knowing Herod's wickedness, protected the wise men from his clutches. This unexpected vision came at the moment when the sages were ready to bring the joyous news to the pious king. The verb used to describe the divine response implies that the wise men sought God's counsel. The dream served as a message of warning and admonition, guiding them to take a different route home. These magi, like Melchizedek and Job, give us hope that even those outside the visible church can find salvation and knowledge of Christ.",
+            "wordCount": 113,
+            "quoteTokenProportion": 30.38,
+            "qualityScore": 1.6675033058750386,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                29.27,
+                31.51,
+                39.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

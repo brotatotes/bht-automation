@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:45:55",
+    "verseRef": "Matthew 10:9",
+    "bestBHT": {
+        "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely completely on God's provision for their journey. They were not to make any preparations, including carrying money. The command to have neither gold, silver, nor brass in their purses emphasized their need to trust in God rather than material wealth. By forbidding any form of currency in their girdles, Jesus was teaching them to go without acquiring anything for themselves and instead depend on God's provision.",
+        "wordCount": 82,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.8976876475861424,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+        "commentatorTierSimilarities": [
+            28.26,
+            41.16,
+            30.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They were to make no preparations for the journey, but to take it in dependence on Him who sent them, just as they were.",
+            "This forbidden provision would be of three kinds (1) Money: in Mark (vi. 8) (literally) 'brass,' in Luke (ix. 3) 'silver:' here all the three current in order of value, connected by the nor, introducing a climax\u2014no gold, nor yet silver, nor yet brass\u2014in their girdles.",
+            "The whole of this prohibition was temporary only; for their then journey, and no more."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. Provide neither gold, nor silver,",
+            "\tnor brass in your purses\u2014\"for\" your purses;",
+            "\tliterally, \"your belts,\" in which they kept their money."
+        ],
+        "Marvin Vincent": [
+            "Brass [\u03c7\u03b1\u03bb\u03ba\u03bf\u03bd] . Properly copper. A descending climax. Copper would be as unnecessary as gold."
+        ],
+        "John Calvin": [
+            "He orders them to leave every thing that would be burdensome.",
+            "Matthew and Luke mean by it a rod which would be burdensome to the person who carries it: while Mark means by it a walking-stick to support and relieve a traveler.",
+            "It is evident, that in making a journey it was customary to carry a staff."
+        ],
+        "Philip Schaff": [
+            "Although their labor was to be performed gratuitously and not for gain, they were not to make preparations for the journey, but to go without first providing a store of money.\" ",
+            "No gold, nor silver, nor brass.\" ",
+            "In your purses, i.e., girdles, which were used as pockets or purses."
+        ],
+        "Archibald T. Robertson": [
+            "Get you no gold...but 'do not acquire' or 'procure' for yourselves.\" ",
+            "Gold, silver, brass (copper) in a descending scale (nor even bronze).",
+            "In your purses...in your girdles or belts used for carrying money."
+        ],
+        "John Gill": [
+            "They were forbidden to carry any of either sort in your purses: or, as it may be rendered, 'in', or 'within your girdles'.",
+            "The \u05e4\u05d5\u05e0\u05d3\u05d0 'phunda', Maimonides says i, is an inner garment, wore to keep off sweat from other garments, to which were sewed hollow things like purses, in which a man put what he pleased.",
+            "The allusion here is to the practice of the Romans l and the Turks m, who used to carry their money in hollow girdles."
+        ],
+        "John Wesley": [
+            "Provide not... they might use what they had ready; but they might not stay a moment to provide any thing more, neither take any thought about it.",
+            "Nor indeed were they to take any thing with them, more than was strictly necessary. Lest it should retard them.",
+            "Because they were to learn hereby to trust to God in all future exigencies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely completely on God's provision. This meant that they were not to make any preparations for their journey, including money. The prohibition on money was comprehensive, from gold to silver to brass, signifying a descending climax of value. They were not even to carry money in their girdles, or belts, which were used as pockets or purses. Jesus wanted them to learn to trust in God for their needs, to go without acquiring anything for themselves. The temporary nature of this prohibition indicated that it was specifically for that journey and not a permanent commandment. The disciples were to embrace a posture of dependence on God, leaving behind anything that would be burdensome or cause delay.",
+            "wordCount": 130,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 1.6894652972415323,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                28.9,
+                37.97,
+                33.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely completely on God's provision, not making any preparations for the journey, including carrying money. The prohibition encompassed gold, silver, and brass, signifying a descending climax of value, all to be excluded from their belts used as purses. This temporary prohibition emphasized the disciples' need to trust in God for their needs and taught them to go without acquiring anything for themselves, embracing a posture of dependence on Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8365485873166474,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                30.15,
+                39.06,
+                30.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely completely on God's provision for their journey. They were not to make any preparations, including carrying money. The command to have neither gold, silver, nor brass in their purses emphasized their need to trust in God rather than material wealth. By forbidding any form of currency in their girdles, Jesus was teaching them to go without acquiring anything for themselves and instead depend on God's provision.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8976876475861424,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                28.26,
+                41.16,
+                30.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely on God's provision alone. They were not to make any preparations, including carrying money. This prohibition applied to various forms of currency, from gold to silver to brass. The disciples were to go without acquiring anything for themselves, trusting in God's provision instead. By prohibiting any money in their purses or belts, Jesus was teaching them to embrace a posture of dependence on God for their needs.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.7431507775679387,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                29.41,
+                41.28,
+                29.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus sent out his disciples on a mission, he instructed them to rely on God's provision alone. They were not to make any preparations or carry any money. This prohibition encompassed gold, silver, and brass, signifying a descending climax of value. The disciples were to go without acquiring anything for themselves and to trust in God's provision for their journey. By forbidding them from carrying money in their purses or belts, Jesus emphasized their need to depend on God for all their needs.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8472548703902167,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                30.97,
+                39.8,
+                29.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

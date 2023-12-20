@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 23:42:49",
+    "verseRef": "Matthew 1:18",
+    "bestBHT": {
+        "bht": "Before they came together, during the period of betrothal, Mary was found to be with child, not as a result of their relationship but by the Holy Ghost. The fact that the Evangelist emphasizes the role of the Holy Ghost in the conception highlights the miraculous nature of Jesus' birth. While some may struggle with this miracle, it is important to remember that God, who has all power and knowledge, can perform extraordinary acts beyond our understanding.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9296379868234677,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+        "commentatorTierSimilarities": [
+            31.48,
+            27.16,
+            41.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The interval between betrothal and the consummation of marriage was sometimes considerable, during which the betrothed remained in her father\u2019s house, till the bridegroom came and fetched her.",
+            "See Deut. xx. 7 came together] Here to be understood of living together in one house as man and wife.",
+            "The words 'of (by) the Holy Ghost,' are the addition of the Evangelist declaring the matter of fact, and do not belong to the discovery."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was, of course, the fact only that was discovered; the explanation of the fact here given is the Evangelist's own.",
+            "That the Holy Ghost is a living conscious Person is plainly implied here, and is elsewhere clearly taught.",
+            "On the miraculous conception of our Lord, see on 2 Corinthians 13:14-."
+        ],
+        "Albert Barnes": [
+            "Now the birth of Jesus Christ - The circumstances attending his birth.",
+            "There was commonly an interval of ten or twevle months, among the Jews, between the contract of marriage and the celebration of the nuptials.",
+            "With child by the Holy Ghost - See the note at Luke 1:35."
+        ],
+        "Marvin Vincent": [
+            "The narrative implies a distinction between betrothal and marriage.\" ",
+            "From the moment of her betrothal a woman was treated as if actually married.\" ",
+            "Breach of faithfulness was regarded as adultery, and was punishable with death."
+        ],
+        "John Calvin": [
+            "Now the birth of Jesus Christ...the way in which his heavenly generation was made known to Joseph.\" ",
+            "When she was espoused to Joseph, and before they came together...the virgin had not yet been delivered by her parents into the hands of her husband.\" ",
+            "The meaning will thus be, that the virgin had not yet been delivered by her parents into the hands of her husband, but still remained under their roof."
+        ],
+        "Philip Schaff": [
+            "The birth of Jesus Christ. Same word as in Matthew 1:1 (\u2018generation\u2019). Here it means \u2018origin.\u2019 The more usual word implies a \u2018begetting\u2019; the choice of this word indicates something peculiar in this birth, as does the form: \u2018Abraham begat Isaac,\u2019 etc., etc.; \u2018the birth of Jesus Christ, however, was in this wise.\u2019",
+            " ",
+            "Before they came together, lived together in one house as man and wife.",
+            "Christ is the sole, the absolute exception to the universal rule of sinfulness; a miracle in history."
+        ],
+        "Archibald T. Robertson": [
+            "The evangelist is about to describe, not the genesis of the heaven and the earth, but the genesis of Him who made the heaven and the earth, and who will yet make a new heaven and a new earth\" (Morison).",
+            "The problem of the Virgin Birth of Jesus has been a disturbing fact to some through all the ages and is today to those who do not believe in the pre-existence of Christ, the Son of God, before his Incarnation on earth.",
+            "There is no miracle with God who has all power and all knowledge. The laws of nature are simply the expression of God's will, but he has not revealed all his will in the laws that we discover."
+        ],
+        "John Gill": [
+            "Christ had no real father as man, Joseph was only, as was supposed, his father; but of the Holy Ghost.",
+            "This was done that the human nature of Christ might be clear of original pollution that so being the immediate produce of the Holy Ghost and without sin.",
+            "Now Mary being gone three months from the time of her espousals to Joseph, and he and she not being yet come together, it was a clear case, that the child she was gone three months with, was none of his."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before Joseph and Mary came together as man and wife, they were in the period of betrothal, where the bride remained in her father's house until the groom came to fetch her. The fact that Mary was found to be with child before they came together indicates that the conception was not a result of their relationship. In fact, the Evangelist clarifies that the conception was by the Holy Ghost, emphasizing the miraculous nature of Jesus' birth. This miraculous conception has been a source of difficulty for those who do not believe in the pre-existence of Christ. However, it is important to remember that there is no miracle too great for God, as He is all powerful and all knowledgeable.",
+            "wordCount": 122,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.894475707848227,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.33,
+            "commentatorTierSimilarities": [
+                31.32,
+                26.48,
+                42.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the period of betrothal, the woman stayed in her father's house until the bridegroom came for her. It is important to note the distinction between betrothal and marriage, as breach of faithfulness during betrothal was seen as adultery. Mary's pregnancy before Joseph and her came together reveals the miraculous nature of Jesus' conception, by the Holy Ghost. This miraculous birth has been challenging for those who deny Christ's pre-existence, but it is essential to recognize that there are no limits to God's power and knowledge.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9101507465904821,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "commentatorTierSimilarities": [
+                33.28,
+                27.11,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before they came together, during the period of betrothal, Mary was found to be with child, not as a result of their relationship but by the Holy Ghost. The fact that the Evangelist emphasizes the role of the Holy Ghost in the conception highlights the miraculous nature of Jesus' birth. While some may struggle with this miracle, it is important to remember that God, who has all power and knowledge, can perform extraordinary acts beyond our understanding.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9296379868234677,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                31.48,
+                27.16,
+                41.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before Joseph and Mary were officially married, and while Mary was still living in her father's house, it was discovered that she was with child. The fact that she conceived by the Holy Spirit is the remarkable truth that the evangelist wants to convey. This divine conception reveals the power and presence of the Holy Spirit in the birth of Jesus, affirming His status as the Son of God. Although the Virgin Birth has been a topic of debate throughout history, it is a testament to God's ability to transcend the laws of nature and fulfill His will.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9637097271594448,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "commentatorTierSimilarities": [
+                31.16,
+                25.76,
+                43.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before Joseph and Mary were married, Mary lived in her father's house. It was then discovered that she was pregnant, having conceived by the Holy Spirit. The evangelist emphasizes that the Holy Spirit is a living conscious Person, and this miraculous conception points to Jesus' divine nature as the Son of God. While the Virgin Birth has been a topic of controversy, it demonstrates God's power and ability to go beyond natural laws. The birth of Jesus reveals the presence of the Holy Spirit in fulfilling God's plan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9060282661386263,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                30.72,
+                26.79,
+                42.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

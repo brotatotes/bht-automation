@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 23:49:04",
+    "verseRef": "Matthew 17:23",
+    "bestBHT": {
+        "bht": "The disciples' exceeding sorrow stemmed from their belated understanding that Jesus was talking about his death and resurrection, a subject he had been teaching them about. They struggled to reconcile this revelation with their false hopes of attaining greatness and establishing a temporal kingdom. Their slow comprehension of the true meaning of Jesus' sacrifice caused them to overlook the hope of his resurrection and the comfort it could have provided. This highlights how men often fail to grasp the significance of Jesus' death and resurrection.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.686645530205425,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            32.49,
+            28.41,
+            39.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the imparting of this knowledge more accurately to His disciples\" ",
+            "which he had begun to do in the last chapter\" ",
+            "was the reason for his privacy."
+        ],
+        "Philip Schaff": [
+            "No remonstrance now, but sorrow, partly from natural affection, partly from the dashing of their false hopes.",
+            "The strife as to who should be greatest... shows that their views were still incorrect.",
+            "Men are still slow to learn the meaning of the death and resurrection of our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "And they were exceeding sorry (\u03ba\u03b1 \u03b5\u03bb\u03c5\u03c0\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd \u03c3\u03c6\u03bf\u03b4\u03c1\u03b1). So they at last understood that he was talking about his death and resurrection. "
+        ],
+        "John Gill": [
+            "He should be betrayed into the hands of the Gentiles, fearing that another nation would come, and take away, and possess the worldly kingdom and grandeur they were dreaming of.\" ",
+            "They seem to have overlooked, and to have taken no notice of his rising again from the dead; which might have administered comfort to them, and have relieved them under their melancholy apprehensions of things.\" ",
+            "They could not tell how to reconcile the betraying of him into the hands of men, and his sufferings and death, with their notions, that the Messiah should abide for ever, and should set up a temporal kingdom, in great splendour and magnificence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were greatly saddened when they finally understood that Jesus was speaking of his impending death and resurrection, which he had been teaching them about in the previous chapter. Their sorrow stemmed from a mixture of natural affection and the realization that their false hopes of Jesus establishing an earthly kingdom were dashed. This misunderstanding persisted despite Jesus' efforts to impart this knowledge more accurately to them. The disciples overlooked the hope of Jesus rising again from the dead, causing them to struggle in reconciling the betrayal and suffering that awaited him with their expectations of an everlasting and glorious kingdom. Men, it seems, are often slow to grasp the true meaning of Jesus' death and resurrection.",
+            "wordCount": 118,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.554728924621892,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                31.93,
+                29.52,
+                38.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were exceedingly sorry when they finally comprehended that Jesus was referring to his death and resurrection, a topic he had begun teaching in the previous chapter. Their sorrow arose from both affection and the disappointment of their misguided hopes for an earthly kingdom. Despite Jesus's efforts to accurately convey this knowledge, they failed to recognize the comfort and relief it should have brought them. Their struggle in reconciling Jesus's betrayal and suffering with their expectations revealed a slow understanding of the true significance of his death and resurrection.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.584198073768991,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.02,
+            "commentatorTierSimilarities": [
+                30.6,
+                27.59,
+                41.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' exceeding sorrow stemmed from their belated understanding that Jesus was talking about his death and resurrection, a subject he had been teaching them about. They struggled to reconcile this revelation with their false hopes of attaining greatness and establishing a temporal kingdom. Their slow comprehension of the true meaning of Jesus' sacrifice caused them to overlook the hope of his resurrection and the comfort it could have provided. This highlights how men often fail to grasp the significance of Jesus' death and resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.686645530205425,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                32.49,
+                28.41,
+                39.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' intense sorrow arose when they finally grasped that Jesus was actually referring to his death and resurrection, a subject he had commenced teaching in the previous chapter. Their sorrow stemmed from both natural affection and shattered illusions of obtaining greatness. Despite Jesus' attempts to more accurately convey this knowledge to them, they failed to acknowledge the consolation and relief that his resurrection would offer them. Their struggle to reconcile his betrayal and suffering with their expectations demonstrated their slow comprehension of the profound meaning of his death and resurrection.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5767477791256903,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                30.61,
+                29.12,
+                40.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' profound sorrow emanated from their sudden realization that Jesus was speaking about his own death and resurrection, a topic he had already begun teaching them in the preceding chapter. This awareness shattered their false hopes of earthly grandeur and precipitated deep anguish, both out of natural affection and the disappointment of their mistaken expectations. Despite Jesus' attempts to impart this knowledge more accurately, they failed to recognize the comfort and solace that his resurrection would bring, thereby displaying their slow understanding of the true significance of his sacrifice.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.6222047299380646,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                31.9,
+                28.75,
+                39.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

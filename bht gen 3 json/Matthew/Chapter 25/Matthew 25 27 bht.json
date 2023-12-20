@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:53:07",
+    "verseRef": "Matthew 25:27",
+    "bestBHT": {
+        "bht": "The parable reminds us to be wise stewards of our resources, actively using them for God's purposes. It emphasizes the responsibility of investing our time, talents, and treasures, just as the exchangers traded with money. We should not be idle, but grow and multiply what has been entrusted to us. By diligently managing our gifts, we can make a significant impact and bring glory to God. Let us not fear or make excuses, but faithfully invest in the Kingdom.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.3817619314301735,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+        "commentatorTierSimilarities": [
+            24.57,
+            37.59,
+            37.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be ye worthy exchangers.",
+            "If thou hadst really been afraid... thou mightest at least, without trouble to thyself, have provided that I should have not been defrauded of the interest of my money.",
+            "The machinery of religious and charitable societies in our day is very much in the place of the exchangers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27. thou oughtest therefore to have",
+            "\tput my money to the exchangers\u2014the bankers. ",
+            "\t",
+            "and then at my coming I",
+            "\tshould have received mine own with usury\u2014interest."
+        ],
+        "Albert Barnes": [
+            "The 'exchangers' were persons who were in the habit of borrowing money, or receiving it on deposit at a low rate of interest, to be loaned to others at higher interest.",
+            "This money was left with the servant, not to exchange, nor to increase it by any such idle means, but by honest industry and merchandise.",
+            "The word 'usury,' in our language, has a bad signification, meaning unlawful or exorbitant interest. This was contrary to the law."
+        ],
+        "Marvin Vincent": [
+            "Put [\u03b2\u03b1\u03bb\u03b5\u03b9\u03bd] . Lit., throw or fling down, as one would throw a bag of coin upon the exchanger's table.",
+            "The Jewish bankers bore precisely the same name.",
+            "The Jewish law distinguished between interest and increase."
+        ],
+        "Philip Schaff": [
+            "Thou oughtest therefore to have put.\" ",
+            "My money. The trust demanded this.\" ",
+            "The theory of Christianity is, that laboring for Christ is not a matter of bargain, but of loving, interested service."
+        ],
+        "Archibald T. Robertson": [
+            "His very words of excuse convict him.",
+            "Compound interest at six per cent doubles the principal every twenty years. It is amazing how rapidly that piles up if one carries it on for centuries and millenniums.",
+            "The Mosaic law did not allow interest in dealings between Hebrews, but only with strangers."
+        ],
+        "John Gill": [
+            "Thou oughtest therefore to have put my money to the exchangers... put it into the hand of these bankers, where it would have been not only safe, as in the earth, where it was hid, but also would have made some increase.\" ",
+            "and then at my coming I should have received my own with usury.\" ",
+            "but to reprove the sloth and inactivity of this servant, upon his own reasonings, and the character he had given of his master."
+        ],
+        "John Wesley": [
+            "Thou oughtest therefore \u2014 On that very account, on thy own supposition, to have improved my talent, as far as was possible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Matthew 25:27 teaches us the importance of stewarding our resources well. Just as the exchangers in those times were responsible for borrowing money at a low interest rate and lending it out for higher interest, we too are called to be wise stewards. We should not be idle or afraid, but instead diligently use the resources given to us for the glory of God. Jesus desires that we invest our talents, time, and treasures in a way that yields a fruitful return. May we actively engage in using our gifts and resources to further the Kingdom of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.3935645459033423,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.68,
+            "commentatorTierSimilarities": [
+                24.65,
+                42.25,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable urges us to be diligent and responsible in managing the resources entrusted to us. Just as the exchangers were expected to handle money wisely, we too should use our talents and possessions for investment and growth. Like compound interest, these resources can multiply over time, having a significant impact. In being faithful stewards, we are called to seize opportunities and not let fear hinder us. Let us embrace our role as exchangers and wisely invest what God has given us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.3650935600361893,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.73,
+            "commentatorTierSimilarities": [
+                25.42,
+                35.36,
+                39.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable reminds us to be wise stewards of our resources, actively using them for God's purposes. It emphasizes the responsibility of investing our time, talents, and treasures, just as the exchangers traded with money. We should not be idle, but grow and multiply what has been entrusted to us. By diligently managing our gifts, we can make a significant impact and bring glory to God. Let us not fear or make excuses, but faithfully invest in the Kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.3817619314301735,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+            "commentatorTierSimilarities": [
+                24.57,
+                37.59,
+                37.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As followers of Christ, we are called to be worthy exchangers, faithfully using our resources for His glory. The parable warns against being idle with what we have been entrusted. Just as the exchangers were responsible for borrowing and lending, we too should actively invest our time, talents, and treasures. The parable challenges us not to be afraid but to diligently multiply what we have been given. Let us be wise stewards, seizing opportunities and using our resources to advance God's Kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.368328071099158,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                28.64,
+                39.57,
+                31.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable teaches us the value of being diligent stewards of our resources, using them wisely for God's purposes. Like the exchangers in their time, we should actively invest our talents, time, and treasures for growth. It reminds us not to be idle or fearful, but to multiply what has been entrusted to us. By being faithful in managing what God has given us, we can make a significant impact and bring glory to His name. Let us be worthy exchangers, constantly seeking ways to invest and grow for His kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.3801718819713191,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.23,
+            "commentatorTierSimilarities": [
+                24.41,
+                33.21,
+                42.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

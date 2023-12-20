@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:42:50",
+    "verseRef": "Matthew 1:25",
+    "bestBHT": {
+        "bht": "The language suggests that Joseph abstained from relations with Mary until Jesus' birth, but afterwards they lived as a married couple. The word till doesn't necessarily change their marital relations, while the term first-born doesn't prove whether Mary had other children. Joseph's integrity and faithfulness in a challenging situation are evident. Some argue for Mary's perpetual virginity, but this doesn't provide evidence. Firm conclusions about what happened after Jesus' birth cannot be drawn from these words.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.0180521816845367,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            33.84,
+            36.86,
+            29.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prim\u00e2 facie impression on the reader certainly is, that knew her not was confined to the period of time here mentioned.",
+            "No one would ever have thought of interpreting the verse any otherwise than in its prim\u00e2 facie meaning, except to force it into accordance with a preconceived notion of the perpetual virginity of Mary.",
+            "It is characteristic, and historically instructive, that the great impugner of the view given above should be Jerome, the impugner of marriage itself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word 'till' does not necessarily imply that they lived on a different footing afterwards.",
+            "The word 'first-born' does not decide the much-disputed question, whether Mary had any children to Joseph after the birth of Christ.",
+            "The law, in speaking of the first-born, regarded not whether any were born after or no, but only that none were born before."
+        ],
+        "Albert Barnes": [
+            "The doctrine of the virginity of Mary before the birth of Jesus is a doctrine of the Scriptures, and is very important to be believed.",
+            "The language here evidently implies that she lived as the wife of Joseph after the birth of Jesus.",
+            "His name Jesus - This was given by divine appointment, Matthew 1:21."
+        ],
+        "John Calvin": [
+            "Let us rest satisfied with this, that no just and well-grounded inference can be drawn from these words of the Evangelist, as to what took place after the birth of Christ.",
+            "Certainly, no man will ever raise a question on this subject, except from curiosity; and no man will obstinately keep up the argument, except from an extreme fondness for disputation.",
+            "He is called First-born, but for no other reason than that we may know that he was born of a pure virgin, and who never had had a child."
+        ],
+        "Philip Schaff": [
+            "The words answering to 'her' and 'first-born' are omitted by some of the best authorities. They may, however, have been left out to support the doctrine of the perpetual virginity of Mary.",
+            "Yet Matthew, with the whole history of Christ before him, would scarcely have used the expression, had he held the Roman Catholic notion of the perpetual virginity. It would have been easy to assert that by saying: he never knew her.",
+            "The whole subject is fully discussed by Lange and Schaff in the English edition of Lange\u2019s Commentary, Matthew, pp. 255 - 260."
+        ],
+        "Archibald T. Robertson": [
+            "Joseph lived in continence with Mary till the birth of Jesus.\" ",
+            "The perpetual virginity of Mary is not taught here.\" ",
+            "Joseph showed that he was an upright man in a most difficult situation."
+        ],
+        "John Gill": [
+            "And this conduct of his was necessary, till she had brought forth her firstborn; that it might be manifest not only that she conceived, being a virgin, but also that she brought forth, being a virgin.",
+            "Christ is called Mary's firstborn, because she had none before him, whether she had any after him or not; for her perpetual virginity seems to be no necessary article of faith.",
+            "Christ was 'her firstborn' as he was man, and the firstborn of God, or his first and only begotten, as the Son of God."
+        ],
+        "John Wesley": [
+            "He knew her not, till after she had brought forth \u2014 It cannot be inferred from hence, that he knew her afterward...",
+            "...nor do the words that follow, the first-born son, alter the case.",
+            "For there are abundance of places, wherein the term first born is used, though there were no subsequent children."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The language used in this verse seems to suggest that Joseph abstained from sexual relations with Mary until the birth of Jesus, but afterwards they lived as a married couple. Some commentators argue that the word till does not necessarily mean their marital relations changed, and the term first-born does not conclusively prove whether Mary had other children with Joseph. It is clear from this verse that Joseph demonstrated his integrity and faithfulness in a challenging situation. While some argue for Mary's perpetual virginity, others believe that this verse does not provide evidence for it. Ultimately, this verse does not provide a definitive answer about what happened after Jesus' birth, and it would be unwise to draw any firm conclusions.",
+            "wordCount": 122,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 2.181388717795328,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                33.55,
+                37.37,
+                29.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The language implies that Joseph abstained from relations with Mary until Jesus' birth, but afterwards they lived as a married couple. The word till doesn't necessarily change their marital relations, and the term first-born doesn't prove whether Mary had other children. Joseph showed integrity and faithfulness in a challenging situation. Some argue for her perpetual virginity, but this verse doesn't provide evidence. We can't draw firm conclusions about what happened after Jesus' birth from this verse.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.034633022267381,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                33.59,
+                37.62,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The language suggests that Joseph abstained from relations with Mary until Jesus' birth, but afterwards they lived as a married couple. The word till doesn't necessarily change their marital relations, while the term first-born doesn't prove whether Mary had other children. Joseph's integrity and faithfulness in a challenging situation are evident. Some argue for Mary's perpetual virginity, but this verse doesn't provide evidence. Firm conclusions about what happened after Jesus' birth cannot be drawn from this passage.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.043468169637226,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                33.79,
+                37.05,
+                29.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The language suggests that Joseph abstained from relations with Mary until Jesus' birth, but afterwards they lived as a married couple. The word till doesn't necessarily change their marital relations, while the term first-born doesn't prove whether Mary had other children. Joseph's integrity and faithfulness in a challenging situation are evident. Some argue for Mary's perpetual virginity, but this doesn't provide evidence. Firm conclusions about what happened after Jesus' birth cannot be drawn from this.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.000079048251669,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                34.2,
+                36.82,
+                28.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The language suggests that Joseph abstained from relations with Mary until Jesus' birth, but afterwards they lived as a married couple. The word till doesn't necessarily change their marital relations, while the term first-born doesn't prove whether Mary had other children. Joseph's integrity and faithfulness in a challenging situation are evident. Some argue for Mary's perpetual virginity, but this doesn't provide evidence. Firm conclusions about what happened after Jesus' birth cannot be drawn from these words.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0180521816845367,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                33.84,
+                36.86,
+                29.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

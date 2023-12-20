@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:54:02",
+    "verseRef": "Matthew 27:1",
+    "bestBHT": {
+        "bht": "As dawn broke, the Sanhedrin promptly held a formal meeting to condemn Jesus, thereby ratifying the previous night's illegal trial. They sought to find a charge that would not violate Roman laws and settled on Jesus' claim of being the King of the Jews. This accusation compelled Pilate to grant his consent. The Pharisees meticulously followed formalities despite their unjust intentions. Swiftly condemning Jesus, they wasted no time in executing their malevolent plan. This earthly condemnation would ultimately serve to nullify our own heavenly condemnation.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.3465534826074175,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+        "commentatorTierSimilarities": [
+            37.4,
+            27.46,
+            35.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Peter\u2019s last denial was probably not far from three o\u2019clock a. m., or near the break of day.\" (27 words)",
+            "They therefore 'consulted,' or took counsel together, to determine on what pretence they could deliver him to the Roman emperor.\" (27 words)",
+            "On a charge of 'blasphemy' they knew he could not, as that was not an offence against the Roman laws.\" (19 words)"
+        ],
+        "John Calvin": [
+            "By so doing, they observe the form of judicial proceedings, that they may not be suspected of undue haste.",
+            "As soon as it was daylight, they condemned Christ to death, and did not lose a moment in earnestly putting into execution their wicked design.",
+            "It was proper that the Son of God should be solemnly condemned by an earthly judge, that he might efface our condemnation in heaven."
+        ],
+        "Philip Schaff": [
+            "Probably about sunrise, since the twilight is short in that latitude.",
+            "It is characteristic of Pharisaism to be most formal when most unjust.",
+            "Their plan appears to have been: 1. To ask Pilate\u2019s consent, without inquiry, to their sentence of death (John 18:30). 2. If necessary, to make the vague charge, that Jesus claimed to be King of the Jews (Matthew 27:11). This was the ground on which they forced Pilate to consent. 3. Another charge mentioned by John (John 19:7), that He claimed to be the Son of God, may have been determined on, in case He denied the political character of His Messiahship. But it had no effect, and the other accusation was resumed."
+        ],
+        "Archibald T. Robertson": [
+            "After dawn came the Sanhedrin held a formal meeting to condemn Jesus and so ratify the illegal trial during the night.",
+            "The phrase used, took counsel, is a Latin idiom (consilium ceperunt) for \u03c3\u03c5\u03bd\u03b5\u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03bf.",
+            "Luke gives the details of this second ratification consultation."
+        ],
+        "John Gill": [
+            "They made haste to shed blood.",
+            "Religion, rites, ceremonies, and canons, must all give way to the accomplishment of what their hearts were so much set upon.",
+            "They are all summoned and gathered together, unless we except Joseph of Arimathea and Nicodemus; who yet might be there, though they did not consent to their counsel and deed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As dawn arrived, the Sanhedrin wasted no time in holding a formal meeting to condemn Jesus and legitimize the unlawful trial that took place during the night. In their consultation, they deliberated on how to deliver Jesus to the Roman emperor, seeking a charge that would not conflict with Roman law. Ultimately, they settled on accusing Jesus of claiming to be the King of the Jews, effectively forcing Pilate to give his consent. The Pharisees were meticulous in following proper judicial procedures, yet their haste to shed innocent blood revealed their true intentions. This solemn condemnation by an earthly judge served a divine purpose, as it would ultimately cancel out our own condemnation in heaven. Despite the majority gathering in agreement, there were notable individuals like Joseph of Arimathea and Nicodemus who, though present, did not consent to this vile counsel and deed.",
+            "wordCount": 143,
+            "quoteTokenProportion": 31.73,
+            "qualityScore": 1.3915614966836798,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                35.0,
+                27.9,
+                37.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At dawn, the Sanhedrin swiftly convened a formal meeting to condemn Jesus and validate the illegal trial conducted during the night. Their consultation aimed to find a charge that Romans would not object to, eventually settling on Jesus' claim of being the King of the Jews. This enabled them to manipulate Pilate into granting consent. The Pharisees carefully observed proper judicial procedures, but their urgency in shedding innocent blood exposed their true intentions. This earthly condemnation would serve to annul our own condemnation in heaven. However, not all present consented to this wicked deed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.2048937142768643,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+            "commentatorTierSimilarities": [
+                38.01,
+                23.48,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As dawn broke, the Sanhedrin promptly held a formal meeting to condemn Jesus, thereby ratifying the previous night's illegal trial. They sought to find a charge that would not violate Roman laws and settled on Jesus' claim of being the King of the Jews. This accusation compelled Pilate to grant his consent. The Pharisees meticulously followed formalities despite their unjust intentions. Swiftly condemning Jesus, they wasted no time in executing their malevolent plan. This earthly condemnation would ultimately serve to nullify our own heavenly condemnation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3465534826074175,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                37.4,
+                27.46,
+                35.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At dawn, the Sanhedrin held a formal meeting to condemn Jesus, solidifying the unlawful trial conducted during the night. Their consilium ceperunt or consultation aimed to legitimize their plan of delivering Jesus to the Roman emperor. They strategically settled on accusing Jesus of claiming to be the King of the Jews, pressuring Pilate to grant consent. The Pharisees' meticulous observance of judicial proceedings concealed their unjust intentions. Without delay, they swiftly executed their wicked plot, shedding innocent blood. This earthly condemnation contrasted with Christ's purpose to erase our condemnation in heaven.",
+            "wordCount": 92,
+            "quoteTokenProportion": 22.54,
+            "qualityScore": 1.2637815910882095,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+            "commentatorTierSimilarities": [
+                35.05,
+                25.66,
+                39.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As dawn broke, the Sanhedrin wasted no time in convening a formal meeting to condemn Jesus and thus validate the previous unlawful trial. Their consilium ceperunt or consultation sought to find a charge that would not breach Roman laws, resulting in the accusation of Jesus claiming to be the King of the Jews. By employing this accusation, they manipulated Pilate into giving his consent. The Pharisees meticulously followed proper judicial procedures amidst their unjust intentions. With promptness, they executed their wicked plan, hastening to shed innocent blood. This earthly condemnation served the purpose of negating our own condemnation in heaven.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.11,
+            "qualityScore": 1.2637712263493583,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+            "commentatorTierSimilarities": [
+                35.13,
+                26.02,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

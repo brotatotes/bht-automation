@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 23:42:59",
+    "verseRef": "Matthew 1:1",
+    "bestBHT": {
+        "bht": "The book of Matthew begins with the genealogy of Jesus Christ, which specifically focuses on Jesus's lineage as the son of David and the son of Abraham. The term Christ represents Jesus as the anointed one, who fulfills the roles of king, prophet, and priest. Jesus, known by the name given at his circumcision, was anointed by God to bring healing and comfort. This genealogy serves as evidence that Jesus is the promised Messiah, fulfilling the ancient prophecies regarding the descendant of David and Abraham.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.745901826419394,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.64,
+        "commentatorTierSimilarities": [
+            35.69,
+            35.63,
+            28.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It [book of the generation] refers exclusively to the genealogy, by 'Jesus Christ' being used in the enunciation, and the close being 'Jesus which is called Christ.'",
+            "The word [Christ] is equivalent to the Hebrew Messiah, anointed. It is used of kings, priests, prophets, and of the promised Deliverer.",
+            "Son of David was an especial title of the Messiah... That He should be son of Abraham, was too solemn a subject of prophecy to be omitted here, even though implied in the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus, the name given to our Lord at His circumcision, was that by which He was familiarly known while on earth.\" ",
+            "The word 'Christ'...only began to be so used by others about the very close of His earthly career.\" ",
+            "From the nearest of those two fathers came that familiar name of the promised Messiah, 'the son of David', which was applied to Jesus."
+        ],
+        "Albert Barnes": [
+            "This is the proper title of the chapter. It is the same as to say, 'the account of the ancestry or family, or the genealogical table of Jesus Christ.'",
+            "Jesus is called either the Messiah, or the Christ, meaning the same thing.",
+            "Though Jesus was of humble birth, yet he was descended from most illustrious ancestors."
+        ],
+        "Marvin Vincent": [
+            "Christ [\u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2]. Properly an adjective, not a noun, and meaning anointed (criw, to anoint).",
+            "Hence the word 'Christ' was representative of our Lord, who united in himself the offices of king, prophet, and priest.",
+            "Anointing was practiced upon the sick. Jesus, 'the Great Physician,' is described by Isaiah (Isaiah 61:1, Isaiah 61:2; compare Luke 4:18) as anointed by God to bind up the broken - hearted, and to give the mournful the oil of joy for mourning."
+        ],
+        "John Calvin": [
+            "But we have not yet replied to their objection, that the ancestry of Joseph has nothing to do with Christ. The common and well-known reply is, that in the person of Joseph the genealogy of Mary also is included, because the law enjoined every man to marry from his own tribe.",
+            "I am well aware of the manner in which they attempt to solve this difficulty. The word son, they allege, is put for son-in-law, and the interpretation they give to Joseph being called the son of Heli is, that he had married Heli\u2019s daughter. But this does not agree with the order of nature, and is nowhere countenanced by any example in Scripture.",
+            "The fourth and last is; when they are speaking of the same persons, they sometimes give them different names."
+        ],
+        "Philip Schaff": [
+            "The book of birth, birth-book,' i.e., pedigree, genealogy.",
+            "This combination is the Gospel in a nutshell, a declaration that Jesus is the Christ, the promised Messiah.",
+            "Christ is our Anointed Prophet, Priest, and King. That of \u2018King\u2019 was most prominent in the expectations of the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "The Book (\u03b2\u03b9\u03b2\u03bb\u03bf\u03c2). There is no article in the Greek, but the following genitives make it definite. It is our word Bible that is here used, the Book as Sir Walter Scott called it as he lay dying.",
+            "Matthew proposes to show that Jesus Christ is on the human side the son of David, as the Messiah was to be, and the son of Abraham, not merely a real Jew and the heir of the promises, but the promise made to Abraham.",
+            "The names are given in three groups, Abraham to David (Matthew 1:2-6), David to Babylon Removal (Matthew 1:6-11), Jechoniah to Jesus (Matthew 1:12-16). The removal to Babylon (\u03bc\u03b5\u03c4\u03bf\u03b9\u03ba\u03b5\u03c3\u03b9\u03b1\u03c2 \u0392\u03b1\u03b2\u03c5\u03bb\u03c9\u03bd\u03bf\u03c2) occurs at the end of verse Matthew 1:11, the beginning of verse Matthew 1:12, and twice in the resume in verse Matthew 1:17."
+        ],
+        "John Gill": [
+            "This is the genuine title of the book, which was put to it by the Evangelist himself; for the former seems to be done by another hand.",
+            "The Jews call their blasphemous history of the life of Jesus, \u05e1\u05e4\u05e8 \u05ea\u05d5\u05dc\u05d3\u05d5\u05ea \u05d9\u05e9\u05d5 'The book of the generations of Jesus.'",
+            "By the promise made to Abraham he was to descend from him, as Jesus did; who took upon him the seed of Abraham, Hebrews 2:16 or assumed an human nature which sprung from him, and is therefore truly the son of Abraham."
+        ],
+        "John Wesley": [
+            "The book of the generation of Jesus Christ \u2014 That is, strictly speaking, the account of his birth and genealogy.",
+            "These accounts sufficiently answer the end for which they are recited. They unquestionably prove the grand point in view, that Jesus was of the family from which the promised seed was to come.",
+            "He is so called, because to these he was more peculiarly promised; and of these it was often foretold the Messiah should spring."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The genealogy in the book of Matthew refers exclusively to Jesus Christ, the anointed one. Christ is a title that signifies the promised Deliverer, uniting the roles of king, prophet, and priest. It is a representative of Jesus, who was anointed by God to bring healing and comfort. The names listed in the genealogy highlight Jesus's lineage as the son of David and the son of Abraham, fulfilling the promises made to these ancestors. This account unequivocally shows that Jesus is the one from whom the promised seed was to come.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.5900816352016705,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.46,
+            "commentatorTierSimilarities": [
+                34.13,
+                36.36,
+                29.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The book of Matthew begins with the genealogy of Jesus Christ, emphasizing his connection to the promised Messiah. Christ represents Jesus as the anointed one, combining the roles of king, prophet, and priest. His name, Jesus, reflects his earthly identity, while Christ became a commonly used term towards the end of his earthly ministry. The genealogy establishes Jesus's lineage as the son of David and the son of Abraham, validating his fulfillment of the prophecies. This account serves as a testament to Jesus's role as the long-awaited promised seed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.5670644427580775,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.69,
+            "commentatorTierSimilarities": [
+                34.12,
+                36.64,
+                29.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The book of Matthew begins with the genealogy of Jesus Christ, establishing his lineage as the son of David and the son of Abraham, fulfilling the promises made to them. Christ is the representative title for Jesus, anointed by God as the promised Deliverer who combines the roles of king, prophet, and priest. The name Jesus, given during his circumcision, reflects his earthly identity while the term Christ gained prominence later. This genealogy serves as a testament to Jesus being the long-awaited promised Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.7395996311815622,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.43,
+            "commentatorTierSimilarities": [
+                35.24,
+                35.88,
+                28.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the book of Matthew, the genealogy of Jesus Christ establishes his lineage as the promised Messiah, the son of David and the son of Abraham. The term Christ represents Jesus as the anointed one, combining the roles of king, prophet, and priest. Jesus, the Great Physician, was anointed by God to bring healing and comfort. This genealogy serves as a testament to Jesus fulfilling the ancient promises and being the long-awaited seed of David and Abraham.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.599307868072615,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.77,
+            "commentatorTierSimilarities": [
+                35.33,
+                36.41,
+                28.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The book of Matthew begins with the genealogy of Jesus Christ, which specifically focuses on Jesus's lineage as the son of David and the son of Abraham. The term Christ represents Jesus as the anointed one, who fulfills the roles of king, prophet, and priest. Jesus, known by the name given at his circumcision, was anointed by God to bring healing and comfort. This genealogy serves as evidence that Jesus is the promised Messiah, fulfilling the ancient prophecies regarding the descendant of David and Abraham.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.745901826419394,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.64,
+            "commentatorTierSimilarities": [
+                35.69,
+                35.63,
+                28.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

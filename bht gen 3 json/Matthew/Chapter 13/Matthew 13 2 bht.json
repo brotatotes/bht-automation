@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:47:26",
+    "verseRef": "Matthew 13:2",
+    "bestBHT": {
+        "bht": "How vivid is the image of the multitudes standing on the beach, eagerly anticipating Jesus' parables! His teachings are unparalleled in their simplicity, grace, and spiritual depth, accessible to individuals at every stage of their faith journey. Speaking from a boat not only allowed Jesus the space to address such a large crowd but also ensured better visibility and audibility. The parable of the sower teaches us about the need for a fertile and well-cultivated heart to receive the seed of the Gospel.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.4848276729202174,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+        "commentatorTierSimilarities": [
+            30.76,
+            35.91,
+            33.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How graphic this picture!\u2014no doubt from the pen of an eye-witness, himself impressed with the scene.\" ",
+            "To the parables of our Lord there is nothing in all language to be compared, for simplicity, grace, fulness, and variety of spiritual teaching.\" ",
+            "They are adapted to all classes and stages of advancement, being understood by each according to the measure of his spiritual capacity."
+        ],
+        "Marvin Vincent": [
+            "Shore [\u03b1\u03b9\u03b3\u03b9\u03b1\u03bb\u03bf\u03bd] . Rev., beach, that over which the sea [\u03b1\u03bb\u03c2] rushes [\u03b1\u03b9\u03c3\u03c3\u03b5\u03b9].\" ",
+            "The word for shore, ajkth, on which the sea breaks [\u03b1\u03b3\u03bd\u03c5\u03bc\u03b9], is never used in the New Testament.",
+            "Wyc., brink."
+        ],
+        "John Calvin": [
+            "The design of the parable was to inform them, that the seed of doctrine, which is scattered far and wide, is not everywhere productive; because it does not always find a fertile and well cultivated soil.",
+            "Christ declared that he was there in the capacity of a husbandman, who was going out to sow seed, but that many of his hearers resembled an uncultivated and parched soil, while others resembled a thorny soil; so that the labor and the very seed were thrown away.",
+            "If those who ran from distant places to Christ, like hungry persons, are compared to an unproductive and barren soil, we need not wonder if, in our own day, the Gospel does not yield fruit in many, of whom some are lazy and sluggish, others hear with indifference, and others are scarcely drawn even to hear."
+        ],
+        "Philip Schaff": [
+            "The people stood on the shore, in order to hear Him.",
+            "From the boat, the first four parables were spoken; the other three, to the disciples in the house."
+        ],
+        "Archibald T. Robertson": [
+            "And all the multitude stood on the beach (\u03ba\u03b1 \u03c0\u03b1\u03c2 \u03bf \u03bf\u03c7\u03bb\u03bf\u03c2 \u03b5\u03c0 \u03c4\u03bf\u03bd \u03b1\u03b9\u03b3\u03b9\u03b1\u03bb\u03bf\u03bd \u03b9\u03c3\u03c4\u03b7\u03ba\u03b5). Past perfect tense of \u03b9\u03c3\u03c4\u03b7\u03bc with imperfect sense, had taken a stand and so stood.",
+            "Note accusative also with \u03b5\u03c0 upon the beach where the waves break one after the other (\u03b1\u03b9\u03b3\u03b9\u03b1\u03bb\u03bf\u03c2 is from \u03b1\u03bb\u03c2, sea, and \u03b1\u03b3\u03bd\u03c5\u03bc, to break, or from \u03b1\u03b9\u03c3\u03c3\u03c9, to rush).",
+            "Jesus had to get into a boat and sit down in that because of the crush of the crowd."
+        ],
+        "John Gill": [
+            "And great multitudes were gathered unto him...Some for the loaves, and others to hear him preach; and of these there were several sorts.\" ",
+            "So that he went into a ship: both for his own advantage, that he might not be crowded...and for theirs, that they might both see and hear him better.",
+            "Christ sat upon the deck of the ship; or perhaps this ship was no other than an open boat...with much convenience and attention."
+        ],
+        "John Wesley": [
+            "He went into the vessel \u2014 Which constantly waited upon him, while he was on the sea coast."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Matthew 13:2 is vividly described, depicting the multitude of people standing on the beach, eagerly anticipating Jesus' teaching. The parables spoken by Jesus are unparalleled in their simplicity, grace, and depth of spiritual teaching. Whether they were farmers, fishermen, or scholars, people of all classes and stages of spiritual growth could understand these parables according to their capacity. The choice to speak from a boat was not only to provide Jesus with space to address the crowd, but it also allowed for better visibility and audibility amidst the sea of people. The parable of the sower, specifically, highlights the importance of receiving the seed of the Gospel in fertile and well-cultivated soil, as many hearts resemble uncultivated or thorny soil where the labor and seed are in vain. Despite the vast multitude, Jesus made the effort to step into the boat to ensure that both he and the crowd could benefit from this unique setting.",
+            "wordCount": 158,
+            "quoteTokenProportion": 35.58,
+            "qualityScore": 1.58814614598641,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                27.76,
+                39.32,
+                32.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The picturesque scene in this passage immerses us in the experience of an eyewitness, capturing the anticipation of the multitude gathered on the beach. The parables that Jesus spoke during this moment hold unparalleled spiritual teachings, elegantly portrayed and accessible to people of all backgrounds and stages of spiritual growth. Jesus wisely chose to speak from a boat to address the crowd amidst the constraint of limited space. This decision allowed for better visibility and audibility, ensuring that both he and the multitude could benefit from this unique setting. The parable of the sower emphasizes the necessity of receiving the seed of the Gospel in fertile soil, cautioning against unproductive and thorny hearts.",
+            "wordCount": 113,
+            "quoteTokenProportion": 24.68,
+            "qualityScore": 1.3645886905795757,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                28.21,
+                37.5,
+                34.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How vivid is the image of the multitudes standing on the beach, eagerly anticipating Jesus' parables! His teachings are unparalleled in their simplicity, grace, and spiritual depth, accessible to individuals at every stage of their faith journey. Speaking from a boat not only allowed Jesus the space to address such a large crowd but also ensured better visibility and audibility. The parable of the sower teaches us about the need for a fertile and well-cultivated heart to receive the seed of the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4848276729202174,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                30.76,
+                35.91,
+                33.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This scene from Matthew is a powerful depiction of the multitude gathered on the beach, eager to hear Jesus' profound parables. His teachings are unmatched in their simplicity, grace, and depth, reaching people of diverse spiritual capacities. Speaking from a boat allowed Jesus to both address the large crowd and provide better visibility and audibility. The parable of the sower reminds us of the importance of cultivating a fertile heart to receive the seed of the Gospel. Ultimately, this vivid portrayal highlights the significance of being receptive to Jesus' teachings amidst the multitude.",
+            "wordCount": 93,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 1.4772929714514234,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                29.22,
+                40.16,
+                30.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The imagery of the multitude standing on the beach, eagerly awaiting Jesus' teaching, is incredibly vivid. His parables are unmatched in their simplicity, grace, and spiritual depth, speaking to people at all stages of spiritual growth. Speaking from a boat enabled Jesus to effectively address the crowd, providing better visibility and audibility. The parable of the sower emphasizes the importance of receiving the Gospel in fertile soil, cautioning against unproductive and thorny hearts. This scene exemplifies the significance of openness and receptivity to Jesus' teachings within a diverse crowd.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.4438140508411896,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                30.99,
+                37.96,
+                31.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

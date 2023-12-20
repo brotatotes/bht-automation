@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:53:11",
+    "verseRef": "Matthew 26:5",
+    "bestBHT": {
+        "bht": "The religious leaders were determined to capture and kill Jesus, but during the feast they couldn't lay hands on Him. They feared an uprising and argued to postpone their plans until after the feast when the crowds had scattered. Their intent was to catch Him by craft before they proceeded with their sinister plot. This delay was contrary to their common rules, driven by fear rather than reverence for God. Yet, God's providence allowed Judas to change their purpose, leading to the fulfillment of Jesus as the true paschal Lamb on the day of the solemn feast.",
+        "wordCount": 99,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.5685099975414931,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+        "commentatorTierSimilarities": [
+            34.64,
+            27.53,
+            37.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not during the feast...they could not lay hold of and slay anyone.\" ",
+            "On the feast-day...it was a day of sabbatical obligation.\" ",
+            "The seven days...the whole period of the feast."
+        ],
+        "John Calvin": [
+            "Although those hungry dogs eagerly opened their mouths to devour Christ, or rather, rushed furiously upon him, still God withheld them, by a secret restraint, from doing anything by their deliberation or at their pleasure.",
+            "Christ was not unexpectedly dragged to death by the violence of his enemies, but was led to it by the providence of God.",
+            "God, who had appointed him to be a sacrifice for the expiation of sins, selected a suitable day for contrasting the body with its shadow, by placing them together."
+        ],
+        "Philip Schaff": [
+            "Not during the feast, i.e., the Passover week, during which the multitudes (sometimes reckoned at three millions on such occasions) remained at Jerusalem.",
+            "This feast was often the occasion of insurrection, according to Josephus.",
+            "Even in the greatest humiliation His power and truth still shine forth."
+        ],
+        "Archibald T. Robertson": [
+            "They feared the uprising in behalf of Jesus and were arguing that the matter must be postponed till after the feast was over when the crowds had scattered.",
+            "Then they could catch him 'by craft' (\u03b4\u03bf\u03bb\u03c9) as they would trap a wild beast."
+        ],
+        "John Gill": [
+            "it was an agreed point with them... that nothing of this kind should be attempted to be done on the feast day... though this was contrary to their common rules and usages.",
+            "they had no fear of God before their eyes, or in their hearts, only the fear of the people.",
+            "they feared, should they attempt anything of this nature at this time, the people would rise, and rescue him out of their hands."
+        ],
+        "John Wesley": [
+            "But they said, Not at the feast \u2014 This was the result of human wisdom.",
+            "But when Judas came they changed their purpose.",
+            "So the counsel of God took place, and the true paschal Lamb was offered up on the great day of the paschal solemnity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders were determined to capture and kill Jesus, but they knew that during the feast, they wouldn't be able to touch Him because it was a day of sabbatical obligation. They feared an uprising in Jesus' defense and decided to wait until after the feast when the crowds had scattered, so they could capture Him by craft. This delay was in accordance with their common rules, but they were driven by their own fear and lack of reverence for God. However, God restrained them from acting according to their own plans and instead allowed Judas to change their purpose, so that Jesus could fulfill His role as the true paschal Lamb, sacrificed on the great day of the paschal solemnity.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6540592448792173,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                34.59,
+                26.8,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders were determined to capture and kill Jesus, but during the feast they couldn't lay hands on Him. They feared an uprising and argued to postpone their plans until after the feast when the crowds had scattered. Their intent was to catch Him by craft before they proceeded with their sinister plot. This delay was contrary to their common rules, driven by fear rather than reverence for God. Yet, God's providence allowed Judas to change their purpose, leading to the fulfillment of Jesus as the true paschal Lamb on the day of the solemn feast.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.5685099975414931,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                34.64,
+                27.53,
+                37.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders were deterred from capturing and killing Jesus during the feast, a time of sabbatical obligation, as they feared an uprising and argued to postpone until after the feast when the crowds had scattered. They hoped to catch Him by craft like trapping a wild beast. Their delay went against their usual practices and was motivated by fear of the people, rather than the fear of God. However, God's providence allowed Judas to change their plan, resulting in Jesus' sacrificial offering on the day of the solemn feast.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5324143085599156,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                38.52,
+                23.8,
+                37.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders, aware of the sabbatical obligation during the feast, decided not to lay hold of and slay Jesus. They feared an uprising in His defense and planned to postpone their actions until after the feast, when the crowds had scattered. Their intention was to catch Him by craft like a trapped wild beast. This delay was contrary to their common rules, driven solely by fear of the people. Nevertheless, God's providence allowed Judas to change their purpose, leading to Jesus' sacrificial offering on the day of the solemn feast.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5507779060506337,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                39.04,
+                24.55,
+                36.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders recognized the sabbatical obligation during the feast and chose not to harm Jesus. Fearing an uprising, they decided to wait until after the feast to trap Him by craft like a wild beast. This delay went against their common rules, driven by fear rather than reverence for God. God's providence allowed Judas to change their plan, leading to Jesus' sacrificial offering on the day of the solemn feast.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5374416976725103,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                36.76,
+                24.82,
+                38.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

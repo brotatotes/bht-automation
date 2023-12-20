@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 23:47:10",
+    "verseRef": "Matthew 12:37",
+    "bestBHT": {
+        "bht": "By our words, the true principles of our hearts are revealed. If our words are true, proper, and pious, they demonstrate that our hearts are right. If, however, our words are false and impious, they indicate that our hearts are wrong and will be a cause of condemnation. Our words are the index of our character, exposing the true condition of our hearts. This principle challenges every individual to consider whether their words confess or deny Christ, for in the day of judgment, our words will come into account as evidence, either justifying or condemning us.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.004883528747098,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+        "commentatorTierSimilarities": [
+            0.0,
+            58.88,
+            41.12
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "By thy words thou shalt be justified ... - That is, 'words' are the indication of the true principles of the heart; by 'words' the heart shall be known, as the tree is by its fruit.",
+            "If they are true, proper, chaste, instructive, pious, they will prove that the heart is right.",
+            "If false, envious, malignant, and impious, they will prove that the heart is wrong, and will therefore be among the causes of condemnation."
+        ],
+        "John Calvin": [
+            "By thy words thou shalt be justified...a wicked speech, being the indication of concealed malice, is enough to condemn a man.\" ",
+            "A man is justified by his words...because pure speech absolves us in such a manner, that we are not condemned as wicked persons by our tongue.\" ",
+            "The contrast between the two words points out the meaning of the word justify...he is accounted righteous, and is acquitted before the tribunal of God."
+        ],
+        "Philip Schaff": [
+            "For by thy words thou shalt be justified, declared righteous, acquitted, not made righteous. The word never has the latter sense in the New Testament.",
+            "The index of character will be the words, not hypocritical ones, although even these speedily reveal their true character, but those coming from the heart.",
+            "This general principle, far exceeding 'the righteousness of the scribes and Pharisees,' concludes this discourse. Its awful statements challenge every one: Are you with Christ or against Him; do your words, coming from the heart, confess or deny Him."
+        ],
+        "John Gill": [
+            "Our Lord's meaning is, that not only works and actions, but words of all sorts, will come into account in the day of judgment, and will be evidences for, or against a man, to acquit or condemn him.",
+            "A man that has spoken for Christ, and has freely confessed that all his hope of justification before God, and acceptance with him, is solely upon the account of the righteousness of Christ imputed; such a man will be declared a justified man according to the tenor of his own words.",
+            "A man that has spoken hard speeches against Christ, and his righteousness; declaring he has no dependence on it, expects no justification by it; he will be convinced of these ungodly sayings, and out of his own mouth will be condemned."
+        ],
+        "John Wesley": [
+            "Your words as well as actions shall be produced in evidence for or against you, to prove whether you was a true believer or not.",
+            "By thy words (as well as thy tempers and works) thou shalt then be either acquitted or condemned.",
+            "According to that evidence you will either be acquitted or condemned in the great day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By our words, the true principles of our hearts are revealed. If our words are true, proper, and pious, they demonstrate that our hearts are right. If, however, our words are false and impious, they indicate that our hearts are wrong and will be a cause of condemnation. Our words are the index of our character, exposing the true condition of our hearts. This principle challenges every individual to consider whether their words confess or deny Christ, for in the day of judgment, our words will come into account as evidence, either justifying or condemning us.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.004883528747098,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.88,
+                41.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By our words, the true principles of our hearts are revealed. If our words are true, proper, and pious, they demonstrate that our hearts are right. If, however, our words are false and impious, they indicate that our hearts are wrong and will be a cause of condemnation. Our words are the index of our character, exposing the true condition of our hearts. This principle challenges every individual to consider whether their words confess or deny Christ in the day of judgment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9422817471643863,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.03,
+                39.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our words serve as an indication of the true principles of our hearts. If our words are true, proper, and pious, they reveal a heart that is right. Conversely, if our words are false, envious, and impious, they expose a heart that is wrong and will lead to condemnation. Our words are a reflection of our character, providing evidence for or against us in the day of judgment. We must examine whether our words confess or deny Christ, for they will determine our justification or condemnation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9362566855800911,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.48,
+                44.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our words are a revealing sign of the true principles of our hearts. If our words are true, proper, and pious, they indicate a righteous heart. Conversely, if our words are false, envious, and impious, they show an unrighteous heart, leading to condemnation. Our words are like an index of our character, providing evidence for or against us in the day of judgment. Therefore, we must carefully consider whether our words confess or deny Christ, as they will be the basis for our justification or condemnation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.979416915763156,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.23,
+                44.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our words act as a window into the true state of our hearts. When our words are true, proper, and pious, they reveal a heart that is aligned with righteousness. On the other hand, if our words are false, envious, and impious, they expose a heart that is corrupted, leading to condemnation. Therefore, our words serve as indicators of our character, providing evidence for or against us on the day of judgment. It is crucial to assess whether our words confess or deny Christ, as this determines our justification or condemnation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8305388131342797,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.78,
+                46.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:48:44",
+    "verseRef": "Matthew 15:32",
+    "bestBHT": {
+        "bht": "Jesus displays his compassion for the hungry multitude by not wanting to send them away without food. The disciples question where they would find enough food, but it is not implied that Jesus will supernaturally provide for them. He is moved by the hunger of the people and refuses to let them leave hungry. Even after three days, he is concerned that they might faint on their journey home without food, highlighting his deep care for their well-being.",
+        "wordCount": 79,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 1.7957740680454872,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+        "commentatorTierSimilarities": [
+            28.13,
+            43.98,
+            27.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But there is one small token of authenticity which marks these two accounts as referring to two distinct events, even had we not such direct testimony as that of ch. xvi. 9, 10.",
+            "Perhaps the strangest reason for supposing the two identical is an imagined difficulty in the questions of the disciples, 'Whence should we have'&c., so soon after the former miracle.",
+            "And even could we recognize this as a difficulty, it is not necessarily implied in the text. Our Lord puts the matter to them as a question, without the slightest intimation of His intention to supply the want supernaturally."
+        ],
+        "Marvin Vincent": [
+            "I will not [\u03bf\u03c5 \u03b8\u03b5\u03bb\u03c9] . The A. V. might easily be mistaken for the simple future of the verb send.",
+            "The Greek order is, and to send them away fasting I am not willing.",
+            "Therefore Rev. is better: I would not."
+        ],
+        "John Calvin": [
+            "The power of God is not restricted to means or outward assistance, and it is all one with Him whether there be much or little.",
+            "As the blessing of God can make one loaf suffice as well as twenty for satisfying a great multitude, so, if that be wanting, a hundred loaves will not be a sufficient meal for ten men.",
+            "When the staff of bread is broken, though the flour should come in full weight from the mill, and the bread from the oven, it will serve no purpose to stuff the belly."
+        ],
+        "Philip Schaff": [
+            "And Jesus called unto him his disciples. Our Lord Himself takes the first step.",
+            "Three days. The third day was passing; so they were hungry and destitute of provisions, but not yet in actual distress.",
+            "Faint in the way, i.e., because exhausted from the want of food on their way home in that mountainous region. The Lord\u2019s compassion was called out by their physical want, which, however, resulted from their desire to be near Him."
+        ],
+        "Archibald T. Robertson": [
+            "In the feeding of the five thousand Jesus took compassion on the people and healed their sick.",
+            "Here the hunger of the multitude moves him to compassion.",
+            "So he is unwilling to send them away hungry."
+        ],
+        "John Gill": [
+            "Christ, our high priest, is a merciful one, and is touched with the feeling of the infirmities of men, of every sort, both of soul and body.",
+            "Nor did the multitude ask any food of him; but he could not bear the thoughts of dismissing them in such a condition.",
+            "Lest they faint by the way; to their own houses, not having strength and spirit enough to travel, and get home."
+        ],
+        "John Wesley": [
+            "They continue with me now three days \u2014 It was now the third day since they came. Mark 8:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, Jesus demonstrates his compassion for the hungry multitude. He is unwilling to send them away hungry and instead takes the initiative to provide for their needs. The disciples, concerned about the lack of provisions, question where they would find enough food in such a deserted place. However, Jesus does not imply that he will supply their need supernaturally, but rather presents it to them as a question. His compassion is moved by the hunger of the people, and he refuses to send them away without satisfying their physical need. Even after three days, he is concerned that they will faint on their way home if they go without food. This shows us that Jesus is not only the ultimate provider but also deeply concerned for the welfare of those who follow him.",
+            "wordCount": 135,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 1.6924726600991296,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                28.41,
+                42.81,
+                28.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Matthew 15:32, Jesus demonstrates his compassion for the hungry multitude by refusing to send them away hungry. The disciples question where they would find enough food, but Jesus does not imply that he will supply their need supernaturally. He is moved by the hunger of the people and refuses to let them go without satisfying their physical need. Even after three days, he is concerned that they will faint on their way home without food. This shows us that Jesus is not only the ultimate provider but deeply concerned for the welfare of those who follow him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.7707300261988674,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                27.04,
+                43.41,
+                29.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus demonstrates his compassion for the hungry multitude by refusing to send them away hungry, even after three days. The disciples question where they would find enough food, but Jesus does not imply supernatural provision. He is moved by the hunger of the people and refuses to let them go without satisfying their physical need. This shows us that Jesus is the ultimate provider and deeply concerned for the welfare of those who follow him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.733883732323303,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                27.57,
+                43.23,
+                29.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus displays his compassion for the hungry multitude by not wanting to send them away without food. The disciples question where they would find enough food, but it is not implied that Jesus will supernaturally provide for them. He is moved by the hunger of the people and refuses to let them leave hungry. Even after three days, he is concerned that they might faint on their journey home without food, highlighting his deep care for their well-being.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.7957740680454872,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                28.13,
+                43.98,
+                27.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 15:32, Jesus reveals his deep compassion for the multitude who are hungry and in need of food. The disciples question where they can find enough food, but Jesus does not indicate that he will supernaturally provide for them. However, he is compelled by their hunger and refuses to send them away unsatisfied. Jesus is unwilling to let them go hungry, even after three days, out of concern that they may faint on their journey home. This passage demonstrates Jesus' role as the ultimate provider and his genuine care for those who follow him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.7311411114684376,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                28.07,
+                43.36,
+                28.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

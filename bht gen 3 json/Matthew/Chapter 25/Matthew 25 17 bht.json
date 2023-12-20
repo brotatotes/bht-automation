@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 23:52:32",
+    "verseRef": "Matthew 25:17",
+    "bestBHT": {
+        "bht": "Each servant in this parable of the talents was entrusted with a different amount, and yet the one who had received two talents proved to be just as faithful as the one who had received five. Both of them doubled what they were given, showing diligence and industry in their trading. Their success was in proportion to the gifts they had received, demonstrating that they worked and labored according to what they had been entrusted with. Their commitment and efforts were honored by their master in this parable.",
+        "wordCount": 88,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 1.1022067557377915,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+        "commentatorTierSimilarities": [
+            31.08,
+            0.0,
+            68.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. And likewise he that had",
+            "\treceived two he also gained other two\u2014each doubling what he",
+            "\treceived, and therefore both equally faithful."
+        ],
+        "John Gill": [
+            "And likewise he that received two... gained other two; he worked and laboured, and traded, in proportion to the gifts he had received.",
+            "His improvements and success, under a divine blessing, were answerable.",
+            "He... traded... in proportion to the gifts he had received."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Each servant in this parable of the talents was entrusted with a different amount, and yet the one who had received two talents proved to be just as faithful as the one who had received five. Both of them doubled what they were given, showing diligence and industry in their trading. Their success was in proportion to the gifts they had received, demonstrating that they worked and labored according to what they had been entrusted with. Their commitment and efforts were honored by their master in this parable.",
+            "wordCount": 88,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.1022067557377915,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+            "commentatorTierSimilarities": [
+                31.08,
+                0.0,
+                68.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the parable of the talents, the servants were entrusted with different amounts, but the one who had received two talents was just as faithful as the one who had received five. Both doubled what they were given, displaying diligence and industry in their trading. Their success was in proportion to the gifts they had received, showing that they worked according to what they had been entrusted with. Their commitment and efforts were honored by their master.",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.0796545409833205,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.24,
+            "commentatorTierSimilarities": [
+                30.49,
+                0.0,
+                69.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, each servant was given a different amount of talents, and yet the one with two talents was equally faithful as the one with five. They both doubled their entrusted amounts, displaying diligence and industry. Their success was directly proportional to the gifts they received, emphasizing that they labored according to their given capacities. The master acknowledged their commitment and hard work, rewarding them accordingly.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.0002211995775507,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.6,
+            "commentatorTierSimilarities": [
+                35.28,
+                0.0,
+                64.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the parable of the talents, each servant faithfully doubled the amount he was given by trading and laboring according to their abilities. The one who had received two talents gained another two, proving himself to be equally faithful as the one who had received five. The improvements and success displayed by these servants were in proportion to the gifts they received, showcasing their commitment and industry.",
+            "wordCount": 67,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.2853303647006482,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.08,
+            "commentatorTierSimilarities": [
+                33.02,
+                0.0,
+                66.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the parable of the talents, the servants demonstrated their faithfulness by multiplying what they had been given. The one who had received two talents also gained another two, showing equal fidelity to the servant who had received five talents. Their improvements and success were directly related to the gifts entrusted to them. It is clear that they traded and labored according to the proportion of the gifts they had received. Their diligence and efforts were rewarded by their master.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.0826942300773061,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.34,
+            "commentatorTierSimilarities": [
+                23.95,
+                0.0,
+                76.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

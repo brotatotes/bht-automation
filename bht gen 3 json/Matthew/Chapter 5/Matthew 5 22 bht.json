@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:43:59",
+    "verseRef": "Matthew 5:22",
+    "bestBHT": {
+        "bht": "In his teaching, Jesus confronts the misconception that anger without cause is permissible, likening it to incipient murder. He asserts his superiority over the Mosaic regulations and emphasizes that true justice will be rendered by the heart-searching Judge. Jesus employs the term Gehenna, associated with the Valley of Hinnom, to depict a place of future punishment for the wicked. His authoritative words challenge his followers to guard against causeless anger, contemptuous language, and judgment of others.",
+        "wordCount": 77,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.8596353018588334,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+        "commentatorTierSimilarities": [
+            32.9,
+            37.61,
+            29.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But I say unto you that it is broken even by causeless anger, which is but hatred in the bud, as hatred is incipient murder.",
+            "...just as there are gradations in human courts of judicature, and in the sentences which they pronounce according to the degrees of criminality, so will the judicial treatment of all the breakers of this commandment at the divine tribunal be according to their real criminality before the heart-searching Judge.",
+            "Oh, what holy teaching is this!"
+        ],
+        "Albert Barnes": [
+            "He therefore spoke here and elsewhere as having authority, and not as the scribes.",
+            "What he condemns here is anger without a cause; that is, unjustly, rashly, hastily, where no offence has been given or intended.",
+            "He specifies three forms of such violation: anger without cause, contempt, and abusive language."
+        ],
+        "Marvin Vincent": [
+            "The word Gehenna, rendered hell, occurs outside of the Gospels only at James 3:6. It is the Greek representative of the Hebrew Ge - Hinnom, or Valley of Hinnom.",
+            "After this it became the common refuse - place of the city, into which the bodies of criminals, carcasses of animals, and all sorts of filth were cast.",
+            "From its depth and narrowness, and its fire and ascending smoke, it became the symbol of the place of the future punishment of the wicked."
+        ],
+        "John Calvin": [
+            "Hence we conclude, that truth is of greater weight than custom or the number of years.",
+            "He who shall say to his brother... 'Racha'... it is an interjection of contempt or disdain.",
+            "\u0393\u1f14\u03b5\u03bd\u03bd\u03b1 (hell) is, beyond all question, a foreign word... the very name might be dreaded by the people as shocking and alarming."
+        ],
+        "Philip Schaff": [
+            "Angry with his brother. \u2018Brother\u2019 is equivalent to neighbor, in the wide sense.",
+            "Thou fool. The Greek word implies \u2018stupid fool.\u2019 It may be a Hebrew expression (\u2018moreh\u2019) containing a charge of wickedness and great impiety.",
+            "General sense: murderous feelings and words are deemed a proper ground of condemnation in Christ\u2019s kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus thus assumes a tone of superiority over the Mosaic regulations and proves it in each of the six examples.",
+            "Raca expresses contempt for a man's head=you stupid! More expresses contempt for his heart and character=you scoundrel.",
+            "Gehenna 'should be carefully distinguished from Hades (\u03b1\u03b9\u03b4\u03b7\u03c2) which is never used for the place of punishment, but for the place of departed spirits, without reference to their moral condition.'"
+        ],
+        "John Gill": [
+            "But I say unto you...opposing himself, not to the law of \"Moses, thou shalt not kill\"; but to the false gloss the ancient doctors had put upon it.",
+            "but it is causeless anger which is here condemned by Christ, as a breach of the law, 'thou shalt not kill'.",
+            "There is a manifest gradation in the text from causeless anger in the breast, or reproachful words; and from thence to a censorious judging of a man's spiritual and eternal estate, which is what is here condemned."
+        ],
+        "John Wesley": [
+            "Who hath authority to use this language, but the one lawgiver, who is able to save and to destroy.",
+            "We ought not, for any cause, to be angry at the person of the sinner, but at his sins only.",
+            "Therefore both as to its former and latter state, it was a fit emblem of hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus teaches in Matthew 5:22 that anger, even without cause, is a violation of the commandment against murder. His words reveal that anger harbored in the heart is as destructive as hatred and incipient murder. Jesus warns that such violation will be treated according to their real criminality before the heart-searching Judge. The term Gehenna, meaning hell, symbolizes the place of future punishment for the wicked, distinct from Hades. His authoritative teaching challenges the false interpretations of the Mosaic regulations. Jesus emphasizes that it is not only the act of murder, but also the sinful feelings and words that warrant condemnation. Thus, he calls his followers to guard their hearts against causeless anger and to refrain from contemptuous language and judgment of others.",
+            "wordCount": 123,
+            "quoteTokenProportion": 33.73,
+            "qualityScore": 1.7880189142252019,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+            "commentatorTierSimilarities": [
+                32.49,
+                37.05,
+                30.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his teaching, Jesus confronts the misconception that anger without cause is permissible, likening it to incipient murder. He asserts his superiority over the Mosaic regulations and emphasizes that true justice will be rendered by the heart-searching Judge. Jesus employs the term Gehenna, associated with the Valley of Hinnom, to depict a place of future punishment for the wicked. His authoritative words challenge his followers to guard against causeless anger, contemptuous language, and judgment of others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8596353018588334,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                32.9,
+                37.61,
+                29.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus delivers a profound teaching in Matthew 5:22 regarding the commandment against murder. He goes beyond the external act and addresses the inner disposition of the heart. His words emphasize that anger, even without cause, is a violation of this commandment, equating it to hatred and incipient murder. He warns that the judicial treatment of such violation will correspond to the true extent of one's guilt before the divine Judge. Jesus uses the term Gehenna, representing the Valley of Hinnom, to illustrate a place of future punishment for the wicked. This teaching reflects Jesus' authority and his call to his followers to examine their hearts, guard against anger and contemptuous language, and refrain from judging others.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 1.716177659333948,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                34.28,
+                35.32,
+                30.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' teaching in this verse illuminates the deeper implications of the commandment against murder. He exposes the gravity of causeless anger, as it is rooted in hatred and can be likened to the early stages of murder. Jesus asserts his authority by surpassing the Mosaic regulations and proclaiming the true justice that will be meted out by the divine Judge. The concept of Gehenna, associated with the Valley of Hinnom, serves as a symbolic representation of the future punishment for the wicked. This teaching calls believers to examine their hearts, refrain from contemptuous language, and avoid hasty judgment.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.772515156241758,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                36.59,
+                33.29,
+                30.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' teaching challenges the notion that anger without cause is permissible, collapsing the distinction between hatred and incipient murder. He proclaims his authority by surpassing the Mosaic regulations and exposes the true justice that will be administered by the divine Judge. Through the illustration of Gehenna, associated with the Valley of Hinnom, Jesus vividly depicts the place of future punishment for the wicked. This teaching calls believers to guard their hearts against causeless anger, refrain from contemptuous language, and abstain from rash judgment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8191216196812916,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                36.02,
+                34.06,
+                29.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

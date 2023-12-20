@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:47:40",
+    "verseRef": "Matthew 13:42",
+    "bestBHT": {
+        "bht": "The language used in this description is strong, exemplified by the use of words like casting and flinging to express God's indignation and contempt towards the wicked. The imagery of a furnace of fire underscores the intensity of the torment they will face, while the wailing and gnashing of teeth symbolize their anguish and despair. This depiction serves to warn and remind individuals of the grave consequences that await those who reject God's grace, leaving them to experience the incomprehensible punishment that lies ahead.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.8768042899895132,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+        "commentatorTierSimilarities": [
+            46.52,
+            21.26,
+            32.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And shall cast them into a furnace of fire... there shall be wailing and gnashing of teeth.\" ",
+            "What terrific strength of language\u2014the 'casting' or 'flinging' expressive of indignation, abhorrence, contempt.",
+            "The 'furnace of fire' denoting the fierceness of the torment: the 'wailing' signifying the anguish this causes; while the 'gnashing of teeth' is a graphic way of expressing the despair in which its remedilessness issues."
+        ],
+        "John Calvin": [
+            "This is a metaphorical expression; for, as the infinite glory which is laid up for the sons of God so far exceeds all our senses, that we cannot find words to express it, so the punishment which awaits the reprobate is incomprehensible, and is therefore shadowed out according to the measure of our capacity.",
+            "From ignorance of this, the Sophists have tortured themselves, to no purpose, by fruitless disputes.",
+            "I choose to philosophize more sparingly, and to rest satisfied with the plain and natural meaning."
+        ],
+        "Philip Schaff": [
+            "There shall be the weeping.\" ",
+            "These awful words must mean something positive and punitive."
+        ],
+        "John Gill": [
+            "Not a material, but a metaphorical one; denoting the wrath of God, which shall fall upon wicked men, and abide upon them to all eternity.",
+            "Expressing the vehemency and intenseness of divine wrath, which will be intolerable.",
+            "Declaring the remorse of conscience, the tortures of mind, the sense of inexpressible pain, and punishment, the wicked shall feel; also their furious rage and black despair."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse vividly describes the fate of the wicked, conveying the intense anguish and indescribable torment they will experience. The powerful language of being cast into a furnace of fire portrays God's abhorrence and contempt towards them. As the wailing and gnashing of teeth further emphasize their despair and remorse, the punishment awaiting the reprobate is depicted as incomprehensible but real. These words serve as a warning and reminder of the punitive consequences that await those who reject God's grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8105926430421548,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                43.91,
+                21.92,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The vivid imagery used in this description reflects God's intense displeasure and rejection of the wicked. The phrase casting into a furnace of fire conveys God's indignation and contempt towards them, while the wailing and gnashing of teeth depict their despair and anguish. The punishment awaiting the reprobate is incomprehensible, serving as a sober warning to all who reject God's grace. This passage underscores the severity of God's judgment and highlights the eternal consequences of turning away from Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.598987264506475,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                42.79,
+                19.78,
+                37.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The language used in this description is strong, exemplified by the use of words like casting and flinging to express God's indignation and contempt towards the wicked. The imagery of a furnace of fire underscores the intensity of the torment they will face, while the wailing and gnashing of teeth symbolize their anguish and despair. This depiction serves to warn and remind individuals of the grave consequences that await those who reject God's grace, leaving them to experience the incomprehensible punishment that lies ahead.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8768042899895132,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                46.52,
+                21.26,
+                32.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The language used to describe the fate of the wicked is powerful, emphasizing God's anger and contempt towards them. The imagery of being cast into a furnace of fire portrays the fierceness of their torment, while the wailing and gnashing of teeth illustrate the depth of their anguish and despair. This depiction serves as a warning, highlighting the punishment that awaits those who reject God's grace. The intensity of divine wrath and the inexpressible pain and punishment are sobering reminders of the consequences of turning away from God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6886141648042714,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                45.19,
+                19.42,
+                35.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fate of the wicked is described with powerful language, reflecting God's intense indignation and contempt towards them. The phrase casting into a furnace of fire vividly portrays the fierceness of their torment, accompanied by the wailing and gnashing of teeth that signify their overwhelming anguish and despair. These stark images serve as a warning, emphasizing the punitive consequences that await those who reject God's grace. It is a reminder that turning away from God's mercy leads to incomprehensible punishment and eternal separation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.7025979513071903,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.95,
+            "commentatorTierSimilarities": [
+                43.81,
+                21.1,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 23:45:53",
+    "verseRef": "Matthew 9:30",
+    "bestBHT": {
+        "bht": "Jesus' earnestness had a twofold purpose: to prioritize preaching the Gospel and prevent premature recognition from provoking the Pharisees. Though the two men were disobedient by breaking Jesus' command, their sight was restored. Jesus sternly charged them to keep it a secret, emphasizing the importance of obedience over self-promotion. Their eyes were opened immediately, but Jesus urged them not to make the miracle known, aligning with his usual practice and teachings. The reason for secrecy is unknown, but it likely involved witnesses or avoiding seeking popular applause.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.21,
+        "qualityScore": 1.5397347425366295,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+        "commentatorTierSimilarities": [
+            28.37,
+            36.48,
+            35.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The purpose of our Lord\u2019s earnestness appears to have been twofold: ... (1) that He might not be so occupied and overpressed with applications as to have neither time nor strength for the preaching of the Gospel: (2) to prevent the already-excited people from taking some public measure of recognition, and thus arousing the malice of the Pharisees before His hour was come.",
+            "No doubt the two men were guilty of an act of disobedience in thus breaking the Lord\u2019s solemn injunction: for obedience is better than sacrifice; the humble observance of the word of the Lord, than the most laborious and wide-spread will-worship after man\u2019s own mind and invention.",
+            "This was a dumbness caused by d\u00e6moniacal possession: for the difference between this and the natural infirmity of a deaf and dumb man, see Mark vii. 31\u201337."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. And their eyes were opened: and",
+            "\tJesus straitly charged them\u2014The expression is very strong,",
+            "\tdenoting great earnestness."
+        ],
+        "Albert Barnes": [
+            "And their eyes were opened - Immediately. That is, their sight was restored.",
+            "See that no man know it - That is, do not make proclamation of this; do not make it your business to tell every man of it; do not go forth as if I wished that you should proclaim this abroad.",
+            "This was in accordance with the usual habit of the Saviour Matthew 8:4; Matthew 12:16, and also with his own precepts to others Matthew 6:1-4."
+        ],
+        "John Calvin": [
+            "Either he wished to have other persons as witnesses of the miracle, or to delay the publication of it till another time.",
+            "Their conduct in immediately proclaiming it every where is worthy of blame.",
+            "There was, no doubt, some reason for forbidding it, which is unknown to us."
+        ],
+        "Philip Schaff": [
+            "And their eyes were opened. A figurative but natural expression for restoration to sight.",
+            "And Jesus solemnly charged them, almost equivalent to 'sternly threatened them.'",
+            "These men had already shouted their belief in His Messiahship, in the public street, and their over-ready zeal might provoke over-ready opposition."
+        ],
+        "Archibald T. Robertson": [
+            "The word describes rather a rush of deep feeling which in the synoptic passages showed itself in a vehement injunctive and in John 11:33 in look and manner.",
+            "Looked severely, contracting His eyebrows, and shaking His head at them as they are wont to do who wish to make sure that secrets will be kept.",
+            "See to it, let no one know it."
+        ],
+        "John Gill": [
+            "Their sight was perfectly restored to them; and they had a clear, full, and true sight of objects.",
+            "This was a very strict charge, and according to the signification of the word here used, it was given with great austerity of countenance, and severity of expression, in a very rough and threatening manner.",
+            "It seems likely, that with the same view he took no notice of these blind men in the street, but went into an house, and cured them; which seems to be, to shun all appearance of vain glory, or seeking popular applause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his earnestness, both prioritized preaching the Gospel and prevented an untimely recognition that would provoke the Pharisees. However, the two men who regained their sight were disobedient to Jesus' command to keep it a secret, despite the difference between their miraculous recovery and natural infirmities. Jesus sternly charged them to stay silent, emphasizing the need for obedience over self-promotion. Their eyes were opened immediately, but Jesus urged them not to make the miracle known, aligning with his usual practice and teachings. Though the reason for keeping it secret is unknown, it likely involved either ensuring witnesses or postponing its proclamation. The charge was given with severity, and Jesus avoided public acknowledgement, possibly to avoid seeking applause.",
+            "wordCount": 119,
+            "quoteTokenProportion": 34.07,
+            "qualityScore": 1.54416135688111,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                28.27,
+                36.61,
+                35.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was earnest for two reasons: to prioritize preaching the Gospel and prevent premature recognition that would anger the Pharisees. Despite being disobedient, the two men had their sight restored and were strictly charged to keep it a secret, emphasizing obedience over self-promotion. The immediate opening of their eyes aligned with Jesus' usual practice, but he urged them not to make the miracle known. The reason for secrecy remains unknown, but it likely involved having witnesses or avoiding seeking applause.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4945301442988963,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.04,
+            "commentatorTierSimilarities": [
+                30.07,
+                34.12,
+                35.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus was earnest to avoid being overwhelmed by applications and to prevent premature recognition from arousing the Pharisees. The two men lacked obedience by breaking Jesus' command, emphasizing the importance of humble observance. Their sight was immediately restored, but Jesus sternly charged them to keep it a secret, aligning with his usual habit. The reason for secrecy remains unknown, but it likely involved having witnesses or avoiding seeking popular applause. The charge was given with austerity, reflecting Jesus' desire to shun vain glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.5200755273730624,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.89,
+            "commentatorTierSimilarities": [
+                29.39,
+                32.86,
+                37.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' earnestness had a twofold purpose: to prioritize preaching the Gospel and prevent premature recognition from provoking the Pharisees. Though the two men were disobedient by breaking Jesus' command, their sight was restored. Jesus sternly charged them to keep it a secret, emphasizing the importance of obedience over self-promotion. Their eyes were opened immediately, but Jesus urged them not to make the miracle known, aligning with his usual practice and teachings. The reason for secrecy is unknown, but it likely involved witnesses or avoiding seeking popular applause.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.5397347425366295,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                28.37,
+                36.48,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus was earnest for two reasons: to prioritize preaching the Gospel and prevent premature recognition from provoking the Pharisees. Despite their disobedience, the two men had their sight restored. Jesus sternly charged them to keep it a secret, highlighting the importance of obedience. Their eyes were opened immediately, but Jesus urged them not to make the miracle known, aligning with his usual practice. The reason for secrecy is unknown, but it likely involved witnesses or avoiding seeking popular applause.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4912990680474305,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                27.32,
+                36.3,
+                36.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

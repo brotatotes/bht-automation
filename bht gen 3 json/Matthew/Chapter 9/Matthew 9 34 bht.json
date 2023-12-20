@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:45:45",
+    "verseRef": "Matthew 9:34",
+    "bestBHT": {
+        "bht": "The Pharisees, in their desperation, seek to discredit Jesus by claiming that His miracles are the work of the fallen angel. Their dark malignity is evident as they cannot deny the reality of the miracles. Though the people applaud, the Pharisees blaspheme, perverting the clear signs of God's work. Their extreme blindness and wickedness cause them to cry against their own Creator and foolishly accuse Jesus of diabolical influence, unable to bear the honor and glory given to Him.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7055057605873343,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+        "commentatorTierSimilarities": [
+            32.77,
+            34.64,
+            32.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This seems to be the first muttering of a theory of such miracles which soon became a fixed mode of calumniating them\u2014a theory which would be ridiculous if it were not melancholy as an outburst of the darkest malignity.",
+            "As the Mission of the Twelve supposes the previous choice of them\u2014of which our Evangelist gives no account, and which did not take place till a later stage of our Lord's public life\u2014it is introduced here out of its proper place.",
+            "Third Galilean Circuit (Matthew 9:1- :) \u2014and probably the last."
+        ],
+        "Albert Barnes": [
+            "They did not deny the reality of the miracle or the facts in the case, but they ascribed what was done to the power of the great leader of the fallen host...\" (Matthew 9:34)",
+            "...as if Jesus were in league with him.\" (Matthew 9:34)",
+            "For the manner in which the Saviour met that reasoning...\" (Matthew 9:34)"
+        ],
+        "John Calvin": [
+            "We ought to observe the contrast between the applause of the people and the blasphemy of those men.",
+            "We learn from it also, that, when wickedness has reached the height of blindness, there is no work of God, however evident, which it will not pervert.",
+            "It is, no doubt, monstrous and incredible that mortal men should cry against their Creator: but there is so much the greater reason for dreading that blindness, which arises from the Lord\u2019s vengeance on the wicked after long-suffering."
+        ],
+        "Philip Schaff": [
+            "If they had understood the saying mentioned in the last verse, as referring to the Messiah, it would provoke some such expression as is here recorded.",
+            "Their state was even worse than that of the dumb demoniac; they used their power of speaking to blaspheme one who cast out demons, as if the cause of the latter were their own."
+        ],
+        "Archibald T. Robertson": [
+            "The Pharisees are becoming desperate and, unable to deny the reality of the miracles, they seek to discredit them...",
+            "They will renew this charge later (Matthew 12:24) when Jesus will refute it with biting sarcasm.",
+            "The codex Bezae omits this verse, but it is probably genuine."
+        ],
+        "John Gill": [
+            "These men could not bear, that so much honour and glory should be given to Christ.\" ",
+            "They could not but own that it was a preternatural action, more than human.\" ",
+            "To fix a mark of infamy upon him, foolishly impute it to a diabolical influence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, becoming desperate, seek to discredit Jesus by ascribing His miracles to the power of the fallen angel. Their dark malignity is evident as they cannot deny the reality of the miracles. Despite the applause of the people, they blaspheme one who casts out demons, perverting the evident work of God. Their blindness and wickedness reach such heights that they cry against their Creator. These men, unable to bear the honor and glory given to Christ, foolishly impute His miracles to a diabolical influence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6352677568588372,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.71,
+            "commentatorTierSimilarities": [
+                30.08,
+                33.86,
+                36.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, in their desperation, seek to discredit Jesus by claiming that His miracles are the work of the fallen angel. Their dark malignity is evident as they cannot deny the reality of the miracles. Though the people applaud, the Pharisees blaspheme, perverting the clear signs of God's work. Their extreme blindness and wickedness cause them to cry against their own Creator and foolishly accuse Jesus of diabolical influence, unable to bear the honor and glory given to Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7055057605873343,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                32.77,
+                34.64,
+                32.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, becoming desperate, seek to discredit Jesus by ascribing His miracles to the power of the fallen angel. Their dark malignity is evident as they cannot deny the reality of the miracles. Despite the applause of the people, they blaspheme one who casts out demons, perverting the evident work of God. Their blindness and wickedness reach such heights that they cry against their Creator. These men, unable to bear the honor and glory given to Christ, foolishly impute His miracles to a diabolical influence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6352677568588372,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.71,
+            "commentatorTierSimilarities": [
+                30.08,
+                33.86,
+                36.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, driven to desperation, seek to tarnish Jesus' miracles by attributing them to the fallen angel. Their dark malignity arises from their inability to deny the reality of the miracles. Despite receiving applause from the people, they blaspheme against the One who casts out demons, distorting the clear work of God. Their extreme blindness and wickedness cause them to cry out against their Creator. Incapable of accepting the honor and glory bestowed upon Christ, they foolishly ascribe His miracles to diabolical influence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.6284258738689488,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                29.99,
+                34.86,
+                35.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, desperate to discredit Jesus, attribute His miracles to the fallen angel, revealing their dark malignancy. Unable to deny the reality of the miracles, they blaspheme against Him who casts out demons, distorting the evident work of God. Their profound blindness and wickedness lead them to cry out against their Creator. Refusing to accept the honor and glory given to Christ, they foolishly impute His miracles to diabolical influence.",
+            "wordCount": 70,
+            "quoteTokenProportion": 24.49,
+            "qualityScore": 1.676983258500077,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                30.58,
+                34.11,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

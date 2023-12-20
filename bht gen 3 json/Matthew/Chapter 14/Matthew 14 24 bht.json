@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:48:11",
+    "verseRef": "Matthew 14:24",
+    "bestBHT": {
+        "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea, just like a man with demons. Their lack of immediate recollection of Jesus' heavenly power is seen as an aggravation of their fault, and a warning to us about the corruption of our understanding. The disciples' experience in the boat is emblematic of the church's state in navigating the vast and unpredictable world. It is only in the presence of Christ that they find comfort and peace amidst the storms.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.6597716638309963,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+        "commentatorTierSimilarities": [
+            45.79,
+            22.69,
+            31.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "But the ship was now in the midst of the sea - John says they had sailed about 25 or 30 furlongs.",
+            "About 7 1/2 Jewish furlongs made a mile; so that the distance they had salted was not more than about 4 miles.",
+            "At no place is the Sea of Tiberias much more than 10 miles in breadth, so that they were literally in the midst of the sea."
+        ],
+        "Marvin Vincent": [
+            "Tossed [\u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd] . Rev., better, distressed. See on Matthew 4:24."
+        ],
+        "John Calvin": [
+            "When Christ permitted his disciples to be tossed about in a perilous condition, for a time, by an opposing storm, it was to fix their attention more powerfully on the assistance which he brought to them.",
+            "Justly, therefore, are they now charged with stupidity in not immediately recollecting that heavenly power, having beheld, on the preceding day, so astonishing a proof of it, which ought to have been still before their eyes.",
+            "This appears to have been added, not only as an aggravation of their fault, but as a warning to us respecting the corruption of our understanding, that we may seek from the Lord new eyes."
+        ],
+        "Philip Schaff": [
+            "Distressed, or \u2018vexed,\u2019 by the waves.",
+            "The storm had arisen after they started.",
+            "Had they been steering for the western shore (as some suppose), they might have turned back and gone to Him with a contrary (west) wind."
+        ],
+        "Archibald T. Robertson": [
+            "Distressed (\u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Like a man with demons (Matthew 8:29). One can see, as Jesus did (Mark 6:48), the boat bobbing up and down in the choppy sea. "
+        ],
+        "John Gill": [
+            "The ship in which the disciples were, was an emblem of the church of Christ, and of its state and condition in this world.",
+            "The world is like a sea, for its largeness, and the abundance of nations and people in it, compared to many waters...and for its fickleness and inconstancy, changes and war being continually in it.",
+            "In the mean while, whilst they are sailing through the sea of this world, they are often...tossed with tempests, and not comforted...and then is it most uncomfortable to them, when Christ is not with them."
+        ],
+        "John Wesley": [
+            "In the evening \u2014 Learned men say the Jews reckoned two evenings; the first beginning at three in the afternoon, the second, at sunset. If so, the latter is meant here."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea. This situation seems to mirror the church's experience in the world, described as a sea with its vastness and fickleness. Yet even in the midst of this turmoil, the disciples failed to remember the heavenly power they had witnessed in Jesus. This serves as a warning to us, highlighting the corruption of our understanding and the need for new eyes to see the Lord's assistance. As the disciples sailed through this tumultuous world, it was only in Christ's presence that they found comfort and peace.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5782416896078526,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.82,
+            "commentatorTierSimilarities": [
+                43.99,
+                22.57,
+                33.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea. This situation seems to mirror the church's experience in the world, described as a sea with its vastness and fickleness. Yet even in the midst of this turmoil, the disciples failed to remember the heavenly power they had witnessed in Jesus. This serves as a warning to us, highlighting the corruption of our understanding and the need for new eyes to see the Lord's assistance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.611729618628028,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                46.16,
+                22.23,
+                31.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea, just like a man with demons. Their lack of immediate recollection of Jesus' heavenly power is seen as an aggravation of their fault. This situation serves as a warning to us about the corruption of our understanding and the need for new eyes to recognize the Lord's assistance. The disciples' experience in the boat can be seen as an emblem of the church's state and condition in the world, navigating through a sea that is both vast and unpredictable.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6264265906897117,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                48.7,
+                18.09,
+                33.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea, just like a man with demons. Their lack of immediate recollection of Jesus' heavenly power is seen as an aggravation of their fault, and a warning to us about the corruption of our understanding. The disciples' experience in the boat is emblematic of the church's state in navigating the vast and unpredictable world. It is only in the presence of Christ that they find comfort and peace amidst the storms.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6597716638309963,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                45.79,
+                22.69,
+                31.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples found themselves distressed in the boat, tossed by the choppy waves of the sea. This situation serves as a warning to us about the corruption of our understanding and the need for new eyes to see the Lord's assistance. The disciples' experience in the boat can be seen as an emblem of the church's state and condition in the world, navigating through a sea that is both vast and unpredictable. It is only in the presence of Christ that they find comfort and peace amidst the storms.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.50779317212063,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                42.79,
+                23.6,
+                33.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:51:11",
+    "verseRef": "Matthew 21:37",
+    "bestBHT": {
+        "bht": "In this parable, Jesus represents the heavenly Father deliberating on how to turn sinners to repentance. He distinguishes His beloved Son as a messenger who demands the fruits of the vineyard. The Son is presented here as a preacher, not as Redeemer, emphasizing His unique position as the highest Son. The Father hopes that the people will reverence His Son and give heed to His message. Rejecting the Son would be the culmination of their crimes, as they seek to protect their own power by silencing Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.988485331456845,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+        "commentatorTierSimilarities": [
+            34.38,
+            39.93,
+            25.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord sets forth His heavenly Father in haman wise deliberating, 'What shall I do?' to signify His gracious adoption, for man\u2019s sake, of every means which may turn sinners to repentance.\" (Commentary)",
+            "The difference here is fully made between the Son and all the other messengers; see Mark,\u2014 'having yet therefore one Son, his wellbeloved..:'\" (Commentary)",
+            "The Son appears here, not in his character of Redeemer, but in that of a preacher\u2014a messenger demanding the fruits of the vineyard.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having yet therefore one son, His well-beloved, He sent Him also last unto them, saying, They will reverence My Son.\" ",
+            "Then said the lord of the vineyard, What shall I do? I will send My beloved Son: it may be they will reverence Him when they see Him.",
+            "Who does not see that our Lord here severs Himself, by the sharpest line of demarcation, from all merely human messengers, and claims for Himself Sonship in its loftiest sense?"
+        ],
+        "Marvin Vincent": [
+            "They will reverence [\u03b5\u03bd\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9] . The verb literally means to turn toward; hence to give heed to, pay respect to."
+        ],
+        "John Calvin": [
+            "Certainly the chief reason why the priests raged against Christ was, that they might not lose their tyranny, which might be said to be their prey.",
+            "For, in regard to the punishment which such servants deserved, there can be no doubt that they agreed with Christ, but when they perceived that both the crime and the punishment were made to apply to themselves, they deprecated that application.",
+            "As they had formerly, as far as lay in their power, driven God from his inheritance by the cruel murder of the prophets, so it was the crowning point of all their crimes to slay the Son, that they might reign, as in a house which wanted an heir."
+        ],
+        "Philip Schaff": [
+            "The sending of 'His son,' whose superiority to the prophets is so distinctly marked, is the last and crowning act of God's mercy; to reject Him was therefore to fill up the measure of human sin and guilt.",
+            "The Son appears here, not in His character of Redeemer, but in that of a preacher, a messenger demanding the fruits of the vineyard.",
+            "They will reverence my son. This implies that God is not willing that any should perish."
+        ],
+        "John Gill": [
+            "He came to them, to his own, to them of his own nation, but they received him not.",
+            "The Son of God is to be reverenced equally as his Father, since he is in nature and glory equal to him.",
+            "He had a very different treatment from them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 21:37, Jesus tells a parable in which the Father deliberates on what to do to turn sinners to repentance. He sets apart His Son from all other messengers, highlighting His superiority and the reverence people should have for Him. The Son is not presented here as the Redeemer, but as a preacher, demanding the fruits of the vineyard. The Father hopes that the people will turn toward and respect His beloved Son. Rejecting the Son would fill up the measure of human sin and guilt, and the priests who raged against Jesus did so to protect their own power.",
+            "wordCount": 100,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.961024521543611,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                32.53,
+                43.02,
+                24.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this parable, Jesus illustrates how the Father, in His gracious adoption of sinners, sets apart His Son as a messenger who demands the fruits of the vineyard. The Son's role here is not that of a Redeemer, but a preacher. By doing so, Jesus separates Himself from all other human messengers and claims Sonship in its highest sense. The Father sends His beloved Son, hoping that people will revere and give heed to Him. Rejecting the Son would be the culmination of their crimes, as they seek to protect their own power by silencing Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.8927397473065626,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                32.9,
+                40.63,
+                26.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, Jesus represents the heavenly Father deliberating on how to turn sinners to repentance. He distinguishes His beloved Son as a messenger who demands the fruits of the vineyard. The Son is presented here as a preacher, not as Redeemer, emphasizing His unique position as the highest Son. The Father hopes that the people will reverence His Son and give heed to His message. Rejecting the Son would be the culmination of their crimes, as they seek to protect their own power by silencing Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.988485331456845,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                34.38,
+                39.93,
+                25.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this parable, Jesus depicts the heavenly Father contemplating how to bring sinners to repentance. He sets apart His beloved Son as a messenger, distinct from all others. The Son is portrayed here as a preacher, not the Redeemer. By doing so, Jesus underscores His unique Sonship and calls for reverence. The Father hopes that people will heed the Son's message and pay respect to Him. Rejecting the Son would be the apex of their wrongdoing, fueled by their desire to preserve their own authority.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.8307428657336615,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                34.84,
+                40.06,
+                25.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew 21:37, Jesus shares a parable highlighting the heavenly Father's desire to turn sinners to repentance. The Father sets His beloved Son apart as a messenger, distinct from all others. While not presented as the Redeemer, the Son serves as a preacher demanding the fruit of the vineyard. The Father hopes that people will revere and give heed to His Son. Rejecting the Son would be the culmination of their crimes, driven by their desire to protect their own power.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8776551597681759,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                32.21,
+                40.64,
+                27.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

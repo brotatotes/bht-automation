@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:49:29",
+    "verseRef": "Matthew 17:24",
+    "bestBHT": {
+        "bht": "The temple tax mentioned here was not a compulsory tax like the one collected by the government, but more akin to a voluntary church-rate. Jesus overturning the tables of the money-changers was a direct attack on a powerful interest, as they were responsible for exchanging currency for the temple coin. By paying the tribute, Jesus demonstrated both his submission and his willingness to fulfill earthly obligations. The fact that they approached Peter instead of Jesus may be seen as a hint that the tax was overdue.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.8846319733729717,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+        "commentatorTierSimilarities": [
+            36.04,
+            33.08,
+            30.88
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Josephus says of Vespasian, 'He levied a tribute on the Jews all over the world, compelling each man to pay two drachmas yearly into the Capitol, as they formerly used to do to the temple at Jerusalem.'\" ",
+            "It does not quite appear whether this payment was compulsory or not; the question here asked would look as if it were voluntary, and therefore by some declined.\" ",
+            "Many Commentators both ancient and modern, and among them no less names than Clement of Alexandria, Origen, Jerome, and Augustine, seem to have missed the meaning of this miracle, by interpreting the payment as a civil one, which it certainly was not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole teaching of this very remarkable scene depends upon this distinction.\" ",
+            "The question seems to imply that the payment of this tax was voluntary, but expected; or what, in modern phrase, would be called a 'voluntary assessment.'\" ",
+            "This explains several things in the narrative."
+        ],
+        "Marvin Vincent": [
+            "Every male Israelite of age... was expected to pay annually for the temple-service a half-shekel or didrachm, about thirty-five cents.",
+            "The money-changers, therefore, were in demand to change the current into the temple coin, which they did at a rate of discount fixed by law, between four and five cents on every half-shekel.",
+            "Jesus attacked a very powerful interest when he overthrew the tables of the money-changers."
+        ],
+        "John Calvin": [
+            "Christ, by paying tribute of his own accord, declared his subjection, as he had taken upon him the form of a servant.",
+            "He taught by words, that it was only by his will that he was bound; and he proved the same thing by a miracle, for he who had dominion over the sea and the fishes might have released himself from earthly government.",
+            "It was customary for every man to be enrolled in his own city; but we know that Christ had no fixed habitation in one place. Those people therefore inquire if he be exempted from the law on the ground of his frequent removals from place to place."
+        ],
+        "Philip Schaff": [
+            "His usual residence, hence the place where the temple tax would be collected from Him.",
+            "The value of a shekel is variously estimated from 50 to 70 cents (2 s. 3 d. to 3 s.).",
+            "The temple tax was obligatory; see Exodus 30:13 ff. (comp. 2 Chronicles 24:5-6)."
+        ],
+        "Archibald T. Robertson": [
+            "Every Jewish man twenty years of age and over was expected to pay it for the maintenance of the temple. But it was not a compulsory tax like that collected by the publicans for the government.",
+            "The tax was like a voluntary church-rate; no one could be compelled to pay.",
+            "It is significant that they approached Peter rather than Jesus, perhaps not wishing to embarrass 'Your Teacher,' 'a roundabout hint that the tax was overdue'."
+        ],
+        "John Gill": [
+            "Now in process of time, from these instances and examples, it became a fixed thing, that every year an half shekel should be paid by every Israelite, excepting women, children, and servants, towards defraying the necessary charges of the temple service.\" ",
+            "The value of the half shekel, was about 'fifteen pence' of our money.",
+            "So that it seems, there was a different usage of persons, at different times and places: our Lord being in Galilee at Capernaum, was treated in this manner."
+        ],
+        "John Wesley": [
+            "This was a tribute or payment of a peculiar kind, being half a shekel, (that is, about fifteen pence,) which every master of a family used to pay yearly to the service of the temple, to buy salt, and little things not otherwise provided for.",
+            "It seems to have been a voluntary thing, which custom rather than any law had established.",
+            "This was the reason why they stayed till he came thither to ask him for the tribute."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 17:24, Jesus is approached by those responsible for collecting the temple tax. This tax was expected from every male Israelite of age, but it was not compulsory like the tax collected by the government. Instead, it was more like a voluntary church-rate. Thus, the question asked of Peter implied that the payment was voluntary, but still expected. Jesus overturning the tables of the money-changers was an attack on a powerful interest, as they played a role in exchanging currency for the temple coin. By paying the tribute, Jesus showed his submission and willingness to fulfill earthly obligations. The fact that they approached Peter rather than Jesus may have been a hint that the tax was overdue.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.781790099215608,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                39.14,
+                28.83,
+                32.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this particular situation, Jesus is approached by the collectors of the temple tax. The tax, which was not compulsory like the government tax, was more of a voluntary church-rate. Jesus overturning the tables of the money-changers conveyed his defiance towards a powerful interest. By paying the tribute, Jesus demonstrated his submission and his willingness to fulfill earthly obligations, while also hinting that the tax may have been overdue.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.758824549280657,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                35.76,
+                36.29,
+                27.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 17:24, Jesus is approached by those responsible for collecting the temple tax. This tax was expected from every male Israelite of age, but it was not compulsory like the tax collected by the government. Instead, it was more like a voluntary church-rate. Thus, the question asked of Peter implied that the payment was voluntary, but still expected. Jesus overturning the tables of the money-changers was an attack on a powerful interest, as they played a role in exchanging currency for the temple coin. By paying the tribute, Jesus showed his submission and willingness to fulfill earthly obligations. The fact that they approached Peter rather than Jesus may have been a hint that the tax was overdue.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.781790099215608,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                39.14,
+                28.83,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple tax in Matthew 17:24 was not compulsory like the government tax, but rather a voluntary church-rate expected from every male Israelite. Jesus overturning the tables of the money-changers challenged a powerful interest as they exchanged currency for the temple coin. By paying the tribute, Jesus demonstrated his willingness to fulfill earthly obligations and his submission. The fact that they approached Peter, not Jesus, may suggest that the tax was overdue\u2014an indirect hint on their part.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8575620027807669,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                35.97,
+                33.23,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple tax mentioned here was not a compulsory tax like the one collected by the government, but more akin to a voluntary church-rate. Jesus overturning the tables of the money-changers was a direct attack on a powerful interest, as they were responsible for exchanging currency for the temple coin. By paying the tribute, Jesus demonstrated both his submission and his willingness to fulfill earthly obligations. The fact that they approached Peter instead of Jesus may be seen as a hint that the tax was overdue.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8846319733729717,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                36.04,
+                33.08,
+                30.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

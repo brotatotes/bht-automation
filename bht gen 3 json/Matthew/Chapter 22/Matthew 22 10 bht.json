@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 23:51:16",
+    "verseRef": "Matthew 22:10",
+    "bestBHT": {
+        "bht": "In the parable of the wedding feast, the Church is depicted as encompassing both open sinners and morally good individuals. The servants went out and gathered all they found, without distinction. This inclusive call of the Gospel reached Jews, Samaritans, and outlying heathen alike, resulting in a gathering of people from various backgrounds. The wedding feast was filled with both bad and good, highlighting the message that the Gospel is meant for all, irrespective of their moral character.",
+        "wordCount": 78,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.8859791999123796,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            38.02,
+            30.91,
+            31.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Both the open sinners and the morally good together.",
+            "The situation of the Church at this day;\u2014collected out of all the earth, and containing both bad and good.",
+            "Was filled is emphatic."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So those servants went out into the highways, and gathered together all as many as they found, both bad and good\u2014that is, without making any distinction between open sinners and the morally correct.",
+            "The Gospel call fetched in Jews, Samaritans, and outlying heathen alike.",
+            "Thus far the parable answers to that of 'the Great Supper', but the distinguishing feature of our parable is what follows."
+        ],
+        "Albert Barnes": [
+            "None are good by nature; if they were they would not need the gospel.",
+            "Some are worse than others, and they have special need of it.",
+            "None can be saved without it."
+        ],
+        "Marvin Vincent": [
+            "Was furnished [\u03b5\u03c0\u03bb\u03b7\u03c3\u03b8\u03b7] . The Greek is stronger; was filled : so Rev."
+        ],
+        "Philip Schaff": [
+            "Including all gospel messengers ever since.",
+            "All kinds of people, without regard to their apparent moral character.",
+            "The Church as gathered ever since from all parts of the world, of 'bad and good,' and containing some without 'a wedding garment.'"
+        ],
+        "Archibald T. Robertson": [
+            "The wedding (\u03bf \u03b3\u03b1\u03bc\u03bf\u03c2). But Westcott and Hort rightly read here \u03bf \u03bd\u03c5\u03bc\u03c6\u03c9\u03bd, marriage dining hall. The same word in Matthew 9:15 means the bridechamber. "
+        ],
+        "John Gill": [
+            "The Gospel ministry is the means of gathering souls to Christ...",
+            "...some are good and some bad, as the fishes gathered in the net of the Gospel...",
+            "...the diligence of the servants, in executing their master's orders, with so much readiness and exactness..."
+        ],
+        "John Wesley": [
+            "They gathered all \u2014 By preaching every where."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 22:10, the parable of the wedding feast, we see a reflection of the Church's composition today, consisting of both open sinners and morally upright individuals. The servants summoned anyone they found on the highways, without making any distinctions between good and bad. This call of the Gospel encompassed Jews, Samaritans, and outlying heathens alike. The wedding feast was filled with both bad and good, symbolizing the gathering of people from all walks of life. This parable emphasizes the inclusivity of the Gospel, highlighting the importance of its message for all, regardless of their moral character.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7752973757267627,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                41.68,
+                30.02,
+                28.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the parable of the wedding feast, the Church is depicted as encompassing both open sinners and morally good individuals. The servants went out and gathered all they found, without distinction. This inclusive call of the Gospel reached Jews, Samaritans, and outlying heathen alike, resulting in a gathering of people from various backgrounds. The wedding feast was filled with both bad and good, highlighting the message that the Gospel is meant for all, irrespective of their moral character.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8859791999123796,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                38.02,
+                30.91,
+                31.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Matthew 22:10, the parable of the wedding feast illustrates the composition of the Church, comprising both open sinners and morally upright individuals. The Gospel call encompasses Jews, Samaritans, and outlying heathens, inviting everyone without distinction. The wedding feast was filled with both bad and good, emphasizing the inclusivity of the Gospel message for all, regardless of their moral character. This parable highlights the importance of the Gospel in gathering souls to Christ and presenting salvation to people from all walks of life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8871743818958082,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                36.04,
+                32.61,
+                31.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the wedding feast in Matthew portrays the Church's composition, containing both open sinners and morally good individuals. The Gospel call encompasses all, without distinction, gathering Jews, Samaritans, and outlying heathens alike. The wedding feast was filled with both bad and good, illustrating the inclusivity of the Gospel message for all, regardless of their moral character. This parable emphasizes the importance of the Gospel ministry in gathering souls to Christ and its role in bringing salvation to people from all walks of life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.9247886948596415,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                37.95,
+                30.6,
+                31.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the wedding feast highlights the diversity within the Church, encompassing both open sinners and morally upright individuals. The Gospel call extends to Jews, Samaritans, and outlying heathens, without distinction. The wedding feast was filled with both bad and good, emphasizing the all-inclusive nature of the Gospel message, which is meant for everyone, regardless of their moral character. This parable reinforces the importance of the Gospel ministry in drawing souls to Christ and offering salvation to people from all walks of life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8726253077217094,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                36.27,
+                32.66,
+                31.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

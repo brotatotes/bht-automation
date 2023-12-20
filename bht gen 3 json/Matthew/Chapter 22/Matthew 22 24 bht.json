@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:51:22",
+    "verseRef": "Matthew 22:24",
+    "bestBHT": {
+        "bht": "When the Sadducees present a hypothetical scenario about the levirate marriage law from Deuteronomy to Jesus, they aim to challenge him. They cleverly use the name of Moses to concoct an argument against the concept of the resurrection. However, Jesus sees through their amusement-seeking motive and responds with wisdom and truth. He unveils their attempt to distort the true doctrine of godliness, shedding light on the purpose and significance of the law itself.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.4402692681292804,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+        "commentatorTierSimilarities": [
+            28.87,
+            28.31,
+            42.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24. raise up seed] The firstborn son of such a marriage was reckoned and registered as the son of the deceased brother."
+        ],
+        "Marvin Vincent": [
+            "Shall marry [\u03b5\u03c0\u03b9\u03b3\u03b1\u03bc\u03b2\u03c1\u03b5\u03c5\u03c3\u03b5\u03b9] . From gambrov, a word used in classical Greek to denote any one connected by marriage : a brother - in - law, father - in - law, even a bridegroom.",
+            "The word is appropriate here because it refers to marriage between marriage - relatives."
+        ],
+        "John Calvin": [
+            "They cunningly employ the name of Moses, for the purpose of proving that they were lawful marriages, which had been contracted not by the will of men, but by the command and appointment of God himself.",
+            "Their sophistry therefore is this: 'If God shall one day collect believers into His kingdom, He will restore whatever He had given to them in the world. What then shall become of the woman, whom God assigned to seven husbands?'",
+            "Thus all ungodly persons and heretics forge their calumnies, that by means of them they may disfigure the true doctrine of godliness, and put to shame the servants of Christ."
+        ],
+        "Philip Schaff": [
+            "Such a marriage was called a Levirate marriage. The object was to preserve families, a matter of great importance in the Jewish economy.",
+            "The first-born son would be registered as the son of the dead brother."
+        ],
+        "Archibald T. Robertson": [
+            "The Sadducees were 'aiming at amusement rather than deadly mischief' (Bruce).",
+            "This passage is quoted from Deuteronomy 25:5; Deuteronomy 25:6.",
+            "It is used specifically of one marrying his brother's widow."
+        ],
+        "John Gill": [
+            "Moses said, in Deuteronomy 25:5 if a man die having no children, his brother shall marry his wife, and raise up seed unto his brother; which, though not expressed in the self same words, yet is the sense of the passage referred to.",
+            "This law only took place, when a man died without children; for if he left any children, there was no need for his brother to marry his wife...for as another of their commentators notes, his having no child, regards a son or a daughter, or a son's son, or a daughter's son, or a daughter's daughter.",
+            "By this law, the first child that was born after such marriage, was reckoned the seed of the deceased, and was heir to his inheritance."
+        ],
+        "John Wesley": [
+            "Deuteronomy 25:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 22:24, the Sadducees try to trap Jesus with a question about the levirate marriage law stated in Deuteronomy 25:5. This law required a man to marry his brother's widow if he died childless, so that the firstborn son would be considered the deceased brother's heir. The Sadducees posed a hypothetical scenario of a woman who had been married to seven brothers, asking whose wife she would be in the resurrection. They cunningly employed the name of Moses to disfigure the true doctrine of godliness. The Sadducees aimed at amusement rather than mischief, but Jesus responded with wisdom and truth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.8725727964758008,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                33.84,
+                31.35,
+                34.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Sadducees present a hypothetical scenario to Jesus, trying to challenge him with the levirate marriage law from Deuteronomy. They ask whose wife a woman would be in the resurrection, as she had been married to seven brothers. The Sadducees cunningly use the name of Moses to distort the true doctrine of godliness. However, Jesus responds with wisdom and truth, exposing their amusement-seeking motive and providing a deeper understanding of the law and its purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.6668414724646121,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                32.37,
+                29.89,
+                37.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Sadducees present a hypothetical scenario about the levirate marriage law from Deuteronomy to Jesus, they aim to challenge him. They cleverly use the name of Moses to concoct an argument against the concept of the resurrection. However, Jesus sees through their amusement-seeking motive and responds with wisdom and truth. He unveils their attempt to distort the true doctrine of godliness, shedding light on the purpose and significance of the law itself.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4402692681292804,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+            "commentatorTierSimilarities": [
+                28.87,
+                28.31,
+                42.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Matthew 22:24, the Sadducees present a hypothetical scenario to Jesus, asking about the levirate marriage law from Deuteronomy. This law required a man to marry his brother's widow to raise up seed for his brother. The Sadducees cunningly employ the name of Moses to distort the true doctrine of godliness and challenge Jesus. However, Jesus sees through their amusement-seeking motive and responds with wisdom and truth, revealing the deeper understanding of the law and exposing their attempts to undermine the faithful teachings of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.7582279830996463,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                34.52,
+                27.8,
+                37.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sadducees try to challenge Jesus with a hypothetical scenario concerning the levirate marriage law from Deuteronomy. They cleverly use the name of Moses to undermine the true doctrine of godliness. However, Jesus exposes their amusement-seeking motive and responds with wisdom, revealing a deeper understanding of the law's purpose. He demonstrates that the Sadducees' attempt to distort the teachings of God is futile, highlighting the importance of staying true to faithful teachings and avoiding the deception of ungodly arguments.",
+            "wordCount": 81,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.4230618179855563,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+            "commentatorTierSimilarities": [
+                28.63,
+                25.13,
+                46.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 23:44:49",
+    "verseRef": "Matthew 8:1",
+    "bestBHT": {
+        "bht": "When Jesus came down from the mountain, He was followed by a great multitude of people, drawn by the fame of His teaching. The miracles that followed His discourse served to confirm the belief that He was indeed sent from God, as they were no less remarkable than His words. Among these miracles was the healing of a man afflicted with leprosy, a disease that was difficult to cure and rarely resulted in recovery. This miracle was not performed in private, but before the eyes of a large audience, further increasing the awe and admiration of those who witnessed it.",
+        "wordCount": 100,
+        "quoteTokenProportion": 45.07,
+        "qualityScore": 1.6560085388573103,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+        "commentatorTierSimilarities": [
+            22.19,
+            43.25,
+            34.56
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1. When he was come down from the",
+            "\tmountain, great multitudes followed him."
+        ],
+        "Albert Barnes": [
+            "His discourse had attracted great attention, and the fame of it drew together great multitudes, who were convinced that he had come from God.",
+            "Then follows, in this chapter and the chapter succeeding, a succession of 'miracles' not less remarkable than his teaching was.",
+            "Miracles that tended to confirm beyond a doubt the impression made by his sermon that he was sent from God."
+        ],
+        "John Calvin": [
+            "It was a striking display of the divine power of Christ, that, by his word alone and a touch of his hand, he suddenly cleansed the man\u2019s leprosy.",
+            "Now, though leprosy was a different kind of disease from elephantiasis, it is plain enough that it was difficult to cure.",
+            "When it had continued long and become deeply seated, it rarely happened that any person recovered."
+        ],
+        "John Gill": [
+            "People which came from several parts, still continued with him, being affected with his discourses and miracles.",
+            "Partly on account of the following miracle, of healing the leper, which was not done in a corner, but before great multitudes, who were witnesses of it.",
+            "Some think this miracle was wrought more privately."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus came down from the mountain, He was followed by a great multitude of people, drawn by the fame of His teaching. The miracles that followed His discourse served to confirm the belief that He was indeed sent from God, as they were no less remarkable than His words. Among these miracles was the healing of a man afflicted with leprosy, a disease that was difficult to cure and rarely resulted in recovery. This miracle was not performed in private, but before the eyes of a large audience, further increasing the awe and admiration of those who witnessed it.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.6560085388573103,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                22.19,
+                43.25,
+                34.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus came down from the mountain, a great multitude followed Him, captivated by His teaching. It was through His miracles that the belief in His divine mission was solidified. The healing of the man with leprosy was a powerful testament to His authority, as leprosy was notoriously difficult to cure. This miracle, performed before a large audience, left a lasting impression on those who witnessed it, reinforcing their conviction that Jesus was indeed sent from God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6423279970540574,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                25.76,
+                41.56,
+                32.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus descended from the mountain, He was accompanied by a multitude of people who were drawn to His teachings. The miracles that ensued served as compelling evidence to the onlookers that Jesus had been sent by God. Among these miracles, healing the incurable leprosy of a man demonstrated the divine power at work. With a single word and touch, Jesus manifested His authority and ability to bring about miraculous transformations. The magnitude of this miracle, performed before numerous witnesses, further enhanced the impact of Jesus' message.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.414341874449939,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.37,
+            "commentatorTierSimilarities": [
+                22.72,
+                43.53,
+                33.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus descended from the mountain, a multitude of people followed Him, intrigued by His teachings. The miracles that followed reaffirmed their belief that Jesus was sent by God. One such miracle was the healing of a man's leprosy, a disease that was notoriously difficult to cure. This miraculous act, performed in plain sight, left a lasting impression on the witnesses. It served as a tangible demonstration of Jesus' divine power and authority, solidifying the conviction that He was indeed the chosen one.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.3881806031197985,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.5,
+            "commentatorTierSimilarities": [
+                23.78,
+                41.21,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus finished preaching on the mountain, a multitude of people followed Him, fully convinced that He had come from God. The miracles He performed served as undeniable proof of His divine authority. Among these miracles was the healing of a man afflicted with leprosy, a disease that was notoriously difficult to cure. This public miracle became a powerful witness to the people, reinforcing their belief in Jesus as the chosen one.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4903940003752363,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.9,
+            "commentatorTierSimilarities": [
+                22.52,
+                41.24,
+                36.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

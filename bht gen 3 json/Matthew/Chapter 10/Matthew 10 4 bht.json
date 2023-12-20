@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 23:45:56",
+    "verseRef": "Matthew 10:4",
+    "bestBHT": {
+        "bht": "Judas Iscariot, one of the twelve disciples, likely belonged to the Zealots, a sect known for taking justice into their own hands and leading to Jerusalem's destruction. The name Iscariot serves as an infamy, connecting him to the Galilean Zealot party. While Canaanite may indicate someone from Cana, it is more likely derived from the Hebrew word for Zealot. Judas' choice remains a mysterious mix of God's sovereignty and human free will, as he was the most gifted but ultimately betrayed. Even the purest societies and churches may have individuals with impure intentions.",
+        "wordCount": 95,
+        "quoteTokenProportion": 40.54,
+        "qualityScore": 1.812613818173894,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+        "commentatorTierSimilarities": [
+            33.44,
+            36.08,
+            30.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may therefore suppose that before his conversion he belonged to the sect of the Zealots, who after the example of Phinehas (Num. xxv. 7, 8) took justice into their own hands, and punished offenders against the law.",
+            "This sect eventually brought upon Jerusalem its destruction.",
+            "That the name Iscariot cannot be a surname, as Bp. Middleton supposes, the expression 'Judas Iscariot the son of Simon,' used in all the above places of John, clearly proves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Simon, called the Zealot.\" The word 'Kananite' is just the Aramaic term for 'Zealot'.",
+            "Judas of Kerioth.\" This is a note of infamy attached to Judas Iscariot's name in all the catalogues of the Twelve.",
+            "The third part is of wider application still, reaching not only to the ministry of the Gospel in every age, but to the service of Christ in the widest sense."
+        ],
+        "Albert Barnes": [
+            "Simon the Canaanite... one of a small sect of the Jews called 'Zealots,' on account of special zeal in religion.",
+            "His native place was probably 'Cana.'",
+            "Judas Iscariot... given to him to designate his native place."
+        ],
+        "Marvin Vincent": [
+            "The word has nothing to do with Canaan.",
+            "Both terms indicate his connection with the Galilaean Zealot party.",
+            "From the Hebrew kanna, zealous; compare the Chaldee kanan, by which this sect was denoted."
+        ],
+        "Philip Schaff": [
+            "Simon the Canan\u00e6an. Not \u2018Canaanite.\u2019 If a local term at all, it means \u2018an inhabitant of Cana\u2019; but it is probably derived from the Hebrew, and is the same as \u2018Zelotes\u2019 (Luke 6:15, Acts 1:13).",
+            "The Zealots were a sect of strict Jews, who afterwards became fierce fanatics. They were apt to take the law into their own hands, to punish offences against the Jewish law.",
+            "The choice of this man remains a part of the great mystery concerning God\u2019s sovereignty and man\u2019s free choice. He is generally supposed to have been by nature the most gifted of the Twelve... All were unsophisticated, simple-hearted, open to conviction, and fit vessels to be filled with the saving knowledge of Christ."
+        ],
+        "John Gill": [
+            "The Kanaites, or Zelotes, were a set of men, who, in imitation of Phinehas, would immediately kill them without any more ado: this they did, from a pretended zeal for the honour and glory of God.",
+            "Now Simon was one of this sect before his conversion, and still retained the name afterwards.",
+            "We learn from hence, that in the purest society on earth there has been an impure person; nor can it therefore be expected it should be otherwise in the best of churches, in the present state of imperfection."
+        ],
+        "John Wesley": [
+            "Iscariot \u2014 So called from Iscarioth, (the place of his birth,) a town of the tribe of Ephraim, near the city of Samaria."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas Iscariot, one of the twelve disciples, was likely associated with the Zealots, a sect known for taking justice into their own hands and whose actions eventually led to the destruction of Jerusalem. The name Iscariot is not a surname, but rather a note of infamy indicating his connection to the Galilean Zealot party. While the term Canaanite may be understood as someone from Cana, it is more likely derived from the Hebrew word for Zealot. The choice of Judas remains a mysterious mix of God's sovereignty and human free will, as he was considered the most gifted of the Twelve but ultimately chose a path of betrayal. This serves as a reminder that even the purest societies and churches may include individuals with impure intentions.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.8289898991621125,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                34.59,
+                34.65,
+                30.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas Iscariot, one of the twelve disciples, likely belonged to the Zealots, a sect known for taking justice into their own hands and leading to Jerusalem's destruction. The name Iscariot serves as an infamy, connecting him to the Galilean Zealot party. While Canaanite may indicate someone from Cana, it is more likely derived from the Hebrew word for Zealot. Judas' choice remains a mysterious mix of God's sovereignty and human free will, as he was the most gifted but ultimately betrayed. Even the purest societies and churches may have individuals with impure intentions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.812613818173894,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                33.44,
+                36.08,
+                30.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas Iscariot, one of the twelve disciples, likely belonged to the Zealots, a sect known for taking justice into their own hands and leading to Jerusalem's destruction. The name Iscariot connects him to the Galilean Zealot party. Judas' choice remains a mysterious mix of God's sovereignty and human free will, as he was the most gifted but ultimately betrayed. Even the purest societies and churches may have individuals with impure intentions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7858276259952792,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                33.57,
+                35.79,
+                30.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas Iscariot, one of the twelve disciples, likely belonged to the Zealots, a sect known for taking justice into their own hands and bringing destruction to Jerusalem. The name Iscariot, attached to Judas, signifies his association with the Galilean Zealot party. This choice of Judas remains a great mystery, reflecting both God's sovereignty and human free will. Despite being the most gifted among the disciples, Judas ultimately chose the path of betrayal. This serves as a reminder that even the purest societies and churches can house individuals with impure intentions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.812131875672842,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                34.46,
+                36.48,
+                29.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas Iscariot, one of the twelve disciples, likely belonged to the Zealots, a sect known for taking justice into their own hands and bringing destruction to Jerusalem. The name Iscariot signifies his association with the Galilean Zealot party. The choice of Judas remains a great mystery, reflecting both God's sovereignty and human free will. Despite being the most gifted disciple, Judas ultimately chose the path of betrayal. This reminds us that even the purest societies and churches can harbor individuals with impure intentions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7541728158491772,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                34.3,
+                36.56,
+                29.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

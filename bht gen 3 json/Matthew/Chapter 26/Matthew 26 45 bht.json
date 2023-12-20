@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:53:43",
+    "verseRef": "Matthew 26:45",
+    "bestBHT": {
+        "bht": "Jesus tells his disciples to sleep, for his hour has come and he is about to be taken by sinners. He foresees the approaching group led by Judas and knows that his contact with sin and death will weigh heavily on his soul. Despite the disciples' inability to watch with him, he reassures them that they may sleep and rest, as he no longer needs their watchful interest. Jesus faces his hour with courage, having long foreseen its arrival.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.6898354538159974,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+        "commentatorTierSimilarities": [
+            45.18,
+            29.7,
+            25.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Since ye are not able to watch with Me, now ye may sleep on\u2014for my hour is come, and I am about to be taken from you.",
+            "if you hear not Me arousing you, there will speedily come others who will arouse you. 'Meanwhile, sleep, if ye will.'",
+            "This expression, into the hands of sinners, should be noticed, as an echo of the Redeemer\u2019s anguish\u2014it was the contact with sin,\u2014and death, the wages of sin,\u2014which all through His trial pressed heavily on His soul."
+        ],
+        "Marvin Vincent": [
+            "The hour is at hand. He probably heard the tramp and saw the lanterns of Judas and his band."
+        ],
+        "John Calvin": [
+            "Having hitherto wasted my words on you, I shall now come to exhort you; but whatever permission I may give you to sleep, the enemies will not allow it to you.\" ",
+            "This is the way in which the Lord usually chastises the indolence of men, that those who wax deaf to words may at length be compelled, by their sufferings, to arouse themselves.\" ",
+            "Let us, therefore, learn to give immediate attention to the words of the Lord, lest what he wishes to draw from us voluntarily may be too late forced from us by necessity."
+        ],
+        "Philip Schaff": [
+            "Sleep on now, if you can. It is not ironical; the circumstances forbid that.",
+            "The hour of His enemies, the hour of darkness, but with special reference to the approach of the betrayer.",
+            "Our Lord had predicted... 'sinners' here includes both. There is special significance in the choice of this word at such a time."
+        ],
+        "Archibald T. Robertson": [
+            "Ye may sleep and rest indefinitely so far as I am concerned; I need no longer your watchful interest.",
+            "The Master's time of weakness is past; He is prepared to face the worst.",
+            "Jesus had foreseen his 'hour' for long and now he faces it bravely."
+        ],
+        "John Gill": [
+            "Sleep on and take your rest, if you can: I have been exhorting you to watchfulness, but to no purpose, you will be alarmed from another quarter.\" ",
+            "The hour is at hand, and the son of man is betrayed into the hands of sinners.\" ",
+            "The high priest, elders, Scribes, and Pharisees, notwithstanding all their pretensions to religion, righteousness, and holiness, were very wicked persons."
+        ],
+        "John Wesley": [
+            "Sleep on now, if you can, and take your rest - For any farther service you can be of to me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, speaking to his disciples, tells them that since they are unable to watch with him, they may sleep on, as his hour has come and he is about to be taken from them. He warns them that if they do not heed his call to wake up, others will come to rouse them. It is significant that he mentions being taken into the hands of sinners, as it reflects the anguish he feels at the thought of encountering sin and death, the consequences of sin. Perhaps Jesus could already hear the approaching group led by Judas, which further added to his distress. He reassures his disciples that they may sleep and rest now, as he no longer needs their watchful interest. The time of weakness is over, and he is prepared to face the worst. Jesus had long foreseen and now bravely confronts the hour that he knew was coming.",
+            "wordCount": 151,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.6628449563370749,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                41.83,
+                32.56,
+                25.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus speaks to his disciples in Matthew 26:45, telling them they may sleep as his hour has come and he is about to be taken from them by sinners. He warns that if they do not hear his call to wake up, others will come to rouse them. This phrase emphasizes the anguish Jesus feels regarding sin and death. It is possible that he hears the approaching group led by Judas, adding to his distress. He reassures them they may sleep, as he no longer needs their watchful interest. The time of weakness is gone; he is prepared to face the worst.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5946739944753607,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                41.24,
+                32.82,
+                25.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus speaks to his disciples, telling them they may sleep as his hour has come and he is about to be taken from them by sinners. He emphasizes the anguish he feels over sin and death. Perhaps he hears the approaching group, adding to his distress. He reassures them that they may sleep, as he no longer needs their watchful interest. The time of weakness is gone; he is prepared to face the worst. Jesus had long foreseen and now bravely confronts the hour he knew was coming.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5478694881227044,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.81,
+            "commentatorTierSimilarities": [
+                43.49,
+                31.11,
+                25.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus tells his disciples to sleep, as his hour has come and he is about to be taken by sinners. He warns them that others will come to rouse them if they do not hear his call. This highlights his anguish over sin and death. Perhaps Jesus hears the approach of Judas and his band, adding to his distress. He reassures his disciples that they may sleep now, as he no longer needs their watchful interest. The time of weakness has passed; he is prepared to face the worst.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.5839458040813954,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                43.12,
+                33.53,
+                23.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus tells his disciples to sleep, for his hour has come and he is about to be taken by sinners. He foresees the approaching group led by Judas and knows that his contact with sin and death will weigh heavily on his soul. Despite the disciples' inability to watch with him, he reassures them that they may sleep and rest, as he no longer needs their watchful interest. Jesus faces his hour with courage, having long foreseen its arrival.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6898354538159974,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                45.18,
+                29.7,
+                25.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

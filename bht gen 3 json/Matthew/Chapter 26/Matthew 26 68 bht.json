@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 23:53:49",
+    "verseRef": "Matthew 26:68",
+    "bestBHT": {
+        "bht": "With uncontrolled glee, these doctors of divinity insulted Jesus by spitting in his face, buffeting his neck, and striking his face. Their spite and hatred were poured out upon him as they mockingly challenged him to prophesy who had struck him. Jesus remained silent, enduring their mockery and allowing them to strike his human body, while they aimed their scorn at his person and office. Although he did not respond in that moment, he would ultimately reveal the identities of those who had struck him. Their temporary amusement and mockery would come at a heavy price.",
+        "wordCount": 96,
+        "quoteTokenProportion": 42.03,
+        "qualityScore": 1.65591750667337,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+        "commentatorTierSimilarities": [
+            40.13,
+            26.66,
+            33.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Having prevented his seeing, they ridiculed his pretensions of being the Messiah.",
+            "If he Was the Christ, they supposed he could tell who smote him.",
+            "The word 'prophesy' does not mean only to foretell future events, although that is the proper meaning of the word, but also to declare anything that is unknown, or anything which cannot be known by natural knowledge or without revelation."
+        ],
+        "Philip Schaff": [
+            "His face was covered, and after each blow, He was asked who gave it.",
+            "The term 'Christ' is used in mockery of His claims, and His silence would be construed into an evidence that He was an impostor.",
+            "There is a mocking of Him, which cannot strike His human body, though directed against His Person, His office, His mystical body."
+        ],
+        "Archibald T. Robertson": [
+            "With uncontrolled glee and abandon like a lot of hoodlums these doctors of divinity insulted Jesus.",
+            "They actually spat in his face, buffeted him on the neck, and struck him in the face with the palms of their hands.",
+            "They thus gave vent to their spite and hatred."
+        ],
+        "John Gill": [
+            "Because he asserted himself to be the Messiah, and his followers believed in him as such, they call him so; and in an ironical and sarcastic way, call upon him to divine, and tell them who the persons were, that used him in this manner.",
+            "Christ did not think fit to give them an answer to this question, but he will let them know hereafter, who the particular person, or persons were, that smote him.",
+            "In this ludicrous way did they use him, and made him their sport and diversion, as the Philistines did Samson; but it will cost them dear another day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With uncontrolled glee and abandon like a lot of hoodlums, these doctors of divinity insulted Jesus by spitting in his face, buffeting him on the neck, and striking him in the face. They vented their spite and hatred, mocking his claims of being the Messiah and challenging him to prophesy who smote him. Covered and silent, Jesus endured their mocking, allowing them to strike his human body while they directed their mockery towards his person, his office, and his mystical body. Though he did not answer their question at that moment, he would make known in due time who had struck him. Their actions may have brought them temporary sport and diversion, but it would ultimately cost them dearly.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.6055756359987332,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.73,
+            "commentatorTierSimilarities": [
+                35.7,
+                27.1,
+                37.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With uncontrolled glee and abandon like hoodlums, these doctors of divinity insulted Jesus by spitting on him, buffeting his neck, and striking his face. Their spite and hatred were unleashed as they mockingly challenged him to prophesy who had struck him. Silent and covered, Jesus endured their mockery, allowing them to strike his human body while they directed their scorn towards his person and office. Yet, though he did not answer at that moment, he would later reveal who had struck him. Their temporary sport and diversion would come at a great cost.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5382660044471572,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                39.13,
+                25.79,
+                35.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With uncontrolled glee, the doctors of divinity insulted Jesus by spitting in his face, buffeting his neck, and striking his face. They vented their spite and hatred, mocking his claims as the Messiah and challenging him to prophesy who smote him. Covered and silent, Jesus endured their mockery, allowing them to strike his human body while they directed their scorn towards his person and office. Although he did not respond at that moment, he would reveal who had struck him in due time. Their temporary amusement and scorn would have severe consequences.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5892902643712006,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+            "commentatorTierSimilarities": [
+                39.65,
+                28.41,
+                31.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With uncontrolled glee, these doctors of divinity insulted Jesus by spitting in his face, buffeting his neck, and striking his face. Their spite and hatred were poured out upon him as they mockingly challenged him to prophesy who had struck him. Jesus remained silent, enduring their mockery and allowing them to strike his human body, while they aimed their scorn at his person and office. Although he did not respond in that moment, he would ultimately reveal the identities of those who had struck him. Their temporary amusement and mockery would come at a heavy price.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.65591750667337,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                40.13,
+                26.66,
+                33.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With uncontrolled glee, the doctors of divinity insulted Jesus by spitting in his face, buffeting his neck, and striking his face. Their spite and hatred were unleashed as they mockingly challenged him to prophesy who had struck him. Jesus endured their mockery in silence, as they directed their scorn towards his person and office. Although he did not respond at that moment, he would later reveal the identities of those who had struck him. Their temporary amusement and ridicule would incur severe consequences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6013227444730083,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                40.4,
+                26.88,
+                32.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

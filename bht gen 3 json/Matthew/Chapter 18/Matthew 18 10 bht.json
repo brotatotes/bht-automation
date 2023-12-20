@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 23:49:33",
+    "verseRef": "Matthew 18:10",
+    "bestBHT": {
+        "bht": "Jesus reveals that the angels who stand high in honor before God are entrusted with the care of His humble and meek disciples, both children in age and in grace. Despising these little ones implies looking down on them with a sense of superiority. However, we must remember that God's highest angels are devoted to the least subjects of His kingdom, constantly in the presence of the Father, attending to their needs and ensuring their well-being.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.162925757089508,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+        "commentatorTierSimilarities": [
+            34.81,
+            32.07,
+            33.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The little children in the outward state of the Church are in fact the only disciples who are sure to be that in reality, which their Baptism has put upon them, and so exactly answer to the wider meaning here conveyed by the term.",
+            "The phrase I say unto you, as in Luke xv. 7, 10, is an introduction to a revelation of some previously unknown fact in the spiritual world.",
+            "But this saying of our Lord assures us that such is the case, and that those angels whose honour is high before God are entrusted with the charge of the humble and meek\u2014the children in age and the children in grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That in heaven their angels do always behold the face of my Father which is in heaven\u2014A difficult verse; but perhaps the following may be more than an illustration...",
+            "Among men, those who nurse and rear the royal children, however humble in themselves, are allowed free entrance with their charge, and a degree of familiarity which even the highest state ministers dare not assume.",
+            "Probably our Lord means that, in virtue of their charge over His disciples, the angels have errands to the throne, a welcome there, and a dear familiarity in dealing with 'His Father which is in heaven,' which on their own matters they could not assume."
+        ],
+        "Albert Barnes": [
+            "That reason is drawn from the care which God exercises over them.",
+            "He does not mean, I suppose, to state that every good man has his guardian angel, as many of the Jews believed; but that the angels were, in general, the guards of his followers, and aided them and watched over them.",
+            "So, says our Saviour, we should not despise the obscurest Christian, for he is ministered to by the highest and noblest of beings by beings who are always enjoying the favor and friendship of God."
+        ],
+        "John Calvin": [
+            "No man who has a proper care for his brethren will ever allow himself, on light grounds, to give them offense.",
+            "We ought therefore to beware of despising their salvation, which even angels have been commissioned to advance.",
+            "Away, then, with the fanciful notion of a good and evil angel, and let us rest satisfied with holding that the care of the whole Church is committed to angels, to assist each member as his necessities shall require."
+        ],
+        "Philip Schaff": [
+            "Little ones are made to offend through contempt or disregard for them in their littleness.",
+            "These little ones...rather weak, growing Christians, including children, who may and ought to be Christians.",
+            "God's highest angels represent the least subjects of His kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Despise (\u03ba\u03b1\u03c4\u03b1\u03c6\u03c1\u03bf\u03bd\u03b7\u03c3\u03b7\u03c4\u03b5). Literally, 'think down on,' with the assumption of superiority.",
+            "Does Jesus mean to teach here that each little child or child of faith had a special angel who appears in God's presence... in special intimacy? Or does he simply mean that the angels do take an interest in the welfare of God's people?",
+            "Certainly Jesus means that the Father takes special care of his 'little ones' who believe in Him."
+        ],
+        "John Gill": [
+            "Who were little in their own eyes, and mean and despicable in the eyes of the world.",
+            "The angels of the little ones, that believe in Christ, who are ministering spirits unto them, the guardians of them, who encamp about them, and do many good offices for them.",
+            "And our Lord's argument is, that if such excellent creatures as the angels in heaven, who are continually favored with being in the presence of Christ's heavenly father, honored with so high a station, as always to stand before him, as ministers of his; if these are the guardians of these little ones, if they are committed to their care, and they have the oversight of them, then they ought not to be despised."
+        ],
+        "John Wesley": [
+            "Be careful to receive and not to offend, the very weakest believer in Christ: for as inconsiderable as some of these may appear to thee...",
+            "The very angels of God have a peculiar charge over them: even those of the highest order...",
+            "To behold the face of God seems to signify the waiting near his throne; and to be an allusion to the office of chief ministers in earthly courts, who daily converse with their princes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 18:10, Jesus reveals a previously unknown fact about the spiritual world: the angels who stand in high honor before God are entrusted with the care of His humble and meek disciples, both the children in age and the children in grace. Despising these little ones would be to think down on them with a sense of superiority, disregarding their importance. But let us remember that God's highest angels are devoted to the least subjects of His kingdom, constantly beholding the face of the Father and attending to their needs. We should therefore not despise the obscurest Christian, for they are ministered to by the highest and noblest of beings, who enjoy the favor and friendship of God.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 2.1484250725121576,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                31.73,
+                36.43,
+                31.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reveals a previously unknown fact about the spiritual world: the angels who stand in high honor before God are entrusted with the care of His humble and meek disciples, both the children in age and the children in grace. Despising these little ones would be to think down on them with a sense of superiority, disregarding their importance. But let us remember that God's highest angels are devoted to the least subjects of His kingdom, constantly beholding the face of the Father and attending to their needs.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.158719660036761,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.12,
+            "commentatorTierSimilarities": [
+                34.35,
+                32.92,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus reveals a previously unknown fact about the spiritual world: the angels who stand in high honor before God are entrusted with the care of His humble and meek disciples, both the children in age and the children in grace. Despising these little ones would be to think down on them with a sense of superiority. But let us remember that God's highest angels are devoted to the least subjects of His kingdom, constantly beholding the face of the Father and attending to their needs.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1499316807260547,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                34.48,
+                32.96,
+                32.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reveals a previously unknown fact about the spiritual world: the angels who stand in high honor before God are entrusted with the care of His humble and meek disciples, both the children in age and the children in grace. Despising these little ones would be to think down on them with a sense of superiority. But let us remember that God's highest angels are devoted to the least subjects of His kingdom, constantly beholding the face of the Father and attending to their needs.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1499316807260547,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                34.48,
+                32.96,
+                32.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reveals that the angels who stand high in honor before God are entrusted with the care of His humble and meek disciples, both children in age and in grace. Despising these little ones implies looking down on them with a sense of superiority. However, we must remember that God's highest angels are devoted to the least subjects of His kingdom, constantly in the presence of the Father, attending to their needs and ensuring their well-being.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.162925757089508,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                34.81,
+                32.07,
+                33.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

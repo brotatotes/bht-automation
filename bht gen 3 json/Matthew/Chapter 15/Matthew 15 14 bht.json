@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:48:37",
+    "verseRef": "Matthew 15:14",
+    "bestBHT": {
+        "bht": "Let the blind guides who are leading others astray with their erroneous teaching be left alone. Disciples are advised to refrain from engaging in conflict with the Pharisees and allow their self-destructive error to play out. If the blind lead the blind, both will suffer ruin and destruction, as seen in the fate of the Jewish people under their misguided leaders. Christians must prioritize saving souls and leave false doctrine to its own destructive tendencies.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9390498105709715,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+        "commentatorTierSimilarities": [
+            27.94,
+            46.77,
+            25.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14. Let them alone: they be blind",
+            "\tleaders of the blind. And if the blind lead the blind, both shall",
+            "\tfall into the ditch\u2014Striking expression of the ruinous effects",
+            "\tof erroneous teaching!"
+        ],
+        "John Calvin": [
+            "If we determined to satisfy all obstinate people, we must bury Christ, who is the stone of offense.",
+            "It is of importance to attend to this distinction, in order that no one who is weak may be distressed through our fault.",
+            "When wicked men dash themselves through their obstinacy, let us walk on unmoved in the midst of offenses."
+        ],
+        "Philip Schaff": [
+            "Let them alone. His disciples are not to begin an attack upon the Pharisees. Error, if let alone, defeats and destroys itself. Let it work out its self-destructive results!",
+            "They are blind guides. They profess to be teachers, but have themselves no spiritual sight. If then the blind guide the blind, those who follow such are of course blind also.",
+            "Discussions and controversies are to be instituted by Christians with the sole purpose of saving men, the defeat of false doctrine being left to its own self-destructive tendency."
+        ],
+        "Archibald T. Robertson": [
+            "They are blind guides. Graphic picture.",
+            "Jesus is not afraid of the Pharisees. Let them alone to do their worst.",
+            "Blind leaders and blind victims will land in the ditch."
+        ],
+        "John Gill": [
+            "Let them alone,.... Have nothing to say, or do with them; do not mind their anger and resentment, their reproaches and reflections, nor trouble yourselves at the offence they have taken; if they will go, let them go; they are a worthless generation of men, who are not to be regarded, hearkened to, nor to be pleased; it matters not what they say of me, and of my doctrine...",
+            "the people that hearken to them, and are followers of them, are 'blind', as to any true sense of themselves, their state, and condition by nature; as to any spiritual, saving knowledge of God...",
+            "And if the blind lead the blind, both shall fall into the ditch; of ignorance and error, immorality and profaneness, distress, if not despair, temporal ruin and destruction; which was notoriously verified in the Jewish people, and their guides: and of eternal damnation, the lake which burns with fire and brimstone; what else can be expected?\" "
+        ],
+        "John Wesley": [
+            "Let them alone \u2014 If they are indeed blind leaders of the blind; let them alone: concern not yourselves about them.\" ",
+            "A plain direction how to behave with regard to all such.",
+            "Luke 6:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They are blind guides, leading others astray with their erroneous teaching. Disciples are not to engage in conflict with the Pharisees, but instead let their self-destructive error play out. If the blind lead the blind, both will end up in ruin and destruction. It is of utmost importance to distinguish the blind leaders from the blind followers, who lack spiritual insight. Christians should focus on saving souls, leaving false doctrine to its own destructive tendencies.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9344804788153322,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                31.64,
+                44.12,
+                24.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let the blind guides, who are leading others astray with their erroneous teaching, be left alone. The disciples are advised to refrain from engaging in conflict with the Pharisees, allowing their self-destructive error to play out. If the blind lead the blind, both will suffer ruin and destruction, as seen in the Jewish people and their misled leaders. It is crucial to distinguish between these blind guides and those who lack spiritual insight, following them. Christians must focus on saving souls, leaving false doctrine to its own destructive tendencies.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9059238575589428,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                29.32,
+                45.54,
+                25.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let the blind guides be left alone as they lead others astray with their erroneous teaching. It is important for disciples to refrain from engaging in conflict with the Pharisees and instead allow their self-destructive error to play out. If the blind lead the blind, both will suffer ruin and destruction, as evidenced by the fate of the Jewish people under their misguided leaders. Christians must prioritize saving souls and leave false doctrine to its own destructive tendencies.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9190406336086607,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                27.65,
+                46.82,
+                25.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let the blind guides who are leading others astray with their erroneous teaching be left alone. Disciples are advised to refrain from engaging in conflict with the Pharisees and allow their self-destructive error to play out. If the blind lead the blind, both will suffer ruin and destruction, as seen in the fate of the Jewish people under their misguided leaders. Christians must prioritize saving souls and leave false doctrine to its own destructive tendencies.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9390498105709715,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                27.94,
+                46.77,
+                25.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let the blind guides, who are leading others astray with their erroneous teaching, be left alone. The disciples are advised to refrain from engaging in conflict with the Pharisees and allow their self-destructive error to play out. If the blind lead the blind, both will suffer ruin and destruction, as seen in the fate of the Jewish people under their misguided leaders. Christians must prioritize saving souls and leave false doctrine to its own destructive tendencies.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.933098417847931,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                27.94,
+                46.85,
+                25.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

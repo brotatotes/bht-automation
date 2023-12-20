@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:47:30",
+    "verseRef": "Matthew 13:15",
+    "bestBHT": {
+        "bht": "The individuals being referred to have dull of hearing and closed eyes, indicating their sluggishness and imperfect understanding. Their continual persistence in not hearing, seeing, understanding, and being saved has led to their spiritual senses being sealed shut, akin to a punishment. However, there is hope for them if they choose to turn away from their obstinacy and towards God. This requires them recognizing their own dissatisfaction and being open to seeking healing and forgiveness from Him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.5605385242978573,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+        "commentatorTierSimilarities": [
+            30.66,
+            24.32,
+            45.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "are dull of hearing] literally, heard heavily, \u2018sluggishly and imperfectly.\u2019",
+            "their eyes they have closed] (Heb. \u2018smeared over.\u2019)",
+            "All this have they done: all this is increased in them by their continuing to do it, and all lest they should (and so that they cannot) hear, see, understand, and be saved."
+        ],
+        "Marvin Vincent": [
+            "They have closed [\u03b5\u03ba\u03b1\u03bc\u03bc\u03c5\u03c3\u03b1\u03bd], kata, down, muw, to close, as in musthria above. Our idiom shuts up the eyes. The Greek shuts them down.",
+            "Sealing up the eyes was an oriental punishment.",
+            "Be converted [\u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b5\u03c8\u03c9\u03c3\u03b9\u03bd]. Rev., turn again; ejpi, to or toward, strefw, to turn; with the idea of their turning from their evil toward God."
+        ],
+        "John Calvin": [
+            "Healing is bestowed when the Lord releases from punishment.",
+            "Not only does God show favor by restoring us to life and health, but healing and forgiveness are properly introduced together.",
+            "God does not forgive the sins of any but those who are dissatisfied with themselves."
+        ],
+        "Philip Schaff": [
+            "Waxed gross, become fat, carnal, losing its spiritual life.",
+            "Their eyes they have closed; a persistent course of action.",
+            "Lest haply. What they would not do, was what they at length could not do."
+        ],
+        "Archibald T. Robertson": [
+            "Made callous or dull -- even fatty degeneration of the heart.",
+            "The hard of hearing are usually sensitive.",
+            "The eyes can be smeared with wax or cataract and thus closed."
+        ],
+        "John Gill": [
+            "For this people's heart is waxed gross, c,] Or fat, become stupid and sottish, and without understanding and so incapable of taking in the true sense and meaning of what they saw with their eyes, and heard with their ears...",
+            "And their ears are dull of hearing, and their eyes they have closed; which is expressive of the blindness and hardness, which were partly brought upon themselves by their own wilfulness and obstinacy...",
+            "lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart... and I should heal them; or, as in Mark, 'and their sins should be forgiven them'; for healing of diseases, and forgiveness of sins, are, in Scripture language, one and the same thing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people referred to in this verse have dull of hearing and closed eyes, which signifies their sluggishness and imperfect understanding. Their continued resistance to hearing, seeing, understanding, and being saved has caused their spiritual senses to be sealed shut, like an Oriental punishment. The verse also emphasizes the need for conversion, as they must turn from their evil ways towards God. This hardening of heart is symbolized by becoming callous or even experiencing fatty degeneration. However, despite their obstinacy, God's healing and forgiveness are available to those who recognize their need for it and are dissatisfied with themselves.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.5026781298958365,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                32.42,
+                21.77,
+                45.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people described in this passage are said to have dull of hearing and closed eyes, indicating their sluggishness and imperfect understanding. By continuing in their resistance to hearing, seeing, understanding, and being saved, they seal off their spiritual senses like an Oriental punishment. Yet there is hope for them to be healed and forgiven if they turn away from their obstinacy and towards God. This requires a recognition of their own dissatisfaction and a willingness to seek His restoration.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.4901685522076877,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.89,
+            "commentatorTierSimilarities": [
+                31.7,
+                22.34,
+                45.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The individuals being referred to have dull of hearing and closed eyes, indicating their sluggishness and imperfect understanding. Their continual persistence in not hearing, seeing, understanding, and being saved has led to their spiritual senses being sealed shut, akin to a punishment. However, there is hope for them if they choose to turn away from their obstinacy and towards God. This requires them recognizing their own dissatisfaction and being open to seeking healing and forgiveness from Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5605385242978573,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                30.66,
+                24.32,
+                45.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people characterized in this verse are described as having dull of hearing, meaning that they exhibit sluggishness and imperfect understanding. Their actions of closing their eyes signify their resistance to hearing, seeing, understanding, and being saved. The verse underscores the need for conversion, as they must turn away from their stubbornness toward God. Their hearts have become hardened and calloused, preventing them from fully grasping truth. Despite their resistance, healing and forgiveness are available to those who acknowledge their dissatisfaction with themselves and seek God's restoration.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.523799719879248,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                29.34,
+                26.91,
+                43.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people described exhibit sluggishness and imperfect understanding, with their closed eyes symbolizing their resistance to hearing, seeing, understanding, and being saved. Conversion is necessary, as they must turn away from their stubbornness and towards God. Their hearts have become hardened, preventing them from fully comprehending truth. However, healing and forgiveness are available to those who acknowledge their dissatisfaction and seek God's restoration.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5217664200536392,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                28.66,
+                24.11,
+                47.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

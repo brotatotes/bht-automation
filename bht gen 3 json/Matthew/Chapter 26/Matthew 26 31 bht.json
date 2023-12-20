@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 23:53:27",
+    "verseRef": "Matthew 26:31",
+    "bestBHT": {
+        "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
+        "wordCount": 74,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 1.2647259132709219,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.4,
+        "commentatorTierSimilarities": [
+            24.28,
+            37.9,
+            37.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All (emphatic) ye seems to be used as distinguishing those present from the one, who had me out.\" ",
+            "But, on the contrary, if we examine Zech. xi. xii. xiii, we must I think come to the conclusion that the shepherd spoken of xi. 7\u201314, who is rejected and sold, who is said to have been pierced (xii. 10), is also spoken of in ch. xiii. 7.",
+            "Stier has gone at length into the meaning of the whole prophecy, and especially that of the word \u2018my fellow,\u2019 and shewn that the reference can be to no other than the Messiah."
+        ],
+        "John Calvin": [
+            "What Matthew and Mark extend to all the disciples alike is related by Luke as having been spoken to Peter only.",
+            "But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man.",
+            "He [Peter] needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair."
+        ],
+        "Philip Schaff": [
+            "Shall be offended; 'made to stumble,' 'fall away.'",
+            "In me, i.e., His betrayal and sufferings, this night, would be made by them an occasion of stumbling, a snare; they would forsake and deny Him.",
+            "And the sheep of the flock; the Apostles, but with a wider reference also to the Jewish people."
+        ],
+        "John Gill": [
+            "They would be so shocked with this sad disappointment, and so offended, or stumble, as to be ready to fall from him.",
+            "Because of his low estate, his being seized and bound, and led away by his enemies.",
+            "The sufferings of Christ, which are meant by the smiting him, were according, not only to the determinate counsel and foreknowledge of God, the will of his good pleasure, but according to his will of command."
+        ],
+        "John Wesley": [
+            "All ye will be offended at me \u2014 Something will happen to me, which will occasion your falling into sin by forsaking me. Zechariah 13:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 1.2827706699964572,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.0,
+            "commentatorTierSimilarities": [
+                25.39,
+                34.77,
+                39.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.404773513821719,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "commentatorTierSimilarities": [
+                27.17,
+                34.7,
+                38.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.2647259132709219,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.4,
+            "commentatorTierSimilarities": [
+                24.28,
+                37.9,
+                37.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.227534472902629,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "commentatorTierSimilarities": [
+                20.07,
+                37.51,
+                42.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.227534472902629,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "commentatorTierSimilarities": [
+                20.07,
+                37.51,
+                42.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

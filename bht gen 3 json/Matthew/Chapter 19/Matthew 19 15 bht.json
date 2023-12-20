@@ -1,0 +1,108 @@
+{
+    "timestamp": "12-19-2023 23:49:35",
+    "verseRef": "Matthew 19:15",
+    "bestBHT": {
+        "bht": "Jesus displayed His deep affection for children by tenderly placing His hands on them and pronouncing a blessing upon them. This act of blessing was a heartfelt way for Jesus to convey His desire for their prosperity and well-being. In Mark's account, we see that Jesus not only blessed them but sought a blessing for them as well. Jesus' departure from that place, accompanied by His disciples, signifies His continued journey towards Jerusalem. This beautiful interaction emphasizes the compassionate nature of Jesus and underlines the significance of acknowledging and bestowing blessings upon the younger generation.",
+        "wordCount": 97,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.8796647860368016,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+        "commentatorTierSimilarities": [
+            0.0,
+            57.11,
+            42.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He laid his hands on them - Mark says he blessed them. That is, he pronounced or sought a blessing on them."
+        ],
+        "John Gill": [
+            "And he laid his hands on them... and blessed them, as Mark says; he put his hands upon them, according to the custom of the country, and wished all kind of prosperity to them.",
+            "And departed thence, out of the house where he had been, and his disciples with him: the Ethiopic version renders it, 'and they went from thence', from those parts, towards Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus demonstrated his tender love and care for children by laying his hands on them and blessing them. This act of blessing was a way for Jesus to pronounce or seek a blessing on them, showing His desire for their well-being and prosperity. After this encounter, Jesus departed from the place, continuing His journey with His disciples. This passage highlights Jesus' compassion for children and reinforces the importance of valuing and blessing the younger generation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.727291327529773,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.81,
+                47.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus displayed His deep affection for children by tenderly placing His hands on them and pronouncing a blessing upon them. This act of blessing was a heartfelt way for Jesus to convey His desire for their prosperity and well-being. In Mark's account, we see that Jesus not only blessed them but sought a blessing for them as well. Jesus' departure from that place, accompanied by His disciples, signifies His continued journey towards Jerusalem. This beautiful interaction emphasizes the compassionate nature of Jesus and underlines the significance of acknowledging and bestowing blessings upon the younger generation.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8796647860368016,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                0.0,
+                57.11,
+                42.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus lovingly laid His hands on the children, seeking to bless and pronounce prosperity upon them. Mark also attests that Jesus sought a blessing for them. This act demonstrated Jesus' tender care and concern for the younger generation. Afterward, Jesus and His disciples departed from that place, continuing their journey. This passage reveals Jesus' deep compassion for children and reiterates the importance of valuing and bestowing blessings upon them.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6337989069637429,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.4,
+                44.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus compassionately laid His hands on the children, pronouncing blessings and seeking prosperity for them. According to Mark, he also sought a blessing upon them. Jesus' gesture exemplifies His tender care for the young generation. After this encounter, Jesus and His disciples departed from there, continuing their journey. This account highlights Jesus' deep love for children and emphasizes the significance of valuing and bestowing blessings upon them.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.7527829077839086,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.53,
+                41.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, showing His love and care for the children, laid His hands on them, seeking to bless and pronounce prosperity upon them. This act highlights His deep compassion for the younger generation. Mark also affirms that Jesus sought a blessing for the children. After this, Jesus and His disciples departed from that place. This passage underscores the importance of recognizing and valuing children and the significance of pronouncing blessings upon them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.4642536011831686,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.72,
+                43.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

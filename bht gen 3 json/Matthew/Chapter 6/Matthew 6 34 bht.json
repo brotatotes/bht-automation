@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:44:32",
+    "verseRef": "Matthew 6:34",
+    "bestBHT": {
+        "bht": "Do not be consumed with anxious care for the future, as each day already has its own troubles to face. It is futile to borrow troubles from the morrow, for the ghost of tomorrow brings doubt and distrust. Instead, seek first the kingdom of God and approach each day with a desire and aim for heaven. By doing so, we can find assurance that all our needs will be met, as God, our Father, will befriend us in all circumstances.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.5872838429337222,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+        "commentatorTierSimilarities": [
+            34.65,
+            39.55,
+            25.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Take therefore no thought\u2014anxious care.",
+            "Sufficient unto the day is the evil thereof\u2014An admirable practical maxim.",
+            "Every day brings its own cares; and to anticipate is only to double them."
+        ],
+        "Albert Barnes": [
+            "How strange that any man can live, and not pour out his desires to God! How strange that anyone is willing to go to eternity with this sad reflection: 'I have gone through this world, spent my probation, wasted my strength, and am dying, and have never prayed!'",
+            "Forgiveness is essential in prayer. If we come to God harboring malice and unwilling to forgive, we have his solemn assurance that we shall not be ourselves forgiven.",
+            "From all this, how manifest is the propriety of seeking first the kingdom of God! First in our affections, first in the objects of pursuit, first in the feelings and associations of each morning, be the desire and the aim for heaven. Having this, we have assurance of all that we need. God, 'our' Father, will then befriend us, and in life and death all will be well."
+        ],
+        "Philip Schaff": [
+            "The morrow is here personified.",
+            "For the morrow will be anxious for itself. Not 'take care of itself,' but 'bring its own cares and anxieties,' do not foolishly increase those of today by borrowing from the morrow.",
+            "Sufficient unto the day, or for the day, is the evil thereof. 'Evil' may mean natural or moral evil, suffering, or sin. The latter sense is the more usual one, the former suits the context better."
+        ],
+        "Archibald T. Robertson": [
+            "The last resort of the anxious soul when all other fears are allayed.",
+            "The ghost of tomorrow stalks out with all its hobgoblins of doubt and distrust."
+        ],
+        "John Gill": [
+            "Do not distress thyself with tomorrow's affliction, for thou knowest not what a day may bring forth.",
+            "The morrow shall take thought for the things of itself.",
+            "Sufficient for distress, or vexation, is the present time."
+        ],
+        "John Wesley": [
+            "The morrow shall take thought for itself.\" ",
+            "But all trouble is, upon the whole, a real good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be consumed with anxious care for the future, for each day already has its own troubles to face. There is no need to anticipate the uncertainties and fears of tomorrow, as doing so only multiplies our worries. It is important to approach each day with faith and surrender to God, seeking first His kingdom and finding assurance in His provision. By focusing on the present and entrusting our concerns to Him, we can find peace and rest in the knowledge that our Heavenly Father cares for us deeply.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.5011225955629988,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                35.04,
+                39.85,
+                25.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not distress yourself with tomorrow's affliction, for each day brings its own cares and anxieties. It is futile to borrow troubles from the future and allow the ghost of tomorrow to haunt our thoughts. Instead, focus on the present and seek first the kingdom of God. By doing so, we find assurance that all our needs will be met and that our Heavenly Father will be our unfailing source of support. Trust in His provision and approach each day with faith, leaving the worries of tomorrow in His capable hands.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.519791226263901,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                36.2,
+                37.03,
+                26.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be consumed with anxious care for the future, for each day already has its own troubles to face. There is no need to anticipate the uncertainties and fears of tomorrow, as doing so only multiplies our worries. It is important to approach each day with faith and surrender to God, seeking first His kingdom and finding assurance in His provision. By focusing on the present and entrusting our concerns to Him, we can find peace and rest in the knowledge that our Heavenly Father cares for us deeply.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.5011225955629988,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                35.04,
+                39.85,
+                25.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be consumed with anxious care for the future, as each day already has its own troubles to face. It is futile to borrow troubles from the morrow, for the ghost of tomorrow brings doubt and distrust. Instead, seek first the kingdom of God and approach each day with a desire and aim for heaven. By doing so, we can find assurance that all our needs will be met, as God, our Father, will befriend us in all circumstances.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.5872838429337222,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                34.65,
+                39.55,
+                25.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not let anxious thoughts consume you, for each day has enough troubles of its own. It is futile to worry about the uncertainties of tomorrow, as they only magnify the concerns of today. Trust that God, our Father, will provide and take care of our needs when we prioritize seeking His kingdom. Pour out your desires to Him, seek His forgiveness, and make Him the focal point of each day. The future may bring its own challenges, but it is unnecessary to borrow from tomorrow's anxieties. Instead, focus on the present, for the trials and tribulations we encounter in the here and now are sufficient.",
+            "wordCount": 107,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 1.4542846887581602,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.7,
+            "commentatorTierSimilarities": [
+                32.39,
+                37.4,
+                30.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

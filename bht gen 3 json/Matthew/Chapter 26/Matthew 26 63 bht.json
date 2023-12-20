@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:53:46",
+    "verseRef": "Matthew 26:63",
+    "bestBHT": {
+        "bht": "When faced with Caiaphas' question regarding His divinity as the Son of God, Jesus chose not to engage in the high priest's deceit. By answering under oath, Jesus made it clear that His intention was not to forbid oaths in court but to discourage blasphemy. His response, while leading to His eventual condemnation, served as a profound testimony to His divine nature, reinforcing His claim and exposing the hypocrisy of those who accused Him.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.9632413021344992,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+        "commentatorTierSimilarities": [
+            33.06,
+            27.4,
+            39.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The junction of the Son of God with the Christ must not be pressed beyond the meaning which Caiaphas probably assigned to it.\" ",
+            "It is however a very different thing when our Lord by His answer affirms this, and invests the words with their fullest meaning and dignity."
+        ],
+        "Marvin Vincent": [
+            "I adjure thee. I call upon thee to swear. The high - priest put Christ upon oath. ",
+            "That [\u03b9\u03bd\u03b1] . In order that; signifying the design with which he adjured the Lord."
+        ],
+        "John Calvin": [
+            "Having already determined to put Christ to death, they are satisfied with this pretense of sacrilege, that he claimed for himself the glory of Divinity.",
+            "From the words of Caiaphas we may infer, that it was at that time common among the Jews to bestow on the Messiah the title of the Son of God.",
+            "Such is also his reason for using the word Blessed, which Mark gives instead of God; for this pretended reverence for God was intended to bring a heavier charge against Christ than that of profaning the holy name of God."
+        ],
+        "Philip Schaff": [
+            "His silence led to their greater judgment and self-condemnation.",
+            "They merely offered the alternative of a conviction as a blasphemer or an impostor.",
+            "'Of all the testimonies in favor of the divinity of Christ, this is the most clear and definite.'"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus refused to answer the bluster of Caiaphas.\" ",
+            "Jesus did not refuse to answer under solemn oath, clearly showing that he was not thinking of oaths in courts of justice when he prohibited profanity.\" ",
+            "So Jesus answered knowing full well the use that would be made of his confession and claim."
+        ],
+        "John Gill": [
+            "To be silent in a court of judicature, Apollonius Tyanaeus says, is the fourth virtue; this Christ had, and all others.",
+            "Jesus was given out to be the Messiah, and his disciples believed him to be the Son of God, and he had affirmed himself to be so; wherefore the high priest, exerting his priestly power and authority, puts him upon his oath.",
+            "Or at least with an oath made by the living God, charges him to tell the truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Caiaphas questioned Jesus about whether He was the Son of God, Jesus did not respond directly to the accusation, but instead answered with a statement that affirmed His divinity. By refusing to indulge in Caiaphas' bluff and choosing to remain silent under oath, Jesus demonstrated that He was not forbidding oaths in courts of justice, but rather prohibiting profanity. This response ultimately led to the condemnation of Jesus by the Jewish leaders, who saw His claim as blasphemous. However, this interaction serves as a clear and powerful testimony to the divine nature of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8475716991346842,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                33.97,
+                27.08,
+                38.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When challenged by Caiaphas about His identity as the Son of God, Jesus tactfully avoided engaging in the high priest's deception. By responding under oath, Jesus showed that He did not intend to ban oaths in courts of justice, but rather to discourage profanity. Although His refusal to directly answer Caiaphas ultimately led to His condemnation, it served as a powerful testimony to His divinity, solidifying His claim and exposing the hypocrisy of those who sought to accuse Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8829279805873398,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                34.96,
+                25.0,
+                40.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with Caiaphas' question regarding His divinity as the Son of God, Jesus chose not to engage in the high priest's deceit. By answering under oath, Jesus made it clear that His intention was not to forbid oaths in court but to discourage blasphemy. His response, while leading to His eventual condemnation, served as a profound testimony to His divine nature, reinforcing His claim and exposing the hypocrisy of those who accused Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9632413021344992,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+            "commentatorTierSimilarities": [
+                33.06,
+                27.4,
+                39.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus demonstrated wisdom by refusing to be drawn into Caiaphas' deception when questioned about being the Son of God. By responding under oath, He clarified that His intentions were not to prohibit oaths in courts, but to discourage profanity. This powerful response solidified His claim of divinity and revealed the hypocrisy of those who accused Him. Although it led to His condemnation, Jesus' refusal to answer directly served as a clear testimony to His divine nature and purpose.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8552068227584582,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                33.98,
+                28.76,
+                37.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When faced with Caiaphas' inquiry on whether He was the Son of God, Jesus tactfully avoided falling into the high priest's trap. Responding under oath, Jesus made it evident that He did not mean to prohibit oaths in courts, but rather to discourage profanity. Although His refusal to directly address Caiaphas played a role in His condemnation, His response served as a powerful testament to His divine nature and exposed the hypocrisy of His accusers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8340500944585312,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                36.44,
+                23.01,
+                40.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

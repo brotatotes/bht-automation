@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:47:09",
+    "verseRef": "Matthew 12:28",
+    "bestBHT": {
+        "bht": "The power of casting out demons is a clear proof of Christ's divinity and the arrival of the kingdom of God. It is by the Spirit of God that Jesus performs these miracles, catching the people off guard. This unexpected manifestation of power serves as a reminder of their ingratitude in rejecting such a priceless gift from God. By using miracles, especially the expelling of demons, Jesus weakens the kingdom of Satan, providing undeniable evidence of his authority.",
+        "wordCount": 79,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.6122922285956334,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+        "commentatorTierSimilarities": [
+            18.17,
+            40.51,
+            41.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'By the Spirit of God,' equivalent to 'by the finger of God,' Luke; see Exod. viii. 9.",
+            "'Has come unto (upon) you,' not 'is already upon you,' i.e. 'before you looked for it,'\u2014as Stier and Wesley."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The former tells us the living Personal Agent was made use of by the Lord Jesus in every exercise of that power.",
+            "No doubt.",
+            "If this expulsion of Satan is, and can be, by no other than the Spirit of God, then is his Destroyer already in the midst of you, and that kingdom which is destined to supplant his is already rising on its ruins."
+        ],
+        "Marvin Vincent": [
+            "It has come upon you before you expected it.",
+            "The verb is used in the simple sense to arrive at.",
+            "Here with a suggestion of the latter sense, which is also conveyed by the Rev., 'come upon.'"
+        ],
+        "John Calvin": [
+            "And this mode of expression was common among the Jews, as Moses relates that Pharaoh\u2019s magicians said, 'This is the finger of God.'\" (25 words)",
+            "He does not confine himself to a single miracle, but takes occasion from it to discourse on the object of his coming, reminds them that they ought not merely to look at one remarkable fact, but at a far more important truth...\" (39 words)",
+            "Thus we see that Christ complains of their ingratitude, in madly rejecting from the midst of them the inestimable grace of God.\" (22 words)"
+        ],
+        "Philip Schaff": [
+            "By the Spirit of God, i.e., in union with the Spirit of God. The contrast with 'Beelzebub' points to a 'Person,' not an influence.",
+            "Then the kingdom of God is come upon you. 'The kingdom you profess to be waiting for, has come upon you suddenly, before you expected it, in spite of your opposition to me.'",
+            "An assertion, that His power was not only Divine, but sufficient to prove Him the expected Messiah."
+        ],
+        "John Gill": [
+            "As it was certain he did, from the nature, use, and design of such miracles...",
+            "...it could not be reasonably thought, that Satan would assist in what was so very opposite to his kingdom and interest...",
+            "...the performing of miracles, particularly the casting out of devils, whereby the kingdom of Satan was so much weakened, was a clear proof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power of Jesus to cast out demons is undeniable, as it is by the Spirit of God that he performs these miraculous acts. This power has come upon the people unexpectedly, before they had even anticipated it. It is clear that Jesus' power comes from a living Personal Agent, and through these miracles, the kingdom of God is revealed. This demonstrates not only the divinity of Jesus, but also the arrival of the long-awaited kingdom. It is a reminder to the people of their ingratitude in rejecting this incredible grace that God has bestowed upon them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5973105893691577,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+            "commentatorTierSimilarities": [
+                22.14,
+                40.41,
+                37.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The power of casting out demons is a clear proof of Christ's divinity and the arrival of the kingdom of God. It is by the Spirit of God that Jesus performs these miracles, catching the people off guard. This unexpected manifestation of power serves as a reminder of their ingratitude in rejecting such a priceless gift from God. By using miracles, especially the expelling of demons, Jesus weakens the kingdom of Satan, providing undeniable evidence of his authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6122922285956334,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                18.17,
+                40.51,
+                41.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power demonstrated by Jesus in casting out demons serves as undeniable evidence of his divinity. Through this supernatural act, it becomes clear that the Spirit of God is working through him. The arrival of this power surprises the people, occurring before they anticipated it. By performing such miracles, Jesus weakens the kingdom of Satan and establishes the imminent reign of God's kingdom. Thus, his ability to expel demons stands as a clear proof of his authority and the fulfillment of God's promise.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.587743403560859,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                22.73,
+                42.49,
+                34.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power demonstrated by Jesus in casting out demons serves as undeniable evidence of his divinity. Through this supernatural act, it becomes clear that the Spirit of God is working through him. The arrival of this power surprises the people, occurring before they anticipated it. By performing such miracles, Jesus weakens the kingdom of Satan and establishes the imminent reign of God's kingdom. Thus, his ability to expel demons stands as a clear proof of his authority and the fulfillment of God's promise.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.587743403560859,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                22.73,
+                42.49,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power displayed by Jesus in casting out demons is a clear proof of his divinity. These miracles, performed by the Spirit of God, come upon the people unexpectedly, before they had anticipated it. By expelling demons, Jesus weakens the kingdom of Satan and establishes the imminent arrival of God's kingdom. This act serves as undeniable evidence of Jesus' authority and the fulfillment of God's promise. Through these miracles, Jesus reminds the people of their ingratitude in rejecting the incredible grace of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5777310473137345,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "commentatorTierSimilarities": [
+                21.24,
+                41.09,
+                37.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

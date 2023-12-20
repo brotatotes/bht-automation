@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 23:48:11",
+    "verseRef": "Matthew 14:2",
+    "bestBHT": {
+        "bht": "Haunted by guilt and fear, Herod was shaken by the news of John the Baptist's death. In the king's superstitious mind, the murdered prophet returned to life, appearing in the person of Jesus, as visions of John's severed head tormented his conscience. Herod believed that Jesus possessed supernatural powers, surpassing those of John, acquired through bodily resurrection. Filled with a mixture of fear and condescending curiosity, Herod longed to see Jesus, but his flawed perception hindered him from grasping Christ's true identity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.19272529994762,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.25,
+        "commentatorTierSimilarities": [
+            31.73,
+            37.36,
+            30.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he himself is emphatic; equivalent in English to 'it is he and no other, that'\" (Quote 2)",
+            "There is no evidence that Herod was a Sadducee, or a disbeliever in the resurrection as then held by the Pharisees.\" (Quote 2)",
+            "There is no allusion here to the transmigration of souls, but to the veritable bodily resurrection, and supposed greater power acquired by having passed through death.\" (Quote 2)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The murdered prophet haunted his guilty breast like a specter and seemed to him alive again and clothed with unearthly powers in the person of Jesus.",
+            "HEARING OF THE BAPTIST'S DEATH, JESUS CROSSES THE LAKE WITH TWELVE, AND MIRACULOUSLY FEEDS FIVE THOUSAND.",
+            "JESUS CROSSES TO THE WESTERN SIDE OF THE LAKE WALKING ON THE SEA\u2014INCIDENTS ON LANDING."
+        ],
+        "Albert Barnes": [
+            "Herod feared John. His conscience smote him for his crimes.",
+            "He knew him to be a distinguished prophet.",
+            "The alarm in his court, it seems, was general. Herod\u2019s conscience told him that this was John."
+        ],
+        "John Calvin": [
+            "It was astonishing that, amidst the diversity of views which were suggested, the true interpretation did not occur to any one; more especially as the state of matters at that very time directed them to Christ.",
+            "They are compelled to acknowledge that some divine power belongs to him, and yet they fall into their own fancies, and change him into the persons of other men. It is thus that the world is wont, in base ingratitude, to obliterate the remembrance of the favors which God has bestowed.",
+            "With such blind terrors God frequently alarms wicked men; so that, after all the pains they take to harden themselves, and to escape agitation, their internal executioner gives them no rest, but chastises them with severity."
+        ],
+        "Philip Schaff": [
+            "This does not imply a belief in the transmigration of souls, nor prove that Herod was a Sadducee... it is the perplexed and terrified utterance of a guilty conscience.",
+            "John had wrought no miracle, but Herod supposed that the rising from the dead had resulted in higher powers.",
+            "Herod\u2019s desire to see our Lord was at best a patronizing condescension to the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "The powers of the invisible world, vast and vague in the king's imagination.",
+            "A guilty conscience quickened his fears. Possibly he could see again the head of John on a charger.",
+            "There were many conjectures about Jesus as a result of this tour of Galilee and Herod Antipas feared this one."
+        ],
+        "John Gill": [
+            "The guilt of which action rose in his mind, lay heavy on him, and filled him with horror and a thousand fears.",
+            "Who now fears, what before he did not believe; and what he fears, he affirms.",
+            "These miracles which were wrought by him, were convincing proofs of the truth of his resurrection, and of what he was able to do to him, and what he might righteously expect from him."
+        ],
+        "John Wesley": [
+            "He is risen from the dead \u2014 Herod was a Sadducee: and the Sadducees denied the resurrection of the dead. But Sadduceeism staggers when conscience awakes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod, upon hearing the news of John the Baptist's death, became plagued by guilt and fear. The haunting image of the murdered prophet seemed to come alive in the person of Jesus, and Herod's guilty conscience conjured up images of John's head on a charger. Herod's superstitious mind led him to believe that Jesus possessed supernatural powers, even greater than those of John, which were acquired through the bodily resurrection. The perplexed king's desire to see Jesus was motivated by a mixture of fear and condescending curiosity. Ultimately, Herod's guilty conscience and fear caused him to attribute divine power to Jesus while remaining blind to the true interpretation and recognition of Christ's identity.",
+            "wordCount": 120,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 2.173038681015327,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+            "commentatorTierSimilarities": [
+                32.08,
+                36.95,
+                30.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod, haunted by the guilt of John the Baptist's murder, was filled with fear upon hearing of Jesus. The guilty king believed that Jesus, by some divine power obtained through bodily resurrection, embodied the prophetic powers of John. In a mixture of fear and condescending curiosity, Herod desired to see Jesus. However, his perplexed mind failed to recognize Jesus's true identity, leading him to attribute supernatural abilities to Him while keeping him blind to the truth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.099886812696167,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
+            "commentatorTierSimilarities": [
+                31.75,
+                37.06,
+                31.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Herod's guilty conscience and fear were stirred by the news of John the Baptist's death. The murdered prophet seemed to come alive in the person of Jesus, causing Herod to have visions of John's head on a charger. In his superstitious mind, Herod believed that Jesus possessed supernatural powers, even greater than those of John, acquired through bodily resurrection. This mixture of fear and condescending curiosity led Herod to desire to see Jesus, although he failed to grasp the true interpretation of Christ's identity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.177718241216489,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+            "commentatorTierSimilarities": [
+                32.48,
+                38.12,
+                29.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Herod's guilty conscience and fear were stirred by the news of John the Baptist's death. The murdered prophet seemed to come alive in the person of Jesus, causing Herod to have visions of John's head on a charger. In his superstitious mind, Herod believed that Jesus possessed supernatural powers, even greater than those of John, acquired through bodily resurrection. This mixture of fear and condescending curiosity led Herod to desire to see Jesus but failed to grasp the true interpretation of Christ's identity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.1684483421142158,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                32.65,
+                38.15,
+                29.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Haunted by guilt and fear, Herod was shaken by the news of John the Baptist's death. In the king's superstitious mind, the murdered prophet returned to life, appearing in the person of Jesus, as visions of John's severed head tormented his conscience. Herod believed that Jesus possessed supernatural powers, surpassing those of John, acquired through bodily resurrection. Filled with a mixture of fear and condescending curiosity, Herod longed to see Jesus, but his flawed perception hindered him from grasping Christ's true identity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.19272529994762,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.25,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.36,
+                30.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

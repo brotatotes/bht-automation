@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 23:45:41",
+    "verseRef": "Matthew 9:29",
+    "bestBHT": {
+        "bht": "By touching their eyes, Jesus demonstrated the divine power that healed them and affirmed their faith. He didn't speak a direct word of power, but rather granted their request as a measure of their faith. Through this physical contact, their restored vision became a seal of the faith that drew it from the compassionate Lord. This interaction between faith and healing emphasizes the importance of our own faith in receiving God's blessings. Faith serves as the conduit that connects our emptiness with God's fullness, enabling us to receive all that He offers.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 2.2467642583643825,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.05,
+        "commentatorTierSimilarities": [
+            37.69,
+            33.67,
+            28.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Touching, or anointing the eyes, was the ordinary method which our Lord took of impressing on the blind the action of the divine power which healed them.\" ",
+            "No direct word of power passes from our Lord, but a relative concession, making that which was done a measure of the faith of the blind men.",
+            "We may already notice, in the history of this first period of our Lord\u2019s ministry, that, from having at first yielded immediately to the request for healing, He begins, by degrees, to prove and exercise the faith of the applicants."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "According to your faith be it unto you\u2014not, Receive a cure proportioned to your faith, but, Receive this cure as granted to your faith.",
+            "Thus would they carry about with them, in their restored vision, a gracious seal of the faith which drew it from their compassionate Lord.",
+            "Receive this cure as granted to your faith."
+        ],
+        "Albert Barnes": [
+            "Then touched he their eyes - Simply to indicate that the power proceeded from him.\" ",
+            "According to your faith ... - That is, you have 'believed' that you could be healed, be healed accordingly.\" ",
+            "So with the sinner. If he has faith in the Son of God; if he believes that he is able and willing to save him: and if he earnestly desires to be saved, the power of Jesus will be put forth to the full extent of his faith."
+        ],
+        "John Calvin": [
+            "If we pray in faith, we will never sustain a refusal in our prayers.",
+            "But if those two men, whose faith was small and imperfectly formed, obtained what they wished, much more efficacious will now be the faith of those who, endued with the Spirit of adoption, and relying on the sacrifice of Christ, shall approach to God."
+        ],
+        "Philip Schaff": [
+            "Faith is the hand which takes what God offers, the spiritual organ of appropriation, the conducting link between emptiness and God\u2019s fullness.",
+            "According to your faith, etc.",
+            "Faith is the conducting link between emptiness and God\u2019s fullness."
+        ],
+        "Archibald T. Robertson": [
+            "Touched their eyes (\u03b7\u03c8\u03b1\u03c4\u03bf \u03c4\u03c9\u03bd \u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03c9\u03bd). The men had faith (Matthew 9:28) and Jesus rewards their faith and yet he touched their eyes as he sometimes did with kindly sympathy. "
+        ],
+        "John Gill": [
+            "Not but that he could have restored sight to them, without touching their eyes, by a word speaking, or by the secret communication of his power.",
+            "He might do this as a sign of his favour and kindness to them, and of his will to cure them; as also in compliance with their weakness, who might expect some manual operation upon them.",
+            "As they had believed he was able to heal them, accordingly a cure should be effected; which, upon his so saying, they immediately found performed in them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By touching their eyes, Jesus not only demonstrated His divine power and compassion, but also affirmed the faith of the blind men. This act of touch served as a means of impressing upon them the action of God's healing power. Jesus did not directly speak a word of power; rather, He granted their request for healing based on the measure of their faith. This emphasizes that the cure they received was a result of their belief. Through this physical contact, their restored vision became a gracious seal of their faith in the compassionate Lord. This interaction between faith and healing highlights the significance of our own faith in receiving God's abundant blessings and miracles. Faith, in its capacity to connect our emptiness with God's fullness, serves as the conduit through which we may appropriate all that God offers.",
+            "wordCount": 141,
+            "quoteTokenProportion": 39.56,
+            "qualityScore": 2.1262932261596488,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                39.63,
+                31.12,
+                29.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By touching their eyes, Jesus demonstrated the divine power that healed them and affirmed their faith. He didn't speak a direct word of power, but rather granted their request as a measure of their faith. Through this physical contact, their restored vision became a seal of the faith that drew it from the compassionate Lord. This interaction between faith and healing emphasizes the importance of our own faith in receiving God's blessings. Faith serves as the conduit that connects our emptiness with God's fullness, enabling us to receive all that He offers.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.2467642583643825,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.05,
+            "commentatorTierSimilarities": [
+                37.69,
+                33.67,
+                28.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By touching their eyes, Jesus impressed upon the blind the action of the divine power that healed them. He didn't speak a direct word of power, but granted their request as a measure of their faith. This physical contact served as a gracious seal of the faith that drew the cure from the compassionate Lord. Through this interaction, we are reminded that our faith is the conduit between our emptiness and God's fullness, allowing us to receive the abundant blessings and miracles that He has in store for us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1814840530477944,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                40.6,
+                30.05,
+                29.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in touching the eyes of the blind men, not only displayed His divine power, but also affirmed the role of faith in their healing. His touch was a means of impressing upon them the action of God's power. By granting their request for healing, Jesus authenticated the measure of their faith and bestowed upon them a tangible manifestation of their belief. This interaction between faith and healing emphasizes the importance of our own faith in receiving the blessings and miracles that God has in store for us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.2221131456590366,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+            "commentatorTierSimilarities": [
+                38.72,
+                31.23,
+                30.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus touched the blind men's eyes, He not only demonstrated His divine power in healing them but also affirmed the significance of their faith. Their restored vision became a seal, bearing witness to the faith that prompted their healing. Through this physical contact, Jesus granted their request based on the measure of their belief. This interaction underscores the vital role of faith in receiving God's abundant blessings and highlights that our faith serves as the conduit connecting our emptiness to His fullness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.1262268034668845,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                40.47,
+                31.39,
+                28.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

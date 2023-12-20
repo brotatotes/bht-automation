@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 23:50:42",
+    "verseRef": "Matthew 20:31",
+    "bestBHT": {
+        "bht": "The blind men cried out, Son of David, have mercy on us! The multitude attempted to silence them, perhaps fearing annoyance to Jesus. Yet, the blind men persevered with persistent faith, crying out even louder. It's surprising that disciples of Christ would try to drive these wretched men away, hindering their approach. However, we must learn from the blind men's example and persistently cry out to Jesus, the Son of David, for our faithfulness will lead to the cure we seek.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.69727088464384,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+        "commentatorTierSimilarities": [
+            34.29,
+            37.09,
+            28.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The multitude appear to have silenced them, lest they should be wearisome and annoying to our Lord.",
+            "I have before noticed (on ch. ix. 27) the singular occurrence of these words, \u2018Son of David,\u2019 in the three narratives of healing the blind in this Gospel.",
+            "The multitudes could have no reason for repressing this cry, seeing that they themselves (being probably for the most part the same persons who entered Jerusalem with Jesus) raised it very soon after: see ch. xxi. 9."
+        ],
+        "John Calvin": [
+            "It is surprising that the disciples of Christ...should wish to drive wretched men from the favor of Christ.\" ",
+            "It frequently happens that the greater part of those who profess the name of Christ...rather hinder or delay our approach.",
+            "Perseverance is therefore necessary to overcome every difficulty, and the more numerous the obstacles are...the more powerfully ought we to be excited to earnestness in prayer."
+        ],
+        "Philip Schaff": [
+            "That they should hold their peace. The multitude did not object to the title, \u2018son of David\u2019 (comp. chap. Matthew 21:9), but thought the cry would annoy our Lord.",
+            "But they cried the more. In persistent faith."
+        ],
+        "John Gill": [
+            "if his friends, they might rebuke them, that they might not be so troublesome to him, and judging it unworthy of him to have anything to do with such mean persons",
+            "if they were his enemies, or not so well affected to him, they might chide them for giving him such high characters, as Lord, and Son of David",
+            "their faith in Jesus, as the Messiah, being more increased, and their desires of his pity and compassion being more enlarged, they grew bolder, and more resolute, as faith often does by opposition, and trials."
+        ],
+        "John Wesley": [
+            "The multitude charged them to hold their peace.",
+            "And so they will all who begin to cry after the Son of David.",
+            "But let those who feel their need of him cry the more; otherwise they will come short of a cure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The blind men cried out, Son of David, have mercy on us! But the multitude tried to silence them, perhaps thinking they would annoy Jesus. Interestingly, the same cry of Son of David had been heard before from blind men in this Gospel. It seems that in this instance, the multitude silenced them out of weariness or annoyance, though they themselves would soon be raising the same cry as they entered Jerusalem. It's surprising that the disciples, who should have known better, would want to drive these wretched men away from Christ. It's a reminder that sometimes those who profess the name of Christ can hinder our approach to Him. But we must persevere in prayer, overcoming every obstacle and growing bolder and more resolute in our faith, just as these blind men did. We should cry out to Jesus, the Son of David, all the more, for our persistent faith will lead to the cure we seek.",
+            "wordCount": 160,
+            "quoteTokenProportion": 48.45,
+            "qualityScore": 1.6860728158846578,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                34.81,
+                35.96,
+                29.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The blind men cried out for Jesus's mercy, addressing Him as the Son of David. However, the multitude silenced them, either to prevent annoyance or weariness to our Lord. It is remarkable that the disciples would wish to distance these wretched men from Christ, hindering their approach. But the blind men persevered in their faith, growing bolder and more resolute. We should learn from their example, as our persistent cries to Jesus, the Son of David, will lead to the cure we seek.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6373723718973652,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+            "commentatorTierSimilarities": [
+                32.37,
+                37.58,
+                30.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blind men cried out to Jesus, calling Him the Son of David, seeking His mercy. Surprisingly, the multitude tried to silence them, possibly considering their cry annoying or wearisome to Jesus. However, these blind men showed persistent faith, crying out even more. It is important to note that those who claim to follow Christ can sometimes hinder our approach to Him. To overcome obstacles, we must persevere in prayer, growing bolder in our faith, and persistently seeking the mercy of Jesus, the Son of David.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6305954242727405,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                33.1,
+                38.52,
+                28.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind men cried out, Son of David, have mercy on us! The multitude tried to silence them, perhaps thinking they would annoy Jesus. These blind men, driven by their faith, cried out even more. It is surprising that disciples of Christ would wish to drive such wretched men away. Sometimes, those who claim the name of Christ hinder our approach. However, perseverance in prayer is necessary to overcome obstacles and grow bolder in faith, crying out to Jesus, the Son of David.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.552468331520447,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                31.44,
+                37.95,
+                30.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blind men cried out, Son of David, have mercy on us! The multitude attempted to silence them, perhaps fearing annoyance to Jesus. Yet, the blind men persevered with persistent faith, crying out even louder. It's surprising that disciples of Christ would try to drive these wretched men away, hindering their approach. However, we must learn from the blind men's example and persistently cry out to Jesus, the Son of David, for our faithfulness will lead to the cure we seek.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.69727088464384,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                34.29,
+                37.09,
+                28.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

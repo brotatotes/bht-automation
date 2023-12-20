@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 23:54:11",
+    "verseRef": "Matthew 27:22",
+    "bestBHT": {
+        "bht": "The people, driven by their hatred towards Jesus, chose crucifixion as His punishment, while Pilate sought to shift responsibility and hoped they would ask for Jesus. The same ones who hailed Jesus on Palm Sunday now cry for His crucifixion, under the influence of popular clamor and prejudice. However, amidst this injustice, God can overrule even the misguided voice of the people for good, demonstrating His sovereignty over human actions and intentions.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.793306337593844,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+        "commentatorTierSimilarities": [
+            50.26,
+            21.08,
+            28.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "22.] They chose crucifixion as the ordinary Roman punishment for sedition, and because of their hate to Jesus."
+        ],
+        "John Calvin": [
+            "If you have no compassion for the man, pay some regard, at least, to your own honor; for it will be generally thought by foreigners, that he was put to death for a chastisement to you all.",
+            "Even themselves call Jesus the King; meaning, that this title was constantly used, as if it had been his ordinary surname.",
+            "They choose rather to be deprived of the hope of the promised redemption, and to be devoted to perpetual slavery, than to receive the Redeemer, whom God had offered to them."
+        ],
+        "Philip Schaff": [
+            "Let him be crucified...They put the Innocent One in the place of the guilty.\"  ",
+            "Popular movements which do not rest on moral convictions are as shifting as the sand.\"  ",
+            "The 'voice of the people,' when misguided, may be the voice of Satan; yet God overrules even this for good."
+        ],
+        "Archibald T. Robertson": [
+            "They had asked for Barabbas under the tutelage of the Sanhedrin, but Pilate pressed home the problem of Jesus with the dim hope that they might ask for Jesus also.",
+            "But they had learned their lesson. Some of the very people who shouted 'Hosannah' on the Sunday morning of the Triumphal Entry now shout 'Let him be crucified.'",
+            "But all the while Pilate is shirking his own fearful responsibility and trying to hide his own weakness and injustice behind popular clamour and prejudice."
+        ],
+        "John Gill": [
+            "He could not have thought they would have asked the life of so vile a wretch, that had been guilty of such capital crimes, crimes to be abhorred by all men.",
+            "Surely you would not have me put him to death, and that for no other reason but this, because he is called either by himself or others, Christ, or the Messiah, or the king of the Jews!",
+            "Which was a Roman punishment, inflicted on the meanest and worst of men; as wicked servants, thieves, robbers, and cut-throats... a very shameful and ignominious one; yea, an accursed one."
+        ],
+        "John Wesley": [
+            "They all say, Let him be crucified \u2014 The punishment which Barabbas had deserved: and this probably made them think of it.",
+            "But in their malice they forgot with how dangerous a precedent they furnished the Roman governor.",
+            "And indeed within the compass of a few years it turned dreadfully upon themselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Matthew 27:22, the people chose crucifixion as punishment for Jesus due to their hatred towards Him. Pilate, in a feeble attempt to shift the blame, hoped that they would ask for Jesus instead of Barabbas. It is striking to see how quickly the same people who hailed Jesus on Palm Sunday now cry for His crucifixion. Pilate, avoiding his own responsibility, succumbs to the pressure of popular opinion and unjustly condemns Jesus. However, even amidst this grave injustice, God is able to turn the misguided voice of the people for His ultimate good.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8345948845616693,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                51.45,
+                20.86,
+                27.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Choosing crucifixion as the punishment for Jesus, the people demonstrated their hatred towards Him. Pilate hoped they would ask for Jesus, but instead they demanded His crucifixion, showing how fickle and easily swayed popular movements can be. In his attempt to evade responsibility, Pilate succumbs to the pressure of public opinion, acting unjustly. Yet even in this grave injustice, God can use the misguided voice of the people for His ultimate purposes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7897519165121374,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                48.71,
+                24.57,
+                26.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, driven by their hatred towards Jesus, chose crucifixion as His punishment, while Pilate sought to shift responsibility and hoped they would ask for Jesus. The same ones who hailed Jesus on Palm Sunday now cry for His crucifixion, under the influence of popular clamor and prejudice. However, amidst this injustice, God can overrule even the misguided voice of the people for good, demonstrating His sovereignty over human actions and intentions.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.793306337593844,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                50.26,
+                21.08,
+                28.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven by their hate for Jesus, the people chose crucifixion as the punishment, while Pilate sought to shift his responsibility and hoped they would ask for Jesus. People who once shouted Hosannah now cry Let him be crucified. It is concerning to see Pilate hiding behind popular clamor and prejudice, avoiding his own fearful responsibility. However, even in the face of such injustice, God can use the misguided voice of the people for His ultimate purposes.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.782019187778519,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                48.35,
+                23.99,
+                27.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Choosing crucifixion as the punishment for Jesus, the people demonstrated their hatred towards Him. Pilate, in a feeble attempt to shift the blame, hoped that they might ask for Jesus instead of Barabbas. It is striking to see how quickly the same people who hailed Jesus on Palm Sunday now shout for His crucifixion. Pilate, avoiding his own responsibility, succumbs to popular clamor and prejudice. However, even amidst this grave injustice, God overrules the misguided voice of the people for His ultimate good.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.7671627578782994,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                50.28,
+                21.82,
+                27.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

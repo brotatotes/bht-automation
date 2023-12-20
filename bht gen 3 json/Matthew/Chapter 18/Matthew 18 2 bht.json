@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 23:49:18",
+    "verseRef": "Matthew 18:2",
+    "bestBHT": {
+        "bht": "Our Lord placed a child in the midst and took it in His arms, using the child's submission and trustfulness to teach His disciples. This act of Jesus, with the child possibly being in Peter's house, serves as an emblem of humility. Christ conveys His sense of the matter, instructing His disciples that the most humble and least in their own eyes will be the greatest. The child's presence highlights the importance of humility and the futility of seeking greatness through pride.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.6718642283644591,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+        "commentatorTierSimilarities": [
+            33.17,
+            31.04,
+            35.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord first placed the child in the midst, and then took it in His arms.\" ",
+            "Drawing a lesson for His disciples from its ready submission and trustfulness."
+        ],
+        "John Calvin": [
+            "those who desire to obtain greatness by rising above their brethren, will be so far from gaining their object that they do not even deserve to occupy the lowest corner.",
+            "He reasons from contraries, because it is humility alone that exalts us.",
+            "He holds up to them a little child as an emblem of humility."
+        ],
+        "Philip Schaff": [
+            "A little child, probably a little boy. An untrustworthy tradition says it was the martyr Ignatius.",
+            "Set him in the midst of them. He took the child in His arms (Mark).",
+            "The whole transaction would of itself show the child\u2019s 'submission and trustfulness.'"
+        ],
+        "Archibald T. Robertson": [
+            "Called to him (\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). Indirect middle voice aorist participle.",
+            "It may even be Peter's 'little child' (\u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03bd) as it was probably in Peter's house (Mark 9:33).",
+            "In the midst of them (\u03b5\u03bd \u03bc\u03b5\u03c3\u03c9 \u03b1\u03c5\u03c4\u03c9\u03bd). Luke adds (Luke 9:47) 'by his side' (\u03c0\u03b1\u03c1' \u03b5\u03b1\u03c5\u03c4\u03c9). Both are true."
+        ],
+        "John Gill": [
+            "Christ designed, by this emblem, to give them his sense of the question, and convey some proper instruction to the minds of his disciples.",
+            "...had he said no more to them, they might easily have perceived what was his opinion; that he that was but a child, the most humble, and least in his own eyes, would be the greatest.",
+            "...the most humble, and least in his own eyes, would be the greatest."
+        ],
+        "John Wesley": [
+            "Jesus calling to him a little child.",
+            "This is supposed to have been the great Ignatius, whom Trajan, the wise, the good Emperor Trajan, condemned to be cast to the wild beasts at Rome!",
+            "Mark 9:36; Luke 9:47."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord placed a child in the midst and took it in His arms, using the child's ready submission and trustfulness to teach His disciples a lesson. The child's presence may be in Peter's house, as it could be Peter's little child. This act of Jesus is an emblem of humility, demonstrating that those who desire greatness through pride will not succeed. Instead, it is humility alone that exalts us. By using a child as an example, Christ conveys His sense of the matter and instructs His disciples that the most humble and least in their own eyes will be the greatest.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.508235156098897,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                32.89,
+                29.85,
+                37.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord placed a child in the midst and took it in His arms, using the child's submission and trustfulness to teach His disciples. This act of Jesus, with the child possibly being in Peter's house, serves as an emblem of humility. Christ conveys His sense of the matter, instructing His disciples that the most humble and least in their own eyes will be the greatest. The child's presence highlights the importance of humility and the futility of seeking greatness through pride.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6718642283644591,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+            "commentatorTierSimilarities": [
+                33.17,
+                31.04,
+                35.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord first placed a child in the midst, taking it in His arms, as a lesson for His disciples about the child's ready submission and trustfulness. This child represents humility, showing that those who seek greatness through pride will not succeed. By using a child as an example, Christ conveys His perspective, teaching His disciples that the most humble and least in their own eyes will be the greatest. This act of Jesus serves as a reminder of the importance of humility in our pursuit of greatness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.6413396085398833,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                32.29,
+                30.99,
+                36.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord's action of placing a child in the midst and taking it in His arms serves as a valuable lesson for His disciples. Through the child's ready submission and trustfulness, Jesus teaches the virtue of humility. By using a child as an example, Christ conveys his sense of the matter, showing that the most humble and least in their own eyes will be the greatest. This powerful symbol emphasizes the importance of humility in our pursuit of greatness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.589930879961829,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                33.0,
+                31.05,
+                35.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord placed a child in the midst, emphasizing its submission and trustfulness as a lesson for His disciples. This act of Jesus, possibly in Peter's house, serves as an emblem of humility. He conveys the importance of humility, teaching that those who seek greatness through pride will not succeed. By using a child as an example, Christ instills the understanding that the most humble and least in their own eyes will be the greatest. This vivid illustration highlights the value of humility in our pursuit of greatness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.428032101358197,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                31.56,
+                26.05,
+                42.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

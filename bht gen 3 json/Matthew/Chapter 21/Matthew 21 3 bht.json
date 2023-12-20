@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 23:50:44",
+    "verseRef": "Matthew 21:3",
+    "bestBHT": {
+        "bht": "Even the lowliest creatures can serve the Lord, regardless of decorum. The disciples sent to retrieve the animals were likely Peter and John and the term Lord refers to a Master or Ruler, not Christ's divine nature. The Christians boldly claim this word for Christ, as Jesus uses it to refer to Himself. The phrase The Lord hath need of them can be understood as both the master's need and Jesus, the Master's need. This reveals the Lord's omniscience and authority over all things.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.0377404781448605,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+        "commentatorTierSimilarities": [
+            34.5,
+            35.72,
+            29.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The meanest animals might be wanted for the service of the Lord Jehovah.",
+            "And after all, what difference is there as to decorum, if we understand with him 'the Lord' to signify 'the King Messiah?'",
+            "The two disciples were perhaps Peter and John."
+        ],
+        "Albert Barnes": [
+            "The Lord hath need of them - This means no more than the \u2018master\u2019 has need of them.\" ",
+            "The word \u2018Lord\u2019 often means no more than \u2018master\u2019 as opposed to servant.\" ",
+            "The word is sometimes used in the Bible as applied to God, or as a translation of the name Yahweh. Its common use is a mere title of respect given by an inferior to a superior, by a servant to a master, by a disciple to a teacher."
+        ],
+        "Marvin Vincent": [
+            "In the New Testament it is a name for God.",
+            "As applied to Christ, it does not express his divine nature and power.",
+            "Lord is used in the sense of Master or Ruler, or in address, Sir."
+        ],
+        "Philip Schaff": [
+            "The Lord hath need of them. The tone is still royal, whether \u2018the Lord\u2019 here means \u2018Jehovah,\u2019 or simply \u2018the Master.\u2019",
+            "The two meanings coincided in our Lord\u2019s intention, whatever the owner would understand.",
+            "Both Mark and Luke give it in substance."
+        ],
+        "Archibald T. Robertson": [
+            "The word is from \u03ba\u03c5\u03c1\u03bf\u03c2, power or authority. In the LXX it is common in a variety of uses which appear in the N.T.",
+            "This is the only time in Matthew where the words \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 are applied to Jesus except the doubtful passage in Matthew 28:6.",
+            "The Christians boldly claimed the word for Christ as Jesus is here represented as using it with reference to himself."
+        ],
+        "John Gill": [
+            "He that is our Lord, and your Lord, and the Lord of these creatures, and of all things else, wants them for his present service.",
+            "The Lord who had need of them, as soon as he had done with them, would send them back to their proper owners, safe and well.",
+            "A very clear proof is this of the omniscience of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage reveals that even the humblest creatures can be used for the service of the Lord, regardless of decorum. The disciples being sent to fetch the animals may have been Peter and John, and the word Lord here signifies a Master or Ruler, not Christ's divine nature. In this instance, the disciples boldly claim the word Lord for Christ, representing Jesus using it in reference to himself. The phrase The Lord hath need of them can be understood both as the master needing the animals and as Jesus, the Master, needing them. This highlights the royal tone and the twofold meaning in Jesus' intention. Overall, this passage demonstrates the Lord's omniscience and His authority over all things.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.045794130901678,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                35.37,
+                36.22,
+                28.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even the lowliest creatures are valuable for the Lord's service, regardless of what may be considered appropriate. The two disciples sent to fetch the animals were likely Peter and John. The use of Lord here signifies a Master or Ruler, not Christ's divine nature. This term is boldly claimed by the Christians for Christ, representing Jesus using it with reference to Himself. The phrase The Lord hath need of them can be understood as both the master's need and Jesus, the Master's need. This shows the Lord's omniscience and authority over all things.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.9698436434416453,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                34.86,
+                35.15,
+                30.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even the least significant creatures have a role to play in the service of the Lord, regardless of what may be considered appropriate. The disciples sent to retrieve the animals were probably Peter and John. In this context, Lord refers to a Master or Ruler, not indicating Christ's divine nature. The Christians boldly claim this title for Christ, as Jesus is portrayed using it in reference to Himself. The phrase The Lord hath need of them suggests both the master's need and Jesus, the Master's need. This illustrates the Lord's omniscience and authority over all things.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9193919407241244,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                35.35,
+                35.04,
+                29.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even the lowliest creatures can serve the Lord, regardless of decorum. The disciples sent to retrieve the animals were likely Peter and John and the term Lord refers to a Master or Ruler, not Christ's divine nature. The Christians boldly claim this word for Christ, as Jesus uses it to refer to Himself. The phrase The Lord hath need of them can be understood as both the master's need and Jesus, the Master's need. This reveals the Lord's omniscience and authority over all things.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0377404781448605,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                34.5,
+                35.72,
+                29.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The passage highlights the willingness of the Lord to utilize even the most humble creatures for His service, regardless of societal expectations. The disciples mentioned were possibly Peter and John, while the term Lord here represents a Master or Ruler, rather than Christ's divine nature. The Christians assert boldly that this term belongs to Christ, as Jesus Himself used it to refer to Himself. The Lord hath need of them conveys both the master's need and Jesus, the Master's need, underscoring His omniscience and authority.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.044859389137391,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                35.08,
+                35.14,
+                29.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

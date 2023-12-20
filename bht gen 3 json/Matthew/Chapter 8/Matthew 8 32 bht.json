@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 23:45:17",
+    "verseRef": "Matthew 8:32",
+    "bestBHT": {
+        "bht": "The d\u00e6moniac in this account was a man possessed by fallen spirits, highlighting the battle between the cruel spirit and his crushed self. The possession was likely influenced by the indulgence of sensual appetite, linking evil powers to man's sensual soul. The rush of the swine into the lake revealed the power of Jesus over demons. While the destruction of the hogs presents difficulties, it serves as a reminder of nature's tragedies. This account demonstrates the malice of evil spirits and Christ's authority over both demons and the possessions of men.",
+        "wordCount": 94,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.5248298109889231,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+        "commentatorTierSimilarities": [
+            30.45,
+            24.44,
+            45.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The d\u00e6moniac was one whose being was strangely interpenetrated (\u2018possessed\u2019 is the most exact word that could be found) by one or more of those fallen spirits...",
+            "There appears to have been in him a double will and double consciousness\u2014sometimes the cruel spirit thinking and speaking in him, sometimes his poor crushed self crying out to the Saviour of men for mercy...",
+            "If what has been cited above be true, and the unchecked indulgence of sensual appetite afforded an inlet for the powers of evil to possess the human demoniac, then we have their influence joined to that part of man\u2019s nature which he has in common with the brutes that perish, the animal and sensual soul."
+        ],
+        "Marvin Vincent": [
+            "Not an overhanding precipice, but a steep, almost perpendicular declivity, between the base of which and the water was a narrow margin of ground, in which there was not room for the swine to recover from their headlong rush.",
+            "Farther south the plain becomes so broad that the herd might have recovered and recoiled from the lake.",
+            " ",
+            "The article localizes the steep as in the vicinity of the pasture."
+        ],
+        "Philip Schaff": [
+            "The fact of the possession of the swine is stated. It is not more improbable than that the human body could be under demoniacal control.",
+            "The whole herd, etc. The simultaneous rush of the whole herd was not a natural movement, but due to the possessed, since few gregarious animals are so marked by individual stubbornness as swine.",
+            "Mere sensuous life and demoniacal influence stand in some relation; hence this is a warning against sensualism."
+        ],
+        "Archibald T. Robertson": [
+            "The influence of mind on matter is now understood better than formerly, but we have the mastery of the mind of the Master on the minds of the maniacs, the power of Christ over the demons, over the herd of hogs.",
+            "Difficulties in plenty exist for those who see only folk-lore and legend, but plain enough if we take Jesus to be really Lord and Saviour.",
+            "The incidental destruction of the hogs need not trouble us when we are so familiar with nature's tragedies which we cannot comprehend."
+        ],
+        "John Gill": [
+            "Without divine permission, these evil spirits cannot do anything to the bodies, souls, or estates of men.",
+            "It may be asked, why did Christ suffer the devils to enter the herd of swine, and destroy them, which was a considerable loss to the proprietors? To which may be answered, that if the owners were Jews, and these creatures were brought up by them for food, it was a just punishment of their breach of the law of God.",
+            "This was suffered to show the malice of the evil spirits, under whose influence they were, and who would, if they had but leave, serve them as they did the swine; and to display the power of Christ over the devils, and his sovereign right to, and disposal of the goods and properties of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The d\u00e6moniac in Matthew 8:32 was a man whose being was possessed by fallen spirits, resulting in a double will and consciousness. His pleas for mercy from Jesus revealed the battle between the cruel spirit and his crushed self. This possession was likely influenced by the unchecked indulgence of sensual appetite, linking the powers of evil to man's animal and sensual soul. The fierce rush of the swine into the lake was not a natural movement, but a result of the possessed, illustrating the power of Christ over the demons. While the destruction of the hogs might present difficulties for some, it serves as a reminder of nature's tragedies that surpass human comprehension. Through this account, we witness the malice of evil spirits and the authority of Christ over not only demons but also the possessions and properties of men.",
+            "wordCount": 141,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6410258669826003,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                30.52,
+                27.04,
+                42.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The d\u00e6moniac in this account was a man possessed by fallen spirits, highlighting the battle between the cruel spirit and his crushed self. The possession was likely influenced by the indulgence of sensual appetite, linking evil powers to man's sensual soul. The rush of the swine into the lake revealed the power of Jesus over demons. While the destruction of the hogs presents difficulties, it serves as a reminder of nature's tragedies. This account demonstrates the malice of evil spirits and Christ's authority over both demons and the possessions of men.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.5248298109889231,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+            "commentatorTierSimilarities": [
+                30.45,
+                24.44,
+                45.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The possessed d\u00e6moniac in this passage reflects the interpenetration of fallen spirits within him, leading to a dual will and consciousness. The indulgence of sensual appetite allowed the influence of evil to possess his animal and sensual soul. The rush of the swine into the lake displayed Jesus' dominion over demons. While the destruction of the hogs may puzzle some, it serves to highlight the incomprehensible tragedies of nature. This account reveals the malice of evil spirits and affirms Christ's authority over both demons and worldly possessions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5260771813360208,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                29.79,
+                27.87,
+                42.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The d\u00e6moniac in this account was under the possession of fallen spirits, resulting in a double will, consciousness, and the influence of sensual appetite. The rush of the swine into the lake demonstrated Jesus' power over demons. Although the destruction of the hogs may raise questions, it serves as a reminder of nature's tragedies. This episode reveals the malice of evil spirits and affirms Christ's authority over demons and worldly possessions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.5133603682285792,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                28.47,
+                28.82,
+                42.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The d\u00e6moniac in this account was strangely possessed by fallen spirits, leading to a double will and consciousness where the cruel spirit and his crushed self fought for control. This possession was likely connected to the indulgence of sensual appetite, linking the powers of evil to man's animal and sensual soul. The simultaneous rush of the whole herd of swine into the lake was not a natural movement but due to the influence of the possessed, illustrating the power of Christ over demons. The destruction of the hogs, though troubling, highlights the existence of incomprehensible tragedies. This incident showcases the malice of evil spirits and Christ's authority over both demons and human possessions.",
+            "wordCount": 115,
+            "quoteTokenProportion": 28.38,
+            "qualityScore": 1.7156301411049464,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                28.88,
+                30.32,
+                40.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

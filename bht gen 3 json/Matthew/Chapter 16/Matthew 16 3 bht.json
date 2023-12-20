@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 23:48:46",
+    "verseRef": "Matthew 16:3",
+    "bestBHT": {
+        "bht": "The blindness of the Jews to the signs of their times is evident throughout their history. They failed to recognize the departure of the scepter from Judah and the nearing end of the prophetic weeks. Likewise, many today are blind to the signs of their own time, focusing solely on immediate gain. We must not be gullible like them, but rather have the discernment to recognize the signs and understand the significance of the present moment.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.6928556249435571,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+        "commentatorTierSimilarities": [
+            26.87,
+            34.48,
+            38.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Jews had been, and were, most blind to the signs of the times, at all the great crises of their history.\" ",
+            "The scepter had departed from Judah, the lawgiver no longer came forth from between his feet, the prophetic weeks of Daniel were just at their end; yet they discerned none of these things.",
+            "yet they discerned none of these things."
+        ],
+        "Marvin Vincent": [
+            "Lowering [\u03c3\u03c4\u03c5\u03b3\u03bd\u03b1\u03b6\u03c9\u03bd]. The verb means to have a gloomy look. Dr. Morison compares the Scotch gloaming or glooming."
+        ],
+        "John Calvin": [
+            "The same reproof applies nearly to the whole world; for men direct their ingenuity, and apply their senses, to immediate advantage; and therefore there is scarcely any man who is not sufficiently well qualified in this respect, or at least who is not tolerably acquainted with the means of gaining his object.",
+            "There are many persons of the same description in the present day, who plead that on intricate subjects they have a good right to suspend their judgment, because they must wait till the matter is fully ascertained.",
+            "A very absurd inference is drawn by some ignorant persons from this passage, that we are not at liberty to predict from the aspect of the sky whether we shall have fair or stormy weather. It is rather an argument which Christ founds on the regular course of nature, that those men deserve to perish for their ingratitude, who, while they are sufficiently acute in matters of the present life, yet knowingly and wilfully quench the heavenly light by their stupidity."
+        ],
+        "Philip Schaff": [
+            "The red at even of the Old Testament betokened fair weather at hand. Similarly, the red sky at the commencement of the New Testament, indicated the storm about to descend upon Israel. But they were incapable of understanding either one or other of these signs.\" (Lange's Comm.)",
+            "Ye can not. Not a question, but an assertion.",
+            "The signs of the times, i.e., the fulfilment of prophecy; the miracles performed before them, showing that the Messiah had come. The Jews, with the promise of the Messiah, ought to have been as quick in discerning the signs of His coming, as those of the weather."
+        ],
+        "Archibald T. Robertson": [
+            "This very sign of a rainy day we use today.",
+            "It is not always easy to discern the signs of our own time.",
+            "We ought not to be blind when others are gullible."
+        ],
+        "John Gill": [
+            "When you rise in the morning, and take a survey of the heavens, it is a very usual thing with you to say, it is like to be windy or rainy weather today, for the sky is red and lowring; which shows, that the clouds are so thick that the sun cannot pierce through them, and its face is not seen; so that it may be reasonably concluded they will issue in rain, or wind, or both.",
+            "but can ye not discern the signs of the times?...if they had not been blind, they might easily have discerned, that the signs of the time of the Messiah's coming were upon them, and that Jesus was the Messiah;",
+            "The secret of the day of death, they say, and the secret of the day when the king Messiah comes, who by his wisdom can find out?"
+        ],
+        "John Wesley": [
+            "The signs of the times \u2014 The signs which evidently show, that this is the time of the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, throughout their history, were consistently blind to the signs of the times, unable to discern the fulfillment of prophecy or the arrival of the Messiah. They failed to recognize the significant moments in their own history. Similarly, many individuals today direct their attention solely to immediate gain and fail to recognize the signs of their own time. Just as people can predict the weather based on the appearance of the sky, they should be able to discern the signs of the times. We must not be blind when others are gullible, but should instead have the discernment to recognize the signs and understand the significance of the present moment.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.670592816917964,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                24.5,
+                34.97,
+                40.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Throughout history, the Jews have repeatedly been blind to the signs of the times, notably failing to discern the fulfillment of prophecy and the arrival of the Messiah. This blindness extended to their inability to recognize the ending of prophetic weeks and their own changing circumstances. Today, many individuals also focus on immediate gain and lack discernment regarding the signs of the present moment. Just as people predict weather based on the appearance of the sky, we should be able to discern the signs of our own time and grasp their significance.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6791925786718314,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                21.34,
+                37.39,
+                41.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blindness of the Jews to the signs of their times is evident throughout their history. They failed to recognize the departure of the scepter from Judah and the nearing end of the prophetic weeks. Likewise, many today are blind to the signs of their own time, focusing solely on immediate gain. We must not be gullible like them, but rather have the discernment to recognize the signs and understand the significance of the present moment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6928556249435571,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                26.87,
+                34.48,
+                38.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Throughout their history, the Jews have consistently been blind to the signs of the times. They failed to discern the departure of the scepter from Judah, the nearing end of the prophetic weeks, and the fulfillment of prophecy regarding the Messiah. This same blindness is not exclusive to them but remains prevalent today. Many people focus solely on immediate gain, lacking the discernment to recognize the signs and understand the significance of the present moment. Let us be vigilant and not fall into the trap of blindness while others are gullible.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5493377423037487,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                26.9,
+                34.22,
+                38.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews were remarkably blind to the signs of the times throughout their history. They failed to discern the fulfillment of prophecy, including the departure of the scepter from Judah and the nearing end of the prophetic weeks. Unfortunately, this blindness is not uncommon today, as many people focus solely on immediate gain and are oblivious to the signs of their own time. Let us be diligent and open our eyes to understand the signs and significance of the present moment, avoiding the pitfalls of blindness and gullibility.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.633484854591726,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.66,
+            "commentatorTierSimilarities": [
+                26.07,
+                34.36,
+                39.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
